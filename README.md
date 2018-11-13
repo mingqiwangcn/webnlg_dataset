@@ -45,7 +45,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 * [The WebNLG Challenge: Generating Text from RDF Data](http://aclweb.org/anthology/W17-3518). C. Gardent, A. Shimorina, S. Narayan, L. Perez-Beltrachini. INLG 2017.
 
-* Handling Rare Items in Data-to-Text Generation. A. Shimorina, C. Gardent. INLG 2018 (to appear).
+* [Handling Rare Items in Data-to-Text Generation](http://aclweb.org/anthology/W18-6543). A. Shimorina, C. Gardent. INLG 2018.
 
 ## Citing
 
@@ -58,7 +58,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 		and Narayan, Shashi
 		and Perez-Beltrachini, Laura",
   title = 	"Creating Training Corpora for NLG Micro-Planners",
-  booktitle = 	"Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)    ",
+  booktitle = 	"Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
   year = 	"2017",
   publisher = 	"Association for Computational Linguistics",
   pages = 	"179--188",
@@ -78,7 +78,9 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
   booktitle = 	"Proceedings of the 11th International Conference on Natural Language Generation",
   year = 	"2018",
   publisher = 	"Association for Computational Linguistics",
-  location = 	"Tilburg, The Netherlands"
+  pages = 	"360--370",
+  location = 	"Tilburg University, The Netherlands",
+  url = 	"http://aclweb.org/anthology/W18-6543"
 }
 ```
 
