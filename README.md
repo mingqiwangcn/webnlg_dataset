@@ -34,7 +34,9 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 	Contains the data used in the [WebNLG Challenge 2017](http://webnlg.loria.fr/pages/results.html).
 	
-	Covers 10 DBpedia categories (the _City_ category only partially). 
+	Covers 10 DBpedia categories (the _City_ category only partially).
+	
+	The [enriched version](https://github.com/ThiagoCF05/webnlg) is available.
 
 ## Documentation
 
