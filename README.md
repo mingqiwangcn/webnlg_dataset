@@ -42,6 +42,10 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 [http://webnlg.loria.fr/pages/docs.html](http://webnlg.loria.fr/pages/docs.html)
 
+### Other related resources
+* Detect typos in WebNLG: [link](https://github.com/abevieiramota/challenge-webnlg/blob/master/notebook/14%20-%20Searching%20misspellings%20in%20references.ipynb)
+* Enriched version of WebNLG (German silver-standard translation, delexicalised templates, etc): [link](https://github.com/ThiagoCF05/webnlg)
+
 ## Publications
 * [Creating Training Corpora for NLG Micro-Planners](http://www.aclweb.org/anthology/P17-1017). C. Gardent, A. Shimorina, S. Narayan, L. Perez-Beltrachini. ACL 2017.
 
