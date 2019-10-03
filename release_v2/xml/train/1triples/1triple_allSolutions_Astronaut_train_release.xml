@@ -792,7 +792,6 @@
       <lex comment="good" lid="Id1">William Anders was a Fighter pilot.</lex>
       <lex comment="good" lid="Id2">William Anders served as a Fighter pilot.</lex>
       <lex comment="good" lid="Id3">William Anders is a fighter pilot.</lex>
-      <lex comment="good" lid="Id4">William Anders is a test pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -823,9 +822,9 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William anders spent 8820 minutes in space.</lex>
       <lex comment="good" lid="Id2">William Anders spent 8820.0 minutes in space.</lex>
-      <lex comment="good" lid="Id3">William Anders time in space has been 8820.0 minutes.</lex>
+      <lex comment="good" lid="Id3">William Anders' time in space has been 8820.0 minutes.</lex>
       <lex comment="good" lid="Id4">William Anders walked in space 8820.0 minutes.</lex>
-      <lex comment="good" lid="Id5">William Anders time in space is 8820.0 minutes.</lex>
+      <lex comment="good" lid="Id5">William Anders' time in space is 8820.0 minutes.</lex>
     </entry>
     <entry category="Astronaut" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -839,7 +838,7 @@
       <lex comment="good" lid="Id3">United States's Ambassador to Norway is William Anders.</lex>
       <lex comment="good" lid="Id4">William Anders is the US Ambassador to Norway.</lex>
       <lex comment="good" lid="Id5">William Anders' title is the US Ambassador to Norway.</lex>
-      <lex comment="good" lid="Id6">William Anders title is the United States Ambassador to Norway.</lex>
+      <lex comment="good" lid="Id6">William Anders' title is the United States Ambassador to Norway.</lex>
       <lex comment="good" lid="Id7">William Anders is the United States Ambassador to Norway.</lex>
     </entry>
     <entry category="Astronaut" eid="Id71" shape="(X (X))" shape_type="NA" size="1">

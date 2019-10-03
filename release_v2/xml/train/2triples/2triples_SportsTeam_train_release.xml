@@ -169,9 +169,9 @@
         <mtriple>A.C._Cesena | ground | Cesena</mtriple>
         <mtriple>A.C._Cesena | league | Serie_B</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A&gt;C Cesena ground is in Cesena, the team is in the Serie B league.</lex>
+      <lex comment="good" lid="Id1">A.C. Cesena ground is in Cesena, the team is in the Serie B league.</lex>
       <lex comment="good" lid="Id2">A.C. Cesena, in the Serie B league, ground is in Cesena.</lex>
-      <lex comment="good" lid="Id3">AC Cesana play in Serie B and their ground is in Cesena.</lex>
+      <lex comment="good" lid="Id3">AC Cesena play in Serie B and their ground is in Cesena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -197,7 +197,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Cesena, whose ground is located in Italy, are in the Serie B league.</lex>
       <lex comment="good" lid="Id2">A.C. Cesena's ground is located in Italy and they are in the Serie B league.</lex>
-      <lex comment="good" lid="Id3">A. C. Cesana, whose ground is located in Italy, plays in Serie B.</lex>
+      <lex comment="good" lid="Id3">A. C. Cesena, whose ground is located in Italy, plays in Serie B.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -237,7 +237,7 @@
         <mtriple>A.C._Cesena | league | Serie_B</mtriple>
         <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesana's ground is the Stadio Dino Manuzzi and they play in Serie B.</lex>
+      <lex comment="good" lid="Id1">A.C. Cesena's ground is the Stadio Dino Manuzzi and they play in Serie B.</lex>
       <lex comment="good" lid="Id2">AC Cesena, who are in the Serie B league, have their grounds at the Stadio Dino Manuzzi.</lex>
       <lex comment="good" lid="Id3">A.C. Cesena's ground is Stadio Dino Manuzzi, he played in Serie B.</lex>
     </entry>
@@ -402,7 +402,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio Chievo Verona is managed by Rolando Maran, who is in the Unione Triestina 2012 S.S.D. club.</lex>
       <lex comment="good" lid="Id2">The manager of A.C. Chievo Verona is Rolando Maran, who played for Unione Triestina 2012 S.S.D.</lex>
-      <lex comment="good" lid="Id3">Associazione Calcio ChievoVerona is managed by Rolando Maran who plays for Unione Triestina 2012 SSD.</lex>
+      <lex comment="good" lid="Id3">Associazione Calcio Chievo Verona is managed by Rolando Maran who plays for Unione Triestina 2012 SSD.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -476,7 +476,7 @@
         <mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Michele Marcolini's club is A.C&gt; Chievo Verona and he manages the A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id1">Michele Marcolini's club is A.C. Chievo Verona and he manages the A.C. Lumezzane.</lex>
       <lex comment="good" lid="Id2">A.C Chievo Verona, is the club of Michele Marcolini, who has been the manager of AC Lumezzane.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini, manager of AC Lumezzane, plays for A.C. Chievo Verona.</lex>
     </entry>

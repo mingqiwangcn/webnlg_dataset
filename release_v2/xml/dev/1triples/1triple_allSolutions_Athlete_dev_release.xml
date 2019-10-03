@@ -52,7 +52,7 @@
       <modifiedtripleset>
         <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The footballer, Abner belongs to the club, C.D. FAS.</lex>
+      <lex comment="good" lid="Id1">The footballer Abner belongs to the club C.D. FAS.</lex>
       <lex comment="good" lid="Id2">The footballer Abner plays for C.D. FAS.</lex>
       <lex comment="good" lid="Id3">Abner is a footballer for the CD FAS club.</lex>
     </entry>
@@ -197,7 +197,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Footballer, Alan Martin, plays for the club, Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id1">Footballer, Alan Martin, plays for the club Crewe Alexandra F.C.</lex>
       <lex comment="good" lid="Id2">The footballer Alan Martin plays for Crewe Alexandra F.C.</lex>
       <lex comment="good" lid="Id3">Alan Martin is a footballer for the Crewe Alexandra FC.</lex>
     </entry>
@@ -329,7 +329,7 @@
       <modifiedtripleset>
         <mtriple>FC_Tom_Tomsk | league | Russian_Football_National_League</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The league FC Tom Tomsk plays in is the Russian Football National League.</lex>
+      <lex comment="good" lid="Id1">The league FC Tom Tomsk plays in the Russian Football National League.</lex>
       <lex comment="good" lid="Id2">FC Tom Tomsk play in the Russian National Football League.</lex>
       <lex comment="good" lid="Id3">FC Tom Tomsk play in the Russian Football National League.</lex>
     </entry>
