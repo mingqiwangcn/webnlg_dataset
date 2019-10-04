@@ -320,7 +320,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore where Tony Tan is a leader.</lex>
       <lex comment="good" lid="Id2">Tony Tan is the leader of Singapore, from where Beef kway teow originates.</lex>
-      <lex comment="good" lid="Id3">Beef kway teow originates from Singapore and it's leader is Tony Tan.</lex>
+      <lex comment="good" lid="Id3">Beef kway teow originates from Singapore and its leader is Tony Tan.</lex>
     </entry>
     <entry category="Food" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -335,7 +335,7 @@
         <mtriple>Bhajji | country | India</mtriple>
         <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji originates from India and Sumitra Mahajan is it's leader.</lex>
+      <lex comment="good" lid="Id1">Bhajji originates from India and Sumitra Mahajan is its leader.</lex>
       <lex comment="good" lid="Id2">Bhajji comes from India where the leader is Sumitra Mahajan.</lex>
       <lex comment="good" lid="Id3">Bhajji originates from India where the leader is Sumitra Mahajan.</lex>
     </entry>
@@ -411,7 +411,7 @@
         <mtriple>Bionico | course | Dessert</mtriple>
         <mtriple>Bionico | ingredient | Granola</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bionico is a dessert and it requires granola as one of it's ingredients.</lex>
+      <lex comment="good" lid="Id1">Bionico is a dessert and it requires granola as one of its ingredients.</lex>
       <lex comment="good" lid="Id2">Bionico is a dessert, requiring granola as one of its ingredients.</lex>
       <lex comment="good" lid="Id3">Bionico is a dessert that includes the ingredient granola.</lex>
     </entry>

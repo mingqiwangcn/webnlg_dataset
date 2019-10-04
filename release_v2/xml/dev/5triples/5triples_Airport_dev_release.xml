@@ -36,7 +36,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Serving the city of Abilene in Texas, is Abilene Regional Airport. It has the ICAO location identifier KABI and the runway name 17R/35L. The airport is 546 metres above sea level and has a runway length of 2194.0.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is served by Abilene Regional Airport which has the ICAO location identifier of KABI. It is located 546 metres above sea level and has a runway 2194 metres long with the name of 17R/35L.</lex>
-      <lex comment="good" lid="Id3">Abilene Regional Airport serves the city of Abilene in Texas, it's ICAO identifier is KABI, it's runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.</lex>
+      <lex comment="good" lid="Id3">Abilene Regional Airport serves the city of Abilene in Texas, its ICAO identifier is KABI, its runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.</lex>
     </entry>
     <entry category="Airport" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -78,7 +78,7 @@
         <mtriple>Uttar_Pradesh | leaderName | Ram_Naik</mtriple>
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh Bundelkhand, it's ICAO location identifier is VIAG. the leader of Utterar Pradesh is Ram Naik.</lex>
+      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh Bundelkhand, its ICAO location identifier is VIAG. the leader of Utterar Pradesh is Ram Naik.</lex>
       <lex comment="good" lid="Id2">Agra Airport is located in Uttar Pradesh. Uttar Pradesh is part of both Awadh ad Bundelkhand. The Airport's ICAO location identifier is "VIAG". The leader of Uttar Pradesh is called Ram Naik.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">

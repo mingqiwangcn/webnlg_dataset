@@ -35,7 +35,7 @@
         <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and it's length is 17068.8 millimetres.</lex>
+      <lex comment="good" lid="Id1">The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and its length is 17068.8 millimetres.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3, built by the American Locomotive Company, has a V12 cylinder engine and is 17068.8mm long. It was produced from May 1950 to August 1956.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 was produced from May 1950 to August 1956 by the American Locomotive Company. It has a V12, 12 cylinder engine and is 17068.8mm long.</lex>
     </entry>
@@ -266,7 +266,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carnival Corporation &amp; plc is the parent company of Costa Crociere in Genoa, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruises.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. It's owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. Its owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.</lex>
       <lex comment="good" lid="Id3">Meyer Werft built the AIDAstella which is operated by the AIDA Cruise Line. It is owned by Costa Crociere who are located in Genoa and have Carnival Corporation &amp; plc as their parent company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

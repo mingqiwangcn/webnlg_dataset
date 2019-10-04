@@ -138,7 +138,7 @@
         <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Frew plays rock music, which originated from country music.</lex>
-      <lex comment="good" lid="Id2">Alan Frews' musical genre is rock music, which originated from country music.</lex>
+      <lex comment="good" lid="Id2">Alan Frew's musical genre is rock music, which originated from country music.</lex>
       <lex comment="good" lid="Id3">Alan Frew plays rock music which has its roots in country music.</lex>
     </entry>
     <entry category="Artist" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -434,7 +434,7 @@
         <mtriple>Alfredo_Zitarrosa | birthPlace | Uruguay</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa was born in Tabaré Vázquez led Uruguay.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa's birthplace was Uruguay where it's leader is Tabaré Vázquez.</lex>
+      <lex comment="good" lid="Id2">Alfredo Zitarrosa's birthplace was Uruguay where the leader is Tabaré Vázquez.</lex>
       <lex comment="good" lid="Id3">Tabare Vazquez is the leader of Uruguay where Alfredo Zitarrosa was born.</lex>
     </entry>
     </entries>

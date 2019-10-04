@@ -440,8 +440,8 @@
         <mtriple>Texas | country | United_States</mtriple>
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is it's biggest city.</lex>
-      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas, the capital city of which, is Austin . Houston is the largest city in Texas, which is in the United States.</lex>
+      <lex comment="good" lid="Id1">Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is its biggest city.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas, the capital city of which, is Austin. Houston is the largest city in Texas, which is in the United States.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
