@@ -245,7 +245,7 @@
       <modifiedtripleset>
         <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">One of the ethnic groups in Japan in the Brazilians.</lex>
+      <lex comment="good" lid="Id1">One of the ethnic groups in Japan is the Brazilians.</lex>
       <lex comment="toFix" lid="Id2">The Brazilians in Japan are an ethnic group found in Japan.</lex>
     </entry>
     <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
@@ -281,7 +281,7 @@
         <mtriple>Republic_of_Ireland | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ireland official language is Irish English.</lex>
-      <lex comment="toFix" lid="Id2">English language is the main language of the Republic of Ireland.</lex>
+      <lex comment="good" lid="Id2">The English language is the main language of the Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">One language used in the Republic of Ireland is English.</lex>
     </entry>
     <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">

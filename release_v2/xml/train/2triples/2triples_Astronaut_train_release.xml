@@ -150,7 +150,7 @@
       <lex comment="good" lid="Id3">Alan Shepard is an American who was born in New Hampshire.</lex>
       <lex comment="good" lid="Id4">Alan Shepard is a US citizen born in New Hampshire.</lex>
       <lex comment="good" lid="Id5">Alan Shepard has a US nationality and was born in the New Hampshire.</lex>
-      <lex comment="toFix" lid="Id6">Alan Shepard was born in New Hampshire (US(.</lex>
+      <lex comment="good" lid="Id6">Alan Shepard was born in New Hampshire (US).</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -179,7 +179,7 @@
       <lex comment="good" lid="Id2">Alan Shepard died in California om July 21, 1998.</lex>
       <lex comment="good" lid="Id3">Alan Shepard died in California on July 21st, 1998.</lex>
       <lex comment="good" lid="Id4">Alan Shepard died in California on 1998-07-21.</lex>
-      <lex comment="toFix" lid="Id5">Alan Shepard passed away on 1998-07-21 in California.</lex>
+      <lex comment="good" lid="Id5">Alan Shepard passed away on 1998-07-21 in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -404,7 +404,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard's Distinguished Service Medal from the U.S. Navy ranks higher than Department of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was the recipient of the Distinguished Service Medal in the United States Navy and this is a medal that is ranked higher than Department of Commerce Gold Medal.</lex>
-      <lex comment="toFix" lid="Id3">in the higher rank of Department of Commerce Gold Medal Alan Shepard got one of the Distinguished Service Medal of United States Navy.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard got the Distinguished Service Medal of United States Navy, which has a higher rank than the Department of Commerce Gold Medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -507,7 +507,7 @@
       <lex comment="good" lid="Id1">Elliot See, who is now dead, was born in Dallas.</lex>
       <lex comment="good" lid="Id2">Elliot See, who was born in Dallas, has died.</lex>
       <lex comment="good" lid="Id3">Eliot See (deceased) was born in Dallas.</lex>
-      <lex comment="toFix" lid="Id4">Elliot See, deceased. was born in Dallas.</lex>
+      <lex comment="good" lid="Id4">Elliot See, deceased, was born in Dallas.</lex>
       <lex comment="good" lid="Id5">Elliot See, born in Dallas, has already passed away.</lex>
     </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -519,10 +519,9 @@
         <mtriple>Elliot_See | status | "Deceased"</mtriple>
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Elliot See is died in St. Louis.</lex>
+      <lex comment="good" lid="Id1">Elliot See died in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See passed away in St Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See is deceased and died in St. Louis.</lex>
-      <lex comment="good" lid="Id4">Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -599,7 +598,7 @@
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
       <lex comment="good" lid="Id2">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
       <lex comment="good" lid="Id3">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
-      <lex comment="toFix" lid="Id4">Willian Anders born in British Hong Kong served as a fighter pilot.</lex>
+      <lex comment="good" lid="Id4">Willian Anders who was born in British Hong Kong served as a fighter pilot.</lex>
       <lex comment="good" lid="Id5">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">

@@ -264,7 +264,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on 18th November 1923, graduated from NWC with a M.A. in 1957, retired on 1st August 1974 and died in California. He was awarded the Distinguished Service Medal by The United States Navy.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire on Nov 18, 1923, retired on August 1st, 1974 and died in California. He was graduated from NWC in 1957 with a M.A. and was awarded the Distinguished Service Medal by The United States Navy.</lex>
-      <lex comment="toFix" lid="Id3">Alan Shepard (born on Nov 18, 1923 in New Hampshire) graduated from NWC, M.A. in 1957 and been awarded the Distinguished Service Medal by the United States Navy, who retired 1st of August 1974 has died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard (born on Nov 18, 1923 in New Hampshire) graduated from NWC, M.A. in 1957 and been awarded the Distinguished Service Medal by the United States Navy. He retired 1st of August 1974 and has died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -365,7 +365,7 @@
         <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Alan Shepard (born in New Hampshire) graduated from NWC, M.A. in 1957 was awarded the Distinguished service Medal from the Navy which is higher than the department of commerce gold medal has died and deceased.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard (born in New Hampshire) graduated from NWC, M.A. in 1957. He was awarded the Distinguished service Medal from the Navy which is higher than the department of commerce gold medal. He died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id19" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -384,9 +384,9 @@
         <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
         <mtriple>Alan_Shepard | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepherd born in New Hampshire, United States, graduated from NWC in 1957 with a M.A. He served as a crew member on Apollo 12 and retired in 1974.</lex>
+      <lex comment="good" lid="Id1">Alan Shepherd born in New Hampshire, United States, graduated from NWC in 1957 with an M.A. He served as a crew member on Apollo 14 and retired on 01/08/1974.</lex>
       <lex comment="good" lid="Id2">American Alan Shepard was born in New Hampshire and died in California. He graduated from NWC with a M.A. in 1957, was on the crew for Apollo 14 and retired on 1974-08-01.</lex>
-      <lex comment="toFix" lid="Id3">Alan Shepard who is originally from New Hampshire graduated with an MA from NWC in 1957. He then went on to become a member of Apollo 14's crew before retiring in 1974. Alan Shepard died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard who is originally from New Hampshire (USA) graduated with an MA from NWC in 1957. He then went on to become a member of Apollo 14's crew before retiring on the 1st of August, 1974. Alan Shepard died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id20" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -688,7 +688,7 @@
         <mtriple>Alan_Bean | birthDate | "1932-03-15"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born on the 15th of March 1932 and selected to be part of NASA's Apollo 12 mission in 1963. Apollo 12 was commanded by David Scott and included backup pilot Alfred Worden.</lex>
-      <lex comment="toFix" lid="Id2">Alan Bean (born on March 15, 1932) was chosen by NASA in 1963 to be crew member of Apollo 12 and Alfred Worden as a backup pilot.The operator of Apollo 12 was NASA under command of David Scott.</lex>
+      <lex comment="good" lid="Id2">Alan Bean (born on March 15, 1932) was chosen by NASA in 1963 to be a crew member of Apollo 12, where Alfred Worden served as a backup pilot. The operator of Apollo 12 was NASA under command of David Scott.</lex>
       <lex comment="good" lid="Id3">Alan Bean was born on the 15th of March 1932. He joined NASA in 1963 and became a crew member on the Apollo 12 flight mission along with Alfred Worden as backup pilot and David Scott as commander.</lex>
     </entry>
     <entry category="Astronaut" eid="Id35" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -1277,7 +1277,7 @@
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born on the 23rd July 1927 in Dallas. He attended the University of Texas at Austin (affiliated to the university of Texas system). The University of Texas will compete in the Big 12 Conference. Elliot See died in St. Louis.</lex>
-      <lex comment="toFix" lid="Id2">Elliot See was born on 23rd July 1927 in Dallas.He was a student at University of Texas at Austin which affiliated to the University of Texas System.The University of Texas competed in the Big 12 Conference in Austin.Elliot died in St. Louis.</lex>
+      <lex comment="good" lid="Id2">Elliot See was born on 23rd July 1927 in Dallas. He was a student at University of Texas at Austin which is affiliated to the University of Texas System. The University of Texas competed in the Big 12 Conference in Austin. Elliot died in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See was born in Dallas on the 23rd of July 1927 .He graduated from the University of Texas at Austin which is competing in the Big 12 Conference. Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id64" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
@@ -1318,7 +1318,7 @@
         <mtriple>University_of_Texas_at_Austin | compete in | Big_12_Conference</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Elliot See attended the University of Texas in Austin, the school that is part of the University of Texas system and competes in the Big 12 Conference. He was born in Dallas on July 23rd, 1927.</lex>
-      <lex comment="toFix" lid="Id2">Elliot See was born in Dallas on the 23rd of July 1927. He attended the University of Texas at Austin who are competing in the Big 12 Conference.</lex>
+      <lex comment="good" lid="Id2">Elliot See was born in Dallas, USA on the 23rd of July 1927. He attended the University of Texas at Austin who are competing in the Big 12 Conference. The University of Texas is affiliated to the University of Texas System.</lex>
     </entry>
     <entry category="Astronaut" eid="Id66" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1482,7 +1482,7 @@
         <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The university of texas at Austin is affiliated to the university of texas system. It will compete in the Big 12 Conference. The Hook 'em is their mascot. Gregory L. Fenves is the President and Elliot See, born in Dallas, is a notable student.</lex>
-      <lex comment="toFix" lid="Id2">Gregory L.Fenves is appointed president on the University of Texas at Austin who Elliot See (born in Dallas) attended as a student.On that time, University of Texas is affiliated to the system and compete in the Big 12 Conference.The Hook`em is the mascot of University of Texas as Austin.</lex>
+      <lex comment="good" lid="Id2">Gregory L. Fenves is the appointed president of the University of Texas at Austin which Elliot See (born in Dallas) attended as a student. The University of Texas is affiliated to the University of Texas System and competes in the Big 12 Conference. The Hook `em is the mascot of University of Texas at Austin.</lex>
       </entry>
     <entry category="Astronaut" eid="Id74" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1501,7 +1501,7 @@
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
         <mtriple>Elliot_See | was selected by NASA | 1962</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Elliot see was born July 23, 1927. He joined NASA in 1862 and was a test pilot.He died in St Louis on 28 February, 1966.</lex>
+      <lex comment="good" lid="Id1">Elliot see was born July 23, 1927. He joined NASA in 1962 and was a test pilot. He died in St Louis on 28 February, 1966.</lex>
       <lex comment="good" lid="Id2">Test pilot Elliot See, who worked for NASA beginning 1962, was born July 23rd 1927 and died 1966-02-28 in St Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See served as a test pilot, joining NASA in 1962. Born on 07/23/1927, he lived only until 02/28/1966, when he died in St. Louis.</lex>
     </entry>
@@ -1706,7 +1706,7 @@
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
         <mtriple>William_Anders | was a crew member of | Apollo_8</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">William Anders was born Oct 17th in British Hong Kong. He was crew member on Apollo 8 in 1963. He retired.</lex>
+      <lex comment="good" lid="Id1">William Anders was born on Oct 17th 1933 in British Hong Kong. He was crew member on Apollo 8, chosen by NASA in 1963. He retired on 01/09/1969.</lex>
       <lex comment="good" lid="Id2">William Anders was born in British Hong Kong on the 17th of October 1933. NASA selected him in 1963, and he served as a crew member of Apollo 8. He retired on the 1st of September, 1969.</lex>
       </entry>
     <entry category="Astronaut" eid="Id85" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -1830,7 +1830,7 @@
         <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
+      <lex comment="good" lid="Id1">William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
     </entry>
   </entries>
 </benchmark>

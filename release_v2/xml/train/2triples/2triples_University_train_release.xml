@@ -335,9 +335,9 @@
         <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The 1 Decembrie 1918 University in Romania has an ethnic group called Germans of Romania.</lex>
-      <lex comment="toFix" lid="Id2">The 1 Decembrie 1918 University in Romania, has a large percentage of students from the native ethnic group, Germans of Romania.</lex>
-      <lex comment="toFix" lid="Id3">1 Decembrie 1918 University is located in Romania and is primarily German.</lex>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is in Romania, which has an ethnic group called Germans of Romania.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is situated in Romania. It has a native ethnic group, Germans of Romania.</lex>
+      <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in Romania, where one of the ethnic groups is the Germans.</lex>
     </entry>
     <entry category="University" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

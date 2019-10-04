@@ -421,7 +421,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDS (journal) comes under the academic discipline HIV.</lex>
       <lex comment="good" lid="Id2">The academic discipline of AIDS journal is HIV.</lex>
-      <lex comment="toFix" lid="Id3">The AIDS(journal) is the academic discipline of HIV.</lex>
+      <lex comment="good" lid="Id3">The AIDS (journal) publishes about HIV.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -433,7 +433,7 @@
       <modifiedtripleset>
         <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The AIDS journal studies HIV/AIDS.</lex>
+      <lex comment="good" lid="Id1">The AIDS journal studies HIV/AIDS.</lex>
       <lex comment="good" lid="Id2">The Aids Journal's discipline is HIV/AIDS.</lex>
       <lex comment="good" lid="Id3">The AIDS journal belongs to the academic discipline, HIV/AIDS.</lex>
     </entry>

@@ -1219,8 +1219,8 @@
         <mtriple>United_States_Air_Force | battles | Invasion_of_Grenada</mtriple>
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. They were involved in the Invasion of Grenada and deploy the aircraft fighter known as The General Dynamics F16 Fighting Falcon.</lex>
-      <lex comment="toFix" lid="Id2">The USAF, veterans of the invasion of Grenada with F16 fighting falcons, operates Al Asad Airbase.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. They were involved in the Invasion of Grenada and deploy the aircraft fighter known as the General Dynamics F16 Fighting Falcon.</lex>
+      <lex comment="good" lid="Id2">The USAF, veterans of the invasion of Grenada, operates Al Asad Airbase and possesses an aircraft fighter called General Dynamics F16 Fighting Falcon.</lex>
     </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

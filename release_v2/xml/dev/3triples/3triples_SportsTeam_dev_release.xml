@@ -72,8 +72,8 @@
         <mtriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"</mtriple>
         <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">A.D. Isidro Metapán are at Estadio Jorge Calero Suárez whose full name is Isidro Metapan and has 10000 members.</lex>
-      <lex comment="good" lid="Id2">A.D. Isidro Metapan, (full name, Isidro Metapan), has 10000 members and play their home games at the Estadio Jorge Caler0 Suarez stadium.</lex>
+      <lex comment="good" lid="Id1">A.D. Isidro Metapán are based at the Estadio Jorge Calero Suárez ground. Its full name is Isidro Metapan and it has 10000 members.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan (full name, Isidro Metapan) has 10000 members and play their home games at the Estadio Jorge Calero Suarez stadium.</lex>
       <lex comment="good" lid="Id3">Isidro Metapan (A.D. Isidro Metapan) has 10000 members and are at Estadio Jorge Calero Suarez.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -226,7 +226,7 @@
         <mtriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</mtriple>
         <mtriple>AFC_Ajax_(amateurs) | season | 2014</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">AFC Ajax (amateurs) has 5000 members play in the Hoofdklasse league and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id1">AFC Ajax (amateurs) has 5000 members; they play in the Hoofdklasse league and competed in the 2014 season.</lex>
       <lex comment="good" lid="Id2">AFC Ajax (Amateurs) competed in the 2014 season, they play in the Hoofdklasse league and the main team have 5000 members.</lex>
       <lex comment="good" lid="Id3">AFC Ajax, who played in the 2014 season, have 5000 members and play in the Hoofdklasse league.</lex>
     </entry>

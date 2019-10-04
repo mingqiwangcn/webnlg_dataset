@@ -3176,7 +3176,7 @@
         <mtriple>California_State_Assembly | location | California_State_Capitol</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly located in the California State Capitol. Chinese is spoken in some parts of that state.</lex>
-      <lex comment="toFix" lid="Id2">The California State Assembly is located in Anaheim, California, where Chinese language is also spoken.</lex>
+      <lex comment="good" lid="Id2">The California State Assembly is located in California State Capitol. It is a governing body of Anaheim, California, where Chinese language is also spoken.</lex>
       <lex comment="good" lid="Id3">Anaheim is part of California and led by the California State Assembly located at the California State Capitol. Chinese is a language spoken in California.</lex>
     </entry>
     <entry category="City" eid="Id130" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

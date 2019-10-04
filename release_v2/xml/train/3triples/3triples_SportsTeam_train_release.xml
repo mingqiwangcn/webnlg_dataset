@@ -565,7 +565,7 @@
         <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Lumezzane played in the Lega Pro during the 2014 season. and has 4150 members.</lex>
+      <lex comment="good" lid="Id1">Lumezzane played in the Lega Pro during the 2014-2015 season and has 4150 members.</lex>
       <lex comment="good" lid="Id2">A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014 season and still play in the same league.</lex>
       <lex comment="good" lid="Id3">A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro: 2014.</lex>
     </entry>
@@ -604,7 +604,7 @@
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The manager of A.C. Lumezzane is Michele Marcolini plays for A.C. Chievo Verona. and is at Torino F.C. club.</lex>
+      <lex comment="good" lid="Id1">The manager of A.C. Lumezzane is Michele Marcolini. He plays for A.C. Chievo Verona and is at Torino F.C. club.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini manages the A.C. Lumezzane and plays for both A.C. Chievo Verona and Torino F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id37" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1694,7 +1694,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens F.C. is in the Superleague of Greece (previous champions: Olympiacos), and their home ground is The Olympic Stadium (Athens).</lex>
       <lex comment="good" lid="Id2">The ground for AEK Athens FC is the Olympic Stadium (Athens) and they compete in the Superleague Greece. Previous champions of the superleague are Olympiacos FC.</lex>
-      <lex comment="toFix" lid="Id3">AEK Athens FC compete in the Superleague Greece are previous champions and home ground is The Olympic Stadium (Athens).</lex>
+      <lex comment="good" lid="Id3">AEK Athens FC compete in the Superleague Greece, whose previous champions are Olympiacos FC. Their home ground is the Olympic Stadium (Athens).</lex>
     </entry>
     <entry category="SportsTeam" eid="Id101" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2255,7 +2255,7 @@
         <mtriple>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense". The club has 17000 members and competed in the 2015 Campeonato Brasileiro Série C.</lex>
-      <lex comment="toFix" lid="Id2">The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense" has 17000 members and were in Campeonato Brasileiro Serie C in 2015.</lex>
+      <lex comment="good" lid="Id2">The Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense". It has 17000 members and it was in Campeonato Brasileiro Serie C in 2015.</lex>
       <lex comment="good" lid="Id3">Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense". They competed in the 2015 Campeonato Brasileiro Série C and have 17000 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id134" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2529,7 +2529,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.</lex>
-      <lex comment="toFix" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. whose leader is Pietro Grasso and capital is Rome.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Pietro Grasso and capital is Rome.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's leader is Pietro Grasso.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id151" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

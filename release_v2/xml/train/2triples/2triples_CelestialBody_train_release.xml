@@ -329,7 +329,7 @@
         <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">410777 2009 FD was discovered by Spacewatch and its epoch date is 27 June 2015.</lex>
-      <lex comment="toFix" lid="Id2">The epoch date of 410777 2009 FD is 27 June 2015 it was discovered by Spacewatch.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 410777 2009 FD is 27 June 2015, and it was discovered by Spacewatch.</lex>
       <lex comment="good" lid="Id3">(410777) 2009 FD has an epoch date of 27th June 2015 and was discovered by Spacewatch.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -710,7 +710,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A911 MD is the former name of 1001 Gaussia which has an epoch date of 31 July 2016.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 1001 Gaussia was formerly called A911 MD, its epoch date is 2015-06-27.</lex>
-      <lex comment="toFix" lid="Id3">1001 Gaussia's previously known as A911 MD epoch date is 2015-06-27.</lex>
+      <lex comment="good" lid="Id3">The epoch of 1001 Gaussia, previously known as A911 MD, is 2015-06-27.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1365,7 +1365,7 @@
         <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
         <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">1089 Tama has an orbital period of 1202.846 days, it's epoch date is the 26th of November 2005.</lex>
+      <lex comment="good" lid="Id1">1089 Tama has an orbital period of 1202.846 days; its epoch date is the 26th of November 2005.</lex>
       <lex comment="good" lid="Id2">1089 Tama has an orbital period of 1202.846 days and its epoch date is 26 November 2005.</lex>
       <lex comment="good" lid="Id3">1089 Tama has an orbital period of 1202.846 days and the epoch of 2005-11-26.</lex>
     </entry>

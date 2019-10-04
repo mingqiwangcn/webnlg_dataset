@@ -149,7 +149,7 @@
         <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Retired NASA test pilot chosen 1963. Alan Bean was a student at UT Austin, B.S. 1955.</lex>
+      <lex comment="good" lid="Id1">Retired NASA test pilot Alan Bean was a student at UT Austin. He received his B.S. in 1955. Alan Bean was born in Wheeler, Texas and was chosen by NASA in 1963.</lex>
       <lex comment="good" lid="Id2">Alan Bean, who was born in Wheeler, Texas, graduated from UT Austin in 1955 with a Bachelor of Science degree. He became a test pilot before joining NASA in 1963. He is now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -546,7 +546,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean is a US national who was a member of the Apollo 12 crew (operated by NASA). The back up pilot was Alfred Worden and the commander was David Scott.</lex>
       <lex comment="good" lid="Id2">Alan Bean is American and was a part of the crew of Apollo 12 operated by NASA. David Scott was the commander of Apollo 12 and Alfred Worden was the backup pilot.</lex>
-      <lex comment="toFix" lid="Id3">Alan Bean joined NASA and became a crew member of Apollo 12 along with Alfred Worden and David Scott.</lex>
+      <lex comment="good" lid="Id3">Alan Bean joined NASA and became a crew member of Apollo 12 along with the backup pilot Alfred Worden and the commander David Scott. Alan Bean was American.</lex>
     </entry>
     <entry category="Astronaut" eid="Id30" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -675,7 +675,7 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey in 1930. He was a crew member of Apollo 11 before he retired.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey, USA on the 20th of January, 1930. He was a crew member of Apollo 11 before he retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. He is now retired but was a member of the Apollo 11 crew,.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. Prior to his retiral he was a crew member on Apollo 11.</lex>
     </entry>
@@ -918,7 +918,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin graduated from MIT with a Sc.D in 1963. He was a fighter pilot and crew member of Apollo 11, which was organized by NASA. William Anders was a back up pilot on the Apollo 11 mission.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin graduated from MIT with a Sc.D in 1963 and went on to become a fighter pilot with NASA . He also became a part of the Apollo 11 crew.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin graduated from MIT with a Sc.D in 1963 and went on to become a fighter pilot with NASA. He also became a part of the Apollo 11 crew where William Anders was a backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id50" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -935,9 +935,9 @@
         <mtriple>California | senators | Dianne_Feinstein</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Alan Shepard was awarded the distinguished service medal from the United States Navy . He died in California.</lex>
-      <lex comment="good" lid="Id2">One of Alan Shepards achievements was being awarded the distinguished service medal by the United States Navy. He later died in California.</lex>
-      <lex comment="good" lid="Id3">Diane Feinstein represents the state of California, where one can find the gemstone Beintoite, as a senator. Alan Shepard recently died there . He was the recipient of the Distinguished Service Medal of the US Navy, an award higher than the Department of Commerce Gold Medal,.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was awarded the distinguished service medal from the United States Navy, which is higher in the rank than the Department of Commerce Gold Medal. He died in California where Dianne Feinstein is a senator. Benitoite is a gem stone found in California.</lex>
+      <lex comment="good" lid="Id2">One of Alan Shepard's achievements was being awarded the distinguished service medal by the United States Navy. He later died in California. A precious stone found in California is benitoite, and Dianne Feinstein is a senator there.</lex>
+      <lex comment="good" lid="Id3">Diane Feinstein represents the state of California, where one can find the gemstone Beintoite, as a senator. Alan Shepard recently died there. He was the recipient of the Distinguished Service Medal of the US Navy, an award higher than the Department of Commerce Gold Medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id51" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1139,7 +1139,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in the United States on July 23rd, 1927. He attended the University of Texas at Austin, which is part of the University of Texas system, and competes in the Big 12 competition.</lex>
       <lex comment="good" lid="Id2">American Elliot See ( born on 07/23/1927) attended the University of Texas at Austin who were affiliated to the University of Texas System and who also competed in the Big 12 Conference in Austin.</lex>
-      <lex comment="toFix" lid="Id3">Elliot See was born in 1927 and graduated from the University of Texas at Austin who are competing in the Big 12 Conference.</lex>
+      <lex comment="good" lid="Id3">Elliot See was born on 23 July, 1927 in the U.S. and graduated from the University of Texas at Austin who are competing in the Big 12 Conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id62" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1324,7 +1324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was a US national, who was born in Dallas. He died in St. Louis on the 28th February 1966.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas, USA. He died in St. Louis on February 28th 1966.</lex>
-      <lex comment="toFix" lid="Id3">Elliot See was born on February 28, 1966 in Dallas and passed away in St. Louis.</lex>
+      <lex comment="good" lid="Id3">Elliot See was born on February 28, 1966 in Dallas, US, and passed away in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id72" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1342,7 +1342,7 @@
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was a US citizen, who was born in Dallas. He was a test pilot. He died in St. Louis.</lex>
-      <lex comment="toFix" lid="Id2">Elliot See who was originally born in Dallas worked as a test pilot before he died in St.Louis.</lex>
+      <lex comment="good" lid="Id2">Elliot See who was originally born in Dallas, USA, worked as a test pilot before he died in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See, a test pilot,has died in St Louis. He was born in Dallas, Texas, USA.</lex>
     </entry>
     <entry category="Astronaut" eid="Id73" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">

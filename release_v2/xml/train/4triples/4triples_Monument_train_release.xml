@@ -239,7 +239,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, established in 2000, can be found in Adams County Pennsylvania. The county is bordered to the north by Cumberland county and to the southeast by Carol County.</lex>
       <lex comment="good" lid="Id2">In 2000 the 11th Mississippi Infantry monument was established in Adams County, Pennsylvania. This County is south of Cumberland County and to the northwest of Carroll County, Maryland.</lex>
-      <lex comment="toFix" lid="Id3">11th Mississippi Infantry Monument was established in 2000 and is located in Adams County Pennsylvania, the north of which is which is Cumberland County and to its southeast is Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id3">11th Mississippi Infantry Monument was established in 2000 and is located in Adams County Pennsylvania, to the north of which is Cumberland County and to its southeast is Carroll County, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id15" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -540,8 +540,8 @@
         <mtriple>England | languages | Cornish_language</mtriple>
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Dead Man' plack is made of rock and found in Cornwall, a region of England (the capital of which is London)where Cornish is spoken.</lex>
-      <lex comment="good" lid="Id2">The Dead Man's Plack is a rock formation in Cornwall. Located to the west of England's capital, London, Cornwall is a county with its own language, known as Cornish.</lex>
+      <lex comment="good" lid="Id1">Dead Man's plack is made of rock and found in England (the capital of which is London) where Cornish is spoken.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is a monument made of rock situated in England. The capital of England is London, and Cornish is one of languages spoken in England.</lex>
       </entry>
     <entry category="Monument" eid="Id33" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -810,7 +810,7 @@
         <mtriple>Turkey | capital | Ankara</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Ahmet Davutoglu is the President of Turkey. The capital of Turkey is Ankara, and the Ataruk Monument (Izmir) is located in Turkey.</lex>
+      <lex comment="good" lid="Id1">Ahmet Davutoglu is the President of Turkey. The capital of Turkey is Ankara, and the Ataturk Monument (Izmir) is located in Turkey.</lex>
       <lex comment="good" lid="Id2">The Atatürk Monument (İzmir) is found in Turkey, where the capital city is Ankara and the leader (President of Turkey) is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id3">The leader and President of Turkey is Ahmet Davutoglu. The Ataturk monument (Izmir) is located in Turkey where the capital is Ankara.</lex>
     </entry>

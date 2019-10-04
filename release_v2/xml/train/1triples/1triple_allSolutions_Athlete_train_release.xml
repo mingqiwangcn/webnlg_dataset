@@ -3125,8 +3125,8 @@
         <mtriple>St._Louis_Rams | coach | Jeff_Fisher</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jeff Fisher is the coach of the St Louis Rams.</lex>
-      <lex comment="toFix" lid="Id2">Jeff Fisher is coach for the St. Louis Rams.</lex>
-      <lex comment="toFix" lid="Id3">Jeff Fisher is coach of the St. Louis Rams.</lex>
+      <lex comment="good" lid="Id2">Jeff Fisher is a coach for the St. Louis Rams.</lex>
+      <lex comment="good" lid="Id3">Jeff Fisher is a coach of the St. Louis Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id275" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3135,9 +3135,9 @@
       <modifiedtripleset>
         <mtriple>St._Louis_Rams | coach | Joe_Vitt</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Joe Vitt is coach for the St. Louis Rams.</lex>
+      <lex comment="good" lid="Id1">Joe Vitt is the coach for the St. Louis Rams.</lex>
       <lex comment="good" lid="Id2">Joe Vitt is the coach of the St. Louis Rams.</lex>
-      <lex comment="toFix" lid="Id3">Joe Vitt is coach of the St. Louis Rams.</lex>
+      <lex comment="good" lid="Id3">Joe Vitt is a coach of the St. Louis Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id276" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

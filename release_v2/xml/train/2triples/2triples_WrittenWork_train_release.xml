@@ -460,8 +460,8 @@
         <mtriple>ACM_Transactions_on_Information_Systems | academicDiscipline | Computer_science</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACM Transactions on Information Systems has the abbreviation of ACM Trans. Inf. Syst and is part of the academic discipline of computer science.</lex>
-      <lex comment="toFix" lid="Id2">ACM Trans. Inf. Syst. is the abbreviation of ACM Transactions on Information Systems which is part of the academic Discipline of Computer Science.</lex>
-      <lex comment="toFix" lid="Id3">The abbreviation "ACM Trans. Inf. Syst." is for ACM Transactions on Information Systems which is part of the academic Discipline of Computer Science.</lex>
+      <lex comment="good" lid="Id2">ACM Trans. Inf. Syst. is the abbreviation of ACM Transactions on Information Systems which publishes in the domain of Computer Science.</lex>
+      <lex comment="good" lid="Id3">The abbreviation "ACM Trans. Inf. Syst." is for ACM Transactions on Information Systems whose academic discipline is Computer Science.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

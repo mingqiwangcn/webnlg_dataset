@@ -464,7 +464,7 @@
       <modifiedtripleset>
         <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The 320 South Boston Building is 121.92 metres.</lex>
+      <lex comment="good" lid="Id1">The 320 South Boston Building is 121.92 metres high.</lex>
       <lex comment="good" lid="Id2">The 320 South Boston Building has a height of 121.92 metres.</lex>
       <lex comment="good" lid="Id3">320 South Boston Building is 121.92 metres in height.</lex>
     </entry>
@@ -1232,7 +1232,7 @@
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The location of Amdavad ni Gufa is Ahmedabad.</lex>
+      <lex comment="good" lid="Id1">The location of Amdavad ni Gufa is Ahmedabad.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in Ahmedabad.</lex>
     </entry>
     <entry category="Building" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
@@ -1766,7 +1766,7 @@
       <modifiedtripleset>
         <mtriple>Denmark | language | German_language</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">One of the languages in Denmark is the German.</lex>
+      <lex comment="good" lid="Id1">One of the languages in Denmark is German.</lex>
       <lex comment="good" lid="Id2">One of the languages used in Denmark is the German language.</lex>
     </entry>
     <entry category="Building" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
@@ -1787,7 +1787,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lars Lokke Rasmussen is Denmark's leader.</lex>
       <lex comment="good" lid="Id2">The leader of Denmark is Lars Løkke Rasmussen.</lex>
-      <lex comment="toFix" lid="Id3">Lars Løkke Rasmussen is the prime minister of Denmark.</lex>
+      <lex comment="good" lid="Id3">Lars Løkke Rasmussen is the prime minister of Denmark.</lex>
     </entry>
     <entry category="Building" eid="Id166" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

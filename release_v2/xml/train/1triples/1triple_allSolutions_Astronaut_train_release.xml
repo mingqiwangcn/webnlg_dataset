@@ -8,7 +8,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The Alma Mater of Alan Bean is UT Austin, B.S. 1955.</lex>
+      <lex comment="good" lid="Id1">The alma mater of Alan Bean is UT Austin. He graduated from it with a B.S. in 1955.</lex>
       <lex comment="good" lid="Id2">Alan Bean graduated in 1955 from UT Austin with a B.S.</lex>
       <lex comment="good" lid="Id3">Alan Bean graduated from UT Austin in 1955 with a B.S.</lex>
       <lex comment="good" lid="Id4">Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree.</lex>
@@ -45,8 +45,7 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas.</lex>
-      <lex comment="toFix" lid="Id2">Alan Bean's birthplace is Wheeler,, Texas.</lex>
-      <lex comment="good" lid="Id3">Alan Bean's birth place is Wheeler, Texas.</lex>
+      <lex comment="good" lid="Id2">Alan Bean's birthplace is Wheeler, Texas.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -132,10 +131,10 @@
       <modifiedtripleset>
         <mtriple>Alan_Shepard | almaMater | "NWC, M.A. 1957"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard graduated from NWC with a M.A. in 1957.</lex>
-      <lex comment="toFix" lid="Id2">Alan Shepard graduated from NWC in 1957 with a M.A.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard graduated from NWC with an M.A. in 1957.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard graduated from NWC in 1957 with an M.A.</lex>
       <lex comment="good" lid="Id3">Alan Shepard went to school at NWC and graduated with an MA in 1957.</lex>
-      <lex comment="toFix" lid="Id4">Alan Shepard graduated from NWC, M.A. in 1957.</lex>
+      <lex comment="good" lid="Id4">Alan Shepard graduated from NWC with the master of arts degree in 1957.</lex>
     </entry>
     <entry category="Astronaut" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -616,7 +615,7 @@
       <lex comment="good" lid="Id1">NASA selected Elliot See in 1962.</lex>
       <lex comment="good" lid="Id2">Elliot See joined NASA in 1962.</lex>
       <lex comment="good" lid="Id3">Elliot See was selected by NASA in 1962.</lex>
-      <lex comment="toFix" lid="Id4">Elliot See worked for NASA beginning in 1962,.</lex>
+      <lex comment="good" lid="Id4">Elliot See started working for NASA in 1962.</lex>
       <lex comment="good" lid="Id5">Elliot See was chosen by NASA in 1962.</lex>
     </entry>
     <entry category="Astronaut" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
@@ -727,7 +726,7 @@
       <modifiedtripleset>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">In 1962, William Anders received a M.S. from his alma Mater, AFIT.</lex>
+      <lex comment="good" lid="Id1">In 1962, William Anders received an M.S. from his alma mater AFIT.</lex>
       <lex comment="good" lid="Id2">William Anders graduated, with an M.S., from AFIT in 1962.</lex>
       <lex comment="good" lid="Id3">William Anders graduated from AFIT in 1962 with an M.S.</lex>
       <lex comment="good" lid="Id4">William Anders graduated from AFIT, M.S. in 1962.</lex>

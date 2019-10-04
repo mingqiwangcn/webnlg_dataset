@@ -504,7 +504,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asam pedas is a food found in the Malay Peninsula.</lex>
       <lex comment="good" lid="Id2">Asam pedas is from the Malay Peninsula region.</lex>
-      <lex comment="toFix" lid="Id3">Asam pedas hails from Malay Peninsula.</lex>
+      <lex comment="good" lid="Id3">Asam pedas hails from the Malay Peninsula.</lex>
     </entry>
     <entry category="Food" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1601,7 +1601,7 @@
       <modifiedtripleset>
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The county Binignit comes from is the Philippines.</lex>
+      <lex comment="good" lid="Id1">The country Binignit comes from is the Philippines.</lex>
       <lex comment="good" lid="Id2">The binignit dish can be found in the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id154" shape="(X (X))" shape_type="NA" size="1">

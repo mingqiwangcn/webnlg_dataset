@@ -32,7 +32,7 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 600 students. The leader of Switzerland is the Federal Chancellor.</lex>
-      <lex comment="toFix" lid="Id2">Accademia di Architettura di Mendrisio was established in 1996 in Switzerland and has 600 attending students. It's leader is the Federal Chancellor of Switzerland.</lex>
+      <lex comment="good" lid="Id2">Accademia di Architettura di Mendrisio was established in 1996 in Switzerland and has 600 attending students. Its leader is the Federal Chancellor of Switzerland.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio of Switzerland was established in 1996 and has 600 students. The leader of the country has the title Federal Chancellor of Switzerland.</lex>
     </entry>
     <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

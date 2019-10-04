@@ -639,7 +639,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Paraguay is called Juan Afara, and one ethnic group is the Mestizo people. Agustin Barboza was born in Paraguay and died in Asunción, a part of Gran Asunción.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza was born in Paraguay and died in Asuncion which is part of Gran Asunción. Juan Afara is the country's leader and the Mestizo are among the ethnic groups in Paraguay.</lex>
-      <lex comment="toFix" lid="Id3">Agustin Barboza born in Paraguay from the Mestizo ethnic group., led by Juan Afara. Agustin died in Asuncion.</lex>
+      <lex comment="good" lid="Id3">Agustin Barboza was born in Paraguay, led by Juan Afara. The Mestizo ethnic group is one of the ethnic groups in Paraguay. Agustin died in Asuncion.</lex>
     </entry>
     <entry category="Artist" eid="Id27" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

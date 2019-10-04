@@ -3943,7 +3943,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Severed Wasp is from the United States where the leader is Barack Obama and one of the ethnic groups is African Americans.</lex>
-      <lex comment="toFix" lid="Id2">Barack Obama is the president of the U.S. which is home to the severed wasp and also African Americans.</lex>
+      <lex comment="good" lid="Id2">Barack Obama is the president of the U.S., which is home to "A Severed Wasp" and also African Americans.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp is from the United States where Barack Obama is the leader and African Americans are an ethnic group.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id234" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

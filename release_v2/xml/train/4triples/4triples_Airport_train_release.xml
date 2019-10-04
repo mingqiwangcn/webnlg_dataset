@@ -3330,7 +3330,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Turkmenistan Airlines have their HQ in Ashgabat, Turkmenistan and their hub airport at Turkmenbashi International airport. They are the operating organisation for Ashgabat International airport.</lex>
       <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines who have headquarters in Ashgabat, Turkmenistan. Their hub airport is Turkmenbashi International Airport.</lex>
-      <lex comment="toFix" lid="Id3">The headquarters of Turkmenistan Airlines are located in Ashgabat International Airport in Turkmenistan.</lex>
+      <lex comment="good" lid="Id3">The headquarters of Turkmenistan Airlines are located in Ashgabat, Turkmenistan. Their main airport is Turkmenbashi International Airport, and they also operate Ashgabat International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id157" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>

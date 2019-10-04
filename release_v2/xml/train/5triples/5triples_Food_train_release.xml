@@ -2638,7 +2638,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batagor is found in the country of Indonesia which is led by Jusuf Kalla. Shiitake is an ingredient of Shumai which is a variation of Bataho and Siomay.</lex>
       <lex comment="good" lid="Id2">Batagor comes from Indonesia where Jusuf Kalla is the vice-president. Siomay and shumai are variations of the dish and all of them contain shiitake.</lex>
-      <lex comment="toFix" lid="Id3">Batagor and Siomay are variations of the same dish. One of their ingredients is Shiitake . It is found in the country of Indonesia, which leader is Jusuf Kalla.</lex>
+      <lex comment="good" lid="Id3">Batagor, Shumai and Siomay are variations of the same dish. One of their ingredients is Shiitake. It is found in the country of Indonesia, which leader is Jusuf Kalla.</lex>
     </entry>
     <entry category="Food" eid="Id131" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4165,9 +4165,9 @@
         <mtriple>Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The Javanese fried chicken dish Ayam penyet can be found nationwide and also in Malaysia and Singapore.</lex>
+      <lex comment="good" lid="Id1">The Javanese fried chicken dish Ayam penyet can be found nationwide and also in Malaysia and Singapore. The Javanese is one of the ethnic groups in Java.</lex>
       <lex comment="good" lid="Id2">The fried chicken dish Ayam penyet is made nationwide in Java (land of the Javanese), and can also be found in Malaysia and Singapore.</lex>
-      <lex comment="toFix" lid="Id3">Indonesia is made up of many places including Malaysia and Singapore. Another place is called Java with an ethnic group called the Javanese. A Javan food is ayam penyet which is made of fried chicken.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet can be found in many places including Malaysia and Singapore. Another place is Java with an ethnic group called the Javanese. Ayam penyet is made of fried chicken.</lex>
     </entry>
     <entry category="Food" eid="Id206" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

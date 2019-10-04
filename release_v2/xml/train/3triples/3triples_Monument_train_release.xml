@@ -535,7 +535,7 @@
         <mtriple>Turkey | currency | Turkish_lira</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Turkey's largest city is Istanbul, it's currency is the lira and has the Ataturk Monument in Izmir.</lex>
+      <lex comment="good" lid="Id1">Turkey's largest city is Istanbul, its currency is the lira and it has the Ataturk Monument in Izmir.</lex>
       <lex comment="good" lid="Id2">Istanbul is the largest city in Turkey but the Ataturk monument is located in Izmir. The Turkish currency is known as the Turkish lira.</lex>
     </entry>
     <entry category="Monument" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

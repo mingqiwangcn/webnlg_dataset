@@ -364,7 +364,7 @@
         <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology has an academic staff of 500. It is located in India and its motto is "Nurturing Excellence".</lex>
-      <lex comment="toFix" lid="Id2">The Acharya Institute of Technology in India was an academic staff of ~500. Its motto is "Nurturing Excellence".</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology in India has an academic staff of approximately 500. Its motto is "Nurturing Excellence".</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in India has a staff of about 500, the university's motto is "Nurturing Excellence".</lex>
     </entry>
     <entry category="University" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
