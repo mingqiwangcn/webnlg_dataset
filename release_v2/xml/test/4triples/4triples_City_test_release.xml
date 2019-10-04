@@ -185,7 +185,7 @@
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, King County, Washington is located within the United States. The capital of the United States is Washington DC.</lex>
-      <lex comment="good" lid="Id2">The capital of U.S is Washington, D.C.. King County, Auburn is located in this state.</lex>
+      <lex comment="good" lid="Id2">The capital of U.S is Washington, D.C. King County, Auburn is located in this state.</lex>
       <lex comment="good" lid="Id3">Auburn is located in King County, Washington state. The capital of the US is Washington DC.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

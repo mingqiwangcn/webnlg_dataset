@@ -1257,7 +1257,7 @@
         <mtriple>Agra_Airport | ICAO_Location_Identifier | "VIAG"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra Airport in Uttar Pradesh is operated by the Indian Air Force and has the ICAO location identifier of VIAG. The airport is 167.94 metres above sea level and has a runway 1818 in length.</lex>
-      <lex comment="good" lid="Id2">Agra Airport, in Uttar Pradesh, is operated by the Indian Air Force and lies 167.94 metres above sea level. The runway has a length of 1818.0 and the airport's ICAO locationa identifier is VIAG.</lex>
+      <lex comment="good" lid="Id2">Agra Airport, in Uttar Pradesh, is operated by the Indian Air Force and lies 167.94 metres above sea level. The runway has a length of 1818.0 and the airport's ICAO location identifier is VIAG.</lex>
       </entry>
     <entry category="Airport" eid="Id52" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1576,7 +1576,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force has the Lockheed AC-130, an attack aircraft, and the Boeing C-17 Globemaster III, a transport aircraft. It also has the General Dynamics F-16 Fighting Falcon which is an aircraft fighter. The Operation, Enduring Freedom is one of the battles of the United States Air Force which operates Al Asad airbase.</lex>
-      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force. That airbase has Lockheed AC-130 missiles, Boeing C-17 Globemaster III transport aircrafts and the General Dynamics F-16 Fighting Falcon aircraft. The USAF fought in Operation Enduring Freedom battle.</lex>
+      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force. That airbase has Lockheed AC-130 missiles, Boeing C-17 Globemaster III transport aircraft and the General Dynamics F-16 Fighting Falcon aircraft. The USAF fought in Operation Enduring Freedom battle.</lex>
       </entry>
     <entry category="Airport" eid="Id68" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1594,8 +1594,8 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which fought in Operation Enduring Freedom. This Airforce has a number of aircraft, including aircraft fighter, the McDonnell Douglas F-15 Eagle and transport aircraft, the Boeing C-17 Globemaster II. Also the Lockheed AC-130 can be found on USAF aircraft carriers.</lex>
-      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force and uses Boeing C-17 Globemaster III transport aircrafts. The USAF has Lockheed AC-130 attack aircrafts and McDonnell Douglas F-15 Eagle fighter jets. Operation Enduring Freedom was a battle involving the United States Air Force.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack air crafts. Among the aircrafts of the USAF can be found the Boeing C-17 Globemaster and the McDonnell douglas F-15 Eagle. The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
+      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force and uses Boeing C-17 Globemaster III transport aircraft. The USAF has Lockheed AC-130 attack aircraft and McDonnell Douglas F-15 Eagle fighter jets. Operation Enduring Freedom was a battle involving the United States Air Force.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack air crafts. Among the aircraft of the USAF can be found the Boeing C-17 Globemaster and the McDonnell douglas F-15 Eagle. The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
     </entry>
     <entry category="Airport" eid="Id69" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1631,7 +1631,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which has several types of aircraft, including Boeing C-17 Globemaster III (transport aircraft) and the Lockheed AC-130 (attack aircraft). The United States Air Force fought battles in the Korean war and in Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force who fought in the Korean war and in the battle at Operation Enduring Freedom. They deploy the Lockheed AC-130 attack aircraft and have the transport aircraft known as the Boeing C-17 Globemaster III.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF has fought in the Korean Wars and Operation Enduring Freedom. The Boeing C-17 Globemaster III is a transport aircraft there and the Lockheed Ac-130 can be found on these aircrafts.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF has fought in the Korean Wars and Operation Enduring Freedom. The Boeing C-17 Globemaster III is a transport aircraft there and the Lockheed Ac-130 can be found on these aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id71" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1667,8 +1667,8 @@
         <mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for "Al Asad airbase" and it has some transport aircrafts like the "Boeing C-17 Globemaster III" and aircraft fighters like "The General Dynamics F-16 Fighting Falcon" &amp; "The Lockheed AC-130" which is an attack aircraft. the Invasion of Grenada is One of the noted United States Air Force battles.</lex>
-      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 attack aircrafts.The USAF uses Boeing C-17 Globemaster III transport aircrafts and General Dynamics F-16 Fighting Falcons.The United States Air Force battled in the Invasion of Grenada.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for "Al Asad airbase" and it has some transport aircraft like the "Boeing C-17 Globemaster III" and aircraft fighters like "The General Dynamics F-16 Fighting Falcon" &amp; "The Lockheed AC-130" which is an attack aircraft. the Invasion of Grenada is One of the noted United States Air Force battles.</lex>
+      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 attack aircraft.The USAF uses Boeing C-17 Globemaster III transport aircraft and General Dynamics F-16 Fighting Falcons.The United States Air Force battled in the Invasion of Grenada.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force, who battled in the Invasion of Grenada. Some of their planes include: The Lockheed AC-130 which is an attack aircraft, the Boeing C-17 Globemaster III, a transport aircraft and the General Dynamics F-16 Falcon, which is a fighter plane.</lex>
     </entry>
     <entry category="Airport" eid="Id73" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1707,7 +1707,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The USAF, which bombed Libya and invaded Grenada, operates the Al Asad airbase. USAF carriers transport the Lockheed AC-130 and Boeing C-17 Globemaster III transport planes.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force who were involved in battles at the invasion of Grenada and the US bombing of Libya in 1986. They deploy the Lockheed AC-130 attack aircraft as well as the Boeing C-17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF bombed Libya in 1986 and fought in the Invasion of Grenada. The Lockheed AC-130 and Boeing C-17 Globemaster III are two aircrafts on that base.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF bombed Libya in 1986 and fought in the Invasion of Grenada. The Lockheed AC-130 and Boeing C-17 Globemaster III are two aircraft on that base.</lex>
     </entry>
     <entry category="Airport" eid="Id75" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2032,7 +2032,7 @@
         <mtriple>Allama_Iqbal_International_Airport | runwayName | "18L/36R"</mtriple>
         <mtriple>Allama_Iqbal_International_Airport | runwayLength | 2900.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Allama Iqbal International Airport's runway 18L/36R is 2900.0.long. It is located in Punjab, the capitalod Lahore city in Pakistan and managed by The Pakistan Civil Aviation Authority.</lex>
+      <lex comment="good" lid="Id1">The Allama Iqbal International Airport's runway 18L/36R is 2900.0 long. It is located in Punjab, the capitalod Lahore city in Pakistan and managed by The Pakistan Civil Aviation Authority.</lex>
       <lex comment="good" lid="Id2">The Pakistan Civil Aviation Authority operate Allama Iqbal International Airport in Punjab, Pakistan. It serves the city of Lahore and has the runway name 18L/36R which is 2900.0 in length.</lex>
       </entry>
     <entry category="Airport" eid="Id89" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3009,7 +3009,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport; has an elevation of 280 metes above sea level, has a runway length of 1982.0, and a 3/21 is the runway name. It is located in Greenville, Wisconsin and serves the city of Appleton (Wisconsin).</lex>
       <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin and serves Appleton, Wisconsin. It is 280 m above sea level and its runway is 1982 m long. The runway name is 3/21.</lex>
-      <lex comment="good" lid="Id3">The Appleton International Airport, which serves the city of Appleton, is in Greenville, Wisconsin. It is elevated 280 meters above sea level. The runway, which is named 3/21, measures a lenght of 1982.0.</lex>
+      <lex comment="good" lid="Id3">The Appleton International Airport, which serves the city of Appleton, is in Greenville, Wisconsin. It is elevated 280 meters above sea level. The runway, which is named 3/21, measures a length of 1982.0.</lex>
     </entry>
     <entry category="Airport" eid="Id130" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3818,7 +3818,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The headquarter of Port Authority of New York and New Jersey in Four World Trade Center controls the Atlantic City International Airport at Egg Harbor Township in New Jersey, United States. Egg Harbor Township, New Jersey is part of Atlantic County, New Jersey. .</lex>
+      <lex comment="good" lid="Id1">The headquarter of Port Authority of New York and New Jersey in Four World Trade Center controls the Atlantic City International Airport at Egg Harbor Township in New Jersey, United States. Egg Harbor Township, New Jersey is part of Atlantic County, New Jersey.</lex>
       <lex comment="good" lid="Id2">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey. who operate Atlantic City International Airport. The airport is located Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, which is a part of Atlantic County, located in New Jersey, in the United States. The airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at Four World Trade Center.</lex>
     </entry>

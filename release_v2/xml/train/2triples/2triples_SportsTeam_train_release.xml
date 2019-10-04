@@ -444,7 +444,7 @@
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio Lumezzane SpA (abbreviated to A.C. Lumezzane) has 4150 members.</lex>
-      <lex comment="good" lid="Id2">The fullname of A.C. Lumezzane, which has 4150 members, is Associazione Calcio Lumezzane SpA.</lex>
+      <lex comment="good" lid="Id2">The full name of A.C. Lumezzane, which has 4150 members, is Associazione Calcio Lumezzane SpA.</lex>
       <lex comment="good" lid="Id3">The "Associazione Calcio Lumezzane SpA" is the complete name of the A.C. Lumezzane. It has 4150 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -919,7 +919,7 @@
         <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Start Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C..</lex>
+      <lex comment="good" lid="Id1">Start Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C.</lex>
       <lex comment="good" lid="Id2">Stuart Parker, who once managed AFC Blackpool, plays for Blackpool F.C.</lex>
       <lex comment="good" lid="Id3">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Blackpool F.C.</lex>
     </entry>
@@ -1711,7 +1711,7 @@
         <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, which is owned by AFC Ajax N.V.</lex>
-      <lex comment="good" lid="Id2">AFC Ajax (amateurs) ground is Sportpark De Toekomst which is owned by AFC Ajax N.V..</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs) ground is Sportpark De Toekomst which is owned by AFC Ajax N.V.</lex>
       <lex comment="good" lid="Id3">Sportpark De Toekomst belongs to amateur AFC Ajax.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id119" shape="(X (X (X)))" shape_type="chain" size="2">

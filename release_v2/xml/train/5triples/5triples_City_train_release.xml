@@ -149,7 +149,7 @@
         <mtriple>Texas | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is a part of Texas, U.S, where English is spoken. Washington, D.C. is the capital of the U.S. and the largest city is New York City.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Texas, United States, where English is the spoken language.. The country's capital is Washington, D.C. and the biggest city is New York City.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas, United States, where English is the spoken language. The country's capital is Washington, D.C. and the biggest city is New York City.</lex>
       <lex comment="good" lid="Id3">Texas is in the United States but the capital is Washington, D.C. and the largest city is New York City. Abilene is part of Texas and they speak English there.</lex>
     </entry>
     <entry category="City" eid="Id9" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
@@ -2034,7 +2034,7 @@
         <mtriple>Ann_Arbor,_Michigan | areaCode | 734</mtriple>
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The City Administrator, Christopher Taylor (politician), leads Ann Arbor, Michigan. Ann Arbor, which has a total area of 74.33 square kilometeres, has a population density of 1580.7 inhabitants per square kilometre. Its area code is 734.</lex>
+      <lex comment="good" lid="Id1">The City Administrator, Christopher Taylor (politician), leads Ann Arbor, Michigan. Ann Arbor, which has a total area of 74.33 square kilometres, has a population density of 1580.7 inhabitants per square kilometre. Its area code is 734.</lex>
       <lex comment="good" lid="Id2">Ann Arbor, in Michigan, has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. Its area code is 734 and it is led by a City Administrator, Christopher Taylor (politician).</lex>
       <lex comment="good" lid="Id3">Ann Arbor has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. The City Administrator, Christopher Taylor, leads Ann Arbor and the area code is 734.</lex>
     </entry>

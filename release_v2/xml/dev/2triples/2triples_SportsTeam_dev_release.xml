@@ -191,7 +191,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax has 53502 members and is the owner of AFC Ajax NV.</lex>
       <lex comment="good" lid="Id2">AFC Ajax has 53502 members and is owned by AFC Ajax NV.</lex>
-      <lex comment="good" lid="Id3">AFC Ajax has 53502 members and is owned by AFC Ajax N.V..</lex>
+      <lex comment="good" lid="Id3">AFC Ajax has 53502 members and is owned by AFC Ajax N.V.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -249,7 +249,7 @@
         <mtriple>AZ_Alkmaar | fullname | "Alkmaar Zaanstreek"</mtriple>
         <mtriple>AZ_Alkmaar | numberOfMembers | 17023</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZ Alkmaar's fullname is Alkmaar Zaanstreek, it has 17023 members.</lex>
+      <lex comment="good" lid="Id1">AZ Alkmaar's full name is Alkmaar Zaanstreek, it has 17023 members.</lex>
       <lex comment="good" lid="Id2">AZ Alkmaar has 17023 member and their full name is "Alkmaar Zaanstreek".</lex>
       <lex comment="good" lid="Id3">Alkmaar Zaanstreek is the full name of AZ Alkmaar which has 17023 members.</lex>
     </entry>

@@ -521,7 +521,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located at the North Wall Quay.</lex>
       <lex comment="good" lid="Id2">The 3Arena is located on North Wall Quay.</lex>
-      <lex comment="good" lid="Id3">The 3Arena is located at "North Wall Quay.".</lex>
+      <lex comment="good" lid="Id3">The 3Arena is located at "North Wall Quay".</lex>
     </entry>
     <entry category="Building" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1141,7 +1141,7 @@
       <modifiedtripleset>
         <mtriple>Alan_B._Miller_Hall | inaugurationDate | "2009-10-02"</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">Alan B. Miller Hall was in augurated on 2009-10-02.</lex>
+      <lex comment="good" lid="Id1">Alan B. Miller Hall was inaugurated on 2009-10-02.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall was inaugurated on "2009-10-02".</lex>
       <lex comment="good" lid="Id3">The inauguration date of the Alan B. Miller Hall was 2nd October, 2009.</lex>
     </entry>
@@ -2494,7 +2494,7 @@
       <modifiedtripleset>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is the language of the U.S..</lex>
+      <lex comment="good" lid="Id1">English is the language of the U.S.</lex>
       <lex comment="good" lid="Id2">English is the language in the United States.</lex>
       <lex comment="good" lid="Id3">The English language is the language of the United States.</lex>
     </entry>

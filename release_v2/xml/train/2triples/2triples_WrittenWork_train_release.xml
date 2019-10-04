@@ -114,7 +114,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634: The Bavarian Crisis was written by Eric Flint and was preceded by Grantville Gazette II.</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis, written by Eric Flint, was preceded by Grantville Gazette II.</lex>
-      <lex comment="good" lid="Id3">Eric Flint's book, "1634: The Bavarian Crisis," was preceded by "Grantville Gazette II.".</lex>
+      <lex comment="good" lid="Id3">Eric Flint's book, "1634: The Bavarian Crisis," was preceded by "Grantville Gazette II".</lex>
     </entry>
     <entry category="WrittenWork" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -444,7 +444,7 @@
         <mtriple>ACM_Transactions_on_Information_Systems | ISSN_number | "1558-2868"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ACM Transactions on Information Systems is abbreviated to ACM Trans. Inf. Syst and has the ISSN number 1558-2868.</lex>
-      <lex comment="good" lid="Id2">ACM Transactions on Information Systems has the ISSN number 1558-2868 and the abbreviation "ACM Trans. Inf. Syst.".</lex>
+      <lex comment="good" lid="Id2">ACM Transactions on Information Systems has the ISSN number 1558-2868 and the abbreviation "ACM Trans. Inf. Syst."</lex>
     </entry>
     <entry category="WrittenWork" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -976,7 +976,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Glastonbury Romance is the sequel to Wolf Solent and was written by John Cowper Powys.</lex>
       <lex comment="good" lid="Id2">A Glastonbury Romance which was preceded by Wolf Solent, was written by John Cowper Powys.</lex>
-      <lex comment="good" lid="Id3">"A Glastonbury Romance," by John Cowper Powys, was preceded by "Wolf Solent.".</lex>
+      <lex comment="good" lid="Id3">"A Glastonbury Romance," by John Cowper Powys, was preceded by "Wolf Solent".</lex>
     </entry>
     <entry category="WrittenWork" eid="Id72" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1150,7 +1150,7 @@
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
-      <lex comment="good" lid="Id2">"The Secret Scripture" followed the book "A Long Long Way," which was preceded by "Annie Dunne.".</lex>
+      <lex comment="good" lid="Id2">"The Secret Scripture" followed the book "A Long Long Way," which was preceded by "Annie Dunne".</lex>
       <lex comment="good" lid="Id3">Annie Dunne was followed by A Long Long Way and The Secret Scripture.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id85" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1162,7 +1162,7 @@
         <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The book, "A Long, Long Way," published by Viking Press, was followed by "The Secret Scripture.".</lex>
+      <lex comment="good" lid="Id1">The book, "A Long, Long Way," published by Viking Press, was followed by "The Secret Scripture".</lex>
       <lex comment="good" lid="Id2">The book "A Long, Long Way," which was followed by "The Secret Scripture," is published by Viking Press.</lex>
       <lex comment="good" lid="Id3">Published by Viking Press, the novel A Long Long Way was followed by The Secret Scripture.</lex>
     </entry>
@@ -1768,7 +1768,7 @@
         <mtriple>Acta_Mathematica_Hungarica | LCCN_number | 83646315</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">83646315 is the LCCN number for Acta Mathematica Hungarica which has the abbreviation of "Acta Math. Hungar.".</lex>
+      <lex comment="good" lid="Id1">83646315 is the LCCN number for Acta Mathematica Hungarica which has the abbreviation of "Acta Math. Hungar".</lex>
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica (abbreviated to Acta Math. Hungar) has the LCCN number 83646315.</lex>
       </entry>
     <entry category="WrittenWork" eid="Id129" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2219,7 +2219,7 @@
         <mtriple>Aenir | followedBy | Above_the_Veil</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Aenir is written in English and was followed by Above the Veil.</lex>
-      <lex comment="good" lid="Id2">The book "Aenir," written in English, was followed by "Above the Veil.".</lex>
+      <lex comment="good" lid="Id2">The book "Aenir," written in English, was followed by "Above the Veil".</lex>
       <lex comment="good" lid="Id3">The novel Aenir, written in English, was followed by Above the Veil.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id155" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2287,7 +2287,7 @@
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | author | Brandon_Sanderson</mtriple>
         <mtriple>Brandon_Sanderson | birthPlace | Lincoln,_Nebraska</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Brandon Sanderson, who was born in Lincoln, Nebraska, wrote "Alcatraz Versus the Evil Librarians.".</lex>
+      <lex comment="good" lid="Id1">Brandon Sanderson, who was born in Lincoln, Nebraska, wrote "Alcatraz Versus the Evil Librarians".</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians was written by Lincoln, Nebraska native Brandon Sanderson.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id160" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2587,7 +2587,7 @@
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The novel A Long Long Way was followed by The Secret Scripture published by Faber and Faber.</lex>
-      <lex comment="good" lid="Id2">"The Secret Scriptures," published by Faber and Faber, followed "A Long, Long Way.".</lex>
+      <lex comment="good" lid="Id2">"The Secret Scriptures," published by Faber and Faber, followed "A Long, Long Way".</lex>
       <lex comment="good" lid="Id3">The book The Secret Scriptures, published by Faber and Faber, followed the book "A Long Long Way".</lex>
     </entry>
     <entry category="WrittenWork" eid="Id181" shape="(X (X (X)))" shape_type="chain" size="2">

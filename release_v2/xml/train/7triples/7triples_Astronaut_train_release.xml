@@ -1043,7 +1043,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born January 30th, 1930 in Glen Ridge, New Jersey. He graduated from the Massachusetts Institute of of Technology with a Sc.D in 1963. He was a crew member of Apollo 11, which was operated by NASA and was a United States national and had 20 awards.</lex>
-      <lex comment="good" lid="Id2">American Buzz Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930. In 1963 he graduated from MIT with a Sc. D.. was chosen to crew Apollo 11 by NASA and had 20 awards to his credit.</lex>
+      <lex comment="good" lid="Id2">American Buzz Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930. In 1963 he graduated from MIT with a Sc. D. He was chosen to crew Apollo 11 by NASA and had 20 awards to his credit.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is a US national who was born in Glen Ridge New Jersey on 20 January 1930. He obtained an ScD from MIT in 19963 and served as a crew member on the NASA operated Apollo 11. He was the recipient of 20 awards during his career.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
@@ -1315,7 +1315,7 @@
         <mtriple>Elliot_See | status | "Deceased"</mtriple>
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born in Dallas and attended the University of Texas at Austin which competed in the Big 12 conference in Austin. He became a test pilot and died in St Louis on 28 February 1966..</lex>
+      <lex comment="good" lid="Id1">Elliot See was born in Dallas and attended the University of Texas at Austin which competed in the Big 12 conference in Austin. He became a test pilot and died in St Louis on 28 February 1966.</lex>
       <lex comment="good" lid="Id2">Elliot See died in St Louis on 28 February 1966. He was born in Dallas and attended the University of Texas at Austin which will compete in the Big 12 Conference. He later became a test pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id59" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
@@ -1381,7 +1381,7 @@
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See is a United States national born on July 23rd, 1927 in Dallas and attended the University of Texas at Austin. He died on February 28, 1966 in St. Louis. .</lex>
+      <lex comment="good" lid="Id1">Elliot See is a United States national born on July 23rd, 1927 in Dallas and attended the University of Texas at Austin. He died on February 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See (born on July 23, 1927 in Dallas and die on February 28, 1966 in St Louis) was an American who graduated from the University of Texas at Austin.</lex>
       <lex comment="good" lid="Id3">Elliot See was born in America in the city of Dallas on the 23rd day of July in 1927. Elliot was a student at the University of Texas at Austin. See died in St. Louis on the 28th of February in 1966.</lex>
     </entry>
@@ -1608,7 +1608,7 @@
         <mtriple>Elliot_See | status | "Deceased"</mtriple>
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Test pilot Elliot See was born in Dallas and died February 28th, 1966 in St. Louis. He attended the University of Texas at Austin which is an affiliate of the University of Texas system..</lex>
+      <lex comment="good" lid="Id1">Test pilot Elliot See was born in Dallas and died February 28th, 1966 in St. Louis. He attended the University of Texas at Austin which is an affiliate of the University of Texas system.</lex>
       <lex comment="toFix" lid="Id2">Elliot See was born in Dallas and attended the University of Texas (affiliated to the university of Texas system). H was a test pilot, who died in St. Louis on February 28th, 1966.</lex>
       <lex comment="good" lid="Id3">Elliot See was born in Dallas and he was a student at the University of Texas at Austin (affiliated to the university of Texas system). He was a test pilot, who died in St. Louis on February 28th 1966.</lex>
     </entry>

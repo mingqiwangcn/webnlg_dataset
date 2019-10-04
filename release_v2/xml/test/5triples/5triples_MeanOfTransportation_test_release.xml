@@ -25,7 +25,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDAstella was built by Meyer Werft, owned by Costa Crociere, the parent company of which is, Carnival Corporation &amp; plc. AIDAstella is operated by AIDA Cruises which is located in Germany.</lex>
       <lex comment="good" lid="Id2">Carnival Corporation &amp; plc is the parent company of Costa Crociere which is the owner of the AIDAstella. The AIDAstella was built by Meyer Werft and is operated by AIDA Cruises which is based in Germany.</lex>
-      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line, located in Germany . .</lex>
+      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line, located in Germany.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -409,7 +409,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft of Rostock, Germany made the A-Rosa Luna. Berlin is the capital of Germany and Andreas Voßkuhle is a leader there.</lex>
       <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft which is found in Rostock, Germany. Berlin is its capital and Andreas Vosskuhle is one leader there.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital. .</lex>
+      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

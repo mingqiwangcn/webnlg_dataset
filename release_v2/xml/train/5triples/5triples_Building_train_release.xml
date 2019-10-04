@@ -417,7 +417,7 @@
         <mtriple>Cleveland | isPartOf | Ohio</mtriple>
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">"200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Javkson and Cleveland's governing body is Cleveland City Council.".</lex>
+      <lex comment="good" lid="Id1">200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Javkson and Cleveland's governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland, Cuyahoga County, Ohio which is governed by the Cleveland City Council and the leader Frank G Jackson.</lex>
       <lex comment="good" lid="Id3">200 Public Square is located in Cleveland, Cuyahoga County, Ohio. The governing body for the city is Cleveland City Council and Frank G Jackson is a city leader.</lex>
     </entry>
@@ -682,7 +682,7 @@
         <mtriple>Chicago | country | United_States</mtriple>
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle, with 60 floors, is located in Chicago, Illinois, U.S.. Chicago's leader is called Rahm Emanuel.</lex>
+      <lex comment="good" lid="Id1">300 North LaSalle, with 60 floors, is located in Chicago, Illinois, U.S. Chicago's leader is called Rahm Emanuel.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois, United States, and has 60 floors. Chicago is led by Rahm Emanuel.</lex>
     </entry>
     <entry category="Building" eid="Id31" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
@@ -899,7 +899,7 @@
         <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena is located at North Wall, Dublin and hosts concerts and events. It has a height of 28 metres and was designed by the architect HOK SVE and completed in December 2008.</lex>
-      <lex comment="good" lid="Id2">"The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building.".</lex>
+      <lex comment="good" lid="Id2">The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building.</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1233,7 +1233,7 @@
         <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">"The capital of Denmark is Copenhagen and Lars Lokke Rasmussen is Denmark's leader. AC Hotel Bella Sky is in Copenhagen, Denmark and the tenant of the AC Hotel Bella Sky Copenhagen is Marriott International which was founded in Washington, D.C.".</lex>
+      <lex comment="good" lid="Id1">The capital of Denmark is Copenhagen and Lars Lokke Rasmussen is Denmark's leader. AC Hotel Bella Sky is in Copenhagen, Denmark and the tenant of the AC Hotel Bella Sky Copenhagen is Marriott International which was founded in Washington, D.C.</lex>
       </entry>
     <entry category="Building" eid="Id58" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1540,7 +1540,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">"Adisham Hall is located in Haputale which is in Sri Lanka and the capital of Sri Lanka is Sri JayawRdenepura Kotte and Ranil Wickremesinghe is a leader of Sri Lanka. Sri Lanka's currency is the Ski Lankan rupee.".</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale which is in Sri Lanka and the capital of Sri Lanka is Sri JayawRdenepura Kotte and Ranil Wickremesinghe is a leader of Sri Lanka. Sri Lanka's currency is the Ski Lankan rupee.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located at Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe, its capital is Sri Jayawardenepura Kotte, and the official currency is the Sri Lankan rupee.</lex>
       </entry>
     <entry category="Building" eid="Id69" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2237,7 +2237,7 @@
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">"Ampara Hospital is in Sri Lanka and is situated in the Eastern Province state of Sri Lanka. Austin Fernando is the leader of the Eastern Province of Sri Lanka and the Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.".</lex>
+      <lex comment="good" lid="Id1">Ampara Hospital is in Sri Lanka and is situated in the Eastern Province state of Sri Lanka. Austin Fernando is the leader of the Eastern Province of Sri Lanka and the Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
       </entry>
     <entry category="Building" eid="Id98" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2614,7 +2614,7 @@
         <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are in Manhattern New York City, New York, United states. The leader of Manhattan is Cyrus Vance Jr.</lex>
-      <lex comment="good" lid="Id2">Asser Levy Public Baths are found in New York City, Manhattan, New York, in the U.S.. Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
+      <lex comment="good" lid="Id2">Asser Levy Public Baths are found in New York City, Manhattan, New York, in the U.S. Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
     </entry>
     <entry category="Building" eid="Id118" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
