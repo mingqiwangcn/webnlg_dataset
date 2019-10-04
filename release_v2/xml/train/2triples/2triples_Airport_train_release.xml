@@ -12,7 +12,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus who's leader is Jacob Bundsgaard.</lex>
       <lex comment="good" lid="Id2">Aarhus airport serves the city of Aarhus where Jacob Bundsgaard is a leader.</lex>
-      <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, it's leader is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, its leader is Jacob Bundsgaard.</lex>
     </entry>
     <entry category="Airport" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -878,7 +878,7 @@
         <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayLength | 3078.48</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad Airbase is located in Al Anbar Province, Iraq, it's runway is 3078.48 long.</lex>
+      <lex comment="good" lid="Id1">Al Asad Airbase is located in Al Anbar Province, Iraq, its runway is 3078.48 long.</lex>
       <lex comment="good" lid="Id2">Located at Al Anbar Province, in Iraq, Al Asad Airbase has a runway with the length of 3078.48 metres.</lex>
       <lex comment="good" lid="Id3">Al Asad airbase is located at Al Anbar Province, Iraq and has a runway length of 3078.48.</lex>
     </entry>

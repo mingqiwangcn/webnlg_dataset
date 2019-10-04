@@ -783,7 +783,7 @@
         <mtriple>1001_Gaussia | maximumTemperature | 165.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1001 Gaussia has a mean temperature of 154 kelvins and a maximum temperature of 165 kelvins.</lex>
-      <lex comment="good" lid="Id2">1001 Gaussia has a mean temperature of 154.0 kelvins, it's maximum temperature is 165 Kelvins.</lex>
+      <lex comment="good" lid="Id2">1001 Gaussia has a mean temperature of 154.0 kelvins, its maximum temperature is 165 Kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1350,7 +1350,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1089 Tama had the former name of "A894 VA; A904 VD;" and has an epoch date of 26 November 2005.</lex>
       <lex comment="good" lid="Id2">The epoch date of 1089 Tama formerly called "A894 VA; A904 VD is 26 November 2005.</lex>
-      <lex comment="good" lid="Id3">1089 Tama was formerly called "A894 VA; A904 VD, it's epoch date is 2005-11-26.</lex>
+      <lex comment="good" lid="Id3">1089 Tama was formerly called "A894 VA; A904 VD", its epoch date is 2005-11-26.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -219,7 +219,7 @@
         <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and was designed by Helmut Jahn.</lex>
-      <lex comment="good" lid="Id2">11 Diagonal Street has 20 floors and it's architect is Helmut Jahn.</lex>
+      <lex comment="good" lid="Id2">11 Diagonal Street has 20 floors and its architect is Helmut Jahn.</lex>
       </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -919,7 +919,7 @@
         <mtriple>3Arena | architect | Populous_(company)</mtriple>
         <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">3Arena was completed on December 2008 and it's architect was the company Populous.</lex>
+      <lex comment="good" lid="Id1">3Arena was completed on December 2008 and its architect was the company Populous.</lex>
       <lex comment="good" lid="Id2">The 3Arena was completed in December 2008 and was designed by the company Populous.</lex>
     </entry>
     <entry category="Building" eid="Id62" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1013,7 +1013,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena at the North Wall Quay is owned by Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id2">3Arena at North Wall Quay is owned by Live Nation Entertainment.</lex>
-      <lex comment="good" lid="Id3">3Arena is located in North Wall Quay and it's owner is Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id3">3Arena is located in North Wall Quay and its owner is Live Nation Entertainment.</lex>
     </entry>
     <entry category="Building" eid="Id69" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1365,7 +1365,7 @@
         <mtriple>Addis_Ababa_City_Hall | currentTenants | "Government of Addis Ababa"</mtriple>
         <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Addis Ababa City Hall is where the Government of Addis Ababa is currently located and it's floor area covers 140000.0 (square metres).</lex>
+      <lex comment="good" lid="Id1">The Addis Ababa City Hall is where the Government of Addis Ababa is currently located and its floor area covers 140000.0 (square metres).</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall has a floor area of 140000.0 square metres and its current tenants are the Government of Addis Ababa.</lex>
       <lex comment="good" lid="Id3">The " Government of Addis Ababa" are the current tenants of Addis Ababa City Hall, which has a floor area of 140000.0 square metres.</lex>
     </entry>
@@ -1679,7 +1679,7 @@
         <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall is at 101 Ukrop Way and was completed on 1 June 2009.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on "1 June 2009", and it's address is 101 Ukrop Way.</lex>
+      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on 1 June 2009, and its address is 101 Ukrop Way.</lex>
     </entry>
     <entry category="Building" eid="Id111" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2209,7 +2209,7 @@
         <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is it's reference number in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located in Pacific Grove, California. 87000823 is its reference number in the National Register of Historic Places.</lex>
       </entry>
     <entry category="Building" eid="Id145" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2599,7 +2599,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the USA and it's leader is the President.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the USA and its leader is the President.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States whose leader has the title of President.</lex>
       </entry>
   </entries>

@@ -2321,7 +2321,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City,New Jersey is located in the United States.Trenton is the state's capital and Newark is its largest city.</lex>
-      <lex comment="good" lid="Id2">New Jersey's, part of the United States, capital is Trenton but it's largest city is Newark and it also is where Atlantic City is.</lex>
+      <lex comment="good" lid="Id2">New Jersey's, part of the United States, capital is Trenton but its largest city is Newark and it also is where Atlantic City is.</lex>
       <lex comment="good" lid="Id3">Atlantic City, New Jersey, is in the United States. New Jersey's largest city is Newark and its capital is Trenton.</lex>
     </entry>
     <entry category="City" eid="Id93" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

@@ -2445,7 +2445,7 @@
         <mtriple>Michigan | largestCity | Detroit</mtriple>
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor is found in Michigan where Detroit ( it's largest city ) is also located.</lex>
+      <lex comment="good" lid="Id1">Ann Arbor is found in Michigan where Detroit (its largest city) is also located.</lex>
       <lex comment="good" lid="Id2">Ann Arbor is part of Michigan which has Detroit as its largest city.</lex>
       <lex comment="good" lid="Id3">Ann Arbor is located in Michigan where Detroit is the largest city.</lex>
     </entry>

@@ -186,7 +186,7 @@
         <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
         <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">South Africa's ethnic groups include the Coloured. 11 Diagonal Street is located here and it's capital is Cape Town. It's leaders include Jacob Zuma and Cyril Ramaphosa.</lex>
+      <lex comment="good" lid="Id1">South Africa's ethnic groups include the Coloured. 11 Diagonal Street is located here and its capital is Cape Town. Its leaders include Jacob Zuma and Cyril Ramaphosa.</lex>
       <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa, which has Cape Town as its capital. Coloured people are an ethnic group in South Africa with Cyril Ramaphosa and Jacob Zuma as its leaders.</lex>
       <lex comment="good" lid="Id3">The address, 11 Diagonal Street is located in South Africa, which has Cape Town as its capital. Cyril Ramaphosa and Jacob Zuma are leaders of South Africa, where coloured people are an ethnic group.</lex>
     </entry>
@@ -1660,7 +1660,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor Revival style of architecture.</lex>
       <lex comment="good" lid="Id2">Adisham Hall was constructed between 1927 and 1931 in the Tudor Revival style. It is located on St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall was started to be built in 1927 and was completed in 1931. Adisham Hall has the architectural style 'Tudor Revival' and it's address is: St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall was started to be built in 1927 and was completed in 1931. Adisham Hall has the architectural style 'Tudor Revival' and its address is: St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id74" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1696,7 +1696,7 @@
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Taro Aso is the leader of Japan which has the Vietnamese people as one of it's ethnic groups. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id1">Taro Aso is the leader of Japan which has the Vietnamese people as one of its ethnic groups. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Vietnamese are an ethnic group in Japan where Taro Aso is the leader. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
       </entry>
     <entry category="Building" eid="Id76" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -3295,7 +3295,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located within the United States where English is the language and the Native Americans are an ethnic group. John Roberts is a leader in the United States where the country's leader is titled the President of the United States.</lex>
-      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States which has English as it's language and the ethnic group of Native Americans can be found. The leader of the US is titled the President and the current Chief Justice is John Roberts.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States which has English as its language and the ethnic group of Native Americans can be found. The leader of the US is titled the President and the current Chief Justice is John Roberts.</lex>
     </entry>
     <entry category="Building" eid="Id151" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3401,7 +3401,7 @@
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The White Americans are an ethnic group in the United States which uses the English language. The country is the location of 250 Delaware Avenue and is led by the President. One of the leaders in the country is Paul Ryan.</lex>
-      <lex comment="good" lid="Id2">English is the language of the United States which is led by a President and has the ethnic group of White Americans. The country is the location of 250 Delaware Avenue and has Paul Ryan as one of it's leaders.</lex>
+      <lex comment="good" lid="Id2">English is the language of the United States which is led by a President and has the ethnic group of White Americans. The country is the location of 250 Delaware Avenue and has Paul Ryan as one of its leaders.</lex>
     </entry>
   </entries>
 </benchmark>

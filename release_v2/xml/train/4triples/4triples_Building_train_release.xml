@@ -77,7 +77,7 @@
         <mtriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. It's architectural style is Brutalist.</lex>
+      <lex comment="good" lid="Id1">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. Its architectural style is Brutalist.</lex>
       <lex comment="good" lid="Id2">An example of Brutalist architecture, 103 Colmore Row, in Birmingham, was conceived by local-born architect John Madin.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham, England was designed by the architect John Madin, who was born in the city. The architectural style of 103 Colmore Row falls under Brutalist architecture.</lex>
     </entry>
@@ -1092,7 +1092,7 @@
         <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. It's start date was January 2014.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. Its start date was January 2014.</lex>
       <lex comment="good" lid="Id2">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
       <lex comment="good" lid="Id3">The construction of 250 Delaware Avenue began in January 2014, worth 110 million (dollars) that has 30843.8 (square metres), and a floor count of 12.</lex>
     </entry>
@@ -2652,7 +2652,7 @@
         <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
         <mtriple>Alan_B._Miller_Hall | completionDate | "1 June 2009"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan B. Miller Hall in Williamsburg, Virginia was designed by Robert A.M. Stern and completed on June 1, 2009. It's owner is the College of William and Mary.</lex>
+      <lex comment="good" lid="Id1">Alan B. Miller Hall in Williamsburg, Virginia was designed by Robert A.M. Stern and completed on June 1, 2009. Its owner is the College of William and Mary.</lex>
       <lex comment="good" lid="Id2">The Alan B. Miller Hall in Williamsburg, Virginia, owned by the College of William and Mary, was designed by Robert A M Stern and completed on June 1st, 2009.</lex>
     </entry>
     <entry category="Building" eid="Id123" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -3057,7 +3057,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is in Eastern Province, Sri Lanka which is led by Austin Fernando. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe. The leader of the Eastern Province of Sri Lanka is Austin Fernando.</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka in it's Eastern Province. The leader of Sri Lanka is Ranil Wickremesinghe and the leader in the Eastern Province is Austin Fernando.</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka in its Eastern Province. The leader of Sri Lanka is Ranil Wickremesinghe and the leader in the Eastern Province is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id142" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

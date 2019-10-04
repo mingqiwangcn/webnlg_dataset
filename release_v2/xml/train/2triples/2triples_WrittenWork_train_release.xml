@@ -10,7 +10,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, written by Virginia DeMarce and Eric Flint, can be located by it's ISBN number "978-1-4165-4253-7".</lex>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, written by Virginia DeMarce and Eric Flint, can be located by its ISBN number "978-1-4165-4253-7".</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and has the ISBN number 978-1-4165-4253-7.</lex>
       <lex comment="good" lid="Id3">The ISBN number of 1634: The Bavarian Crisis is 978-1-4165-4253-7 and the authors are Virginia DeMarce and Eric Flint.</lex>
     </entry>
@@ -23,7 +23,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | author | Virginia_DeMarce</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, written by Virginia DeMarce, can be located by it's ISBN number "978-1-4165-4253-7".</lex>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis, written by Virginia DeMarce, can be located by its ISBN number "978-1-4165-4253-7".</lex>
       <lex comment="good" lid="Id2">The book "1634: The Bavarian Crisis," by Virginia DeMarce, has ISBN number 978-1-4165-4253-7.</lex>
       </entry>
     <entry category="WrittenWork" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -48,7 +48,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">'1634: The Bavarian Crisis', written by Eric Flint, can be found using it's ISBN number,978-1-4165-4253-7.</lex>
+      <lex comment="good" lid="Id1">'1634: The Bavarian Crisis', written by Eric Flint, can be found using its ISBN number,978-1-4165-4253-7.</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis was written by Eric Flint and has the ISBN number 978-1-4165-4253-7.</lex>
       <lex comment="good" lid="Id3">978-1-4165-4253-7 is the ISBN number of "1634: The Bavarian Crisis" which was authored by Eric Flint.</lex>
     </entry>
@@ -255,7 +255,7 @@
         <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634 The Ram Rebellion, preceded by 1634 The Galileo Affair, was written by Eric Flint, Virginia DeMarce, et al.</lex>
-      <lex comment="good" lid="Id2">1634: The Galileo Affair and it's sequel 1634: The Ram Rebellion were both written by Eric Flint, Virginia DeMarce, et al.</lex>
+      <lex comment="good" lid="Id2">1634: The Galileo Affair and its sequel 1634: The Ram Rebellion were both written by Eric Flint, Virginia DeMarce, et al.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion was written by Eric Flint, Virginia DeMarce, et al and was preceded by 1634: The Galileo Affair.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2203,7 +2203,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Above the Veil was preceded By Aenir, both Australian novels.</lex>
       <lex comment="good" lid="Id2">Above the Veil is the sequel to Aenir which was written by Australians.</lex>
-      <lex comment="good" lid="Id3">Above the Veil and it's sequel Aeinir are examples of Austrlian literature.</lex>
+      <lex comment="good" lid="Id3">Above the Veil and its sequel Aeinir are examples of Austrlian literature.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id154" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -221,7 +221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II and Lars Lokke Rasmussen lead the country of Denmark which is the location of Aarhus airport in Tirstrup, part of the Central Denmark region.</lex>
       <lex comment="good" lid="Id2">Central Denmark is served by Aarhus Airport in Tirstrup. Denmark is led by Lars Lokke Ramussen and Margrethe II.</lex>
-      <lex comment="good" lid="Id3">In Tirstrup, Denmark, there is an airport call Aarhus Airport. It's in the central region of Denmark, which is led` by Margrethe II and Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id3">In Tirstrup, Denmark, there is an airport called Aarhus Airport. It's in the central region of Denmark, which is led by Margrethe II and Lars Løkke Rasmussen.</lex>
     </entry>
     <entry category="Airport" eid="Id10" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -354,7 +354,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport is located at 25 metres above sea level and operated by Aarhus Lufthavn A/S, The runway length is 2777.0 and is named 10R/28L.</lex>
-      <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport located in Aarhus, Denmark. It's runway length is 2777.0 and is 25.0 metres above sea level, the runway is named 10R/28L.</lex>
+      <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport located in Aarhus, Denmark. Its runway length is 2777.0 and is 25.0 metres above sea level, the runway is named 10R/28L.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in Aarhus, Denmark, and is operated by Aarhus Lufthavn A/S. The airport is 25 meters above sea level, measuring 2777.0 in length, dubbed 10R/28L.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1482,8 +1482,8 @@
         <mtriple>Al_Asad_Airbase | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase in Al Anbar Province of Iraq is operated by the United States Air Force. The Airbase is 08/26 which is 3990.0 long, The ICAO Location Identifier of Al Asad Airbase is ORAA.</lex>
-      <lex comment="good" lid="Id2">In Al Anbar Province, Iraq, there is an Airbase called Al Asad Airbase. It's ICAO location identifies is ORAA, and it is operated by the United States Air Force. It is has a runway with a length of 3,990.</lex>
-      <lex comment="good" lid="Id3">Th United State Air Force, operates the Al Asad Airbase located in Al Anbar Province, Iraq. It's ICAO location ID is ORAA. The Airbase's 08/26 runway is 3,990, in length.</lex>
+      <lex comment="good" lid="Id2">In Al Anbar Province, Iraq, there is an Airbase called Al Asad Airbase. Its ICAO location identifies is ORAA, and it is operated by the United States Air Force. It is has a runway with a length of 3,990.</lex>
+      <lex comment="good" lid="Id3">Th United State Air Force, operates the Al Asad Airbase located in Al Anbar Province, Iraq. Its ICAO location ID is ORAA. The Airbase's 08/26 runway is 3,990, in length.</lex>
     </entry>
     <entry category="Airport" eid="Id63" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1502,7 +1502,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operated by the United States Air Force, Al Asad Airbase is located in Al Anbar Province, Iraq. The Airbase's runway name is 09L/27R. Its ICAO Location Identifier is ORAA and 3992.88 is the length of the runway.</lex>
       <lex comment="good" lid="Id2">Al Asad airbase in Al Anbar Province, Iraq is operated by the United States Air Force and has the ICAO location identifier ORAA. The runway, which is named 09L/27R has a length of 3992.88.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase in Al Anbar province Iraq is operated by the United States Air Force, it's runway name is "09L/27R" and has a length of 3992.88. The location identifier of the airbase is ORAA.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase in Al Anbar province Iraq is operated by the United States Air Force, its runway name is "09L/27R" and has a length of 3992.88. The location identifier of the airbase is ORAA.</lex>
     </entry>
     <entry category="Airport" eid="Id64" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1854,7 +1854,7 @@
         <mtriple>Alderney_Airport | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alderney is served by Alderney airport which is located 88 metres above sea level and has a 1st runway surface made of poaceae. The runway name, which is 497.0 in length, is 08/26.</lex>
-      <lex comment="good" lid="Id2">The Alderney Airport serves Alderney which is 88 metres above sea level. It's first runway is made from Poaceae and has a length of 497.0, it's runway name is 08/26.</lex>
+      <lex comment="good" lid="Id2">The Alderney Airport serves Alderney which is 88 metres above sea level. Its first runway is made from Poaceae and has a length of 497.0, its runway name is 08/26.</lex>
       <lex comment="good" lid="Id3">Alderney Airport serves the city of Alderney and is situated 88 meters above sea level.The 1st runway at Alderney Airport is made from Poaceae. The airport's runway is called 08/26 and its length is 497.0 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id81" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1925,7 +1925,7 @@
         <mtriple>Alderney_Airport | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alderney Airport, which serves the city of Alderney, is 88 metres above sea level. Its airport runway is named 08/26, has a length of 497 and is made of asphalt.</lex>
-      <lex comment="good" lid="Id2">Alderney Airport serves the city of Alderney and is 88 metres above sea level. It's first runway is made of asphalt, is 497 long and uses the name 08/26.</lex>
+      <lex comment="good" lid="Id2">Alderney Airport serves the city of Alderney and is 88 metres above sea level. Its first runway is made of asphalt, is 497 long and uses the name 08/26.</lex>
       </entry>
     <entry category="Airport" eid="Id84" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2364,7 +2364,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan (United States). It has a runway length of 2744 meters and an elevation of 210 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional airport is located at 210 metres above sea level in Wilson Township, Alpena County, Michigan. It serves the city of Alpena in the United States and is 2744 meters long.</lex>
-      <lex comment="good" lid="Id3">Alpena County Regional Airport, which serves the city of Alpena, is located in Wilson Township, Alpena County, Michigan in the U.S.A. It's runway is 2,744 metres long and the facility is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport, which serves the city of Alpena, is located in Wilson Township, Alpena County, Michigan in the U.S.A. Its runway is 2,744 metres long and the facility is 210 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id104" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2808,7 +2808,7 @@
         <mtriple>Angola_International_Airport | runwayName | "05L/23R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo, Lunada. The runway 05L/23R is 4000ft long and 159m a.s.l.</lex>
-      <lex comment="good" lid="Id2">Angola International Airport in Ícolo e Bengo, Luanda is 159 metres above the sea level. it's runway is called 05L/23R and it is 4000.0 long.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport in Ícolo e Bengo, Luanda is 159 metres above the sea level. Its runway is called 05L/23R and it is 4000.0 long.</lex>
       <lex comment="good" lid="Id3">The runway name of Angola International Airport, situated 159 metres above sea level in Icolo e Bengo, Luanda, is 05L/23R and is 4000 metres long.</lex>
     </entry>
     <entry category="Airport" eid="Id123" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3034,7 +3034,7 @@
         <mtriple>Appleton_International_Airport | runwayName | "12/30"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin and serves the city of Appleton. The length of the runway is 2439m and is elevated 280m above sea level.</lex>
-      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin and it serves the city of Appleton. The airport is elevated 280 meters above sea level. It's runway is named 12/30 and it measures a length of 2,439.</lex>
+      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin and it serves the city of Appleton. The airport is elevated 280 meters above sea level. Its runway is named 12/30 and it measures a length of 2,439.</lex>
     </entry>
     <entry category="Airport" eid="Id131" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3232,7 +3232,7 @@
         <mtriple>Greenville,_Wisconsin | country | United_States</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Greenville is part of Grand Chute and Ellington in Wisconsin, United States. it is the home of The Appleton International Airport that serves Appleton city and it's environs.</lex>
+      <lex comment="good" lid="Id1">Greenville is part of Grand Chute and Ellington in Wisconsin, United States. It is the home of the Appleton International Airport that serves Appleton city and its environs.</lex>
       <lex comment="good" lid="Id2">The city of Appleton in Wisconsin is served by Appleton International Airport. The airport is located at Greenville, part of both Grand Chute and Ellington in Wisconsin, United States.</lex>
       </entry>
     <entry category="Airport" eid="Id141" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3421,7 +3421,7 @@
         <mtriple>Ardmore_Airport_(New_Zealand) | elevationAboveTheSeaLevel_(in_metres) | 34.0</mtriple>
         <mtriple>Ardmore_Airport_(New_Zealand) | runwayName | "03L/21R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ardmore Airport in New Zealand has a third runway made of poaceas and is operated by the Civil Aviation Authority of New Zealand. It's runway length is 597 is named 03L/21R and the facility is 34 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">Ardmore Airport in New Zealand has a third runway made of poaceas and is operated by the Civil Aviation Authority of New Zealand. Its runway length is 597 is named 03L/21R and the facility is 34 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) runway 03L/21R is the 3rd runway with surface type Poaceae. The runway length is 597.0 situated at 34 meters above sea level, it is controlled by The Civil Aviation Authority of New Zealand.</lex>
     </entry>
     <entry category="Airport" eid="Id147" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3529,8 +3529,8 @@
         <mtriple>Ashgabat_International_Airport | runwayName | "11/29"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ashgabat International airport in Ashgabat is operated by Turkmenistan airlines. It is located 211 metres above sea level and has a runway name of 11/29 which is 3800.0 in length.</lex>
-      <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport in Ashgabat is called Turkmenistan Airlines. It's runway length is 3800.0 and is 211 metres above sea level. The runway is called 11/29.</lex>
-      <lex comment="good" lid="Id3">Ashgabat International Airport in Ashgabat is operated by Turkmenistan Airlines. It's runway length is 3800.0 and is 211 metres above sea level, the name of the runway is 11/29.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport in Ashgabat is called Turkmenistan Airlines. Its runway length is 3800.0 and is 211 metres above sea level. The runway is called 11/29.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International Airport in Ashgabat is operated by Turkmenistan Airlines. Its runway length is 3800.0 and is 211 metres above sea level, the name of the runway is 11/29.</lex>
     </entry>
     <entry category="Airport" eid="Id152" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

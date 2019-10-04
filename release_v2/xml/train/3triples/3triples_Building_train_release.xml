@@ -883,7 +883,7 @@
         <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors, it's construction began in January 2014 is located in Buffalo, New York.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors, its construction began in January 2014 is located in Buffalo, New York.</lex>
       <lex comment="good" lid="Id2">January 2014 was the start date of building 250 Delaware Avenue which has 12 floors in Buffalo, New York.</lex>
       <lex comment="good" lid="Id3">The 12 floor construction project of 250 Delaware Avenue in Buffalo, New York, is set to began in January 2014.</lex>
     </entry>
@@ -2687,7 +2687,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is located in Sri Lanka, which is led by Ranil Wickremesinghe and its capital is Sri Jayawardenepura.</lex>
-      <lex comment="good" lid="Id2">Sri Lanka's capital is Sri Jayawardenepura Kotte; it's leader is Ranil Wickremesinghe and it houses Ampara Hospital.</lex>
+      <lex comment="good" lid="Id2">Sri Lanka's capital is Sri Jayawardenepura Kotte; its leader is Ranil Wickremesinghe and it houses Ampara Hospital.</lex>
       </entry>
     <entry category="Building" eid="Id147" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
