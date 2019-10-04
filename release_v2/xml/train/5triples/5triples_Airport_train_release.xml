@@ -1090,8 +1090,8 @@
         <mtriple>Afonso_Pena_International_Airport | ICAO_Location_Identifier | "SBCT"</mtriple>
         <mtriple>Afonso_Pena_International_Airport | runwayName | "11/29"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The location of Afonso Pena International ( ICAO code SBCT) airport is Sao Jose dos Pinhais. The runway 11/29 has a length of 2215m and is 911m a.s.l.</lex>
-      <lex comment="good" lid="Id2">The location of Afonso Pena International airport is Sao Jose dos Pinhais. It has the following details:- length of runway 11/29 is 2215m, is 911m a.s.l. and the ICAO location ID is SBCT.</lex>
+      <lex comment="good" lid="Id1">The location of Afonso Pena International (ICAO code SBCT) airport is Sao Jose dos Pinhais. The runway 11/29 has a length of 2215m and is 911m a.s.l.</lex>
+      <lex comment="good" lid="Id2">The location of Afonso Pena International airport is Sao Jose dos Pinhais. It has the following details: length of runway 11/29 is 2215m, is 911m a.s.l. and the ICAO location ID is SBCT.</lex>
       <lex comment="good" lid="Id3">Afonso Pena International Airport in São José dos Pinhais is 911 metres above sea level and has a runway named 11/29 that is 2,215 in length. The airport's ICAO location identifier is SBCT.</lex>
     </entry>
     <entry category="Airport" eid="Id45" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">

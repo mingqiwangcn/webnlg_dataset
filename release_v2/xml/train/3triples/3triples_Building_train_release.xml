@@ -732,7 +732,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 34 floors at 20 Fenchurch Street which is located in London, the leader of which is Boris Johnson.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street which is located in London( the leader of which is Boris Johnson) has 34 floors.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street which is located in London (the leader of which is Boris Johnson) has 34 floors.</lex>
       <lex comment="good" lid="Id3">Boris Johnson is a leader in London where 20 Fenchurch Street with 34 floors is located.</lex>
     </entry>
     <entry category="Building" eid="Id37" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1020,7 +1020,7 @@
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, U.S., and Susana Mendoza is the leader.</lex>
-      <lex comment="good" lid="Id2">Susana Mendoza is the leader of Chicago ( United States), where 300 North LaSalle is located.</lex>
+      <lex comment="good" lid="Id2">Susana Mendoza is the leader of Chicago (United States), where 300 North LaSalle is located.</lex>
       <lex comment="good" lid="Id3">Susana Mendoza is a leader in Chicago, US. In this city we can find 300 North LaSalle.</lex>
     </entry>
     <entry category="Building" eid="Id53" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3247,7 +3247,7 @@
         <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Manhattan is part of New York City, which was part of New Netherland, and is the location of Asser Levy Public Baths.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths are in New York City, Manhattan ( a part of New Netherland).</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths are in New York City, Manhattan (a part of New Netherland).</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths in Manhattan, New York City are part of New Netherland.</lex>
     </entry>
     <entry category="Building" eid="Id180" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

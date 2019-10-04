@@ -2336,7 +2336,7 @@
         <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
         <mtriple>Manchester | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, England ( which has the Labour Party in the majority).</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, England (which has the Labour Party in the majority).</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, in England. The Labour Party (UK) is the leader of Manchester.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England and has the Labour Party as its leader.</lex>
     </entry>
@@ -4096,7 +4096,7 @@
         <mtriple>Rock_music | stylisticOrigin | Blues</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rock music, the genre of Al Anderson, originated from blues. Bhangra is part of the fusion genre, which draws influence from rock music.</lex>
-      <lex comment="good" lid="Id2">Al Anderson is a member of the NRBQ band and plays rock music( one of the musical fusion is bhangra music) which is the stylistic origin of the blues.</lex>
+      <lex comment="good" lid="Id2">Al Anderson is a member of the NRBQ band and plays rock music (one of the musical fusion is bhangra music) which is the stylistic origin of the blues.</lex>
       <lex comment="good" lid="Id3">Al Anderson performs rock music, a style that originated from blues music and is fused into bhangra music.</lex>
     </entry>
     <entry category="Artist" eid="Id232" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

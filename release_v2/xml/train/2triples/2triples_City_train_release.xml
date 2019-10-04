@@ -2578,7 +2578,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Oregon is located within the United States which has the capital of Washington DC.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is in the United States, the capital of which, is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Albany ( Oregon), is in the U.S., the capital of which, is Washington, D.C.</lex>
+      <lex comment="good" lid="Id3">Albany (Oregon) is in the U.S., the capital of which is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
