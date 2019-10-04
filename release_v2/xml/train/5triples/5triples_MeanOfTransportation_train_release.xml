@@ -748,8 +748,8 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | powerType | Wärtsilä</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arctech Helsinki Shipyard in Finland built the icebreaker, Aleksey Chirikov. The powertype of the Aleksey Chirikow icebreaker is Wärtsilä and it has a length of 99.83 metres and a 21.2 m long shipbeam.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov, which has a Wartsila power type, was built at the Arctech Helsinki shipyard in Finland. It is 99.83 metres long and has a 21.2 m shipbeam.</lex>
+      <lex comment="good" lid="Id1">Arctech Helsinki Shipyard in Finland built the icebreaker, Aleksey Chirikov. The powertype of the Aleksey Chirikow icebreaker is Wärtsilä and it has a length of 99.83 metres and a 21.2 m long ship beam.</lex>
+      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov, which has a Wartsila power type, was built at the Arctech Helsinki shipyard in Finland. It is 99.83 metres long and has a 21.2 m ship beam.</lex>
       <lex comment="good" lid="Id3">The icebreaker, Aleksey Chirikov, was built at the Arctech Helsinki Shipyard in Finland. It is powered by a Wartsila, has a 21.2m ship beam and is 99.83 long.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id37" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -775,7 +775,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov in Helsinki Finland which is now in service. The ship is 99.83 m long and has a beam of 21.2m.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov, which is in service, was built at the Arctech Helsinki Shipyard in Finland. It is 99.83 metres long and has a 21.2 m long shipbeam.</lex>
+      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov, which is in service, was built at the Arctech Helsinki Shipyard in Finland. It is 99.83 metres long and has a 21.2 m long ship beam.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksey Chirikov, which is in service, was built at the Arctech Helsinki Shipyard by Finland. It is 99.83 metres long and its ship beam is 21.2.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id38" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -800,7 +800,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov, which is in service, was built in Helsinki in Finland. It is 99.83 metres long and has a 21.2 m long shipbeam.</lex>
+      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov, which is in service, was built in Helsinki in Finland. It is 99.83 metres long and has a 21.2 m long ship beam.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki, Finland and is still in service. It is 99.83 long and has a ship beam of 21.2.</lex>
       <lex comment="good" lid="Id3">The icebreaker, Aleksey Chirikov, was built in Helsinki, Finland and is still in service. It is 99.83 meter long with a 21.2m ship beam.</lex>
     </entry>
@@ -1691,7 +1691,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ELA-3 is located at the Guiana Space Centre which was the launch site of the Ariane. Arianespace is in Courcouronnes and the HQ of the Guiana Space Centre is in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Guiana Space Centre's headquarters are located in Kourou, French Guiana, it is the site of the ELA-3 launchpad, operated by Arianespace, located in Courcouronnes. It is the launch site of the Ariane 5.</lex>
-      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates the ELA-3, which is the launchsite of Ariane at the Guiana Space Centre in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates the ELA-3, which is the launch site of Ariane at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id77" shape="(X (X (X (X)) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2288,7 +2288,7 @@
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDA Cruises is the owner of the AIDAluna which has a Caterpillar Inc. engine. Caterpillar Inc. is located in Peoria, Illinois, but was founded in California and Douglas R. Oberhelman is a key person.</lex>
-      <lex comment="good" lid="Id2">Douglas R. Oberhelman is the keyperson at Caterpillar Inc. which was founded in California and located at Peoria, Illinois. The company power the AIDAluna owned by AIDA cruises.</lex>
+      <lex comment="good" lid="Id2">Douglas R. Oberhelman is the key person at Caterpillar Inc. which was founded in California and located at Peoria, Illinois. The company powers the AIDAluna owned by AIDA cruises.</lex>
       <lex comment="good" lid="Id3">Douglas R. Oberhelman is the key person at the Californian founded Caterpillar Inc. The company is located at Peoria, Illinois and powers the AIDAluna which is owned by AIDA cruises.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id104" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2334,7 +2334,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The company, Caterpillar, Inc. was founded in California. The company, Caterpillar, Inc. was founded in California.</lex>
       <lex comment="good" lid="Id2">The power type of the AIDAluna, owned by AIDA Cruises, is the Caterpillar Inc. engine. Caterpillar, Inc., where Douglas R Oberhelman is a key person, was founded in California and is located in Illinois.</lex>
-      <lex comment="good" lid="Id3">Douglas R. Oberhelman is the keyperson at Caterpillar Inc. which was founded in California and located in Illinois. The company powers the AIDAluna which is owned by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id3">Douglas R. Oberhelman is the key person at Caterpillar Inc. which was founded in California and located in Illinois. The company powers the AIDAluna which is owned by AIDA Cruises.</lex>
       <lex comment="good" lid="Id4">AIDAluna, owned by AIDA Cruises, is powered by Illinois located, Caterpillar Inc. Caterpillar Inc., founded in California, includes key figure, Douglas R. Oberhelman.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id106" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2444,7 +2444,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Italian based Costa Crociere's parent company is Carnival Corporation &amp; plc and AIDAstella is its subsidiary. AIDAstella, operated bt AIDA Cruises, was built by Meyer Werft.</lex>
       <lex comment="good" lid="Id2">AIDAstella is owned by Costa Crociere Italy and operated by AIDA Cruises. Carnival Corporation &amp; plc. are the parent co. of Costa crociere.</lex>
-      <lex comment="good" lid="Id3">AIDAstella, operated by AIDA Cruises and built by Meyer Werft, is owned by Italy's, Costa Crociere; a subsidary of Carnival Corporation &amp; plc.</lex>
+      <lex comment="good" lid="Id3">AIDAstella, operated by AIDA Cruises and built by Meyer Werft, is owned by Italy's, Costa Crociere; a subsidiary of Carnival Corporation &amp; plc.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2863,7 +2863,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre (located in Kourou, French Guiana) is the site of the ELA-3. ELA-3, which is the launch site of the Ariane 5, is operated by Arianespace (located in the city of CourCouronnes).</lex>
       <lex comment="good" lid="Id2">ELA-3, operated by Arianespace, is found in Courcouronnes at the The Guiana Space Centre located in Kourou, French Guiana. The Ariane rocket took flight from this site.</lex>
-      <lex comment="good" lid="Id3">Ariane 5 launched from ELA-3 operated by Arianespace located in Courcouronnes. The launchsite is at the Guiana Space Centre in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id3">Ariane 5 launched from ELA-3 operated by Arianespace located in Courcouronnes. The launch site is at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id131" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>

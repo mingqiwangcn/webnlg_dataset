@@ -1970,7 +1970,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres and a 21.2 m long shipbeam. The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki.</lex>
+      <lex comment="good" lid="Id1">An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres and a 21.2 m long ship beam. The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki.</lex>
       <lex comment="good" lid="Id2">The Aleksey Chirikov icebreaker is 99.83 metres long and it's beam is 21.2.The ship was built at the Arctech Helsinki Shipyard.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksey Chirikov was built at the Archtech Helsinki Shipyard in Helsinki. It is 99.83 metres long and has a ship beam of 21.2 metres.</lex>
     </entry>
@@ -2582,7 +2582,7 @@
         <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
         <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Motors Co, which includes member Roy D. Chapin Jr., was succeeded by Eagle. AMC Matador is manufactured by American Motors, which includes subsidary Wheel Horse.</lex>
+      <lex comment="good" lid="Id1">American Motors Co, which includes member Roy D. Chapin Jr., was succeeded by Eagle. AMC Matador is manufactured by American Motors, which includes subsidiary Wheel Horse.</lex>
       <lex comment="good" lid="Id2">American Motors Co was succeeded by Eagle and owns a subsidiary company, The Wheel Horse. A key person at American Motors, a company where the AMC Matador is manufactured, is Roy D. Chapin Jr.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id132" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2606,7 +2606,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors and Wheel Horse is a subsidiary. Roy D Chapin Jr is a key person at American Motors which was acquired by Chrysler.</lex>
       <lex comment="good" lid="Id2">AMC Matador is manufactured by American Motors which was acquired by Chrysler. Roy D. Chapin Jr. is a key person at American Motors and The Wheel Horse is a subsidiary of them.</lex>
-      <lex comment="good" lid="Id3">American Motors manufactures the AMC Matador, was acquired by Chrysler and includes subsidary Wheel Horse. AM includes member Roy D Chapin Jr.</lex>
+      <lex comment="good" lid="Id3">American Motors manufactures the AMC Matador, was acquired by Chrysler and includes subsidiary Wheel Horse. AM includes member Roy D Chapin Jr.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id133" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

@@ -251,7 +251,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aktieselskab is the operationg organisation for Aarhus Airport(runway name of 10R/28L is 2777.0 meters) is 25 metres aboce sea level.</lex>
+      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport(runway name of 10R/28L is 2777.0 meters) is 25 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Aarhus airport is 25 metres above sea level and operated by Aktieselskab. The runway name is 10R/28L and it has a length of 2777.0.</lex>
       <lex comment="good" lid="Id3">10R/28L is the runway name at Aarhus Airport. It is 2777 meters long with 25 meters above sea level. Aktieselskab operates the airport.</lex>
     </entry>
@@ -1455,7 +1455,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Lockheed AC-130 (an attack aircraft) and the General Dynamics F-16 Fighting Falcon (aircraft fighter) are both used by the United States Air Force. It was involved in the Invasion of Panama and operates the Al Asad Airbase.</lex>
       <lex comment="good" lid="Id2">The United States Air Force, which operates Al Asad Airbase, was involved in the Invasion of Panama. It has an aircraft fighter called the General Dynamics F-16 Fighting Falcon and an attack aircraft called the Lockheed AC-130.</lex>
-      <lex comment="good" lid="Id3">The United States Air Force operate Al Asad airbas and were involved in the invasion of Panama, and deploy the Lockheed AC-130 attack aircraft as well as the General Dynamics F-16 Fighting Falcon aircraft fighter.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force operate Al Asad airbase and were involved in the invasion of Panama, and deploy the Lockheed AC-130 attack aircraft as well as the General Dynamics F-16 Fighting Falcon aircraft fighter.</lex>
     </entry>
     <entry category="Airport" eid="Id69" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1537,7 +1537,7 @@
         <mtriple>United_States_Air_Force | battles | Korean_War</mtriple>
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which has the attack aircaft, the Lockheed AC-130. The United States Air Force has fought in the Korean War and took part in Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which has the attack aircraft, the Lockheed AC-130. The United States Air Force has fought in the Korean War and took part in Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">The United States Air Force is the operating organization for Al Asad Airbase. The USAF has fought in the Korean War and Operation Enduring Freedom. The Lockheed AC-130 can be found on US aircraft carriers.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and fought in the Operation Enduring Freedom battle and the Korean War. USAF aircraft carry Lockheed AC-130s.</lex>
     </entry>
@@ -1658,7 +1658,7 @@
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Both the Invasion of Grenada and the invasion of Panama involved the United States Air Force. One of their airbases is Al Asad. The USAF also operates aircraft carriers, which use aircraft such as the Lockheed AC-130.</lex>
-      <lex comment="good" lid="Id2">The united States Air Force is the operationg organisation for Al Asad airbase, has been in battles at the invasion of grenada and Panama, and use Lockheed Ac-130.</lex>
+      <lex comment="good" lid="Id2">The united States Air Force is the operating organisation for Al Asad airbase, has been in battles at the invasion of grenada and Panama, and use Lockheed Ac-130.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF was in the invasion of Grenada and the Invasion of Panama. Lockheed AC-130's can be found on USAF aircraft carriers.</lex>
     </entry>
     <entry category="Airport" eid="Id80" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1861,7 +1861,7 @@
         <mtriple>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority</mtriple>
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allama lqbal International airport is located in Pakistan has a runway of 3360.12 long is governed by The Pakistan Civil Aviation Authority and serves the city of Lahore.</lex>
+      <lex comment="good" lid="Id1">Allama Iqbal International airport is located in Pakistan has a runway of 3360.12 long is governed by The Pakistan Civil Aviation Authority and serves the city of Lahore.</lex>
       <lex comment="good" lid="Id2">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport in Pakistan. The airport serves the city of Lahore and has a runway length of 3360.12.</lex>
       <lex comment="good" lid="Id3">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport located in Pakistan and serving the city of Lahore. The airport has a runway length of 3360.12.</lex>
     </entry>
@@ -2537,7 +2537,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International airport is located in Icolo e Bengo, serves Luanda which is located in Angola and is part of Luanda Province.</lex>
       <lex comment="good" lid="Id2">Angola International airport serves the city of Luanda and is located in Icolo e Bengo, Luanda Province, Angola.</lex>
-      <lex comment="good" lid="Id3">The Angola International Airport serving Luanda in Angola is located at Ícolo e Bengo. lcolo e Bengo is in the Luanda Province.</lex>
+      <lex comment="good" lid="Id3">The Angola International Airport serving Luanda in Angola is located at Ícolo e Bengo. Icolo e Bengo is in the Luanda Province.</lex>
     </entry>
     <entry category="Airport" eid="Id120" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

@@ -163,7 +163,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov ship, built in Helsinki at the Arctech Helsinki Shipyard, has a 21.2 ship beam.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov which has a ship beam of 21.2, was built at the Arctech Helsinki Shipyard, in Helsinki.</lex>
-      <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov with a 21.2 m long shipbeam in Helsinki.</lex>
+      <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov with a 21.2 m long ship beam in Helsinki.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -182,7 +182,7 @@
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Fiat Croma and the Alfa Romeo 164 are both cars. The latter was built in Italy where the capital is Rome.</lex>
-      <lex comment="good" lid="Id2">Alfa Romeo 164, asembled in Italy (capital:Rome), is a related mode of transportation as the Fiat Croma.</lex>
+      <lex comment="good" lid="Id2">Alfa Romeo 164, assembled in Italy (capital:Rome), is a related mode of transportation as the Fiat Croma.</lex>
       <lex comment="good" lid="Id3">The Alfa Romeo 164, assembled in Italy (capital:Rome) is a similar mode of transport as the Fiat Croma.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -465,7 +465,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The launch site of the Ariane was ELA-3 launchpad, the site of which, is situated at the Guiana Space Centre. The Guiana Space Centre is located in Kourou,French Guiana.</lex>
       <lex comment="good" lid="Id2">The launch site of the Ariane was ELA-3 at the Guiana Space Centre at Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id3">The Guiana Space Centre, in Kourou, French Guiana, is the location of ELA-3, the launchsite of the Ariane 5.</lex>
+      <lex comment="good" lid="Id3">The Guiana Space Centre, in Kourou, French Guiana, is the location of ELA-3, the launch site of the Ariane 5.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

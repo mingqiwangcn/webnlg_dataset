@@ -292,7 +292,7 @@
         <mtriple>Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"</mtriple>
         <mtriple>Amatriciana_sauce | dishVariation | Garlic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A varient of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
+      <lex comment="good" lid="Id1">A variant of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
       <lex comment="good" lid="Id2">one Amatriciana sauce variation is onion, garlic, black pepper and chili- sometimes garlic is added.</lex>
       <lex comment="good" lid="Id3">Variations of Amatriciana sauce includes onion, garlic, black pepper, and chili.</lex>
     </entry>
@@ -1148,7 +1148,7 @@
         <mtriple>Ayam_penyet | region | Malaysia</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam penet is popular in Malaysia and also found in Java.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is popular in Malaysia and also found in Java.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a food found in Java, and it comes from the region of Malaysia.</lex>
     </entry>
     <entry category="Food" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2724,7 +2724,7 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore and the counrty's leader is Halimah Yacob.</lex>
+      <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore and the country's leader is Halimah Yacob.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is a dish of Halimah Yacob led, Singapore.</lex>
       <lex comment="good" lid="Id3">Beef kway teow comes from the Singapore region where the leader is Halimah Yacob.</lex>
     </entry>
@@ -3051,7 +3051,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients of Binignit are the sweet potato and coconut milk.</lex>
       <lex comment="good" lid="Id2">One of the main ingredients of Binignit is the sweet potato but it also uses coconut milk.</lex>
-      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatotes, and it also includes coconut milk.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatoes, and it also includes coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id229" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3652,7 +3652,7 @@
         <mtriple>Ajoblanco | country | Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ajoblanco originates from the country of Spain where the leader is Felipe VI of Spain.</lex>
-      <lex comment="good" lid="Id2">Ajoblanco originiates from Spain and Felipe VI is it's leader.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originates from Spain and Felipe VI is it's leader.</lex>
       <lex comment="good" lid="Id3">Ajoblanco is from Spain and Felipe VI is it's leader.</lex>
     </entry>
     <entry category="Food" eid="Id275" shape="(X (X (X)))" shape_type="chain" size="2">

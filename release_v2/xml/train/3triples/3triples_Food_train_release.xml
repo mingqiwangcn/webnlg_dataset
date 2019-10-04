@@ -462,7 +462,7 @@
         <mtriple>Indonesia | leaderName | Jusuf_Kalla</mtriple>
         <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arem-arem is a food found in Indonesia, where the currecncy is Indonesian rupiah and Jusuf Kalla is a leader.</lex>
+      <lex comment="good" lid="Id1">Arem-arem is a food found in Indonesia, where the currency is Indonesian rupiah and Jusuf Kalla is a leader.</lex>
       <lex comment="good" lid="Id2">Arem-arem is a food found in Indonesia, where Jusuf Kalla is the leader, and the currency used is the Indonesian rupiah.</lex>
       <lex comment="good" lid="Id3">The country of Indonesia commonly serves Arem-arem, its leader is Jusuf Kalla and the currency is the Indonesian rupiah.</lex>
     </entry>
@@ -1191,7 +1191,7 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
         <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fried chicken is an ingredient in ayem penyet found in Java, Malaysia and Singapore.</lex>
+      <lex comment="good" lid="Id1">Fried chicken is an ingredient in ayam penyet found in Java, Malaysia and Singapore.</lex>
       <lex comment="good" lid="Id2">Fried chicken is an ingredient in Ayam Penyet which is found in Java, but also nationwide and in Malaysia and Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id77" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1307,7 +1307,7 @@
         <mtriple>Java | ethnicGroup | Baduy</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam peyney is a popular dish from Malaysia, and Java where the Baduy are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is a popular dish from Malaysia, and Java where the Baduy are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Ayam penyet comes from the region of Malaysia and is also found in Java where the Baduy are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Ayam penyet comes from the region of Malaysia and is a food found in Java, where there is a ethnic group called Baduy.</lex>
     </entry>
@@ -1819,7 +1819,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tomato is an ingredient in a BLT sandwich which is also known as a club sandwich or bacon sandwich.</lex>
       <lex comment="good" lid="Id2">The BLT is a variation of the Club Sandwich and bacon sandwich, and contains tomato.</lex>
-      <lex comment="good" lid="Id3">A variation of a bacon sandwich is the BLT, it inclusdes tomato and is similar to a club sandwich.</lex>
+      <lex comment="good" lid="Id3">A variation of a bacon sandwich is the BLT, it includes tomato and is similar to a club sandwich.</lex>
     </entry>
     <entry category="Food" eid="Id119" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2293,7 +2293,7 @@
         <mtriple>Bakewell_tart | ingredient | Fruit_preserves</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ingredient in Bakewell tart, from the Derbyshire Dales region, which is a variant of Bakewell pudding, are fruit preserves.</lex>
-      <lex comment="good" lid="Id2">Bakewell pudding (or tart) originates from the Derbyshire Dales, it inclusdes fruit preserve/jam,.</lex>
+      <lex comment="good" lid="Id2">Bakewell pudding (or tart) originates from the Derbyshire Dales, it includes fruit preserves.</lex>
       </entry>
     <entry category="Food" eid="Id149" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3039,7 +3039,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batagor, made with peanut sauce, is a variation of the Siomay and similar Shumai dishes.</lex>
       <lex comment="good" lid="Id2">Batagor, containing peanut sauce, is a variation of the Siomay dish, which is very similar to Shumai.</lex>
-      <lex comment="good" lid="Id3">An ingredient of the dish batagor is peanut sauce, batagor and siomay are variatons of the same dish and shumai is a variation of siomay.</lex>
+      <lex comment="good" lid="Id3">An ingredient of the dish batagor is peanut sauce, batagor and siomay are variations of the same dish and shumai is a variation of siomay.</lex>
     </entry>
     <entry category="Food" eid="Id193" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -3454,7 +3454,7 @@
         <mtriple>India | leaderName | Narendra_Modi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji comes from the country of India, where Narendra Modi is a leader and the Indian rupee is the currency.</lex>
-      <lex comment="good" lid="Id2">Narendra Modi is the leader of India where the currency is the rupee and the Bhajji orginated.</lex>
+      <lex comment="good" lid="Id2">Narendra Modi is the leader of India where the currency is the rupee and the Bhajji originated.</lex>
     </entry>
     <entry category="Food" eid="Id219" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3841,7 +3841,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Filippino dish of binignit has sweet potatoes and taro as ingredients.</lex>
       <lex comment="good" lid="Id2">Taro is an ingredient in the Philippine dish of Binignit along with the main ingredient of sweet potato.</lex>
-      <lex comment="good" lid="Id3">One of the main ingredients of Binignit is the sweet potato, whic can be found in the philippines and has Taro as an ingredient.</lex>
+      <lex comment="good" lid="Id3">One of the main ingredients of Binignit is the sweet potato, which can be found in the philippines and has Taro as an ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id245" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3870,8 +3870,8 @@
         <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Two types of dessert are Sandesh and Binignit. The latter has sweet potato as a main ingredient.</lex>
-      <lex comment="good" lid="Id2">The main ingredients of binignit are sweet potatotes, it is a dessert same as sandesh.</lex>
-      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatotes, it is a dessert, same as Sandesh (confectionery).</lex>
+      <lex comment="good" lid="Id2">The main ingredients of binignit are sweet potatoes, it is a dessert same as sandesh.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatoes, it is a dessert, same as Sandesh (confectionery).</lex>
     </entry>
     <entry category="Food" eid="Id247" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3886,7 +3886,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Coconut milk is an ingredient of Binignit along with sweet potatoes which belong to the solanales order of plants.</lex>
       <lex comment="good" lid="Id2">Sweet potatoes, which are part of the order of Solanales, are one of the main ingredients of Binignit. A further ingredient is coconut milk.</lex>
-      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatotes, that is of the order Solanales, and coconut milk.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatoes, that is of the order Solanales, and coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id248" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -4816,7 +4816,7 @@
         <mtriple>Ajoblanco | country | Spain</mtriple>
         <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Felipe VI of Spain is the leader of Spain, where Spaniards are the ethinic group and where Ajoblanco originates from.</lex>
+      <lex comment="good" lid="Id1">Felipe VI of Spain is the leader of Spain, where Spaniards are the ethnic group and where Ajoblanco originates from.</lex>
       <lex comment="good" lid="Id2">The dish of ajoblanco is from Spain where Felipe VI is the leader and Spaniards are an ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id309" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

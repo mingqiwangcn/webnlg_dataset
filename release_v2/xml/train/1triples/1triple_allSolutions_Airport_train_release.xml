@@ -314,7 +314,7 @@
       <modifiedtripleset>
         <mtriple>Adirondack_Regional_Airport | locationIdentifier | "SLK"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adirondack Regional Airport location idenitifier is SLK.</lex>
+      <lex comment="good" lid="Id1">Adirondack Regional Airport location identifier is SLK.</lex>
       <lex comment="good" lid="Id2">SLK is the I.D. of the Adirondack Regional Airport.</lex>
       <lex comment="good" lid="Id3">The Adirondack Regional Airport location identifier is SLK.</lex>
     </entry>
@@ -1066,7 +1066,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location identifier of Alpena County Regional airport is APN.</lex>
       <lex comment="good" lid="Id2">The Alpena County Regional Airport's location id is "APN".</lex>
-      <lex comment="good" lid="Id3">The loaction identifier of Alpena County Regional Airport is APN.</lex>
+      <lex comment="good" lid="Id3">The location identifier of Alpena County Regional Airport is APN.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

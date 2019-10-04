@@ -663,7 +663,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell Unversity is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land grant Universities.</lex>
-      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the univesity is Elizabeth Garrett.</lex>
+      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.</lex>
       <lex comment="good" lid="Id3">Affiliated with the Association of Public and Land grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id32" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1499,7 +1499,7 @@
         <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Fortress of Grey Ice is from the United States where Asian Americans are an ethnic group and Barack Obama is the leader. The language of the US is English which is also spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice is a book from the United States. The country speaks predominently English (like Great Britain) and it's previous leader was Barack Obama. The US also has many Asian Americans.</lex>
+      <lex comment="good" lid="Id2">A Fortress of Grey Ice is a book from the United States. The country speaks predominantly English (like Great Britain) and it's previous leader was Barack Obama. The US also has many Asian Americans.</lex>
       <lex comment="good" lid="Id3">The USA has Barack Obama as it's leader and English is the language which is also spoken in Great Britain. Asian Americans are an ethnic group and A Fortress of Grey Ice is from the USA.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id75" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1626,9 +1626,9 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
         <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars was punlished in English (language of Great Britain) in the United States. The president of the US was previously Barack Obama and many Asian Americans live there.</lex>
+      <lex comment="good" lid="Id1">A Wizard of Mars was published in English (language of Great Britain) in the United States. The president of the US was previously Barack Obama and many Asian Americans live there.</lex>
       <lex comment="good" lid="Id2">Written in English, A Wizard of Mars was Published in the United States, where English is spoken, as in Great Britain. The previous leader of the US was Barack Obama and Asian Americans are an ethnic group there.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States and is published in English, that is the same language sppoken in Great Britain. The leader of the United States is Barack Obama and there are many Asian Americans.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States and is published in English, that is the same language spoken in Great Britain. The leader of the United States is Barack Obama and there are many Asian Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id82" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

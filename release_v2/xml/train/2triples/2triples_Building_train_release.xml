@@ -525,7 +525,7 @@
         <mtriple>United_Kingdom | demonym | British_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom where we call the natives British people.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is in the United Kingdom where the denonym for natives is British people.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is in the United Kingdom where the demonym for natives is British people.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom which is occupied by British People which is the demonym for the natives.</lex>
     </entry>
     <entry category="Building" eid="Id36" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1708,7 +1708,7 @@
         <mtriple>Alan_B._Miller_Hall | address | "101 Ukrop Way"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall (which was inaugurated on 2009-10-02) has the address "101 Ukrop Way".</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall which is located at 101 Ukrop Way was inagurated on 2009-10-02.</lex>
+      <lex comment="good" lid="Id2">Alan B. Miller Hall which is located at 101 Ukrop Way was inaugurated on 2009-10-02.</lex>
       <lex comment="good" lid="Id3">The inauguration date of Alan B. Miller Hall, located at 101 Ukrop Way, was October 2, 2009.</lex>
     </entry>
     <entry category="Building" eid="Id113" shape="(X (X) (X))" shape_type="sibling" size="2">

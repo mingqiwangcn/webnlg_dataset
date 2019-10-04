@@ -112,7 +112,7 @@
         <mtriple>Agra_Airport | location | Agra</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Agra, Agra Airport has the IATA Location Identifier is AGR and its ICAO Location IdentifierVIAG. This airport is operated by the Airports Authority of India.</lex>
-      <lex comment="good" lid="Id2">Agra's airport is Agra Airport it is operated by The Airports Authority of India, AGR is the IATA I.D. and the location identfier is VIAG.</lex>
+      <lex comment="good" lid="Id2">Agra's airport is Agra Airport it is operated by The Airports Authority of India, AGR is the IATA I.D. and the location identifier is VIAG.</lex>
       <lex comment="good" lid="Id3">Agra airport, whose location id is VIAG OR IATA is located in Agra. The Airports Authority of India operates it.</lex>
     </entry>
     <entry category="Airport" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -161,7 +161,7 @@
         <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The attack aircarft, the Lockheed AC-130, and the fighter aircraft, McDonnell Douglas F-15 Eagle are used by the United States Air Force. It is the operating organisation for Al Asad airbase and one of the noted United States Air Force battles was the Invasion of Grenada.</lex>
+      <lex comment="good" lid="Id1">The attack aircraft, the Lockheed AC-130, and the fighter aircraft, McDonnell Douglas F-15 Eagle are used by the United States Air Force. It is the operating organisation for Al Asad airbase and one of the noted United States Air Force battles was the Invasion of Grenada.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force which was involved in the Invasion of Grenada. The United States Air Force has The Lockheed AC-130, an attack aircraft and the McDonnell Douglas F-15 Eagle, an aircraft fighter.</lex>
       <lex comment="good" lid="Id3">The United States Air Force, which operates Al Asad airbase, was involved in battles at the Invasion of Grenada and deploys the Lockheed AC-130 on USAF aircraft carriers and flies the McDonnell Douglas F-15 Eagle aircraft fighter.</lex>
     </entry>
@@ -520,7 +520,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allama Iqbal International airport serves the city of Lahore and is located in Punjab, Pakistan where the leader is Anwar Zaheer Jamali.</lex>
       <lex comment="good" lid="Id2">Lahore is a city in Pakistan. The city of Lahore is served by the Allama Iqbal International Airport is located in Punjab, Pakistan. Anwar Zaheer Jamali is the leader of Pakistan.</lex>
-      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Lahore in Punjab Pakistan whree the leader is Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Lahore in Punjab Pakistan where the leader is Anwar Zaheer Jamali.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

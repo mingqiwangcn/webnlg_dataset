@@ -953,7 +953,7 @@
         <mtriple>Fried_chicken | mainIngredients | Chicken</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Javenese people are an ethinic group found in Malaysia and Java. Ayam Penyet is a type of dish found in these places and the main ingredient is fried chicken.</lex>
+      <lex comment="good" lid="Id1">Javenese people are an ethnic group found in Malaysia and Java. Ayam Penyet is a type of dish found in these places and the main ingredient is fried chicken.</lex>
       <lex comment="good" lid="Id2">Ayam penyet includes fried chicken and is a dish enjoyed by the Javanese of Java and also found in Malaysia.</lex>
     </entry>
     <entry category="Food" eid="Id49" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -990,7 +990,7 @@
         <mtriple>Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal</mtriple>
         <mtriple>Ayam_penyet | servingTemperature | "Hot"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam panyet is a dish that contains the main ingredients of squeezed or smashed fried chicken served with sambal. The dish is served in Java and originates in Singapore.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is a dish that contains the main ingredients of squeezed or smashed fried chicken served with sambal. The dish is served in Java and originates in Singapore.</lex>
       <lex comment="good" lid="Id2">Singapore dish ayam penyet is also popular in Java. Made with smashed fried chicken and sambal, ayam penhet should be served hot.</lex>
     </entry>
     <entry category="Food" eid="Id51" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1590,7 +1590,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The bacon sandwich is a dish from the United Kingdom where David Cameron is leader. Ketchup can be an ingredient in a bacon sandwich which is a variation of the BLT.</lex>
       <lex comment="good" lid="Id2">A bacon sandwich, to which ketchup is sometimes added, is a variation of the BLT, which is a variant of the club sandwich. Bacon sandwiches are popular in the UK, where David Cameron is the leader.</lex>
-      <lex comment="good" lid="Id3">Bacon sandwiches are popular in the UK where David Cameron was once the leader. Ketchup is a popular addition to the sandwich, of which the BLT and club sanwich are variations.</lex>
+      <lex comment="good" lid="Id3">Bacon sandwiches are popular in the UK where David Cameron was once the leader. Ketchup is a popular addition to the sandwich, of which the BLT and club sandwich are variations.</lex>
     </entry>
     <entry category="Food" eid="Id82" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2782,7 +2782,7 @@
         <mtriple>Bhajji | ingredient | Gram_flour</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji, alternative names: bhaji and bajji, originate from the Karnataka region of India and contain the main ingredients of gram flour and vegetables.</lex>
-      <lex comment="good" lid="Id2">Bhajji (also called bahjo or bajji) comes from the Karnataka region of India. It contains gram flour and vegetables.</lex>
+      <lex comment="good" lid="Id2">Bhajji (also called bhaji or bajji) comes from the Karnataka region of India. It contains gram flour and vegetables.</lex>
       <lex comment="good" lid="Id3">The Bhajji originates from the Karnataka region of India. The main ingredients are gram flour and vegetables however its also known as a Bhaji or Bajji.</lex>
     </entry>
     <entry category="Food" eid="Id137" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3056,7 +3056,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Narendra Modi and T. S. Thakur are leaders in India where the people are called Indians. It is also where Bhajji, which is found in the region of Karnataka, originates from.</lex>
       <lex comment="good" lid="Id2">Bhajji comes from the Karnataka region of India. T.S. Thakur and Narendra Modi are both leaders of India, a country where the people are known as Indians.</lex>
-      <lex comment="good" lid="Id3">Bhajji origintes from the Karnataka region of India, home to the Indian people; led by T.S. Thakur and Narendra Modi.</lex>
+      <lex comment="good" lid="Id3">Bhajji originates from the Karnataka region of India, home to the Indian people; led by T.S. Thakur and Narendra Modi.</lex>
     </entry>
     <entry category="Food" eid="Id149" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3355,7 +3355,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a Mexican dish from the Jalisco region, where Aristoteles Sandoval is a leader. Bionico is a dessert dish and a variation on dessert is cake.</lex>
       <lex comment="good" lid="Id2">Bionico is a food found in the Mexican region of Jalisco, where the leader is Aristoteles Sandoval. Bionico is served as a dessert course, a variation of which is cake.</lex>
-      <lex comment="good" lid="Id3">Bionico is found in the Jalisco region of Mexico. It is served as a dessert. Cake is a varation on dessert. Jalisco is led by Aristóteles Sandoval.</lex>
+      <lex comment="good" lid="Id3">Bionico is found in the Jalisco region of Mexico. It is served as a dessert. Cake is a variation on dessert. Jalisco is led by Aristóteles Sandoval.</lex>
     </entry>
     <entry category="Food" eid="Id165" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3503,7 +3503,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Silvano Aureoles Conejo is the leader of Mexico, where the dish Bionico can be found in the Jalisco region. Bionico is a dessert dish and honey is used in one of its variants.</lex>
       <lex comment="good" lid="Id2">Bionico is a dessert often including honey found in the Jalisco region of Mexico. The name of the leader in Mexico is Silvano Aureoles Conejo.</lex>
-      <lex comment="good" lid="Id3">The dessert Bionico, containg honey, is from the Jalisco region of Mexico (led by Silvano Aureoles Conejo).</lex>
+      <lex comment="good" lid="Id3">The dessert Bionico, containing honey, is from the Jalisco region of Mexico (led by Silvano Aureoles Conejo).</lex>
     </entry>
     <entry category="Food" eid="Id173" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3708,7 +3708,7 @@
         <mtriple>Bakewell_tart | ingredient | Shortcrust_pastry</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A variation of Bakewell pudding, Bakewell tart(uses shortcrust pastry) comes from the Deryshire Dales region (in Deryshire), where Patrick McLoughlin is a leader.</lex>
-      <lex comment="good" lid="Id2">Patrick McLoughlin is a leader in the Derbyshire community of Derbyshire Dales. The short crust pastry bakewall pudding tart is popular in this area.</lex>
+      <lex comment="good" lid="Id2">Patrick McLoughlin is a leader in the Derbyshire community of Derbyshire Dales. The short crust pastry bakewell pudding tart is popular in this area.</lex>
       <lex comment="good" lid="Id3">Patrick McLoughlin is a leader in Derbyshire Dales, Derbyshire, where the bakewell tart (variation of bakewell pudding) and consisting largely of shortcrust pastry is popular.</lex>
     </entry>
     <entry category="Food" eid="Id184" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3728,7 +3728,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakso is a Chinese dish which can be found in Indonesia, the country where Joko Widodo is the leader, Jakarta is the capital and Indonesian is the language spoken.</lex>
       <lex comment="good" lid="Id2">Joko Widodo is the leader of Indonesia. In Indonesia, the Indonesian language is spoken, and the capital city is Jakarta. Types of food include Bakso which originates from Chinese cuisine.</lex>
-      <lex comment="good" lid="Id3">Indonesian speaking Indonesia (capital; Jakarta), led by Jodo Widodo offers the Chinese dish Basko.</lex>
+      <lex comment="good" lid="Id3">Indonesian speaking Indonesia (capital; Jakarta), led by Jodo Widodo offers the Chinese dish Bakso.</lex>
     </entry>
     <entry category="Food" eid="Id185" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3745,7 +3745,7 @@
         <mtriple>Bakso | country | Indonesia</mtriple>
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jakarta is the capital of Indonesia and their leader's name is Joko Widodo. Indonesian is the official language of the region and Basko is a food that is found in and originates from Indonesia.</lex>
+      <lex comment="good" lid="Id1">Jakarta is the capital of Indonesia and their leader's name is Joko Widodo. Indonesian is the official language of the region and Bakso is a food that is found in and originates from Indonesia.</lex>
       <lex comment="good" lid="Id2">Bakso is a dish from Indonesia, led by Joko Widodo, where Indonesian is spoken, and whose capital is Jakarta.</lex>
       </entry>
     <entry category="Food" eid="Id186" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3826,7 +3826,7 @@
         <mtriple>Bakso | country | Indonesia</mtriple>
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The capital of Indonesia, which has Jusuf Kalla as its leader is Jakarta. A traditional dish of the country is basko which is also popular in neighbouring Southeast Asian countries.</lex>
+      <lex comment="good" lid="Id1">The capital of Indonesia, which has Jusuf Kalla as its leader is Jakarta. A traditional dish of the country is bakso which is also popular in neighbouring Southeast Asian countries.</lex>
       <lex comment="good" lid="Id2">Joko Widodo and Jusuf Kalla are both leaders in Indonesia, a country whose capital is Jakarta. Bakso is a traditional dish from Indonesia. It is also popular in neighbouring Southeast Asian countries.</lex>
       <lex comment="good" lid="Id3">Bakso is dish from Indonesia (capital Jakarta). Jusuf Kalla and Joko Widodo are political leaders in the country. The dish is popular in neighbouring Southeast Asian countries too.</lex>
     </entry>
@@ -4129,7 +4129,7 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is a dish from Singapore, where English is spoken and Tony Tan is the leader. Ayam penyet can be found in Java, where the Banyumasan people are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Ayam penjey is from Java which has Banyumasan people as one of their ethnic groups. That dish is also from Singapore whose leader is Tony Tan. English is spoken in Singapore.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is from Java which has Banyumasan people as one of their ethnic groups. That dish is also from Singapore whose leader is Tony Tan. English is spoken in Singapore.</lex>
       <lex comment="good" lid="Id3">In Singapore, English is spoken. Within Java, the Banyumasan people are an ethnic group and Ayam penyet is a food. Tony Tan is the leader of Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id204" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -4220,9 +4220,9 @@
         <mtriple>Ayam_penyet | region | Singapore</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penet is from Singapore and Java where the Javanese people are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penyet is from Singapore and Java where the Javanese people are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The Javenese people are an ethnic group in Java, where there is a dish called ayam penyet. The dish originates from Singapore, where the leader is Halimah Yacob and one of the languages spoken is English.</lex>
-      <lex comment="good" lid="Id3">Halimah leds the country of Singapore, where English is spoken. Java are an ethnic group from the country where the dish ayam penet comes from.</lex>
+      <lex comment="good" lid="Id3">Halimah leds the country of Singapore, where English is spoken. Java are an ethnic group from the country where the dish ayam penyet comes from.</lex>
     </entry>
     <entry category="Food" eid="Id209" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

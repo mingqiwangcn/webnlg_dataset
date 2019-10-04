@@ -559,7 +559,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway length at Adolfo Suarez Madrid-Barajas airport iin Madrid is 3500m and named 14L/32R.</lex>
+      <lex comment="good" lid="Id1">The runway length at Adolfo Suarez Madrid-Barajas airport in Madrid is 3500m and named 14L/32R.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is located in Madrid and its runway called 14L/32R and is 3500 metres long.</lex>
       </entry>
     <entry category="Airport" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -724,7 +724,7 @@
         <mtriple>Afonso_Pena_International_Airport | runwayName | "11/29"</mtriple>
         <mtriple>Afonso_Pena_International_Airport | runwayLength | 1800.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Located at Sao Jose dos Pinhais, Afonso Pena International Airport has the runway name 11/29, and a runwiay length of 1800.0 metres.</lex>
+      <lex comment="good" lid="Id1">Located at Sao Jose dos Pinhais, Afonso Pena International Airport has the runway name 11/29, and a runway length of 1800.0 metres.</lex>
       <lex comment="good" lid="Id2">São José dos Pinhais is where Afonso Pena International Airport is located, This airport has a runway named 11/29, as well as a runway that is 1800 meters long.</lex>
       <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais and has a runway length of 1800.0 with the name 11/29.</lex>
     </entry>
@@ -1204,7 +1204,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircarft fighter called McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircraft fighter called McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id2">The USAF, the operating organization for Al Asad airbase, was involved in the Invasion of Panama and has the aircraft fighter McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id3">The United States Air Force operates Al Asad airbase. They were involved in the US invasion of Panama and deploy the McDonnel Douglas F15 Eagle fighter aircraft.</lex>
     </entry>
@@ -1220,7 +1220,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. They were involved in the Invasion of Grenada and deploy the aircraft fighter known as The General Dynamics F16 Fighting Falcon.</lex>
-      <lex comment="good" lid="Id2">The USAF, veterans of the invasion of Grenada with F16 fighting flacons operates Al Asad Airbase.</lex>
+      <lex comment="toFix" lid="Id2">The USAF, veterans of the invasion of Grenada with F16 fighting falcons, operates Al Asad Airbase.</lex>
     </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2288,7 +2288,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Flemish Department of Mobility and Public Works operates the Antwerp International Airport, which is 12m a.s.l. and is run by the Flemish Region.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish department of mobility and public works and owned by the Flemish Region. It is 12.0 metres above sea level.</lex>
-      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region, operated by the Flemish department of Mobility and public works, and has an elevelation of 12 meters.</lex>
+      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region, operated by the Flemish department of Mobility and public works, and has an elevation of 12 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id127" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2366,7 +2366,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International airport, which is located in Greenville, Wisconsin is located at 280 metres above sea level and a runway length of 1982.</lex>
-      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin,280 metres above sealevel and its runway is 1.982 km long.</lex>
+      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin,280 metres above sea level and its runway is 1.982 km long.</lex>
     </entry>
     <entry category="Airport" eid="Id130" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3128,7 +3128,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra Airport is operated by the Indian Air Force which uses HAL Light Combat Helicopter (aircraft helicopter) and the Boeing C-17 Globemaster III (a transport aircraft).</lex>
       <lex comment="good" lid="Id2">The operating organization for Agra Airport is the Indian Air Force who deploy the HAL Light Combat Helicopter and the Boeing C17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Beoing C-17 globemaster III.</lex>
+      <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Beoing C-17 Globemaster III.</lex>
     </entry>
     <entry category="Airport" eid="Id167" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

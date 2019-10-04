@@ -100,7 +100,7 @@
         <mtriple>AMC_Matador | designer | Richard_A._Teague</mtriple>
         <mtriple>Richard_A._Teague | employer | Chrysler</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Richard A. Teague is emplyed by Chrysler and designed the AMC Matador.</lex>
+      <lex comment="good" lid="Id1">Richard A. Teague is employed by Chrysler and designed the AMC Matador.</lex>
       <lex comment="good" lid="Id2">Richard A. Teague is the Chrysler employee who designed the AMC Matador.</lex>
       <lex comment="good" lid="Id3">The AMC Matador was designed by Richard A Teague who workes for Chrysler.</lex>
     </entry>
@@ -211,7 +211,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsink shipyeard has a shipbeam of 21.2m.</lex>
+      <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsink shipyeard has a ship beam of 21.2m.</lex>
       <lex comment="good" lid="Id2">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov and has a ship beam of 21.2 metres.</lex>
       <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov, whose ship beam is 21.2.</lex>
     </entry>

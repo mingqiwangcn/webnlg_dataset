@@ -937,7 +937,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The building at 20 Fenchurch Street was started in January 2009 and completed in April 2014. It has 34 floors, and a floor area of 62145.3 square metres.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch St. was started in Jan. 2009 and completed in April, 20014. It has 34 floors and is 62145.3 square meters.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres, constructionof it began in January 2009 and was completed in April 2014.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres; its construction began in January 2009 and was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2163,7 +2163,7 @@
         <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka where the capital is Sri Jayawardenepura Kotte and the leader is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka, where Ranil Wickremesinghe is one of the countries leaders and Sri Jayawardenepura Kotta is the capital city.</lex>
     </entry>
@@ -2428,8 +2428,8 @@
         <mtriple>Akita_Prefecture | country | Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan, where some Chinese people live.</lex>
-      <lex comment="good" lid="Id2">The Akita Museum of Art is locacted in Akiita, Akita which is part of Akita Prefecture, Japan. In Japan there is an ethnic group of Chinese people.</lex>
-      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita which in turn is part of Akita Prefecture., Japan. Located in Japan are an ethnic group of Chinese people.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture, Japan. In Japan there is an ethnic group of Chinese people.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita which in turn is part of Akita Prefecture, Japan. Located in Japan are an ethnic group of Chinese people.</lex>
     </entry>
     <entry category="Building" eid="Id111" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3411,7 +3411,7 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 withreference number 80002709.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 with reference number 80002709.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place , East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 are in Asser Levy Place and East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.</lex>
     </entry>
@@ -3913,7 +3913,7 @@
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
         <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, India, a country which prevously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
+      <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, India, a country which previously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
       <lex comment="good" lid="Id2">The leader of India is called T S Thakur and another leader there is Sumitra Mahajan. Amdavad ni Gufa is located in Ahmedabad in India.</lex>
       <lex comment="good" lid="Id3">Amdavad ni Gufa is located in Ahmedabad, in India, the country where T S Thakur and Sumitra Mahajan are leaders.</lex>
     </entry>

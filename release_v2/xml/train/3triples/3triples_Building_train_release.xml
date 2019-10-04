@@ -3290,7 +3290,7 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect Jhon Madin who was born in birgmingham where the leader is the conservative party (UK).</lex>
+      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect Jhon Madin who was born in birmingham where the leader is the conservative party (UK).</lex>
       <lex comment="good" lid="Id2">Birmingham, led by the Conservative Party, was the birthplace of John Madin who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id183" shape="(X (X (X (X))))" shape_type="chain" size="3">
