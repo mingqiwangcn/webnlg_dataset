@@ -267,9 +267,9 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup, London. Boris Johnson is a leader in London, who's leader is the European Parliament.</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup, London. Boris Johnson is a leader in London, whose leader is the European Parliament.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was Sidcup was born in Manchester and died, in Boris Johnson and European Parliament led, Sidcup, London.</lex>
-      <lex comment="good" lid="Id3">Manchester born Alfred Garth Jones, died in Sidcup, London. Boris Johnson and the European Parliament lead London.</lex>
+      <lex comment="good" lid="Id3">Manchester born Alfred Garth Jones died in Sidcup, London. Boris Johnson and the European Parliament lead London.</lex>
     </entry>
     <entry category="Artist" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

@@ -10,7 +10,7 @@
         <mtriple>Aarhus | leaderName | Jacob_Bundsgaard</mtriple>
         <mtriple>Aarhus_Airport | cityServed | Aarhus</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus who's leader is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus whose leader is Jacob Bundsgaard.</lex>
       <lex comment="good" lid="Id2">Aarhus airport serves the city of Aarhus where Jacob Bundsgaard is a leader.</lex>
       <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, its leader is Jacob Bundsgaard.</lex>
     </entry>
@@ -1710,7 +1710,7 @@
         <mtriple>Andrews_County_Airport | location | Texas</mtriple>
         <mtriple>Texas | demonym | Tejano</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County Airport is located in Texas, who's inhabitants are called Tejano.</lex>
+      <lex comment="good" lid="Id1">Andrews County Airport is located in Texas, whose inhabitants are called Tejano.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is located in Texas where tejano is the demonym used.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport is located in Texas where the demonym is Tejano.</lex>
     </entry>
@@ -2572,7 +2572,7 @@
         <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
-      <lex comment="good" lid="Id2">Atlantic City International Airport owned by South Jersey Transportation Authority who's chief is Stephen Dilts.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
     </entry>
     <entry category="Airport" eid="Id176" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

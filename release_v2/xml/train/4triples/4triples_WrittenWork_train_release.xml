@@ -683,7 +683,7 @@
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
         <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Published by American Institute of Physics, AIP Advances was edited by A.T. Charlie Johnson who's almaMater is Harvard University and who is the doctoral advisor for Michael Tinkham.</lex>
+      <lex comment="good" lid="Id1">Published by American Institute of Physics, AIP Advances was edited by A.T. Charlie Johnson whose alma mater is Harvard University and who is the doctoral advisor for Michael Tinkham.</lex>
       <lex comment="good" lid="Id2">AIP Advances is published by the American Institute of Physics. It is edited by A.T. Charlie Johnson, whose alma mater is Harvard University, and whose doctoral advisor was Michael Tinkham.</lex>
       <lex comment="good" lid="Id3">The editor of AIP Advances published by American Institute of Physics is A.T Charlie Johnson who graduated from Harvard University and is the doctoral advisor for Michael Tinkham.</lex>
     </entry>
@@ -718,7 +718,7 @@
         <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIP Advances, published by the American Institute of Physics is edited by A.T. Charlie Johnson, who went to Harvard University and lives in the US.</lex>
-      <lex comment="good" lid="Id2">Published by the American Institute of Physics, AIP Advances is edited by A T Charlie Johnson, who's almaMater is Harvard University. They are a resident of the US.</lex>
+      <lex comment="good" lid="Id2">Published by the American Institute of Physics, AIP Advances is edited by A T Charlie Johnson, whose alma mater is Harvard University. They are a resident of the US.</lex>
       <lex comment="good" lid="Id3">A T Charlie Johnson lives in the US and is the editor of AIP Advances published by the American Institute of Physics. His alma mater is Harvard University.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id38" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

@@ -844,7 +844,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, capital of which is Athens and the leader is Nikos Voutsis.</lex>
-      <lex comment="good" lid="Id3">Greece, led by Nikos Voutisis, who's capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3">Greece, led by Nikos Voutisis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1677,8 +1677,8 @@
         <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
         <mtriple>AEK_Athens_F.C. | ground | Athens</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens FC who's grounds are in Athens compete in the Superleague Greece, the champion of which is Olympiacos F.C.</lex>
-      <lex comment="good" lid="Id2">AEK Athens F.C. who's grounds are in Athens, play in the Superleague Greece, the previous champions of which were Olympiacos FC.</lex>
+      <lex comment="good" lid="Id1">AEK Athens FC whose grounds are in Athens compete in the Superleague Greece, the champion of which is Olympiacos F.C.</lex>
+      <lex comment="good" lid="Id2">AEK Athens F.C. whose grounds are in Athens, play in the Superleague Greece, the previous champions of which were Olympiacos FC.</lex>
       <lex comment="good" lid="Id3">AEK Athens F.C., with their ground in Athens, play in the Superleague Greece in which Olympiacos F.C. were past champions.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id100" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2574,7 +2574,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.</lex>
-      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, who's leader is Sergio Mattarella and where they speak Italian.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Sergio Mattarella and where they speak Italian.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id154" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2834,7 +2834,7 @@
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.</lex>
-      <lex comment="good" lid="Id2">Juventus FC have been Serie A champions. A.S. Roma, who's ground is Stadio Olimpico also play in the same league.</lex>
+      <lex comment="good" lid="Id2">Juventus FC have been Serie A champions. A.S. Roma, whose ground is Stadio Olimpico also play in the same league.</lex>
       <lex comment="good" lid="Id3">The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico.</lex>
     </entry>
   </entries>
