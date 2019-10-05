@@ -111,7 +111,7 @@
         <mtriple>Texas | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States uses English as a spoken language and has the capital city of Washington DC. The country is the location of Abilene , part of Texas where the largest city is Houston.</lex>
+      <lex comment="good" lid="Id1">The United States uses English as a spoken language and has the capital city of Washington DC. The country is the location of Abilene, part of Texas where the largest city is Houston.</lex>
       <lex comment="good" lid="Id2">Abilene is a part of Texas, where Houston is the largest city. Texas is located in the United States, where the language spoken is English and the capital is Washington DC.</lex>
       <lex comment="good" lid="Id3">Washington, D.C. is the capital of the U.S., where English is spoken. In that country is the state of Texas, the largest city of which, is Houston. Also in the that state, is Abilene.</lex>
     </entry>
@@ -1082,7 +1082,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is in Potter County, Texas, United States. The country's capital is Washington, D.C. and English is the language spoken.</lex>
-      <lex comment="good" lid="Id2">Washington DC is the capital of the English speaking country of the United States. The country is the location of Amarillo , part of Potter County in Texas.</lex>
+      <lex comment="good" lid="Id2">Washington DC is the capital of the English speaking country of the United States. The country is the location of Amarillo, part of Potter County in Texas.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas, United States. English is the language spoken in the United States, where the capital is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id41" shape="(X (X (X (X)) (X (X))))" shape_type="mixed" size="5">
@@ -1272,7 +1272,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is part of Orange County, which is located in the Greater Los Angeles area of California, United States. Anaheim has a total area of 131.6 square kilometres and is led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id2">Anaheim, part of Greater Los Angeles California, is part of Orange County, California, U.S. The United States House of Representatives leads Anaheim which has an area of 131.6 Sq.Km.</lex>
-      <lex comment="good" lid="Id3">Anaheim 131.6 sq km. a city in Orange County , California a part of the Greater Los Angeles area located in the United States is led by The United House Of Representative.</lex>
+      <lex comment="good" lid="Id3">Anaheim 131.6 sq km. a city in Orange County, California a part of the Greater Los Angeles area located in the United States is led by The United House Of Representative.</lex>
     </entry>
     <entry category="City" eid="Id51" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1969,7 +1969,7 @@
         <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ann Arbor is part of Washentaw County in Michigan, United States. Detroit is the largest city in Michigan and the state capital is Lansing.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor , Washtenaw County, Detroit are found in Michigan which is in the United States and whose capital is Lansing.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Washtenaw County, Detroit are found in Michigan which is in the United States and whose capital is Lansing.</lex>
       <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan which is in the United States. Ann Arbor is part of Michigan but the largest city is Detroit and the capital is Lansing.</lex>
     </entry>
     <entry category="City" eid="Id81" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2081,7 +2081,7 @@
         <mtriple>Ann_Arbor,_Michigan | areaCode | 734</mtriple>
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor is located in Michigan and is led by the politician Christopher Taylor and a Mayor. It has the area code of 734 , covers a total area of 74.33 sq km and has a population density of 1580.7 people per sq km.</lex>
+      <lex comment="good" lid="Id1">Ann Arbor is located in Michigan and is led by the politician Christopher Taylor and a Mayor. It has the area code of 734, covers a total area of 74.33 sq km and has a population density of 1580.7 people per sq km.</lex>
       <lex comment="good" lid="Id2">The Mayor is the leader title in Ann Arbor (Michigan), which is led by the politician Christopher Taylor. With a total area of 74.33 square kilometres, Ann Arbor has the area code, 734 and the population density of 1580.7 as per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id84" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2612,7 +2612,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
         <mtriple>United_States | largestCity | New_York_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States has the capital of Washington DC and includes the ethnic group of Native Americans. The country (where the largest city is New York City) is the location of Atlantic City , Atlantic County, New Jersey.</lex>
+      <lex comment="good" lid="Id1">The United States has the capital of Washington DC and includes the ethnic group of Native Americans. The country (where the largest city is New York City) is the location of Atlantic City, Atlantic County, New Jersey.</lex>
       <lex comment="good" lid="Id2">Atlantic City is part of Atlantic County, New Jersey in the U.S. The country's largest city is New York and the country's capital is Washington, D.C.</lex>
       <lex comment="good" lid="Id3">Atlantic City is in Atlantic County, New Jersey, in the United States. The country's capital is Washington D.C. and its largest city is New York City. Native Americans are one of the ethnic groups in the U.S.</lex>
     </entry>
@@ -2744,7 +2744,7 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The municipal leader of Atlantic City, New Jersey is Don Guardian who is known as the Mayor. It has the area code of 609 , covers a total area of 44.125 sq km and has a population density of 1421.2 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id1">The municipal leader of Atlantic City, New Jersey is Don Guardian who is known as the Mayor. It has the area code of 609, covers a total area of 44.125 sq km and has a population density of 1421.2 inhabitants per sq km.</lex>
       <lex comment="good" lid="Id2">Don Guardian leads Atlantic City, New Jersey, where the municipal leader is known as the Mayor. With a total area of 44.125 square kilometres, Atlantic City, has a population of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
       <lex comment="good" lid="Id3">"Mayor" is the title of the leader in Atlantic City, New Jersey, which is led by Don Guardian. With a total area of 44.125 square kilometres, Atlantic City, has a population density of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
     </entry>
@@ -3602,7 +3602,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Indianapolis is the capital of Indiana, where Attica, which is part of Fountain County, is located. Covington is the county seat of Fountain County in the US.</lex>
       <lex comment="good" lid="Id2">Attica is located in Fountain County, Indiana, United States. The County Seat of Fountain is Covington and the capital of Indiana is Indianapolis.</lex>
-      <lex comment="good" lid="Id3">Covington is the county seat of Fountain County, Indiana,U.S.Attica is also part of Indiana ,whose capital is Indianapolis.</lex>
+      <lex comment="good" lid="Id3">Covington is the county seat of Fountain County, Indiana, U.S. Attica is also part of Indiana, whose capital is Indianapolis.</lex>
     </entry>
     <entry category="City" eid="Id145" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3830,7 +3830,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington D.C is the capital of the United States and its largest city is New York City. Texas its one of the states in the U.S formed by Abilene in Taylor County. English is the main language in this country.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is located in Taylor County, Texas, United States, where Washington, D.C. is the capital. English is the language spoken in the United States and the biggest city is New York City.</lex>
-      <lex comment="good" lid="Id3">The United States capital is Washington, D.C. ,the largest city is New York City, and English is the language spoken. Abilene, Taylor County, Texas is also located in this country.</lex>
+      <lex comment="good" lid="Id3">The United States capital is Washington, D.C., the largest city is New York City, and English is the language spoken. Abilene, Taylor County, Texas is also located in this country.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5211,7 +5211,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington DC is the capital of the United States where Pierce County is located. Auburn is located in the county which is part of the state of Washington where the largest city is Seattle.</lex>
       <lex comment="good" lid="Id2">Auburn forms part of Pierce County, Washington whose largest city is Seattle located in the United States but the capital of the United States is Washington DC.</lex>
-      <lex comment="good" lid="Id3">Auburn is in Pierce County, part of Washington state (United States), where the state's largest city , is Seattle. The capital of the United States is Washington DC.</lex>
+      <lex comment="good" lid="Id3">Auburn is in Pierce County, part of Washington state (United States), where the state's largest city is Seattle. The capital of the United States is Washington DC.</lex>
     </entry>
     <entry category="City" eid="Id229" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

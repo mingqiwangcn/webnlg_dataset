@@ -239,7 +239,7 @@
         <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Car and Engineering Company, founded in Coventry and succeeded by the Rover Company, manufactured the Alvis Speed 25.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company , which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company, which was succeeded by the Rover Co.</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company which was succeeded by The Rover Co.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

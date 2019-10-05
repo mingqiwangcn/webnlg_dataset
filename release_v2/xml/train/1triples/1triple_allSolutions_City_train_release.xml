@@ -849,7 +849,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The area code of Anderson, in Indiana, is 765.</lex>
       <lex comment="good" lid="Id2">The area code of Anderson, Indiana is 765.</lex>
-      <lex comment="good" lid="Id3">The area code of Anderson, Indiana , is 765.</lex>
+      <lex comment="good" lid="Id3">The area code of Anderson, Indiana, is 765.</lex>
     </entry>
     <entry category="City" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -859,7 +859,7 @@
         <mtriple>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana has an area of 107.43 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Anderson is located in Indiana , whose total area is 107.43 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Anderson is located in Indiana, whose total area is 107.43 square kilometres.</lex>
       <lex comment="good" lid="Id3">The total area of Anderson, Indiana is 107.43 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
@@ -2068,7 +2068,7 @@
         <mtriple>King_County,_Washington | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">King County Washington is in the U.S.</lex>
-      <lex comment="good" lid="Id2">King County ,Washington is located in the United States.</lex>
+      <lex comment="good" lid="Id2">King County, Washington is located in the United States.</lex>
       <lex comment="good" lid="Id3">King County, Washington is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id187" shape="(X (X))" shape_type="NA" size="1">

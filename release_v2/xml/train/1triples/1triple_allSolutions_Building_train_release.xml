@@ -596,7 +596,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky is in Copenhagen.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen is located in Copenhagen.</lex>
-      <lex comment="good" lid="Id3">The AC Hotel , Bella Sky is located in Copenhagen.</lex>
+      <lex comment="good" lid="Id3">The AC Hotel Bella Sky is located in Copenhagen.</lex>
     </entry>
     <entry category="Building" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1352,7 +1352,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asherton Texas is in the United States.</lex>
       <lex comment="good" lid="Id2">Asherton is situated in Texas,United States.</lex>
-      <lex comment="good" lid="Id3">Asherton , Texas is in the country of the United States.</lex>
+      <lex comment="good" lid="Id3">Asherton, Texas is in the country of the United States.</lex>
     </entry>
     <entry category="Building" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1480,7 +1480,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.</lex>
-      <lex comment="good" lid="Id3">The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street.</lex>
+      <lex comment="good" lid="Id3">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street.</lex>
     </entry>
     <entry category="Building" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2146,7 +2146,7 @@
       <modifiedtripleset>
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">London is lead via the European Parliament.</lex>
+      <lex comment="good" lid="Id1">London is led via the European Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id200" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

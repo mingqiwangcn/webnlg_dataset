@@ -229,7 +229,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport which is 25 metres above sea level. The runway name is 10L/28R and has a length of 2777.0.</lex>
-      <lex comment="good" lid="Id2">Aarhus Airport is operated by the Aktieselkab organisation. Its runway name is 10L/28R ,is 25 meters above sea level, and 2777 meters long.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport is operated by the Aktieselkab organisation. Its runway name is 10L/28R, is 25 meters above sea level, and 2777 meters long.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is 25 meters above sea level with a runway length of 2777 and named 10L/28R. It is operated by Aktieselskab .</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2049,9 +2049,9 @@
         <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpena County Regional Airport, which serves Alpena Michigan, is located in Wilson Township, Alpena County , Michigan. The Airport has a runway length of 1,533 and is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport, which serves Alpena Michigan, is located in Wilson Township, Alpena County, Michigan. The Airport has a runway length of 1,533 and is 210 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Alpena, Michigan, is served by the County Regional Airport. Located in the Wilson Township, the airport has an elevation 210 metres above sea level and a runway length of 1,533.</lex>
-      <lex comment="good" lid="Id3">Alpena County Regional Airport is found in Wilson Township,Alpena County Michigan and serves Alpena.The airport is situated 210 metres above sea level and has a 1,533km long runway.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is found in Wilson Township, Alpena County Michigan and serves Alpena. The airport is situated 210 metres above sea level and has a 1,533km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2417,7 +2417,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is located in Texas where the inhabitants have the demonym Texan. One of the languages spoken in Texas is Spanish and Austin is the capital.</lex>
       <lex comment="good" lid="Id2">Texas is the location of Andrews County Airport and has the capital city of Austin. The inhabitants of Texas are known as Texans and the Spanish language is spoken.</lex>
-      <lex comment="good" lid="Id3">Texas is home to Andrews County Airport , and hails the capital, Austin. The people are referred to as Texans and spanish is a language spoken.</lex>
+      <lex comment="good" lid="Id3">Texas is home to Andrews County Airport, and hails the capital, Austin. The people are referred to as Texans and spanish is a language spoken.</lex>
     </entry>
     <entry category="Airport" eid="Id115" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2634,7 +2634,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International Airport is located at Ícolo e Bengo, Luanda Province, Angola and has a runway called "05L/23R".</lex>
       <lex comment="good" lid="Id2">Angola International airport is located at Ícolo e Bengo, Luanda Province, Angola, and has the runway name of 05L/23R.</lex>
-      <lex comment="good" lid="Id3">Angola International Airport , with a runway named 05L/23R, is located at Ícolo e Bengo, which is in the Luanda Province of Angola.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport, with a runway named 05L/23R, is located at Ícolo e Bengo, which is in the Luanda Province of Angola.</lex>
     </entry>
     <entry category="Airport" eid="Id125" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2941,8 +2941,8 @@
         <mtriple>Appleton,_Wisconsin | isPartOf | Kimberly,_Wisconsin</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport serves the city of Appleton, Wisconsin and is in Greenville, Wisconsin, part of Menasha &amp; Kimbery, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">Appleton International Airport, which can be found in Greenville, Menasha, Wisconsin, serves Appleton. Appleton is part of Kimberley , Wisconsin .</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport serves the city of Appleton, Wisconsin and is in Greenville, Wisconsin, part of Menasha &amp; Kimberly, Wisconsin.</lex>
+      <lex comment="good" lid="Id2">Appleton International Airport, which can be found in Greenville, Menasha, Wisconsin, serves Appleton. Appleton is part of Kimberly, Wisconsin.</lex>
       <lex comment="good" lid="Id3">Appleton (part of Kimberly, Wisconsin) is served by Appleton International Airport located in Greenville (part of Menasha) Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id139" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

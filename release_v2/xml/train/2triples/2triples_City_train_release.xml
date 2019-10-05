@@ -501,7 +501,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico ,U.S. is led by the Mayor of Albuquerque.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico, U.S. is led by the Mayor of Albuquerque.</lex>
       <lex comment="good" lid="Id2">The leader of Albuquerque, New Mexico, US, is the Mayor of Albuquerque.</lex>
       </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1722,7 +1722,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City is part of New Jersey,United States where African Americans are one of the country's ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Atlantic City , New Jersey is part of the United States of America where one of the ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id2">Atlantic City, New Jersey is part of the United States of America where one of the ethnic groups are African Americans.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States, where Atlantic City, New Jersey is located.</lex>
     </entry>
     <entry category="City" eid="Id103" shape="(X (X (X)))" shape_type="chain" size="2">

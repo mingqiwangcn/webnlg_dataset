@@ -781,8 +781,8 @@
         <mtriple>Greece | capital | Athens</mtriple>
         <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Nikos Voutsis is the leader of greece where the currency is the Euro and the capital city is Athens. The country is the location of A.E Dimitra Efxeinoupolis .</lex>
-      <lex comment="good" lid="Id2">The A.E. Dimitea Efxeinoupolis club is located in Greece where the Euro is the currency , Athens is the capital and Nikos Voutsis is the leader.</lex>
+      <lex comment="good" lid="Id1">Nikos Voutsis is the leader of greece where the currency is the Euro and the capital city is Athens. The country is the location of A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id2">The A.E. Dimitea Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
       </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1714,7 +1714,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZAL Arena, the ground of AZAL PFK, is located in Shuvalan, Baku, Azerbaijan. AZAL PFK play in the Azerbaijan Premier League, where a championship team called Qarabag FK also play.</lex>
       <lex comment="good" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK compete in. The ground of which, is located in Shuvalan, Baku, Azerbaijan.</lex>
-      <lex comment="good" lid="Id3">The champions of the Azerbaijan Premier League is Qarabag FK. AZAL PFK , who also play in the league, have their home ground at the AZAL Arena in Shuvalan, Baku, Azerbaijan.</lex>
+      <lex comment="good" lid="Id3">The champions of the Azerbaijan Premier League is Qarabag FK. AZAL PFK, who also play in the league, have their home ground at the AZAL Arena in Shuvalan, Baku, Azerbaijan.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id93" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1746,7 +1746,7 @@
         <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Qarabag FK are the champions of the Azerbaijan Premier League. It is in this league, that the 3500 member strong, AZAL PFK competes in and played in , in 2014-15.</lex>
+      <lex comment="good" lid="Id1">Qarabag FK are the champions of the Azerbaijan Premier League. It is in this league, that the 3500 member strong, AZAL PFK competes in and played in, in 2014-15.</lex>
       <lex comment="good" lid="Id2">AZAL PFK have 3500 members and played in the Azerbaijan Premier League in 2014-15. Previous champions of this league were Qarabag FK.</lex>
       <lex comment="good" lid="Id3">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK, who have 3500 members also played in 2014-15.</lex>
     </entry>

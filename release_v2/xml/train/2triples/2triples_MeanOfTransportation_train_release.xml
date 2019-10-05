@@ -1262,7 +1262,7 @@
         <mtriple>Acura_TLX | engine | V6_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX, with a V6 engine, is made in Marysville, Ohio.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX , with a v6 engine, is made in Marysville, Ohio.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX, with a v6 engine, is made in Marysville, Ohio.</lex>
       <lex comment="good" lid="Id3">The Acura TLX has a V6 engine and was assembled in Marysville, Ohio.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id91" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1736,7 +1736,7 @@
         <mtriple>Alvis_Speed_25 | engine | "Petrol"</mtriple>
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 has a petrol engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id123" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2386,7 +2386,7 @@
         <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin Virage , which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin Virage  which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 was succeeded by the Aston Martin Virage which is a related vehicle to the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 was succeeded by the Aston Martin Virage which is related to the Aston Martin DBS.</lex>
     </entry>
@@ -2543,7 +2543,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lockheed Martin is the manufacturer of the Atlas II, the launch site of which, was the Spaceport Florida Launch Complex 36.</lex>
       <lex comment="good" lid="Id2">The Atlas II was manufactured by Lockheed Martin and its launch site was the Spaceport Florida Launch Complex 36.</lex>
-      <lex comment="good" lid="Id3">The Atlas II , whose launch pad is at Spaceport Florida Launch Complex 36, was made by Lockheed Martin.</lex>
+      <lex comment="good" lid="Id3">The Atlas II, whose launch pad is at Spaceport Florida Launch Complex 36, was made by Lockheed Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id181" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

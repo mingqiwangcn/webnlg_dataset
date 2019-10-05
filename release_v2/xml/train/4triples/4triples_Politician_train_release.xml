@@ -1565,7 +1565,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abraham A. Ribicoff is a United States national whose spouse was Casey Ribicoff, born in Chicago. African Americans are an ethnic group in the U.S.A.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff was a national of the United States and Casey Ribicoff (born in Chicago) was his wife. African Americans are an ethnic group of the United States.</lex>
-      <lex comment="good" lid="Id3">The wife of Abraham A. Ribicoff is Casey Ribicoff who was born in Chicago. Abraham is also a U.S. national and here , among with others, African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">The wife of Abraham A. Ribicoff is Casey Ribicoff who was born in Chicago. Abraham is also a U.S. national and here, among with others, African Americans are an ethnic group.</lex>
     </entry>
     <entry category="Politician" eid="Id84" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3155,7 +3155,7 @@
         <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
         <mtriple>Argentina | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire died in Buenos Aires, the leader of which , is Diego Santilli. Spanish is the language of Argentina, where Alberto Teisaire is from.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire died in Buenos Aires, the leader of which is Diego Santilli. Spanish is the language of Argentina, where Alberto Teisaire is from.</lex>
       <lex comment="good" lid="Id2">Argentinian Alberto Teisaire has died in Buenos Aires where the leader is Diego Santilli and people speak Spanish.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire died in Buenos Aires, where the leader is Diego Santilli. Alberto Teisaire was from Argentina, where Spanish is the language spoken.</lex>
     </entry>
@@ -3403,7 +3403,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, in Austria and died in Styria, in Graz.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst, Austria and died in Graz, Styria.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach ,born in lmst in Austria, died in Styria in Graz.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach, born in Imst in Austria, died in Styria in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id184" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -4000,7 +4000,7 @@
         <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
         <mtriple>Alvah_Sabin | state | Vermont</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin (born in Georgia ,Vermont) was from Vermont and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington, Vermont.</lex>
+      <lex comment="good" lid="Id1">Alvah Sabin (born in Georgia, Vermont) was from Vermont and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington, Vermont.</lex>
       <lex comment="good" lid="Id2">Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. Burlington is Vermont's largest city.</lex>
       <lex comment="good" lid="Id3">Vermont's 3rd Congressional District Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).</lex>
     </entry>

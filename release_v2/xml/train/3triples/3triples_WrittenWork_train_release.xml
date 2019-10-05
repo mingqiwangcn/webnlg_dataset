@@ -862,7 +862,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Harvard University is the alma mater of A T Charlie Johnson, who is the editor of AIP Advances, published by American Institute of Physics.</lex>
       <lex comment="good" lid="Id2">AIP Advances was edited by A.T. Charlie Johnson and published by American Institute of Physics. A.T. Charlie Johnson graduated from Harvard.</lex>
-      <lex comment="good" lid="Id3">AIP Advances publisher is American Institute of Physics and his editor is A T Charlie Johnson , his almaMater is Harvard University .</lex>
+      <lex comment="good" lid="Id3">AIP Advances publisher is American Institute of Physics and his editor is A T Charlie Johnson, his alma mater is Harvard University .</lex>
     </entry>
     <entry category="WrittenWork" eid="Id54" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1216,7 +1216,7 @@
         <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
         <mtriple>A_Long_Long_Way | mediaType | "Print  &amp; Paperback"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Long Long Way , which was published in Print &amp; Paperback, was preceded by Annie Dunne, it has an OCLC number of 57392246.</lex>
+      <lex comment="good" lid="Id1">A Long Long Way, which was published in Print &amp; Paperback, was preceded by Annie Dunne, it has an OCLC number of 57392246.</lex>
       <lex comment="good" lid="Id2">A Long Long Way, preceded by Annie Dunne, was published in print &amp; paperback. Its OCLC number is 57392246.</lex>
       <lex comment="good" lid="Id3">Preceded by Annie Dunne, A Long Long Way was published in print &amp; paperback with the OCLC number 57392246.</lex>
     </entry>

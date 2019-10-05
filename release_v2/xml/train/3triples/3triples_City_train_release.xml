@@ -1177,7 +1177,7 @@
         <mtriple>Anaheim,_California | leaderTitle | California_State_Assembly</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is a city in Orange County , California in the U.S. Anaheim is led by the California State Assembly.</lex>
+      <lex comment="good" lid="Id1">Anaheim is a city in Orange County, California in the U.S. Anaheim is led by the California State Assembly.</lex>
       <lex comment="good" lid="Id2">Anaheim is in Orange County, CA in the U.S. The California State Assembly leads Anaheim.</lex>
       <lex comment="good" lid="Id3">Led by the California State Assembly, Anaheim, is a city in Orange County, which is part of California, in the United States.</lex>
     </entry>
@@ -1744,8 +1744,7 @@
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Detroit is the largest city in Michigan. The state is also the location of Ann Arbor, Washtenaw County.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan, the largest city in that state is , Detroit.</lex>
-      <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan, the largest city in that state is Detroit.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan, the largest city in that state is Detroit.</lex>
     </entry>
     <entry category="City" eid="Id97" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

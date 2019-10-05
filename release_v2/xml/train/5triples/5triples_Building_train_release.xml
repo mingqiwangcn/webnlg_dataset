@@ -455,7 +455,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom, which has London as its capital. Queen Elizabeth II is a leader of the UK, as is Boris Johnson, and the European Parliament also has some control.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom, the country of which London is the capital and of which Elizabeth II is a leader. Boris Johnson is the leader of London, though the city is lead via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom, the country of which London is the capital and of which Elizabeth II is a leader. Boris Johnson is the leader of London, though the city is led via the European Parliament.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located in the UK where the capital city is London. Boris Johnson is a leader in London which is led by the European Parliament. Elizabeth II is the leader of the United Kingdom.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
@@ -473,8 +473,8 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
         <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elizabeth II is the leader of United Kingdom where the currency is Pound sterling and 20 Fenchurch Street is located. The capital is London which is lead via the European Parliament.</lex>
-      <lex comment="good" lid="Id2">London, the capital of the UK is lead via the European Parliament. 20 Fenchurch Street is located within the country which is led by Elizabeth II and has the currency of the pound sterling.</lex>
+      <lex comment="good" lid="Id1">Elizabeth II is the leader of United Kingdom where the currency is Pound sterling and 20 Fenchurch Street is located. The capital is London which is led via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">London, the capital of the UK is led via the European Parliament. 20 Fenchurch Street is located within the country which is led by Elizabeth II and has the currency of the pound sterling.</lex>
     </entry>
     <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -509,7 +509,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The capital of the United Kingdom is London which is led by the European Parliament along with Boris Johnson. The country is the location of 20 Fenchurch Street and the native people are known as British.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom. The capital of this country is London and is lead via the European Parliament. The leader is called Boris Johnson. The natives of the United kingdom are British people.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom. The capital of this country is London and is led via the European Parliament. The leader is called Boris Johnson. The natives of the United kingdom are British people.</lex>
     </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -527,7 +527,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">London is the capital of the UK which is led by Elizabeth II via the European Parliament. The native people are known as British and 20 Fenchurch Street is located within the country.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom, the capital city of which is London (which is lead via the European Parliament). British people inhabit the UK and the leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom, the capital city of which is London (which is led via the European Parliament). British people inhabit the UK and the leader is Elizabeth II.</lex>
       <lex comment="good" lid="Id3">The United Kingdom is led by Elizabeth II and also the European Parliament. The native people are known as British and the capital of the country is London. The UK is also the location of 20 Fenchurch Street.</lex>
     </entry>
     <entry category="Building" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -830,7 +830,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The company Populous were the architects of the 3Arena at North Wall, Dublin. The arena, which has a height of 28 metres, was completed in December 2008 and hosts concerts and events.</lex>
       <lex comment="good" lid="Id2">Concerts and events are hosted at 3Arena which is 28 metres high and was completed in December 2008. It is located at North Wall, Dublin and designed by the architectural company Populous.</lex>
-      <lex comment="good" lid="Id3">3Arena in North Wall, Dublin ,whose height is 28 metres, was designed by the company Populous and completed in December 2008. It hosts various concerts and events.</lex>
+      <lex comment="good" lid="Id3">3Arena in North Wall, Dublin, whose height is 28 metres, was designed by the company Populous and completed in December 2008. It hosts various concerts and events.</lex>
     </entry>
     <entry category="Building" eid="Id39" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1302,7 +1302,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky in Copenhagen has 23 floors and was designed by architects 3XN. It is owned by Bella Center and currently tenanted by Marriott International.</lex>
-      <lex comment="good" lid="Id2">The AC Hotel , Bella Sky in Copenhagen has 23 floors, is owned by Bella Center and was designed by the architects of the firm 3XN. Marriott International Hotel are the current tenants of the AC Hotel, Bella Sky.</lex>
+      <lex comment="good" lid="Id2">The AC Hotel, Bella Sky in Copenhagen has 23 floors, is owned by Bella Center and was designed by the architects of the firm 3XN. Marriott International Hotel are the current tenants of the AC Hotel, Bella Sky.</lex>
       <lex comment="good" lid="Id3">Located in Copenhagen, AC Hotel Bella Sky Copenhagen was designed by the architects of the 3XN firm. It has 23 floors, is owned by Bella Center and is tenanted by Marriott International.</lex>
     </entry>
     <entry category="Building" eid="Id61" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

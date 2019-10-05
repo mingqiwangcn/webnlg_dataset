@@ -365,7 +365,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction of 11 Diagonal Street began in 1978 and finished in 1983 with 20 floors. The architect was Helmut Jahn.</lex>
       <lex comment="good" lid="Id2">Helmut Jahn is the architect of 11 Diagonal Street which was begun in 1978 and completed in 1983 with 20 floors.</lex>
-      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was completed in 1983 , 5 years after the street itself was build in 1978. It is a 20 floor structure designed by Helmut Jahn.</lex>
+      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was completed in 1983, 5 years after the street itself was built in 1978. It is a 20 floor structure designed by Helmut Jahn.</lex>
     </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -975,8 +975,8 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor count of 34 and is located in London whose leader is Boris Johnson although London is lead via the European Parliament.</lex>
-      <lex comment="good" lid="Id2">Boris Johnson is the leader in London. 20 Fenchurch Street has 34 floors and is located in London. London is lead to the European Parliament.</lex>
+      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor count of 34 and is located in London whose leader is Boris Johnson although London is led via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">Boris Johnson is the leader in London. 20 Fenchurch Street has 34 floors and is located in London. London is led by the European Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1032,7 +1032,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom, of which the capital is London. The Leader of London, via the European Parliament, is called Boris Johnson.</lex>
-      <lex comment="good" lid="Id2">London, the UK capital is lead via the European Parliament along with Boris Johnson. It is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">London, the UK capital is led via the European Parliament along with Boris Johnson. It is the location of 20 Fenchurch Street.</lex>
     </entry>
     <entry category="Building" eid="Id45" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1047,9 +1047,9 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which has the capital city of London and is lead via the European Parliament. The UK is the location of 20 Fenchurch Street.</lex>
-      <lex comment="good" lid="Id2">London, the capital of the United Kingdom is lead via the European Parliament and Elizabeth II. 20 Fenchurch Street is located within the UK.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is lead via the European Parliment although the leader of the United Kingdom is Elizabeth II.</lex>
+      <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which has the capital city of London and is led via the European Parliament. The UK is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">London, the capital of the United Kingdom is led via the European Parliament and Elizabeth II. 20 Fenchurch Street is located within the UK.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is led via the European Parliment although the leader of the United Kingdom is Elizabeth II.</lex>
     </entry>
     <entry category="Building" eid="Id46" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1554,7 +1554,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Hotel Bella Sky is in Copenhagen, Denmark and has Marriott International as its tenant. It was designed by 3XN and has 23 floors.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen, designed with 23 floors by 3XN, and currently tenanted by the Marriott International Hotel, is located in Denmark.</lex>
-      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky , Copenhagen, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
+      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky, Copenhagen, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id71" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3412,7 +3412,7 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 with reference number 80002709.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place , East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 are in Asser Levy Place and East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id160" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

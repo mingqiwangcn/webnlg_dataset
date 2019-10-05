@@ -2691,7 +2691,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The label Floating World Records signed Alison O'Donnell, who plays jazz music and is signed with the record label Deram Records.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell (a jazz artiste) is under the recording labels Floating World Records and Deram Records.</lex>
-      <lex comment="good" lid="Id3">Alison O'Donnell plays jazz for the Deram Record label. The label ,Floating World Records, signed Alison O'Donnell.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell plays jazz for the Deram Record label. The label, Floating World Records, signed Alison O'Donnell.</lex>
     </entry>
     <entry category="Artist" eid="Id150" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3158,7 +3158,7 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Johnny_Sansone</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne is associated with the musical artists Billy Iuso and Johnny Sansone but he has also worked with Tab Benoit.</lex>
-      <lex comment="good" lid="Id2">Anders Osborne is an acquaintence of Billy Iuso ,Tab Benoit and Johnny Sansone.</lex>
+      <lex comment="good" lid="Id2">Anders Osborne is an acquaintance of Billy Iuso, Tab Benoit and Johnny Sansone.</lex>
       <lex comment="good" lid="Id3">Anders Osborne is associated with musicians Billy Iuso and Johnny Sansone and once worked with Tab Benoit.</lex>
     </entry>
     <entry category="Artist" eid="Id180" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
