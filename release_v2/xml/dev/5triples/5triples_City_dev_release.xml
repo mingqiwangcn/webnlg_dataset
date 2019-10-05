@@ -359,7 +359,7 @@
         <mtriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</mtriple>
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas , which uses the Spanish language, is Houston.</lex>
+      <lex comment="good" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas, which uses the Spanish language, is Houston.</lex>
       <lex comment="good" lid="Id2">Williamson County with county seat Georgetown, and Austin are located inTexas, where the largest city is Houston and Spanish is one of the spoken languages.</lex>
     </entry>
     <entry category="City" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

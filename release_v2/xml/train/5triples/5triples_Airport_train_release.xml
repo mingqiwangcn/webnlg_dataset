@@ -1481,7 +1481,7 @@
         <mtriple>Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad airbase in Al Anbar Province of Iraq is operated by the United States Air Force. The Airbase is 08/26 which is 3990.0 long, The ICAO Location Identifier of Al Asad Airbase is ORAA.</lex>
+      <lex comment="good" lid="Id1">Al Asad airbase in Al Anbar Province of Iraq is operated by the United States Air Force. The Airbase is 08/26 which is 3990.0 long. The ICAO Location Identifier of Al Asad Airbase is ORAA.</lex>
       <lex comment="good" lid="Id2">In Al Anbar Province, Iraq, there is an Airbase called Al Asad Airbase. Its ICAO location identifies is ORAA, and it is operated by the United States Air Force. It is has a runway with a length of 3,990.</lex>
       <lex comment="good" lid="Id3">Th United State Air Force, operates the Al Asad Airbase located in Al Anbar Province, Iraq. Its ICAO location ID is ORAA. The Airbase's 08/26 runway is 3,990, in length.</lex>
     </entry>
@@ -3580,9 +3580,9 @@
         <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
         <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Turkmenistan airlines have their HQ in Turkmenistan and Ashgabat and their hub at Turkmenabat airport, They are the operating organisation for Ashgabat International Airport which has a runway length of 900.0.</lex>
+      <lex comment="good" lid="Id1">Turkmenistan airlines have their HQ in Turkmenistan and Ashgabat and their hub at Turkmenabat airport. They are the operating organisation for Ashgabat International Airport which has a runway length of 900.0.</lex>
       <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines whose headquarters is in Ashgabat, Turkmenistan. Its runway length is 900 m. Turkmenabat airport is the hub for Turkmenistan airlines.</lex>
-      <lex comment="good" lid="Id3">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines, the Airport is also the hub for the Airline. The headquarters of Turkmenistan Airlines are in Ashgabat, Turkenistan. The Airport has a runway length of 900.0.</lex>
+      <lex comment="good" lid="Id3">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines, the Airport is also the hub for the Airline. The headquarters of Turkmenistan Airlines are in Ashgabat, Turkmenistan. The Airport has a runway length of 900.0.</lex>
     </entry>
     <entry category="Airport" eid="Id154" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

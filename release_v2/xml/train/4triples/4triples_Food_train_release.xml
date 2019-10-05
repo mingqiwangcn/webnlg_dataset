@@ -999,7 +999,7 @@
         <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
         <mtriple>Asam_pedas | region | "Sumatra and Malay Peninsula"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula in Malaysia, the people of Malaysia are known as Malay also the Malaysian chinese are an ethnic group in Malaysia.</lex>
+      <lex comment="good" lid="Id1">The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula in Malaysia, the people of Malaysia are known as Malay. Also the Malaysian Chinese are an ethnic group in Malaysia.</lex>
       <lex comment="good" lid="Id2">Malaysian Chinese and Malaysian Malay are ethnic groups of Malaysia, where asam pedas is a local food. The dish comes from the Sumatra and Malay Peninsula regions.</lex>
     </entry>
     <entry category="Food" eid="Id53" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1488,7 +1488,7 @@
         <mtriple>Bacon_Explosion | region | Kansas_City_metropolitan_area</mtriple>
         <mtriple>Bacon_Explosion | mainIngredients | Sausage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Kansas City, USA is the home of the Bacon Explosion it includes sausage and bacon.</lex>
+      <lex comment="good" lid="Id1">Kansas City, USA is the home of the Bacon Explosion. It includes sausage and bacon.</lex>
       </entry>
     <entry category="Food" eid="Id80" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3060,7 +3060,7 @@
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
         <mtriple>Bandeja_paisa | ingredient | Pork_belly</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bandeja Paisa is from the Paisa region it is a typical Colombian cuisine. The main ingredients of Bandeja paisa are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
+      <lex comment="good" lid="Id1">Bandeja Paisa is from the Paisa region. It is a typical Colombian cuisine. The main ingredients of Bandeja paisa are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
       <lex comment="good" lid="Id2">Bandeja paisa originates from the Paisa region of Colombia. The main ingredients are: red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
       <lex comment="good" lid="Id3">Bandeja paisa originates from the Paisa region, Colombia. The main ingredients are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
     </entry>

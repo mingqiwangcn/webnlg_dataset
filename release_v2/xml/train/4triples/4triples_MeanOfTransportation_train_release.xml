@@ -381,7 +381,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDA Cruises of Germany is the owner of AIDAluna, which is powered by Caterpillar Inc (includes key figure Douglas R. Oberhelman).</lex>
       <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. who provide the power for AIDAluna owned by AIDA Cruises in Germany.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by German company AIDA Cruises, uses a Caterpillar Inc. engine . Caterpillar Inc. includes key member Douglas R. Oberhelman.</lex>
+      <lex comment="good" lid="Id3">AIDAluna, owned by German company AIDA Cruises, uses a Caterpillar Inc. engine. Caterpillar Inc. includes key member Douglas R. Oberhelman.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1361,7 +1361,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth foundation was founded in Italy by Carlo Abarth. It manufactured the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and made by Abarth. The Abarth foundation was founded in Italy by Carlo Abarth.</lex>
-      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and manufactured by Abarth, which was founded by Carlo Abarth . The Abarth foundation was founded in Italy.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and manufactured by Abarth, which was founded by Carlo Abarth. The Abarth foundation was founded in Italy.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id72" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2054,8 +2054,8 @@
         <mtriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, a mid size luxury executive car has a 4-speed auto (ZF 4HP18QE) transmission with a straight-four engine. It is also referred to as the Alfa Romeo 168.</lex>
-      <lex comment="good" lid="Id2">Alfa Romeo 164 (alternative name Alfa Romeo 168), is considered a mid-size luxury executive car. It has a Straight four engine and has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164, is a 4 speed automatic, straigt four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
+      <lex comment="good" lid="Id2">Alfa Romeo 164 (alternative name Alfa Romeo 168) is considered a mid-size luxury executive car. It has a straight four engine and has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164 has a 4 speed automatic, straigt four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -4372,8 +4372,8 @@
         <mtriple>Italy | capital | Rome</mtriple>
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164 . The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
-      <lex comment="good" lid="Id2">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164 . The Alfa Romeo 164 was assembled in Italy, whose capital is Rome.</lex>
+      <lex comment="good" lid="Id1">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164. The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
+      <lex comment="good" lid="Id2">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164. The Alfa Romeo 164 was assembled in Italy, whose capital is Rome.</lex>
       <lex comment="good" lid="Id3">The Saab 9000, Alfa Romeo 164 and Lancia Thema are related means of transportation. The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id225" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

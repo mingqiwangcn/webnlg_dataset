@@ -22,7 +22,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ship AIDAstella is operated by Rostock based AIDA Cruises. It was built by Meyer Werft and is owned by Costa Crociere.</lex>
       <lex comment="good" lid="Id2">Located at Rostock, AIDA Cruises operate AIDAstella ship which was built by Meyer Werft and owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft . It is owned by Costa Crociere and operated by AIDA Cruise Line based in Rostock.</lex>
+      <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruise Line based in Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -435,7 +435,7 @@
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
-      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout .</lex>
+      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
       <lex comment="good" lid="Id3">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

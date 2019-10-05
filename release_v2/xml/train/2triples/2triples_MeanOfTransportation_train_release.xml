@@ -364,7 +364,7 @@
         <mtriple>AIDAluna | activeYearsStartDate | 2009-03-22</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna which has a length of 252000.0 millimetres started its service on the 22nd of March, 2009.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long, and its service was started on the 22nd of March, 2009</lex>
+      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long, and its service was started on the 22nd of March, 2009.</lex>
       <lex comment="good" lid="Id3">The AIDAluna began its service on 22 March, 2009 and it is 252000.0 mms in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2828,7 +2828,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 and the Fiat Croma are similar means of transport and the latter is also related to the Saab 9000.</lex>
       <lex comment="good" lid="Id2">The Fiat Croma, Saab 9000 and the Fiat Croma are all cars and as such, are related means of transport.</lex>
-      <lex comment="good" lid="Id3">The Fiat Croma, which is a similar means of transport to the Alfa Romeo 164, is also a related means of transport to the Saab 9000 .</lex>
+      <lex comment="good" lid="Id3">The Fiat Croma, which is a similar means of transport to the Alfa Romeo 164, is also a related means of transport to the Saab 9000.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id200" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

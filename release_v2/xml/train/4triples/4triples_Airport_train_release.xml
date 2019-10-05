@@ -66,8 +66,8 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Greenlandic language is spoken in Denmark where Aarhus airport is located in Tirstrup, part of the Central Denmark region.</lex>
-      <lex comment="good" lid="Id2">Aarhus Airport is located in Tristrup, Denmark, where they speak the Greenlandic language.</lex>
-      <lex comment="good" lid="Id3">Aarhus Airport is located in the Central Denmark region of Tirstrup, Denmark where the Greenlandic language is spoken?</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport is located in Tirstrup, Denmark, where they speak the Greenlandic language.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is located in the Central Denmark region of Tirstrup, Denmark where the Greenlandic language is spoken.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2672,7 +2672,7 @@
         <mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
         <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antwerp International Airport is operated by the Flemish Government in the Flemish Region it is 12 metres above sea level and serves Antwerp.</lex>
+      <lex comment="good" lid="Id1">The Antwerp International Airport is operated by the Flemish Government in the Flemish Region. It is 12 metres above sea level and serves Antwerp.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is owned by the Flemish Region and operated by the Flemish government. It serves the city of Antwerp and is located at 12 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Antwerp International Airport, which serves Antwerp and is 12 metres above sea level, is owned by the Flemish Region and operated by the Flemish Government.</lex>
     </entry>

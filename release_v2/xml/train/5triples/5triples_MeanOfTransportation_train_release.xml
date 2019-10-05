@@ -584,7 +584,7 @@
         <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States is home to Americans and African Americans, it has a capital of Washington D.C. and the national anthem is The Star Spangled Banner. The ALV X-1 hails from the US.</lex>
-      <lex comment="good" lid="Id2">ALV X-1 originated in the United States, where the people are called Americans and the capital is Washington, D.C. The national anthem of the United States is the Star Spangled Banner and African Americans are among the ethnic groups .</lex>
+      <lex comment="good" lid="Id2">ALV X-1 originated in the United States, where the people are called Americans and the capital is Washington, D.C. The national anthem of the United States is the Star Spangled Banner and African Americans are among the ethnic groups.</lex>
       <lex comment="good" lid="Id3">United States has its capital at Washington D.C and the national anthem is The Star Spangled Banner. It is home to Americans, African Americans and the ALV X-1.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1709,7 +1709,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Guiana Space Centre, French Guiana, is the location of the ELA-3 launchpad, operated by Arianespace, located in Courcouronnes. The ELA-3 is where the Ariane 5 was launched.</lex>
-      <lex comment="good" lid="Id2">The launch site of the Ariane was ELA-3 Launchpad at the Guiana Space Centre in French Guiana. The ELA-3 is operated by Arianespace, located in Courcouronnes, .</lex>
+      <lex comment="good" lid="Id2">The launch site of the Ariane 5 was ELA-3 Launchpad at the Guiana Space Centre in French Guiana. The ELA-3 is operated by Arianespace, located in Courcouronnes.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3, which is located at the Guiana Space Centre in French Guiana. The ELA-3 is operated by Arianespace, located in the city of Courcouronnes.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id78" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -1765,8 +1765,8 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 was assembled at Newport Pagnell- the volume of Aston MArtin V8 is 5.3 litres,The Aston Martin Virage is made by the company Aston Martin.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell. It has a 5.3 litre engine and was succeeded by the Aston Martin Virage, made by the company Aston Martin,.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8 was assembled at Newport Pagnell. The volume of Aston Martin V8 is 5.3 litres. It is related to Aston Martin RHAM/1, and was succeeded by the Aston Martin Virage. The Aston Martin Virage is made by the company Aston Martin.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell. It has a 5.3 litre engine and was succeeded by the Aston Martin Virage, made by the company Aston Martin.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is related to the Aston Martin RHAM/1 and has a 5.3 litre engine. Its assembly is located in Newport Pagnell. The Aston Martin Virage, made by the company Aston Martin, succeeded the Aston Martin V8.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id81" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -1822,7 +1822,7 @@
         <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin Vantage succeeded the Aston Martin DBS which is a related form of transport to the Aston Martin V8. Aston Martin is the manufacturer of the Aston Martin V8 which is assembled in the United Kingdom, the leader of which, is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8, made by Aston Martin, is related to the Aston Martin DBS and was succeeded by the Aston Martin Vantage. The Aston Martin V8 is assembled in the U.K. where Elizabeth II is the leader .</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8, made by Aston Martin, is related to the Aston Martin DBS and was succeeded by the Aston Martin Vantage. The Aston Martin V8 is assembled in the U.K. where Elizabeth II is the leader.</lex>
       <lex comment="good" lid="Id3">The Aston Martin DBS, (which was succeded by the Aston Martin Vantage), and the Aston Martin V8 are related means of transport. The latter vehicle is manufactured by Aston Martin and assembled in the United Kingdom which is led by Elizabeth II.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id84" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2425,7 +2425,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella, owned by Costa Crociere (parent company AIDA Cruises.), was built by Meyer Werft and is operated by AIDA Cruises. AIDA Cruises is located in Rostock.</lex>
       <lex comment="good" lid="Id2">The AIDAstella, built by Meyer Werft, is owned by Costa Crociere (parent company Carnival Corporation &amp; plc) and operated by AIDA Cruide Line. AIDA Cruises is based in Rostock.</lex>
-      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who owns the AIDAstella . The AIDAstella is operated by AIDA Cruise Line based in Rostock and was built by Meyer Werft.</lex>
+      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who owns the AIDAstella. The AIDAstella is operated by AIDA Cruise Line based in Rostock and was built by Meyer Werft.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id110" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3050,7 +3050,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Americans inhabit the U.S. where the Atlas II originates. The leader of the U.S. is the President, its capital is Washington, D. C., and Native Americans are one ethnic group in that country.</lex>
-      <lex comment="good" lid="Id2">The Atlas II is from the United States, where Americans live . The United States has an ethnic group called Native Americans, its capital is Washington D.C. and its leader is titled The President of the United States.</lex>
+      <lex comment="good" lid="Id2">The Atlas II is from the United States, where Americans live. The United States has an ethnic group called Native Americans, its capital is Washington D.C. and its leader is titled The President of the United States.</lex>
       <lex comment="good" lid="Id3">The Atlas ii originates from the US which is led by the President and has the capital city of Washington DC. The country's inhabitants are known as Americans and include the ethnic group of Native Americans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id141" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3106,7 +3106,7 @@
         <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II is from the United States, where the capital is Washington D.C. and the language English . The leader of the United States is the President of the United States and one of its ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id1">The Atlas II is from the United States, where the capital is Washington D.C. and the language English. The leader of the United States is the President of the United States and one of its ethnic groups is Asian Americans.</lex>
       <lex comment="good" lid="Id2">The English speaking United States, led by a President in the capital of Washington D.C. is home to Asian Americans and the Atlas II.</lex>
       <lex comment="good" lid="Id3">In the United states the capital is Washington DC, and is run by the president. In the U.S. there is The Atlas II, Asians, and the native language is english.</lex>
     </entry>
@@ -3276,7 +3276,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The country of origin of the ALV X-1 is the United States, where Washington D.C. is the capital . of the United States. The leader of the United States is the President of the United States and the Star Spangled Banner is the national anthem. White Americans are one of the ethnic groups in the United States.</lex>
+      <lex comment="good" lid="Id1">The country of origin of the ALV X-1 is the United States, where Washington D.C. is the capital. The leader of the United States is the President of the United States and the Star Spangled Banner is the national anthem. White Americans are one of the ethnic groups in the United States.</lex>
       <lex comment="good" lid="Id2">Washington D.C. is the capital of the United States, where the ALV X-1 originated, and its national anthem is the Star Spangled Banner. The title of the leader of United States is The President of the United States, and White Americans are one of its ethnic groups.</lex>
       <lex comment="good" lid="Id3">ALV X-1 originated in the United States which has the capital city of Washington DC. The country's leader is known as the President, the national anthem is the Star Spangled Banner and one of the ethnic groups in the country are the White Americans.</lex>
     </entry>
