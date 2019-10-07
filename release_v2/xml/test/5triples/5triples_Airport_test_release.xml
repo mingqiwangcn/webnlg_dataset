@@ -409,7 +409,7 @@
         <mtriple>Angola_International_Airport | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Ícolo e Bengo, Angola International Airport serves Luanda. The airport is 159 metres above the sea level, has a runway length of 3800 and the runway name, 05L/23R.</lex>
-      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo and serves the city of Luanda.It is situated 159 meters above sea level and has a 3,800 kilometers long runway named 05L/23R.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo and serves the city of Luanda. It is situated 159 meters above sea level and has a 3,800 kilometers long runway named 05L/23R.</lex>
       <lex comment="good" lid="Id3">Angola International Airport, which lies 159 metres above sea level, is located in Icolo e Bengo and serves the city of Luanda. The runway length is 3800.0 and the runway is named 05L/23R.</lex>
     </entry>
     <entry category="Airport" eid="Id17" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
@@ -519,7 +519,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ICAO location identifier for Atlantic City International Airport is KACY. It is located at Egg Harbor Township, Atlantic County, New Jersey in the United States.</lex>
-      <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States.The Airport's ICAO location identifier is KACY.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States. The Airport's ICAO location identifier is KACY.</lex>
     </entry>
     <entry category="Airport" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -538,7 +538,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township, which is in New Jersey, in the United States. The airport is operated by the Port Authority of New York and New Jersey, the headquarters of which are at the Four World Trade Center.</lex>
       <lex comment="good" lid="Id2">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey which operates Atlantic City International Airport. The airportis in Egg Harbor Township, part of New Jersey, in the United States.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey,whose headquarters is located at the Four World Trade Center.The airport is found in Egg Harbor,N.J, in the United States.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey,whose headquarters is located at the Four World Trade Center. The airport is found in Egg Harbor, N.J, in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id22" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -575,8 +575,8 @@
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force which operates Agra Airport. This airport is located in Uttar Pradesh (part of Bundelkhand), where Ram Naik is the leader.</lex>
-      <lex comment="good" lid="Id2">Agra Airport is in Uttar Pradesh(part of Bundelkhand) and operated by the Indian Air Force. The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force. Ram Naik is a leader of Uttar Pradesh.</lex>
-      <lex comment="good" lid="Id3">Agra Airport is located in Uttar Pradesh(part of Bundelkhand) and operated by the Indian Air Force.Ram Naik is the leader of Uttar Pradesh.The Indian Air Force uses HAL Light Combat Helicopters.</lex>
+      <lex comment="good" lid="Id2">Agra Airport is in Uttar Pradesh (part of Bundelkhand) and operated by the Indian Air Force. The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force. Ram Naik is a leader of Uttar Pradesh.</lex>
+      <lex comment="good" lid="Id3">Agra Airport is located in Uttar Pradesh (part of Bundelkhand) and operated by the Indian Air Force. Ram Naik is the leader of Uttar Pradesh. The Indian Air Force uses HAL Light Combat Helicopters.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>

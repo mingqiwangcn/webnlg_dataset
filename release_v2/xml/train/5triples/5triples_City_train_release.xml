@@ -18,7 +18,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene and Austin are in the united states in the state of Texas, New York City is the largest city of the US and english is spoken in Texas.</lex>
       <lex comment="good" lid="Id2">Abilene is a part of Texas, where Austin is the capital and English is spoken. Texas is located in the United States, where New York City is the biggest city.</lex>
-      <lex comment="good" lid="Id3">English is spoken in Austin thats the capital of Texas in the US. Abilene is also a part of Texas however the largest city in the United States is New York City,.</lex>
+      <lex comment="good" lid="Id3">English is spoken in Austin thats the capital of Texas in the US. Abilene is also a part of Texas however the largest city in the United States is New York City.</lex>
     </entry>
     <entry category="City" eid="Id2" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -591,7 +591,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque in Bernalillo County, New Mexico is governed by the New Mexico House of Representatives, where Richard J Berry is the leader. Albuquerque is found in the United States, where English is the language used.</lex>
-      <lex comment="good" lid="Id2">Albuquerque is in The United States and its part of Bernalillo County in New Mexico, The leader is Richard J. Berry, the New Mexico House of Representatives, is what the leader is called. The language spoken is english,.</lex>
+      <lex comment="good" lid="Id2">Albuquerque is in the United States and it's part of Bernalillo County in New Mexico. The leader is Richard J. Berry, the New Mexico House of Representatives, is what the leader is called. The language spoken is English.</lex>
       <lex comment="good" lid="Id3">Albuquerque is part of Bernalillo County, New Mexico which is part of the U.S. where people speak English. The city is led by the New Mexico House of Representatives and its leader is Richard J. Berry.</lex>
     </entry>
     <entry category="City" eid="Id21" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -609,7 +609,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | United_States_House_of_Representatives</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque is part of Bernalillo County,New Mexico in the U.S. and the city's leader entity is the United States House of Representatives.Barack Obama is the leader of the United States and English is the official language.</lex>
+      <lex comment="good" lid="Id1">Albuquerque is part of Bernalillo County,New Mexico in the U.S. and the city's leader entity is the United States House of Representatives. Barack Obama is the leader of the United States and English is the official language.</lex>
       </entry>
     <entry category="City" eid="Id22" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -858,7 +858,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County,Georgia in the United States and Atlanta is the largest city of the county.African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County,Georgia in the United States and Atlanta is the largest city of the county. African Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia, with Atlanta is its largest city. Georgia is part of the United States, which is home to African Americans.</lex>
       </entry>
     <entry category="City" eid="Id32" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1477,8 +1477,8 @@
         <mtriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tom Tait is the leader of Anaheim,California.The United States House of Representatives is part of the United States Congress which leads Anaheim.</lex>
-      <lex comment="good" lid="Id2">The United States House of Representatives is part of the United States Congress in The United States, where they speak English.The United States House of Representatives leads Anaheim, California, along with Tom Tait.</lex>
+      <lex comment="good" lid="Id1">Tom Tait is the leader of Anaheim,California. The United States House of Representatives is part of the United States Congress which leads Anaheim.</lex>
+      <lex comment="good" lid="Id2">The United States House of Representatives is part of the United States Congress in The United States, where they speak English. The United States House of Representatives leads Anaheim, California, along with Tom Tait.</lex>
     </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1700,7 +1700,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson is a city that can be found in Madison County, Indiana, USA, and is led by the Democratic Party of the US. The headquarters of the party is on South Capitol Street, Washington D.C.</lex>
-      <lex comment="good" lid="Id2">Anderson is located in Madison County, Indiana which is led by the Democratic Party in the United States.The headquarters of the Democratic Party (United States) is at South Capitol Street.</lex>
+      <lex comment="good" lid="Id2">Anderson is located in Madison County, Indiana which is led by the Democratic Party in the United States. The headquarters of the Democratic Party (United States) is at South Capitol Street.</lex>
       <lex comment="good" lid="Id3">Anderson, led by the Democratic Party (Headquarters: South Capital St., U.S.), is part of Madison County, Indiana, United States.</lex>
     </entry>
     <entry category="City" eid="Id73" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3375,7 +3375,7 @@
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is located in Texas, where the largest city is Houston. Austin forms part of Williamson County, where the County Seat is Georgetown and the largest city is Round Rock.</lex>
-      <lex comment="good" lid="Id2">Austin Texas is part of Williamson County(county seat:Georgetown),whose largest city is Round Rock.Houston is the largest city in Texas.</lex>
+      <lex comment="good" lid="Id2">Austin Texas is part of Williamson County(county seat: Georgetown), whose largest city is Round Rock. Houston is the largest city in Texas.</lex>
     </entry>
     <entry category="City" eid="Id134" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4102,7 +4102,7 @@
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city of Albany is part of Benton County,Oregon in the U.S. where the inhabitants are called Americans.Washington D.C. is the capital of the country and African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">The city of Albany is part of Benton County,Oregon in the U.S. where the inhabitants are called Americans. Washington D.C. is the capital of the country and African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Albany, Benton County, Oregon is part of The United States. The U.S. is home to African Americans and boasts its capital as Washington, DC.</lex>
       <lex comment="good" lid="Id3">Albany in Benton County, Oregon, is part of the U.S. The country is home to Native Americans and Americans.</lex>
     </entry>
@@ -4255,7 +4255,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Americans are inhabitants of the United States which uses the spoken language of English and includes Native Americans among its ethnic groups. The country is also the location of Albany, Georgia.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia is in the United States where English is spoken. The people of the country are known as Americans and one of the ethnic groups are Native Americans.</lex>
-      <lex comment="good" lid="Id3">People living in U.S. are called Americans and they speak English . Native Americans are an ethnic group in U.S where Albany, Georgia is located.</lex>
+      <lex comment="good" lid="Id3">People living in U.S. are called Americans and they speak English. Native Americans are an ethnic group in U.S where Albany, Georgia is located.</lex>
     </entry>
     <entry category="City" eid="Id179" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4272,7 +4272,7 @@
         <mtriple>New_Mexico_Senate | leader | John_Sánchez</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque is located in New Mexico,United States and is led by the New Mexico Senate.The Senate's leader is John Sanchez and English is the official language of the country.African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id1">Albuquerque is located in New Mexico, United States and is led by the New Mexico Senate. The Senate's leader is John Sanchez and English is the official language of the country. African Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id2">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Alberquerque is located in New Mexico and one ethnic group is African American.</lex>
     </entry>
     <entry category="City" eid="Id180" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4942,7 +4942,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Oregon is in Benton County United states where english is spoken, Native americans are an ethnic group, and Washington D.C. is the capital.</lex>
-      <lex comment="good" lid="Id2">Albany is part of Benton County,Oregon in the U.S.Washington, D.C. is the capital of the U.S and English is its official language.The Native Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id2">Albany is part of Benton County, Oregon in the U.S. Washington, D.C. is the capital of the U.S and English is its official language. The Native Americans are an ethnic group within the United States.</lex>
       <lex comment="good" lid="Id3">The United States, which has the capital of Washington DC, uses the English language and includes the Native Americans among its ethnic groups. The country is the location of the city of Albany, part of Benton County in Oregon.</lex>
     </entry>
     <entry category="City" eid="Id215" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -4978,7 +4978,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola is located in Pleasant Township which is part of Steuben County,Indiana in the United States. Americans are the inhabitants of the country and English is the official language there.Asian Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id1">Angola is located in Pleasant Township which is part of Steuben County, Indiana in the United States. Americans are the inhabitants of the country and English is the official language there. Asian Americans are an ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id2">English is the language of the United States, where the occupants are known as Americans. In the United States, Asian Americans are one of the ethnic groups, and Angola is located. Angola is in Pleasant Township which is part of Steuben County, in Indiana.</lex>
     </entry>
     <entry category="City" eid="Id217" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -5127,7 +5127,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia in the United States,whose inhabitants are called Americans.The president is the leader of the United States and African Americans are an ethnic group in the country.</lex>
+      <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia in the United States,whose inhabitants are called Americans. The president is the leader of the United States and African Americans are an ethnic group in the country.</lex>
       <lex comment="good" lid="Id2">The United States, which is led by a President, is populated by Americans, including the ethnic group of African Americans. The country is the location of Albany, part of Dougherty County in Georgia.</lex>
       <lex comment="good" lid="Id3">Albany is located in Dougherty County, Georgia, in the United States. The country; where Americans live, African Americans are one of the ethnic groups, and the leader, is called the President of the United States.</lex>
     </entry>
@@ -5165,9 +5165,9 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia,U.S.The president is the leader of the United States and its inhabitants are called Americans.The Asian Americans are an ethnic group of the United States.</lex>
+      <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia,U.S.The president is the leader of the United States and its inhabitants are called Americans. The Asian Americans are an ethnic group of the United States.</lex>
       <lex comment="good" lid="Id2">Albany is located in Dougherty County, Georgia, United States, where Americans live. The president is the leader of the United States and Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Albany, Georgia (Dougherty County), is located in the United States,, whose leader is the President. Residing in the U.S. are Americans and among its ethnic groups are Asian Americans.</lex>
+      <lex comment="good" lid="Id3">Albany, Georgia (Dougherty County), is located in the United States, whose leader is the President. Residing in the U.S. are Americans and among its ethnic groups are Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id227" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

@@ -267,7 +267,7 @@
       <modifiedtripleset>
         <mtriple>Ab_Klink | office (workedAt, workedAs) | House_of_Representatives_(Netherlands)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink worked at the House of Representatives in Netherlands,.</lex>
+      <lex comment="good" lid="Id1">Ab Klink worked at the House of Representatives in Netherlands.</lex>
     </entry>
     <entry category="Politician" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -594,7 +594,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero, while in office, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was the Minister of Transport.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero worked as Minister of Transport,.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero worked as Minister of Transport.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

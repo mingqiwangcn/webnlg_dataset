@@ -742,9 +742,9 @@
         <mtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</mtriple>
         <mtriple>Afonso_Pena_International_Airport | location | São_José_dos_Pinhais</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Afonso Pena International Airport is located in Sao Jose dos Pinhais and serves Curitaba which is part of the state of Parana.It is operated by Infraero.</lex>
+      <lex comment="good" lid="Id1">Afonso Pena International Airport is located in Sao Jose dos Pinhais and serves Curitaba which is part of the state of Parana. It is operated by Infraero.</lex>
       <lex comment="good" lid="Id2">Curitiba is part of Parana State and is served by Afonso Pena International airport which is operated by Infraero and located in Sao Jose dos Pinhais.</lex>
-      <lex comment="good" lid="Id3">Afonso Pena International Airport serves the city of Curitiba which is part of Parana state.The airport is operated by Infrareo and is located in Sao Jose dos Pinhais.</lex>
+      <lex comment="good" lid="Id3">Afonso Pena International Airport serves the city of Curitiba which is part of Parana state. The airport is operated by Infrareo and is located in Sao Jose dos Pinhais.</lex>
     </entry>
     <entry category="Airport" eid="Id36" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1404,7 +1404,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase which has a runway length of 3990. It is located in Al Anbar Province, Iraq and has the runway name of 08/26.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase, located in Al Anbar Province, Iraq, is operated by the United States Air Force. Its runway name is 08/26 and its length 3990.</lex>
-      <lex comment="good" lid="Id3">Al Asad airbase is located at Al Anbar Province in Iraq and operated by the United States Air Force.The base's runway called 08/26 and 3990 meters long.</lex>
+      <lex comment="good" lid="Id3">Al Asad airbase is located at Al Anbar Province in Iraq and operated by the United States Air Force. The base's runway called 08/26 and 3990 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id66" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1895,7 +1895,7 @@
         <mtriple>Punjab,_Pakistan | country | Pakistan</mtriple>
         <mtriple>Pakistan | leaderName | Nawaz_Sharif</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Pakistan is led by Nawaz Sharif.Punjab, a major region, contains Allama Iqbal International Airport within the city of Lahore.</lex>
+      <lex comment="good" lid="Id1">Pakistan is led by Nawaz Sharif. Punjab, a major region, contains Allama Iqbal International Airport within the city of Lahore.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International Airport serves the city of Lahore and is found in Punjab, Pakistan where Nawaz Sharif is the leader.</lex>
       <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab, Pakistan and serves the city of Lahore. Pakistan's leader is Nawaz Sharif.</lex>
     </entry>
@@ -2218,7 +2218,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport, serving the city of Andrews, Texas, is 973 metres above sea level, and has a runway length of 1773 metres.</lex>
-      <lex comment="good" lid="Id2">Andrews County Airport is located in Andrews,Texas.The airport is located 973 meters above sea level and has a 1.773 km long runway.</lex>
+      <lex comment="good" lid="Id2">Andrews County Airport is located in Andrews, Texas. The airport is located 973 meters above sea level and has a 1.773 km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id105" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2246,7 +2246,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is located in Texas and serves the city of Andrews. It is 973 above sea level and has a runway length of 8.0.</lex>
-      <lex comment="good" lid="Id2">Andrews County Airport is located in Texas and serves the city of Andrews.It has an 8.0km long runway and situated 973 meters above sea level.</lex>
+      <lex comment="good" lid="Id2">Andrews County Airport is located in Texas and serves the city of Andrews. It has an 8.0km long runway and situated 973 meters above sea level.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport, servicing Andrews, Texas, is 973 above sea level with a runway length of 8 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id106" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2333,7 +2333,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The demonym for the people of Texas is Tejano and the spoken language is English. The state is the location of Andrews County airport and has the capital city of Austin.</lex>
       <lex comment="good" lid="Id2">Andrews County airport is in Texas where the capital city is Austin, the local people are known as Tejano and the spoken language is English.</lex>
-      <lex comment="good" lid="Id3">Andrews County Airport is located in Texas whose capital city is Austin.Tejano are the inhabitants of the state and English language is spoken there.</lex>
+      <lex comment="good" lid="Id3">Andrews County Airport is located in Texas whose capital city is Austin. Tejano are the inhabitants of the state and English language is spoken there.</lex>
     </entry>
     <entry category="Airport" eid="Id110" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2350,7 +2350,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Texas is the location of Andrews County Airport and has the capital of Austin. The local inhabitants are Texans and the language spoken is English.</lex>
       <lex comment="good" lid="Id2">The people of Texas speak the English language and are called Texans. Their capital is Austin. Andrews County Airport is located in Texas.</lex>
-      <lex comment="good" lid="Id3">Andrews County Airport is located in Texas whose capital city is Austin.English is one of the spoken languages in Texas and the state's inhabitants are called Texans.</lex>
+      <lex comment="good" lid="Id3">Andrews County Airport is located in Texas whose capital city is Austin. English is one of the spoken languages in Texas and the state's inhabitants are called Texans.</lex>
     </entry>
     <entry category="Airport" eid="Id111" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2381,7 +2381,7 @@
         <mtriple>Texas | capital | Austin,_Texas</mtriple>
         <mtriple>Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin, the capital of Texas, is found in the United States.Two Texan tidbits are that Spanish is widely spoken and a major airport is the Andrews County.</lex>
+      <lex comment="good" lid="Id1">Austin, the capital of Texas, is found in the United States. Two Texan tidbits are that Spanish is widely spoken and a major airport is the Andrews County.</lex>
       <lex comment="good" lid="Id2">The capital of Texas in the USA is Austin. The language spoken in Texas is Spanish and it is the location of Andrews County airport.</lex>
       <lex comment="good" lid="Id3">Texas is located in the United States and has the capital city of Austin. The Spanish language is spoken and the state is the location of Andrews County Airport.</lex>
     </entry>
@@ -2399,7 +2399,7 @@
         <mtriple>Texas | demonym | Tejano</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is located in Texas, where Spanish is spoken and Austin is the capital. It is also where the Texas demonym is Tejano.</lex>
-      <lex comment="good" lid="Id2">Texas, where Spanish is widely spoken, has a capital of Austin.One major Texas airport is Andrews County Airport. A slang term for Texans is Tejano.</lex>
+      <lex comment="good" lid="Id2">Texas, where Spanish is widely spoken, has a capital of Austin. One major Texas airport is Andrews County Airport. A slang term for Texans is Tejano.</lex>
       <lex comment="good" lid="Id3">The people of Texas are known as Tejano and the Spanish language is spoken. The capital city is Austin and the state is served by Andrews County Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id114" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3096,7 +3096,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Poaceae is of the order poales, the class of Monocotyledon and belongs to the order of Commelinids. It constitutes the surface of the 3rd runway at Ardmore Airport in New Zealand.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand)'s 3rd runway surface type is Poaceae which is a member of the order of Poales, the class is Monocotyledon, and belongs to the order of Commelinids.</lex>
-      <lex comment="good" lid="Id3">Ardmore Airport (New Zealand)'s 3rd runway is surfaced with Poaceae.Poaceae belongs to the Poales and Commelinids order and classified as Monocotyledon.</lex>
+      <lex comment="good" lid="Id3">Ardmore Airport (New Zealand)'s 3rd runway is surfaced with Poaceae. Poaceae belongs to the Poales and Commelinids order and classified as Monocotyledon.</lex>
     </entry>
     <entry category="Airport" eid="Id146" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3222,7 +3222,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ashgabat International Airport located in Ashgabat is operated by Turkmenistan Airlines, its runway is 211 metres above sea level and has a runway length of 900.0.</lex>
       <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport in Ashgabat, is called Turkmenistan Airlines. The airport is 211 metres above sea level and the runway length is 900 metres.</lex>
-      <lex comment="good" lid="Id3">The Ashgabat International Airport is located in Ashgabat and operated by the Turkmenistan Airlines.The airport is situated 211 meters above sea level and has a 0.9 km long runway.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport is located in Ashgabat and operated by the Turkmenistan Airlines. The airport is situated 211 meters above sea level and has a 0.9 km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id152" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3284,7 +3284,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is Turkmenistan Airlines whose HQ is in Ashgabat, Turkmenistan. The runway length at the airport is 3800.0.</lex>
       <lex comment="good" lid="Id2">Ashgabat International Airports has a runway length of 3800. It is operated by Turkmenistan Airlines who are located in Ashgabat, Turkmenistan.</lex>
-      <lex comment="good" lid="Id3">The Ashgabat International Airport has 3800.00 meters long runway and operated by the Turkmenistan Airlines.The headquarters of the Airlines is placed in Ashgabat,Turkmenistan.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport has 3800.00 meters long runway and operated by the Turkmenistan Airlines. The headquarters of the Airlines is placed in Ashgabat,Turkmenistan.</lex>
     </entry>
     <entry category="Airport" eid="Id155" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3736,7 +3736,7 @@
         <mtriple>Antwerp | country | Belgium</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antwerp is served by Antwerp International Airport and is a popular tourism destination in Belgium where the leader is Philippe of Belgium and the French language is spoken.</lex>
-      <lex comment="good" lid="Id2">Antwerp International Airport serves the city of Antwerp in Belgium.The country's leader is Philippe of Belgium and French is one of the official language there.</lex>
+      <lex comment="good" lid="Id2">Antwerp International Airport serves the city of Antwerp in Belgium. The country's leader is Philippe of Belgium and French is one of the official language there.</lex>
       <lex comment="good" lid="Id3">Antwerp International Airport services, French speaking, Antwerp, Belgium (led by Philippe of Belgium).</lex>
     </entry>
     <entry category="Airport" eid="Id173" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">

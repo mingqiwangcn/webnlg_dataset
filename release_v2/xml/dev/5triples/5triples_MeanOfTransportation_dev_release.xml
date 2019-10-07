@@ -146,7 +146,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009. It was manufactured by Airbus Defence and Space and launched from the Guiana Space Centre. Its diameter is 5.4 metres.</lex>
       <lex comment="good" lid="Id2">The Airbus Defence and Space manufactured the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the final flight on 18 December 2009.</lex>
-      <lex comment="good" lid="Id3">The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009.</lex>
+      <lex comment="good" lid="Id3">The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -181,8 +181,8 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom., the Aston Mastin DBS is the manufacturer of the Aston Martin,.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom, where the ruler is, Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom governed by Elizabeth II. The next model of that vehicle was the Aston Martin Virage, which is related to Aston Martin DBS. Aston Martin is the manufacturer of the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom, where the ruler is Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.</lex>
       <lex comment="good" lid="Id3">Aston Martin manufactures the Aston Martin DBS which is related to the Aston Martin Virage. The latter car succeeded the Aston Martin V8 which is assembled in the United Kingdom which is led by Elizabeth II.</lex>
       <lex comment="good" lid="Id4">Aston Mastin DBS, made by Aston Martin, is related to the Aston Martin Virage, which succeeded the Aston Martin V8. The V8 was assembled in the, Elizabeth II led, United Kingdom.</lex>
     </entry>

@@ -896,7 +896,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
       <lex comment="good" lid="Id2">Anaheim, California has a UTC offset of -7 and covers a total area of 131.6 square kilometres.</lex>
-      <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres,.</lex>
+      <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id52" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2209,7 +2209,7 @@
         <mtriple>Hays_County,_Texas | largestCity | San_Marcos,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hays County, Texas is part of Austin and the largest city is San Marcos.</lex>
-      <lex comment="good" lid="Id2">Austin is in Hays County, Texas, and the largest city of Hays County is San Marcos,.</lex>
+      <lex comment="good" lid="Id2">Austin is in Hays County, Texas, and the largest city of Hays County is San Marcos.</lex>
       <lex comment="good" lid="Id3">Austin is in Hays County, Texas where the largest city is San Marcos.</lex>
     </entry>
     <entry category="City" eid="Id131" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2628,7 +2628,7 @@
         <mtriple>Auburn,_Washington | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Washington is part of the United States which has the capital city of Washington DC.</lex>
-      <lex comment="good" lid="Id2">Auburn, Washington is part of the United States, where Washington D,C,. is the capital.</lex>
+      <lex comment="good" lid="Id2">Auburn, Washington is part of the United States, where Washington D.C. is the capital.</lex>
       <lex comment="good" lid="Id3">Auburn, Washington is part of the United States whose capital is Washington DC.</lex>
     </entry>
     <entry category="City" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">

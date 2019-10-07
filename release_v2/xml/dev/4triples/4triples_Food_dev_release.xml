@@ -32,7 +32,7 @@
         <mtriple>Ajoblanco | ingredient | Water</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Water is an ingredient in Ajoblanco, also known as Ajo blanco, a dish that comes from Andalusia Spain.</lex>
-      <lex comment="good" lid="Id2">Ajoblanco is a food originates from the Andalusian region of Spain and contains water.An other alternative name of the dish is Ajo blanco.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is a food originates from the Andalusian region of Spain and contains water. An other alternative name of the dish is Ajo blanco.</lex>
       </entry>
     <entry category="Food" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -104,7 +104,7 @@
         <mtriple>Arrabbiata_sauce | region | Rome</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arrabbiata sauce originates from the region of Rome in Italy. It is made with tomatoes, red chili, garlic and olive oil.</lex>
-      <lex comment="good" lid="Id2">Arrabbiata sauce is a traditional dish from Rome,Italy.The main ingredients of it are tomatoes,red chili pepper,garlic and olive oil.</lex>
+      <lex comment="good" lid="Id2">Arrabbiata sauce is a traditional dish from Rome, Italy. The main ingredients of it are tomatoes, red chili pepper, garlic and olive oil.</lex>
       <lex comment="good" lid="Id3">Arrabbiata sauce is a traditional dish from Rome in Italy. An important ingredient is chili pepper and it also contains tomatoes, red chili, garlic and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -274,7 +274,7 @@
         <mtriple>Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">From the United Kingdom, the bacon sandwich's main ingredients are bread and bacon and a condiment, often ketchup or brown sauce. It can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
-      <lex comment="good" lid="Id2">Bacon sandwich originates from the United Kingdom and its main ingredients are bread,bacon with ketchup or brown sauce.It has different names including:Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id2">Bacon sandwich originates from the United Kingdom and its main ingredients are bread,bacon with ketchup or brown sauce. It has different names including:Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
       <lex comment="good" lid="Id3">The main ingredients of a bacon sandwich, (popular in the UK), are bread, bacon and ketchup or brown sauce as a condiment. The bacon sandwich has several alternative names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -414,7 +414,7 @@
         <mtriple>Batagor | dishVariation | Siomay</mtriple>
         <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Batagor is an Indonesian food and a variation of the Siomay dish.It contains a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
+      <lex comment="good" lid="Id1">Batagor is an Indonesian food and a variation of the Siomay dish. It contains a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
       <lex comment="good" lid="Id2">Batagor, (a variation of Siomay), is a dish found in Indonesia and its main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
       <lex comment="good" lid="Id3">Batagor, from Indonesia, is a dish consisting of fried fish dumplings, tofu and vegetables in peanut sauce. Siomay is a variation of batagor.</lex>
     </entry>
@@ -575,7 +575,7 @@
         <mtriple>Binignit | mainIngredients | Coconut_milk</mtriple>
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Binignit comes from the Visayas region of the Philippines.Its main ingredients are sweet potato and coconut milk.</lex>
+      <lex comment="good" lid="Id1">Binignit comes from the Visayas region of the Philippines. Its main ingredients are sweet potato and coconut milk.</lex>
       <lex comment="good" lid="Id2">Sweet potato and coconut milk are ingredients in the dish binignit, which comes from the Visayas region of the Philippines.</lex>
       <lex comment="good" lid="Id3">Binignit, which contains sweet potato and coconut milk, is a dish from the Visayas region of the Philippines.</lex>
     </entry>
@@ -593,7 +593,7 @@
         <mtriple>Bionico | ingredient | Sour_cream</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a food found in Guadalajara, Mexico. Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico.</lex>
-      <lex comment="good" lid="Id2">Bionico is a food originates from the Guadalajara region of Mexico.The main ingredients of the dish are chopped fruits,sour cream,condensed milk,granola,shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id2">Bionico is a food originates from the Guadalajara region of Mexico. The main ingredients of the dish are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
       <lex comment="good" lid="Id3">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is a Mexican food from the Guadalajara region.</lex>
     </entry>
     <entry category="Food" eid="Id33" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

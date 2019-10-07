@@ -14,7 +14,7 @@
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
         <mtriple>Texas | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene is part of Texas in the United States.Washington, D.C. is the capital of the U.S and English is its official language.</lex>
+      <lex comment="good" lid="Id1">Abilene is part of Texas in the United States. Washington, D.C. is the capital of the U.S and English is its official language.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas, where English is spoken, is in the United States which has Washington D.C. as its capital.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas (English is one of the languages spoken), is in the United States, where Washington D.C. is the capital.</lex>
     </entry>
@@ -31,7 +31,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Georgia, is located within the United States where the inhabitants are called Americans.One of the ethnic groups in the United States are the African Americans.</lex>
+      <lex comment="good" lid="Id1">Albany, Georgia, is located within the United States where the inhabitants are called Americans. One of the ethnic groups in the United States are the African Americans.</lex>
       <lex comment="good" lid="Id2">Albany is part of the state of Georgia in the United States. The people living in the US are called Americans and include the ethnic group of African Americans.</lex>
       <lex comment="good" lid="Id3">Albany is located in the US state of Georgia. Americans are the people occupying the U.S, where one of the ethnic groups is the African Americans.</lex>
     </entry>
@@ -237,7 +237,7 @@
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica is part of Logan Township, Fountain County, Indiana and has 783.1 inhabitants for each of the 4.14 square kilometres it covers.</lex>
-      <lex comment="good" lid="Id2">Attica is part of Logan Township, Fountain County, Indiana in the United States.The area of Attica Indiana is 4.14 Sq Km and it has a 783.1 inhabitants per square kilometres population density.</lex>
+      <lex comment="good" lid="Id2">Attica is part of Logan Township, Fountain County, Indiana in the United States. The area of Attica Indiana is 4.14 Sq Km and it has a 783.1 inhabitants per square kilometres population density.</lex>
       <lex comment="good" lid="Id3">Attica is part of Logan Township, Fountain County in the United States. It covers a total area of 4.14 sq kms and the population density if 783.1 inhabitants per sq km.</lex>
     </entry>
     <entry category="City" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -255,7 +255,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The population density, of Attica, Fountain County, Indiana in the USA is 783.1 inhabitants per square kilometre. It has an area of 4.14 SqKm.</lex>
       <lex comment="good" lid="Id2">Attica is located in Fountain County, Indiana in the United States of America. It has a total area of 4.14 sq km with a population density of 783.1 inhabitants per sq km.</lex>
-      <lex comment="good" lid="Id3">Attica is part of Fountain County,Indiana in the United States.Its total area is 4.14 square kilometres and it has a 783.1 inhabitants/sq km population density.</lex>
+      <lex comment="good" lid="Id3">Attica is part of Fountain County,Indiana in the United States. Its total area is 4.14 square kilometres and it has a 783.1 inhabitants/sq km population density.</lex>
     </entry>
     <entry category="City" eid="Id14" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -301,7 +301,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is in Pierce County, Washington in the U.S. It's total area is 77.41 sq. km.</lex>
       <lex comment="good" lid="Id2">With a total area of 77.41 sq kms, Auburn, part of Pierce County, is part of the state of Washington, in the United States.</lex>
-      <lex comment="good" lid="Id3">Auburn, Washington is located within the United States and belong to Pierce County.The total area of Auburn is 77.41 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Auburn, Washington is located within the United States and belong to Pierce County. The total area of Auburn is 77.41 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id16" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>

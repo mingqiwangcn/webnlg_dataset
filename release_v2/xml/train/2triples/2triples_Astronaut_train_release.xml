@@ -578,7 +578,7 @@
         <mtriple>William_Anders | nationality | United_States</mtriple>
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American William Anders was born in British Hong Kong,.</lex>
+      <lex comment="good" lid="Id1">The American William Anders was born in British Hong Kong.</lex>
       <lex comment="toFix" lid="Id2">William Anders, who was from the United States, was actually born in British Hong Kong.</lex>
       <lex comment="good" lid="Id3">Although William Anders was from the United States, he was actually born in British Hong Kong.</lex>
       <lex comment="good" lid="Id4">William Anders nationality is the United States, but he was born in Hong Kong.</lex>

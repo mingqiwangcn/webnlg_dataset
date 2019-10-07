@@ -1008,8 +1008,8 @@
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Walter Baade, who discovered 1036 Ganymed, studied at the University of Gottingen and had Allan Sandage as a doctoral student.</lex>
-      <lex comment="good" lid="Id2">Allan Sandage was a doctoral student of Walter Baade,who discovered 1036 Ganymed and studied in the University of Gottingen.</lex>
-      <lex comment="good" lid="Id3">Walter Baade graduated from University of Gottingen and discovered 1036 Ganymed.Allan Sandage was a doctoral student of Walter Baade.</lex>
+      <lex comment="good" lid="Id2">Allan Sandage was a doctoral student of Walter Baade, who discovered 1036 Ganymed and studied in the University of Gottingen.</lex>
+      <lex comment="good" lid="Id3">Walter Baade graduated from University of Gottingen and discovered 1036 Ganymed. Allan Sandage was a doctoral student of Walter Baade.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id50" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1066,7 +1066,7 @@
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Walter Baade, a graduate from University of Gottingen, discovered 1036 Ganymed, and died in West Germany.</lex>
-      <lex comment="good" lid="Id2">Walter Baade, who attended the University of Gottingen discovered 1036 Ganymed. He died in West Germany,.</lex>
+      <lex comment="good" lid="Id2">Walter Baade, who attended the University of Gottingen discovered 1036 Ganymed. He died in West Germany.</lex>
       <lex comment="good" lid="Id3">1036 Ganymed was discovered by Walter Baade, whose alma mater was the University of Gottingen. He died in West Germany.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id54" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

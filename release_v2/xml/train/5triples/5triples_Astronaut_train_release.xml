@@ -601,7 +601,7 @@
         <mtriple>Apollo_8 | backup pilot | Buzz_Aldrin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong, which was represented by Chris Patten. He served as a crew member on Apollo 8, along with the commander Frank Borman and the backup pilot Buzz Aldrin.</lex>
-      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong for which Chris Patten is a British representative. He served as a crew member on Apollo 8 along with commander Frank Borman and backup pilot Buzz Aldrin,.</lex>
+      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong for which Chris Patten is a British representative. He served as a crew member on Apollo 8 along with commander Frank Borman and backup pilot Buzz Aldrin.</lex>
     </entry>
     <entry category="Astronaut" eid="Id33" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -676,7 +676,7 @@
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey, USA on the 20th of January, 1930. He was a crew member of Apollo 11 before he retired.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. He is now retired but was a member of the Apollo 11 crew,.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. He is now retired but was a member of the Apollo 11 crew.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. Prior to his retiral he was a crew member on Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -732,7 +732,7 @@
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He is a US citizen and he was selected by NASA in 1963 to become a crew member of Apollo 11. He has now retired.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey and is a United States national. He was selected in 1963 by NASA as a member of the Apollo 11 crew. He has now retired,.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey and is a United States national. He was selected in 1963 by NASA as a member of the Apollo 11 crew. He has now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -787,7 +787,7 @@
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin, a retired fighter pilot, was born in Glen Ridge, New Jersey on January 20, 1930. He was a crew member on Apollo 11.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey on 20 January 1930. He served as a fighter pilot and became a crew member of Apollo 11. He has now retired,.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey on 20 January 1930. He served as a fighter pilot and became a crew member of Apollo 11. He has now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -992,8 +992,8 @@
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas in 1927. He was a student of the University of Texas at Austin and died in St Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See died in St louis. He was a US National who was born in Dallas on 23 July 1927 and attended the University of Texas at Austin,.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born on 23 July 1927 in Dallas. A US national, he attended the University of Texas at Austin. He died in St Louis,.</lex>
+      <lex comment="good" lid="Id2">Elliot See died in St louis. He was a US National who was born in Dallas on 23 July 1927 and attended the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id3">Elliot See was born on 23 July 1927 in Dallas. A US national, he attended the University of Texas at Austin. He died in St Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id54" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1065,7 +1065,7 @@
         <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas on 07/23/1927. He attended University of Texas at Austin and died in St. Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born on 23 July 1927 in Dallas. He was a student at the University of Texas at Austin. He died in St Louis,.</lex>
+      <lex comment="good" lid="Id2">Elliot See was born on 23 July 1927 in Dallas. He was a student at the University of Texas at Austin. He died in St Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id58" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1213,7 +1213,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See attended the University of Texas at Austin, which is affiliated to the University of Texas System and will compete in the Big 12 Conference. Elliot See died in St. Louis on February 28, 1966.</lex>
       <lex comment="good" lid="Id2">Elliot See attended the University of Texas at Austin who are competing in the Big 12 Conference. Elliot See died on February 28, 1966 in St. Louis.</lex>
-      <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin who are competing in the Big 12 Conference. Elliot See died in St.Louis on February 28, 1966.</lex>
+      <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin who are competing in the Big 12 Conference. Elliot See died in St. Louis on February 28, 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id66" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1582,7 +1582,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Wiliam Anders was born in British Hong Kong and graduated from AFIT with an M.S. in 1962. In 1963, he was selected by NASA and served as a test pilot and Apollo 8 crew member.</lex>
       <lex comment="good" lid="Id2">William Anders, who was born in British Hong Kong, graduated from AFIT, M.S. in 1962. The following year, he was selected by NASA and served as a fighter pilot and a crew member on Apollo 8.</lex>
-      <lex comment="good" lid="Id3">William Anders was born in British Hong Kong and graduated from AFIT in 1962 with an MS. He served as a fighter pilot before joining NASA in 1963 as crew on the Apollo 8,.</lex>
+      <lex comment="good" lid="Id3">William Anders was born in British Hong Kong and graduated from AFIT in 1962 with an MS. He served as a fighter pilot before joining NASA in 1963 as crew on the Apollo 8.</lex>
     </entry>
     <entry category="Astronaut" eid="Id86" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

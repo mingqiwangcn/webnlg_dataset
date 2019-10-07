@@ -556,8 +556,8 @@
         <mtriple>United_States | leader | Barack_Obama</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque,New Mexico is located in the United States and English is the spoken language there.The leader of the United States is called the President whom was Barack Obama recently.</lex>
-      <lex comment="good" lid="Id2">The leader of the United States, which uses the English language, is President Barack Obama . Albuquerque in New Mexico is located within the country .</lex>
+      <lex comment="good" lid="Id1">Albuquerque,New Mexico is located in the United States and English is the spoken language there .The leader of the United States is called the President whom was Barack Obama recently.</lex>
+      <lex comment="good" lid="Id2">The leader of the United States, which uses the English language, is President Barack Obama. Albuquerque in New Mexico is located within the country .</lex>
       </entry>
     <entry category="City" eid="Id26" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

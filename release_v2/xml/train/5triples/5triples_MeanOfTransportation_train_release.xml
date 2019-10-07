@@ -191,7 +191,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDA Cruises (located in Germany) is the owner of AIDAluna, which is powered by Caterpillar Inc. Caterpillar Inc. was founded in California, United States.</lex>
       <lex comment="good" lid="Id2">Caterpillar Inc. was founded in the United States in California and that company powered the AIDAluna. The AIDAluna is owned by AIDA Cruises out of Germany.</lex>
-      <lex comment="good" lid="Id3">AIDA Cruises, located in Germany. is the owner of AIDAluna, which is powered by Caterpillar Inc. Caterpillar Ince,. founded in California, is located in the United States.</lex>
+      <lex comment="good" lid="Id3">AIDA Cruises, located in Germany, is the owner of AIDAluna, which is powered by Caterpillar Inc. Caterpillar Inc., founded in California, is located in the United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2760,7 +2760,7 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, located in Rostock, Germany. Germany (home of the Germans) is led by Andreas Voßkuhle,.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, located in Rostock, Germany. Germany (home of the Germans) is led by Andreas Voßkuhle.</lex>
       <lex comment="good" lid="Id2">Neptun Werft, who built the A-Rosa Luna, is located in Rostock, Germanany. Andreas Voßkuhle is a leader of Germany and Germans is the demonym for people who live there.</lex>
       <lex comment="good" lid="Id3">A-Rosa was built by Neptun Werft, a company located in Rostock in Germany. Andreas Voßkuhle is a leader in the country and the people that live there are called Germans.</lex>
     </entry>

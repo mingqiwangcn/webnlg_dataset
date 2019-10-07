@@ -935,7 +935,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was an American born in Glen Ridge, Essex County, New Jersey. He was a member of Apollo 11's crew. William Anders was an Apollo 11 backup pilot. Joe Biden is a US leader.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot.</lex>
-      <lex comment="good" lid="Id3">Born in Glen Ridge NewJersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders.Joe Biden was the American leader.</lex>
+      <lex comment="good" lid="Id3">Born in Glen Ridge NewJersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders. Joe Biden was the American leader.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -974,7 +974,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from MIT in 1963. He performed as a fighter pilot and was a member of the Apollo 11 crew, operated by NASA. He is now retired.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey, graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, his occupation was a fighter pilot and is now retired. Buzz Aldrin was a crew member of Apollo 11 which was operated by NASA,.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey, graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, his occupation was a fighter pilot and is now retired. Buzz Aldrin was a crew member of Apollo 11 which was operated by NASA.</lex>
     </entry>
     <entry category="Astronaut" eid="Id49" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1094,7 +1094,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas and was American. He attended the University of Texas at Austin and worked as a test pilot. He died on Feb 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See was an American born in Dallas and attended the University of Texas at Austin. He was a test pilot. He died in St Louis in 1966.</lex>
-      <lex comment="good" lid="Id3">Elliot See was originally from Dallas and graduated from the University of Texas at Austin. He worked as a test pilot and died in St.Louis on the 28th February 1966.</lex>
+      <lex comment="good" lid="Id3">Elliot See was originally from Dallas and graduated from the University of Texas at Austin. He worked as a test pilot and died in St. Louis on the 28th February 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id55" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1235,7 +1235,7 @@
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
         <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See attended the University of Texas at Austin. The university is affiliated with the University of Texas System and it competed in the Big 12 Conference in Austin. The president of the university was Gregory L. Fenves. Elliot See died in St Louis. The leader of St.Louis was Francis G. Slay.</lex>
+      <lex comment="good" lid="Id1">Elliot See attended the University of Texas at Austin. The university is affiliated with the University of Texas System and it competed in the Big 12 Conference in Austin. The president of the university was Gregory L. Fenves. Elliot See died in St Louis. The leader of St. Louis was Francis G. Slay.</lex>
       <lex comment="good" lid="Id2">Elliot See graduated from UT at Austin, which is affiliated to with the University of Texas System and will compete in the Big 12 Conference. Gregory L Fenves is the appointed president. Elliot See died in St Louis where Francis G Slay is the mayor.</lex>
       </entry>
     <entry category="Astronaut" eid="Id62" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -1523,7 +1523,7 @@
         <mtriple>Elliot_See | was selected by NASA | 1962</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Test pilot Elliot See was an American who was picked by NASA as part of the space mission in 1962. See was born in Dallas and died in St. Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See is originally from Dallas and joined NASA in 1962 where he flew as a test pilot. Elliot See died in St.Louis.</lex>
+      <lex comment="good" lid="Id2">Elliot See is originally from Dallas and joined NASA in 1962 where he flew as a test pilot. Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id76" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1789,7 +1789,7 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Apollo 8 was operated by NASA and had the following crew: William Anders who served as Chief of the Astronaut Office in 1976 and spent 8820 minutes in space; Buzz Aldrin who was a backup pilot and Frank Borman who was a crew member.</lex>
-      <lex comment="good" lid="Id2">William Anders served as a crew member of Apollo 8 and as Chief of the Astronaut Office in 1976. He walked in space for 8820 minutes. Buzz Aldrin was the backup pilot and Frank Borman a crew member. Apollo 8 was operated by NASA,.</lex>
+      <lex comment="good" lid="Id2">William Anders served as a crew member of Apollo 8 and as Chief of the Astronaut Office in 1976. He walked in space for 8820 minutes. Buzz Aldrin was the backup pilot and Frank Borman a crew member. Apollo 8 was operated by NASA.</lex>
       <lex comment="good" lid="Id3">Frank Borman and William Anders served as past of NASA's Apollo 8 crew. Anders served as Chief of the Astronaut Office in 1976 and spend 8820.0 minutes in space. Buzz Aldrin was an Apollo 8 backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id89" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">

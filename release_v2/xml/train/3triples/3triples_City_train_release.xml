@@ -299,7 +299,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is located in Dougherty County, Georgia in the U.S. Native Americans are an ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id2">Native Americans are one of the ethnic groups in the United States of America which is the location of Albany, part of Dougherty County in Georgia.</lex>
-      <lex comment="good" lid="Id3">The United States includes the ethnic group of Native Americans and is the location of Albany, part of Dougherty County in Georgia,.</lex>
+      <lex comment="good" lid="Id3">The United States includes the ethnic group of Native Americans and is the location of Albany, part of Dougherty County in Georgia.</lex>
     </entry>
     <entry category="City" eid="Id16" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2779,7 +2779,7 @@
         <mtriple>Washington_(state) | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Washington State in the United States which has the capital of Washington DC.</lex>
-      <lex comment="good" lid="Id2">The United States has the capital of Washington DC and is the location of Auburn in the state of Washington,.</lex>
+      <lex comment="good" lid="Id2">The United States has the capital of Washington DC and is the location of Auburn in the state of Washington.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Washington state, in the United States, the capital of which is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id148" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2924,7 +2924,7 @@
         <mtriple>Austin,_Texas | isPartOf | Hays_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is part of Hays County,Texas and the states largest city is Houston.</lex>
-      <lex comment="good" lid="Id2">Austin is a part of Hays County in Texas, where the largest city in the state is Houston,.</lex>
+      <lex comment="good" lid="Id2">Austin is a part of Hays County in Texas, where the largest city in the state is Houston.</lex>
     </entry>
     <entry category="City" eid="Id155" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

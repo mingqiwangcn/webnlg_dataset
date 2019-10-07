@@ -556,7 +556,7 @@
         <mtriple>Adam_McQuaid | weight | 94.8024 (kilograms)</mtriple>
         <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam McQuaid, who weighs 94.8024 kg, was born on Prince Edward Island in 1986,.</lex>
+      <lex comment="good" lid="Id1">Adam McQuaid, who weighs 94.8024 kg, was born on Prince Edward Island in 1986.</lex>
       <lex comment="good" lid="Id2">Adam McQuaid, who weighs 94.8024kg was born on Prince Edward Island in 1986.</lex>
       <lex comment="good" lid="Id3">Adam McQuaid weighs 94.8024 kilograms and was born on Prince Edward Island in 1986.</lex>
     </entry>
@@ -1588,7 +1588,7 @@
         <mtriple>Al-Khor_Sports_Club | ground | Al_Khor</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club and is in the Al-Khor Sports Club, which is located in Al-Khor.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club and also for the Al-Khor Sports club whose ground is in Al Khor,.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for the Al-Wakrah Sport Club and also for the Al-Khor Sports club whose ground is in Al Khor.</lex>
       </entry>
     <entry category="Athlete" eid="Id100" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1602,7 +1602,7 @@
         <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul Zahra's club is AL Kharaitiyat SC and is managed by Amar Osim. Al Khor is the home ground of this SC.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul Zahra's club is AL Kharaitiyat SC,, the grounds of which are at Al Khor and which is managed by Amar Osim.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra's club is AL Kharaitiyat SC, the grounds of which are at Al Khor and which is managed by Amar Osim.</lex>
       <lex comment="good" lid="Id3">Alaa Adbul Zahra plays for Al Kharaitiyat SC, which is managed by Amar Osim and play their home games at Al Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id101" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2110,7 +2110,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Prudnikov, born 24th February 1989, played for played for FC Spartak Moscow and his club is FC Dynamo Moscow.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov, who was born on 24 February 1989, played for FC Spartak Moscow and his current club is FC Dynamo Moscow.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Prudnikov's club is FC Dynamo Moscow. He was born on 24 February 1989 and plays for FC Spartak Moscow,.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Prudnikov's club is FC Dynamo Moscow. He was born on 24 February 1989 and plays for FC Spartak Moscow.</lex>
     </entry>
     <entry category="Athlete" eid="Id134" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2707,7 +2707,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Tyus was born in St. Louis, which is part of the French first republic, led by Francis G. Slay.</lex>
       <lex comment="good" lid="Id2">Alex Tyus was born in St Louis (part of the French first republic), the leader of which is, Francis G. Slay.</lex>
-      <lex comment="good" lid="Id3">Alex Tyus was born is St.Louis, which s part of the French First Republic and the leader is Francis G. Slay.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus was born is St. Louis, which is part of the French First Republic and the leader is Francis G. Slay.</lex>
     </entry>
     <entry category="Athlete" eid="Id171" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

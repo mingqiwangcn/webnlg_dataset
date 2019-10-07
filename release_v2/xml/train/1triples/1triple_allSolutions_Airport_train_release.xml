@@ -102,7 +102,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway name at Aarhus Airport is "10R/28L".</lex>
-      <lex comment="good" lid="Id2">10R/28L is the runway name at Aarhus airport,.</lex>
+      <lex comment="good" lid="Id2">10R/28L is the runway name at Aarhus airport.</lex>
       <lex comment="good" lid="Id3">The runway name of Aarhus Airport is 10R/28L.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
@@ -649,7 +649,7 @@
       <modifiedtripleset>
         <mtriple>Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">ORAA is the ICAO location identifier of Al Asad Airbase,.</lex>
+      <lex comment="good" lid="Id1">ORAA is the ICAO location identifier of Al Asad Airbase.</lex>
       <lex comment="good" lid="Id2">The ICAO Location Identifier of Al Asad Airbase is ORAA.</lex>
     </entry>
     <entry category="Airport" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
@@ -2112,7 +2112,7 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey.</lex>
-      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport,.</lex>
+      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id197" shape="(X (X))" shape_type="NA" size="1">

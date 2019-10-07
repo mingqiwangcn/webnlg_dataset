@@ -56,7 +56,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The runway name is 18R/26L and is 3,500 in length.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. ENAIRE operates this Airport. 18R/36L is the runway name and its length is 3500.</lex>
-      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long,.</lex>
+      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -179,7 +179,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority has headquarters at Jinnah International airport and governs the Allama Iqbal International Airport in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab.</lex>
       <lex comment="good" lid="Id2">The Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab. The airport is governed by the Pakistan Civil Aviation Authority headquartered in Jinnah International Airport.</lex>
-      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab,Pakistan which is led by the Provincial Assembly of Punjab.The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the Jinnah International Airport.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of Punjab. The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the Jinnah International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -457,8 +457,8 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operated by ENAIRE (Madrid, Spain), the Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.</lex>
-      <lex comment="good" lid="Id2">ENAIRE is located in Madrid, which, in turn, is a city in Spain.It operates Adolfo Suarez Madrid-Barajas Airport in San Sebastian de los Reyes.</lex>
-      <lex comment="good" lid="Id3">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas Airport,which is located in San Sebastian de los Reyes. ENAIRE is located in Madrid,Spain.</lex>
+      <lex comment="good" lid="Id2">ENAIRE is located in Madrid, which, in turn, is a city in Spain. It operates Adolfo Suarez Madrid-Barajas Airport in San Sebastian de los Reyes.</lex>
+      <lex comment="good" lid="Id3">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas Airport, which is located in San Sebastian de los Reyes. ENAIRE is located in Madrid, Spain.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

@@ -632,7 +632,7 @@
         <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam McQuaid, who has played for the Boston Bruins. was drafted to the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
-      <lex comment="good" lid="Id2">Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio,.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio.</lex>
       <lex comment="good" lid="Id3">Adam McQuaid plays for the Boston Bruins, however his draft team is the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
     </entry>
     <entry category="Athlete" eid="Id36" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -728,7 +728,7 @@
         <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
         <mtriple>Akeem_Adams | club | W_Connection_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC,, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.</lex>
       <lex comment="good" lid="Id2">Akeem Adams, who played for W Connection F.C., plays for Ferencvarosi TC. Gábor Kubatov is the chairman of Ferencvárosi TC. which is managed by, Thomas Doll.</lex>
       <lex comment="good" lid="Id3">Akeem Adams, who plays for W Connection F.C., also plays for Ferencvarosi TC. Thomas Doll is the manager for and Gabor Kubatov is the chairman of Ferencvárosi TC.</lex>
     </entry>
@@ -2299,7 +2299,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Dent debuted with the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans who are based in Texas.</lex>
       <lex comment="good" lid="Id2">Akeem Dent debuted with the Atlanta Falcons which are owned by, Arthur Blank. Akeem Dent used to play for Texas based, Houston Texans.</lex>
-      <lex comment="good" lid="Id3">Akeem Dent's first played for the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans whose home is in Texas.,.</lex>
+      <lex comment="good" lid="Id3">Akeem Dent's first played for the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans whose home is in Texas.</lex>
     </entry>
     <entry category="Athlete" eid="Id126" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

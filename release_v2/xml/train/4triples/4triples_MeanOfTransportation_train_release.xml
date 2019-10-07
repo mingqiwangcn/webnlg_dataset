@@ -1325,7 +1325,7 @@
         <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
         <mtriple>Abarth | foundedBy | Carlo_Abarth</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abarth was founded by Carlo Abarth in Bologna,. It is the manufacturer of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
+      <lex comment="good" lid="Id1">Abarth was founded by Carlo Abarth in Bologna. It is the manufacturer of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">Abarth, which was founded by Carlo Abarth, in Bologna, is the manufacturer of the Abarth 1000 GT Coupé. The Abarth 1000 GT Coupé was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id3">The Abarth company was founded in Bologna by Carlo Abarth. The company made the Abarth 1000 GT Coupe which was designed by Gruppo Bertone.</lex>
     </entry>
@@ -1723,7 +1723,7 @@
         <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX has a V6 engine and is assembled at the Marysville Auto Plant. It is a luxury, front wheel drive vehicle.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is assembled at the Marysville Auto Plant.It has a V6 engine, front wheel drive and is a luxury vehicle.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX is assembled at the Marysville Auto Plant. It has a V6 engine, front wheel drive and is a luxury vehicle.</lex>
       <lex comment="good" lid="Id3">Luxury vehicle, the Acura TLX, has a front wheel drive and a V6 engine and is assembled at Marysville Auto Plant.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id93" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2895,7 +2895,7 @@
         <mtriple>Ariane_5 | launchSite | Guiana_Space_Centre</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on August 11th 2005 and its last flight on December 18, 2009. The European Space Agency is the manufacturer of the Ariane 5 which was launched from Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id2">Guiana Space Centre was the launch site of the Ariane 5,which was manufactured by the European Space Agency.Its first voyagevwas on August 11.2005 and the last was on December 18.2009.</lex>
+      <lex comment="good" lid="Id2">Guiana Space Centre was the launch site of the Ariane 5, which was manufactured by the European Space Agency. Its first voyage was on August 11.2005 and the last was on December 18.2009.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009 Ariane 5 was manufactured by the European Space Agency and launched from the Guiana Space Centre.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id148" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3104,7 +3104,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin Virage, made by the company Aston Martin, succeeded the Aston Martin V8 which has a 5.3 litre engine and is related to Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Virage, was made by the company Aston Martin, and was succeeded the Aston Martin V8 which has a 5.3 litre engine. The Aston Martin V8 is a related means of transport to the Aston Martin RHAM/1.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin V8 has a 5.3 litre engine and preceded the Aston Martin Virage made by the company Aston Martin. It is a related means of transportation to the Aston Martin RHAM/1,.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 has a 5.3 litre engine and preceded the Aston Martin Virage made by the company Aston Martin. It is a related means of transportation to the Aston Martin RHAM/1.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id160" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3461,7 +3461,7 @@
         <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
         <mtriple>Atlas_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II was launched at the launched Vandenberg AFB Space Launch Complex 3 at Cape Canaveral Air Force Station.It had its final flight on March 16th 1998 and was 3.04 in diameter.</lex>
+      <lex comment="good" lid="Id1">The Atlas II was launched at the launched Vandenberg AFB Space Launch Complex 3 at Cape Canaveral Air Force Station. It had its final flight on March 16th 1998 and was 3.04 in diameter.</lex>
       <lex comment="good" lid="Id2">The Atlas II is 3.04 m in diameter and had its final flight on 16 March 1998. It was launched from Vandenberg AFB Space Launch Complex 3 and Cape Canaveral Air Force Station.</lex>
       <lex comment="good" lid="Id3">The Atlas II is 3.04m in diameter and was sent from the Cape Canaveral Air Force Station and the Vandenberg AFB Space Launch Complex 3. March 16, 1998 was its last flight.</lex>
     </entry>
