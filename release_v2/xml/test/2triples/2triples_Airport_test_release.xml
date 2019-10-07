@@ -175,7 +175,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amsterdam Airport Schiphol is 3.3528 below sea level and its first runway is made of asphalt.</lex>
-      <lex comment="good" lid="Id2">Amsterdam airport Schiphol os -3.3528 from sea level and the 1st runway is made from Asphalt.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport Schiphol is -3.3528 from sea level and the 1st runway is made from Asphalt.</lex>
       <lex comment="good" lid="Id3">Amsterdam Airport Schiphol is -3.3528 metres above sea level and the first runway is made of asphalt.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
