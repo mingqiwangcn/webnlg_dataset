@@ -89,7 +89,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Indiana is in the U.S. where Native Americans are an ethnic group, and the inhabitants are called Americans.</lex>
       <lex comment="good" lid="Id2">In the U.S. where the people are known as Americans, there are also Native Americans and a city known as Angola in Indiana.</lex>
-      <lex comment="good" lid="Id3">Angola is a city in Indiana,United States. The country's inhabitants are called Americans and Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Angola is a city in Indiana, United States. The country's inhabitants are called Americans and Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -161,7 +161,7 @@
         <mtriple>Auburn,_Alabama | country | United_States</mtriple>
         <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn,Lee County,Alabama is located in the United States. Opelika is the county seat of Lee County, Alabama.</lex>
+      <lex comment="good" lid="Id1">Auburn, Lee County, Alabama is located in the United States. Opelika is the county seat of Lee County, Alabama.</lex>
       <lex comment="good" lid="Id2">Opelika is the county seat of Lee County, Alabama, the county where Auburn is located, in the United States.</lex>
       <lex comment="good" lid="Id3">The Alabama, US town of Auburn is part of Lee County, the county seat of which is Opelika.</lex>
     </entry>
@@ -438,7 +438,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola,Indiana (U.S.), is home to one of its ethnic groups, the Asian Americans. English is spoken in the United States.</lex>
+      <lex comment="good" lid="Id1">Angola, Indiana (U.S.), is home to one of its ethnic groups, the Asian Americans. English is spoken in the United States.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is in the United States, where English is the language spoken and Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The city of Angola, Indiana is located in the United States. Some Asian Americans live there and the language spoken is English.</lex>
     </entry>

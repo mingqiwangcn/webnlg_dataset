@@ -220,7 +220,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States, where the capital is Washington DC, includes the ethnic group of African Americans. Auburn is located in the country and is part of Lee County in Alabama.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of Lee County, Alabama,U.S. Washington, D.C. is the capital of the U.S. and African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of Lee County, Alabama, U.S. Washington, D.C. is the capital of the U.S. and African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Auburn, Alabama is in Lee County which is in the US where the capital is Washington DC and African Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -369,8 +369,8 @@
         <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria, part of Madison County, Indiana is in the U.S. The capital of Indiana is Indianapolis. American English is spoken in that state.</lex>
-      <lex comment="good" lid="Id2">Alexandria is part of Madison County, Indiana,U.S. Indianapolis is the capital of Indiana where American English is spoken.</lex>
-      <lex comment="good" lid="Id3">Alexandria is part of the state of Indiana, United States, and Indianapolis is the capital . Alexandria, is part of Madison County Indiana, where the language is American English.</lex>
+      <lex comment="good" lid="Id2">Alexandria is part of Madison County, Indiana, U.S. Indianapolis is the capital of Indiana where American English is spoken.</lex>
+      <lex comment="good" lid="Id3">Alexandria is part of the state of Indiana, United States, and Indianapolis is the capital. Alexandria, is part of Madison County Indiana, where the language is American English.</lex>
     </entry>
     <entry category="City" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -425,7 +425,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City (NYC) is the largest U.S. city. Atlantic City, New Jersey are also part of the United States with its capital as Washington, DC and home to White Americans.</lex>
-      <lex comment="good" lid="Id2">Atlantic City is part of New Jersey,U.S. and white Americans are an ethnic group. The capital of the United States is Washington DC, but the largest city is New York.</lex>
+      <lex comment="good" lid="Id2">Atlantic City is part of New Jersey, U.S. and white Americans are an ethnic group. The capital of the United States is Washington DC, but the largest city is New York.</lex>
       <lex comment="good" lid="Id3">Atlantic City, is a part of New Jersey, United States, where the largest city is New York City. Washington, D.C. is the capital of the U.S, where White Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -556,8 +556,8 @@
         <mtriple>United_States | leader | Barack_Obama</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque,New Mexico is located in the United States and English is the spoken language there .The leader of the United States is called the President whom was Barack Obama recently.</lex>
-      <lex comment="good" lid="Id2">The leader of the United States, which uses the English language, is President Barack Obama. Albuquerque in New Mexico is located within the country .</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico is located in the United States and English is the spoken language there. The leader of the United States is called the President whom was Barack Obama recently.</lex>
+      <lex comment="good" lid="Id2">The leader of the United States, which uses the English language, is President Barack Obama. Albuquerque in New Mexico is located within the country.</lex>
       </entry>
     <entry category="City" eid="Id26" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

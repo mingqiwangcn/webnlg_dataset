@@ -292,7 +292,7 @@
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is in Texas, in the United States, the capital of which is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2">Washington, D.C. is the capital of the United States, which is the home country to Amarillo,Texas.</lex>
+      <lex comment="good" lid="Id2">Washington, D.C. is the capital of the United States, which is the home country to Amarillo, Texas.</lex>
       <lex comment="good" lid="Id3">Amarillo, Texas is located within the United States, where the capital is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -345,7 +345,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The country of Akron, Ohio, is United States, where English is the language spoken.</lex>
       <lex comment="good" lid="Id2">Akron, Ohio is located within the United States, where English is the language spoken.</lex>
-      <lex comment="good" lid="Id3">Akron,Ohio is located within the United States where English is the official language.</lex>
+      <lex comment="good" lid="Id3">Akron, Ohio is located within the United States where English is the official language.</lex>
     </entry>
     <entry category="City" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

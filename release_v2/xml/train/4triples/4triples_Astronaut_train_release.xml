@@ -65,7 +65,7 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean is a United States citizen born in Wheeler, Texas on 15 March 1932 and who graduated from UT Austin BS in 1955.</lex>
-      <lex comment="good" lid="Id2">Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B,S. In 1955.</lex>
+      <lex comment="good" lid="Id2">Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B.S. in 1955.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -273,7 +273,7 @@
         <mtriple>Alan_Shepard | was selected by NASA | 1959</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and obtained a MA in 1957 from NWC. he was selected by NASA in 1959 and became a test pilot.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M,A, in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M.A. in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

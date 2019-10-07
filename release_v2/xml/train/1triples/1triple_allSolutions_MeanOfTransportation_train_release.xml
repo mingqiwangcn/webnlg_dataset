@@ -756,7 +756,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador was assembled in Thames, New Zealand.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Thames, New Zealand.</lex>
-      <lex comment="good" lid="Id3">AMC Matador is assembled in Thames,New Zealand.</lex>
+      <lex comment="good" lid="Id3">AMC Matador is assembled in Thames, New Zealand.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2801,7 +2801,7 @@
         <mtriple>Guiana_Space_Centre | location | Kourou,_French_Guiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre is located in Kourou,French Guiana.</lex>
+      <lex comment="good" lid="Id2">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id256" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2854,7 +2854,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes are located in London.</lex>
       <lex comment="good" lid="Id2">Humphrys, Tennant and Dykes is located in London.</lex>
-      <lex comment="good" lid="Id3">Humphrys,Tennant and Dykes is located in London.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

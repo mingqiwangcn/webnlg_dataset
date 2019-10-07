@@ -140,7 +140,7 @@
         <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
         <mtriple>(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The celestial body known as (19255) 1994 VK8 has a density of 2 grams per cubic centimetres,an escape velocity of 0.0925 km/s and its apoapsis is 6603633000.0 kilometres.</lex>
+      <lex comment="good" lid="Id1">The celestial body known as (19255) 1994 VK8 has a density of 2 grams per cubic centimetres, an escape velocity of 0.0925 km/s and its apoapsis is 6603633000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">(19255) 1994 VK8 has a density of 2.0 grams per cubic centimetre, an escape velocity of 0.0925 km/s, and an apoapsis of 6603633000.0 kilometres.</lex>
       <lex comment="good" lid="Id3">(19255) 1994 VK8 has a density of 2.0 grams per cu cm, an escape velocity of 0.0925 km per sec and an apoapsis of 6603633000.0 km.</lex>
     </entry>
@@ -490,7 +490,7 @@
         <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres. It has an orbital period of 360.29 days.</lex>
-      <lex comment="good" lid="Id2">(66063) 1998 RO1 has a mean temperature of 265 kelvins,an orbital period of 360.29 days and its periapsis is 254989570.60815 kilometres.</lex>
+      <lex comment="good" lid="Id2">(66063) 1998 RO1 has a mean temperature of 265 kelvins, an orbital period of 360.29 days and its periapsis is 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id3">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins. It has an apoapsis of 254989570.60815 kilometres and an orbital period of 360.29 days.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -796,8 +796,8 @@
         <mtriple>101_Helena | escapeVelocity | 0.0348 (kilometrePerSeconds)</mtriple>
         <mtriple>101_Helena | apoapsis | 441092000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">101 Helena has a density of 2.0 gram per Cubic centimeters,an escape velocity of 0.0348 km per sec and its apoapsis is 441092000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2">101 Helena has a density of 2.0 grams per cubic centimetres,an escape velocity of 0.0348 km/s and its apoapsis is 441092000.0 (kilometres).</lex>
+      <lex comment="good" lid="Id1">101 Helena has a density of 2.0 gram per Cubic centimeters, an escape velocity of 0.0348 km per sec and its apoapsis is 441092000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">101 Helena has a density of 2.0 grams per cubic centimetres, an escape velocity of 0.0348 km/s and its apoapsis is 441092000.0 (kilometres).</lex>
       <lex comment="good" lid="Id3">101 Helena has a density of 2.0 gm per cu cm, an escape velocity of 0.0348 km per sec and an apoapsis of 441092000.0 kms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -892,7 +892,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">101 Helena has an apoapsis of 441092000.0 km and was discovered by James Craig Watson who later died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id2">James Craig Watson, who died in Madison, Wisconsin, discovered 101 Helena, which has an apoapsis of, 441092000.0 kilometres.</lex>
-      <lex comment="good" lid="Id3">101 Helena has an apoapsis of 441092000.0 (kilometres) and it was discovered by James Craig Watson who died in Madison,Wisconsin.</lex>
+      <lex comment="good" lid="Id3">101 Helena has an apoapsis of 441092000.0 (kilometres) and it was discovered by James Craig Watson who died in Madison, Wisconsin.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id43" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1250,7 +1250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig Watson discovered 103 Hera that has an apoapsis of 437170000.0 (kilometres). He died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id2">103 Hera, that has an apoapsis of 437170000.0 km, was discovered by James Craig Watson who later died in Madison, Wisconsin.</lex>
-      <lex comment="good" lid="Id3">103 Hera has an apoapsis of 437170000.0 kilometres and it was discovered by James Craig Watson,who died in Madison,Wisconsin.</lex>
+      <lex comment="good" lid="Id3">103 Hera has an apoapsis of 437170000.0 kilometres and it was discovered by James Craig Watson, who died in Madison, Wisconsin.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id63" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1278,7 +1278,7 @@
         <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig, a Canadian national, discovered the celestial body, 103 Hera. He died in Madison, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">James Craig Watson was a Canadian national,who died in Madison,Wisconsin and discovered 103 Hera.</lex>
+      <lex comment="good" lid="Id2">James Craig Watson was a Canadian national, who died in Madison, Wisconsin and discovered 103 Hera.</lex>
       <lex comment="good" lid="Id3">103 Hera was discovered by James Craig Watson who was a Canadian who died in Madison, Wisconsin.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id65" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2085,7 +2085,7 @@
         <mtriple>109_Felicitas | apoapsis | 523329000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With an escape velocity of 0.0473 kilometres per second, 109 Felicitas, has a teperature of 170.0 kelvins, and an apoapsis of 523329000 kilometres.</lex>
-      <lex comment="good" lid="Id2">109 Felicitas has a temperature of 170 kelvins,an escape velocity of 0.0473 kilometres per second and its periapsis is 523329000 kms.</lex>
+      <lex comment="good" lid="Id2">109 Felicitas has a temperature of 170 kelvins, an escape velocity of 0.0473 kilometres per second and its periapsis is 523329000 kms.</lex>
       <lex comment="good" lid="Id3">With a temperature of 170.0 kelvins, the asteroid called 109 Felicitas, has an escape velocity of 0.0473 kilometres per second, and an apoapsis of 523329000.0 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id105" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2455,9 +2455,9 @@
         <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
         <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">110 Lydia has a mass of 6.7 kilograms,an escape velocity of 0.0455km/s and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="good" lid="Id1">110 Lydia has a mass of 6.7 kilograms, an escape velocity of 0.0455km/s and its apoapsis is 440756000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">The 110 Lydia has a mass of 6.7 kilograms, an apoapsis of 440756000.0 km and an escape velocity of 0.0455 k.p.s.</lex>
-      <lex comment="good" lid="Id3">110 Lydia has an escape velocity of 0.0455 kilometres per second,an apoapsis of 440756000.0 kms and its mass is 6.7 kilograms.</lex>
+      <lex comment="good" lid="Id3">110 Lydia has an escape velocity of 0.0455 kilometres per second, an apoapsis of 440756000.0 kms and its mass is 6.7 kilograms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

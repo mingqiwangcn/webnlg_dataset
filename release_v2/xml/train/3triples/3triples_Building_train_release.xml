@@ -576,7 +576,7 @@
         <mtriple>Cleveland | country | United_States</mtriple>
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public square is in Cleveland,United States and the governing body is Cleveland City Council.</lex>
+      <lex comment="good" lid="Id1">200 Public square is in Cleveland, United States and the governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">Cleveland City Council governs Cleveland in the United States where 200 Public Square is located.</lex>
     </entry>
     <entry category="Building" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1523,7 +1523,7 @@
         <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is located in Denmark,Marriott International was founded in Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is located in Denmark and is managed by Marriott International. Marriott International was founded in Washington, D.C.</lex>
       <lex comment="good" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen in Denmark is the Marriott International Hotel. Marriott International was founded in Washington DC.</lex>
       <lex comment="good" lid="Id3">Marriott International, founded in Washington, D.C., is the tenant of the AC Hotel Bella Sky in Copenhagen, Denmark.</lex>
     </entry>
@@ -1784,7 +1784,7 @@
         <mtriple>Adare_Manor | location | County_Limerick</mtriple>
         <mtriple>County_Limerick | isPartOf | Munster</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adare Manor can be found in Adare,County Limerick, Munster.</lex>
+      <lex comment="good" lid="Id1">Adare Manor can be found in Adare, County Limerick, Munster.</lex>
       <lex comment="good" lid="Id2">Adare Manor is located in Adare, County Limerick, Munster.</lex>
     </entry>
     <entry category="Building" eid="Id96" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2836,7 +2836,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Californian born Julia Morgan designed the Asilomar Conference Grounds and other significant buildings including Asilomar State Beach.</lex>
       <lex comment="good" lid="Id2">Julian Morgan, born in California, designed the significant Asilomar State Beach and the Asilomar Conference Grounds.</lex>
-      <lex comment="good" lid="Id3">Julia Morgan,born in California, was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan, born in California, was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id154" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

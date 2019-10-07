@@ -266,7 +266,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport, which serves Aarhus in Denmark, is located 25 metres above sea level and is operated by the Aktieselkab organisation. The runway name at Aarhus Airport is "10R/28L" and is 2776.0 long.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport, which serves the city of Aarhus in Denmark, has a runway length of 2,776 and is named 10R/28L. Aktieselskab operates the airport which is 25 metres above sea level.</lex>
-      <lex comment="good" lid="Id3">The Aarhus Airport is located in Aarhus,Denmark and is operated by Aktielskab. It is situated 25.0 meters above sea level. The airport has a runway called 10R/28L which is 2776.0 meters long.</lex>
+      <lex comment="good" lid="Id3">The Aarhus Airport is located in Aarhus, Denmark and is operated by Aktielskab. It is situated 25.0 meters above sea level. The airport has a runway called 10R/28L which is 2776.0 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -497,7 +497,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene, Texas is served by the Abilene regional airport which is 546 metres above sea level. The airport has the ICAO Location Identifier, KABI, as well as having the runway name 17R/35L. One of the runways is 1121.0 metres long.</lex>
       <lex comment="good" lid="Id2">KABI is the ICAO location identifier of Abilene Regional Airport which is 546 metres above sea level. The airport has the runway name, 17R/35L, runway length of 1,121 and serves Abilene, Texas.</lex>
-      <lex comment="good" lid="Id3">The Abilene Regional Airport serves Abilene,Texas and is situated 546 meters above sea level and its ICAO location identifier is KABI. The name of the airport's runway is 17R/35L and it is 1121.0 meters long.</lex>
+      <lex comment="good" lid="Id3">The Abilene Regional Airport serves Abilene, Texas and is situated 546 meters above sea level and its ICAO location identifier is KABI. The name of the airport's runway is 17R/35L and it is 1121.0 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id22" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -748,7 +748,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14R/32L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport, which is operated by ENAIRE, is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. The airport is 610 metres above sea level, has a runway name of 14R/32L and a length of 3500.</lex>
-      <lex comment="good" lid="Id2">Adolfo Suárez Madrid-Barajas Airport is locaed in Madrid,Paracuellos de Jarama,San Sebastian de los Reyes and Alcobendas. The airport has an elevation 610.0 meters above sea level and operated by ENAIRE. The airport has a runway called 14R/32L and is 3,500 long.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suárez Madrid-Barajas Airport is locaed in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. The airport has an elevation 610.0 meters above sea level and operated by ENAIRE. The airport has a runway called 14R/32L and is 3,500 long.</lex>
     </entry>
     <entry category="Airport" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -956,7 +956,7 @@
         <mtriple>Curitiba | isPartOf | South_Region,_Brazil</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International Airport is operated by Infraero which is located in Brasilia. the airport serves the city of Curitiba which is part of the State of Paraná located in the South Region of Brazil the country.</lex>
-      <lex comment="good" lid="Id2">The operating organization for Afonso Pena International Airport is Infraero,which is located in Brasilia. The Airport serves Curitiba which is part of Parana State in the South Region of Brasil.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Afonso Pena International Airport is Infraero, which is located in Brasilia. The Airport serves Curitiba which is part of Parana State in the South Region of Brasil.</lex>
     </entry>
     <entry category="Airport" eid="Id40" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1001,7 +1001,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In the state of Paraná, Sao Jose dos Pinhais is part of the South Region, Brazil and is where Afonso Pena International Airport is located. The airport serves the city of Curitiba and is operated by Infraero.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport in San Jose Dos Pinhais serves the city of Curitiba. Sao Jose is part of Parana and in the south region of Brazil. The airport is operated by Infraero.</lex>
-      <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais and operated by Infraero. Sao Jose dos Pinhais belongs to the South Region in Brasil and the airport serves the city of Curitiba,Parana state.</lex>
+      <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais and operated by Infraero. Sao Jose dos Pinhais belongs to the South Region in Brasil and the airport serves the city of Curitiba, Parana state.</lex>
     </entry>
     <entry category="Airport" eid="Id42" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1688,7 +1688,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">he United States Air Force is the operating organisation for Al Asad airbase. The USAF fought in the Grenada Invasion. Weapons and aircraft located at that base are the Lockheed AC-130, the Boeing C-17 Globemaster III and the McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id2">The United States Air force operates the Al Asad Airbase. The United States Air Force was involved in the battle of the Invasion of Grenada. The Lockheed AC-130 can be found on the USAF aircraft carriers. The Boeing C-17 Globemaster III is a transport plane owned by the air force and they own the fighter McDonnell Douglas F-15 Eagle.</lex>
-      <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase,and the Lockheed AC-130 can be found on its aircraft carriers. The Boeing C-17 Globemaster III is a transport aircraft while the McDonnell Douglas F-15 is an aircraft fighter used by the USAF.The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase, and the Lockheed AC-130 can be found on its aircraft carriers. The Boeing C-17 Globemaster III is a transport aircraft while the McDonnell Douglas F-15 is an aircraft fighter used by the USAF. The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
     </entry>
     <entry category="Airport" eid="Id74" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2001,7 +2001,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Pakistan, Allama Iqbal International Airport is operated by the Pakistan Civil Aviation Authority. The airport serves the city of Lahore, has the runway name 18L/36R, and has a runway that is 3360.12 long.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International Airport is governed by the Pakistan Civil Aviation Authority and serves the city of Lahore in Pakistan. The runway, named 18L/36R has a length of 3360.12.</lex>
-      <lex comment="good" lid="Id3">Allama Iqbal International airport serves the city of Lahore in Pakistan and is governed by the Pakistan Civil Aviation Authority. The runway, which is 3360.12 in length,is named 18L/36R.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International airport serves the city of Lahore in Pakistan and is governed by the Pakistan Civil Aviation Authority. The runway, which is 3360.12 in length, is named 18L/36R.</lex>
     </entry>
     <entry category="Airport" eid="Id88" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2171,7 +2171,7 @@
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
         <mtriple>Punjab,_Pakistan | country | Pakistan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport in Lahore,Punjab, Pakistan. Mamnoon Hussain is the leader of Pakistan.</lex>
+      <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport in Lahore, Punjab, Pakistan. Mamnoon Hussain is the leader of Pakistan.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International airport is located in Punjab, Pakistan and is operated by The Pakistan Civil Aviation Authority. Lahore city is served by the airport. Mamnoon Hussain is the leader of Pakistan.</lex>
       <lex comment="good" lid="Id3">Allama Iqbal International Airport is operated by The Pakistan Civil Aviation Authority (in Mamnoon, Hussain led) in Punjab, Pakistan. The airport services the city of Lahore.</lex>
     </entry>
@@ -2216,7 +2216,7 @@
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
         <mtriple>Lahore | country | Pakistan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Mamnoon Hussain is the leader of Pakistan,where the city of Lahore is served by Allama Iqbal International airport. The airport is operated by the Pakistan Civil Aviation Authority, the location of which is Jinnah International Airport.</lex>
+      <lex comment="good" lid="Id1">Mamnoon Hussain is the leader of Pakistan, where the city of Lahore is served by Allama Iqbal International airport. The airport is operated by the Pakistan Civil Aviation Authority, the location of which is Jinnah International Airport.</lex>
       <lex comment="good" lid="Id2">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport and serves the city of Lahore. The Authority's location can be found at the Jinnah International Airport. Lahore is located in Pakistan whose leader is Mamnoon Hussain.</lex>
       </entry>
     <entry category="Airport" eid="Id97" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
@@ -2293,7 +2293,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Maple Ridge Township, Alpena County, Michigan, in the United States, is the location of Alpena County Regional Airport. The airport serves Alpena, Michigan, is 210 metres above sea level, and has a runway length of 1,533.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport which serves the city of Alpena has a runway length of 1533.0 and is located at 210 metres above sea level in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
-      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, United States. The airport serves Alpena,Michigan and is situated 210 meters above sea level and has a 1.533 kilometer long runway.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, United States. The airport serves Alpena, Michigan and is situated 210 meters above sea level and has a 1.533 kilometer long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2827,7 +2827,7 @@
         <mtriple>Angola_International_Airport | runwayName | "South Runway"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International Airport, which serves the city of Luanda, is located at Ícolo e Bengo. The airport is 159 metres above sea level, has a runway named South Runway and it is 4,000 feet long.</lex>
-      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo,elevated 159 meters above sea level and serves the city of Luanda. The airport's runway is called "South Runway" and is 4000 meters long.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, elevated 159 meters above sea level and serves the city of Luanda. The airport's runway is called "South Runway" and is 4000 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id124" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3052,7 +3052,7 @@
         <mtriple>Greenville,_Wisconsin | isPartOf | Clayton,_Winnebago_County,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Appleton International Airport is in Greenville, Wisconsin, U.S.A and serves Appleton, Wisconsin. Appleton is part of Grand Chute, Wisconsin and Greenville is part of Clayton Winnebago County, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville,Wisconsin,United States and serves the city of Appleton. Greenville, Wisconsin, is part of Clayton Winnebago County, Wisconsin and Appleton is part of Grand Chute,Wisconsin.</lex>
+      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin, United States and serves the city of Appleton. Greenville, Wisconsin, is part of Clayton Winnebago County, Wisconsin and Appleton is part of Grand Chute, Wisconsin.</lex>
       <lex comment="good" lid="Id3">Appleton International Airport is located in Greenville, Wisconsin which is part of Clayton, Winnebago County in the United States. The airport serves Appleton which is part of Grand Chute, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id132" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4195,7 +4195,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional Airport serves the city of Lake Placid, part of New York, and also the city of Saranac Lake, part of Harrietstown, New York, United States.</lex>
-      <lex comment="good" lid="Id2">Adirondack Regional Airport serves Lake Placid and Saranac Lake,New York. Saranac Lake is part of Harrietstown,New York and is located in the United States.</lex>
+      <lex comment="good" lid="Id2">Adirondack Regional Airport serves Lake Placid and Saranac Lake, New York. Saranac Lake is part of Harrietstown, New York and is located in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id180" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

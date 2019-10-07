@@ -407,7 +407,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Serving the city of Abilene in Texas, the Abilene Regional Airport is 546 metres above sea level. It has the runway name 17L/35R and has a runway length of 21940 metres.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is served by the Abilene Regional Airport whose runway name is 17L/35R. The airport is 546 meters above sea level and 2194 meters in length.</lex>
-      <lex comment="good" lid="Id3">Abilene Regional Airport serves Abilene,Texas an f elevated 546 metres above sea level. Its runway is called 17L/35R and its length is 2194.0 metres.</lex>
+      <lex comment="good" lid="Id3">Abilene Regional Airport serves Abilene, Texas and is elevated 546 metres above sea level. Its runway is called 17L/35R and its length is 2194.0 metres.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2800,7 +2800,7 @@
         <mtriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Greenville, Wisconsin is part of Dale, Wisconsin and Appleton, Wisconsin is part of Grand Chute, Wisconsin. Appleton International Airport serves the city of Appleton, Wisconsin and can be found in Greenville, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">The Appleton International Airport is located in Greenville,Wisconsin. Greenville is part of Dale,Wisconsin. Appleton is part of Grand Chute,Wisconsin.</lex>
+      <lex comment="good" lid="Id2">The Appleton International Airport is located in Greenville, Wisconsin. Greenville is part of Dale, Wisconsin. Appleton is part of Grand Chute, Wisconsin.</lex>
       <lex comment="good" lid="Id3">The Appleton International Airport, which serves Appleton, is located in Greenville, Wisconsin. Appletonmis part of Grand Chute, Wisconsin and Greenville is part of Dale, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id132" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2818,7 +2818,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville (part of Ellington), Wisconsin and serves the city of Appleton (part of Grand Chute), Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, part of Ellington, Wisconsin, and serves the city of Appleton which is part of Grand Chute, Wisconsin.</lex>
-      <lex comment="good" lid="Id3">Appleton International Airport is located in Greenville,Wisconsin and serves the city of Appleton. Greenville is part of Ellington,Wisconsin. Appleton belongs to Grand Chute,Wisconsin.</lex>
+      <lex comment="good" lid="Id3">Appleton International Airport is located in Greenville, Wisconsin and serves the city of Appleton. Greenville is part of Ellington, Wisconsin. Appleton belongs to Grand Chute, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id133" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3111,7 +3111,7 @@
         <mtriple>Poaceae | division | Flowering_plant</mtriple>
         <mtriple>Poaceae | order | Commelinids</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 3rd runway at Ardmore Airport(New Zealand is made of a flowering plant called Poaceae(Poales,Commelinids).</lex>
+      <lex comment="good" lid="Id1">The 3rd runway at Ardmore Airport, New Zealand is made of a flowering plant called Poaceae (Poales, Commelinids).</lex>
       <lex comment="good" lid="Id2">Ardmore Airport, located in New Zealand, uses Poaceae as its third runway surface type. Poaceae belongs to the order of Commelinids, a division of flowering plants.</lex>
       <lex comment="good" lid="Id3">Ardmore airport (New Zealand) has a 3rd runway surfaced with poaceae which is a member of the order of poales and commelinids and belongs to the division of flowering plants.</lex>
     </entry>
@@ -3284,7 +3284,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is Turkmenistan Airlines whose HQ is in Ashgabat, Turkmenistan. The runway length at the airport is 3800.0.</lex>
       <lex comment="good" lid="Id2">Ashgabat International Airports has a runway length of 3800. It is operated by Turkmenistan Airlines who are located in Ashgabat, Turkmenistan.</lex>
-      <lex comment="good" lid="Id3">The Ashgabat International Airport has 3800.00 meters long runway and operated by the Turkmenistan Airlines. The headquarters of the Airlines is placed in Ashgabat,Turkmenistan.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport has 3800.00 meters long runway and operated by the Turkmenistan Airlines. The headquarters of the Airlines is placed in Ashgabat, Turkmenistan.</lex>
     </entry>
     <entry category="Airport" eid="Id155" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3525,7 +3525,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township, New Jersey, USA, the Egg Harbor Township,New Jersey is a part of Atlantic County, New Jersey, the airport is 23.0 above sea level.</lex>
+      <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township, New Jersey, USA, the Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey, the airport is 23.0 above sea level.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport is in Egg Harbor Township, New Jersey, Atlantic County, United States and is 23 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, Atlantic County, New Jersey in the United States and is 23 metres above sea level.</lex>
     </entry>
@@ -3595,7 +3595,7 @@
         <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airportis 23 metres above sea level, operated by the port Authority of New York and New Jersey, and has a runway names 13/31 which is 1873 meters long.</lex>
-      <lex comment="good" lid="Id2">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. It is 23 metres above sea level. The runway,13/31, is 1873 long.</lex>
+      <lex comment="good" lid="Id2">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey. It is 23 metres above sea level. The runway, 13/31, is 1873 long.</lex>
       <lex comment="good" lid="Id3">The Port Authority of New York and New Jersey operate Atlantic City International airport which is 23 metres above sea level. The runway name is 13/31 and is 1873.0 in length.</lex>
     </entry>
     <entry category="Airport" eid="Id166" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3810,7 +3810,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States and part of Atlantic County, New Jersey.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport is in Egg Harbor Township part of Atlantic County, N.J. in the U.S.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, New Jersey, which is part of New Jersey in the United States. The Egg Harbor Township,New Jersey is a part of Atlantic County, New Jersey.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, New Jersey, which is part of New Jersey in the United States. The Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id177" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

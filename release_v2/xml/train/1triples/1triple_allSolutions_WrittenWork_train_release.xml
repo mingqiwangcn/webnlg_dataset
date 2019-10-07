@@ -1942,8 +1942,7 @@
       <modifiedtripleset>
         <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley,Derbyshire.</lex>
-      <lex comment="good" lid="Id2">John Cowper Powys was born in Shirley, Derbyshire.</lex>
+      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley, Derbyshire.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

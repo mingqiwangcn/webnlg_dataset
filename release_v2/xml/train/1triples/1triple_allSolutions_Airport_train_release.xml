@@ -139,9 +139,8 @@
       <modifiedtripleset>
         <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene, Texas is part of Taylor County,Texas.</lex>
+      <lex comment="good" lid="Id1">Abilene, Texas is part of Taylor County, Texas.</lex>
       <lex comment="good" lid="Id2">Abilene is a part of Taylor County, Texas.</lex>
-      <lex comment="good" lid="Id3">Abilene, Texas is part of Taylor County, Texas.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2343,7 +2342,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Egg Harbor Township is a township in Atlantic County, New Jersey, United States.</lex>
-      <lex comment="good" lid="Id2">The Egg Harbor Township,New Jersey is a part of Atlantic County, New Jersey.</lex>
+      <lex comment="good" lid="Id2">The Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey.</lex>
       <lex comment="good" lid="Id3">Egg Harbor Township, New Jersey, is part of Atlantic County, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id218" shape="(X (X))" shape_type="NA" size="1">

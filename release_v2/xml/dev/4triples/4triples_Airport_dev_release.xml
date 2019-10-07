@@ -348,7 +348,7 @@
         <mtriple>Appleton,_Wisconsin | isPartOf | Little_Chute,_Wisconsin</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport is located in Wisconsin where Appleton is part of greenville,little chute and serves appleton.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport is located in Wisconsin where Appleton is part of Greenville, Little Chute and serves Appleton.</lex>
       <lex comment="good" lid="Id2">Appleton (part of which is known as Little Chute) is served by Appleton International airport which is located in Greenville (part of which is known as Ellington), Wisconsin.</lex>
       </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -366,7 +366,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ardmore Airport (New Zealand) has a 3rd runway made of poaceae and is 34 metres above sea level. The runway name is 07/25 and has a length of 518.0.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) is located 34 meters above sea level and has a 3rd runway made of poaceae which is 518.0 in length and has the name 07/25.</lex>
-      <lex comment="good" lid="Id3">Ardmore Airport,New Zealand is elevated 34.0 meters above sea level and its 3rd runway is made of poaceae. The runway name of the airport is 07/25 and it's 518.0 meters long.</lex>
+      <lex comment="good" lid="Id3">Ardmore Airport, New Zealand is elevated 34.0 meters above sea level and its 3rd runway is made of poaceae. The runway name of the airport is 07/25 and it's 518.0 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
