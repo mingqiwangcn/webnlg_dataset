@@ -1981,7 +1981,7 @@
         <mtriple>Allama_Iqbal_International_Airport | runwayName | "18R/36L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allama Iqbal International Airport, which serves the city of Lahore and is governed by the Pakistan Civil Authority, is located in Pakistan. The name of the airport's runway is 18R/36L and it is 3,310 long.</lex>
-      <lex comment="good" lid="Id2">Allama Igbal Internation airport is located in Lahore, Pakistan and run by the Pakistan Civil Aviation Authority. The length of the runway is 3310m and known as 18R/36L.</lex>
+      <lex comment="good" lid="Id2">Allama Iqbal International airport is located in Lahore, Pakistan and run by the Pakistan Civil Aviation Authority. The length of the runway is 3310m and known as 18R/36L.</lex>
       <lex comment="good" lid="Id3">Allama Iqbal International airport, located in Pakistan, is operated by The Pakistan Civil Aviation Authority. The airport serves the city of Lahore. The runway - 18R/36L - measures a length of 3310.0.</lex>
     </entry>
     <entry category="Airport" eid="Id87" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2312,7 +2312,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpena County Regional Airport is located 210 metres above sea level at Maple Ridge Township, Alpena County, Michigan and serves the city of Alpena. The runway name is 1/19 and it has a length of 1533.0.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport serves the city of Alpena and is located in Maple Ridge Township, Alpena County, Michigan. It is 210 metres above sea level and has a runway name of 1/19 with a length of 1533.0.</lex>
-      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan and serves Alpena, Michigan. Its runway length is 1,533 and is named is 1/19/. The airport is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan and serves Alpena, Michigan. Its runway length is 1,533 and is named is 1/19. The airport is 210 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id102" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3033,7 +3033,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
         <mtriple>Appleton_International_Airport | runwayName | "12/30"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin and serves the city of Appleton. The length of the runway is 2439m and is elevated 280m above sea level.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin and serves the city of Appleton. The length of the runway is 2439m and its name is 12/30. The airport is elevated 280m above sea level.</lex>
       <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin and it serves the city of Appleton. The airport is elevated 280 meters above sea level. Its runway is named 12/30 and it measures a length of 2,439.</lex>
     </entry>
     <entry category="Airport" eid="Id131" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

@@ -2285,7 +2285,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza, Argentina, was the Provisional President of the Argentina Senate.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire, was born in Mendoza in Agentina and worked as the Provisional President of the Argentine Senate.</lex>
+      <lex comment="good" lid="Id3">Alberto Teisaire, was born in Mendoza in Argentina and worked as the Provisional President of the Argentine Senate.</lex>
     </entry>
     <entry category="Politician" eid="Id170" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2315,7 +2315,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, who was born in Mendoza, Argentina, is a member of the Justicialist Party.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire, was born in Mendoza in Argentina, and is part of the Justicialist Party.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire is a member of the Justicialist Party and was born in Mendoza in Agentina.</lex>
+      <lex comment="good" lid="Id3">Alberto Teisaire is a member of the Justicialist Party and was born in Mendoza in Argentina.</lex>
     </entry>
     <entry category="Politician" eid="Id172" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2339,8 +2339,8 @@
         <mtriple>Alberto_Teisaire | successor | Isaac_Rojas</mtriple>
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Agentina and his successor was Isaac Rojas.</lex>
-      <lex comment="good" lid="Id2">Mendoza in Agentina is the birthplace of Alberto Teisaire. Mr. Teisaire was succeeded by Isaac Rojas.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Argentina and his successor was Isaac Rojas.</lex>
+      <lex comment="good" lid="Id2">Mendoza in Argentina is the birthplace of Alberto Teisaire. Mr. Teisaire was succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Issac Rojas succeeded Alberto Teisaire who was born in Mendoza, Argentina.</lex>
     </entry>
     <entry category="Politician" eid="Id174" shape="(X (X) (X))" shape_type="sibling" size="2">

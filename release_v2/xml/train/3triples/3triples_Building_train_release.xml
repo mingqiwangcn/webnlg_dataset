@@ -2005,7 +2005,7 @@
         <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka, the leader is Ranil Wickremesinghe and the currency is the Ski Lankan rupee.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka, the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
       </entry>
     <entry category="Building" eid="Id109" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2248,8 +2248,8 @@
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Mason School of Business currently tenant Alan B Miller Hall which was completed on 1 June 2009 in the United States.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall in the U.S. was completed on June 1st, 2009 and has a tenant called the The Mason School of Business.</lex>
-      <lex comment="good" lid="Id3">The Alan B. Millar Hall was completed on 1st June 2009 and currently hosts the US Mason School of Business.</lex>
+      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on June 1st, 2009 and has a tenant called the Mason School of Business, which is based in the U.S.</lex>
+      <lex comment="good" lid="Id3">The Alan B. Miller Hall was completed on 1st June 2009 and currently hosts the US Mason School of Business.</lex>
     </entry>
     <entry category="Building" eid="Id122" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3363,8 +3363,8 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Malatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Malatu Teshome.</lex>
+      <lex comment="good" lid="Id1">Mulatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Mulatu Teshome.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall is located in the city of the same name in Ethiopia, a leader of which is Mulatu Teshome.</lex>
     </entry>
     <entry category="Building" eid="Id187" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -3385,7 +3385,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa in Ethiopia.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Ethopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Malatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Mulatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
     </entry>
     <entry category="Building" eid="Id188" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

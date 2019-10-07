@@ -1803,7 +1803,7 @@
         <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
         <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin DBS (manufactured by Aston Martin) is related to the Aston Martin V8, which is assembled in the United Kindgom (led by Elizabeth II). The Aston Martin Vantage succeeded the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin DBS (manufactured by Aston Martin) is related to the Aston Martin V8, which is assembled in the United Kingdom (led by Elizabeth II). The Aston Martin Vantage succeeded the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 and Aston Martin DBS are a related means of transport and assembled by Aston Martin in the UK, where Elizabeth II is the leader. The successor of the Aston Martin DBS is the Aston Martin Vantage.</lex>
       </entry>
     <entry category="MeanOfTransportation" eid="Id83" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">

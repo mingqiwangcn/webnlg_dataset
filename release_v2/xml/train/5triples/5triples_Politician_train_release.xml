@@ -2062,7 +2062,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate and was in office while Juan Peron was President. Teisaire was a member of the Justicialist Party and was succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire was born in Mendoza, Argentina. He was a member of the Justicialist party and was the provisional president of the Argentine senate. He was in office whilst Juan Peron was president, and succeeded by Isaac Rojas.</lex>
-      <lex comment="good" lid="Id3">Isaac Rojas was the successor to Alberto Teisaire who was born in Mendoza in Agentina. He and worked as a Provisional President of the Argentine Senate. Alberto Teisaire, was a member of the Justicialist Party and was in office while Juan Peron was President.</lex>
+      <lex comment="good" lid="Id3">Isaac Rojas was the successor to Alberto Teisaire who was born in Mendoza in Argentina. He worked as a Provisional President of the Argentine Senate. Alberto Teisaire was a member of the Justicialist Party and was in office while Juan Peron was President.</lex>
     </entry>
     <entry category="Politician" eid="Id98" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2086,7 +2086,7 @@
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
         <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Agentina, on 1891-05-20. A Rear Admiral by profession, Alberto Teisaire, worked as the Provisional President of the Argentine Senate. Isaac Rojas was the successor to Alberto Teisaire.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Argentina, on 1891-05-20. A Rear Admiral by profession, Alberto Teisaire, worked as the Provisional President of the Argentine Senate. Isaac Rojas was the successor to Alberto Teisaire.</lex>
       <lex comment="good" lid="Id2">Born on 1891-05-20, born in Mendoza, Argentina, Alberto Teisaire, was a Rear Admiral by profession. He worked as the Provisional President of the Argentine Senate and his successor was Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was born in Mendoza, Argentina on 20 May 1891. He was a Rear Admiral and worked as the Provisional President of the Argentine Senate before being succeeded by Isaac Rojas.</lex>
     </entry>
@@ -2881,8 +2881,8 @@
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
         <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Agentina, was in office while Juan Peron, a member of the Labour Party in Argentina, was President. Alberto Teisaire worked as a Provisional President of the Argentine Senate and Isaac Rojas was his the successor.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza in Agentina, worked as the Provisional President of the Argentine Senate. He was in office while Juan Peron, a member of the Labour Party, was President. Teisaire was succeeded by Isaac Rojas.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, was in office while Juan Peron, a member of the Labour Party in Argentina, was President. Alberto Teisaire worked as a Provisional President of the Argentine Senate and Isaac Rojas was his the successor.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza in Argentina, worked as the Provisional President of the Argentine Senate. He was in office while Juan Peron, a member of the Labour Party, was President. Teisaire was succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire, who was born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate while Labour Party member Juan Perón was President. Teisaire was succeeded in office by Isaac Rojas.</lex>
     </entry>
     <entry category="Politician" eid="Id134" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">

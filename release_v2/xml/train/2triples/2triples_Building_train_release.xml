@@ -2454,8 +2454,8 @@
         <mtriple>Ethiopia | leaderName | Mulatu_Teshome</mtriple>
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
-      <lex comment="good" lid="Id2">The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Ethiopia whose leader is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">The leader of Ethiopia is Mulatu Teshome and the Addis Ababa City Hall is located in Ethiopia.</lex>
       <lex comment="good" lid="Id3">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
     </entry>
     <entry category="Building" eid="Id162" shape="(X (X (X)))" shape_type="chain" size="2">

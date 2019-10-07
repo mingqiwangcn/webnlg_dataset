@@ -2990,7 +2990,7 @@
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is in the Eastern Province of Sri Lanka, where Austin Fernando is the leader, and they use the Sri Lankan rupee.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province of Sri Lanka (the currency of which is the Ski Lankan rupee), the leader of that province is Austin Fernando.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province of Sri Lanka (the currency of which is the Sri Lankan rupee), the leader of that province is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id138" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3094,9 +3094,9 @@
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With the leader Ranil Wickremesinghe and the capital of Sri Jayawardenepura Kotte, Sri Lanka is the location of Ampara Hospital and has the currency of the Ski Lankan rupee .</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Ski Lankan rupee and the capital is Sri Jayawardenepura Kotte .</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Ski Lankan rupee and Sri Jayawardenepura Kotte is the capital.</lex>
+      <lex comment="good" lid="Id1">With the leader Ranil Wickremesinghe and the capital of Sri Jayawardenepura Kotte, Sri Lanka is the location of Ampara Hospital and has the currency of the Sri Lankan rupee.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Sri Lankan rupee and the capital is Sri Jayawardenepura Kotte .</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Sri Lankan rupee and Sri Jayawardenepura Kotte is the capital.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3801,7 +3801,7 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, a country with leader Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The leader in Ethiopia is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The leader in Ethiopia is Mulatu Teshome.</lex>
       <lex comment="good" lid="Id3">Addis Ababa is in Ethiopia which has a leader named Mulatu Teshome. Addis Ababa City Hall and the Addis Ababa Stadium are both in Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id181" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3817,8 +3817,8 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Malatu Teshome.</lex>
-      <lex comment="good" lid="Id2">Malatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Mulatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
       <lex comment="good" lid="Id3">Ethiopia is led by Mulatu Teshome and has the spoken language of Amharic, and is the location of Addis Ababa City Hall, which can be found in Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id182" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3840,7 +3840,7 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Mulatu Teshome and Hailemariam Desalegn.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
       </entry>
     <entry category="Building" eid="Id183" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -3863,8 +3863,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Leaders in Ethiopia are Mulatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Mulatu Teshome and Hailemariam Desalegn.</lex>
     </entry>
     <entry category="Building" eid="Id184" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
