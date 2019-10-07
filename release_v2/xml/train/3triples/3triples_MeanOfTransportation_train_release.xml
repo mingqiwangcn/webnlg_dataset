@@ -3308,7 +3308,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The DeSoto is related to the Dodge Coronet and Desoto Custom which is made by the DeSoto co.</lex>
       <lex comment="good" lid="Id2">The DeSoto Custom was manufactured at DeSoto and is a a similar means of transportation as the Dodge Coronet and the 1955 Dodge.</lex>
-      <lex comment="good" lid="Id3">The DeSoto Custom (made by DeSoto Custom)and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.</lex>
+      <lex comment="good" lid="Id3">The DeSoto Custom (made by DeSoto Custom) and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id198" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3785,7 +3785,7 @@
         <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
         <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">ALV X-1 hails from the United States, a country with an ethic group of White Americans and a nation anthem called The Star Spangled Banner.</lex>
+      <lex comment="good" lid="Id1">ALV X-1 hails from the United States, a country with an ethnic group of White Americans and a nation anthem called The Star Spangled Banner.</lex>
       <lex comment="good" lid="Id2">ALV X-1 originated in the United States, where White Americans are one of the ethnic groups. It is also where the Star Spangled Banner is the national anthem.</lex>
       <lex comment="good" lid="Id3">The US Anthem is the Star Spangled Banner and the country includes the White Americans among its ethnic groups and is where the ALV X-1 originates.</lex>
     </entry>

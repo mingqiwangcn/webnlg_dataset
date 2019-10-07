@@ -1292,7 +1292,7 @@
         <mtriple>Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agra Airport is located in Uttar Pradesh (part of Bundelkhand and Awadh)and operated by the Indian Air Force. The Boeing C-17 Globemaster III is a transport plane found there.</lex>
+      <lex comment="good" lid="Id1">Agra Airport is located in Uttar Pradesh (part of Bundelkhand and Awadh) and operated by the Indian Air Force. The Boeing C-17 Globemaster III is a transport plane found there.</lex>
       <lex comment="good" lid="Id2">Agra Airport is located in Uttar Pradesh and is run by the Indian Air Force. Uttar Pradesh is part of Awadh and Bundelkhand. The Boeing C-17 Globemaster III is a transport aircraft in that Air Force.</lex>
       <lex comment="good" lid="Id3">Agra Airport is in Uttar Pradesh, which is part of Awadh and part of Bundelkhand. The airport is operated by the Indian Air Force whose transport aircraft is the Boeing C-17 Globemaster III.</lex>
     </entry>
@@ -4297,7 +4297,7 @@
         <mtriple>Fallujah | country | Iraq</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Al Taqaddum Air Base serves the city of Fallujah Iraq. Kurdish is spoken in Iraq where Haider al-Abadi and Fuad Masum are leaders.</lex>
-      <lex comment="good" lid="Id2">Al-Taqaddum Air base serves the city of Fallujah in Iraq. Haider al-Abadi is the prime minister of the country and the president is called Fuad Masum(a kurdish politician).Kurdish is one of the spoken languages of Iraq.</lex>
+      <lex comment="good" lid="Id2">Al-Taqaddum Air base serves the city of Fallujah in Iraq. Haider al-Abadi is the prime minister of the country and the president is called Fuad Masum (a kurdish politician). Kurdish is one of the spoken languages of Iraq.</lex>
       <lex comment="good" lid="Id3">Al-Taqaddum Air Base serves the city of Fallujah in Iraq. The Kurdish languages are spoken in Iraq, where there are leaders called Haider Al-Abadi and Fuad Masum.</lex>
     </entry>
     <entry category="Airport" eid="Id184" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">

@@ -251,7 +251,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport(runway name of 10R/28L is 2777.0 meters) is 25 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport (runway name of 10R/28L is 2777.0 meters) is 25 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Aarhus airport is 25 metres above sea level and operated by Aktieselskab. The runway name is 10R/28L and it has a length of 2777.0.</lex>
       <lex comment="good" lid="Id3">10R/28L is the runway name at Aarhus Airport. It is 2777 meters long with 25 meters above sea level. Aktieselskab operates the airport.</lex>
     </entry>
@@ -812,7 +812,7 @@
         <mtriple>Afonso_Pena_International_Airport | location | São_José_dos_Pinhais</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International Airport in São José dos Pinhais, part of Parana, serves Curitiba and is operated by Infraero.</lex>
-      <lex comment="good" lid="Id2">Afonso Pena International Airport located at Sao Jose dos Pinhais (part of Parana)and serves the city of Curitiba and is operated by Infraero.</lex>
+      <lex comment="good" lid="Id2">Afonso Pena International Airport located at Sao Jose dos Pinhais (part of Parana) and serves the city of Curitiba and is operated by Infraero.</lex>
       <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais, which is part of the state of Paraná. The airport serves Curitiba and is operated by Infraero.</lex>
     </entry>
     <entry category="Airport" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -892,7 +892,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location of Afonso Pena International airport is Sao Jose dos Pinhais and it is located 911.0 metres above sea level. The runway name is 11/29 and it has a length of 1800.0.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport is located in Sao Jose dos Pinhais. 11/29 is the name given to the runway which is 1800 meters long and 911 meters above sea level.</lex>
-      <lex comment="good" lid="Id3">Afonso Pena International airport is in Sao Jose dos Pinhais. It is 911 meters above sea level and its runway(11/29) is 1800 meters long.</lex>
+      <lex comment="good" lid="Id3">Afonso Pena International airport is in Sao Jose dos Pinhais. It is 911 meters above sea level and its runway (11/29) is 1800 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id43" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2901,7 +2901,7 @@
         <mtriple>Greenville,_Wisconsin | isPartOf | Dale,_Wisconsin</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International airport(Appleton) is located in Greenville which is in Grand Chute and part of Dale, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">Appleton International airport (Appleton) is located in Greenville which is in Grand Chute and part of Dale, Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton International Airport is in Greensville, Grand Chute, Dale Wisconsin, and serves Appleton Wisconsin.</lex>
       <lex comment="good" lid="Id3">Appleton International Airport, located in Greenville (WI), services Appleton, Grand Chute and Dale, Wisconsin.</lex>
     </entry>
@@ -2925,7 +2925,7 @@
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Greenville is in Grand Chute, and is a part of Ellington, Wisconsin. It is the location of Appleton International airport which serves the city of Appleton.</lex>
-      <lex comment="good" lid="Id2">Appleton International Airport(serving Appleton) is located in Greenville, Wisconsin. Greenville, Wisconsin is part of Grand Chute and Ellington, Wisconsin.</lex>
+      <lex comment="good" lid="Id2">Appleton International Airport (serving Appleton) is located in Greenville, Wisconsin. Greenville, Wisconsin is part of Grand Chute and Ellington, Wisconsin.</lex>
       <lex comment="good" lid="Id3">The Appleton International Airport is located in and services Greenville, Wisconsin. Grand Chute and Ellington are part of Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id138" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2960,7 +2960,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport serves the city of Appleton (part of which is Little Chute) and is located in Greenville (part of the town of Menasha), Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton International airport is located in Greenville (part of the town of Menasha) Wisconsin and serves the city of Appleton (part of Little Chute) Wisconsin.</lex>
-      <lex comment="good" lid="Id3">Appleton International Airport(serving Appleton) can be found in Greenville, part of the town of Menasha, in Wisconsin. Appleton is part of Little Chute, Wisconsin.</lex>
+      <lex comment="good" lid="Id3">Appleton International Airport (serving Appleton) can be found in Greenville, part of the town of Menasha, in Wisconsin. Appleton is part of Little Chute, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id140" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3044,7 +3044,7 @@
         <mtriple>Poaceae | division | Flowering_plant</mtriple>
         <mtriple>Poaceae | order | Commelinids</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ardmore Airport(New Zealand)'s 3rd runway is surfaced with Poaceae (division of flowering plants).Poaceae is placed in the order of Commelinids and classified as Monocotyledon.</lex>
+      <lex comment="good" lid="Id1">Ardmore Airport (New Zealand)'s 3rd runway is surfaced with Poaceae (division of flowering plants). Poaceae is placed in the order of Commelinids and classified as Monocotyledon.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport's (New Zealand) 3rd runway is made of Poaceae (Class: Monocotyledon; flowering plant Order: Commelinids).</lex>
     </entry>
     <entry category="Airport" eid="Id144" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3617,7 +3617,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With a runway length of 1,873, Atlantic City International Airport is located in Egg Harbor Township, New Jerse y(part of Atlantic County) in the United States.</lex>
+      <lex comment="good" lid="Id1">With a runway length of 1,873, Atlantic City International Airport is located in Egg Harbor Township, New Jersey (part of Atlantic County) in the United States.</lex>
       <lex comment="good" lid="Id2">Egg Harbor Township, is a township in Atlantic County, New Jersey, United States. With a runway length of 1873 metres, Atlantic City International Airport is located in Egg Harbor Township.</lex>
       </entry>
     <entry category="Airport" eid="Id167" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

@@ -1807,7 +1807,7 @@
         <mtriple>Acura_TLX | engine | Honda_J_engine</mtriple>
         <mtriple>Acura_TLX | relatedMeanOfTransportation | Honda_Accord</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Honda makes the Acura TLX model (related to the Honda Accord)that contains a Honda J Engine. A division of honda is the Acura.</lex>
+      <lex comment="good" lid="Id1">Honda makes the Acura TLX model (related to the Honda Accord) that contains a Honda J Engine. A division of honda is the Acura.</lex>
       <lex comment="good" lid="Id2">Acura is a division of Honda, the company who make the Acura TLX. The vehicle is related to the Honda Accord and has a Honda J engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id98" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

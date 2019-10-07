@@ -491,7 +491,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Boris Johnson led London is the capital of the United Kingdom (led by Elizabeth II)is home to the British people and 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id1">Boris Johnson led London is the capital of the United Kingdom (led by Elizabeth II), which is home to the British people and 20 Fenchurch Street.</lex>
       </entry>
     <entry category="Building" eid="Id21" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1797,7 +1797,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. One of the ethnic groups in Japan is the Filipinos and the leader of the country is Tarō Asō.</lex>
       <lex comment="good" lid="Id2">The Filipinos are one of the ethnic groups in Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id3">Akita Museum of Art is in Akita, Akita(part of Akita Prefecture) in Japan. One of Japan's leaders isTarō Asō and one ethic group is the Filipinos.</lex>
+      <lex comment="good" lid="Id3">Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. One of Japan's leaders is Tarō Asō and one ethnic group is the Filipinos.</lex>
     </entry>
     <entry category="Building" eid="Id81" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2755,7 +2755,7 @@
         <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
         <mtriple>Birmingham | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Architect John Madin (born in Birmingham) designed 103 Colmore Row; Birmingham(postal code B) is governed by The Labour Party's(UK) Birmingham City Council.</lex>
+      <lex comment="good" lid="Id1">Architect John Madin (born in Birmingham) designed 103 Colmore Row; Birmingham (postal code B) is governed by The Labour Party's (UK) Birmingham City Council.</lex>
       <lex comment="good" lid="Id2">The B postcode area is the postal code of Birmingham, which is led by the UK Labour Party and is governed by Birmingham City Council. John Madin, the architect who designed 103 Colmore Row, was born in Birmingham.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham (postcode area 'B'), was designed by the architect John Madin who was born in the city. Birmingham's governing body is Birmingham City Council, which is led by the Labour Party.</lex>
     </entry>
@@ -2868,7 +2868,7 @@
         <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Madin, who was the architect of 103 Colmore Row was born in Birmingham. The governing body of the city (which has the B postcode) is the City Council led by the UK Conservative Party.</lex>
-      <lex comment="good" lid="Id2">Birmingham City Council governs the city of Birmingham which has the postcode area "B". It is led by the Conservative Party(UK) and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id2">Birmingham City Council governs the city of Birmingham which has the postcode area "B". It is led by the Conservative Party (UK) and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham. The leader of Birmingham is the Conservative Party (UK), and it has the postcode area 'B'. Its governing body is Birmingham City Council.</lex>
     </entry>
     <entry category="Building" eid="Id131" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

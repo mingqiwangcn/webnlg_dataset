@@ -55,8 +55,8 @@
         <mtriple>101_Helena | escapeVelocity | 0.0348 (kilometrePerSeconds)</mtriple>
         <mtriple>101_Helena | apoapsis | 441092000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">101 Helena(mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).</lex>
-      <lex comment="good" lid="Id2">101 Helena; has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.</lex>
+      <lex comment="good" lid="Id1">101 Helena (mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).</lex>
+      <lex comment="good" lid="Id2">101 Helena has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.</lex>
       </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

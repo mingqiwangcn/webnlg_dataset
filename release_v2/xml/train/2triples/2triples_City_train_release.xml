@@ -410,7 +410,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States has an ethnic group called Native Americans and is where you will find Albany, Oregon.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is part of the U.S. where one of the ethnic groups are Native Americans.</lex>
-      <lex comment="good" lid="Id3">Albany, Oregon is in the United States, where Native Americans are one of the ethic groups.</lex>
+      <lex comment="good" lid="Id3">Albany, Oregon is in the United States, where Native Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2027,7 +2027,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">African Americans are an ethnic group within the United States where you can find Auburn, Washington.</lex>
-      <lex comment="good" lid="Id2">Auburn, Washington is located in the United States, where African Americans are an ethic group.</lex>
+      <lex comment="good" lid="Id2">Auburn, Washington is located in the United States, where African Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id120" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -973,7 +973,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, Georgia is in the United States where Washington D.C. is the capital and African Americans are one of several ethnic groups.</lex>
       <lex comment="good" lid="Id2">One of the ethnic groups in the United States, where the capital city is Washington DC, are the African Americans. Alpharetta in the state of Georgia is located in the country.</lex>
-      <lex comment="good" lid="Id3">Alpharetta, is located in Georgia, in the United States(capital city:Washington D.C.).African Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id3">Alpharetta, is located in Georgia, in the United States (capital city: Washington D.C.). African Americans are an ethnic group within the United States.</lex>
     </entry>
     <entry category="City" eid="Id35" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2913,7 +2913,7 @@
         <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, located in King County, Washington (state), USA, has a total area of 77.41 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of King County ,Washington in the U.S.Auburn (Washington) has a total area of 77.4 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of King County, Washington in the U.S. Auburn (Washington) has a total area of 77.4 square kilometres.</lex>
       <lex comment="good" lid="Id3">Auburn is located in King County, part of the state of Washington. It covers a total area of 77.4 sq km within the United States.</lex>
     </entry>
     <entry category="City" eid="Id117" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3689,7 +3689,7 @@
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington is part of the state of Texas, whose largest city is Houston. Arlington is part of Tarrant County, the county seat of which is Fort Worth.</lex>
-      <lex comment="good" lid="Id2">In Texas, the largest city is Houston and Arlington(part of Tarrant County), is part of the state. The county seat of Tarrant County in Texas is Fort Worth.</lex>
+      <lex comment="good" lid="Id2">In Texas, the largest city is Houston and Arlington (part of Tarrant County), is part of the state. The county seat of Tarrant County in Texas is Fort Worth.</lex>
       <lex comment="good" lid="Id3">Arlington is located in Tarrant County, Texas. The county seat of Tarrant County is Fort Worth, and the largest city in Texas is Houston.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3960,7 +3960,7 @@
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Washington DC is the capital of the United States, which is home to Albany, a city in Oregon. Within the US there is an ethic group called African Americans.</lex>
+      <lex comment="good" lid="Id1">Washington DC is the capital of the United States, which is home to Albany, a city in Oregon. Within the US there is an ethnic group called African Americans.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is located within the United States, the capital of which is Washington, D.C. One of the ethnic groups in the United States are the African Americans.</lex>
       <lex comment="good" lid="Id3">In the U.S. where Washington D.C. is the capital, we will find African Americans and also the city of Albany in Oregon.</lex>
     </entry>
@@ -4316,7 +4316,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, a city in Indiana, is in the United States. The same English speaking country, where African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is in the United States, a country whose language is English. One of the ethnic groups within the U.S. are African Americans.</lex>
-      <lex comment="good" lid="Id3">Angola, part of the state of Indiana, is in the United States. English is the language spoken in the U.S., and African Americans are one of the ethic groups.</lex>
+      <lex comment="good" lid="Id3">Angola, part of the state of Indiana, is in the United States. English is the language spoken in the U.S., and African Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id193" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4417,7 +4417,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is a city in Oregon (capital Salem), in the United States, where Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Albany is part of Oregon, whose capital is Salem, in the U.S. Asian Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">Albany is a city in Oregon(state capital:Salem)within the United States. Asian Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3">Albany is a city in Oregon (state capital: Salem) within the United States. Asian Americans are an ethnic group in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id199" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

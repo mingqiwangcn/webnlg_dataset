@@ -1194,7 +1194,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington DC is the capital of the United States, where English is the language and where the dish bacon explosion originated. Barack Obama is leader of the US, where African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States, a country whose capital is Washington, D.C. and which is led by Barack Obama. African Americans are an ethic group in the U.S. and English is spoken there.</lex>
+      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States, a country whose capital is Washington, D.C. and which is led by Barack Obama. African Americans are an ethnic group in the U.S. and English is spoken there.</lex>
     </entry>
     <entry category="Food" eid="Id62" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1211,7 +1211,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Barack Obama is leader of the United States, home to the dish Bacon Explosion. African Americans are an ethic group in the United States, where Washington DC is the capital and the leader has the title President.</lex>
+      <lex comment="good" lid="Id1">Barack Obama is leader of the United States, home to the dish Bacon Explosion. African Americans are an ethnic group in the United States, where Washington DC is the capital and the leader has the title President.</lex>
       <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States, a country whose leader has the title of President and whose capital is Washington, D.C. One of the leaders of the U.S. is Barack Obama and one of the ethnic groups is the African Americans.</lex>
       <lex comment="good" lid="Id3">The country bacon explosion is from the United States, where africans americans are one of the ethnic groups, the capital is washington DC and the leader, known as president is Barack Obama.</lex>
     </entry>
@@ -1449,7 +1449,7 @@
         <mtriple>Bacon_Explosion | course | "Main course"</mtriple>
         <mtriple>Bacon_Explosion | mainIngredients | Sausage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The main ingredients in a bacon explosion (a main course)are bacon and sausage. The Bacon Explosion is from the Kansas City metro area.</lex>
+      <lex comment="good" lid="Id1">The main ingredients in a bacon explosion (a main course) are bacon and sausage. The Bacon Explosion is from the Kansas City metro area.</lex>
       <lex comment="good" lid="Id2">The main ingredients of Bacon Explosion are bacon and sausage. It is served as a main course and comes from the Kansas City metropolitan area.</lex>
       <lex comment="good" lid="Id3">The Bacon Explosion is a main dish from Kansas City metro which contains sausage and bacon.</lex>
     </entry>
@@ -3707,7 +3707,7 @@
         <mtriple>Derbyshire_Dales | isPartOf | Derbyshire</mtriple>
         <mtriple>Bakewell_tart | ingredient | Shortcrust_pastry</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A variation of Bakewell pudding, Bakewell tart(uses shortcrust pastry) comes from the Deryshire Dales region (in Deryshire), where Patrick McLoughlin is a leader.</lex>
+      <lex comment="good" lid="Id1">A variation of Bakewell pudding, Bakewell tart (uses shortcrust pastry) comes from the Deryshire Dales region (in Derbyshire), where Patrick McLoughlin is a leader.</lex>
       <lex comment="good" lid="Id2">Patrick McLoughlin is a leader in the Derbyshire community of Derbyshire Dales. The short crust pastry bakewell pudding tart is popular in this area.</lex>
       <lex comment="good" lid="Id3">Patrick McLoughlin is a leader in Derbyshire Dales, Derbyshire, where the bakewell tart (variation of bakewell pudding) and consisting largely of shortcrust pastry is popular.</lex>
     </entry>
@@ -4661,9 +4661,9 @@
         <mtriple>Spain | currency | Euro</mtriple>
         <mtriple>Ajoblanco | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ajoblanco is from Spain where the currency is the Euro and the leaders are Susana Diaz and Felipe VI.</lex>
-      <lex comment="good" lid="Id2">Felipe VI is the leader of Spain, but Susana Diaz is the leader of Andalusia. They use the Euro as currency. Ajobkanci, found in Andalusia is a food that originated in Spain.</lex>
-      <lex comment="good" lid="Id3">Ajoblanco has its origins in Spain(led by Felipe VI) and is also found in Susana Diaz led Andalusia. In Spain it can be purchased via the Euro.</lex>
+      <lex comment="good" lid="Id1">Ajoblanco is from Andalusia, Spain where the currency is the Euro and the leaders are Susana Diaz and Felipe VI.</lex>
+      <lex comment="good" lid="Id2">Felipe VI is the leader of Spain, but Susana Diaz is the leader of Andalusia. They use the Euro as currency. Ajoblanco, found in Andalusia is a food that originated in Spain.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco has its origins in Spain (led by Felipe VI) and is also found in Susana Diaz led Andalusia. In Spain it can be purchased via the Euro.</lex>
     </entry>
     <entry category="Food" eid="Id231" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

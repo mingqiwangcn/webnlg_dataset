@@ -473,7 +473,7 @@
         <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
         <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cape Town as its capital and Cyril Ramaphosa as leader. Coloured people are an ethic group of this country.</lex>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cape Town as its capital and Cyril Ramaphosa as leader. Coloured people are an ethnic group of this country.</lex>
       <lex comment="good" lid="Id2">In South Africa (where the capital is Cape Town) there are many ethnic groups, one of which is called the Coloured, Cyril Ramaphosa is one of the leaders and 11 Diagonal Street is located there.</lex>
       </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -621,7 +621,7 @@
         <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
         <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, a country with an ethic group White South Africans, led by either Cyril Ramaphosa or Jacob Zuma.</lex>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, a country with an ethnic group White South Africans, led by either Cyril Ramaphosa or Jacob Zuma.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, the country which has Cyril Ramaphosa and Jacob Zuma as leaders and where one of the ethnic groups is White South Africans.</lex>
       <lex comment="good" lid="Id3">Cyril Ramaphosa and Jacob Zuma are leaders in South Africa where 11 Diagonal Street is located and the white South Africans are one of the ethnic groups.</lex>
     </entry>
@@ -2444,7 +2444,7 @@
         <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
         <mtriple>Akita,_Akita | country | Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita which is part of Akita Prefecture in Japan. Filipinos are one ethic group in Japan.</lex>
+      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita which is part of Akita Prefecture in Japan. Filipinos are one ethnic group in Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture, Japan. One of the ethnic groups in Japan is the Filipinos.</lex>
     </entry>
     <entry category="Building" eid="Id112" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
@@ -4245,8 +4245,8 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paul Ryan is the leader and President Of the United States. An example of a street name in the United States is Delaware Avenue and an example of an ethic group is White Americans.</lex>
-      <lex comment="good" lid="Id2">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethic groups is White Americans. also located in the U.S. is 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id1">Paul Ryan is the leader of the United States governed by the President. An example of a street name in the United States is Delaware Avenue and an example of an ethnic group is White Americans.</lex>
+      <lex comment="good" lid="Id2">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethnic groups is White Americans. Also located in the U.S. is 250 Delaware Avenue.</lex>
     </entry>
     <entry category="Building" eid="Id206" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
