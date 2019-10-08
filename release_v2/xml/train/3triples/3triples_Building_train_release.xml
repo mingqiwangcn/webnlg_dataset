@@ -2634,7 +2634,7 @@
         <mtriple>Ampara_Hospital | region | Ampara_District</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is located in Ampara District, Eastern Province, Sri Lanka.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in Ampara District in the Easter Province of Sri Lanka.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is located in Ampara District in the Eastern Province of Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2652,7 +2652,7 @@
         <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin Fernando is the leader of the Eastern Provice, Sri Lanka, where Ampara Hospital is located.</lex>
+      <lex comment="good" lid="Id1">Austin Fernando is the leader of the Eastern Province, Sri Lanka, where Ampara Hospital is located.</lex>
       <lex comment="good" lid="Id2">The Ampara Hospital is situated in the Eastern Province state of Sri Lanka, whose leader is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id145" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -3384,7 +3384,7 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa in Ethiopia.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Ethopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Ethiopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
       <lex comment="good" lid="Id3">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Mulatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
     </entry>
     <entry category="Building" eid="Id188" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

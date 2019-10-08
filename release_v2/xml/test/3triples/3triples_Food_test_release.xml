@@ -260,7 +260,7 @@
         <mtriple>Baked_Alaska | ingredient | Sponge_cake</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sponge cake is an ingredient of Baked Alaska which is a dessert. Another type of dessert is a cookie.</lex>
-      <lex comment="good" lid="Id2">Sponge cake is an ingredient in the dessert Baked Alaska, Another type of desert is a cookie.</lex>
+      <lex comment="good" lid="Id2">Sponge cake is an ingredient in the dessert Baked Alaska. Another type of dessert is a cookie.</lex>
       <lex comment="good" lid="Id3">Sponge cake is a part of the dessert Baked Alaska, cookies are also a dessert.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

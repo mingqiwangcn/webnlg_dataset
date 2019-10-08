@@ -348,7 +348,7 @@
         <mtriple>Appleton,_Wisconsin | isPartOf | Little_Chute,_Wisconsin</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport is located in Wisconsin where Appleton is part of Greenville, Little Chute and serves Appleton.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin, which is part of Ellington. It serves Appleton, which is located in Little Chute, Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton (part of which is known as Little Chute) is served by Appleton International airport which is located in Greenville (part of which is known as Ellington), Wisconsin.</lex>
       </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

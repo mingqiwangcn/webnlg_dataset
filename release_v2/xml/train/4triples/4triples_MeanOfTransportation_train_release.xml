@@ -2911,8 +2911,8 @@
         <mtriple>Ariane_5 | maidenFlight | 1996-06-04</mtriple>
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. The Ariane 5 was manufactured at the ESA and Arinanespace and its launch site was ELA-3 launchpad.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5, which was manufactured at the ESA and Arinanespace was launched at ELA-3. The maiden flight took place on 4 June 1996 and the final flight on 18 December 2009.</lex>
+      <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. The Ariane 5 was manufactured at the ESA and Arianespace and its launch site was ELA-3 launchpad.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5, which was manufactured at the ESA and Arianespace was launched at ELA-3. The maiden flight took place on 4 June 1996 and the final flight on 18 December 2009.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3, had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. It was made by ESA and Arianespace.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id149" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2968,7 +2968,7 @@
         <mtriple>Ariane_5 | maidenFlight | 2005-08-11</mtriple>
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arinanespace. It was launched at the ELA-3 launchpad, with the first voyage taking place on August 11, 2005. Its final flight was on the 18th of December 2009.</lex>
+      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arianespace. It was launched at the ELA-3 launchpad, with the first voyage taking place on August 11, 2005. Its final flight was on the 18th of December 2009.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 had its first voyage August 11, 2005 and final flight on the 18th of December 2009. It was made by ESA and Arianespace and was launched from the ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was made by ESA and Arianespace and was launched at the ELA-3. It had its maiden flight on August 11th 2005 and its last flight was on December 18, 2009.</lex>
     </entry>

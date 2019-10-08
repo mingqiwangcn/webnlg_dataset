@@ -595,7 +595,7 @@
         <mtriple>AIDAstella | christeningDate | 2013-03-16</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDstella was christened on 16th of March 2013, had its maiden voyage on March 17 of that same year and is 253260.0 millimetres long.</lex>
+      <lex comment="good" lid="Id1">The AIDAstella was christened on 16th of March 2013, had its maiden voyage on March 17 of that same year and is 253260.0 millimetres long.</lex>
       <lex comment="good" lid="Id2">The ship AIDAstella was christened in March 16 2013, had her maiden voyage on March 17th 2013, and is 253260.0 millimetres in length.</lex>
       <lex comment="good" lid="Id3">The 253260.0 millimetres long, AIDAstella, was christened on the 16th of March, 2013 and its first journey took place on 17/03/2013.</lex>
     </entry>
@@ -2611,8 +2611,8 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5, made by ESA and Arianespace, last flight was on Dec. 18, 2009 from the Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 had its last flight on December 18, 2009. It was manufactured at the ESA and Arinanespace and was launched from the Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id3">The Ariane 5 was manufactured at the ESA and Arinanespace, had its last flight on December 18, 2009, and was launched at the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 had its last flight on December 18, 2009. It was manufactured at the ESA and Arianespace and was launched from the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id3">The Ariane 5 was manufactured at the ESA and Arianespace, had its last flight on December 18, 2009, and was launched at the Guiana Space Centre.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id154" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2699,7 +2699,7 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
         <mtriple>Ariane_5 | finalFlight | 2004-12-18</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arinanespace and the final flight was on 2004-12-18 from the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arianespace and the final flight was on 2004-12-18 from the Guiana Space Centre.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was made by ESA and Arianespace and launched from the Guiana Space Centre, making its final flight on 18 December 2004.</lex>
       <lex comment="good" lid="Id3">Ariane 5 was made at the ESA and Arianespace. It was launched from the Guiana Space Centre and took its final flight on 18th December 2004.</lex>
     </entry>
@@ -2744,7 +2744,7 @@
         <mtriple>Ariane_5 | launchSite | Guiana_Space_Centre</mtriple>
         <mtriple>Ariane_5 | finalFlight | 2004-12-18</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arinanespace is the manufacturer of Ariane 5, December 18, 2004 was Ariane 5's final flight and it was launched from the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id1">Arianespace is the manufacturer of Ariane 5, December 18, 2004 was Ariane 5's final flight and it was launched from the Guiana Space Centre.</lex>
       <lex comment="good" lid="Id2">Ariane 5 was manufactured by Arianespace and launched from the Guiana Space Centre, taking its final flight on 2004-12-18.</lex>
       <lex comment="good" lid="Id3">The Ariane 5, manufactured by Arianespace, has its final flight on December 18, 2004. Guiana Space Centre was the launch site of the Ariane 5.</lex>
     </entry>

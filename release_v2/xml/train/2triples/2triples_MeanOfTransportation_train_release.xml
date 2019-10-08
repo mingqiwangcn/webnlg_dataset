@@ -2130,7 +2130,7 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was made by ESA and Arianespace and was launched at ELA-3.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arinanespace and was launched at the ELA-3.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arianespace and was launched at the ELA-3.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was made by ESA and Arianespace and launched from the ELA-3 launchpad.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id150" shape="(X (X) (X))" shape_type="sibling" size="2">

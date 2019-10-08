@@ -507,7 +507,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella has a top speed of 38.892.</lex>
       <lex comment="good" lid="Id2">The top speed of an AIDAstella is 38.892.</lex>
-      <lex comment="good" lid="Id3">The AIDstella's top speed is 38.892 km/h.</lex>
+      <lex comment="good" lid="Id3">The AIDAstella's top speed is 38.892 km/h.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2013,7 +2013,7 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was made by ESA and Arianespace.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arinanespace.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arianespace.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3246,7 +3246,7 @@
       <modifiedtripleset>
         <mtriple>Yuzhnoye_Design_Office | location | Dnipropetrovsk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Yuzhnoye Design Office is located in Dnipropetrosvsk.</lex>
+      <lex comment="good" lid="Id1">The Yuzhnoye Design Office is located in Dnipropetrovsk.</lex>
       <lex comment="good" lid="Id2">The Yuzhnoye Design Office is in Dnipropetrovsk.</lex>
       <lex comment="good" lid="Id3">The Yuzhnoye Design Office is located in Dnipropetrovsk.</lex>
     </entry>

@@ -48,8 +48,8 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The capital of the country is London and its leader is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom, London, by Lippincott, Williams &amp; Wilkins.</lex>
-      <lex comment="good" lid="Id3">Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, tha capital of the UK is London and the head of state is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins. The UK is governed by Elizabeth II and its capital is London.</lex>
+      <lex comment="good" lid="Id3">Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, the capital of the UK is London and the head of state is Elizabeth II.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -70,7 +70,7 @@
         <mtriple>A_Fortress_of_Grey_Ice | OCLC_number | 51969173</mtriple>
         <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and is available in print. Th book which has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.</lex>
+      <lex comment="good" lid="Id1">A Fortress of Grey Ice was written by J. V. Jones and is available in print. The book has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.</lex>
       <lex comment="good" lid="Id2">The author of A Fortress of Grey Ice, available in print, is J.V. Jones and has an OCLC number of 51969173 and the ISBN number is 0-7653-0633-6.</lex>
       <lex comment="good" lid="Id3">J.V. Jones authored A Fortress of Grey Ice, made available in print. Its OCLC and ISBN numbers are 51969173 and 0-7653-0633-6 respectively.</lex>
     </entry>

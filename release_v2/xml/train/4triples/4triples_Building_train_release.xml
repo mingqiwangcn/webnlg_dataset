@@ -1049,7 +1049,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which has the capital city of London and is led via the European Parliament. The UK is the location of 20 Fenchurch Street.</lex>
       <lex comment="good" lid="Id2">London, the capital of the United Kingdom is led via the European Parliament and Elizabeth II. 20 Fenchurch Street is located within the UK.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is led via the European Parliment although the leader of the United Kingdom is Elizabeth II.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is led via the European Parliament although the leader of the United Kingdom is Elizabeth II.</lex>
     </entry>
     <entry category="Building" eid="Id46" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1554,7 +1554,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Hotel Bella Sky is in Copenhagen, Denmark and has Marriott International as its tenant. It was designed by 3XN and has 23 floors.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen, designed with 23 floors by 3XN, and currently tenanted by the Marriott International Hotel, is located in Denmark.</lex>
-      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky, Copenhagen, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
+      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky, Copenhagen, Denmark, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id71" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1632,7 +1632,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
         <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A key person at Marriott International which was founded in Washington DC, is Bill Marriott. Marriott International is a tenant of AC Hotel Bella Sky in Copenhagen, Demark.</lex>
+      <lex comment="good" lid="Id1">A key person at Marriott International which was founded in Washington DC, is Bill Marriott. Marriott International is a tenant of AC Hotel Bella Sky in Copenhagen, Denmark.</lex>
       <lex comment="good" lid="Id2">Bill Marriott is one of the key people at Marriott International which was founded in Washington DC and is the current tenant of AC Hotel Bella Sky Copenhagen in Denmark.</lex>
       <lex comment="good" lid="Id3">Marriott International was founded in Washington, D.C by Bill Marriott, it is the tenant of the AC Hotel Bella Sky Copenhagen, Denmark.</lex>
     </entry>
@@ -3739,7 +3739,7 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa City Hall is in the country of Ethiopia (leader: Hailemariam Desalegn). Addis Ababa is home to the Addis Ababa City Hall and The Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id2">The Addis Ababa City Hall is located in Addis Ababa (Ethiopia) which is also where the Addis Ababa stadium can be found. The leader of Ethiopa is Hailemariam Desalegn .</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa City Hall is located in Addis Ababa (Ethiopia) which is also where the Addis Ababa stadium can be found. The leader of Ethiopia is Hailemariam Desalegn .</lex>
       <lex comment="good" lid="Id3">Ethiopia, led by Hailemariam Desalegn, is home to the Addis Ababa City Hall and Addis Ababa Stadium, both located in the city that named them.</lex>
     </entry>
     <entry category="Building" eid="Id178" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -3762,8 +3762,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa in Ethiopia (led by Hailemariam Desalegn) is the location of Addis Ababa City Hall and Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id2">Both Addis Ababa Stadium and City Hall are located in Addis Ababa, Ethiopa, whose leader is Hailemariam Desalegn.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall is located in Addis Ababa, Ethopia, where Hailemariam Desalegn is the leader.</lex>
+      <lex comment="good" lid="Id2">Both Addis Ababa Stadium and City Hall are located in Addis Ababa, Ethiopia, whose leader is Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where Hailemariam Desalegn is the leader.</lex>
     </entry>
     <entry category="Building" eid="Id179" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3778,8 +3778,8 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ethiopa is led by Hailemariam Desalegn and uses the Amharic language. The Addis Ababa City Hall is located in the city of Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethopia. Hailemariam Desalegn is the ruler, where the language spoken is Amharic.</lex>
+      <lex comment="good" lid="Id1">Ethiopia is led by Hailemariam Desalegn and uses the Amharic language. The Addis Ababa City Hall is located in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Hailemariam Desalegn is the ruler, where the language spoken is Amharic.</lex>
     </entry>
     <entry category="Building" eid="Id180" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
