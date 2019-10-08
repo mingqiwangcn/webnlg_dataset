@@ -53,8 +53,8 @@
         <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of 1. FC Koln is Peter Stoger who plays for the Austria national football team and is a member of the FK Austria Wien soccer club.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is currently at FK Austria Wien and manages FC Kolin, he also plays international football for Austria.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin, he plays for the Austria national football team and FK Austria Wien also.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is currently at FK Austria Wien and manages FC Koln, he also plays international football for Austria.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln, he plays for the Austria national football team and FK Austria Wien also.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -68,7 +68,7 @@
         <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is manager of 1. FC Köln and has played for SC Wiener Neustadt and the Austria national football team.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and plays for both SC Wiener Neustadt and the Austria national football team.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and plays for both SC Wiener Neustadt and the Austria national football team.</lex>
       <lex comment="good" lid="Id3">The manager of 1. FC Koln is Peter Stoger who is affiliated with the SC Wiener Neustadt club and plays for the Austria national football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2702,7 +2702,7 @@
         <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.</lex>
-      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Kolin and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Koln and is affiliated with the SC Wiener Neustadt club.</lex>
       <lex comment="good" lid="Id3">Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id162" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2716,7 +2716,7 @@
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
         <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">PeterStöger, manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
+      <lex comment="good" lid="Id1">Peter Stöger, manager of FC Koln plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
       <lex comment="good" lid="Id2">Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id163" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

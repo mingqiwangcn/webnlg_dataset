@@ -2637,7 +2637,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Oyster sauce is an ingredient in the popular Singapore dish of Beef kway teow.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is a Singapore dish which contains oyster sauce.</lex>
-      <lex comment="good" lid="Id3">Oyster sauce is an ingredient of Beef kway teow which is a dish from Sinagpore.</lex>
+      <lex comment="good" lid="Id3">Oyster sauce is an ingredient of Beef kway teow which is a dish from Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id197" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2712,7 +2712,7 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Beef kway teow comes from Singaporae region where the English language is spoken.</lex>
+      <lex comment="good" lid="Id1">Beef kway teow comes from Singapore region where the English language is spoken.</lex>
       <lex comment="good" lid="Id2">English is spoken in Singapore where beef kway teow is a dish.</lex>
       </entry>
     <entry category="Food" eid="Id203" shape="(X (X (X)))" shape_type="chain" size="2">

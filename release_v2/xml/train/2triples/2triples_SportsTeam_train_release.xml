@@ -11,7 +11,7 @@
         <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pete Stoger is manager of 1. FC Koln and plays for the Austria national football team.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and plays for the Austria national football team.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and plays for the Austria national football team.</lex>
       <lex comment="good" lid="Id3">Peter Stöger is manager of 1. FC Köln and plays for the Austria National Football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -25,7 +25,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is at the FK Austria Wien club and manages 1 FC Koln.</lex>
       <lex comment="good" lid="Id2">The manager of 1. FC Koln is Peter Stoger who plays for FK Austria Wien.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin as well as being a member of the FK Austria Wien soccer club.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln as well as being a member of the FK Austria Wien soccer club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -38,7 +38,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is manager of 1. FC Köln and plays for LASK Linz.</lex>
       <lex comment="good" lid="Id2">The manager of 1. FC Koln is Peter Stoger, who plays for LASK Linz.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin and played for the club LASK Linz.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln and played for the club LASK Linz.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2385,7 +2385,7 @@
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger's club is the FC Admira Wacker Mödling and he is the manager of 1. FC Koln.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and his club is FC Admira Wacker Modling.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and his club is FC Admira Wacker Modling.</lex>
       <lex comment="good" lid="Id3">The manager of 1.FC Koln is Peter Stoger, whose club is FC Admira Wacker Modling.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id167" shape="(X (X (X)))" shape_type="chain" size="2">

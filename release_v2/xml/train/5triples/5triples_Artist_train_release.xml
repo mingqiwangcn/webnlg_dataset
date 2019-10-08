@@ -4998,9 +4998,9 @@
         <mtriple>Alfred_Garth_Jones | deathPlace | London</mtriple>
         <mtriple>Alfred_Garth_Jones | nationality | United_Kingdom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones died in Sidcup London UK. London is led by the Parliament of the United Kingdom and the leader of the United Kingdom is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">London is led by the Parliament of the United Kingdom and Elizabeth II is the queen of the country. Alfred Garth Jones was born in the UK and passed away in London.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones, from the UL, died in Sidcup, London. The Parliament of the United Kingdom leads London and Elizabeth II is the United Kingdom leader.</lex>
+      <lex comment="good" lid="Id1">British Alfred Garth Jones died in Sidcup London. London is led by the Parliament of the United Kingdom and the leader of the United Kingdom is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">London is led by the Parliament of the United Kingdom and Elizabeth II is the queen of the country. Alfred Garth Jones was born in the UK and passed away in Sidcup, London.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones, from the UK, died in Sidcup, London. The Parliament of the United Kingdom leads London and Elizabeth II is the United Kingdom leader.</lex>
     </entry>
     <entry category="Artist" eid="Id203" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5019,7 +5019,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones died in Sidcup, in London, the leader of which is, Boris Johnson. While the London government is known as the Parliament of the U.K., London is governed by the Greater London Authority.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones died in Sidcup, London. Boris Johnson is a leader in London which is governed by the Greater London Authority and the UK Parliament.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones died in, Boris Johnson led, Sidup, London. London is also led by the Parliament of the United Kingdom and the Greater London Authority.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones died in, Boris Johnson led, Sidcup, London. London is also led by the Parliament of the United Kingdom and the Greater London Authority.</lex>
     </entry>
     <entry category="Artist" eid="Id204" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

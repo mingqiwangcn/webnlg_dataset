@@ -295,8 +295,8 @@
         <mtriple>(410777)_2009_FD | meanTemperature | 258.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(410777) 2009 FD has a mean temperature of 258.0 kelvins.</lex>
-      <lex comment="good" lid="Id2">The mean temperature of 410777 2099 FD is 258.0 kelvins.</lex>
-      <lex comment="good" lid="Id3">410777 2009 FD has a mean temperature of 258 Kelvins.</lex>
+      <lex comment="good" lid="Id2">The mean temperature of (410777) 2099 FD is 258.0 kelvins.</lex>
+      <lex comment="good" lid="Id3">(410777) 2009 FD has a mean temperature of 258 Kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

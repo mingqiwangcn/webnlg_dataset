@@ -113,7 +113,7 @@
         <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
         <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">66063 1998 RO1 has an epoch date of 4 November 2013. It's mean temperature is 265.0 kelvins and it has an apoapsis of 254989570.60815 kilometres. 360.29 days is the orbital period of this celestial body.</lex>
+      <lex comment="good" lid="Id1">66063 1998 RO1 has an epoch date of 4 November 2013. Its mean temperature is 265.0 kelvins and it has an apoapsis of 254989570.60815 kilometres. 360.29 days is the orbital period of this celestial body.</lex>
       <lex comment="good" lid="Id2">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres. It has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
       <lex comment="good" lid="Id3">(66063) 1998 RO1, with an average temperature of 265 kelvins and an epoch date of 4 November 2013, has an orbital period of 360.29 days and an apoapsis of 254989570.60815 kilometres.</lex>
     </entry>
@@ -255,7 +255,7 @@
         <mtriple>107_Camilla | apoapsis | 560937000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">107 Camilla was discovered by E Wells and has an epoch date of 31 December 2006. It has an apoapsis of 560937000.0 kilometres and a periapsis of 479343000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2">E Wells discovered 107 Camilla an has an epoch date of December 31, 2006. It's periapsis is 479343000.0 kilometres and an apoapsis of 560937000.0 km.</lex>
+      <lex comment="good" lid="Id2">E Wells discovered 107 Camilla an has an epoch date of December 31, 2006. Its periapsis is 479343000.0 kilometres and an apoapsis of 560937000.0 km.</lex>
       </entry>
     <entry category="CelestialBody" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -305,9 +305,9 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs and an epoch date of Jan. 13, 2016. It has an orbital period of 135589000. and a periapsis measurement of 279142000000.0.</lex>
-      <lex comment="good" lid="Id2">The epoch date of 1097 Cocoa was on 13 January 2016 and its mass is 9.8kg. Its orbital period is 135589000.0 and its periapsis is 269142000000.</lex>
-      <lex comment="good" lid="Id3">The celestial body known as 1097 Vicia has a mass of 9.8kg and its epoch is on 13 January 2016. The orbital period for 1097 Vicia is 135589000.0 and it has a periapsis measurement of 279142000000.0.</lex>
+      <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs and an epoch date of Dec. 31, 2016. It has an orbital period of 135589000. and a periapsis measurement of 279142000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch date of 1097 Vicia was on 31 December 2016 and its mass is 9.8kg. Its orbital period is 135589000.0 and its periapsis is 269142000000.</lex>
+      <lex comment="good" lid="Id3">The celestial body known as 1097 Vicia has a mass of 9.8kg and its epoch is on 31 December 2016. The orbital period for 1097 Vicia is 135589000.0 and it has a periapsis measurement of 279142000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

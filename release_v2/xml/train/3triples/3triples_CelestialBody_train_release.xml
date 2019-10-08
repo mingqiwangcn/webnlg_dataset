@@ -317,8 +317,8 @@
         <mtriple>(410777)_2009_FD | mass | 8.3 (kilograms)</mtriple>
         <mtriple>(410777)_2009_FD | periapsis | 88234300000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With a mass of 8.3 kgs, The celestial body known as (410777), was discovered by Spacewatch, and has a periapsis of, 88234300000.0.</lex>
-      <lex comment="good" lid="Id2">410777 2009 FD, with a mass of 8.3kg, was discovered by Spacewatch and has a periapsis of 88234300000.0.</lex>
+      <lex comment="good" lid="Id1">With a mass of 8.3 kgs, the celestial body known as (410777) 2009 FD, was discovered by Spacewatch, and has a periapsis of 88234300000.0.</lex>
+      <lex comment="good" lid="Id2">(410777) 2009 FD, with a mass of 8.3kg, was discovered by Spacewatch and has a periapsis of 88234300000.0.</lex>
       <lex comment="good" lid="Id3">Discovered by Spacewatch, (410777) 2009 FD, has a mass of 8.3 kilograms and a periapsis of 88234300000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -413,7 +413,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spacewatch discovered the 410777 2009 FD which has a periapsis of 88234300000.0 and an epoch date of the 27th June 2015.</lex>
       <lex comment="good" lid="Id2">Spacewatch is the discoverer of the 410777 2009 FD, which has a periapsis of 88234300000.0 and an epoch date of the 27th June 2015.</lex>
-      <lex comment="good" lid="Id3">Spacewatch discovered 410777 2009 FD on June 27, 2015. It's periapsis is 88234300000.0.</lex>
+      <lex comment="good" lid="Id3">Spacewatch discovered 410777 2009 FD on June 27, 2015. Its periapsis is 88234300000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -575,7 +575,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as (66391) 1999 KW4 has an orbital period of 16244700, a periapsis of 29919600000.0, and an epoch date of 14 July 2004.</lex>
       <lex comment="good" lid="Id2">The epoch date for 66391 1999 KW4 was on 2004-07.14 and has an orbital period of 16244700.0 and its periapsis is 29919600000.0.</lex>
-      <lex comment="good" lid="Id3">(66391) 199 KW4 has an epoch date of July 14th 2004. It's orbital period is 16244700 and has a peripsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id3">(66391) 199 KW4 has an epoch date of July 14th 2004. Its orbital period is 16244700 and has a peripsis of 29919600000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -831,8 +831,8 @@
         <mtriple>James_Craig_Watson | almaMater | University_of_Michigan</mtriple>
         <mtriple>James_Craig_Watson | deathCause | Peritonitis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">101 Helena was discovered by James Craig Watson, whose alma mater was the University of Michigan. and who died from peritonitis.</lex>
-      <lex comment="good" lid="Id2">101 Hera was discovered by James Craig Watson who studied at the University of Michigan and later died of peritonitis.</lex>
+      <lex comment="good" lid="Id1">101 Helena was discovered by James Craig Watson, whose alma mater was the University of Michigan, and who died from peritonitis.</lex>
+      <lex comment="good" lid="Id2">101 Helena was discovered by James Craig Watson who studied at the University of Michigan and later died of peritonitis.</lex>
       <lex comment="good" lid="Id3">James Craig Watson, who discovered 101 Helena, studied at the University of Michigan and died of peritonitis.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1022,7 +1022,7 @@
         <mtriple>Walter_Baade | birthPlace | German_Empire</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baad, who discovered 1036 Ganymet, was born in the German Empire and attended the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1">Walter Baade, who discovered 1036 Ganymed, was born in the German Empire and attended the University of Gottingen.</lex>
       <lex comment="good" lid="Id2">1036 Ganymed was discovered by German born, Walter Baade, a graduate from University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id51" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1307,7 +1307,7 @@
         <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig Watson, who discovered 103 Hera, came from Canada and died in Madison, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">Canadian, James Craig Watson, who died in Madison, Wisconsin, discovered 104 Hera.</lex>
+      <lex comment="good" lid="Id2">Canadian, James Craig Watson, who died in Madison, Wisconsin, discovered 103 Hera.</lex>
       <lex comment="good" lid="Id3">Canadian, James Craig Watson, the discoverer of 103 Hera, died in Madison, Wisconsin.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id67" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1714,7 +1714,7 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1928 PC is the former name of 1097 Vicia, which has an epoch date of December 31st 2006 and an orbital period of 135589000.0.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia (formerly"1928 PC") has an orbital period of 135589000.0 and the epoch is on 13 January 2016.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia (formerly"1928 PC") has an orbital period of 135589000.0 and the epoch is on 31 December 2016.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id89" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1742,8 +1742,8 @@
         <mtriple>1097_Vicia | mass | 9.8 (kilograms)</mtriple>
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">13 January 2016, is the epoch of 1097 Vicia, which weighs 9.8 kgs, and has the orbital period of, 135589000.0.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia; has a mass of 9.8 kgs, the epoch date 2006.12.31, and an orbital period of, 135589000.0.</lex>
+      <lex comment="good" lid="Id1">31 December 2016 is the epoch of 1097 Vicia, which weighs 9.8 kgs, and has the orbital period of 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia has a mass of 9.8 kgs, the epoch date 2006.12.31, and an orbital period of 135589000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id90" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1761,7 +1761,7 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch of 1097 Vicia is on 13 January 2016. It has an orbital period of 135589000.0 and an apoapsis of 511592000.0 km.</lex>
+      <lex comment="good" lid="Id1">The epoch of 1097 Vicia is on 31 December 2016. It has an orbital period of 135589000.0 and an apoapsis of 511592000.0 km.</lex>
       <lex comment="good" lid="Id2">1097 Vicia, with the epoch date December 31st 2006, has an apoapsis of 511592000.0 km and an orbital period of 135589000.0.</lex>
       <lex comment="good" lid="Id3">1097 Vicia has the epoch date of 31 December 2006, an orbital period of 135589000.0 and an apoapsis of 511592000.0 km.</lex>
     </entry>
@@ -1781,8 +1781,8 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch of 1097 Vicia was on 13 January 2016.It has an orbital period of 135589000.0 and its periapsis is 279142000000.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia; has an orbital period of 135589000.0, a periapsis of 279142000000 and its epoch is 13 January 2016.</lex>
+      <lex comment="good" lid="Id1">The epoch of 1097 Vicia was on 31 December 2016.It has an orbital period of 135589000.0 and its periapsis is 279142000000.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia has an orbital period of 135589000.0, a periapsis of 279142000000 and its epoch is 31 December 2016.</lex>
       </entry>
     <entry category="CelestialBody" eid="Id92" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1966,7 +1966,7 @@
         <mtriple>1099_Figneria | epoch | 2006-12-31</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria-formerly known 1928 RQ, has an epoch date of December 31st 2006 and its periapsis is 349206000000.0.</lex>
-      <lex comment="good" lid="Id2">The epoch date for 1099 Figneria is 31 December 2006. It's former name was 1928 RQ. The periapsis of 1099 Figneria is 34920600000.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 1099 Figneria is 31 December 2006. Its former name was 1928 RQ. The periapsis of 1099 Figneria is 34920600000.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id100" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2583,8 +2583,8 @@
         <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
         <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The rotation period for 11264 Claudiomaccone which has an epoch date of 26.11.2005, is 11473.9. It's apoapsis is 475426000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005,an apoapsis of 475426000 kilometres and its rotation period is 11473.9.</lex>
+      <lex comment="good" lid="Id1">The rotation period for 11264 Claudiomaccone which has an epoch date of 26.11.2005, is 11473.9. Its apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="good" lid="Id2">11264 Claudiomaccone has an epoch date of November 26th 2005, an apoapsis of 475426000 kilometres and its rotation period is 11473.9.</lex>
       <lex comment="good" lid="Id3">11264 Claudiomaccone has the epoch date of 26 November 2005, an apoapsis of 475426000 kms and a rotation period of 11473.9.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id128" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

@@ -442,9 +442,9 @@
         <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
         <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The celestial body known as (410777) 2009 FD (discovered by Spacewatch); has an orbital period of 39447000, the epoch date of June 27th 2015 and the apoapsis of, 259776702.47055 kilometers.</lex>
+      <lex comment="good" lid="Id1">The celestial body known as (410777) 2009 FD (discovered by Spacewatch) has an orbital period of 39447000, the epoch date of June 27th 2015 and the apoapsis of 259776702.47055 kilometers.</lex>
       <lex comment="good" lid="Id2">(410777) 2009 FD has an epoch date of June 27th 2015 and an orbital period of 39447000.0. It was discovered by Spacewatch and has an apoapsis of 259776702.47055 kilometres.</lex>
-      <lex comment="good" lid="Id3">4100777 2009 FD was discovered by Spacewatch and its epoch date was on June 27th 2015.Its apoapsis is 259776802.47055 mms and has an orbital period of 39447000.0.</lex>
+      <lex comment="good" lid="Id3">(4100777) 2009 FD was discovered by Spacewatch and its epoch date was on June 27th 2015. Its apoapsis is 259776802.47055 mms and has an orbital period of 39447000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1297,7 +1297,7 @@
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1036 Ganymed was discovered by Walter Baade, who was born in the German Empire and went to the University of Gottingen. One of his doctoral students was Halton Arp.</lex>
-      <lex comment="good" lid="Id2">Walter Baade, born in the German Empire, studied at the University of Gottingen and discovered Gaymed in 1036. His doctoral student was Halton Arp.</lex>
+      <lex comment="good" lid="Id2">Walter Baade, born in the German Empire, studied at the University of Gottingen and discovered 1036 Ganymed. His doctoral student was Halton Arp.</lex>
       <lex comment="good" lid="Id3">Walter Baade, who was born in the German empire, discovered 1036 Ganymed. He graduated from University of Gottingen and his doctoral student was Halton Arp.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id55" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2052,8 +2052,8 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1097 Vicia, with the epoch date 13 January 2016, has an escape velocity of 0.0112 kmps and an apoapsis of 511592000.0 kilometres. Its orbital period is 135589000.0.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia, which has an epoch date of 13 January 2016, has an escape velocity of 0.0112km per sec. The orbital period is 135589000.0 and the apoapsis is 511592000.0 km.</lex>
+      <lex comment="good" lid="Id1">1097 Vicia, with the epoch date 31 December 2016, has an escape velocity of 0.0112 kmps and an apoapsis of 511592000.0 kilometres. Its orbital period is 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia, which has an epoch date of 31 December 2016, has an escape velocity of 0.0112km per sec. The orbital period is 135589000.0 and the apoapsis is 511592000.0 km.</lex>
       <lex comment="good" lid="Id3">The epoch date of 1097 Vicia is 2006.12.31 and it has an escape velocity of 0.0112 kilometres per second. Its orbital period is 135589000.0 and it has an apoapsis of 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2075,7 +2075,7 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1097 Vicia, formerly known as "1928 PC", has an orbital period of 135589000.0 and a periapsis of 279142000000.0. Its epoch is on 13th January 2016.</lex>
+      <lex comment="good" lid="Id1">1097 Vicia, formerly known as "1928 PC", has an orbital period of 135589000.0 and a periapsis of 279142000000.0. Its epoch is on 31th December 2016.</lex>
       <lex comment="good" lid="Id2">1097 Vicia (previously 1928 PC); has an orbital period of 135589000.0, a periapsis of 279142000000.0, and the epoch date, 2006.12.31.</lex>
       <lex comment="good" lid="Id3">The epoch date of 1097 Vicia is 2006.12.31 and it has an orbital period of 135589000.0. It has a periapsis of 279142000000 and was formerly known as "1928 PC".</lex>
     </entry>
@@ -2099,8 +2099,8 @@
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1097 Vicia's orbital period is 135589000, periapsis of 279142000000 kilometers, apoapsis of 511592000 kilometers, and a epoch on the 31st of December, 2006.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia has a periapsis of 279142000000.0 and an orbital period of, 135589000.0. With an apoapsis of 511592000.0 kilometres. 1097 Vica, has an orbital period of 135589000.0.</lex>
-      <lex comment="good" lid="Id3">1097 Vicia has a periapsis of 279142000000, and an orbital period of 135589000.0. The epoch of 1097 Vicia is on 13 January 2016, and it has an apoapsis of, 511592000.0 km.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia has a periapsis of 279142000000.0 and an orbital period of 135589000.0. With an apoapsis of 511592000.0 kilometres, 1097 Vica, has an epoch date of 31 December 2016.</lex>
+      <lex comment="good" lid="Id3">1097 Vicia has a periapsis of 279142000000, and an orbital period of 135589000.0. The epoch of 1097 Vicia is on 31 December 2016, and it has an apoapsis of 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id88" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2133,9 +2133,9 @@
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
         <mtriple>1097_Vicia | escapeVelocity | 0.0112 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1097 Vicia, with the epoch date 13th January 2016 and an escape velocity of 0.0112 kmps, has a periapsis of 279142000000.0 and an orbital period of 135589000.0.</lex>
-      <lex comment="good" lid="Id2">1097 Vicia, has a periapsis measurement of 279142000000.0 and an epoch date of, 2006.12.31. This minor planet's escape velocity is, 0.0112 km per sec, and it has a periapsis measurement of 279142000000.0.</lex>
-      <lex comment="good" lid="Id3">With an escape velocity of 0.0112 kilometres per second, 1097 Vicia, has a periapsis of 279142000000. Its epoch date is 2006.12.31 and it has a periapsis of, 279142000000.</lex>
+      <lex comment="good" lid="Id1">1097 Vicia, with the epoch date 31st December 2016 and an escape velocity of 0.0112 kmps, has a periapsis of 279142000000.0 and an orbital period of 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia, has a periapsis measurement of 279142000000.0 and an epoch date of, 2006.12.31. This minor planet's escape velocity is 0.0112 km per sec, and it has a periapsis measurement of 279142000000.0.</lex>
+      <lex comment="good" lid="Id3">With an escape velocity of 0.0112 kilometres per second, 1097 Vicia, has a periapsis of 279142000000. Its epoch date is 2006.12.31 and it has a periapsis of 279142000000.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id89" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

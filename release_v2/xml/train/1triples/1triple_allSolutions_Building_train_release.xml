@@ -98,7 +98,7 @@
         <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace cost 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2">108 St Georges Terrance cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St Georges Terrace cost 120m Australian dollars.</lex>
       <lex comment="good" lid="Id3">The cost of 108 St. Georges Terrace is 120 million AUD.</lex>
     </entry>
     <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
@@ -190,7 +190,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is owned by Redefine Properties Limited.</lex>
-      <lex comment="good" lid="Id3">Redefine Properties Limited is the owner of 11 Diagonal Strret.</lex>
+      <lex comment="good" lid="Id3">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

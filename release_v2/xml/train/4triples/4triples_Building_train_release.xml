@@ -184,8 +184,8 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Madin (born in Birmingham) was the architect of 103 Colmore Row. Colmore Row, which is a 23 floor building.</lex>
-      <lex comment="good" lid="Id2">Consisting of 23 floors, 103 Colman Row is located in Colman Row and was designed by Birmingham born, John Madin.</lex>
+      <lex comment="good" lid="Id1">John Madin (born in Birmingham) was the architect of 103 Colmore Row, Colmore Row, which is a 23 floor building.</lex>
+      <lex comment="good" lid="Id2">Consisting of 23 floors, 103 Colmore Row is located in Colman Row and was designed by Birmingham born, John Madin.</lex>
       <lex comment="good" lid="Id3">The 23 floor building at 103 Colmore Row in Birmingham was designed by John Madin, a local architect.</lex>
     </entry>
     <entry category="Building" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3650,7 +3650,7 @@
         <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham has the B postcode and one of the city leaders is Labour politician John Clancy. The architect who designed 103 Colmore Row, John Madin, was born in the city.</lex>
-      <lex comment="good" lid="Id2">John Madin the architect who designed 130 Colmore Row, was born in Birmingham which has the postcode 'B'and is where Labour politician John Clancy is leader.</lex>
+      <lex comment="good" lid="Id2">John Madin, the architect who designed 103 Colmore Row, was born in Birmingham which has the postcode 'B'and is where Labour politician John Clancy is leader.</lex>
       </entry>
     <entry category="Building" eid="Id173" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3681,7 +3681,7 @@
         <mtriple>John_Madin | hometown | Birmingham</mtriple>
         <mtriple>Birmingham | leaderName | Andrew_Mitchell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Led by Andrew Mitchell and with the postcode area 'B', Birmingham is the hometown of architect John Madin, whom designed 102 Colmore Row.</lex>
+      <lex comment="good" lid="Id1">Led by Andrew Mitchell and with the postcode area 'B', Birmingham is the hometown of architect John Madin, who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">Birmingham, which has the B postcode is led by Andrew Mitchell and is the hometown of architect John Madin who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham. The postal code of Birmingham is B and the leader is Andrew Mitchell.</lex>
     </entry>
