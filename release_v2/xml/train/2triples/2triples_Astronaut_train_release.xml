@@ -598,7 +598,7 @@
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
       <lex comment="good" lid="Id2">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
       <lex comment="good" lid="Id3">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
-      <lex comment="good" lid="Id4">Willian Anders who was born in British Hong Kong served as a fighter pilot.</lex>
+      <lex comment="good" lid="Id4">William Anders who was born in British Hong Kong served as a fighter pilot.</lex>
       <lex comment="good" lid="Id5">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -610,7 +610,7 @@
         <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
         <mtriple>William_Anders | was a crew member of | Apollo_8</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders is a test pilot and member of Apollo 8's crew.</lex>
+      <lex comment="good" lid="Id1">William Anders is a fighter pilot and member of Apollo 8's crew.</lex>
       <lex comment="good" lid="Id2">William Anders was part of the Apollo 8 crew and was once a fighter pilot.</lex>
       <lex comment="good" lid="Id3">William Anders was a fighter pilot and a crew member of Apollo 8.</lex>
     </entry>
