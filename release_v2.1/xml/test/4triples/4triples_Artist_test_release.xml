@@ -14,9 +14,9 @@
         <mtriple>Aaron_Turner | genre | Electroacoustic_music</mtriple>
         <mtriple>Aaron_Turner | instrument | Singing</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Electroacoustic singer Aaron Turner is associated with the bands Sumac and Isis.</lex>
+      <lex comment="good" lid="Id1" error_1="Electroacoustic music">Electroacoustic singer Aaron Turner is associated with the bands Sumac and Isis.</lex>
       <lex comment="good" lid="Id2">Aaron Turner, a singer who performs electroacoustic music, is with the band Isis and has performed with the group Sumac.</lex>
-      <lex comment="good" lid="Id3">Singer Aaron Turner plays electro-acoustic music and has played with the bands Isis and Sumac.</lex>
+      <lex comment="good" lid="Id3" error_1="Electroacoustic music">Singer Aaron Turner plays electro-acoustic music and has played with the bands Isis and Sumac.</lex>
     </entry>
     <entry category="Artist" eid="Id2" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -129,9 +129,9 @@
         <mtriple>Ahmet_Ertegun | background | "non_performing_personnel"</mtriple>
         <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rhythm and blues performer Ahmet Ertegun was born in Washington D.C. He is considered non-performing personnel.</lex>
-      <lex comment="good" lid="Id2">Ahmet Ertegun originates from Washington D.C., United States. He started out as a non performing personnel in the rhythm and blues.</lex>
-      <lex comment="good" lid="Id3">Ahmet Ertegun from Washington, D.C., U.S. plays rhythm and blues music. His background is as a non-performing person.</lex>
+      <lex comment="good" lid="Id1" error_1="United States" error_2="Washington, D.C.">Rhythm and blues performer Ahmet Ertegun was born in Washington D.C. He is considered non-performing personnel.</lex>
+      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Ahmet Ertegun originates from Washington D.C., United States. He started out as a non performing personnel in the rhythm and blues.</lex>
+      <lex comment="good" lid="Id3" error_1="non performing personnel">Ahmet Ertegun from Washington, D.C., U.S. plays rhythm and blues music. His background is as a non-performing person.</lex>
     </entry>
     <entry category="Artist" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -278,9 +278,9 @@
         <mtriple>Uruguay | demonym | Uruguayans</mtriple>
         <mtriple>Montevideo | leaderName | Daniel_Martínez_(politician)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Montevideo, Uruguay where the natives are known as Uruguayans. The city's leader is Daniel Martinez.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay. The city's leader is Daniel Martinez and the country's inhabitants are known as Uruguayans.</lex>
-      <lex comment="good" lid="Id3">Alfredo Zitarrosa died in Montevideo, Uruguay, where Daniel Martinez is a political leader. Uruguayans is a demonym for Uruguay.</lex>
+      <lex comment="good" lid="Id1" error_1="Daniel Martinez (politician)">Alfredo Zitarrosa died in Montevideo, Uruguay where the natives are known as Uruguayans. The city's leader is Daniel Martinez.</lex>
+      <lex comment="good" lid="Id2" error_1="Daniel Martinez (politician)">Alfredo Zitarrosa died in Montevideo, Uruguay. The city's leader is Daniel Martinez and the country's inhabitants are known as Uruguayans.</lex>
+      <lex comment="good" lid="Id3" error_1="Daniel Martinez (politician)">Alfredo Zitarrosa died in Montevideo, Uruguay, where Daniel Martinez is a political leader. Uruguayans is a demonym for Uruguay.</lex>
     </entry>
     <entry category="Artist" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -320,7 +320,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell's career began 1963 and she performs folk music. She was a member of the Flibbertigibbet band and she is associated with Bajik.</lex>
       <lex comment="good" lid="Id2">Folk musician, Alison O'Donnell; started performing in 1963, was with the band Bajik and was a member of the Flibbertigibbet band.</lex>
-      <lex comment="good" lid="Id3">Flibbertigibbet band member, Bajik associate and folk artist, Alison O'Donnell, became active in 1963.</lex>
+      <lex comment="good" lid="Id3" error_1="Folk music">Flibbertigibbet band member, Bajik associate and folk artist, Alison O'Donnell, became active in 1963.</lex>
     </entry>
     <entry category="Artist" eid="Id16" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -352,7 +352,7 @@
         <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest was born in Fort Campbell. in1981. He is an acoustic solo singer.</lex>
+      <lex comment="good" lid="Id1" error_1="Acoustic music">Allen Forrest was born in Fort Campbell. in1981. He is an acoustic solo singer.</lex>
       <lex comment="good" lid="Id2">Fort Campbell is the birth place of Allen Forrest, who was born in the year 1981. He is a solo singer who plays acoustic music.</lex>
       <lex comment="good" lid="Id3">Allen Forrest was born in Fort Campbell, in 1981. Allen Forrest is a solo singer who plays acoustic music.</lex>
     </entry>
@@ -369,7 +369,7 @@
         <mtriple>Allen_Forrest | birthPlace | "Fort Campbell, KY, raised in Dothan, AL"</mtriple>
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Solo hip hop performer Allen Forrest was born in Fort Campbell, Kentucky in 1981 and raised in Dothan, Alabama.</lex>
+      <lex comment="good" lid="Id1" error_1="Hip hop music">Solo hip hop performer Allen Forrest was born in Fort Campbell, Kentucky in 1981 and raised in Dothan, Alabama.</lex>
       <lex comment="good" lid="Id2">Allen Forrest was born in 1981 in Fort Campbell, KY and raised in Dothan, AL.He was originally a solo singer and performs hip hop music.</lex>
     </entry>
     <entry category="Artist" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -580,9 +580,9 @@
         <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | House_of_Low_Culture</mtriple>
         <mtriple>Aaron_Turner | genre | Post-metal</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Post-metal cellist, Aaron Turner, played with both Twilight and House of Low Culture.</lex>
+      <lex comment="good" lid="Id1" error_1="Cello">Post-metal cellist, Aaron Turner, played with both Twilight and House of Low Culture.</lex>
       <lex comment="good" lid="Id2">Aaron Turner played post-metal music with the Twilight band. He also played with the House of Low Culture. Cello is a post-metal instrument.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner is a performer of the musical genre Post metal, which uses cello as a musical instrument. He played with Twilight and House of Low Culture bands.</lex>
+      <lex comment="good" lid="Id3" error_1="Post-metal">Aaron Turner is a performer of the musical genre Post metal, which uses cello as a musical instrument. He played with Twilight and House of Low Culture bands.</lex>
     </entry>
     <entry category="Artist" eid="Id29" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -630,5 +630,5 @@
       <lex comment="good" lid="Id2">Rhythm and blues artist Albennie Jones was born in the United States. R and B originated from the blues and among the ethnic groups in the U.S. are African Americans.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States, where Albennie Jones was born. Albennie Jones performs in the rhythm and blues genre which originated from blues music.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

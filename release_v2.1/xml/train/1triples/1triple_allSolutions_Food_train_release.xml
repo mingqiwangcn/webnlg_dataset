@@ -136,7 +136,7 @@
       <modifiedtripleset>
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amatriciana sauce can be found in an Italian meal.</lex>
+      <lex comment="good" lid="Id1" error_1="Italian meal structure">Amatriciana sauce can be found in an Italian meal.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -324,7 +324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arrabbiata sauce has basil as a variation.</lex>
       <lex comment="good" lid="Id2">To vary arrabbiata sauce, basil may be used.</lex>
-      <lex comment="good" lid="Id3">Basil can be included in Arrabbiaita sauce.</lex>
+      <lex comment="good" lid="Id3" error_1="Arrabbiata sauce">Basil can be included in Arrabbiaita sauce.</lex>
     </entry>
     <entry category="Food" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -812,7 +812,7 @@
         <mtriple>Baked_Alaska | country | "France, United States or China"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska is thought to have originated in the United States, France or China.</lex>
-      <lex comment="good" lid="Id2">France, United States and China all claim to have invented Baked Alaska.</lex>
+      <lex comment="good" lid="Id2" error_1="France, United States or China">France, United States and China all claim to have invented Baked Alaska.</lex>
       <lex comment="good" lid="Id3">Baked Alaska is from France, the United States or China.</lex>
     </entry>
     <entry category="Food" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
@@ -1060,7 +1060,7 @@
       <modifiedtripleset>
         <mtriple>Bakso | ingredient | Ground_beef</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ground beef is an ingredient in Basko.</lex>
+      <lex comment="good" lid="Id1" error_1="Bakso">Ground beef is an ingredient in Basko.</lex>
       <lex comment="good" lid="Id2">Ground beef is one ingredient in Bakso.</lex>
       <lex comment="good" lid="Id3">Ground beef is an ingredient of Bakso.</lex>
     </entry>
@@ -1144,7 +1144,7 @@
       <modifiedtripleset>
         <mtriple>Bandeja_paisa | ingredient | Cooking_plantain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Plantain is one of the ingredients in the dish Bandeja paisa.</lex>
+      <lex comment="good" lid="Id1" error_1="Cooking plantain">Plantain is one of the ingredients in the dish Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Cooking plantain is an ingredient in bandeja paisa.</lex>
     </entry>
     <entry category="Food" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
@@ -1286,7 +1286,7 @@
       <modifiedtripleset>
         <mtriple>Barny_Cakes | dishVariation | Strawberry</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Strawberries can be added to barny cakes.</lex>
+      <lex comment="good" lid="Id1" error_1="Strawberry">Strawberries can be added to barny cakes.</lex>
       <lex comment="good" lid="Id2">a variation of Barny Cakes is to use Strawberry.</lex>
     </entry>
     <entry category="Food" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
@@ -1590,7 +1590,7 @@
       <modifiedtripleset>
         <mtriple>Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji is a dish similar to pakora and other fritters made from whet or corn flour.</lex>
+      <lex comment="good" lid="Id1" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is a dish similar to pakora and other fritters made from whet or corn flour.</lex>
       <lex comment="good" lid="Id2">Pakora and other fritters made from wheat or corn flour are similar to bhajji.</lex>
       <lex comment="good" lid="Id3">Bhajji is a similar dish to pakora and other fritters made from wheat or corn flour.</lex>
     </entry>
@@ -1674,7 +1674,7 @@
         <mtriple>Binignit | mainIngredients | Coconut_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the main ingredients of binignit is coconut milk.</lex>
-      <lex comment="good" lid="Id2">The main ingredient of Bingnit is coconut milk.</lex>
+      <lex comment="good" lid="Id2" error_1="Binignit">The main ingredient of Bingnit is coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2218,7 +2218,7 @@
         <mtriple>Karnataka | leaderName | Vajubhai_Vala</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Karnataka is Vajubhai Vala.</lex>
-      <lex comment="good" lid="Id2">Vajubhai Vala is a leader of Karnatka.</lex>
+      <lex comment="good" lid="Id2" error_1="Karnataka">Vajubhai Vala is a leader of Karnatka.</lex>
       <lex comment="good" lid="Id3">Vajubhai Vala is the leader of Karnataka.</lex>
     </entry>
     <entry category="Food" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
@@ -2347,9 +2347,9 @@
       <modifiedtripleset>
         <mtriple>Mexico | currency | Mexican_peso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The currency in Mexico is the peso.</lex>
+      <lex comment="good" lid="Id1" error_1="Mexican peso">The currency in Mexico is the peso.</lex>
       <lex comment="good" lid="Id2">The currency in Mexico is the Mexican peso.</lex>
-      <lex comment="good" lid="Id3">The currency of Mexico is the peso.</lex>
+      <lex comment="good" lid="Id3" error_1="Mexican peso">The currency of Mexico is the peso.</lex>
     </entry>
     <entry category="Food" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2927,7 +2927,7 @@
       <modifiedtripleset>
         <mtriple>Valencian_Community | leaderName | Ximo_Puig</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of the community of Valencia is Ximo Puig.</lex>
+      <lex comment="good" lid="Id1" error_1="Valencian Community">The leader of the community of Valencia is Ximo Puig.</lex>
       <lex comment="good" lid="Id2">Ximo Puig is a leader in the Valencian Community.</lex>
       <lex comment="good" lid="Id3">Ximo Puig is a leader of the Valencian Community.</lex>
     </entry>

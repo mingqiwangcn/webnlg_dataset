@@ -29,7 +29,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ajoblanco is from Andalusia, in Spain. Ajoblanco contains water.</lex>
       <lex comment="good" lid="Id2">Water is an ingredient in Ajoblanco, which is a food found in Andalusia, in Spain.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Arem-arem | country | Indonesia</otriple>
@@ -47,7 +47,7 @@
         <mtriple>Indonesia | leaderName | Jusuf_Kalla</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem arem originates from the country of Indonesia, where two of the leaders are, Joko Widodo and Jusuf Kalla.</lex>
-      <lex comment="good" lid="Id2">Arem arem originates from Indonesia where two of the leaders are Joko Widodo and Jusef Kalla.</lex>
+      <lex comment="good" lid="Id2" error_1="Jusuf Kalla">Arem arem originates from Indonesia where two of the leaders are Joko Widodo and Jusef Kalla.</lex>
     </entry>
     <entry category="Food" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -61,8 +61,8 @@
         <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem is a food found nationwide in Indonesia, but is more specific to Java. Jusuf Kalla is the leader of Indonesia.</lex>
-      <lex comment="good" lid="Id2">Jusuf Kalla is the leader of Indonesia, the country which serves Arem-arem. While Arem-arem is nationwide in Indonesia, it is more specific to Java.</lex>
-      <lex comment="good" lid="Id3">Jusuf Kalla is a leader in Indonesia, where the dish arem-arem is found nationwide, though it is more specific to Java.</lex>
+      <lex comment="good" lid="Id2" error_1="Nationwide in Indonesia, but more specific to Java">Jusuf Kalla is the leader of Indonesia, the country which serves Arem-arem. While Arem-arem is nationwide in Indonesia, it is more specific to Java.</lex>
+      <lex comment="good" lid="Id3" error_1="Nationwide in Indonesia, but more specific to Java">Jusuf Kalla is a leader in Indonesia, where the dish arem-arem is found nationwide, though it is more specific to Java.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -197,7 +197,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon and sausage are the main ingredients in a Bacon Explosion, which comes from the United States.</lex>
       <lex comment="good" lid="Id2">Bacon Explosion, whose name comes from the United States, has bacon and sausage.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Bacon_Explosion | country | United_States</otriple>
@@ -241,7 +241,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Bacon Explosion originated in the United States, where African Americans are an ethnic group and John Roberts is a leader.</lex>
       <lex comment="good" lid="Id2">Bacon Explosion comes from the United States where African Americans are an ethnic group and John Roberts is a leader.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bacon_sandwich | variations | BLT</otriple>
@@ -368,9 +368,9 @@
         <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
         <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Barny cakes can be made with apple and have 18 grams of carbs and 1.8 g of protein.</lex>
-      <lex comment="good" lid="Id2">Barny cakes can be made with apple and contain 1.8g protein and 18g of carbs.</lex>
-      <lex comment="good" lid="Id3">Barny cakes may be made with apple and have 1.8g of protein and 18g of carbohydrates.</lex>
+      <lex comment="good" lid="Id1" error_1="18.0 g">Barny cakes can be made with apple and have 18 grams of carbs and 1.8 g of protein.</lex>
+      <lex comment="good" lid="Id2" error_1="18.0 g">Barny cakes can be made with apple and contain 1.8g protein and 18g of carbs.</lex>
+      <lex comment="good" lid="Id3" error_1="18.0 g">Barny cakes may be made with apple and have 1.8g of protein and 18g of carbohydrates.</lex>
     </entry>
     <entry category="Food" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -413,7 +413,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A popular food in Indonesia, Beef kway teow originates from Singapore. The country where Tony Tan is the leader.</lex>
       <lex comment="good" lid="Id2">Tony Tan is a leader in Singapore where the dish Beef kway teow originates from. It is also found in Indonesia.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bhajji | country | India</otriple>
@@ -445,7 +445,7 @@
         <mtriple>India | demonym | Indian_people</mtriple>
         <mtriple>India | leaderName | T._S._Thakur</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji originates from India, country of Indians where the leader is T. S. Thakur.</lex>
+      <lex comment="good" lid="Id1" error_1="Indian people">Bhajji originates from India, country of Indians where the leader is T. S. Thakur.</lex>
       <lex comment="good" lid="Id2">Bhajji originates from India, where the leader is called T S Thakur and the people who live there are called Indians.</lex>
       <lex comment="good" lid="Id3">Bhajji originate from India where T S Thakur leads the Indian people.</lex>
     </entry>
@@ -599,8 +599,8 @@
         <mtriple>Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam penyet originates from Java where the Banyumasan are an ethnic group. It can be found nationwide and also in Singapore and Malaysia.</lex>
-      <lex comment="good" lid="Id2">The dish Ayam penyet originates from Java where the Banyumasan people are an ethnic group. The dish can also be found in Malaysia and Singapore.</lex>
+      <lex comment="good" lid="Id1" error_1="Banyumasan people">Ayam penyet originates from Java where the Banyumasan are an ethnic group. It can be found nationwide and also in Singapore and Malaysia.</lex>
+      <lex comment="good" lid="Id2" error_1="Nationwide, also can be found in Malaysia and Singapore">The dish Ayam penyet originates from Java where the Banyumasan people are an ethnic group. The dish can also be found in Malaysia and Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -619,8 +619,8 @@
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Spain is Felipe VI and it is also where Spanish is spoken and the dish arros negre is from.</lex>
-      <lex comment="good" lid="Id2">Arros Negre is a traditional dish from Spain where they speak Spanish and the leader is Felipe VI.</lex>
-      <lex comment="good" lid="Id3">Arros negre comes from Spain where Felipe VI is the leader and the Spanish language is spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Felipe VI of Spain">Arros Negre is a traditional dish from Spain where they speak Spanish and the leader is Felipe VI.</lex>
+      <lex comment="good" lid="Id3" error_1="Felipe VI of Spain">Arros negre comes from Spain where Felipe VI is the leader and the Spanish language is spoken.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -39,7 +39,7 @@
       <modifiedtripleset>
         <mtriple>Aaron_Bertram | background | "non_vocal_instrumentalist"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Bertram has a background with a non vocal instrument.</lex>
+      <lex comment="good" lid="Id1" error_1="non vocal instrumentalist">Aaron Bertram has a background with a non vocal instrument.</lex>
       <lex comment="good" lid="Id2">Aaron Bertram is a non vocal instrumentalist.</lex>
     </entry>
     <entry category="Artist" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
@@ -979,7 +979,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Frew | occupation | Public_speaking</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Frew is a public speaker.</lex>
+      <lex comment="good" lid="Id1" error_1="Public speaking">Alan Frew is a public speaker.</lex>
       <lex comment="good" lid="Id2">Alan Frew makes his living with public speaking.</lex>
     </entry>
     <entry category="Artist" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
@@ -1375,7 +1375,7 @@
       <modifiedtripleset>
         <mtriple>Alfred_Garth_Jones | deathDate | "c. 1944"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones died in around 1944.</lex>
+      <lex comment="good" lid="Id1" error_1="c. 1944">Alfred Garth Jones died in around 1944.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones sadly died circa 1944.</lex>
     </entry>
     <entry category="Artist" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
@@ -1406,8 +1406,8 @@
       <modifiedtripleset>
         <mtriple>Alfred_Garth_Jones | professionalField | Illustration</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones makes a living as an Illustrator.</lex>
-      <lex comment="good" lid="Id2">Alfred Garth Jones was a professional Illustrator.</lex>
+      <lex comment="good" lid="Id1" error_1="Illustration">Alfred Garth Jones makes a living as an Illustrator.</lex>
+      <lex comment="good" lid="Id2" error_1="Illustration">Alfred Garth Jones was a professional Illustrator.</lex>
     </entry>
     <entry category="Artist" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1429,7 +1429,7 @@
       <modifiedtripleset>
         <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfredo Zitarrosa is associated with Yamamdú Palacios.</lex>
+      <lex comment="good" lid="Id1" error_1="Yamandu Palacios">Alfredo Zitarrosa is associated with Yamamdú Palacios.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
     </entry>
     <entry category="Artist" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
@@ -1503,7 +1503,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa is signed with the record label Odeon Records.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa was signed to Odeon Records.</lex>
-      <lex comment="good" lid="Id3">Alfred Zitarrosa's recording label is Odeon Records.</lex>
+      <lex comment="good" lid="Id3" error_1="Alfredo Zitarrosa">Alfred Zitarrosa's recording label is Odeon Records.</lex>
     </entry>
     <entry category="Artist" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2325,7 +2325,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with Mark Sixma.</lex>
-      <lex comment="good" lid="Id2">Musicians, Andrew Rayel and Mark Sima, are associates.</lex>
+      <lex comment="good" lid="Id2" error_1="Mark Sixma">Musicians, Andrew Rayel and Mark Sima, are associates.</lex>
     </entry>
     <entry category="Artist" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2346,7 +2346,7 @@
         <mtriple>Andrew_Rayel | instrument | Piano</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel plays the piano.</lex>
-      <lex comment="good" lid="Id2">Andrew Rayel is a pianist.</lex>
+      <lex comment="good" lid="Id2" error_1="Piano">Andrew Rayel is a pianist.</lex>
     </entry>
     <entry category="Artist" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2392,7 +2392,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musician Andrew White is a non-vocal instrumentalist.</lex>
       <lex comment="good" lid="Id2">Andrew White is a non vocal instrumentalist.</lex>
-      <lex comment="good" lid="Id3">Andrew White is a musician that has a background with a non vocal instrument.</lex>
+      <lex comment="good" lid="Id3" error_1="non vocal instrumentalist">Andrew White is a musician that has a background with a non vocal instrument.</lex>
     </entry>
     <entry category="Artist" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2986,8 +2986,8 @@
       <modifiedtripleset>
         <mtriple>Suburban_Legends | genre | Pop_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Suburban Legend's genre is pop music.</lex>
-      <lex comment="good" lid="Id2">Suburban Legend performs pop music.</lex>
+      <lex comment="good" lid="Id1" error_1="Suburban Legends">Suburban Legend's genre is pop music.</lex>
+      <lex comment="good" lid="Id2" error_1="Suburban Legends">Suburban Legend performs pop music.</lex>
       <lex comment="good" lid="Id3">The Suburban Legends is a pop music band.</lex>
     </entry>
     <entry category="Artist" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
@@ -2997,7 +2997,7 @@
       <modifiedtripleset>
         <mtriple>Suburban_Legends | genre | Rock_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The band Suburban Legend's genre is Rock music.</lex>
+      <lex comment="good" lid="Id1" error_1="Suburban Legends">The band Suburban Legend's genre is Rock music.</lex>
       <lex comment="good" lid="Id2">Suburban Legends performs rock music.</lex>
       <lex comment="good" lid="Id3">The band Suburban Legends play rock music.</lex>
     </entry>

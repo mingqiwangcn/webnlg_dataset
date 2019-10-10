@@ -27,7 +27,7 @@
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
         <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba lulia, Alba. Its nickname is Uab.</lex>
+      <lex comment="good" lid="Id1" error_1="Alba Iulia">The 1 Decembrie 1918 University is located in Alba lulia, Alba. Its nickname is Uab.</lex>
       <lex comment="good" lid="Id2">The nickname of the 1 Decembrie 1918 University in Alba Iulia, Alba, is Uab.</lex>
       <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is also known as Uab and located in Alba Iulia, Alba.</lex>
     </entry>
@@ -167,7 +167,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio has 100 academic staff and is located in Switzerland where Johann Schneider-Ammann is the country's leader.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
@@ -181,7 +181,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Switzerland's legislature is the Federal Assembly.</lex>
       <lex comment="good" lid="Id2">The Federal Assembly is the legislature of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is located in Medrisio, Switzerland which has a ferderal assembly.</lex>
+      <lex comment="good" lid="Id3" error_1="Federal Assembly (Switzerland)">Accademia di Architettura di Mendrisio is located in Medrisio, Switzerland which has a ferderal assembly.</lex>
     </entry>
     <entry category="University" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -378,7 +378,7 @@
         <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
         <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Banglaore, India. It is associated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" error_1="Bangalore">The Acharya Institute of Technology is located in Banglaore, India. It is associated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology is in Bangalore, India. It's affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in Bangalore, India is affiliated with the Visvesvaraya Technological University.</lex>
     </entry>
@@ -481,7 +481,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is in Soldevanahalli, India its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It has 700 postgraduate students.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id2" error_1="India">The Acharya Institute of Technology has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
     </entry>
     <entry category="University" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -509,7 +509,7 @@
         <mtriple>Tennis | sportsGoverningBody | International_Tennis_Federation</mtriple>
         <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of technology is located in India and the offered sport is tennis. The governing tennis body is the International Tennis Foundation.</lex>
+      <lex comment="good" lid="Id1" error_1="International Tennis Federation">The Acharya Institute of technology is located in India and the offered sport is tennis. The governing tennis body is the International Tennis Foundation.</lex>
       <lex comment="good" lid="Id2">The sport of tennis, governed by the International Tennis Federation, is offered at the Acharya Institute of Technology in India.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is governed by the International Tennis Federation in India.</lex>
     </entry>
@@ -524,7 +524,7 @@
         <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
         <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute is located in Bangalore. It was given the "Technical Campus" status by the All India Council for Technical Education, which is located in Mumbai.</lex>
+      <lex comment="good" lid="Id1" error_1="Acharya Institute of Technology">The Acharya Institute is located in Bangalore. It was given the "Technical Campus" status by the All India Council for Technical Education, which is located in Mumbai.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in Bangalore was given the "Technical Campus" status by the All India Council for Technical Education in Mumbai.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology, Bangalore, was given 'Technical Campus' status by the All India Council for Technical Education in Mumbai.</lex>
     </entry>
@@ -567,9 +567,9 @@
         <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology is affiliated with Visvesaraya Technological University in Bangalore. Its founder is Kempe Gowda.</lex>
+      <lex comment="good" lid="Id1" error_1="Visvesvaraya Technological University">Acharya Institute of Technology is affiliated with Visvesaraya Technological University in Bangalore. Its founder is Kempe Gowda.</lex>
       <lex comment="good" lid="Id2">Bangalore was founded by Kempe Gowda and is the location of the Acharya Institute of Technology which is affiliated with Visvesvaraya Technological University.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
@@ -597,7 +597,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Karnataka. Karnataka has Telangana to its northeast and the Arabian Sea to its west.</lex>
       <lex comment="good" lid="Id2">The state of Karnataka, the location of the Acharya Institute of Technology has Telangana to the northeast and the Arabian Sea to the west.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Kerala | leaderName | Kochi</otriple>
@@ -690,7 +690,7 @@
         <mtriple>Romania | capital | Bucharest</mtriple>
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
+      <lex comment="good" lid="Id1" error_1="Prime Minister of Romania">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
       <lex comment="good" lid="Id2">1 Decembrie 1918 University is located in Romania. Bucharest is the capital of the country, which is led by a Prime Minister.</lex>
     </entry>
     <entry category="University" eid="Id47" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -822,9 +822,9 @@
         <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
         <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
+      <lex comment="good" lid="Id1" error_1="Monarchy of Denmark">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
       <lex comment="good" lid="Id2">Lars Lokke Rasmussen is the leader of Denmark and has the title of Monarchy of Denmark. The country is the location of the School of Business and Social Sciences at the Aarhus University.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | "Universitas Aarhusiensis"@en</otriple>
@@ -837,7 +837,7 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University (Latin name - "Universitas Aarhusiensis" was established in 1928 and it is affiliated with the European University Association.</lex>
-      <lex comment="good" lid="Id2">"Universias Aarhusiensis" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
+      <lex comment="good" lid="Id2" error_1="Universitas Aarhusiensis">"Universias Aarhusiensis" is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis.</lex>
     </entry>
     <entry category="University" eid="Id56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

@@ -80,8 +80,8 @@
         <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene, Texas lies 524.0 above sea level and has the area code of 325 and a population density of 429.9 inhabitants per sq km. It has a total area of 286.5 sq km of which 14.2 sq km are water.</lex>
-      <lex comment="good" lid="Id2">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="429.9 (inhabitants per square kilometre)">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km.</lex>
+    </entry>
     <entry category="City" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Abilene,_Texas | isPartOf | Texas</otriple>
@@ -98,7 +98,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is part of Texas, where the capital is Austin and the largest city is Houston. One of the languages spoken in Texas, which is part of the United States, is Spanish.</lex>
-      <lex comment="good" lid="Id2">Abilence is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin.</lex>
+      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Abilence is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -174,9 +174,9 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is led by Tom Tait along with the United House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
+      <lex comment="good" lid="Id1" error_1="United States Capitol" error_2="United States House of Representatives">Anaheim is led by Tom Tait along with the United House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
       <lex comment="good" lid="Id2">Located in the United States Capitol, the United States House of Representatives leads Anaheim, California. Tom Tait is a leader in Anaheim, California, where the Spanish language is spoken.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Anderson,_Indiana | leaderName | Democratic_Party_(United_States)</otriple>
@@ -298,7 +298,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County, Alabama, in the United States, the capital of which is Washington D.C. and where Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Auburn (part of Lee County, Alabama), is in the United States, the capital of which is Washington D.C. One, of the many ethnic groups, in this country, is Asian Americans.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id11" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Auburn,_Alabama | subdivisionName | Lee_County,_Alabama</otriple>
@@ -479,7 +479,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is a city in Linn County, Oregon in the United States. The capital of the country is Washington, D.C. and its inhabitants are called Americans. African Americans are an ethnic group within the United States.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is in Linn County in the United States. Washington, D.C. is the capital of the U.S.; where African Americans and Americans call home.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id20" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | demonym | Americans</otriple>
@@ -514,7 +514,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is led by the President and is the location of Angola, part of Steuben County, Indiana.</lex>
-      <lex comment="good" lid="Id2">Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="President of the United States">Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -533,7 +533,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.</lex>
       <lex comment="good" lid="Id2">The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id23" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -624,9 +624,9 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>Albany,_Georgia | isPartOf | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.</lex>
+      <lex comment="good" lid="Id1" error_1="President of the United States">Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.</lex>
       <lex comment="good" lid="Id2">The president is the leader of the United States where Asian Americans are an ethnic group. Albany, Georgia is in the United States, where the inhabitants, are Americans.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Washington_(state) | largestCity | Seattle</otriple>
@@ -642,9 +642,9 @@
         <mtriple>King_County,_Washington | country | United_States</mtriple>
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County.</lex>
       <lex comment="good" lid="Id2">Auburn is part of King County, Washington, United States. Olympia is the capital of Washington and its largest city is Seattle.</lex>
       <lex comment="good" lid="Id3">Auburn is in King County Washington State, whose largest city is Seattle and whose capital is Olympia. Washington is in the US.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

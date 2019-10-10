@@ -16,8 +16,8 @@
         <mtriple>A-Rosa_Luna | builder | "Neptun Werft, Warnemünde,"</mtriple>
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft in Warnemunde, Germany. It has a length of 125.8 metres, a ship displacement of 1850 tonnes, and a top speed of 24.0.</lex>
-      <lex comment="good" lid="Id2">Made in Germany by Neptun Werft Warnemunde, and weighing 1850 tons, is a craft called the A-Rosa Luna. It is 125800.0 millimetres in length and has 24 as its top speed.</lex>
+      <lex comment="good" lid="Id1" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built by Neptun Werft in Warnemunde, Germany. It has a length of 125.8 metres, a ship displacement of 1850 tonnes, and a top speed of 24.0.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft, Warnemunde,">Made in Germany by Neptun Werft Warnemunde, and weighing 1850 tons, is a craft called the A-Rosa Luna. It is 125800.0 millimetres in length and has 24 as its top speed.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna was built in Germany by Neptun Werft, Warnemünde and is 125800.0 (millimetres) long. That ship displacement is 1850 tons and its top speed is 24.0.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -43,7 +43,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna was built in Rostock by Neptun Werft, Warnemünde. At 125800.0 millimetres long, the A-Rosa Luna has a top speed of 24 km/h and a ship displacement of 1850 tonnes.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Werft, Warnemunde in Rostock. It weighs 1850 tonnes has a top speed of 24.0 and a length of 125800mm.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built by Neptun Werft, Warnemunde in Rostock. It weighs 1850 tonnes has a top speed of 24.0 and a length of 125800mm.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft, Warnemünde in Rostock. It has a ship displacement of 1850 tonnes, a top speed of 24 km/h and is 125800.0 mms in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -86,8 +86,8 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built on the Neptun Werft, Warnemunde. It has a ship displacement of 1850 tonnes, a top speed of 24.0 and is 125.8 metres long.</lex>
-      <lex comment="good" lid="Id2">The ship A-Rosa Luna was built by Neptun Werft, Warnemunde. It and is 125800.0 millimetres in length and weighs 1850 tonnes. It has a top speed of 24.0.</lex>
+      <lex comment="good" lid="Id1" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built on the Neptun Werft, Warnemunde. It has a ship displacement of 1850 tonnes, a top speed of 24.0 and is 125.8 metres long.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft, Warnemunde,">The ship A-Rosa Luna was built by Neptun Werft, Warnemunde. It and is 125800.0 millimetres in length and weighs 1850 tonnes. It has a top speed of 24.0.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft, Warnemünde. Weighing 1850 tonnes, it has a top speed of 24.0 and a length of 125.8 metres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -112,8 +112,8 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, Warnemunde. It weighs 1850 tonnes, measues 125.8 meters lng and is powered by MTU Friedrichshafen made engines. It has a top seed of 24.0.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Werft, Warnemunde and is powered by a MTU Friedrichshafen engine. It has a ship displacement of 1850 tonnes, a top speed of 24 km/h and has a total length of 125800.0 mms.</lex>
+      <lex comment="good" lid="Id1" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built by Neptun Werft, Warnemunde. It weighs 1850 tonnes, measues 125.8 meters lng and is powered by MTU Friedrichshafen made engines. It has a top seed of 24.0.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built by Neptun Werft, Warnemunde and is powered by a MTU Friedrichshafen engine. It has a ship displacement of 1850 tonnes, a top speed of 24 km/h and has a total length of 125800.0 mms.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -137,7 +137,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
         <mtriple>A-Rosa_Luna | shipOrdered | 2004-01-22</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna ship was ordered on January 22, 2004 and was built by Neptun Werft, Warnemunde. The ship is 125800.0 millimetres in length, weighs 1850 tonnes, and has a top speed of 24 km/h.</lex>
+      <lex comment="good" lid="Id1" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna ship was ordered on January 22, 2004 and was built by Neptun Werft, Warnemunde. The ship is 125800.0 millimetres in length, weighs 1850 tonnes, and has a top speed of 24 km/h.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna was ordered on 22 January 2004 and built by Neptun Werft, Warnemünde. It weighs 1850 tonnes, has a top speed of 24.0 and is 125800.0 mms in length.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft, Warnemünde having been ordered on 22 January 2004. It weighs 1850 tonnes, is 125.8 metres long and has a top speed of 24.0.</lex>
     </entry>
@@ -209,7 +209,7 @@
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The company, Caterpillar, Inc. was founded in California, a key person in the company is Douglas R. Oberhelman. AIDAluna is powered by Caterpillar Inc. The owner of AIDAluna is AIDA Cruises which is located in Germany.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>AIDA_Cruises | location | Germany</otriple>
@@ -225,7 +225,7 @@
         <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises.</lex>
       <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company provides the engine power for the AIDAluna which is owned by the German based company AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">AIDAluna, owned by AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
     </entry>
@@ -270,7 +270,7 @@
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
         <mtriple>AIDAluna | christeningDate | 2009-04-04</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAluna, powered by Caterpillar, is 252 m long and has a 32.2 ship beam. On April 4, 2009 it was christened and on March 22, 2009 it made its first voyage.</lex>
+      <lex comment="good" lid="Id1" error_1="Caterpillar Inc.">The AIDAluna, powered by Caterpillar, is 252 m long and has a 32.2 ship beam. On April 4, 2009 it was christened and on March 22, 2009 it made its first voyage.</lex>
       <lex comment="good" lid="Id2">The AIDAluna is powered by a Caterpillar Inc. engine, has a ship beam of 32.2 and a length of 252000.0 millimetres. She was christened on 4 April 2004 and had her maiden voyage on 22 March 2009.</lex>
       <lex comment="good" lid="Id3">The AIDAluna, powered by Caterpillar Inc., was christened 4/4/2009 and had its first voyage, March 22, 2009. It is 252000.0mm long with a ship beam of 32.2.</lex>
     </entry>
@@ -308,7 +308,7 @@
         <mtriple>Costa_Crociere | location | Italy</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella is owned in Costa Crociere. the AIDAstella is 253260.0 millimetres long. and is based in Italy.</lex>
+      <lex comment="good" lid="Id1" error_1="Meyer Werft">The AIDAstella is owned in Costa Crociere. the AIDAstella is 253260.0 millimetres long. and is based in Italy.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was built by Mr. Meyer Werft and operated by AIDA Cruise Line. It is 253260.0 millimetres long. The AIDA Cruise Line is owned and operated by Costa Crociere out of Italy.</lex>
       <lex comment="good" lid="Id3">The AIDAstella is owned by Costa Crociere who are located in Italy, and operated by AIDA Cruises. It was built by Meyer Werft and is 253260.0 millimetres in length.</lex>
       <lex comment="good" lid="Id4">The AIDAstella, operated by AIDA Cruises, owned by the Italy based Costa Crociere, was built by Meyer Werft. It is 253260.0mm long.</lex>
@@ -337,7 +337,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella, built by Meyer Werft, located in Papenburg, is owned by Costa Crociere and operated by the AIDA Cruise Line. It is 253260.0 millimetres in length.</lex>
       <lex comment="good" lid="Id2">AIDAstella, which is owned by Costa Crociere, was built by Meyer Werft, located in Papenburg. The AIDAstella is operated by AIDA Cruise Line and is 253260.0 millimetres in length.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id16" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>AIDAstella | MeanOfTransportation/length | "253260.0"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
@@ -396,7 +396,7 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 12 cylinder, four-stroke engine ALCO RS-3 was made by the American Locomotive Co. It has a diesel engine and is 17068.8 (millimetres) in length.</lex>
+      <lex comment="good" lid="Id1" error_1="American Locomotive Company" error_2="Diesel-electric transmission">The 12 cylinder, four-stroke engine ALCO RS-3 was made by the American Locomotive Co. It has a diesel engine and is 17068.8 (millimetres) in length.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 was built by the American Locomotive Company and has a diesel-electric transmission and a four-stroke engine. Its length is 17068.8 millimetres and it also has 12 cylinders.</lex>
       <lex comment="good" lid="Id3">The American Locomotive Company built the ALCO RS-3 which has 12 cylinders. It also has a four-stroke engine, a diesel-electric transmission, and a length of 17068.8 mms.</lex>
     </entry>
@@ -415,7 +415,7 @@
         <mtriple>ALCO_RS-3 | totalProduction | 1418</mtriple>
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Locomotive Company built the 1418 ALCO RS-3s, which were 17068.8 (millimetres) in length, had 12 cylinders, and a four-stroke 12 cylinder engine.</lex>
+      <lex comment="good" lid="Id1" error_1="Four-stroke engine">American Locomotive Company built the 1418 ALCO RS-3s, which were 17068.8 (millimetres) in length, had 12 cylinders, and a four-stroke 12 cylinder engine.</lex>
       <lex comment="good" lid="Id2">The American Locomotive Company produced the ALCO RS-3 which has a total of 12 cylinders, a four-stroke engine and is 17068.8 millimetres long. Only 1418 of that model were manufactured.</lex>
       <lex comment="good" lid="Id3">The American Locomotive Company producted the ALCO RS-3 with its four-stroke engine and its 12 cylinders. The vehicle is 17068.8 (millimetres) in length and the company only made 1418 of them.</lex>
     </entry>
@@ -492,7 +492,7 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Locomotive Company built the ALCO RS-3 which was produced between May 1950 and August 1956. The ALCO RS-3; has a V12 engine, a diesel-electric transmission and is 17068.8 (millimetres) in length.</lex>
-      <lex comment="good" lid="Id2">The 17068.8 millimetre V12 diesel-electric ALCO RS-3 was built by the American Locomotive Company between May 1950 and August 1956.</lex>
+      <lex comment="good" lid="Id2" error_1="Diesel-electric transmission" error_2="V12 engine">The 17068.8 millimetre V12 diesel-electric ALCO RS-3 was built by the American Locomotive Company between May 1950 and August 1956.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3, built by the American Locomotive Company between May 1950 and August 1956, is 17068.8 millimetres in length. It has a V12 engine and a diesel-electric transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id24" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -529,9 +529,9 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3, built by Montreal Locomotive Works, is a diesel powered V12 engine, has 12 cylinders and is 17068.8 (millimetres) in length.</lex>
+      <lex comment="good" lid="Id1" error_1="Diesel-electric transmission">The ALCO RS-3, built by Montreal Locomotive Works, is a diesel powered V12 engine, has 12 cylinders and is 17068.8 (millimetres) in length.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 is built by the Montreal Locomotive Works. It has 12 cylinders, a V12 engine, a diesel-electric transmission and has a total length of 17068.8 mms.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>ALCO_RS-3 | MeanOfTransportation/length | "17068.8"^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
@@ -686,7 +686,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador is a mid-size station wagon that has a AMC straight-6 engine and it is made in Mexico City. Rambler Matador is another name for this car.</lex>
       <lex comment="good" lid="Id2">The AMC Matador, assembled in Mexico City, is a mid-sized car with a station wagon body. It has an AMC straight-6 engine and is also known as the Rambler Matador.</lex>
-      <lex comment="good" lid="Id3">The mid-size AMC Matador Station Wagon, or Rambler Matador, assembled in Mexico City, has a straight-6 engine.</lex>
+      <lex comment="good" lid="Id3" error_1="AMC straight-6 engine">The mid-size AMC Matador Station Wagon, or Rambler Matador, assembled in Mexico City, has a straight-6 engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id34" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -940,9 +940,9 @@
         <mtriple>Alfa_Romeo_164 | transmission | "4-speed automatic (ZF 4HP18Q)"</mtriple>
         <mtriple>Alfa_Romeo_164 | alternativeName | "Alfa Romeo 168"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164 sedan executive vehicle is also called the Alfa Romeo 168. It has a straight-four engine and an automatic (ZF 4HP18Q) transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="4-speed automatic (ZF 4HP18Q)" error_2="Executive car">The Alfa Romeo 164 sedan executive vehicle is also called the Alfa Romeo 168. It has a straight-four engine and an automatic (ZF 4HP18Q) transmission.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, also known as the "Alfa Romeo 168", is a sedan with a 4-speed automatic (ZF 4HP18Q) transmission. It is an executive car and its engine is also known as a straight-four engine.</lex>
-      <lex comment="good" lid="Id3">The executive class Alfa Romeo 164 Sedan, known as the "Alfa Romeo 168", has a straight-four, ZF 4HP18Q transmission.</lex>
+      <lex comment="good" lid="Id3" error_1="4-speed automatic (ZF 4HP18Q)" error_2="Executive car">The executive class Alfa Romeo 164 Sedan, known as the "Alfa Romeo 168", has a straight-four, ZF 4HP18Q transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id45" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -961,7 +961,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 is classified as an executive type car with a Sedan body style and a Straight four engine and a 6-speed manual Getrag transmission. It is also known as the "Alfa Romeo 168".</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, alternatively called the Alfa Romeo 168, is classified as an executive type car with a sedan bodystyle. It has a straight-four engine and a 6-speed manual Getrag transmission.</lex>
-      <lex comment="good" lid="Id3">The executive class Alfa Romeo 164 Sedan, known as the Alfa Romeo 168, has a straight four, 6-speed manual Getrag transmission engine.</lex>
+      <lex comment="good" lid="Id3" error_1="Executive car">The executive class Alfa Romeo 164 Sedan, known as the Alfa Romeo 168, has a straight four, 6-speed manual Getrag transmission engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id46" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1174,7 +1174,7 @@
         <mtriple>Alvis_Speed_25 | wheelbase | 127.0 (inches)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 is classed as a Full-size car and has a straight-six engine and a wheelbase of 127 inches. Its production began in 1937 and it has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id2">In 1937 production began of the Alvis Speed 25 which is a full size class car with a straight-six engine. It has a wheelbase of 127 inches and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">In 1937 production began of the Alvis Speed 25 which is a full size class car with a straight-six engine. It has a wheelbase of 127 inches and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id54" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1220,7 +1220,7 @@
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 was first manufactured in 1937, and is classed as a Full-size car. It has a wheelbase of 127 inches, and an engine capable of producing 31.48 tax horsepower. The transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and a spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id2">The full size class Alvis Speed 25, manufactured in 1937, has a 127" wheelbase ans a 31.42 tax horsepower engine. It has a "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle" transmission.</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">The full size class Alvis Speed 25, manufactured in 1937, has a 127" wheelbase ans a 31.42 tax horsepower engine. It has a "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle" transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id55" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1237,7 +1237,7 @@
         <mtriple>Alvis_Speed_25 | wheelbase | 127.0 (inches)</mtriple>
         <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">!937 is when prodction began of the Alvis Speed 25, a full-size luxury vehicle. It has a wheelbase of 127 inches and a straight-six engine. The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id1" error_1="1937">!937 is when prodction began of the Alvis Speed 25, a full-size luxury vehicle. It has a wheelbase of 127 inches and a straight-six engine. The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle. The Alvis Speed 25 is a full-size luxury vehicle with a straight-six engine and a wheelbase of 127 inches and its production began in 1937.</lex>
       <lex comment="good" lid="Id3">Production, of the Alvis Speed 25 which is classed as a full-size luxury car, began in 1937. It has a straight-six engine and a wheelbase of 127 inches, along with a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
@@ -1318,7 +1318,7 @@
         <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">General Dynamics Electric Boat Co. built the American Submarine NR-1, which has a ship beam of 3.8 m, a top speed of 8.334 km/h, a ship draft of 4.6 m, and was launched on January 25, 1969.</lex>
-      <lex comment="good" lid="Id2">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m and a top speed of 8.334 km/h. It was built by General Dynamics Electric Boat and launched on January 25th 1969.</lex>
+      <lex comment="good" lid="Id2" error_1="4.6 m">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m and a top speed of 8.334 km/h. It was built by General Dynamics Electric Boat and launched on January 25th 1969.</lex>
       <lex comment="good" lid="Id3">The American submarine NR-1 was built by General Dynamics Electric Boat and was launched on 25 January 1969. It has a draft of 4.6 m, a ship beam of 3.8m and a top speed of 8.334.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id58" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1419,7 +1419,7 @@
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex comment="good" lid="Id1" error_1="Delta II" error_2="United States" error_3="Yuzhnoye Design Office">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id2">The Antares rocket is manufactured at the Yuzhnoye Design Office, and is comparable to the Delta II, from the United States. The Antares rocket is launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id3">The Antares rocket, which looks like the U.S. Delta II rocket, was flown from the Mid-Atlantic Regional Spaceport Launch Pad 0. Yuzhnoye Design Office created the Antares rocket.</lex>
       <lex comment="good" lid="Id4">The Antares rocket is manufactured by the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. It is comparable to the Delta II from the United States.</lex>
@@ -1439,7 +1439,7 @@
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket, built by Orbital ATK, launched from the Mid Atlantic Regional Spaceport Launch Pad 0. The Antares is like the Delta II U.S. built rocket.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket, built by Orbital ATK, launched from the Mid Atlantic Regional Spaceport Launch Pad 0. The Antares is like the Delta II U.S. built rocket.</lex>
       <lex comment="good" lid="Id2">The Antares rocket, which is similar to the Delta II rocket from the United States, was built by Orbital ATK. It was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id3">The rocket Antares, which is comparable to the Delta II from the United States, is manufactured by Orbital ATK and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
     </entry>
@@ -1496,7 +1496,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
         <mtriple>Antares_(rocket) | diameter | 3.9 (metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket is manufactured by the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport Launch Pas 0. The 3.9m rocket made its maiden flight on the 9th of January, 2014, and made its final flight on the 13th of July, 2014.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket is manufactured by the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport Launch Pas 0. The 3.9m rocket made its maiden flight on the 9th of January, 2014, and made its final flight on the 13th of July, 2014.</lex>
       <lex comment="good" lid="Id2">The Antares rocket, made at the Yuzhnoye Design Office, has a diameter of 3.9 meters. Launched at the Mid-Atlantic Regional Spaceport Launch Pad 0, its initial flight was January 9, 2014 and the final flight was July 13, 2014.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id67" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1551,7 +1551,7 @@
         <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
         <mtriple>Ariane_5 | diameter | 5.4 (metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5, made by Airbus Defense and Space, launched from Guiana Space Centre on March 2, 2004. It is 5.4 m in diameter and had its last trip on Dec. 18, 2009.</lex>
+      <lex comment="good" lid="Id1" error_1="Airbus Defence and Space">The Ariane 5, made by Airbus Defense and Space, launched from Guiana Space Centre on March 2, 2004. It is 5.4 m in diameter and had its last trip on Dec. 18, 2009.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 first flight was on March 2, 2004 and its final flight was on the 18th December 2009. It was launched from the Guiana Space Centre. Ariane 5 was manufactured by The Airbus Defence and Space and has a diameter of 5.4 metres.</lex>
       <lex comment="good" lid="Id3">The Airbus Defence and Space made the Ariane 5 which has a diameter of 5.4 metres and launched from the Guiana Space Centre. It took its maiden flight on 2 March 2004 and its final flight on 18 December 2009.</lex>
     </entry>
@@ -1571,7 +1571,7 @@
         <mtriple>Ariane_5 | diameter | 5.4 (metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The European Space Agency is the manufacturer of the Ariane 5 which has its first flight March 2, 2004. It has a diameter of 5.4 metres and was launched from the Guiana Space Centre. Ariane 5 had its final flight on the 18th of December 2009.</lex>
-      <lex comment="good" lid="Id2">The European Space Agency made the Ariane 5 which first launched on March 2, 2004 from the Guiana Space Centre. Dec. 18, 2009 was the last trip for the Ariane 5.</lex>
+      <lex comment="good" lid="Id2" error_1="5.4 (metres)">The European Space Agency made the Ariane 5 which first launched on March 2, 2004 from the Guiana Space Centre. Dec. 18, 2009 was the last trip for the Ariane 5.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was manufactured by the European Space Agency and has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its first flight on 2 March 2004 and its final flight on 18 December 2009.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id71" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1727,7 +1727,7 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guina Space Centre and launched the Ariane 5.</lex>
+      <lex comment="good" lid="Id1" error_1="Guiana Space Centre">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guina Space Centre and launched the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3 at the Guiana Space Centre. Arianespace, located in the city of Courcouronnes, in France, operates the ELA-3.</lex>
       <lex comment="good" lid="Id3">Arianespace owned, ELA-3, operated by the Courcouronnes, France, Guiana Space Centre, is the launch pad for the Ariane.</lex>
     </entry>
@@ -1805,7 +1805,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin DBS (manufactured by Aston Martin) is related to the Aston Martin V8, which is assembled in the United Kingdom (led by Elizabeth II). The Aston Martin Vantage succeeded the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 and Aston Martin DBS are a related means of transport and assembled by Aston Martin in the UK, where Elizabeth II is the leader. The successor of the Aston Martin DBS is the Aston Martin Vantage.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id83" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
@@ -1926,7 +1926,7 @@
         <mtriple>Aston_Martin_V8 | assembly | United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8, related to the Aston Martin RHAM/1 and Aston Martin DBS, is assembled in the United Kingdom. Its body style is the Coupé and its engine volume is 5.3 litres.</lex>
-      <lex comment="good" lid="Id2">The DBS, the RHAM/1 and the V8 are all cars made by Aston Martin. The V8, a coupe with an engine size of 5.3 litres, was assembled in the UK.</lex>
+      <lex comment="good" lid="Id2" error_1="Aston Martin RHAM/1">The DBS, the RHAM/1 and the V8 are all cars made by Aston Martin. The V8, a coupe with an engine size of 5.3 litres, was assembled in the UK.</lex>
       <lex comment="good" lid="Id3">The Aston Martin DBS, Aston Martin RHAM/1 and Aston Martin V8 are related means of transportation. The latter vehicle is assembled in the United Kingdom, has a 5.3 litre engine volume and a coupe body style.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id88" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1965,7 +1965,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aston Martin is the manufacturer of the Aston Martin V8 which was assembled in the United Kingdom, where Queen Elizabeth II is the ruler. The Aston Martin DBS is a related means of transport to the Aston Martin V8 which was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 was made by Aston Martin in the United Kingdom (which is led by Elizabeth II). It is related to the Aston Martin DBS and was succeeded by the Aston Martin Virage.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id90" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Aston_Martin_Virage | related | Aston_Martin_DBS</otriple>
@@ -2000,7 +2000,7 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled at Newport Pagnell and features a 5.3 litre enging. A similar type of transportation, the Astion Martin Virage, is made by the company Aston Martin, and has succeeded the Aston Martin V8.</lex>
+      <lex comment="good" lid="Id1" error_1="Aston Martin DBS">The Aston Martin V8 is assembled at Newport Pagnell and features a 5.3 litre enging. A similar type of transportation, the Astion Martin Virage, is made by the company Aston Martin, and has succeeded the Aston Martin V8.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8, which is assembled at Newport Pagnell, was succeeded by the Aston Martin Virage. The engine volume of Aston Martin V8 is 5.3 litres. Aston Martin Virage and Aston Martin DBS are related types of transportation.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 was assembled at Newport Pagnell with a 5.3 litre engine. It was succeeded by the Aston Martin Virage, manufactured by Aston Martin. This latter car is a related vehicle to the Aston Martin DBS.</lex>
     </entry>
@@ -2027,7 +2027,7 @@
         <mtriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Atlas II was launched from the Vandenberg Air Force Base and the Cape Canaveral Air Force Station. The Atlas II is 3.04m in diameter, and its final flight was on the 16th of March, 1998.</lex>
-      <lex comment="good" lid="Id2">The Atlas II originates from the United states and measures 3.04m in diameter, it was launched from the Cape Canaveral Air Force Station and Vandnberg Air Force Base. Its final flight was on the 16th March 1998.</lex>
+      <lex comment="good" lid="Id2" error_1="Vandenberg Air Force Base">The Atlas II originates from the United states and measures 3.04m in diameter, it was launched from the Cape Canaveral Air Force Station and Vandnberg Air Force Base. Its final flight was on the 16th March 1998.</lex>
       <lex comment="good" lid="Id3">The Atlas II was launched at the Vandenberg Air Force Base and Cape Canaveral Air Force Station. It is 3.04m in diameter, had is last flight 03/16/1998 and originated in the United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id93" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2090,7 +2090,7 @@
         <mtriple>Atlas_II | finalFlight | 1998-03-16</mtriple>
         <mtriple>Atlas_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II originated from the U.S and has a diameter of 3.04m. It was launched from the Vandenberg AFB Space Launch Complex 3 at the Cape Canaveral Air Force, and its final flight was on the 16th March 1998.</lex>
+      <lex comment="good" lid="Id1" error_1="Cape Canaveral Air Force Station">The Atlas II originated from the U.S and has a diameter of 3.04m. It was launched from the Vandenberg AFB Space Launch Complex 3 at the Cape Canaveral Air Force, and its final flight was on the 16th March 1998.</lex>
       <lex comment="good" lid="Id2">The Atlas II is from the United States and launched from Cape Canaveral Air Force Station and the Vandenberg AFB Space Launch Complex 3. It is 3.04 m in diameter and took its final flight on 16 March 1998.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id96" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2181,7 +2181,7 @@
         <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 is a hatchback assembled by Audi Brussels and belongs to the supermini class. It has a 1.2 litre engine and a front-engine, front-wheel-drive layout.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 supermini, assembled at Audi Brussels, has a 1.2 liter, front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout" error_2="Hatchback">The Audi A1 supermini, assembled at Audi Brussels, has a 1.2 liter, front engine, front-wheel drive layout.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id99" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2224,7 +2224,7 @@
         <mtriple>Audi | division | Audi_e-tron</mtriple>
         <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Quattro Gmbh is a subsidiary of the Audi as is Ducati and Aidi e-tron. Audi A1 is made by Audi which was founded by August Horch.</lex>
+      <lex comment="good" lid="Id1" error_1="Audi e-tron">The Quattro Gmbh is a subsidiary of the Audi as is Ducati and Aidi e-tron. Audi A1 is made by Audi which was founded by August Horch.</lex>
       <lex comment="good" lid="Id2">Audi was founded by August Horch and owned by Ducati and has subsidiaries, Audi e-tron and the Quattro Gmbh. It is the maker of the Audi A1.</lex>
       <lex comment="good" lid="Id3">Ausi makes the A1. Audi owns Ducati, and was founded by August Horch. Quattro Gmbh and etron are all part of Audi.</lex>
     </entry>
@@ -2423,7 +2423,7 @@
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella, owned by Costa Crociere (parent company AIDA Cruises.), was built by Meyer Werft and is operated by AIDA Cruises. AIDA Cruises is located in Rostock.</lex>
+      <lex comment="good" lid="Id1" error_1="Carnival Corporation &amp; plc">The AIDAstella, owned by Costa Crociere (parent company AIDA Cruises.), was built by Meyer Werft and is operated by AIDA Cruises. AIDA Cruises is located in Rostock.</lex>
       <lex comment="good" lid="Id2">The AIDAstella, built by Meyer Werft, is owned by Costa Crociere (parent company Carnival Corporation &amp; plc) and operated by AIDA Cruide Line. AIDA Cruises is based in Rostock.</lex>
       <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who owns the AIDAstella. The AIDAstella is operated by AIDA Cruise Line based in Rostock and was built by Meyer Werft.</lex>
     </entry>
@@ -2442,8 +2442,8 @@
         <mtriple>Costa_Crociere | location | Italy</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian based Costa Crociere's parent company is Carnival Corporation &amp; plc and AIDAstella is its subsidiary. AIDAstella, operated bt AIDA Cruises, was built by Meyer Werft.</lex>
-      <lex comment="good" lid="Id2">AIDAstella is owned by Costa Crociere Italy and operated by AIDA Cruises. Carnival Corporation &amp; plc. are the parent co. of Costa crociere.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian based Costa Crociere's parent company is Carnival Corporation &amp; plc and AIDAstella is its subsidiary. AIDAstella, operated bt AIDA Cruises, was built by Meyer Werft.</lex>
+      <lex comment="good" lid="Id2" error_1="Meyer Werft">AIDAstella is owned by Costa Crociere Italy and operated by AIDA Cruises. Carnival Corporation &amp; plc. are the parent co. of Costa crociere.</lex>
       <lex comment="good" lid="Id3">AIDAstella, operated by AIDA Cruises and built by Meyer Werft, is owned by Italy's, Costa Crociere; a subsidiary of Carnival Corporation &amp; plc.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2468,8 +2468,8 @@
         <mtriple>Meyer_Werft | location | Papenburg</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDAstella, built by Meyer Werft in Papenburg, is operated by AIDA Cruises and owned by Costa Crociere. Carnival Corporation is the parent company of Costa Crociere.</lex>
-      <lex comment="good" lid="Id2">Carnival Corporation &amp; plc is the parent company of Costa Crocier who owns the ship AIDAstella. AIDAstella was built by Meyer Werft, located in Papenburg, and is operated by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1" error_1="Carnival Corporation &amp; plc">The AIDAstella, built by Meyer Werft in Papenburg, is operated by AIDA Cruises and owned by Costa Crociere. Carnival Corporation is the parent company of Costa Crociere.</lex>
+      <lex comment="good" lid="Id2" error_1="Costa Crociere">Carnival Corporation &amp; plc is the parent company of Costa Crocier who owns the ship AIDAstella. AIDAstella was built by Meyer Werft, located in Papenburg, and is operated by AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">The parent company of Costa Crociere, the owner of the AIDAstella, is Carnival Corporation &amp; plc. The AIDAstella is operated by AIDA Cruise Line and was built by Meyer Werft who are located in Papenburg.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id112" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2534,7 +2534,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Delta II was launched from Vandenberg Air Force Base in the U.S. That rocket is similar to the Antares which is made by Orbital ATK and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id2">The Antares rocket was manufactured by Orbital ATK and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. It is comparable to the Delta II which originates from the United States and launched from the Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id3">The Antares rocket, manufactured by Orbital ATK, was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. It is comparable to the Delta II, with its launch site at Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id3" error_1="United States">The Antares rocket, manufactured by Orbital ATK, was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. It is comparable to the Delta II, with its launch site at Vandenberg Air Force Base.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id115" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2589,8 +2589,8 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Delta II, which originates from the United States, and is comparable to the rocket Antares, was launched at the Vandenberg Air Force Base. Both the Minotaur V and the rocket Antares werelaunched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0 (associated with the Minotar V rocket) and is similar to the Delta II. The Delta II, launched at the Vandenberg Air Force Base, is from the United States.</lex>
-      <lex comment="good" lid="Id3">The Delta II, with its United States origin, was launched at the V and Mid-Atlantic Regional Spaceport Launch Pad 0, the site for the relative, Antares rocket and Minotaur V.</lex>
+      <lex comment="good" lid="Id2" error_1="Minotaur V">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0 (associated with the Minotar V rocket) and is similar to the Delta II. The Delta II, launched at the Vandenberg Air Force Base, is from the United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Vandenberg Air Force Base">The Delta II, with its United States origin, was launched at the V and Mid-Atlantic Regional Spaceport Launch Pad 0, the site for the relative, Antares rocket and Minotaur V.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id118" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2607,7 +2607,7 @@
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket was launched from the launch pad located at the Mid-Atlantic Regional Spaceport. A comparable rocket, the US Delta II, was manufactured by the United Launch Alliance.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket was launched from the launch pad located at the Mid-Atlantic Regional Spaceport. A comparable rocket, the US Delta II, was manufactured by the United Launch Alliance.</lex>
       <lex comment="good" lid="Id2">United Launch Alliance made the United States Delta II, which is comparable with the Antares. The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id3">The Antares rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. It is comparable to Delta II, which originates from the United States and was made by United Launch Alliance.</lex>
     </entry>
@@ -2723,7 +2723,7 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft, whose HQ is in Rostock, Germany, made the A Rosa Luna. Germans inhabit Germany whose leader is Angela Merkel.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angel Merkel and the people that live in the country are referred to as Germans.</lex>
+      <lex comment="good" lid="Id2" error_1="Angela Merkel">The A-Rosa is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angel Merkel and the people that live in the country are referred to as Germans.</lex>
       <lex comment="good" lid="Id3">Germany is led by Angela Merkel and the inhabitants are known as Germans. Neptun Werft who built the A-Rosa Luna are located in the country at Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id124" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
@@ -2994,7 +2994,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II originated from the U.S., where Washington, D.C is the capital and English the language. The leader of the United States is the President of the United States and African Americans are among its ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Atlas 11 originated from the United States which has the capital city of Washington DC and uses the English language. The country is led by the President and includes the African Americans among its ethnic groups.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlas II">Atlas 11 originated from the United States which has the capital city of Washington DC and uses the English language. The country is led by the President and includes the African Americans among its ethnic groups.</lex>
       <lex comment="good" lid="Id3">The Atlas II originates from the United States where the leader is known as the President and the English language is spoken. The capital of the country is Washington DC and one of the ethnic groups are the African Americans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id138" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3069,7 +3069,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States (whose capital city is Washington, D.C.) is the origin of the Atlas II. Inhabitants of the United States are called Americans, and the country has different ethnic groups including African Americans. The primary language of the United States is English.</lex>
-      <lex comment="good" lid="Id2">Washington D.C. is the capital of the United States. in U.S spoken english.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans" error_2="Americans" error_3="Atlas II">Washington D.C. is the capital of the United States. in U.S spoken english.</lex>
       <lex comment="good" lid="Id3">Atlas II originates from the United States, where the capital is Washington, D.C. and the language English. Americans live in the U.S., and its ethnic groups include African Americans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id142" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3108,7 +3108,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II is from the United States, where the capital is Washington D.C. and the language English. The leader of the United States is the President of the United States and one of its ethnic groups is Asian Americans.</lex>
       <lex comment="good" lid="Id2">The English speaking United States, led by a President in the capital of Washington D.C. is home to Asian Americans and the Atlas II.</lex>
-      <lex comment="good" lid="Id3">In the United states the capital is Washington DC, and is run by the president. In the U.S. there is The Atlas II, Asians, and the native language is english.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">In the United states the capital is Washington DC, and is run by the president. In the U.S. there is The Atlas II, Asians, and the native language is english.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id144" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3146,7 +3146,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlas II originates from the United States, where the inhabitants are called Americans. Washington D.C. is the capital of the United States, where English is the language and Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Atlas II originates from the United States, where english is spoken and the capital is Washington D.C. Asian Americans are an ethnic group in the U.S. where all people are Americans.</lex>
-      <lex comment="good" lid="Id3">The English speaking, with its capital in Washington D.C., is home to Americans, African Americans and the Atlas II.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">The English speaking, with its capital in Washington D.C., is home to Americans, African Americans and the Atlas II.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id146" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3297,7 +3297,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALV X-1 is from the United States, where the leader is, the President of the United States. Washington D.C. is the capital of the United States. the country where the people are called Americans and where White Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The ALV X-1 originated in the United States where the inhabitants are known as Americans and include the White Americans among the ethnic groups. The country is led by the President and has the capital of Washington DC.</lex>
-      <lex comment="good" lid="Id3">The President is the leader of the United States. In the U.S. the capital is Washington D.C., the people are called americans.</lex>
+      <lex comment="good" lid="Id3" error_1="ALV X-1" error_2="White Americans">The President is the leader of the United States. In the U.S. the capital is Washington D.C., the people are called americans.</lex>
     </entry>
   </entries>
 </benchmark>

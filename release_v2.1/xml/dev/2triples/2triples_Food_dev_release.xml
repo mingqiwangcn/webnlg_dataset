@@ -75,7 +75,7 @@
         <mtriple>Arrabbiata_sauce | ingredient | Olive_oil</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Olive oil is an ingredient used in the preparation of Arrabbiata sauce, found in Italy.</lex>
-      <lex comment="good" lid="Id2">Olive Oil is used to create Italian Arrabbiata sauce.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Olive Oil is used to create Italian Arrabbiata sauce.</lex>
       <lex comment="good" lid="Id3">Olive oil is an ingredient in Arrabbiata sauce, which can be found in Italy.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -115,7 +115,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arròs negre is from Spain, it includes squid.</lex>
       <lex comment="good" lid="Id2">Arròs negre is a traditional dish from Spain, it includes squid.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Arròs_negre | region | Valencian_Community</otriple>
@@ -127,7 +127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cuttlefish is an ingredient in Arros negre which comes from the region of Valencian Community.</lex>
       <lex comment="good" lid="Id2">An ingredient of arros negre is cuttlefish, the dish comes from the Valencian community region.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Ayam_penyet | country | Java</otriple>
@@ -139,7 +139,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is a food found in Java and the main ingredients are "squeezed" or "smashed" chicken served with sambal.</lex>
       <lex comment="good" lid="Id2">Ayam penyet (Javanese) includes squeezed/smashed fried chicken and is served with sambal.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Bacon_Explosion | country | United_States</otriple>
@@ -177,7 +177,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon is an ingredient in the main course dish 'Bacon Explosion'.</lex>
       <lex comment="good" lid="Id2">Bacon is an ingredient in a main course called Bacon Explosion.</lex>
-      <lex comment="good" lid="Id3">Bacon Explosion is an entree that includes bacon, the main ingredient.</lex>
+      <lex comment="good" lid="Id3" error_1="Main course">Bacon Explosion is an entree that includes bacon, the main ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -201,8 +201,8 @@
         <mtriple>Baked_Alaska | ingredient | Christmas_pudding</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska is thought to have originated in the United States, France or China, and contains Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id2">France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id3">Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China.</lex>
+      <lex comment="good" lid="Id2" error_1="France, United States or China">France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.</lex>
+      <lex comment="good" lid="Id3" error_1="France, United States or China">Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -215,7 +215,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska comes from China, where Standard Chinese is spoken.</lex>
       <lex comment="good" lid="Id2">Standard Chinese is spoken in China where baked Alaska is a dish.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Baked_Alaska | course | Dessert</otriple>
@@ -244,7 +244,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell pudding was created in 1820 at the Rutland Arms, Bakewell and has ground almond, jam, butter and eggs as main ingredients.</lex>
       <lex comment="good" lid="Id2">The main ingredients of Bakewell pudding, which was invented in Rutland Arms, Bakewell, in 1820, are ground almond, jam, butter and eggs.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Bakewell_pudding | hasVariant | Bakewell_tart</otriple>
@@ -306,7 +306,7 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Beef kway teow originates from Singapore, where Chinese is spoken.</lex>
+      <lex comment="good" lid="Id1" error_1="Standard Chinese">Beef kway teow originates from Singapore, where Chinese is spoken.</lex>
       <lex comment="good" lid="Id2">Standard chinese speaking Singapore is the origin of beef kway teow.</lex>
     </entry>
     <entry category="Food" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -454,5 +454,5 @@
       <lex comment="good" lid="Id2">Peanut sauce is an ingredient in Siomay and Batagor is a variation of this dish.</lex>
       <lex comment="good" lid="Id3">Batagor is a variation of the dish Siomay, of which peanut sauce is an ingredient.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

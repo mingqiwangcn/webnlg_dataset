@@ -35,9 +35,9 @@
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
         <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
-      <lex comment="good" lid="Id2">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
-      <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
+      <lex comment="good" lid="Id1" error_1="Italian meal structure" error_2="Italy">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
+      <lex comment="good" lid="Id2" error_1="Italian meal structure">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id3" error_1="Italian meal structure" error_2="Italy">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -54,8 +54,8 @@
         <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
         <mtriple>Indonesia | language | Indonesian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Javanese cuisine">Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken.</lex>
+    </entry>
     <entry category="Food" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Arrabbiata_sauce | country | Italy</otriple>
@@ -71,8 +71,8 @@
         <mtriple>Italy | language | Italian_language</mtriple>
         <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
-      <lex comment="good" lid="Id2">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader.</lex>
+      <lex comment="good" lid="Id1" error_1="Italians">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
+      <lex comment="good" lid="Id2" error_1="Italians">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -153,8 +153,8 @@
         <mtriple>Ayam_penyet | servingTemperature | "Hot"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is a Javanese dish made nationwide, and can also be found in Malaysia and Singapore. It should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal.</lex>
-      <lex comment="good" lid="Id2">Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.</lex>
-      <lex comment="good" lid="Id3">Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal.</lex>
+      <lex comment="good" lid="Id2" error_1="Nationwide, also can be found in Malaysia and Singapore">Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.</lex>
+      <lex comment="good" lid="Id3" error_1="Nationwide, also can be found in Malaysia and Singapore">Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal.</lex>
     </entry>
     <entry category="Food" eid="Id9" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -210,7 +210,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon Explosion comes from the United States. The US president is Barack Obama, and the capital is in Washington, D.C. English is the language of the US, and white Americans are a major ethnic group.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Bacon_Explosion | country | United_States</otriple>
@@ -227,7 +227,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon Explosion is a dish from the United States, where Joe Biden is leader and the capital is Washington DC. English is the language spoken in the US and Asian Americans are an ethnic group there.</lex>
-      <lex comment="good" lid="Id2">Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there.</lex>
+      <lex comment="good" lid="Id2" error_1="English language">Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there.</lex>
     </entry>
     <entry category="Food" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -252,7 +252,7 @@
         <mtriple>Baked_Alaska | region | Hong_Kong</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska originates from France where the national language is French and one of the leader is Gerard Larcher. The dessert is served in Hong Kong as well where the leader is Carrie Lam.</lex>
-      <lex comment="good" lid="Id2">Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong.</lex>
+      <lex comment="good" lid="Id2" error_1="Carrie Lam (politician)">Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong.</lex>
       <lex comment="good" lid="Id3">Baked Alaska, served in Hong Kong, whose political leader is Carrie Lam, but is actually from France where the national language is French and the leader is Gerard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -271,7 +271,7 @@
         <mtriple>Bandeja_paisa | region | Paisa_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bandeja paisa is typical Colombian cuisine that originates from the Paisa region and contains lemon. The lemon belongs to the rutaceae family and the order of Rosids.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Barny_Cakes | country | France</otriple>
@@ -296,7 +296,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barny Cakes, which are made from sponge cake, are from France, where Gerard Larcher and Claude Bartolone are leaders and French is the language spoken.</lex>
       <lex comment="good" lid="Id2">Barny cakes, made with sponge cake, are found in France, where French is spoken and whose leaders are Claude Bartolone and Gerard Larcher.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Barny_Cakes | country | France</otriple>
@@ -338,7 +338,7 @@
         <mtriple>Bhajji | region | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Indian people enjoy the dish bhajji, which originates from the Karnataka region of India. This nation is led by T.S. Thakur and Sumitra Mahajan.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Binignit | mainIngredient | Sweet_potato</otriple>
@@ -374,7 +374,7 @@
         <mtriple>Bionico | course | Dessert</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Enrique Pena Nieto is the leader of Mexico which is where they speak Spanish and eat bionico, flavoured with honey, for dessert.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id20" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Bionico | country | Mexico</otriple>
@@ -427,9 +427,9 @@
         <mtriple>Bakso | country | Indonesia</mtriple>
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.</lex>
-      <lex comment="good" lid="Id2">Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.</lex>
-      <lex comment="good" lid="Id3">Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo.</lex>
+      <lex comment="good" lid="Id1" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.</lex>
+      <lex comment="good" lid="Id2" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.</lex>
+      <lex comment="good" lid="Id3" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -493,7 +493,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penyet is from the Singapore region of Java where the Banyumasan people are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The Banyumasan people are an ethnic group from Java, where you can find a traditional dish called Ayam penyet. The dish comes from Singapore, where the leader is Halimah Yacob and English is one of the languages spoken.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id26" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
@@ -528,7 +528,7 @@
         <mtriple>Batchoy | country | Philippines</mtriple>
         <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Philippines is the country the dish Batchoy comes from. The llocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.</lex>
+      <lex comment="good" lid="Id1" error_1="Ilocano people">Philippines is the country the dish Batchoy comes from. The llocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.</lex>
       <lex comment="good" lid="Id2">Batchoy is eaten in the Philippines, languages spoken there include English (official language) and also Arabic. Ethnic groups there include the Ilocano and Igorot peoples.</lex>
     </entry>
     <entry category="Food" eid="Id28" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -555,7 +555,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Available nationwide in Indonesia and Singapore, Beef kway teow is a dish which comes from Singapore, where English is spoken. It is also where two of the leaders are Halimah Yacob and Tony Tan.</lex>
       <lex comment="good" lid="Id2">Just like in Indonesia, Beef kway teow is popular nationwide is Singapore (where it comes from). In this country, English is spoken and two of the leaders are Halimah Yacob and Tony Tan.</lex>
-      <lex comment="good" lid="Id3">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="Nationwide in Singapore and Indonesia">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
     </entry>
     <entry category="Food" eid="Id29" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -590,8 +590,8 @@
         <mtriple>Ajoblanco | country | Spain</mtriple>
         <mtriple>Spain | demonym | Spaniards</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
-      <lex comment="good" lid="Id2">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
+      <lex comment="good" lid="Id1" error_1="Felipe VI of Spain">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
+      <lex comment="good" lid="Id2" error_1="Felipe VI of Spain">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

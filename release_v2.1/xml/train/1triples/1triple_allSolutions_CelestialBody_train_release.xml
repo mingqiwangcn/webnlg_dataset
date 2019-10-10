@@ -295,7 +295,7 @@
         <mtriple>(410777)_2009_FD | meanTemperature | 258.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(410777) 2009 FD has a mean temperature of 258.0 kelvins.</lex>
-      <lex comment="good" lid="Id2">The mean temperature of (410777) 2099 FD is 258.0 kelvins.</lex>
+      <lex comment="good" lid="Id2" error_1="(410777) 2009 FD">The mean temperature of (410777) 2099 FD is 258.0 kelvins.</lex>
       <lex comment="good" lid="Id3">(410777) 2009 FD has a mean temperature of 258 Kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
@@ -341,7 +341,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66063) 1998 RO1 was discovered by Lincoln Near-Earth Asteroid Research.</lex>
       <lex comment="good" lid="Id2">The discoverer of (66063) 1998 RO1 is Lincoln Near-Earth Asteroid Research.</lex>
-      <lex comment="good" lid="Id3">The Lincoln Near-Earth Asteroid Reserch centre discovers the asteroid (66063) 1998 RO1.</lex>
+      <lex comment="good" lid="Id3" error_1="Lincoln Near-Earth Asteroid Research">The Lincoln Near-Earth Asteroid Reserch centre discovers the asteroid (66063) 1998 RO1.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -820,7 +820,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1036 Ganymed has a periapsis of 184434000000.0.</lex>
       <lex comment="good" lid="Id2">The asteroid called 1036 Ganymed has a periapsis of 184434000000.0.</lex>
-      <lex comment="good" lid="Id3">the periapsis of 1036 Ganymed is 18443400000.</lex>
+      <lex comment="good" lid="Id3" error_1="184434000000.0">the periapsis of 1036 Ganymed is 18443400000.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1796,7 +1796,7 @@
         <mtriple>James_Craig_Watson | deathCause | Peritonitis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig Watson died of peritonitis.</lex>
-      <lex comment="good" lid="Id2">James Craid Watson died from peritonitis.</lex>
+      <lex comment="good" lid="Id2" error_1="James Craig Watson">James Craid Watson died from peritonitis.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1825,7 +1825,7 @@
         <mtriple>James_Craig_Watson | stateOfOrigin | Canada</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig Watson has his origins in Canada.</lex>
-      <lex comment="good" lid="Id2">James Criag Watson originates from Canada.</lex>
+      <lex comment="good" lid="Id2" error_1="James Craig Watson">James Criag Watson originates from Canada.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1920,8 +1920,8 @@
       <modifiedtripleset>
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baade is a German national.</lex>
-      <lex comment="good" lid="Id2">Walter Baade was a German national.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">Walter Baade is a German national.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">Walter Baade was a German national.</lex>
     </entry>
   </entries>
 </benchmark>

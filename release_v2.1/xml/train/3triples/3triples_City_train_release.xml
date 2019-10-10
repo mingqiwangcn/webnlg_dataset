@@ -373,7 +373,7 @@
         <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Oregon is located at 64.008 above sea level and its population density is 1104.1 persons per sq. km. Its total area is 45.97 sq. km.</lex>
-      <lex comment="good" lid="Id2">Albany, Oregon which is 64,008 above sea level has a population density of 1104.1 inhabitants per square kilometres and is 45.97 square kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="64.008">Albany, Oregon which is 64,008 above sea level has a population density of 1104.1 inhabitants per square kilometres and is 45.97 square kilometres.</lex>
       <lex comment="good" lid="Id3">Albany, Oregon is 45.97 square kilometres, is 64.008 above sea level, and houses 1104.1 residents per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -409,7 +409,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is part of Benton County, which is located in Oregon in the United States.</lex>
       <lex comment="good" lid="Id2">The city of Albany is part of Benton County, Oregon, US.</lex>
-      <lex comment="good" lid="Id3">Albany is in the United States and is part of Benton county, Oregan.</lex>
+      <lex comment="good" lid="Id3" error_1="Albany, Oregon" error_2="Benton County, Oregon" error_3="Oregon">Albany is in the United States and is part of Benton county, Oregan.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -502,7 +502,7 @@
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers and its population density is 11142.3 people per sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="Albuquerque, New Mexico">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers and its population density is 11142.3 people per sq km.</lex>
       <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a total area of 490.9 sq km which includes a land area of 486.2 sq km. The population density is 1142.3 people per sq km.</lex>
       <lex comment="good" lid="Id3">Albuquerque (New Mexico) has a total area of 490.9 square kilometres, and a land area of 486.2 square kilometres. It also has a population density of 1142.3 inhabitants per sq km.</lex>
     </entry>
@@ -542,8 +542,8 @@
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The total area of Albuquerque, New Mexico is 490.9 square kilometres and its population density is 1142.3 per sq. km. The Albuquerque City Council has a leader role in Albuquerque.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre and a total area of 490.9 sq. km. The Albuquerque City Council has a leadership role there.</lex>
-      <lex comment="good" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico which has a population density of 1142.3 per sq km and a total area of 490.0 sq km.</lex>
+      <lex comment="good" lid="Id2" error_1="1142.3 (inhabitants per square kilometre)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre and a total area of 490.9 sq. km. The Albuquerque City Council has a leadership role there.</lex>
+      <lex comment="good" lid="Id3" error_1="490.9 (square kilometres)">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico which has a population density of 1142.3 per sq km and a total area of 490.0 sq km.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -571,7 +571,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico, has a population density of 1142,3 inhabitants per square kilometre and a total area of 490.9 sq. km. The New Mexico Senate is the political party in Albuquerque.</lex>
+      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)">Albuquerque, New Mexico, has a population density of 1142,3 inhabitants per square kilometre and a total area of 490.9 sq. km. The New Mexico Senate is the political party in Albuquerque.</lex>
       <lex comment="good" lid="Id2">The New Mexico Senate leads Albuquerque (new Mexico) which has a total area of 490.9 square kilometres and the population density of 1142.3 people per square kilometers.</lex>
     </entry>
     <entry category="City" eid="Id31" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -591,7 +591,7 @@
         <mtriple>Alexandria,_Indiana | isPartOf | Monroe_Township,_Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria is part of Monroe Township, Madison County, Indiana. Indianapolis is the capital of that state.</lex>
-      <lex comment="good" lid="Id2">The capital of Indiana is Indianapolis. Alexandria which is in Indiana, is part of the Monroe Township.</lex>
+      <lex comment="good" lid="Id2" error_1="Monroe Township, Madison County, Indiana">The capital of Indiana is Indianapolis. Alexandria which is in Indiana, is part of the Monroe Township.</lex>
       <lex comment="good" lid="Id3">Alexandria, is part of Monroe Township, in Madison County, Indiana, where Indianapolis is that State's capital.</lex>
     </entry>
     <entry category="City" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -897,7 +897,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas, United States and Native Americans are an ethnic group within the country.</lex>
       <lex comment="good" lid="Id2">Native Americans are an ethnic group in the US, which is where Amarillo, Potter County, Texas can be found.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id45" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Amarillo,_Texas | subdivisionName | Potter_County,_Texas</otriple>
@@ -1000,7 +1000,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Amarillo is part of Potter County, Texas in the United States.</lex>
       <lex comment="good" lid="Id2">Amarillo is in Potter County, Texas, United States.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Amarillo,_Texas | isPartOf | Texas</otriple>
@@ -1048,7 +1048,7 @@
         <mtriple>Amarillo,_Texas | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of the state of Texas in the United States.</lex>
-      <lex comment="good" lid="Id2">The city of Amirillo, Texas is in the United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">The city of Amirillo, Texas is in the United States.</lex>
       <lex comment="good" lid="Id3">The city of Amarillo, Texas is in the United States.</lex>
     </entry>
     <entry category="City" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1222,8 +1222,8 @@
         <mtriple>Orange_County,_California | isPartOf | Greater_Los_Angeles_Area</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is part of Orange County which is in the Greater Los Angeles area of the United States.</lex>
-      <lex comment="good" lid="Id2">Anaheim is in Orange County (part of the greater L.A. area), California is in the U.S.</lex>
+      <lex comment="good" lid="Id1" error_1="Anaheim, California" error_2="Orange County, California">Anaheim is part of Orange County which is in the Greater Los Angeles area of the United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Greater Los Angeles Area">Anaheim is in Orange County (part of the greater L.A. area), California is in the U.S.</lex>
       <lex comment="good" lid="Id3">Anaheim is in Orange County, California which is part of the Greater Los Angeles area, in the United States.</lex>
     </entry>
     <entry category="City" eid="Id65" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1254,7 +1254,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is part of Orange County, California and the U.S. House of Representatives leads that city. The U.S. House of Representatives is in the United States Capitol.</lex>
       <lex comment="good" lid="Id2">Anaheim, part of Orange County in California is led by the United States House of Representatives located in the US Capitol.</lex>
-      <lex comment="good" lid="Id3">The U.S. House of Representatives is in the U.S. Capitol and they lead Anaheim, California which is in Orange County.</lex>
+      <lex comment="good" lid="Id3" error_1="United States Capitol">The U.S. House of Representatives is in the U.S. Capitol and they lead Anaheim, California which is in Orange County.</lex>
     </entry>
     <entry category="City" eid="Id67" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1269,7 +1269,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, Orange County, California is led by the United States House of Representatives, which is located in Washington DC.</lex>
       <lex comment="good" lid="Id2">Anaheim, California is in Orange County, California and is led by the U.S. House of Representatives which is located in Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">The United States House of Representatives is located in Washington D.C. and at Anaheim orange county CA.</lex>
+      <lex comment="good" lid="Id3" error_1="Anaheim, California" error_2="Orange County, California">The United States House of Representatives is located in Washington D.C. and at Anaheim orange county CA.</lex>
     </entry>
     <entry category="City" eid="Id68" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1342,7 +1342,7 @@
         <mtriple>California_State_Assembly | isPartOf | California_State_Legislature</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly, which is located in California State Capitol and which is part of the California State Legislature.</lex>
-      <lex comment="good" lid="Id2">The city of Anaheim, California is led by the Californian state assembly located in the California state capital and part of the Californian state legislature.</lex>
+      <lex comment="good" lid="Id2" error_1="California State Capitol">The city of Anaheim, California is led by the Californian state assembly located in the California state capital and part of the Californian state legislature.</lex>
     </entry>
     <entry category="City" eid="Id73" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1787,7 +1787,7 @@
         <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor in Michigan, which is led by the City Administrator, has a population density of 1580 inhabitants per sq km and a total area of 74.33 sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="1580.7 (inhabitants per square kilometre)">Ann Arbor in Michigan, which is led by the City Administrator, has a population density of 1580 inhabitants per sq km and a total area of 74.33 sq km.</lex>
       <lex comment="good" lid="Id2">Led by the City Administrator, Ann Arbor, Michigan, has an area of 74.33 square kilometres and a population density of 1580.7 per square kilometre.</lex>
       <lex comment="good" lid="Id3">Led by a City Administrator, Ann Arbor, Michigan, has a total area of 74.33 square kilometres and a population density of 1580.7 per square kilometer.</lex>
     </entry>
@@ -1822,7 +1822,7 @@
         <mtriple>Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)</mtriple>
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Mayor is the title of the leader of Ann Arbor, which has a population density of 1580.7 people for each of the 74.33 square kilometres it covers.</lex>
+      <lex comment="good" lid="Id1" error_1="Ann Arbor, Michigan">Mayor is the title of the leader of Ann Arbor, which has a population density of 1580.7 people for each of the 74.33 square kilometres it covers.</lex>
       <lex comment="good" lid="Id2">The city of Ann Arbor, Michigan, where the leader has the title of Mayor, has a population density of 1580.7 people for each of its 74.33 square kilometres.</lex>
       <lex comment="good" lid="Id3">Ann Arbor, Michigan is led by the Mayor, has a population density of 1580.7 per sq km and a total area of 74.33 sq kms.</lex>
     </entry>
@@ -1863,7 +1863,7 @@
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch is in Contra Costa County in California. Spanish is spoken in that state.</lex>
-      <lex comment="good" lid="Id2">Antioch is part of Contra Costa in California, where Spanish is spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Contra Costa County, California">Antioch is part of Contra Costa in California, where Spanish is spoken.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County in California, where Spanish is spoken.</lex>
     </entry>
     <entry category="City" eid="Id102" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1923,7 +1923,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The mayor is the leader of Antioch, which is part of Contra Costa County, part of the San Francisco Bay area, in California.</lex>
       <lex comment="good" lid="Id2">The Mayor leads Antioch, which is part of Contra Costa County in California which in turn is part of the San Francisco Bay Area.</lex>
-      <lex comment="good" lid="Id3">The city of Antioch, Contra Costa county, San Francisco Bay, California is led by the Mayor.</lex>
+      <lex comment="good" lid="Id3" error_1="San Francisco Bay Area">The city of Antioch, Contra Costa county, San Francisco Bay, California is led by the Mayor.</lex>
     </entry>
     <entry category="City" eid="Id105" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1937,7 +1937,7 @@
         <mtriple>Antioch,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch is part of Contra Costa County, located in the San Francisco Bay area of California. The leader of Antioch is the United States House of Representatives.</lex>
-      <lex comment="good" lid="Id2">Led by the United States House of Representatives, Antioch is part of Contra Costa County, part of the San Francisco Bay Area.</lex>
+      <lex comment="good" lid="Id2" error_1="Antioch, California" error_2="Contra Costa County, California">Led by the United States House of Representatives, Antioch is part of Contra Costa County, part of the San Francisco Bay Area.</lex>
       <lex comment="good" lid="Id3">Led by the United States House of Representatives, Antioch, part of Contra Costa County, which is part of the San Francisco Bay area, in California.</lex>
     </entry>
     <entry category="City" eid="Id106" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2271,7 +2271,7 @@
         <mtriple>Atlanta | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is part of Fulton County and DeKalb County, both located in Georgia, United States.</lex>
-      <lex comment="good" lid="Id2">Atlant is part of both DeKalb County and Fulton County in Georgia, United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlanta">Atlant is part of both DeKalb County and Fulton County in Georgia, United States.</lex>
       <lex comment="good" lid="Id3">Part of both DeKalb County, and Fulton County, in Georgia, Atlanta, is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id124" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2397,7 +2397,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City, New Jersey is in Atlantic County, New Jersey U.S. where New York is the largest City.</lex>
       <lex comment="good" lid="Id2">New York City is the largest city in the United States. The country is also where Atlantic City (part of Atlantic County, New Jersey), is located.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id131" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Atlantic_City,_New_Jersey | leaderTitle | "Clerk"@en</otriple>
@@ -2455,7 +2455,7 @@
         <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The municipal official titled the Clerk leads Atlantic City, New Jersey, whose total area is 44.125 square kilometres and its population density is 1421.2 inhabitants per sq km.</lex>
-      <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J. where the population density is 1421.2 inhabitants per square kilometre and where the total are is 44.125 (square kilometres).</lex>
+      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">A Clerk (municipal official) is the leader of Atlantic City, N.J. where the population density is 1421.2 inhabitants per square kilometre and where the total are is 44.125 (square kilometres).</lex>
       <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey which has a population density of 1421.2 inhabitants per square kilometre. It also has a total area of 44.125 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id132" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2496,7 +2496,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States, which has the capital city of Washington DC, is the location of Attica, part of the state of Indiana.</lex>
       <lex comment="good" lid="Id2">Attica is part of the state of Indiana, in the United States, where the capital is Washington, D.C.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id134" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Auburn,_Alabama | country | United_States</otriple>
@@ -2810,7 +2810,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Washington is led by the Mayor, has a population density of 914.8 per sq km and a total area of 77.41 sq km.</lex>
       <lex comment="good" lid="Id2">Auburn, Washington, which is led by the Mayor, has a population density of 914.8 inhabitants per sq km and a total area of 77.41 sq km.</lex>
-      <lex comment="good" lid="Id3">The Mayor leads Auburn, which has a total area of 77.41 square kilometres, and a population density of 914.8 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3" error_1="Auburn, Washington">The Mayor leads Auburn, which has a total area of 77.41 square kilometres, and a population density of 914.8 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id149" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2968,7 +2968,7 @@
         <mtriple>Austin,_Texas | areaTotal | 703.95 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin, Texas has a area of land that measures 686.0 square kilometers (total area: 703.95 sq km) and its population density is 1296.65 inhabitants per square kilometres.</lex>
-      <lex comment="good" lid="Id2">Austin, Texas has a population density of 1296.65 people per square kilometre and a total area of 703 square kilometres, of which land comprises 686 square kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="703.95 (square kilometres)">Austin, Texas has a population density of 1296.65 people per square kilometre and a total area of 703 square kilometres, of which land comprises 686 square kilometres.</lex>
       <lex comment="good" lid="Id3">With a population density of 1296.65 inhabitants per sq km, Austin (Texas) has an area of 703.95 square kilometres, and a land area measures 686.0 square kilometers.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2994,7 +2994,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch, is part of Contra Costa County in California where English is one of the spoken languages.</lex>
       <lex comment="good" lid="Id2">Antioch, California is a part of Contra Costa County California and English is spoken there.</lex>
-      <lex comment="good" lid="Id3">Antioch City is in Constra Costa County, California where the English language is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="Contra Costa County, California">Antioch City is in Constra Costa County, California where the English language is spoken.</lex>
     </entry>
     <entry category="City" eid="Id158" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3048,7 +3048,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta is part of Fulton County, Georgia in the U.S.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia, United States.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id161" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>Georgia_(U.S._state) | country | United_States</otriple>
@@ -3062,7 +3062,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States is home to an ethnic group called Asian Americans and is where you will find Alpharetta, which is in the state of Georgia.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Georgia (state) in the U.S. An ethnic group in the U.S. are Asian Americans.</lex>
-      <lex comment="good" lid="Id3">Alpharetta is part of the state of Georgia in the United States. A country with a number of ethnic groups, one of which is Asia Americans.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">Alpharetta is part of the state of Georgia in the United States. A country with a number of ethnic groups, one of which is Asia Americans.</lex>
     </entry>
     <entry category="City" eid="Id162" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3176,7 +3176,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson is part of Adams Fall Creek, Lafayette, Richland and Union and is located in Madison County, Indiana, United States.</lex>
       <lex comment="good" lid="Id2">Anderson is part of Adams Fall Creek, Lafayette, Richland, Union and Madison County, Indiana, United States.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id169" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Madison_County,_Indiana | country | United_States</otriple>
@@ -3538,7 +3538,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo, Texas is in the United States, where Washington D.c. is the capital, and where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The city of Amirillo, Texas is in the United States where Asian Americans are an ethnic group and Washington D.C. is the capital city.</lex>
+      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">The city of Amirillo, Texas is in the United States where Asian Americans are an ethnic group and Washington D.C. is the capital city.</lex>
     </entry>
     <entry category="City" eid="Id192" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3702,7 +3702,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups in the United States are the African Americans. The US is where you will find Angola, part of Steuben County in Indiana.</lex>
       <lex comment="good" lid="Id2">Angola is in Steuben County, Indiana, United States and the African americans are an ethnic group of the country.</lex>
-      <lex comment="good" lid="Id3">Angola, Indiana is part of the U.S. and one of the country's ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id3" error_1="Steuben County, Indiana">Angola, Indiana is part of the U.S. and one of the country's ethnic groups are African Americans.</lex>
     </entry>
     <entry category="City" eid="Id202" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3731,7 +3731,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States, where the English language is spoken, include the ethnic group of African Americans and is the location of Angola in Indiana.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id204" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | African_Americans</otriple>
@@ -4050,7 +4050,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The president is the leader of the United States, where Albuquerque, New Mexico is located and Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The leader of the United States is called the President of the United States. Native Americans are one of the ethnic groups within the country which is also the location of Albuquerque, New Mexico.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id225" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | language | English_language</otriple>
@@ -4139,7 +4139,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Indiana is in the United States, where English is spoken. It is also where Native Americans, are one of the many ethnic groups.</lex>
       <lex comment="good" lid="Id2">In the United States; English is spoken, Native Americans are one of the ethnic groups, and, it is the location of Angola, Indiana.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id231" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | leader | Barack_Obama</otriple>

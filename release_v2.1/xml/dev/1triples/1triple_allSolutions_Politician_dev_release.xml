@@ -51,7 +51,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud is from Kota Samarahan.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud is from the region of Kota Samarahan.</lex>
-      <lex comment="good" lid="Id3">Adul Taib Mahmud lived in the Kota Samarahan region.</lex>
+      <lex comment="good" lid="Id3" error_1="Abdul Taib Mahmud">Adul Taib Mahmud lived in the Kota Samarahan region.</lex>
     </entry>
     <entry category="Politician" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -218,9 +218,9 @@
       <modifiedtripleset>
         <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire's nationality is Argentinian.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire is Argentinian.</lex>
-      <lex comment="good" lid="Id3">Alberto Teisaire was Argentinian.</lex>
+      <lex comment="good" lid="Id1" error_1="Argentina">Alberto Teisaire's nationality is Argentinian.</lex>
+      <lex comment="good" lid="Id2" error_1="Argentina">Alberto Teisaire is Argentinian.</lex>
+      <lex comment="good" lid="Id3" error_1="Argentina">Alberto Teisaire was Argentinian.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -301,7 +301,7 @@
         <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
-      <lex comment="good" lid="Id2">The successor to Antonis Samaras was Konstantionos Mitsotakis.</lex>
+      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">The successor to Antonis Samaras was Konstantionos Mitsotakis.</lex>
     </entry>
     <entry category="Politician" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -394,7 +394,7 @@
       <modifiedtripleset>
         <mtriple>Poland | ethnicGroup | Romani_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Romani are an ethnic group in Poland.</lex>
+      <lex comment="good" lid="Id1" error_1="Romani people">Romani are an ethnic group in Poland.</lex>
       <lex comment="good" lid="Id2">The Romani people are an ethnic group in Poland.</lex>
       <lex comment="good" lid="Id3">An ethnic group in Poland is the Romani people.</lex>
     </entry>
@@ -408,5 +408,5 @@
       <lex comment="good" lid="Id1">The Kashubian language is spoken in Poland.</lex>
       <lex comment="good" lid="Id2">The language spoken in Poland is the Kashubian language.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

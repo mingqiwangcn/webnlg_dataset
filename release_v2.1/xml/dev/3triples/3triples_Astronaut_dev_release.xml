@@ -59,7 +59,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin, who was a member of the Apollo 11 crew and spent 52 minutes in space, was born in Glen Ridge New Jersey.</lex>
       <lex comment="good" lid="Id2">Born in Glen Ridge New Jersey, Apollo 11 crewman Buzz Aldrin spent 52 minutes in space.</lex>
-      <lex comment="good" lid="Id3">Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.</lex>
+      <lex comment="good" lid="Id3" error_1="Glen Ridge, New Jersey">Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -90,7 +90,7 @@
       <lex comment="good" lid="Id1">Elliot See who was selected by NASA in 1962 died on 28 February 1966 in St Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See, ex NASA worker since 1962, died in St Louis on the 28th of February 1966.</lex>
       <lex comment="good" lid="Id3">Elliot See was selected by NASA in 1962. He died in St. Louis on 1966-02-28.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Elliot_See | status | "Deceased"@en</otriple>
@@ -122,5 +122,5 @@
       <lex comment="good" lid="Id2">William Anders who was born on 17 October 1933 in British Hong Kong later served as a crew member of Apollo 8.</lex>
       <lex comment="good" lid="Id3">William Anders, who was born in British Hong Kong on the 17th of October 1933, crewed Apollo 8.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

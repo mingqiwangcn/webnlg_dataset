@@ -133,7 +133,7 @@
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acta Mathematica Hungarica covers the academic discipline of Mathematics.</lex>
-      <lex comment="good" lid="Id2">The Acta Mathematica Hungarica discipline is Math.</lex>
+      <lex comment="good" lid="Id2" error_1="Mathematics">The Acta Mathematica Hungarica discipline is Math.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -196,7 +196,7 @@
       <modifiedtripleset>
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | OCLC_number | 78771100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alcatraz Versus The Evil Librarian OCLC number is 78771100.</lex>
+      <lex comment="good" lid="Id1" error_1="Alcatraz Versus the Evil Librarians">Alcatraz Versus The Evil Librarian OCLC number is 78771100.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians has the OCLC number of 7877110.</lex>
       <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians has an OCLC number of 78771100.</lex>
     </entry>
@@ -309,5 +309,5 @@
       <lex comment="good" lid="Id1">John Cowper Powys is the author of Wolf Solent.</lex>
       <lex comment="good" lid="Id2">John Cowper Powys is the author of "Wolf Solent".</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

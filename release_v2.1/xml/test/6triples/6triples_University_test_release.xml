@@ -39,9 +39,9 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Karnataka, Bangalore - 560090, India. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" error_1="In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Karnataka, Bangalore - 560090, India. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in the city of Bangalore, Karnataka, India has 700 postgraduate students and is affiliated to the Visvesvaraya Technological University. The campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in Bangalore in the state of Karnataka in India. It is home to 700 postgraduate students and has connections with the Visvesvaraya Technological University. The exact location for the Institute is "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore- 560090".</lex>
+      <lex comment="good" lid="Id3" error_1="In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.">The Acharya Institute of Technology is located in Bangalore in the state of Karnataka in India. It is home to 700 postgraduate students and has connections with the Visvesvaraya Technological University. The exact location for the Institute is "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore- 560090".</lex>
     </entry>
     <entry category="University" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -88,8 +88,8 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
         <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus Universuty in Denmark is affiliated with the European University Association, which has its HQ in Brussels. Denmark has a monarch; its religion is the Church of Denmark and its leader is Lars Lokke Rasmussen.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Monarchy of Denmark">The School of Business and Social Sciences at the Aarhus Universuty in Denmark is affiliated with the European University Association, which has its HQ in Brussels. Denmark has a monarch; its religion is the Church of Denmark and its leader is Lars Lokke Rasmussen.</lex>
+    </entry>
     <entry category="University" eid="Id5" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
         <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
@@ -149,8 +149,8 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Romania. Romania's capital is Bucharest; its leader is Klaus Iohannis and its patron saint is Andrew the Apostle. The ethnic group is the Germans of Romania and the anthem is Desteapta-te, romane!</lex>
-      <lex comment="good" lid="Id2">1 Decembrie 1918 University is in Romania which is led by Klaus Iohannis and has Bucharest as its capital. Roman's anthem is Deșteaptă-te, române, its patron saint is Andrew the Apostle and its ethnic group are the Germans of Romania.</lex>
-      <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country is largely Germanic, its patron saint is Andrew the Apostle and the national anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2" error_1="Desteapta-te, romane!">1 Decembrie 1918 University is in Romania which is led by Klaus Iohannis and has Bucharest as its capital. Roman's anthem is Deșteaptă-te, române, its patron saint is Andrew the Apostle and its ethnic group are the Germans of Romania.</lex>
+      <lex comment="good" lid="Id3" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country is largely Germanic, its patron saint is Andrew the Apostle and the national anthem is Deșteaptă-te, române!</lex>
     </entry>
     <entry category="University" eid="Id8" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -173,5 +173,5 @@
       <lex comment="good" lid="Id2">Denmark, which is led by Lars Lokke Rasmussen is the location of the School of Business and Social Sciences at the Aarhus University in the city of Aarhus. The School was established in 1928 and has 16000 students and an academic staff of 737.</lex>
       <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark (which leader is Lars Løkke Rasmussen). It was established in 1928 and has 16000 students and 737 academic staff.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

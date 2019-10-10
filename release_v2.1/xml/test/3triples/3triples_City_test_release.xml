@@ -213,7 +213,7 @@
         <mtriple>Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana has an area of 107.43 sq km, is elevated 268 above sea level and has a population density of 523.9 inhabitants per sq km.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Angola,_Indiana | isPartOf | Steuben_County,_Indiana</otriple>
@@ -291,8 +291,8 @@
         <mtriple>Arlington,_Texas | areaTotal | 258.2 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington, Texas, which is elevated 184 above sea level, has a population density, of 1472.0 inhabitants per sq km and a total area of 258.2 sq km.</lex>
-      <lex comment="good" lid="Id2">Arlington, Texas is elevated 184 above sea level. has a population density of 1472 inhabitants per sq km and a total area of 258.3 sq kms.</lex>
-      <lex comment="good" lid="Id3">Arlington Texa; is 184m above sea level, has a total area of 258.2 square kilometres, and the population density of 1472 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2" error_1="258.2 (square kilometres)">Arlington, Texas is elevated 184 above sea level. has a population density of 1472 inhabitants per sq km and a total area of 258.3 sq kms.</lex>
+      <lex comment="good" lid="Id3" error_1="Arlington, Texas">Arlington Texa; is 184m above sea level, has a total area of 258.2 square kilometres, and the population density of 1472 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -340,7 +340,7 @@
         <mtriple>New_Jersey | capital | Trenton,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City, New Jersey, is within the United State and the capital of that state is Trenton.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Atlantic City, New Jersey, is within the United State and the capital of that state is Trenton.</lex>
       <lex comment="good" lid="Id2">Atlantic City is part of New Jersey in the US and Trenton is New Jersey's capital.</lex>
       <lex comment="good" lid="Id3">Atlantic City, is a part of New Jersey (United States), where the state's capital is Trenton.</lex>
     </entry>
@@ -415,7 +415,7 @@
         <mtriple>Attica,_Indiana | elevationAboveTheSeaLevel | 166.0</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana is elevated 166 m above sea level with a 4.4 SqKm area and has a 783.1 inhabitants per sq km population density.</lex>
+      <lex comment="good" lid="Id1" error_1="4.14 (square kilometres)">Attica, Indiana is elevated 166 m above sea level with a 4.4 SqKm area and has a 783.1 inhabitants per sq km population density.</lex>
       <lex comment="good" lid="Id2">Attica, Indiana lies 166 above sea level and has a population of 783.1 people for each of its 4.14 square kilometres.</lex>
       <lex comment="good" lid="Id3">Attica in Indiana, has a total area of 4.14 square kilometres and is 166.0 above sea level. The population density there is 783.1 persons per sq. km.</lex>
     </entry>
@@ -639,5 +639,5 @@
       <lex comment="good" lid="Id2">Albany, Georgia is in the United States; where English is spoken and African Americans call home.</lex>
       <lex comment="good" lid="Id3">Albany, Georgia is in the US where English is spoken and African Americans are an ethnic group.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

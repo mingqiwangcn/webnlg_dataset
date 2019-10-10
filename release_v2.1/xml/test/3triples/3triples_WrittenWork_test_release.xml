@@ -183,7 +183,7 @@
         <mtriple>A_Severed_Wasp | OCLC_number | 8805735</mtriple>
         <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The hardback book, A Severed Wasp, has 388 pages and the OCLC number 8805735.</lex>
+      <lex comment="good" lid="Id1" error_1="Hardcover">The hardback book, A Severed Wasp, has 388 pages and the OCLC number 8805735.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp is a hardcover book that has 388 pages and has the OCLC number 8805735.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp, with 388 pages, was published in hardcover. Its OCLC number is 8805735.</lex>
     </entry>
@@ -228,9 +228,9 @@
         <mtriple>Aenir | language | English_language</mtriple>
         <mtriple>Aenir | followedBy | Above_the_Veil</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The novel Aenir, which was written in English, was followed by Above the Veil which is from Australia.</lex>
-      <lex comment="good" lid="Id2">Above the Veil (which came after the book Aenir) is written in English and comes from Australia.</lex>
-      <lex comment="good" lid="Id3">Aenir is written in English and followed up by Above the Veil which is from Australia.</lex>
+      <lex comment="good" lid="Id1" error_1="Australians">The novel Aenir, which was written in English, was followed by Above the Veil which is from Australia.</lex>
+      <lex comment="good" lid="Id2" error_1="Australians">Above the Veil (which came after the book Aenir) is written in English and comes from Australia.</lex>
+      <lex comment="good" lid="Id3" error_1="Australians">Aenir is written in English and followed up by Above the Veil which is from Australia.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -295,7 +295,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addiction journal, or Addiction, is about addiction and has the ISSN number of 1360-0443.</lex>
       <lex comment="good" lid="Id2">The journal Addiction has the ISSN number 1360-0443, it is about addiction and has the same abbreviation.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Addiction_(journal) | publisher | Wiley-Blackwell</otriple>
@@ -447,7 +447,7 @@
         <mtriple>A_Wizard_of_Mars | language | English_language</mtriple>
         <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars is published in English and originates from the United States, where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id1" error_1="African Americans">A Wizard of Mars is published in English and originates from the United States, where one of the ethnic groups is African American.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars was originally published in the United States and is written in English. African Americans are one of many ethnic groups in the U.S.</lex>
       <lex comment="good" lid="Id3">A Wizard of Mars was published in English in the United States where the African Americans are an ethnic group.</lex>
     </entry>
@@ -493,8 +493,8 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States where the leader is known as the President and one of the ethnic groups are the African Americans.</lex>
-      <lex comment="good" lid="Id2">1634 The Ram Rebellion was written in the United States where the leader is known as the President, and the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written in the US were the leader is known as the President and one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2" error_1="President of the United States">1634 The Ram Rebellion was written in the United States where the leader is known as the President, and the African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3" error_1="African Americans" error_2="President of the United States">1634: The Ram Rebellion was written in the US were the leader is known as the President and one of the ethnic groups is African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -508,7 +508,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The President is the leader of the United States, which is where A Fortress of Grey Ice is from. Additionally, Native Americans are an ethnic Group in the U.S.</lex>
-      <lex comment="good" lid="Id2">A Fortress of Grey Ice is from the United States where the leader is known as the President and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" error_1="Native Americans in the United States">A Fortress of Grey Ice is from the United States where the leader is known as the President and the Native Americans are an ethnic group.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

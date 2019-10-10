@@ -14,7 +14,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the The Grantville Gazettes"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634:The Bavarian Crisis was written by Eric Flint who was born in Burbank, California. It was the sequel to Grantville Gazette lll which was a DeMarce short story.</lex>
+      <lex comment="good" lid="Id1" error_1="DeMarce short stories in the The Grantville Gazettes" error_2="Grantville Gazette III">1634:The Bavarian Crisis was written by Eric Flint who was born in Burbank, California. It was the sequel to Grantville Gazette lll which was a DeMarce short story.</lex>
       <lex comment="good" lid="Id2">Eric Flint (born Burbank, California) is the author of 1634: The Bavarian Crisis, which is the sequel to Grantville Gazette III. DeMarce short stories in the Grantville Gazettes preceded 1634: The Bavarian Crisis.</lex>
       <lex comment="good" lid="Id3">Eric Flint, born in Burbank, California, is the author of 1634: The Bavarian Crisis. DeMarce short stories in the Grantville Gazettes and Grantville Gazette III preceded 1634: The Bavarian Crisis.</lex>
     </entry>
@@ -31,7 +31,7 @@
         <mtriple>1634:_The_Ram_Rebellion | author | "Eric Flint, Virginia DeMarce, et al."</mtriple>
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Ram Rebellion was written by Eric Flint, Virginia DeMarce, et al. and has 512 pages. It can be found as an E book and the ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion was written by Eric Flint, Virginia DeMarce, et al. and has 512 pages. It can be found as an E book and the ISBN number of 1-4165-2060-0.</lex>
       <lex comment="good" lid="Id2">1634: The Ram Rebellion is available as an E-Book and is 512 pages long. It was written by Eric Flint, Virginia DeMarce, et al. and has the ISBN number 1-4165-2060-0.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion (ISBN 1-4165-2060-0) written by Eric Flint, Virginia DeMarce, et al is 512 pages long and available in E-Book.</lex>
     </entry>
@@ -54,7 +54,7 @@
         <mtriple>Lippincott_Williams_&amp;_Wilkins | parentCompany | Wolters_Kluwer</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDS journal, published by Lippincott Williams &amp; Williams, is from the United Kingdom (led by Elizabeth II). The parent company of Lippincott is Wolters Kluwer.</lex>
+      <lex comment="good" lid="Id1" error_1="Lippincott Williams &amp; Wilkins">AIDS journal, published by Lippincott Williams &amp; Williams, is from the United Kingdom (led by Elizabeth II). The parent company of Lippincott is Wolters Kluwer.</lex>
       <lex comment="good" lid="Id2">Wolters Kluwer, the parent company of Lippincott Williams &amp; Wilkins that publishes AIDS (journal), is in the UK where Elizabeth II is the leader.</lex>
       <lex comment="good" lid="Id3">Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins. They publish the AIDS (journal) in the United Kingdom where the leader is Elizabeth II.</lex>
     </entry>
@@ -135,7 +135,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States which speaks English and contains the ethnic group Asian Americans.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer was published in the United States by Soho Press. The language of the country is English and one of the ethnic groups is Asian American.</lex>
+      <lex comment="good" lid="Id2" error_1="Asian Americans">A Loyal Character Dancer was published in the United States by Soho Press. The language of the country is English and one of the ethnic groups is Asian American.</lex>
       <lex comment="good" lid="Id3">The United States has an ethnic group called Asian Americans but the language spoken there is English. A Loyal Character Dancer is published by Soho Press in the United States.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -151,8 +151,8 @@
         <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
         <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Wizard of Mars was written by Diane Duane and published in hardback. It's 560 pages long and the ISBN number is 978-0-15-204770-2.</lex>
-      <lex comment="good" lid="Id2">Diane Duane's 'A Wizard of Mars'(ISBN: 978-0-15-204770-2) was published in hardback and has 560 pages.</lex>
+      <lex comment="good" lid="Id1" error_1="Hardcover">A Wizard of Mars was written by Diane Duane and published in hardback. It's 560 pages long and the ISBN number is 978-0-15-204770-2.</lex>
+      <lex comment="good" lid="Id2" error_1="Hardcover">Diane Duane's 'A Wizard of Mars'(ISBN: 978-0-15-204770-2) was published in hardback and has 560 pages.</lex>
       <lex comment="good" lid="Id3">A Wizard of Mars written by Diane Duane has the ISBN number 978-0-15-204770-2 and is 560 pages long and published in hardcover.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -186,7 +186,7 @@
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica, abbreviated to Acta Math. Hungar, discipline is Math. The LCCN number is 83646315 and the ISSN number is 0236-5294.</lex>
+      <lex comment="good" lid="Id1" error_1="Mathematics">The Acta Mathematica Hungarica, abbreviated to Acta Math. Hungar, discipline is Math. The LCCN number is 83646315 and the ISSN number is 0236-5294.</lex>
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica (abbreviated as "Acta Math. Hungar.") covers the academic discipline of Mathematics. It has the ISSN number of "0236-5294" and LCCN number 83646315.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -328,7 +328,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asian-Americans is one of the ethnic group in the US where English is spoken along with Great Britain. Alcatraz Versus the Evil Librarians is from The United States.</lex>
       <lex comment="good" lid="Id2">English is spoken in Great Britain and the United States. The book Alcatraz Versus the Evil Librarians comes from the U.S. where one of the ethnic groups is Asian Americans.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id18" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>United_States | leader | Barack_Obama</otriple>
@@ -395,5 +395,5 @@
       <lex comment="good" lid="Id2">English is spoken in the United States and this is the country where A Severed Wasp is from. The US includes many Asian Americans and is led by Barack Obama.</lex>
       <lex comment="good" lid="Id3">A Severed Wasp originates from the United States where Barack Obama is President. The language in the US is English and the Asian Americans are one of the ethnic groups.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

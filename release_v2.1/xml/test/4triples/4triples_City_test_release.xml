@@ -71,7 +71,7 @@
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is in California which is led by the California State Assembly found in the California State Capitol. Spanish is spoken in that state.</lex>
-      <lex comment="good" lid="Id2">California is led by the California State Assembly (location: state capital), is spanish speaking and location of Anaheim.</lex>
+      <lex comment="good" lid="Id2" error_1="California State Capitol">California is led by the California State Assembly (location: state capital), is spanish speaking and location of Anaheim.</lex>
       <lex comment="good" lid="Id3">Part of California (where Spanish is spoken), Anaheim, is led by the California State Assembly, in the California State Capitol.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -104,9 +104,9 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The total area of Atlantic City, New Jersey is 44.125 square kilometres and the population density is 1421.2 inhabitants per square kilometre. 609 is the area code of Atlantic City, N.J. and "Mayor" is the title of the leader.</lex>
-      <lex comment="good" lid="Id2">Atlantic City, New Jersey (area code 609), covers a total area of 44.125 square kilometres. The Mayor of the city is responsible of a population which averages about 1421 people for each of those square kilometres.</lex>
-      <lex comment="good" lid="Id3">Atlantic City in New Jersey has a population of 1421.2 inhabitants per sq km and is led by the Mayor. It covers a total area of 44.125 sq km and uses the area code of 609.</lex>
+      <lex comment="good" lid="Id1" error_1="Mayors of Atlantic City, New Jersey">The total area of Atlantic City, New Jersey is 44.125 square kilometres and the population density is 1421.2 inhabitants per square kilometre. 609 is the area code of Atlantic City, N.J. and "Mayor" is the title of the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="1421.2 (inhabitants per square kilometre)" error_2="Mayors of Atlantic City, New Jersey">Atlantic City, New Jersey (area code 609), covers a total area of 44.125 square kilometres. The Mayor of the city is responsible of a population which averages about 1421 people for each of those square kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="Mayors of Atlantic City, New Jersey">Atlantic City in New Jersey has a population of 1421.2 inhabitants per sq km and is led by the Mayor. It covers a total area of 44.125 sq km and uses the area code of 609.</lex>
     </entry>
     <entry category="City" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -202,7 +202,7 @@
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The largest city in Texas is Houston. Austin is part of the state and is part of Williamson County, where Georgetown is the county seat.</lex>
-      <lex comment="good" lid="Id2">Georgetown is the country seat of Williams County, Texas, where Austin is also located. Houston is the states largest city.</lex>
+      <lex comment="good" lid="Id2" error_1="Williamson County, Texas">Georgetown is the country seat of Williams County, Texas, where Austin is also located. Houston is the states largest city.</lex>
       <lex comment="good" lid="Id3">Austin, Texas is part of Williamson County where Georgetown is the county seat. Houston is the biggest city in Texas.</lex>
     </entry>
     <entry category="City" eid="Id12" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -254,7 +254,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Anderson is part of Lafayette Township in the United States. It is located in Madison County, Indiana which has the capital city of Indianapolis.</lex>
       <lex comment="good" lid="Id2">Lafayette Township, Madison County, Indiana is in the United States and the township is home to Anderson while Indianapolis is the state capital.</lex>
-      <lex comment="good" lid="Id3">Indianapolis is the capital of the state of Indiana, where you will find the city of Anderson, which is part of Lafayette Township, Madison County.</lex>
+      <lex comment="good" lid="Id3" error_1="United States">Indianapolis is the capital of the state of Indiana, where you will find the city of Anderson, which is part of Lafayette Township, Madison County.</lex>
     </entry>
     <entry category="City" eid="Id15" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -271,7 +271,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Houston is the largest city in Texas in the U.S. where English is spoken and is also home to Arlington.</lex>
       <lex comment="good" lid="Id2">Texas, where English is spoken, is part of the U.S. and among its cities are Arlington and Houston which is the largest city in the state.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -370,9 +370,9 @@
         <mtriple>Akron,_Ohio | country | United_States</mtriple>
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron is located within Summit County, Ohio, in the United States, where English is spoken, and, where one of the ethnic groups is Asian American.</lex>
+      <lex comment="good" lid="Id1" error_1="Asian Americans">Akron is located within Summit County, Ohio, in the United States, where English is spoken, and, where one of the ethnic groups is Asian American.</lex>
       <lex comment="good" lid="Id2">The United States uses the spoken language of English and includes the ethnic group of Asian Americans. The country is the location of Akron, part of Summit County in Ohio.</lex>
-      <lex comment="good" lid="Id3">Akron, Summit County, Ohio is located within the United States. English is the official language of the country.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">Akron, Summit County, Ohio is located within the United States. English is the official language of the country.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -421,7 +421,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque is in New Mexico in the U.S. whose leader is known as the president. English is spoken in the U.S.</lex>
+      <lex comment="good" lid="Id1" error_1="President of the United States">Albuquerque is in New Mexico in the U.S. whose leader is known as the president. English is spoken in the U.S.</lex>
       <lex comment="good" lid="Id2">Albuquerque is in New Mexico, in the United States. The president is the leader of the United States and the people speak English.</lex>
       <lex comment="good" lid="Id3">Albuquerque is in New Mexico, in the United States, where English is spoken and where the leader, is called the President of the United States.</lex>
     </entry>
@@ -476,5 +476,5 @@
       <lex comment="good" lid="Id2">Akron in Summit County, Ohio, is part of the U.S.A. where English is spoken and is home to Native Americans.</lex>
       <lex comment="good" lid="Id3">The Native Americans are an ethnic group found on the United States, where English is spoken. The US is the location of Akron, which is in Summit County, Ohio.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

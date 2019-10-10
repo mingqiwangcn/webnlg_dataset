@@ -42,7 +42,7 @@
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
         <mtriple>1955_Dodge | alternativeName | "Dodge Custom Royal"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1955 Dodge also known as the Dodge Custom Royal has a 3 speed auto transmission and a V8 type engine.</lex>
+      <lex comment="good" lid="Id1" error_1="3-speed automatic">The 1955 Dodge also known as the Dodge Custom Royal has a 3 speed auto transmission and a V8 type engine.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge has a V8 engine, a 3-speed automatic transmission and is also known as the Dodge Custom Royal.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge, also called the Dodge Custom Royal, uses a 3-speed automatic transmission and has a V8 engine.</lex>
     </entry>
@@ -57,7 +57,7 @@
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
         <mtriple>1955_Dodge | alternativeName | "Dodge Suburban"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1955 Dodge, also called the Dodge Suburban, has a V8 engine and a 3-speed auto transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="3-speed automatic">The 1955 Dodge, also called the Dodge Suburban, has a V8 engine and a 3-speed auto transmission.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge, with the alternative name of "Dodge Suburban", has a V8 engine, a 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge, or "Dodge Suburban", has a 3-speed automatic transmission with a V8 engine.</lex>
     </entry>
@@ -72,7 +72,7 @@
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
         <mtriple>1955_Dodge | bodyStyle | Hardtop</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1055 Dodge has a V8 engine, a 3 speed automatic transmission and a hardtop.</lex>
+      <lex comment="good" lid="Id1" error_1="1955 Dodge" error_2="3-speed automatic">The 1055 Dodge has a V8 engine, a 3 speed automatic transmission and a hardtop.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge has a V8 engine, a 3-speed automatic transmission, and a hardtop.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge has a V8 engine, a hardtop, and a 3-speed automatic transmission.</lex>
     </entry>
@@ -88,7 +88,7 @@
         <mtriple>1955_Dodge | bodyStyle | Station_wagon</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1955 Dodge has a V8 engine, a 3-speed automatic transmission and a station wagon style body.</lex>
-      <lex comment="good" lid="Id2">The 1955 Didge is a station wagion with a V8 engine and a 3 speed automatic transmission.</lex>
+      <lex comment="good" lid="Id2" error_1="1955 Dodge" error_2="3-speed automatic" error_3="Station wagon">The 1955 Didge is a station wagion with a V8 engine and a 3 speed automatic transmission.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge station wagon has a 3-speed automatic transmission with a V8 engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -128,7 +128,7 @@
         <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1955 Dodge is related to the DeSoto Custom which is made by the DeSoto Co. Two related vehicles are the 1955 Dodge and the Plymouth Plaza.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge, the DeSoto Custom and the Plymouth Plaa are all cars.</lex>
+      <lex comment="good" lid="Id2" error_1="Plymouth Plaza">The 1955 Dodge, the DeSoto Custom and the Plymouth Plaa are all cars.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge, Plymouth Plaza and the DeSoto Custom (manufactured at DeSoto) are related means of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -173,7 +173,7 @@
         <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The DeSoto Custom was manufactured at DeSoto and is a related means of transport to the 1955 Dodge and the Chrysler Newport.</lex>
-      <lex comment="good" lid="Id2">The DeSoto manufactured Custome, the 1955 Didge and the Chrysler Newport are all related.</lex>
+      <lex comment="good" lid="Id2" error_1="1955 Dodge">The DeSoto manufactured Custome, the 1955 Didge and the Chrysler Newport are all related.</lex>
       <lex comment="good" lid="Id3">DeSoto are the manufacturers of the DeSoto Custom which is a related means of transportation to the 1955 Dodge and Chrysler Newport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -242,7 +242,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna, built by Neptun Werft, Warnemünde has a 1850 ton displacement and length of 125800.0 mm.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna; was built by Neptun Werft, Warnemünde, weighs 1850 tonnes and is 125.8 metres long.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna is 125.8m long and has a ship displacement of 1850 tonnes. It was built by Neptun Werft in Warnemunde.</lex>
+      <lex comment="good" lid="Id3" error_1="Neptun Werft, Warnemunde,">The A Rosa Luna is 125.8m long and has a ship displacement of 1850 tonnes. It was built by Neptun Werft in Warnemunde.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -281,7 +281,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length and weighs 1850 tonnes. It was completed on April 6th 2005.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna, completed April 6, 2005, weighs 1650 tons and is 125800.0 mm in length.</lex>
+      <lex comment="good" lid="Id2" error_1="1850.0 (tonnes)">The A-Rosa Luna, completed April 6, 2005, weighs 1650 tons and is 125800.0 mm in length.</lex>
       <lex comment="good" lid="Id3">A-Rosa Luna has a ship displacement of 1850 tons and is 125800.0 millimetres long. It was completed on April 6, 2005.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -445,7 +445,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna had its maiden voyage on the 22nd of March 2009. It is powered by a Caterpillar Inc. engine and is 252000.00 mm in length.</lex>
       <lex comment="good" lid="Id2">The AIDAluna has a length of 252000.0 millimetres and had its maiden voyage on March 22, 2009. It is powered by Caterpillar Inc.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>AIDAluna | maidenVoyage | "2009-03-22"^^xsd:date</otriple>
@@ -504,7 +504,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Being 252000.0 millimetres long and with a ship beam of 32.2 long, the AIDAluna was christened on April 4 2004.</lex>
       <lex comment="good" lid="Id2">The AidAluna was christened on the 4th of April, 2009. It is 252 metres long and has a ship beam of 32.2.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>AIDAstella | shipChristened | "--03-16"^^xsd:gMonthDay</otriple>
@@ -531,7 +531,7 @@
         <mtriple>AIDAstella | shipClass | "Sphinx-class cruise ship"</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aidastella is a 253.26m long Sphinx class cruise ship. She was named on 16th March 2013.</lex>
+      <lex comment="good" lid="Id1" error_1="253260.0 (millimetres)" error_2="Sphinx-class cruise ship">The Aidastella is a 253.26m long Sphinx class cruise ship. She was named on 16th March 2013.</lex>
       <lex comment="good" lid="Id2">The AIDAstella is a Sphinx-class cruise ship, is 253260.0 millimetres long and was christened on 16 March 2013.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -550,7 +550,7 @@
         <mtriple>AIDAstella | shipBeam | 32.2</mtriple>
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Meyer Werft built the AIDAstella which is 253.26m long with a beam of 32.2m.</lex>
+      <lex comment="good" lid="Id1" error_1="253260.0 (millimetres)">Meyer Werft built the AIDAstella which is 253.26m long with a beam of 32.2m.</lex>
       <lex comment="good" lid="Id2">Built by Meyer Werft, the AIDAstella is 253260.0 millimetres and has a beam of 32.2 m.</lex>
       <lex comment="good" lid="Id3">Built by Meyer Werft, the AIDAstella is 253260.0 millimetres long and has a beam of 32.2 m.</lex>
     </entry>
@@ -612,7 +612,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella is 253260.0mm long with a 32.2 length ship beam. Its maiden voyage was 3/17/2013.</lex>
       <lex comment="good" lid="Id2">AIDAstella is 253260.0 mm long with a 32.2 meter beam. Its maiden voyage was 3/17/2013.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella is 253.26m long and has a beam of 32.2m. Her maiden voyage was on March 17th 2013.</lex>
+      <lex comment="good" lid="Id3" error_1="253260.0 (millimetres)">The AIDAstella is 253.26m long and has a beam of 32.2m. Her maiden voyage was on March 17th 2013.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id37" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -630,8 +630,8 @@
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIDAstella, which was built by Meyer Werf and is 253260.0 millimetres in length is operated by AIDA Cruises.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella, built by Meyer Werst and operated by AIDA Cruise Line, is 253260.0 millimeters long.</lex>
+      <lex comment="good" lid="Id1" error_1="Meyer Werft">AIDAstella, which was built by Meyer Werf and is 253260.0 millimetres in length is operated by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id2" error_1="Meyer Werft">The AIDAstella, built by Meyer Werst and operated by AIDA Cruise Line, is 253260.0 millimeters long.</lex>
       <lex comment="good" lid="Id3">The ship AIDAstella built by Meyer Werft is operated by AIDA Cruises and is 253260.0 millimetres in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -646,7 +646,7 @@
         <mtriple>Meyer_Werft | location | Papenburg</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ship AIDAstella is operated by AIDA Cruises and was built by Meyer Werft located in Papenburg.</lex>
-      <lex comment="good" lid="Id2">AIDA Cruise line operated the AIDAstella which was built by Meyer Werfy in Papenburg.</lex>
+      <lex comment="good" lid="Id2" error_1="Meyer Werft">AIDA Cruise line operated the AIDAstella which was built by Meyer Werfy in Papenburg.</lex>
       <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft, located in Papenburg. It is operated by AIDA Cruise Line.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -666,7 +666,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella is operated by AIDA Cruises and owned by Costa Crociere, based in Italy.</lex>
-      <lex comment="good" lid="Id2">Italian based, Costa Crociere, owns the AIDAstella which is operated by AIDA Cruise Line.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Italian based, Costa Crociere, owns the AIDAstella which is operated by AIDA Cruise Line.</lex>
       <lex comment="good" lid="Id3">Costa Crociere of Italy is the owner of the AIDAstella, which is operated by AIDA Cruise Line.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id40" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -695,8 +695,8 @@
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
         <mtriple>ALCO_RS-3 | engine | Four-stroke_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3 was built by the American Locomotive Company between May 1950 and August 1955 and has a four stroke engine.</lex>
-      <lex comment="good" lid="Id2">The ALCO RS-3 has a four stroke engine was built by the American Locomotive Company between May 1950 and August 1956.</lex>
+      <lex comment="good" lid="Id1" error_1="Four-stroke engine" error_2="May 1950 - August 1956">The ALCO RS-3 was built by the American Locomotive Company between May 1950 and August 1955 and has a four stroke engine.</lex>
+      <lex comment="good" lid="Id2" error_1="Four-stroke engine">The ALCO RS-3 has a four stroke engine was built by the American Locomotive Company between May 1950 and August 1956.</lex>
       <lex comment="good" lid="Id3">The American Locomotive Company built the ALCO RS-3 which has a four-stroke engine and was produced between May 1950 and August 1956.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id42" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -712,7 +712,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Locomotive Company built the ALCO RS-3 which is 17068.8 millimetres long and has a cylinder count of 13.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 is 17068.8 mm long with 12 cylinders, and is built by the American Locomotive Company.</lex>
-      <lex comment="good" lid="Id3">The ALCO RS-3 has 12 cylinders and is 17068.8 (millimetres) in length. It has 12 cylinders.</lex>
+      <lex comment="good" lid="Id3" error_1="American Locomotive Company">The ALCO RS-3 has 12 cylinders and is 17068.8 (millimetres) in length. It has 12 cylinders.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -739,7 +739,7 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3 with a diesel-electric transmission and 17068.8 millimetres long, is made by the American Locomotive Co.</lex>
+      <lex comment="good" lid="Id1" error_1="American Locomotive Company">The ALCO RS-3 with a diesel-electric transmission and 17068.8 millimetres long, is made by the American Locomotive Co.</lex>
       <lex comment="good" lid="Id2">The American Locomotive Company built the ALCO RS-3 that has a diesel-electric transmission and is 17068.8 millimetres long.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 was built by the American Locomotive Company and has a diesel-electric transmission. It is 17068.8mm long.</lex>
     </entry>
@@ -756,7 +756,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Locomotive Company built the ALCO RS-3, the total production amount is 1418 and the length is 17068.8 millimetres.</lex>
       <lex comment="good" lid="Id2">1418 ALCO RS-3s were built by the American Locomotive Company and they were 17068.8 mm in length.</lex>
-      <lex comment="good" lid="Id3">The ALCO RS-3 was produced by the American Locomotive Co. It is 17068.8 (millimetres) long and they made only 1418 cars.</lex>
+      <lex comment="good" lid="Id3" error_1="American Locomotive Company">The ALCO RS-3 was produced by the American Locomotive Co. It is 17068.8 (millimetres) long and they made only 1418 cars.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id46" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -771,7 +771,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 was built by the US founded American Locomotive Company and is 17068.8mm long.</lex>
       <lex comment="good" lid="Id2">ALCO RS-3 is 17068.8 millimeters long and was built by, United States founded, the American Locomotive Company.</lex>
-      <lex comment="good" lid="Id3">The ALCO RS-3 is 17068.8mm long and was built by the Americn Locomotive Company founded in the US.</lex>
+      <lex comment="good" lid="Id3" error_1="American Locomotive Company">The ALCO RS-3 is 17068.8mm long and was built by the Americn Locomotive Company founded in the US.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id47" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -784,9 +784,9 @@
         <mtriple>American_Locomotive_Company | locationCountry | United_States</mtriple>
         <mtriple>American_Locomotive_Company | foundationPlace | Schenectady,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">ALCO RS-3 was made in the U.S. by the American Locomotive Co. of Schenectady, New York.</lex>
+      <lex comment="good" lid="Id1" error_1="American Locomotive Company">ALCO RS-3 was made in the U.S. by the American Locomotive Co. of Schenectady, New York.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 was built by the US American Locomotive Company which was founded in Schenectady, New York.</lex>
-      <lex comment="good" lid="Id3">The American Locomotive Co., founded in Schenectady, New York and located in the U.S., builds the ALCO RS-3.</lex>
+      <lex comment="good" lid="Id3" error_1="American Locomotive Company">The American Locomotive Co., founded in Schenectady, New York and located in the U.S., builds the ALCO RS-3.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -799,7 +799,7 @@
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
         <mtriple>ALCO_RS-3 | engine | Four-stroke_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3, built by Montreal Locomotive Works, was produced between May 1950 and August 1956, has a 4-stroke engine.</lex>
+      <lex comment="good" lid="Id1" error_1="Four-stroke engine">The ALCO RS-3, built by Montreal Locomotive Works, was produced between May 1950 and August 1956, has a 4-stroke engine.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 was built by the Montreal Locomotive Works between May 1950 and August 1956. It has a four-stroke engine.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 was produced between May 1950 and August 1956 by Montreal Locomotive Works and has a four-stroke engine.</lex>
     </entry>
@@ -829,7 +829,7 @@
         <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3 was produced by the Montreal Locomotive Works between May 1950 and August 1056. It has a V12 engine.</lex>
+      <lex comment="good" lid="Id1" error_1="May 1950 - August 1956">The ALCO RS-3 was produced by the Montreal Locomotive Works between May 1950 and August 1056. It has a V12 engine.</lex>
       <lex comment="good" lid="Id2">Montreal Locomotive Works is the builder of the ALCO RS-3 which has a V12 engine and was made between May 1950 and August 1956.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3, produced between May 1950 and August 1956, has a V12 engine and was built by the Montreal Locomotive Works.</lex>
     </entry>
@@ -859,7 +859,7 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS3 is 17068.8mm long and has a diesel electric transmission. It was built by the Montreal Locomotive Works.</lex>
+      <lex comment="good" lid="Id1" error_1="Diesel-electric transmission">The ALCO RS3 is 17068.8mm long and has a diesel electric transmission. It was built by the Montreal Locomotive Works.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3, built by Montreal Locomotive Works, has a diesel-electric transmission and is 17068.8 (millimetres) in length.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 is 17068.8 (millimetres) in length, has a diesel-electric transmission and was built by the Montreal Locomotive Works.</lex>
     </entry>
@@ -926,7 +926,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALV X-1 comes from the US where African Americans are an ethnic group and Washington DC is the capital.</lex>
       <lex comment="good" lid="Id2">ALV X-1 originated in the United States, whose capital city is Washington DC, and whose ethnic groups include African Americans.</lex>
-      <lex comment="good" lid="Id3">ALV X-1 came from the U.S. whose capitol is located in Washington, D.C. An ethnic group in that country are African American in origin.</lex>
+      <lex comment="good" lid="Id3" error_1="African Americans">ALV X-1 came from the U.S. whose capitol is located in Washington, D.C. An ethnic group in that country are African American in origin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id57" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -941,7 +941,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ALV X-1 hails from the United States, where The Star Spangled Banner is the national anthem and Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The ALV X1 comes from the US, where Asian Americans are an ethnic group and the anthem is the Star Spangled Banner.</lex>
-      <lex comment="good" lid="Id3">The ALVX-1 comes from the United States, where Asian Americans are an ethnic group and where the anthem is the Star Spangled Banner.</lex>
+      <lex comment="good" lid="Id3" error_1="ALV X-1">The ALVX-1 comes from the United States, where Asian Americans are an ethnic group and where the anthem is the Star Spangled Banner.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id58" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1000,7 +1000,7 @@
         <mtriple>United_States | demonym | Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The UNited States is home to Native Americans and Americans as well as the origin of the ALV X-1.</lex>
-      <lex comment="good" lid="Id2">ALVX-1 is from the US where Native Americans are an ethnic group and Americans live.</lex>
+      <lex comment="good" lid="Id2" error_1="ALV X-1">ALVX-1 is from the US where Native Americans are an ethnic group and Americans live.</lex>
       <lex comment="good" lid="Id3">ALV X-1 hails from the US where the people are called Americans and where an ethnic group of Native Americans exist.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id62" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1079,7 +1079,7 @@
         <mtriple>AMC_Matador | assembly | "Australia"</mtriple>
         <mtriple>AMC_Matador | engine | AMC_V8_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AMC Matador, known also as the American Motors Matador, has an AMC V8 engine and was made in Austrailia.</lex>
+      <lex comment="good" lid="Id1" error_1="Australia">AMC Matador, known also as the American Motors Matador, has an AMC V8 engine and was made in Austrailia.</lex>
       <lex comment="good" lid="Id2">The AMC Matador, which is also known as American Motors Matador, was assembled in Australia and is equipped with an AMC V8 engine.</lex>
       <lex comment="good" lid="Id3">The AMC matador was assembled in Australia and has a AMC V8 engine. That vehicle is also known as the American Motors Matador.</lex>
     </entry>
@@ -1111,7 +1111,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador is assembled in Thames, New Zealand, has a AMC V8 engine, and an alternative name of VAM Classic.</lex>
       <lex comment="good" lid="Id2">The AMC Matador, which is also known as the VAM Classic, was assembled in Thames, New Zealand and is equipped with an AMC V8 engine.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador, or VAM Classic, with its AMC V 8 engine, is assembled in Thames, New Zealand.</lex>
+      <lex comment="good" lid="Id3" error_1="AMC V8 engine">The AMC Matador, or VAM Classic, with its AMC V 8 engine, is assembled in Thames, New Zealand.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id68" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1171,7 +1171,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Made in Mexico City, the AMC Matador was manufactured in 1971. It's related to the AMC Ambassador.</lex>
       <lex comment="good" lid="Id2">The AMC Matador was made in Mexico City in 1971. The AMC Matador and the AMC Ambassador are means of transportation.</lex>
-      <lex comment="good" lid="Id3">The AMC Matado, which has a 1971 model and is related to the AMC Ambassador, is assembled in Mexico City.</lex>
+      <lex comment="good" lid="Id3" error_1="AMC Matador">The AMC Matado, which has a 1971 model and is related to the AMC Ambassador, is assembled in Mexico City.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id72" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1249,9 +1249,9 @@
         <mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
         <mtriple>AMC_Matador | assembly | Australian_Motor_Industries</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador model was manufactured during 1971 by the Australian Motor Industry and is a similar means of transportation to the AMC Ambassador.</lex>
+      <lex comment="good" lid="Id1" error_1="Australian Motor Industries">The AMC Matador model was manufactured during 1971 by the Australian Motor Industry and is a similar means of transportation to the AMC Ambassador.</lex>
       <lex comment="good" lid="Id2">The AMC Matador was manufactured during 1971 by Australian Motor Industries. It is related to the AMC Ambassador.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador is assembled by the Australian Motor Industry including the year 1971. It is a relative means of transportation to the AMC Ambassador.</lex>
+      <lex comment="good" lid="Id3" error_1="Australian Motor Industries">The AMC Matador is assembled by the Australian Motor Industry including the year 1971. It is a relative means of transportation to the AMC Ambassador.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id77" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1298,8 +1298,8 @@
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | status | "Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000"</mtriple>
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ARA Veinticinco De mayo (V-2), from Argentina, has a ship beam of 24.4 and gave spare parts for the NaeL Minas Geraisand. The Veinticinco was thrown away in 2000.</lex>
-      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) is from Argentina and has a ship beam length of, 24.4. ARA Veinticinco de Mayo (V-2) has provided spare parts for NAeL Minas Geraisand with the remainder being scrapped in 2000.</lex>
+      <lex comment="good" lid="Id1" error_1="Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000">The ARA Veinticinco De mayo (V-2), from Argentina, has a ship beam of 24.4 and gave spare parts for the NaeL Minas Geraisand. The Veinticinco was thrown away in 2000.</lex>
+      <lex comment="good" lid="Id2" error_1="Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000">The ARA Veinticinco de Mayo (V-2) is from Argentina and has a ship beam length of, 24.4. ARA Veinticinco de Mayo (V-2) has provided spare parts for NAeL Minas Geraisand with the remainder being scrapped in 2000.</lex>
       <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo V-2 originated from Argentina and the ship's beam measures 24.4. It provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id80" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1345,7 +1345,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe, designed by Italy's Gruppo Bertone, was made by Abarth.</lex>
       <lex comment="good" lid="Id2">Abarth are the manufacturers of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone in Italy.</lex>
-      <lex comment="good" lid="Id3">Abarth is the manufacturer of the Abarth 1000 GT Coupé which was designed by the Italian founded Gruppo Bertone.</lex>
+      <lex comment="good" lid="Id3" error_1="Italy">Abarth is the manufacturer of the Abarth 1000 GT Coupé which was designed by the Italian founded Gruppo Bertone.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id83" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1394,7 +1394,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe was designed by Gruppo Bertone which was founded in Italy and is located in Turin.</lex>
       <lex comment="good" lid="Id2">Gruppo Bertone, founded in Turin, Italy, designed the Abarth 1000 GT Coupe.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id86" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
@@ -1621,7 +1621,7 @@
         <mtriple>Acura_TLX | engine | Inline-four_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acura is a division of the manufacturer, Honda, who produced the Acura TLX with an Inline-four engine.</lex>
-      <lex comment="good" lid="Id2">Acura is a division of Honda which makes the Acura TLX which has an inline four engine.</lex>
+      <lex comment="good" lid="Id2" error_1="Inline-four engine">Acura is a division of Honda which makes the Acura TLX which has an inline four engine.</lex>
       <lex comment="good" lid="Id3">Acura is a division of the Honda Co who makes the Acura TLX with an Inline-four engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id101" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1642,7 +1642,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acura is a division of the Honda Co. who manufactured the Acura TLX which has a V6 engine.</lex>
       <lex comment="good" lid="Id2">Acura is a division of the Honda Co. It manufactures the Acura TLX, which has a V6 engine.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id102" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Acura_TLX | manufacturer | Honda</otriple>
@@ -1713,7 +1713,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Finnish built icebreaker Aleksey Chirikov has a ship beam length of 21.2metres and was built at the Arctech Helsinki Shipyard.</lex>
+      <lex comment="good" lid="Id1" error_1="Finland">The Finnish built icebreaker Aleksey Chirikov has a ship beam length of 21.2metres and was built at the Arctech Helsinki Shipyard.</lex>
       <lex comment="good" lid="Id2">Aleksey Chirikov, an icebreaker, was made in Finland at the Arctech Helsinki Shipyard. Its ship beam is 21.2.</lex>
       <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov in Finland with a ship beam of 21.2.</lex>
     </entry>
@@ -1804,7 +1804,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arctech Helsinki Shipyard (in Helsinki) built the icebreaker, Aleksey Chirikov which is in service.</lex>
-      <lex comment="good" lid="Id2">The serving icebreaker Aleksey Chirikov was built by Arctech Kelsinki Shipyard in Helsinki.</lex>
+      <lex comment="good" lid="Id2" error_1="In service">The serving icebreaker Aleksey Chirikov was built by Arctech Kelsinki Shipyard in Helsinki.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksey Chirikov, which is still in service, was built at the Arctech Helsinki Shipyard in Helsinki.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1907,7 +1907,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, or "Alfa Romeo 168". is an executive car with a straight-four engine.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, also known as the Alfa Romeo 168, is an executive class car which has a straight-four engine.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164, or Alfa Romeo 168, a straight-four engine, is in the executive class.</lex>
+      <lex comment="good" lid="Id3" error_1="Executive car">The Alfa Romeo 164, or Alfa Romeo 168, a straight-four engine, is in the executive class.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id117" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1970,7 +1970,7 @@
         <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian assembled, The Alfa Romeo 164 is related to other cars such as the the Saab 9000 and Fiat Croma, all of which are similar means of transport.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian assembled, The Alfa Romeo 164 is related to other cars such as the the Saab 9000 and Fiat Croma, all of which are similar means of transport.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164 (assembled in Italy), the Saab 9000 and the Fiat Croma are similar means of transport.</lex>
       <lex comment="good" lid="Id3">The Italy assembled Alfa Romeo 164, the Fiat Croma and the Saab 9000 are all related.</lex>
     </entry>
@@ -2006,7 +2006,7 @@
         <mtriple>Milan | saint | Ambrose</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The assembly line of the Alfa Romeo 164, related to the Fiat Croma, is in Milan (whose saint is Ambrose).</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 163 and the Fiat Croma are both cars. The former was built in Milan whose saint is Ambrose.</lex>
+      <lex comment="good" lid="Id2" error_1="Alfa Romeo 164">The Alfa Romeo 163 and the Fiat Croma are both cars. The former was built in Milan whose saint is Ambrose.</lex>
       <lex comment="good" lid="Id3">The Fiat Croma is a similar vehicle to the Alfa Romeo 164 which is assembled in Milan whose patron saint is Ambrose.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2101,7 +2101,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alhambra has a Humphrys, Tennant, and Dykes power type. It is owned by the London-located P&amp;O company.</lex>
       <lex comment="good" lid="Id2">The Alhambra, located in London and owned by P&amp;O, is powered by a Humphrys, Tennant and Dykes engine.</lex>
-      <lex comment="good" lid="Id3">The Alhambra, owned by the London based P &amp; O Company, has a Humphrys, Tennant and Dykes engine.</lex>
+      <lex comment="good" lid="Id3" error_1="P&amp;O (company)">The Alhambra, owned by the London based P &amp; O Company, has a Humphrys, Tennant and Dykes engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id128" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2116,7 +2116,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Samuda Brothers built the Alhambra which is powered by a Humphrys, Tennant and Dykes engine who is located is Deptford.</lex>
       <lex comment="good" lid="Id2">The Samuda Brothers built the Alhambra which has a Humphrys, Tennant and Dykes power type from Deptford.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id129" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alhambra_(1855) | powerType | Humphrys,_Tennant_and_Dykes</otriple>
@@ -2158,7 +2158,7 @@
         <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
         <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alhambra is 6.38 metres long and has a Humphrys, Tennant and Dykes (of London) power type.</lex>
+      <lex comment="good" lid="Id1" error_1="63800.0 (millimetres)">The Alhambra is 6.38 metres long and has a Humphrys, Tennant and Dykes (of London) power type.</lex>
       <lex comment="good" lid="Id2">The Alhambra, which is 63800.0 mm long, is powered by the London based, Humphrys, Tennant and Dykes engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id132" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2178,8 +2178,8 @@
         <mtriple>Alhambra | topSpeed | 18.52</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alhambra, with a top speed of 18.52, is 63800.0 mm long and has an 8.3 m ship beam.</lex>
-      <lex comment="good" lid="Id2">The Alhambra is 638m long and has a ship beam of 8.3m and a top speed of 18.52.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="63800.0 (millimetres)">The Alhambra is 638m long and has a ship beam of 8.3m and a top speed of 18.52.</lex>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id133" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Alhambra_(1855) | shipBeam | "8.3"^^xsd:double</otriple>
@@ -2251,8 +2251,8 @@
         <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
         <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25, with a straight 6 engine, was made by the Alvis Car and Engineering Company founded in Coventry.</lex>
-      <lex comment="good" lid="Id2">Alvis Speed 25, with a straight six engine, was manufactured by the Alvis Car and Engineering Company in Coventry.</lex>
+      <lex comment="good" lid="Id1" error_1="Straight-six engine">The Alvis Speed 25, with a straight 6 engine, was made by the Alvis Car and Engineering Company founded in Coventry.</lex>
+      <lex comment="good" lid="Id2" error_1="Straight-six engine">Alvis Speed 25, with a straight six engine, was manufactured by the Alvis Car and Engineering Company in Coventry.</lex>
       <lex comment="good" lid="Id3">The Alvis Car and Engineering Company was founded in Coventry and manufactured the Alvis Speed 25 which has a straight-six engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id136" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2266,9 +2266,9 @@
         <mtriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</mtriple>
         <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 was built by the Coventry based Alvis Car and Enginerring Company which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id1" error_1="Alvis Car and Engineering Company">The Alvis Speed 25 was built by the Coventry based Alvis Car and Enginerring Company which was succeeded by the Rover Co.</lex>
       <lex comment="good" lid="Id2">Alvis Car and Engineering Company in Coventry was succeeded by The Rover Co., and manufactured the Alvis Speed 25.</lex>
-      <lex comment="good" lid="Id3">The Avis Car and Engineering Co., succeeded by The Rover Co., manufacture the Alvis Speed 25.</lex>
+      <lex comment="good" lid="Id3" error_1="Alvis Car and Engineering Company" error_2="Coventry" error_3="Rover Company">The Avis Car and Engineering Co., succeeded by The Rover Co., manufacture the Alvis Speed 25.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id137" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2326,8 +2326,8 @@
         <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A full-size car, the Alvis Speed 25, with its 31.48 tax hp engine, has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full size class car with an engine capable of producing 31.48 tax horsepower and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id3">The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission. It is a full size car.</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">The Alvis Speed 25 is a full size class car with an engine capable of producing 31.48 tax horsepower and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id3" error_1="Full-size car">The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission. It is a full size car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id139" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2340,7 +2340,7 @@
         <mtriple>Alvis_Speed_25 | wheelbase | 127.0 (inches)</mtriple>
         <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25, a full size car with a wheelbase of 127 inches, has a transmission system which comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propeller shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id1" error_1="Full-size car">The Alvis Speed 25, a full size car with a wheelbase of 127 inches, has a transmission system which comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propeller shaft with metal joints and spiral bevel fully floating back axle.</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 is classed as a Full-size car. It has a a wheelbase of 127 inches and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25 is classed as a Full-size car and has a wheelbase of 127 inches. It has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
     </entry>
@@ -2461,8 +2461,8 @@
         <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American submarine, NR-1, has a top speed of 8.334 km/h, a draft of 4.6 m, and a beam of 3.8 metres.</lex>
-      <lex comment="good" lid="Id2">The American sub NR-1 has a 3.8m ship beam, a 4.6m draft and a top speed of 8.334 km/h.</lex>
-      <lex comment="good" lid="Id3">The American submarine, NR-1; has a beam of 3.8 metres, a ship draft of 4.6m and a top speed of 8.334 km/h.</lex>
+      <lex comment="good" lid="Id2" error_1="4.6 m">The American sub NR-1 has a 3.8m ship beam, a 4.6m draft and a top speed of 8.334 km/h.</lex>
+      <lex comment="good" lid="Id3" error_1="4.6 m">The American submarine, NR-1; has a beam of 3.8 metres, a ship draft of 4.6m and a top speed of 8.334 km/h.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id145" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2560,7 +2560,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
         <mtriple>Antares_(rocket) | function | "Medium expendable launch system"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket is a medium expendable launch system built by Orbital ATK and launched at the Mid-Atlantic Regional Spaceport.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket is a medium expendable launch system built by Orbital ATK and launched at the Mid-Atlantic Regional Spaceport.</lex>
       <lex comment="good" lid="Id2">The Antares rocket function is a medium expendable launch system manufactured by Orbital ATK and was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id3">The Antares rocket built by Orbital ATK for medium expendable launch system and it was launched in Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
     </entry>
@@ -2595,7 +2595,7 @@
         <mtriple>Argentina | leaderName | Gabriela_Michetti</mtriple>
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) derives from Argentina where Gabriela Michetti is the leader and Beunos Aires the capital.</lex>
+      <lex comment="good" lid="Id1" error_1="Buenos Aires">The ARA Veinticinco de Mayo (V-2) derives from Argentina where Gabriela Michetti is the leader and Beunos Aires the capital.</lex>
       <lex comment="good" lid="Id2">Argentina, with its capital in Buenos Aires, is led by Gabriela Michetti and is home to the ARA Veinticinco de Mayo (V-2).</lex>
       <lex comment="good" lid="Id3">Argentina whose leader is Gabriela Michetti is where the ARA Veinticinco de Mayo (V-2) comes from. Buenos Aires is the capital of that country.</lex>
     </entry>
@@ -2656,7 +2656,7 @@
         <mtriple>Ariane_5 | finalFlight | 2004-12-18</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5, was manufactured by Airbus Defence and Space and its launch site was, ELA-3 launchpad. The final flight of the Ariane 5 was on 2004-12-18.</lex>
-      <lex comment="good" lid="Id2">Ariane 5, manufactured by The Airbus Defense and Space, has its launchpad at ELA-3. The Ariane 5 rocket had its final flight on 12/18/2004.</lex>
+      <lex comment="good" lid="Id2" error_1="Airbus Defence and Space">Ariane 5, manufactured by The Airbus Defense and Space, has its launchpad at ELA-3. The Ariane 5 rocket had its final flight on 12/18/2004.</lex>
       <lex comment="good" lid="Id3">The Ariane 5, which last flew from ELA-3 on 18th December 2004, was manufactured by Airbus Defence and Space.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id157" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2761,7 +2761,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arianespace, in Courcouronnes, operates ELA-3. Ariane was launched at the ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at ELA-3 which is operated by Arianespace, the location of which, is located in the city of Courcouronnes.</lex>
-      <lex comment="good" lid="Id3">Corcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane was launched.</lex>
+      <lex comment="good" lid="Id3" error_1="Courcouronnes">Corcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane was launched.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id164" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -2795,7 +2795,7 @@
         <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 has a 5.3 litre engine and is assembled in the United Kingdom. It is related to the Aston Martin RHAM/1.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 which is related to the Aston Martin RHAM/1 was assembled in the U.K and has an engine volume of 5.3 litres.</lex>
+      <lex comment="good" lid="Id2" error_1="United Kingdom">The Aston Martin V8 which is related to the Aston Martin RHAM/1 was assembled in the U.K and has an engine volume of 5.3 litres.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in the United Kingdom and has an engine volume of 5.3 litres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id166" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2889,9 +2889,9 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aston Mastin DBS, manufacturer of the Aston Martin, is a related mode of transport as the The Aston Martin V8, which was succeeded by the Aston Martin V8.</lex>
+      <lex comment="good" lid="Id1" error_1="Aston Martin Virage">Aston Mastin DBS, manufacturer of the Aston Martin, is a related mode of transport as the The Aston Martin V8, which was succeeded by the Aston Martin V8.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8, DBS and Virage are all cars and were manufactured by Aston Martin.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin V8, DBS and V irage are all related vehicles and are made by Aston Martin.</lex>
+      <lex comment="good" lid="Id3" error_1="Aston Martin Virage">The Aston Martin V8, DBS and V irage are all related vehicles and are made by Aston Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id172" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2921,7 +2921,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 was manufactured by Aston Martin, succeeded by the Aston Martin Virage, and is a related type of transportation as the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id2">Aston Martin Virage, manufactured by Aston Martin, succeeded Aston Martin V8, is similar to the Aston Martin DBS.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin Virage, made by Aston Martin, was succeeded by the Aston Martin Virage. It is similar to the Aston Martin DBS.</lex>
+      <lex comment="good" lid="Id3" error_1="Aston Martin V8">The Aston Martin Virage, made by Aston Martin, was succeeded by the Aston Martin Virage. It is similar to the Aston Martin DBS.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id174" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -2936,7 +2936,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin Virage succeeded the V8 and is related to the DBS. Aston Martin manufactures them all.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Virage, successor to the Aston Martin V8, was manufactured (and is relative to) the Aston Martin DBS.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin Virage, which was succeeded by the Aston Martin Vintage, is related to the Aston Martin DBS manufactured by Aston Martin.</lex>
+      <lex comment="good" lid="Id3" error_1="Aston Martin V8">The Aston Martin Virage, which was succeeded by the Aston Martin Vintage, is related to the Aston Martin DBS manufactured by Aston Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id175" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2956,7 +2956,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II is from the United States and its launch site is Vandenberg AFB Space Launch Complex 3, Cape Canaveral Air Force Station.</lex>
       <lex comment="good" lid="Id2">The Atlas II (from the United States) was launched from the Cape Canaveral Air Force Station at the Vandenberg AFB Space Launch Complex 3.</lex>
-      <lex comment="good" lid="Id3">The Atlas 11 comes from the Us and was launched from Cape Canaveral.</lex>
+      <lex comment="good" lid="Id3" error_1="Atlas II" error_2="Cape Canaveral Air Force Station" error_3="United States" error_4="Vandenberg AFB Space Launch Complex 3">The Atlas 11 comes from the Us and was launched from Cape Canaveral.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id176" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3030,7 +3030,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlass II is from the US where African Americans are an ethnic group and the leader is the President.</lex>
       <lex comment="good" lid="Id2">Atlas II comes from the US where the President is the leader and where the ethnic groups include African Americans.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id181" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Atlas_II | sites | Cape_Canaveral_Air_Force_Station</otriple>
@@ -3098,7 +3098,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 is assembled in Brussels, Belgium with a 1.2 litre engine and a 5-speed manual transmission.</lex>
       <lex comment="good" lid="Id2">Built in Brussels, Belgium, the Audi A1 has a 1.2 litre engine and a 5 speed manual transmission.</lex>
-      <lex comment="good" lid="Id3">The Brussels built Audi A1 has a 1.2 litre engine and a 5 speed transmission.</lex>
+      <lex comment="good" lid="Id3" error_1="Brussels, Belgium">The Brussels built Audi A1 has a 1.2 litre engine and a 5 speed transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id185" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3136,7 +3136,7 @@
         <mtriple>Audi | division | Audi_e-tron</mtriple>
         <mtriple>Audi | subsidiary | Quattro_GmbH</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 is manufactured by Audi which has a the e-tron division and has a subsidiary call The Quattro Gmbh.</lex>
+      <lex comment="good" lid="Id1" error_1="Audi e-tron">The Audi A1 is manufactured by Audi which has a the e-tron division and has a subsidiary call The Quattro Gmbh.</lex>
       <lex comment="good" lid="Id2">Audi make the Audi A1. The company has a division called Audi e-tron and a subsidiary called Quattro Gmbh.</lex>
       <lex comment="good" lid="Id3">The Audi A1 is manufactured by Audi, with Audi e-tron as a division and Quattro Gmbh as a subsidiary.</lex>
     </entry>
@@ -3212,7 +3212,7 @@
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Caterpillar, Inc. was founded in California, U.S. That company's engine powered the AIDAluna.</lex>
-      <lex comment="good" lid="Id2">Founded in the U.S. in California, the Caterpillar Co. built the engine that powered the AIDAluna.</lex>
+      <lex comment="good" lid="Id2" error_1="Caterpillar Inc.">Founded in the U.S. in California, the Caterpillar Co. built the engine that powered the AIDAluna.</lex>
       <lex comment="good" lid="Id3">Caterpillar Inc, founded in California and located in the U.S., power the AIDAluna.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id192" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3306,7 +3306,7 @@
         <mtriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</mtriple>
         <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The DeSoto is related to the Dodge Coronet and Desoto Custom which is made by the DeSoto co.</lex>
+      <lex comment="good" lid="Id1" error_1="1955 Dodge">The DeSoto is related to the Dodge Coronet and Desoto Custom which is made by the DeSoto co.</lex>
       <lex comment="good" lid="Id2">The DeSoto Custom was manufactured at DeSoto and is a a similar means of transportation as the Dodge Coronet and the 1955 Dodge.</lex>
       <lex comment="good" lid="Id3">The DeSoto Custom (made by DeSoto Custom) and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.</lex>
     </entry>
@@ -3327,7 +3327,7 @@
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Delta II (from the United States) was launched at Cape Canaveral Air Force Station and is comparable to the Antares rocket.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket is comparable with the US Delta 11 which was launched at the Cape Canaveral Air Force Station.</lex>
+      <lex comment="good" lid="Id2" error_1="Delta II">The Antares rocket is comparable with the US Delta 11 which was launched at the Cape Canaveral Air Force Station.</lex>
       <lex comment="good" lid="Id3">The Delta II from the United States is comparable with the rocket Antares and was launched at the Cape Canaveral Air Force Station.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id199" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3438,7 +3438,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 was assembled in Arese which is a related form of transportation to Fiat Croma and Opel Vectra.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164 was assembled in Arese. It is a related means of transportation to the Fiat Croma and Opel Vectra.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164, assembled in Arese, and the Fiat Croma, are similar modes of transportation.</lex>
+      <lex comment="good" lid="Id3" error_1="Opel Vectra">The Alfa Romeo 164, assembled in Arese, and the Fiat Croma, are similar modes of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id206" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3506,7 +3506,7 @@
         <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
         <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">General Dynamics is the parent company of the General Dynamics Electric Boat Co. which is located in Groton, CT. and which built the American submarine NR-1.</lex>
+      <lex comment="good" lid="Id1" error_1="Groton, Connecticut">General Dynamics is the parent company of the General Dynamics Electric Boat Co. which is located in Groton, CT. and which built the American submarine NR-1.</lex>
       <lex comment="good" lid="Id2">General Dynamics Electric Boat in Groton, Connecticut made the American sub NR-1. The parent co. of the GD Electric Boat is called General Dynamics.</lex>
       <lex comment="good" lid="Id3">The American submarine NR-1 was built by General Dynamics Electric Boat Co. found in Groton, Connecticut. The parent company of General Dynamics Electric Boat Co. is General Dynamics.</lex>
     </entry>
@@ -3617,8 +3617,8 @@
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">MTU Friedrichshafen of Friedrichshafen, owned by Rolls-Royce Holdings, manufactures the A-Rosa Luna engine.</lex>
-      <lex comment="good" lid="Id2">The A Rosa Luna is powered by a MTU Friedrichshafen engine. The latter company is owned by Roll Royce Holdings.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna is powered by an engine from MTU Friedrichshafen located in the city of Friedrichshafen and owned by Rolls Royce Holdings.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by a MTU Friedrichshafen engine. The latter company is owned by Roll Royce Holdings.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by an engine from MTU Friedrichshafen located in the city of Friedrichshafen and owned by Rolls Royce Holdings.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id216" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3631,7 +3631,7 @@
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolls Royce Power Systems parent company MTU located in Friedrichsafen produces the engines for the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id1" error_1="Friedrichshafen" error_2="MTU Friedrichshafen">Rolls Royce Power Systems parent company MTU located in Friedrichsafen produces the engines for the A-Rosa Luna.</lex>
       <lex comment="good" lid="Id2">Rolls Royce Power Systems is the parent company of MTU Friedrichshafen is in Friedrichshafen, whose engine powers the A-Rosa Luna.</lex>
       <lex comment="good" lid="Id3">MTU Friedrichshafen (Friedrichshafen) engines power the A-Rosa Luna and is the parent company of Rolls Royce Power Systems.</lex>
     </entry>
@@ -3651,7 +3651,7 @@
         <mtriple>MTU_Friedrichshafen | owner | Rolls-Royce_Holdings</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is powered by a MTU Friedrichshafen engine, the parent company of which, is Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1" error_1="Rolls-Royce Holdings">The A-Rosa Luna is powered by a MTU Friedrichshafen engine, the parent company of which, is Rolls Royce Power Systems.</lex>
       <lex comment="good" lid="Id2">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen. The latter is owned by the Rolls-Royce Holdings. The A-Rosa Luna has a MTU Friedrichshafen engine.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is owned by Rolls-Royce Holdings and Rolls Royce Power Systems is its parent company.</lex>
     </entry>
@@ -3667,7 +3667,7 @@
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A Rosa Luna is powered by a MTU Friedrichshafen engine. It was built by Neptun Werft in Rostock.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Weft in Rostock and is powered by a MTU Friedrichshafen engine.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft">The A-Rosa Luna was built by Neptun Weft in Rostock and is powered by a MTU Friedrichshafen engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id219" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

@@ -13,7 +13,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | mediaType | "Print"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634: The Bavarian Crisis can be located by its ISBN number "978-1-4165-4253-7". It is written by Virginia DeMarce and Eric Flint and was put in print.</lex>
-      <lex comment="good" lid="Id2">1634: The Bavarian Crisis was authored by Virginia DeMarce and Eric Flint and has a ISBN number of 978-1-4165-4253-7.</lex>
+      <lex comment="good" lid="Id2" error_1="Print">1634: The Bavarian Crisis was authored by Virginia DeMarce and Eric Flint and has a ISBN number of 978-1-4165-4253-7.</lex>
       <lex comment="good" lid="Id3">The ISBN number of 1634: The Bavarian Crisis is 978-1-4165-4253-7, it is written by Virginia DeMarce and Eric Flint and is available in print form.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -43,7 +43,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eric Flint is the author of 1634: The Ram Rebellion which has 512 pages and is available as an E-Book.</lex>
       <lex comment="good" lid="Id2">During 1634, Eric Flint wrote the RAM Rebellion which is 512 pages long and is of the media type E book.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>1634:_The_Ram_Rebellion | author | Eric_Flint</otriple>
@@ -131,7 +131,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDS journal was published by Lippincott Williams &amp; Wilkins in the United Kingdom where Elizabeth II is the leader.</lex>
-      <lex comment="good" lid="Id2">The AIDS journal is published by Lippincot Williams &amp; Wilkins and comes from the United Kingdom where Elizabeth II is the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Lippincott Williams &amp; Wilkins">The AIDS journal is published by Lippincot Williams &amp; Wilkins and comes from the United Kingdom where Elizabeth II is the leader.</lex>
       <lex comment="good" lid="Id3">The AIDS journal, which came from the United Kingdom in the reign of Elizabeth II, was published by Lippincott Williams and Wilkins.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -147,7 +147,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.T. Charlie Johnson, who lives in the US, is the editor of AIP Advances which is published by the American Institute of Physics.</lex>
       <lex comment="good" lid="Id2">A T Charlie Johnson resides in the United States and is the editor of AIP Advances which is published by the American Institute of Physics.</lex>
-      <lex comment="good" lid="Id3">A T Charlie Johnson lives in the US and is the editor of AIP Advances which was published by the American Institute of Physics.</lex>
+      <lex comment="good" lid="Id3" error_1="A.T. Charlie Johnson">A T Charlie Johnson lives in the US and is the editor of AIP Advances which was published by the American Institute of Physics.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -175,7 +175,7 @@
         <mtriple>AIP_Advances | abbreviation | "AIP Adv."</mtriple>
         <mtriple>AIP_Advances | CODEN_code | "AAIDBI"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIP Advances, or AIP Adv., has a CODEN of AAIDBI and is edited by A. T. Charlie Johnson.</lex>
+      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">AIP Advances, or AIP Adv., has a CODEN of AAIDBI and is edited by A. T. Charlie Johnson.</lex>
       <lex comment="good" lid="Id2">A T Charlie Johnson is the editor of AIP Advances which is abbreviated to AIP Adv and has a CODEN code of AAIDBI.</lex>
       <lex comment="good" lid="Id3">"AIP Adv." is the abbreviation of AIP Advances which is edited by A T Charlie Johnson and has the CODEN code AAIDBI.</lex>
     </entry>
@@ -241,7 +241,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press in the United States where Barack Obama is the president.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>A_Severed_Wasp | oclc | "8805735"</otriple>
@@ -372,7 +372,7 @@
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "0236-5294"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acta Mathematica Hungarica ISSN number is "0236-5294" and the abbreviation is Acta Math. Hungar. It comes under the academic discipline of Math.</lex>
+      <lex comment="good" lid="Id1" error_1="Mathematics">The Acta Mathematica Hungarica ISSN number is "0236-5294" and the abbreviation is Acta Math. Hungar. It comes under the academic discipline of Math.</lex>
       <lex comment="good" lid="Id2">The Acta Mathematica Hungarica has the ISSN number 0236-5294. It is also known as Acta Math. Hungar and it covers the academic discipline of Mathematics.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica (also known as Acta Math. Hungar), covers the academic discipline of Mathematics and has the ISSN number 0236-5294.</lex>
     </entry>
@@ -441,8 +441,8 @@
         <mtriple>Aenir | ISBN_number | "0-439-17684-0"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aenir has the ISBN number of "0-439-17684-0", it was written by Garth Nix and was produced in print.</lex>
-      <lex comment="good" lid="Id2">Garth Nix is the author of Aenir. It can be found by ISBN number 0-439-17684-0.</lex>
-      <lex comment="good" lid="Id3">Aenir was written by Garth Nix and has a ISBN number of 0-439-17684-0.</lex>
+      <lex comment="good" lid="Id2" error_1="Print">Garth Nix is the author of Aenir. It can be found by ISBN number 0-439-17684-0.</lex>
+      <lex comment="good" lid="Id3" error_1="Print">Aenir was written by Garth Nix and has a ISBN number of 0-439-17684-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -549,5 +549,5 @@
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is from The United States where English is spoken and the Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians comes from the United States where English is the primary language. Additionally, Asian Americans is one of the ethnic groups in the United States.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

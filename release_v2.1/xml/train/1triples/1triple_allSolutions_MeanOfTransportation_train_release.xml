@@ -77,8 +77,8 @@
         <mtriple>1955_Dodge | engine | Straight-six_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dodge 1955 has a straight-six engine.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge has a straight six engine.</lex>
-      <lex comment="good" lid="Id3">There is a straight- six engine in the 1955 Dodge car.</lex>
+      <lex comment="good" lid="Id2" error_1="Straight-six engine">The 1955 Dodge has a straight six engine.</lex>
+      <lex comment="good" lid="Id3" error_1="Straight-six engine">There is a straight- six engine in the 1955 Dodge car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -133,7 +133,7 @@
       <modifiedtripleset>
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1955 Dodge has a 3 speed automatic transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="3-speed automatic">The 1955 Dodge has a 3 speed automatic transmission.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge uses a 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge has a 3-speed automatic transmission.</lex>
     </entry>
@@ -155,7 +155,7 @@
       <modifiedtripleset>
         <mtriple>A-Rosa_Luna | builder | "Neptun Werft, Warnemünde,"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, Warnemunde.</lex>
+      <lex comment="good" lid="Id1" error_1="Neptun Werft, Warnemunde,">The A-Rosa Luna was built by Neptun Werft, Warnemunde.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Werft, Warnemünde.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
@@ -275,7 +275,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna has a 2 × MTU 16V 2000 M60 engine.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna ship has a 2 × MTU 16V 2000 M60 engine.</lex>
-      <lex comment="good" lid="Id3">The powering of the A-Rosa Luna is the "2xMTU 16V 2000 M60 engine".</lex>
+      <lex comment="good" lid="Id3" error_1="2 x MTU 16V 2000 M60 engine">The powering of the A-Rosa Luna is the "2xMTU 16V 2000 M60 engine".</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -476,7 +476,7 @@
         <mtriple>AIDAstella | shipClass | "Sphinx-class cruise ship"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella is a Sphinx-class cruise ship.</lex>
-      <lex comment="good" lid="Id2">AIDAstella is a "Sphinx-class" cruise ship.</lex>
+      <lex comment="good" lid="Id2" error_1="Sphinx-class cruise ship">AIDAstella is a "Sphinx-class" cruise ship.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id44" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -712,7 +712,7 @@
       <modifiedtripleset>
         <mtriple>AMC_Matador | assembly | Australian_Motor_Industries</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is assembled by the Australian Motor Industry.</lex>
+      <lex comment="good" lid="Id1" error_1="Australian Motor Industries">The AMC Matador is assembled by the Australian Motor Industry.</lex>
       <lex comment="good" lid="Id2">The AMC Matador's is assembled by the Australian Motor Industries.</lex>
       <lex comment="good" lid="Id3">The AMC Matador was assembled by Australian Motor Industries.</lex>
     </entry>
@@ -743,7 +743,7 @@
       <modifiedtripleset>
         <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is assembled at Port Melboune, Victoria.</lex>
+      <lex comment="good" lid="Id1" error_1="Port Melbourne, Victoria">The AMC Matador is assembled at Port Melboune, Victoria.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Port Melbourne, Victoria.</lex>
       <lex comment="good" lid="Id3">The assembly line on the AMC Matador is in Port Melbourne, Victoria.</lex>
     </entry>
@@ -797,7 +797,7 @@
         <mtriple>AMC_Matador | class | Full-size_car</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador is considered a full-size car.</lex>
-      <lex comment="good" lid="Id2">AMC Matador is a full size class of car.</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">AMC Matador is a full size class of car.</lex>
       <lex comment="good" lid="Id3">The AMC Matador is a Full-size car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
@@ -932,7 +932,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) provided spare parts for NaeL Minas Geraisand and the remainder was scrapped in 2000.</lex>
       <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000.</lex>
-      <lex comment="good" lid="Id3">ARA Veinticinco de Mayo (V-2) has provided spare parts for NAeL Minas Geraisand with the remainder being scrapped in 2000.</lex>
+      <lex comment="good" lid="Id3" error_1="Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000">ARA Veinticinco de Mayo (V-2) has provided spare parts for NAeL Minas Geraisand with the remainder being scrapped in 2000.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id86" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1160,7 +1160,7 @@
         <mtriple>Acura_TLX | layout | Front-wheel_drive</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX has a front-wheel drive.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is a front wheel drive vehicle.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-wheel drive">The Acura TLX is a front wheel drive vehicle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1184,7 +1184,7 @@
         <mtriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Airbus Group is the parent company of Airbus Defence and Space.</lex>
-      <lex comment="good" lid="Id2">Airbus Group is the parent company of Airbus Defence &amp; Space.</lex>
+      <lex comment="good" lid="Id2" error_1="Airbus Defence and Space">Airbus Group is the parent company of Airbus Defence &amp; Space.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1414,7 +1414,7 @@
       <modifiedtripleset>
         <mtriple>Alfa_Romeo_164 | transmission | "6-speed manual (Getrag)"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romero 164 has a 6-speed manual Getrag transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="Alfa Romeo 164">The Alfa Romero 164 has a 6-speed manual Getrag transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1440,7 +1440,7 @@
       <modifiedtripleset>
         <mtriple>Alhambra | owner | P&amp;O_(company)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alhambra is owned by the P &amp; O company.</lex>
+      <lex comment="good" lid="Id1" error_1="P&amp;O (company)">Alhambra is owned by the P &amp; O company.</lex>
       <lex comment="good" lid="Id2">The Alhambra is owned by P&amp;O.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
@@ -1513,7 +1513,7 @@
         <mtriple>Alvis_Car_and_Engineering_Company | locationCity | Coventry</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Car and Engineering Company is located in Coventry.</lex>
-      <lex comment="good" lid="Id2">The Alvis Car and Engineering Co. is located in Coventry.</lex>
+      <lex comment="good" lid="Id2" error_1="Alvis Car and Engineering Company">The Alvis Car and Engineering Co. is located in Coventry.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id140" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1522,7 +1522,7 @@
       <modifiedtripleset>
         <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Rover Co. succeeded the Alvis Car and Engineering Co.</lex>
+      <lex comment="good" lid="Id1" error_1="Alvis Car and Engineering Company" error_2="Rover Company">The Rover Co. succeeded the Alvis Car and Engineering Co.</lex>
       <lex comment="good" lid="Id2">The Alvis Car and Engineering Company was succeeded by the Rover Company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id141" shape="(X (X))" shape_type="NA" size="1">
@@ -1543,7 +1543,7 @@
         <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 is classed as a Full-size car.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full size class car.</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">The Alvis Speed 25 is a full size class car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id143" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1633,7 +1633,7 @@
         <mtriple>American_Locomotive_Company | locationCountry | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Locomotive Company is located in the United States.</lex>
-      <lex comment="good" lid="Id2">The American Locomotive Co. is located in the U.S.</lex>
+      <lex comment="good" lid="Id2" error_1="American Locomotive Company">The American Locomotive Co. is located in the U.S.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2136,7 +2136,7 @@
         <mtriple>Aston_Martin_V8 | bodyStyle | Coupé</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8's body style is the Coupé.</lex>
-      <lex comment="good" lid="Id2">The body style of the Astom Martin V8 is a coupe.</lex>
+      <lex comment="good" lid="Id2" error_1="Aston Martin V8">The body style of the Astom Martin V8 is a coupe.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is a Coupe.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
@@ -2345,7 +2345,7 @@
       <modifiedtripleset>
         <mtriple>Audi_A1 | class | Supermini</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 is classed as a super mini.</lex>
+      <lex comment="good" lid="Id1" error_1="Supermini">The Audi A1 is classed as a super mini.</lex>
       <lex comment="good" lid="Id2">The Audi A1 is classed as a supermini.</lex>
       <lex comment="good" lid="Id3">Audi A1 belongs to the supermini class.</lex>
     </entry>
@@ -2367,8 +2367,8 @@
         <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 has a front-engine, front-wheel-drive layout.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 has a front engine, front-wheel drive layout.</lex>
-      <lex comment="good" lid="Id3">Audi A1 has a front-engine with front-wheel-drive.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout">The Audi A1 has a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id3" error_1="Front-engine, front-wheel-drive layout">Audi A1 has a front-engine with front-wheel-drive.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2392,7 +2392,7 @@
         <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 and Volkswagen Polo are related kinds of transportation.</lex>
-      <lex comment="good" lid="Id2">The Audi A1 is a related vehicle to the VW Polo.</lex>
+      <lex comment="good" lid="Id2" error_1="Volkswagen Polo">The Audi A1 is a related vehicle to the VW Polo.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id220" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2411,7 +2411,7 @@
       <modifiedtripleset>
         <mtriple>Audi_A1 | transmission | "6-speed manual"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 has a 6 speed manual gearbox.</lex>
+      <lex comment="good" lid="Id1" error_1="6-speed manual">The Audi A1 has a 6 speed manual gearbox.</lex>
       <lex comment="good" lid="Id2">The Audi A1 has a 6-speed manual transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
@@ -2493,7 +2493,7 @@
       <modifiedtripleset>
         <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The DeSoto is related to the Dodge Coronet.</lex>
+      <lex comment="good" lid="Id1" error_1="DeSoto Custom">The DeSoto is related to the Dodge Coronet.</lex>
       <lex comment="good" lid="Id2">The DeSoto Custom and the Dodge Coronet are similar means of transport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
@@ -2662,7 +2662,7 @@
         <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">General Dynamics Electric Boat are located in the city of Groton, Connecticut.</lex>
-      <lex comment="good" lid="Id2">The General Dynamics Electric Boat is located in Groton, CT.</lex>
+      <lex comment="good" lid="Id2" error_1="Groton, Connecticut">The General Dynamics Electric Boat is located in Groton, CT.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id244" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2767,7 +2767,7 @@
         <mtriple>Gruppo_Bertone | locationCountry | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gruppo Bertone is located in Italy.</lex>
-      <lex comment="good" lid="Id2">Gruppo Bertone is an Italian company.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Gruppo Bertone is an Italian company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id253" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2842,7 +2842,7 @@
         <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes is located in Deptford.</lex>
-      <lex comment="good" lid="Id2">Humphrys, Tennant &amp; Dykes is in Deptford.</lex>
+      <lex comment="good" lid="Id2" error_1="Humphrys, Tennant and Dykes">Humphrys, Tennant &amp; Dykes is in Deptford.</lex>
       <lex comment="good" lid="Id3">Humphrys, Tennant and Dykes are located in Deptford.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id260" shape="(X (X))" shape_type="NA" size="1">
@@ -2930,7 +2930,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
       <lex comment="good" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
-      <lex comment="good" lid="Id3">The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad O.</lex>
+      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad O.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id268" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3110,7 +3110,7 @@
         <mtriple>Spaceport_Florida_Launch_Complex_36 | operator | United_States_Air_Force</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spaceport Florida Launch Complex 36 is operated by the United States Air Force.</lex>
-      <lex comment="good" lid="Id2">The Spaceport Florida Launch Complex 36 is operated by the U.S. Air Force.</lex>
+      <lex comment="good" lid="Id2" error_1="United States Air Force">The Spaceport Florida Launch Complex 36 is operated by the U.S. Air Force.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id285" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3226,8 +3226,8 @@
         <mtriple>Vandenberg_Air_Force_Base | location | Lompoc,_California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Vandenberg Air Force Base is located in Lompoc, California.</lex>
-      <lex comment="good" lid="Id2">The Vandenberg Air Force Base is in Lompoc, CA.</lex>
-      <lex comment="good" lid="Id3">Vandenberg Air Force is located in Lompoc, California.</lex>
+      <lex comment="good" lid="Id2" error_1="Lompoc, California">The Vandenberg Air Force Base is in Lompoc, CA.</lex>
+      <lex comment="good" lid="Id3" error_1="Vandenberg Air Force Base">Vandenberg Air Force is located in Lompoc, California.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id296" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

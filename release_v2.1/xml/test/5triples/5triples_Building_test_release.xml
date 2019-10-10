@@ -50,7 +50,7 @@
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction of 250 Delaware Avenue, Buffalo, New York, began in January 2014 in the postmodernist style of architecture. The building has 12 floors with a total area of 30843.8 square metres.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id3" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
@@ -238,7 +238,7 @@
         <mtriple>Japan | leaderName | Tarō_Asō</mtriple>
         <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Chinese are one of the ethnic groups in Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art found in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id1" error_1="Chinese people in Japan">The Chinese are one of the ethnic groups in Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art found in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">Tarō Asō is one of the leaders in Japan, A country where there is an ethnic group of Chinese people. Also where the Akita Museum of Art is located, in Akita which is part of Akita Prefecture.</lex>
       <lex comment="good" lid="Id3">The Chinese people are an ethnic group of Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
     </entry>
@@ -259,7 +259,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall was designed by Robert A.M. Stern; it is located in Virginia and it is owned by the College of William and Mary. Its current tenants are the Mason School of Business in the US.</lex>
       <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall, which was designed by Robert A.M. Stern. Situated in Virginia, it has as its tenants United States based Mason School of Business.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id12" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
@@ -332,8 +332,8 @@
         <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan, who was born in San Francisco, was the architect of Asilomar Conference Grounds, the Los Angeles Herald examiner building (a landmark in California), Hearst Castle and the Asilomar State Beach.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Los Angeles Herald-Examiner">Julia Morgan, who was born in San Francisco, was the architect of Asilomar Conference Grounds, the Los Angeles Herald examiner building (a landmark in California), Hearst Castle and the Asilomar State Beach.</lex>
+    </entry>
     <entry category="Building" eid="Id16" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
@@ -394,9 +394,9 @@
         <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
         <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Madin, the architect who designed 103 Colmore Row, was born in Birmingham. The postal code of that area is B. and the governing body is the Birmingham City Council. Labour politician, John Clancy is the leader the area.</lex>
+      <lex comment="good" lid="Id1" error_1="B postcode area">John Madin, the architect who designed 103 Colmore Row, was born in Birmingham. The postal code of that area is B. and the governing body is the Birmingham City Council. Labour politician, John Clancy is the leader the area.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham, with the postcode area 'B'. Labour politician, John Clancy is the city's leader, and the local governing body is Birmingham City Council.</lex>
-      <lex comment="good" lid="Id3">The City Council, led by labour politician John Clancy, is the governing body for Birmingham. The city (which uses the B Postcode) is the birthplace of the architect John Madin who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id3" error_1="B postcode area">The City Council, led by labour politician John Clancy, is the governing body for Birmingham. The city (which uses the B Postcode) is the birthplace of the architect John Madin who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -422,6 +422,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue can be found in the United States, where the leader is Barack Obama and he has the title President of the United States. John Roberts is a leader in the US and the capital of the country is Washington DC.</lex>
       <lex comment="good" lid="Id2">The title of the leader of the United States is the President of the United States, and the leader was Barack Obama. John Roberts is a leader in the US. The capital of the US is Washington DC, and 250 Delaware Avenue is located in the US.</lex>
-      </entry>
-    </entries>
+    </entry>
+  </entries>
 </benchmark>

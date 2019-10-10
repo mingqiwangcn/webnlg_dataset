@@ -44,7 +44,7 @@
       <lex comment="good" lid="Id5">Buzz Aldrin was born on 1930-01-20 in Glen Ridge New Jersey.</lex>
       <lex comment="good" lid="Id6">Buzz Aldrin was born on 1930-01-20 in Glen Ridge, New Jersey.</lex>
       <lex comment="good" lid="Id7">Buzz Aldrin was born on 1930-01-20, in Glen Ridge, New Jersey.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
@@ -84,5 +84,5 @@
       <lex comment="good" lid="Id2">William Anders, who received a M.S from his alma Mater, AFIT, in 1962, is retired.</lex>
       <lex comment="good" lid="Id3">William Anders has since retired, but In 1962 he received a M.S. from his alma Mater, AFIT.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

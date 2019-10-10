@@ -139,7 +139,7 @@
         <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The owner of 3Arena is Live Nation Entertainment which is located in Dublin, Ireland.</lex>
+      <lex comment="good" lid="Id1" error_1="Republic of Ireland">The owner of 3Arena is Live Nation Entertainment which is located in Dublin, Ireland.</lex>
       <lex comment="good" lid="Id2">3Arena is owned by Live Nation Entertainment, and is located in Dublin, Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">3Arena in Dublin, Republic of Ireland is owned by Live Nation Entertainment.</lex>
     </entry>
@@ -156,7 +156,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen, Denmark, which was designed by the architects of the 3XN firm.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky is in Copenhagen, Denmark, Marriott International Hotel because 3XN was the architect.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Adare_Manor | completionDate | 1862</otriple>
@@ -213,7 +213,7 @@
         <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.</lex>
+      <lex comment="good" lid="Id1" error_1="Tudor Revival architecture">The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.</lex>
       <lex comment="good" lid="Id2">Adisham Hall, completed in 1931 and located in Sri Lanka, is in the Tudor Revival architecture style.</lex>
       <lex comment="good" lid="Id3">Adisham Hall, with its Tudor Revival style of architecture, was built in 1931 in Sri Lanka.</lex>
     </entry>
@@ -272,7 +272,7 @@
         <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
         <mtriple>Akita,_Akita | country | Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Akita Museum or art is located in Akita, within the Akita Prefecture, Japan.</lex>
+      <lex comment="good" lid="Id1" error_1="Akita Museum of Art">The Akita Museum or art is located in Akita, within the Akita Prefecture, Japan.</lex>
     </entry>
     <entry category="Building" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -302,7 +302,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Robert Gates is the chancellor of The College of William and Mary which is owned by Alan B Miller Hall and is located in Virginia.</lex>
       <lex comment="good" lid="Id2">Alan B. Miller Hall, located in Virginia, is owned by The College of William and Mary; whose chancellor is Robert Gates.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
@@ -392,7 +392,7 @@
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asher and Mary Isabelle Richardson House located on US Route 83 and built in 1911 was added to the National Register of Historic Places, on 22nd November 1988.</lex>
-      <lex comment="good" lid="Id2">The Asher and Mary Isabelle Robinson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.</lex>
+      <lex comment="good" lid="Id2" error_1="Asher and Mary Isabelle Richardson House">The Asher and Mary Isabelle Robinson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.</lex>
       <lex comment="good" lid="Id3">The Asher and Mary Isabelle Richardson House on U.S. Route 83 was constructed in 1911 and added to the National Register of Historic Places on 22 November 1988.</lex>
     </entry>
     <entry category="Building" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -462,6 +462,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in India where T S Thakur and Sumitra Mahajan are leaders.</lex>
-      </entry>
-    </entries>
+    </entry>
+  </entries>
 </benchmark>

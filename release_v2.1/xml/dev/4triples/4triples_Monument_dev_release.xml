@@ -33,7 +33,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County, Pennsylvania, with Franklin County to its west and Carroll County, Maryland to its southeast.</lex>
       <lex comment="good" lid="Id2">Pennsylvania's Franklin County is found to the west of Adams County while Carroll County Maryland is southeast of Adams County Pennsylvania. The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and falls under the category of Contributing property.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id3" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Azerbaijan | capital | Baku</otriple>
@@ -49,7 +49,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baku, the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army killed in the Battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and is located in Azerbaijan's capital Baku. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
-      <lex comment="good" lid="Id3">Baku is the capital of Azerbaijan and the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id3" error_1="Ottoman Army soldiers killed in the Battle of Baku">Baku is the capital of Azerbaijan and the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
     </entry>
     <entry category="Monument" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -102,5 +102,5 @@
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, and is located in Azerbaijan, which is led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
       <lex comment="good" lid="Id3">Artur Rasizade is the Prime Minister of Azerbaijan. Azerbaijan is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

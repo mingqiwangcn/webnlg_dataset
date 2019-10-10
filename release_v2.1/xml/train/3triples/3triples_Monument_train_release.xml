@@ -29,7 +29,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, categorized as a Contributing Property, is located in Adams County, Pennsylvania, US.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania in the United States, and falls under the category of Contributing property.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
@@ -87,7 +87,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, in the municipality of Gettysburg Pennsylvania, falls under the category of Contributing property.</lex>
       <lex comment="good" lid="Id2">Gettysburg, Pennsylvania is the location of the 11th Mississippi Infantry monument which falls under the category of contributing property.</lex>
-      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument, located in Gettysbury in the state of Pennsylvania, is categorised as a contributing property.</lex>
+      <lex comment="good" lid="Id3" error_1="Gettysburg, Pennsylvania">The 11th Mississippi Infantry Monument, located in Gettysbury in the state of Pennsylvania, is categorised as a contributing property.</lex>
     </entry>
     <entry category="Monument" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -115,7 +115,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 14th New Jersey Infantry Monument which is located in the Monocacy National Battlefield was established on 11 July 1907. It falls within the category of Historic districts in the US.</lex>
+      <lex comment="good" lid="Id1" error_1="14th New Jersey Volunteer Infantry Monument">The 14th New Jersey Infantry Monument which is located in the Monocacy National Battlefield was established on 11 July 1907. It falls within the category of Historic districts in the US.</lex>
       <lex comment="good" lid="Id2">Monocacy National Battlefield is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907 and belongs to the category of historic districts in the US.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the Monocacy National Battlefield. being a historic district in the United States.</lex>
     </entry>
@@ -189,7 +189,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is contained within the category of Contributing property and is located in Adams County, Pennsylvania. Adams County is south of Cumberland County, Pennsylvania.</lex>
       <lex comment="good" lid="Id2">Cumberland County is located to the north of Adams County, Pennsylvania where the 11th Mississippi Infantry monument is located and categorised as contributing property.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
@@ -202,7 +202,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carroll County Maryland is located to the southeast of Adams County, Pennsylvania where the 11th Mississippi Infantry Monument is located. The monument is categorised as a contributing property.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, a contributing property, is located in Adams County, Pennsylvania, which has Carroll County to its southeast.</lex>
+      <lex comment="good" lid="Id2" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument, a contributing property, is located in Adams County, Pennsylvania, which has Carroll County to its southeast.</lex>
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument, located in Adams County, Pennsylvania, northwest of Carroll County, Maryland is categorised as a contributing property.</lex>
     </entry>
     <entry category="Monument" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -216,8 +216,8 @@
         <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylania. Adams County is to the north west of Carroll County, Maryland.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County Pennsylvania, with Carroll County to the southeast.</lex>
+      <lex comment="good" lid="Id1" error_1="Adams County, Pennsylvania">The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylania. Adams County is to the north west of Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id2" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County Pennsylvania, with Carroll County to the southeast.</lex>
     </entry>
     <entry category="Monument" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -230,9 +230,9 @@
         <mtriple>Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll County to its southeast and Cumberland County at its north.</lex>
+      <lex comment="good" lid="Id1" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll County to its southeast and Cumberland County at its north.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll county, Maryland to its southeast and Cumberland county, Pennsylvania to its north.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
@@ -258,7 +258,7 @@
         <mtriple>Turkey | capital | Ankara</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atatürk Monument (İzmir) was designed by Pietro Canonnica, and can be found in Turkey, where the capital is Ankara.</lex>
+      <lex comment="good" lid="Id1" error_1="Pietro Canonica">The Atatürk Monument (İzmir) was designed by Pietro Canonnica, and can be found in Turkey, where the capital is Ankara.</lex>
       <lex comment="good" lid="Id2">Pietro Canonica is the designer of the Ataturk Monument (Izmir) in Turkey, where the capital is Ankara.</lex>
     </entry>
     <entry category="Monument" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -316,8 +316,8 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
         <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Turkish martyrs memorial is located in Baku, Azerbaijan, which has Artur Rasizade as its Prime Minister and leader.</lex>
-      <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade.</lex>
+      <lex comment="good" lid="Id1" error_1="Prime Minister of Azerbaijan">The Turkish martyrs memorial is located in Baku, Azerbaijan, which has Artur Rasizade as its Prime Minister and leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Prime Minister of Azerbaijan">The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade.</lex>
     </entry>
     <entry category="Monument" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -390,7 +390,7 @@
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dead Man's Plack in England, made with rock, is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
-      <lex comment="good" lid="Id2">Dead Man's Plack in England is made of rock and dedicated to Ethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id2" error_1="AEthelwald, Ealdorman of East Anglia">Dead Man's Plack in England is made of rock and dedicated to Ethelwald, Ealdorman of East Anglia.</lex>
     </entry>
     <entry category="Monument" eid="Id28" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -403,7 +403,7 @@
         <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
         <mtriple>England | languages | Cornish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dead Man's Plack, which is located in England is dedicated to Ethelwald, Ealdorman of East Anglia. England is also home of the Cornish language which is still spoken.</lex>
+      <lex comment="good" lid="Id1" error_1="AEthelwald, Ealdorman of East Anglia">Dead Man's Plack, which is located in England is dedicated to Ethelwald, Ealdorman of East Anglia. England is also home of the Cornish language which is still spoken.</lex>
       <lex comment="good" lid="Id2">The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where one of the languages spoken is Cornish (in the Cornwall region).</lex>
       <lex comment="good" lid="Id3">The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where the Cornish language is spoken.</lex>
     </entry>
@@ -432,7 +432,7 @@
         <mtriple>England | capital | London</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups in England is the British Arabs. The capital of England is London and England is also the home of Dead Mans Plack.</lex>
-      <lex comment="good" lid="Id2">The British Arabs, an English ethnic group, went to visit the DeadMan's Plack, a monument near the capital city of London.</lex>
+      <lex comment="good" lid="Id2" error_1="Dead Man's Plack" error_2="England">The British Arabs, an English ethnic group, went to visit the DeadMan's Plack, a monument near the capital city of London.</lex>
       <lex comment="good" lid="Id3">The Dead Man's Plack is located in England whose capital is London; the British Arabs are an English ethnic group.</lex>
     </entry>
     <entry category="Monument" eid="Id31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -477,7 +477,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frederick Maryland is the location of the Monocacy National Battlefield. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument and is categorised as a historic district of the US.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, a historical district in the United States, is located in the district of the Monocracy National Battlefield in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id2" error_1="Monocacy National Battlefield">The 14th New Jersey Volunteer Infantry Monument, a historical district in the United States, is located in the district of the Monocracy National Battlefield in Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument, located on the Monocacy National Battlefield in Frederick County, Maryland, is categorised as a historic district in the United States.</lex>
     </entry>
     <entry category="Monument" eid="Id34" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -493,7 +493,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frederick Maryland is the nearest city to the Monocacy National Battlefields. This district is the location of the 14th New Jersey Volunteer Infantry Monument.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Turkey | capital | Ankara</otriple>
@@ -535,7 +535,7 @@
         <mtriple>Turkey | currency | Turkish_lira</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Turkey's largest city is Istanbul, its currency is the lira and it has the Ataturk Monument in Izmir.</lex>
+      <lex comment="good" lid="Id1" error_1="Turkish lira">Turkey's largest city is Istanbul, its currency is the lira and it has the Ataturk Monument in Izmir.</lex>
       <lex comment="good" lid="Id2">Istanbul is the largest city in Turkey but the Ataturk monument is located in Izmir. The Turkish currency is known as the Turkish lira.</lex>
     </entry>
     <entry category="Monument" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -578,7 +578,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ataturk Monument (Izmir) is located in Turkey, where the leader is Ahmet Davutoglu and the currency is the Turkish Lira.</lex>
-      <lex comment="good" lid="Id2">The Atatürk Monument is located in İzmir, Turkey, where the leader is Ahmet Davutoğlu and the currency is the lira.</lex>
+      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument is located in İzmir, Turkey, where the leader is Ahmet Davutoğlu and the currency is the lira.</lex>
     </entry>
     <entry category="Monument" eid="Id41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

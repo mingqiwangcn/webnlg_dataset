@@ -76,9 +76,9 @@
         <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
         <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
-      <lex comment="good" lid="Id2">The comic character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Ernie Colon, who is a Puerto Rican national.</lex>
-      <lex comment="good" lid="Id3">Larry Bolatinsky is the alternative name for the comic character, Bolt. It was created by the Puerto Rican national Ernie Colon and the comic book writer, Gary Cohn.</lex>
+      <lex comment="good" lid="Id1" error_1="Puerto Ricans">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="good" lid="Id2" error_1="Puerto Ricans">The comic character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Ernie Colon, who is a Puerto Rican national.</lex>
+      <lex comment="good" lid="Id3" error_1="Puerto Ricans">Larry Bolatinsky is the alternative name for the comic character, Bolt. It was created by the Puerto Rican national Ernie Colon and the comic book writer, Gary Cohn.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

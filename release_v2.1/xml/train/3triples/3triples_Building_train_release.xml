@@ -29,7 +29,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Madin was born in Birmingham (with Andrew Mitchell as a key leader) and became an architect, designing 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">Andrew Mitchell is a leader in Birmingham where the architect John Madin who designed 103 Colmore Row was born.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id3" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>103_Colmore_Row | architect | John_Madin</otriple>
@@ -225,7 +225,7 @@
         <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace which has 50 floors, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2">108 St Georges Terrace has 50 floors and was completed in 1988 at a cost of 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)">108 St Georges Terrace has 50 floors and was completed in 1988 at a cost of 120m Australian dollars.</lex>
       <lex comment="good" lid="Id3">108 St. Georges Terrace cost 120 million AUD, has a floor count of 50 and was completed in 1988.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -265,7 +265,7 @@
         <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St. Georges Terrace, completed in 1988, is located in Perth, Australia.</lex>
-      <lex comment="good" lid="Id2">108 St. George's Terrace was completed in 1988 in Perth, Australia.</lex>
+      <lex comment="good" lid="Id2" error_1="108 St Georges Terrace">108 St. George's Terrace was completed in 1988 in Perth, Australia.</lex>
     </entry>
     <entry category="Building" eid="Id14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -283,8 +283,8 @@
         <mtriple>Perth | country | Australia</mtriple>
         <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">108 St Georges Terrace has a floor area of 39599.0 square metres and is located in Perth, Australia.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="39500.0 (square metres)">108 St Georges Terrace has a floor area of 39599.0 square metres and is located in Perth, Australia.</lex>
+    </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>108_St_Georges_Terrace | location | Perth</otriple>
@@ -353,7 +353,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street, with 20 floors, was designed by Helmut Jahn and completed in 1983.</lex>
       <lex comment="good" lid="Id2">Helmut Jahn was the architect of 11 Diagonal Street which was completed in 1983 and has 20 floors.</lex>
-      <lex comment="good" lid="Id3">Helmut Jan designed 11 Diagonal Street which was completed in 1983 and has 20 floors.</lex>
+      <lex comment="good" lid="Id3" error_1="Helmut Jahn">Helmut Jan designed 11 Diagonal Street which was completed in 1983 and has 20 floors.</lex>
     </entry>
     <entry category="Building" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -397,7 +397,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street is in South Africa. Cape Town is the capital city and its leader is Jacob Zuma.</lex>
       <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa, of which the capital is Cape Town and the leader is Jacob Zuma.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>11_Diagonal_Street | location | South_Africa</otriple>
@@ -409,7 +409,7 @@
         <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
         <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cyril Ramaphose is one leader of South Africa, where Asian South Africans reside at 11 Diagonal Street.</lex>
+      <lex comment="good" lid="Id1" error_1="Cyril Ramaphosa">Cyril Ramaphose is one leader of South Africa, where Asian South Africans reside at 11 Diagonal Street.</lex>
       <lex comment="good" lid="Id2">The Asian South Africans group, under leadership of Cyril Ramaphosa, is located at 11 Diagonal Street in South Africa.</lex>
       <lex comment="good" lid="Id3">The address, 11 Diagonal Street is located in South Africa where the leader is Cyril Ramaphosa and some Asian South Africans live.</lex>
     </entry>
@@ -460,7 +460,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The address, 11 Diagonal Street is located in South Africa and Jacob Zuma is a leader in Asian South Africans.</lex>
       <lex comment="good" lid="Id2">South Africa is the location of 11 Diagonal Street, and is home to the ethnic group of Asian South Africans. Jacob Zuma is a leader of the country.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>200_Public_Square | floorArea | "1200000.0"^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
@@ -611,7 +611,7 @@
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cleveland City Council governs Cleveland, Cuyahoga County, Ohio where 200 Public Square is located.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>200_Public_Square | location | Cleveland</otriple>
@@ -762,7 +762,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is in London where the leader is Boris Johnson and The Parliament of the United Kingdom.</lex>
       <lex comment="good" lid="Id2">Boris Johnson is the leader in London, where the Parliament of the United Kingdom and 20 Fenchurch Street are situated.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
@@ -795,7 +795,7 @@
         <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located within the United Kingdom where the currency is Pound sterling and the demonym for natives of the United kingdom is British people.</lex>
-      <lex comment="good" lid="Id2">Natives of the UK are known as British and the currency is the pound sterling. The UK is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2" error_1="British people">Natives of the UK are known as British and the currency is the pound sterling. The UK is the location of 20 Fenchurch Street.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located within the United Kingdom whose natives are called British people and whose currency is Pound sterling.</lex>
     </entry>
     <entry category="Building" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -834,7 +834,7 @@
         <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which uses the pound sterling as currency. The UK is also the location of 20 Fenchurch Street.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</otriple>
@@ -964,7 +964,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of 300 North LaSalle was Pickard Chilton. It was completed in 2009 and has 60 floors.</lex>
       <lex comment="good" lid="Id2">Pickard Chilton designed 300 North LaSalle that was finished in 2009. It has 60 floors.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
@@ -1007,7 +1007,7 @@
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, Illinois, United States.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id52" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>300_North_LaSalle | location | Chicago</otriple>
@@ -1065,7 +1065,7 @@
         <mtriple>Chicago | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, Dupage County, Illinois, U.S.</lex>
-      <lex comment="good" lid="Id2">Located in the United States is 300 North LaSalle, a part of the DuPage County in Illinois.</lex>
+      <lex comment="good" lid="Id2" error_1="Chicago">Located in the United States is 300 North LaSalle, a part of the DuPage County in Illinois.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is in Chicago in the DuPage County of Illinois within the United States.</lex>
     </entry>
     <entry category="Building" eid="Id56" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1153,7 +1153,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 60 floors at 300 North LaSalle that was completed in 2009 which is located in Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle, with 60 floors and completed in 2009, is in Illinois.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id61" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
@@ -1171,7 +1171,7 @@
         <mtriple>320_South_Boston_Building | buildingStartDate | 1910</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American George Winkler was the architect of 320 South Boston Building, of which construction began in 1910.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id62" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>320_South_Boston_Building | architect | George_Winkler</otriple>
@@ -1240,7 +1240,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In 1929 the 320 South Boston Building was completed with 22 floors and a height of 121.92 metres.</lex>
       <lex comment="good" lid="Id2">The 320 South Boston Building, which was completed in 1929, has a height of 121.92 meters and 22 floors.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id64" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>3Arena | architect | Populous_(company)</otriple>
@@ -1259,7 +1259,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The company Populous is the architect of 3Arena which is located at North Wall, Dublin. and completed in December 2008.</lex>
       <lex comment="good" lid="Id2">The architect of 3Arena, in North Wall Dublin and completed in December 2008, is Populous.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id65" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>3Arena | location | "East Link Bridge"@en</otriple>
@@ -1295,7 +1295,7 @@
         <mtriple>3Arena | architect | Populous_(company)</mtriple>
         <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">3 Arena, designed by the Populous company, was completed in December 2008 and is located at East Link Bridge.</lex>
+      <lex comment="good" lid="Id1" error_1="3Arena">3 Arena, designed by the Populous company, was completed in December 2008 and is located at East Link Bridge.</lex>
       <lex comment="good" lid="Id2">The 3Arena at East Link Bridge was designed by Populous and completed in December 2008.</lex>
       <lex comment="good" lid="Id3">The 3Arena (designed by the company Populous) is located at East Link Bridge and was completed in December 2008.</lex>
     </entry>
@@ -1371,7 +1371,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena is owned by Live Nation Entertainment and is located in Dublin. The leader of the government in Dublin is the European Parliament.</lex>
       <lex comment="good" lid="Id2">The owner of 3Arena in Dublin is Live Nation Entertainment. European Parliament leads Dublin.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id71" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
@@ -1414,7 +1414,7 @@
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dáil Éireann is a leader in Dublin where the 3Arena owned by Live Nation Entertainment is located.</lex>
-      <lex comment="good" lid="Id2">Dáil Éireann is a leader in Dublin, where 3Arena is located and owned by Live Nation Enternainment.</lex>
+      <lex comment="good" lid="Id2" error_1="Live Nation Entertainment">Dáil Éireann is a leader in Dublin, where 3Arena is located and owned by Live Nation Enternainment.</lex>
       <lex comment="good" lid="Id3">3Arena is owned by Live Nation Entertainment and is located in Dublin, which is led by Dáil Éireann.</lex>
     </entry>
     <entry category="Building" eid="Id74" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1455,7 +1455,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International which was founded in Washington DC is the tenant of AC Hotel Bella Sky in Copenhagen.</lex>
       <lex comment="good" lid="Id2">Marriott International, tenant of AC Hotel Bella Sky in Copenhagen, was founded in Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">The Marriot International, originally founded in Washington, D.C., is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="good" lid="Id3" error_1="Marriott International">The Marriot International, originally founded in Washington, D.C., is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
     </entry>
     <entry category="Building" eid="Id76" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1504,7 +1504,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II of Denmark is located at the AC Hotel Bella Sky Copenhagen, which is a tenant of the Marriott International Hotel.</lex>
-      <lex comment="good" lid="Id2">Marriott International is the tenant of AC Hotel Bella Sky Copenhagen which is in Denmark, whose leader is Margrethe ll.</lex>
+      <lex comment="good" lid="Id2" error_1="Margrethe II of Denmark">Marriott International is the tenant of AC Hotel Bella Sky Copenhagen which is in Denmark, whose leader is Margrethe ll.</lex>
       <lex comment="good" lid="Id3">Margrethe II of Denmark is the leader of Denmark where the AC Hotel Bella Sky Copenhagen, which is tenanted by Marriott International is located.</lex>
     </entry>
     <entry category="Building" eid="Id79" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1539,7 +1539,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is owned by Bella Center and has 23 floors. It was designed by the architectural firm 3XN.</lex>
-      <lex comment="good" lid="Id2">The AC Hotel Bella Sky Copenhagen, which is owned by Bella Centre, has 23 floors and the architect was 3XN.</lex>
+      <lex comment="good" lid="Id2" error_1="Bella Center">The AC Hotel Bella Sky Copenhagen, which is owned by Bella Centre, has 23 floors and the architect was 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id81" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1552,7 +1552,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Bella Sky hotel in Copenhagen has 23 floors, is owned by Bella Center and tenanted by Marriott International.</lex>
+      <lex comment="good" lid="Id1" error_1="AC Hotel Bella Sky Copenhagen">The Bella Sky hotel in Copenhagen has 23 floors, is owned by Bella Center and tenanted by Marriott International.</lex>
       <lex comment="good" lid="Id2">The owner of the AC Hotel Bella Sky Copenhagen which has 23 floors is Bella Center and the tenant is Marriott International.</lex>
       <lex comment="good" lid="Id3">AC Hotel Bella Sky Copenhagen, which has 23 floors, is owned by Bella Center and its tenant is the Marriott International.</lex>
     </entry>
@@ -1633,7 +1633,7 @@
         <mtriple>Adare_Manor | buildingStartDate | "1700"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lewis Nockalls Cottingham is the architect of Adare Manor which was started in 1700 and completed in 1862.</lex>
-      <lex comment="good" lid="Id2">The building of the Adare Manor was started in 1700 and was completed in 1862.</lex>
+      <lex comment="good" lid="Id2" error_1="Lewis Nockalls Cottingham">The building of the Adare Manor was started in 1700 and was completed in 1862.</lex>
     </entry>
     <entry category="Building" eid="Id87" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1756,7 +1756,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor is located in Adare, Munster, County Limerick.</lex>
       <lex comment="good" lid="Id2">Adare Manor is in Adare, Munster, County Limerick.</lex>
-      <lex comment="good" lid="Id3">Adare Manor is in Adare, part of Munster in County Limmerick.</lex>
+      <lex comment="good" lid="Id3" error_1="County Limerick">Adare Manor is in Adare, part of Munster in County Limmerick.</lex>
     </entry>
     <entry category="Building" eid="Id95" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1863,7 +1863,7 @@
         <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In 1964 the Addis Ababa City Hall was completed with a floor area of 140000.0 (square metres) and a total height of 42 metres.</lex>
-      <lex comment="good" lid="Id2">Addid Ababa City Hall, completed in 1964, is 42 metres high and has a floor area of 140000.0 square metres.</lex>
+      <lex comment="good" lid="Id2" error_1="Addis Ababa City Hall">Addid Ababa City Hall, completed in 1964, is 42 metres high and has a floor area of 140000.0 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id100" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1895,7 +1895,7 @@
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall, located in Hautale, Sri Lanka, is in the architectural style of "Tudor and Jacobean" and was completed in 1931.</lex>
+      <lex comment="good" lid="Id1" error_1="Haputale, Sri Lanka">Adisham Hall, located in Hautale, Sri Lanka, is in the architectural style of "Tudor and Jacobean" and was completed in 1931.</lex>
       <lex comment="good" lid="Id2">Adisham Hall, Haputale, Sri Lanka, was completed in 1931 and has an architecture style of Tudor and Jacobean.</lex>
     </entry>
     <entry category="Building" eid="Id102" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1925,7 +1925,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is in Haputale, Sri Lanka and Sri Jayawardenepura Kotte is the capital of that country.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id104" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
@@ -1954,7 +1954,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Sri Lanka, whose capital is Sri Jayawardenepura Kotte, is home to Adisham Hall in Haputale.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id106" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
@@ -1993,7 +1993,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka which is led by Ranil Wickremesinghe. The capital of Sri Lanka is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in the country of Sri Lanka whose capital is Sri Jayawardenepura Kotte and whose leader is Ranil Wickremesinghe.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id108" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
@@ -2007,7 +2007,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka, the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id109" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
@@ -2025,7 +2025,7 @@
         <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sri Lanka, led by Ranil Wickremesinghe with the official language being Tamil, is home to Adisham Hall.</lex>
-      <lex comment="good" lid="Id2">Ranil Wickremsinghe is the leader of Tamil speaking Sri Lanka where Adisham Hall is located.</lex>
+      <lex comment="good" lid="Id2" error_1="Ranil Wickremesinghe">Ranil Wickremsinghe is the leader of Tamil speaking Sri Lanka where Adisham Hall is located.</lex>
       <lex comment="good" lid="Id3">Adisham Hall is located in the country of Sri Lanka where one of the leaders is Ranil Wickremesinghe and they speak Tamil.</lex>
     </entry>
     <entry category="Building" eid="Id110" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2045,7 +2045,7 @@
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall, completed in 1931 in the architectural Tudor Revival style, is located in Haputale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id2">Admisham Hall completed in 1931 with a Tudor Revival style is located at Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" error_1="Adisham Hall">Admisham Hall completed in 1931 with a Tudor Revival style is located at Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id3">Adisham Hall, Haputale, Sri Lanka was built in Tudor Revival style and finished in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id111" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2093,9 +2093,9 @@
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita, Akita which is in Japan.</lex>
+      <lex comment="good" lid="Id1" error_1="Akita Prefecture">The Akita Museum of Art is located in Akita, Akita which is in Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in the Akita Prefecture, which is in Akita, Akita, Japan.</lex>
-      <lex comment="good" lid="Id3">Akita in the province of the same name, Japan, is home to the Akita Museum of Art.</lex>
+      <lex comment="good" lid="Id3" error_1="Akita Prefecture">Akita in the province of the same name, Japan, is home to the Akita Museum of Art.</lex>
     </entry>
     <entry category="Building" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2174,7 +2174,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita, Akita Prefecture, Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is an art museum in the city of Akita, Akita Prefecture, Japan.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id117" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
         <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
@@ -2217,7 +2217,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Alan B Miller Hall is Robert A M Stern. The current tenants are the Mason School of Business located in the United States.</lex>
       <lex comment="good" lid="Id2">The Mason School of Business in the US are currently tenants of the Robert A M Stern designed Alan B Miller Hall.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id120" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</otriple>
@@ -2230,7 +2230,7 @@
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall built in the Georgian architecture style currently hosts the US Mason School of Business.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id121" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Alan_B._Miller_Hall | buildingEndDate | "1 June 2009"</otriple>
@@ -2262,9 +2262,9 @@
         <mtriple>Mason_School_of_Business | country | United_States</mtriple>
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Located in the United States, the Mason School of Business currently live in the Alan B. Miller Hall, a building which cost 75 million dollars.</lex>
-      <lex comment="good" lid="Id2">The Mason School of Business, located in the United States, is the current tenant of Alan B Miller Hall, which cost 75 million dollars.</lex>
-      <lex comment="good" lid="Id3">The Alan B. Miller Hall in the United States cost 75 million dollars. The current tenants are The Mason School of Business.</lex>
+      <lex comment="good" lid="Id1" error_1="75.0 million (dollars)">Located in the United States, the Mason School of Business currently live in the Alan B. Miller Hall, a building which cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="75.0 million (dollars)">The Mason School of Business, located in the United States, is the current tenant of Alan B Miller Hall, which cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id3" error_1="75.0 million (dollars)">The Alan B. Miller Hall in the United States cost 75 million dollars. The current tenants are The Mason School of Business.</lex>
     </entry>
     <entry category="Building" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2293,7 +2293,7 @@
         <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall which has a Georgian style of architecture is owned by the College of William and Mary and is located in Virginia.</lex>
-      <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which has the Georgian architectural style.</lex>
+      <lex comment="good" lid="Id2" error_1="Georgian architecture">The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which has the Georgian architectural style.</lex>
       <lex comment="good" lid="Id3">The College of William and Mary is the owner of the Alan B. Miller Hall, that is situated in Virginia and built in the Georgian architecture style.</lex>
     </entry>
     <entry category="Building" eid="Id125" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2386,9 +2386,9 @@
         <mtriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</mtriple>
         <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The College of William and Mary is the owner of the Georgian styled Alan B. Miller Hall in Virginia.</lex>
+      <lex comment="good" lid="Id1" error_1="Georgian architecture" error_2="Williamsburg, Virginia">The College of William and Mary is the owner of the Georgian styled Alan B. Miller Hall in Virginia.</lex>
       <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall in Williamsburg, Virginia, which was built in the Georgian style of architecture.</lex>
-      <lex comment="good" lid="Id3">The College of William and Mary is the owner of the Alan B. Miller Hall, it is located in Williamsburg, Virginia and has an Georgian architectural style.</lex>
+      <lex comment="good" lid="Id3" error_1="Georgian architecture">The College of William and Mary is the owner of the Alan B. Miller Hall, it is located in Williamsburg, Virginia and has an Georgian architectural style.</lex>
     </entry>
     <entry category="Building" eid="Id131" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2447,7 +2447,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Narendra Modi and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa located in India whose leaders are Narendra Modi and Sumitra Mahajan.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id134" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
@@ -2476,7 +2476,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Narendra Modi leads India, a country where Amdavad ni Gufa is located in Ahmedabad.</lex>
       <lex comment="good" lid="Id2">Narendra Modi is a leader in India where Amdavad ni Gufa is located in Ahmedabad.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id136" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
@@ -2509,7 +2509,7 @@
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa is located at, Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, which is in India.</lex>
-      <lex comment="good" lid="Id2">Amdavad ni Gufa's address is Lalbhai Dalpathbhai Campus, near CEPT University, opp. Gujarat University, University Road, Gujarat, India.</lex>
+      <lex comment="good" lid="Id2" error_1="Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road">Amdavad ni Gufa's address is Lalbhai Dalpathbhai Campus, near CEPT University, opp. Gujarat University, University Road, Gujarat, India.</lex>
       <lex comment="good" lid="Id3">The address of Amdavad ni Gufa, located in Gujarat (India), is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.</lex>
     </entry>
     <entry category="Building" eid="Id138" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2667,7 +2667,7 @@
         <mtriple>Ampara_Hospital | region | Ampara_District</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is located in Ampara District, Sri Lanka. The leader of the country is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is in Sri Lanka in Ampara Distract. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id2" error_1="Ampara District">Ampara Hospital is in Sri Lanka in Ampara Distract. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3">Ampara Hospital is located in the region of Ampara District of Sri Lanka, which is led by Ranil Wickremesinghe.</lex>
     </entry>
     <entry category="Building" eid="Id146" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2686,9 +2686,9 @@
         <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital is located in Sri Lanka, which is led by Ranil Wickremesinghe and its capital is Sri Jayawardenepura.</lex>
+      <lex comment="good" lid="Id1" error_1="Sri Jayawardenepura Kotte">Ampara Hospital is located in Sri Lanka, which is led by Ranil Wickremesinghe and its capital is Sri Jayawardenepura.</lex>
       <lex comment="good" lid="Id2">Sri Lanka's capital is Sri Jayawardenepura Kotte; its leader is Ranil Wickremesinghe and it houses Ampara Hospital.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id147" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
@@ -2782,7 +2782,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and was built in 1911. It has the reference number 88002539 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House built in 1911 is located at U.S. Route 83 and has the reference number 88002539 in the National Register of Historic Places.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id151" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asherton,_Texas | country | United_States</otriple>
@@ -2885,7 +2885,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">San Francisco born Julia Morgan was the architect of Asilomar Conference Grounds and also designed other significant buildings, including the Los Angeles Herald Examiner building.</lex>
       <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco, designed the California landmark Los Angeles Herald examiner building and The Asilomar Conference Grounds.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id157" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
@@ -2912,7 +2912,7 @@
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan, architect of the Asilomar Conference grounds, designed the significant Los Angeles Herald Examiner building and The Riverside Art Museum.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id159" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</otriple>
@@ -2924,9 +2924,9 @@
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds was designed by Julia Morgan at the Riverside Art Musuem in California.</lex>
+      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">Asilomar Conference Grounds was designed by Julia Morgan at the Riverside Art Musuem in California.</lex>
       <lex comment="good" lid="Id2">Californian born Julia Morgan designed Asilomar Conference Grounds and also the significant building of the Riverside Art Museum.</lex>
-      <lex comment="good" lid="Id3">Julia Morgan, who is from California, was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.</lex>
+      <lex comment="good" lid="Id3" error_1="Riverside Art Museum">Julia Morgan, who is from California, was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.</lex>
     </entry>
     <entry category="Building" eid="Id160" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2941,7 +2941,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan was the architect and designer of many significant buildings including Asilomar State Beach, the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
       <lex comment="good" lid="Id2">The architect Julia Morgan designed several significant buildings including the grounds of Asilomar Conference, the Riverside Art Museum and Asilomar State Beach.</lex>
-      <lex comment="good" lid="Id3">Asilomar Conference Grounds was designed by Julia Morgan. The Riverside Art Musuem and the Asilmar State Beach are some of Julia Morgan's significant buildings.</lex>
+      <lex comment="good" lid="Id3" error_1="Riverside Art Museum">Asilomar Conference Grounds was designed by Julia Morgan. The Riverside Art Musuem and the Asilmar State Beach are some of Julia Morgan's significant buildings.</lex>
     </entry>
     <entry category="Building" eid="Id161" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2975,7 +2975,7 @@
         <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds is located in Asilomar Blvd, Pacific Grove California. It was constructed in 1913 and added to the National Register of Historic Places on 27 February 1987.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id163" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"@en</otriple>
@@ -3022,7 +3022,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asilomar Conference Grounds constructed in 1913 is located at Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds, located in Pacific Grove, California, was constructed in 1913 and was added to The National Register of Historic Places February 27, 1987.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id166" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
@@ -3055,8 +3055,8 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths was built in 1904 and located on Asser Levy Place &amp; East 23rd Street, was added to The National Register of Historic Places April 23, 1980.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
-      <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 in Asser Levy Place on East 23rd Street, were added to the National Register of historic Places on 1980-04-23.</lex>
+      <lex comment="good" lid="Id2" error_1="Asser Levy Place and East 23rd Street">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
+      <lex comment="good" lid="Id3" error_1="Asser Levy Place and East 23rd Street">The Asser Levy Public Baths, constructed in 1904 in Asser Levy Place on East 23rd Street, were added to the National Register of historic Places on 1980-04-23.</lex>
     </entry>
     <entry category="Building" eid="Id168" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3071,7 +3071,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths located on 23rd Street, Manhattan was added to the National Register of Historic Places on 1980-04-23 and has the reference number 80002709.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths, located on 23rd Street Manhattan, was added to the National Register of Historic Places April 23, 1980 and has reference number: 80002709.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id169" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</otriple>
@@ -3118,7 +3118,7 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths is located in Manhattan and was added to the National Register of Historic Places on 23rd April 1980 with the Reference number 80002709.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id172" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
@@ -3170,7 +3170,7 @@
         <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public baths are located in Brooklyn, New York City, United States.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id175" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
@@ -3234,7 +3234,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Manhattan and Brooklyn are parts of New York City, the location of Asser Levy Public Baths.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located in New York City, Manhattan as is Brooklyn.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id179" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
@@ -3263,7 +3263,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are located in New York City, New York. Brooklyn is a part of New York City.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths are located in New York City which is part of New York and also incorporates Brooklyn.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id181" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
@@ -3290,7 +3290,7 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect Jhon Madin who was born in birmingham where the leader is the conservative party (UK).</lex>
+      <lex comment="good" lid="Id1" error_1="John Madin">103 Colmore Row was designed by the architect Jhon Madin who was born in birmingham where the leader is the conservative party (UK).</lex>
       <lex comment="good" lid="Id2">Birmingham, led by the Conservative Party, was the birthplace of John Madin who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id183" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -3306,7 +3306,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Liberal Democrats lead Birmingham, home town of architect John Madin, who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">John Madin, who designed 103 Colmore Row, comes from Birmingham, which is run by the Liberal Democrats.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id184" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Dublin | country | Republic_of_Ireland</otriple>
@@ -3324,7 +3324,7 @@
         <mtriple>Dublin | isPartOf | Leinster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located in Dublin, which is a part of Leinster, in the Republic of Ireland.</lex>
-      <lex comment="good" lid="Id2">3 Arena is located in Dublin (in the Republic of Ireland) which is a part of Leinster.</lex>
+      <lex comment="good" lid="Id2" error_1="3Arena">3 Arena is located in Dublin (in the Republic of Ireland) which is a part of Leinster.</lex>
       <lex comment="good" lid="Id3">3Arena is located in Dublin, Leinster, Republic of Ireland.</lex>
     </entry>
     <entry category="Building" eid="Id185" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -3400,7 +3400,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel was the leader of Gujarat, India, the location of Amdavad ni Gufa.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in Gujarat, India, which is led by Anandiben Patel.</lex>
-      <lex comment="good" lid="Id3">Anandiben Patel is the leader of Guarat, India, home to Amadavad ni Gufa.</lex>
+      <lex comment="good" lid="Id3" error_1="Amdavad ni Gufa" error_2="Gujarat">Anandiben Patel is the leader of Guarat, India, home to Amadavad ni Gufa.</lex>
     </entry>
     <entry category="Building" eid="Id189" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3415,7 +3415,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">People who live in India are known as Indian. Amdavad ni Gufa is located in the country which is led by Sumitra Mahajan.</lex>
       <lex comment="good" lid="Id2">The residents of India are the Indian people and the country is led by Sumitra Mahajan. Amdavad ni Gufa is located in the country.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id190" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>India | leaderName | T._S._Thakur</otriple>
@@ -3501,7 +3501,7 @@
         <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Based in Bethesda, Maryland, the Marriot International was founded in Washington DC and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="good" lid="Id1" error_1="Marriott International">Based in Bethesda, Maryland, the Marriot International was founded in Washington DC and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
       <lex comment="good" lid="Id2">Marriott International, founded in Washington DC, is located in Bethesda, Maryland and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
       <lex comment="good" lid="Id3">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company which was founded in Washington, D.C. and is now based in Bethesda, Maryland.</lex>
     </entry>
@@ -3516,7 +3516,7 @@
         <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
         <mtriple>Republic_of_Ireland | leaderName | Enda_Kenny</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
+      <lex comment="good" lid="Id1" error_1="Republic of Ireland">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
       <lex comment="good" lid="Id2">Adare Manor is located in the Republic of Ireland, the leader of this country is Enda Kenny and one of the languages used is English.</lex>
     </entry>
     <entry category="Building" eid="Id196" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3575,7 +3575,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paul Ryan is a leader of the United States in which English is the language and is home to 250 Delaware Avenue.</lex>
-      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States, which is led by Paul Ryan.</lex>
+      <lex comment="good" lid="Id2" error_1="English language">250 Delaware Avenue is located in the United States, which is led by Paul Ryan.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is located in the United States where they speak English and are led by Paul Ryan.</lex>
     </entry>
     <entry category="Building" eid="Id200" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3591,7 +3591,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">President Barack Obama is the leader of the United States where 250 Delaware Avenue is located.</lex>
       <lex comment="good" lid="Id2">President Barack Obama is leader of the United States where 250 Delaware Avenue is located.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id201" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
@@ -3616,7 +3616,7 @@
         <mtriple>United_States | leaderName | John_Roberts</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
+      <lex comment="good" lid="Id1" error_1="President of the United States">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
       <lex comment="good" lid="Id2">The United States is led by the President of the United States. One of the leaders is John Roberts, and 250 Delaware Avenue is located in the country.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is located in the United States where the Chief Justice is John Roberts and the leader's title is President of the United States.</lex>
     </entry>

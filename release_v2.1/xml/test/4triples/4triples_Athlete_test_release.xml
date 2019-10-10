@@ -50,7 +50,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam McQuaid was born October 12th 1986 in Prince Edward Island and now weighs 94.8024kg.</lex>
       <lex comment="good" lid="Id2">Adam McQuaid was born October 12th 1986 on Prince Edward Island. He weighs 94.8024 kilograms.</lex>
-      <lex comment="good" lid="Id3">Born on Oct 12, 1986 in P.E.I. is Adam McQuaid. He weighs 94.8024 Kg.</lex>
+      <lex comment="good" lid="Id3" error_1="Prince Edward Island">Born on Oct 12, 1986 in P.E.I. is Adam McQuaid. He weighs 94.8024 Kg.</lex>
     </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -116,9 +116,9 @@
         <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-23_football_team</mtriple>
         <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul Zahra, played for the Iraq national under 23 football team, plays for Al Kharaitiyat SC, located in Al Khor, and managed by, Amar Osim.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al Kharaitiyat SC, in Al Khor, and for the Iraq national under 23 football team. Al Kharaitiyat SC is managed by Amar Osim.</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al Kharaitiyat SC that has its home land in Al Khor. Mr. Zahra is also part of the Iraq national under 23 football team which is managed by Amar Osim.</lex>
+      <lex comment="good" lid="Id1" error_1="Iraq national under-23 football team">Alaa Abdul Zahra, played for the Iraq national under 23 football team, plays for Al Kharaitiyat SC, located in Al Khor, and managed by, Amar Osim.</lex>
+      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for Al Kharaitiyat SC, in Al Khor, and for the Iraq national under 23 football team. Al Kharaitiyat SC is managed by Amar Osim.</lex>
+      <lex comment="good" lid="Id3" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for Al Kharaitiyat SC that has its home land in Al Khor. Mr. Zahra is also part of the Iraq national under 23 football team which is managed by Amar Osim.</lex>
     </entry>
     <entry category="Athlete" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -134,8 +134,8 @@
         <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Footballer, Alan Martin, who played for the Scotland national under-21 football team, plays for Crewe Alexandra F.C. He was born on the 1st January 1989 and is 185.42 centimetres tall.</lex>
-      <lex comment="good" lid="Id2">Alan martin, was born on the 1st January 1989. He is 185.42 cm tall, a footballer for the Crewe Alexandra FC and plays in the Scottish National under 21 football team.</lex>
-      <lex comment="good" lid="Id3">At 185,42 centimetres tall, Footballer, Alan Martin, was born on January 1st 1989. He played for the Scotland national under-21 football team and is a footballer for the Crewe Alexandra FC.</lex>
+      <lex comment="good" lid="Id2" error_1="Scotland national under-21 football team">Alan martin, was born on the 1st January 1989. He is 185.42 cm tall, a footballer for the Crewe Alexandra FC and plays in the Scottish National under 21 football team.</lex>
+      <lex comment="good" lid="Id3" error_1="185.42 (centimetres)">At 185,42 centimetres tall, Footballer, Alan Martin, was born on January 1st 1989. He played for the Scotland national under-21 football team and is a footballer for the Crewe Alexandra FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -185,7 +185,7 @@
         <mtriple>Aleksandre_Guruli | club | FC_Zestafoni</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandre Guruli, who was born in Batumi, is 178.0 centimetres tall. He is in the FC Zestafoni club and plays for FC Karpaty Lviv club.</lex>
-      <lex comment="good" lid="Id2">Aleksandre Guruli was born in Batumi and he is 1.78m tall. He has played for FC Karpaty Lviv and FC Zestafoni.</lex>
+      <lex comment="good" lid="Id2" error_1="178.0 (centimetres)">Aleksandre Guruli was born in Batumi and he is 1.78m tall. He has played for FC Karpaty Lviv and FC Zestafoni.</lex>
       <lex comment="good" lid="Id3">Aleksandre Guruli was born in Batumi and is 178cm tall. He has played for FC Zestafoni and FC Karpaty Lviv.</lex>
     </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -313,5 +313,5 @@
       <lex comment="good" lid="Id2">Abel Hernández was a member of youth club Peñarol, that play in the Uruguayan Primera División league. His current club is Hull City A.F.C. which is managed by, Steve Bruce.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez was a member of Penarol's youth club which plays in the Uruguayan Primera División. He now plays for Hull City A.F.C., the manager of which, is Steve Bruce.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

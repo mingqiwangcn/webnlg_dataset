@@ -273,7 +273,7 @@
         <mtriple>Allen_Forrest | genre | Hip_hop_music</mtriple>
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Hip Hop artist Allen Forrest is a solo singer.</lex>
+      <lex comment="good" lid="Id1" error_1="Hip hop music">Hip Hop artist Allen Forrest is a solo singer.</lex>
       <lex comment="good" lid="Id2">Allen Forrest is a solo singer whose genre is Hip Hop music.</lex>
       <lex comment="good" lid="Id3">Allen Forrest is a solo singer whose musical genre is hip hop.</lex>
     </entry>
@@ -414,5 +414,5 @@
       <lex comment="good" lid="Id2">Andrew White is a musician signed to the record label Polydor Records which is located in London.</lex>
       <lex comment="good" lid="Id3">Andrew White is a musician signed to Polydor Records which are based in London.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

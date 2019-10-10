@@ -40,7 +40,7 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is located in Tirstrup which is part of the Central Denmark region.</lex>
-      <lex comment="good" lid="Id2">The location of Aarhus Airport is Tirstrup, part of Central Denmark.</lex>
+      <lex comment="good" lid="Id2" error_1="Central Denmark Region">The location of Aarhus Airport is Tirstrup, part of Central Denmark.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in Tirstrup, part of the Central Denmark region.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -124,9 +124,9 @@
         <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
         <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport is operated by Aarhus Lufthave A/S and the length of the runway is 2776.0.</lex>
+      <lex comment="good" lid="Id1" error_1="Aarhus Lufthavn A/S">Aarhus Airport is operated by Aarhus Lufthave A/S and the length of the runway is 2776.0.</lex>
       <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which has a runway with the length of 2776.0 metres.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Aarhus_Airport | runwayLength | "2776.73"^^xsd:double</otriple>
@@ -151,7 +151,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is operated by the Aktieselkab organisation and has a runway length of 2777.0 meters.</lex>
       <lex comment="good" lid="Id2">Aktieselskab is the operating organisation for Aarhus Airport which has a runway with the length of 2777.0 meters.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Abilene_Regional_Airport | r1LengthF | 3678</otriple>
@@ -167,7 +167,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">546m above sea level, the length of the 1st runway at Abilene Regional airport is 3678 feet.</lex>
       <lex comment="good" lid="Id2">The Abilene Regional Airport is 546 metres above sea level and the 1st runway is 3678 feet.</lex>
-      <lex comment="good" lid="Id3">Abilene Regional Airpot is 546 metres above sea level and the length of the first runway is 3678 feet.</lex>
+      <lex comment="good" lid="Id3" error_1="Abilene Regional Airport">Abilene Regional Airpot is 546 metres above sea level and the length of the first runway is 3678 feet.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -382,7 +382,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport is located at Paracuellos de Jarama at an elevation of 610.0 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located at Paracuellos de Jarama and is elevated 610 metres above sea level.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Paracuellos_de_Jarama</otriple>
@@ -445,7 +445,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas Airport is in Paracuellos de Jarama, Madrid.</lex>
       <lex comment="good" lid="Id2">The Adolfo Suarez Madrid-Barajas airport is located in Paracuellos de Jarama in Madrid.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
@@ -499,7 +499,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway length of Adolfo Suárez Madrid–Barajas Airport which is located at San Sebastian de los Reyes, is 4,349.</lex>
-      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in San Sebstian de los Reyes and its runway is 4349 metres long.</lex>
+      <lex comment="good" lid="Id2" error_1="San Sebastian de los Reyes">Adolfo Suarez Madrid-Barajas Airport is located in San Sebstian de los Reyes and its runway is 4349 metres long.</lex>
     </entry>
     <entry category="Airport" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -556,7 +556,7 @@
         <mtriple>Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_feet) | 2988</mtriple>
         <mtriple>Afonso_Pena_International_Airport | location | São_José_dos_Pinhais</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Afonso Pena International Airpor in São José dos Pinhais, is 2988 feet above sea level.</lex>
+      <lex comment="good" lid="Id1" error_1="Afonso Pena International Airport">Afonso Pena International Airpor in São José dos Pinhais, is 2988 feet above sea level.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport, located in Sao Jose dos Pinhais, is elevated 2988 feet above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -663,7 +663,7 @@
         <mtriple>Agra_Airport | location | Agra</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra airport is located in Agra and its ICAO location identifier is VIAG.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Agra_Airport | location | India</otriple>
@@ -868,7 +868,7 @@
         <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway length of Al-Taqaddum air base is 4019.0 and it serves the city of Fallujah.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id57" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"@en</otriple>
@@ -917,7 +917,7 @@
         <mtriple>Al_Asad_Airbase | runwayLength | 3090.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase in Iraq has a runway length of 3090.0.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id61" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | location | Iraq</otriple>
@@ -941,7 +941,7 @@
         <mtriple>Al_Asad_Airbase | runwayLength | 3992.88</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is in Iraq and the length of the runway is 3992.88.</lex>
-      <lex comment="good" lid="Id2">The runway length of Al Asad Airbase, Iraq, is 3,992.88.</lex>
+      <lex comment="good" lid="Id2" error_1="3992.88">The runway length of Al Asad Airbase, Iraq, is 3,992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id63" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -979,7 +979,7 @@
         <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force whose aircraft carriers transport the Lockheed AC-130.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id66" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
@@ -990,8 +990,8 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force was fighting in the United States bombing of Libya in 1986 and also operates the Al Asad Airbase.</lex>
-      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force, which carried out the US bombing of Libya.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya">Al Asad Airbase is operated by the United States Air Force, which carried out the US bombing of Libya.</lex>
+    </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
@@ -1038,9 +1038,9 @@
         <mtriple>Al_Asad_Airbase | runwayLength | 3992.88</mtriple>
         <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad Airbase in Al Anbar Province, Iraq has a runway that's 3,992.88 long.</lex>
+      <lex comment="good" lid="Id1" error_1="3992.88">Al Asad Airbase in Al Anbar Province, Iraq has a runway that's 3,992.88 long.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase has a runway length of 3992.88 and is located in Al Anbar Province, Iraq.</lex>
-      <lex comment="good" lid="Id3">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and has a runway length of 3,992.88.</lex>
+      <lex comment="good" lid="Id3" error_1="3992.88">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and has a runway length of 3,992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id71" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1130,7 +1130,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The surface of the 1st runway at Alderney airport is made from poaceae, which belongs to the order of Commelinids.</lex>
       <lex comment="good" lid="Id2">The 1st runway at Alderney Airport is made from Poaceae which belongs to the order of Commelinids.</lex>
-      <lex comment="good" lid="Id3">The surface of the 1st runway at Alderney airport is made from poaceae, Poaceae is the order of Commelinid.</lex>
+      <lex comment="good" lid="Id3" error_1="Commelinids">The surface of the 1st runway at Alderney airport is made from poaceae, Poaceae is the order of Commelinid.</lex>
     </entry>
     <entry category="Airport" eid="Id77" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1385,8 +1385,8 @@
         <mtriple>Alpena_County_Regional_Airport | 1st_runway_LengthFeet | 9001</mtriple>
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aplena County Regional Airport is elevated 210 metres above sea level and its first runway has a length of 9,001 feet.</lex>
-      <lex comment="good" lid="Id2">lpena County Regional Airport is 210m above sea level, its first runway is 9001 feet long.</lex>
+      <lex comment="good" lid="Id1" error_1="Alpena County Regional Airport">Aplena County Regional Airport is elevated 210 metres above sea level and its first runway has a length of 9,001 feet.</lex>
+      <lex comment="good" lid="Id2" error_1="Alpena County Regional Airport">lpena County Regional Airport is 210m above sea level, its first runway is 9001 feet long.</lex>
     </entry>
     <entry category="Airport" eid="Id95" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1477,7 +1477,7 @@
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location identifier of Alpena County Regional airport is APN and is 210m a.s.l.</lex>
-      <lex comment="good" lid="Id2">Ipena County Regional Airport (IPN) is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id2" error_1="APN" error_2="Alpena County Regional Airport">Ipena County Regional Airport (IPN) is 210 metres above sea level.</lex>
       <lex comment="good" lid="Id3">The Alpena County Regional Airport's location id is "APN", and it is elevated 210 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1502,9 +1502,9 @@
         <mtriple>Amsterdam_Airport_Schiphol | 4th_runway_SurfaceType | "Asphalt"</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol is 3.3528 below sea level and its fourth runway is made from asphalt.</lex>
+      <lex comment="good" lid="Id1" error_1="-3.3528">Amsterdam Airport Schiphol is 3.3528 below sea level and its fourth runway is made from asphalt.</lex>
       <lex comment="good" lid="Id2">Amsterdam Airport Schiphol is -3.3528 metres above sea level and the 4th runway is made of asphalt.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id103" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Amsterdam_Airport_Schiphol | r5Number | 18</otriple>
@@ -1601,8 +1601,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Amsterdam Airport, whose runway is 3800 feet, serves Amsterdam.</lex>
-      <lex comment="good" lid="Id2">Amsterdam Airport Schuphol serves Amsterdam and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id1" error_1="Amsterdam Airport Schiphol">The Amsterdam Airport, whose runway is 3800 feet, serves Amsterdam.</lex>
+      <lex comment="good" lid="Id2" error_1="Amsterdam Airport Schiphol">Amsterdam Airport Schuphol serves Amsterdam and has a runway length of 3800.0.</lex>
       <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 3800.0 and it serves Amsterdam.</lex>
     </entry>
     <entry category="Airport" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1628,7 +1628,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County, Texas has its county seat in Andrews, Texas and owns the airport with the same name.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is owned by Andrews County, Texas, which has its seat in the county.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id112" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Andrews_County,_Texas | largestCity | Andrews,_Texas</otriple>
@@ -1657,7 +1657,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3rd runway at Andrews County Airport is 2939 feet and it is 973 m above sea level.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is 973 metres above sea level and the 3rd runway has a length of 2939 feet.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id114" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Andrews_County_Airport | r4LengthF | 25</otriple>
@@ -1673,7 +1673,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is 973.0 above sea level and the 4th runway has a length of 25 feet.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is 973 metres above sea level and its 4th runway is 25ft.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id115" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Andrews_County_Airport | location | Texas</otriple>
@@ -1688,7 +1688,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is located in Texas and is 973 metres above sea level.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id116" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Andrews_County_Airport | location | Texas</otriple>
@@ -1902,7 +1902,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bart De Wever is the mayor of Antwerp, which is served by Antwerp International airport.</lex>
       <lex comment="good" lid="Id2">Bart De Wever is mayor of Antwerp, home of the Antwerp International Airport.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id131" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Antwerp_International_Airport | operator | Flemish_Government</otriple>
@@ -1930,7 +1930,7 @@
         <mtriple>Antwerp_International_Airport | owner | Flemish_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antwerp International Airport, which is owned by the Flemish Region, is operated by the Flemish Government.</lex>
-      <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish government and is operated by the Flemish government.</lex>
+      <lex comment="good" lid="Id2" error_1="Flemish Region">Antwerp International Airport is operated by the Flemish government and is operated by the Flemish government.</lex>
       <lex comment="good" lid="Id3">The owner of Antwerp International Airport is the Flemish Region and the operating organisation is the Flemish government.</lex>
     </entry>
     <entry category="Airport" eid="Id133" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2031,7 +2031,7 @@
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Appleton International Airport serves the city of Appleton, Wisconsin which is part of Kimberly, Wisconsin.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id140" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Appleton,_Wisconsin | isPartOf | Little_Chute,_Wisconsin</otriple>
@@ -2068,7 +2068,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Appleton International Airport is elevated 280 metres above sea level and the first runway built here has a length of 8002 feet.</lex>
       <lex comment="good" lid="Id2">The first runway of Appleton International Airport has a length of 8002 feet and an elevation of 280 metres above sea level.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id142" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Appleton_International_Airport | elevation | "280.0"^^xsd:double</otriple>
@@ -2084,7 +2084,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport has an elevation of 280 metres above sea level, and its operators are in Outagamie County, Wisconsin.</lex>
       <lex comment="good" lid="Id2">Outagamie County, Wisconsin is the operating organisation of Appleton International Airport which is elevated 280 metres above sea level.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id143" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Appleton_International_Airport | location | Greenville,_Wisconsin</otriple>
@@ -2197,7 +2197,7 @@
         <mtriple>Ardmore_Airport_(New_Zealand) | runwayName | "07/25"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New Zealand's Ardmore Airport has a runway named 07/25 and its 3rd runway has a Poaceae surface.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id151" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
@@ -2362,7 +2362,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines who have their headquarters in Ashgabat.</lex>
       <lex comment="good" lid="Id2">Ashgabat International Airport is operated by Turkmenistan Airlines, whose headquarters are located in Ashgabat.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id162" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
@@ -2373,7 +2373,7 @@
         <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ashgabat International Airport is operated by Turkmenistan Airlines whose hub airport is Turkmenabat Airport.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id163" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Ashgabat_International_Airport | operator | Turkmenistan_Airlines</otriple>
@@ -2471,7 +2471,7 @@
         <mtriple>Athens_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 94</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Athens International Airport is located in Spata and is 94 metres above sea level.</lex>
-      <lex comment="good" lid="Id2">Athens International Airport, which is 94 metres above sea level, is in Sparta.</lex>
+      <lex comment="good" lid="Id2" error_1="Spata">Athens International Airport, which is 94 metres above sea level, is in Sparta.</lex>
       <lex comment="good" lid="Id3">Athens International Airport is located in Spata, at 94 m above the sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2488,7 +2488,7 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport serves the city of Atlantic City, New Jersey and has Don Guardian as its leader.</lex>
-      <lex comment="good" lid="Id2">Atlantic City, N.J., which is led by Don Guardian, is served by the Atlantic City International Airport.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">Atlantic City, N.J., which is led by Don Guardian, is served by the Atlantic City International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2504,8 +2504,8 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township which is part of Atlantic County, New Jersey.</lex>
-      <lex comment="good" lid="Id2">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic City, New Jersey, United States.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic City, New Jersey, United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
     </entry>
     <entry category="Airport" eid="Id171" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2518,7 +2518,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23.0 metres above sea level.</lex>
       <lex comment="good" lid="Id2">The Atlantic City International Airport is run by the Port Authority of New York and New Jersey and is 23 m above sea level.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York.</lex>
+      <lex comment="good" lid="Id3" error_1="Port Authority of New York and New Jersey">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York.</lex>
     </entry>
     <entry category="Airport" eid="Id172" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2533,7 +2533,7 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
         <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
+      <lex comment="good" lid="Id1" error_1="Port Authority of New York and New Jersey">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
       <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which has the runway name of 13/31.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport, operated by the Port Authority of New York and New Jersey, has a runway named "13/31".</lex>
     </entry>
@@ -2546,9 +2546,9 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
-      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Four World Trade Center">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
+      <lex comment="good" lid="Id2" error_1="Four World Trade Center">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
+    </entry>
     <entry category="Airport" eid="Id174" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
@@ -2610,7 +2610,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, its runway length is 1,873.</lex>
       <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, where the runway length is 1873.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport, run by the port authorities of New York and New jersey, ha a runway length of 1,873.</lex>
+      <lex comment="good" lid="Id3" error_1="Port Authority of New York and New Jersey">Atlantic City International Airport, run by the port authorities of New York and New jersey, ha a runway length of 1,873.</lex>
     </entry>
     <entry category="Airport" eid="Id178" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2647,7 +2647,7 @@
         <mtriple>Flemish_Government | jurisdiction | Flemish_Region</mtriple>
         <mtriple>Antwerp_International_Airport | operatingOrganisation | Flemish_Government</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antwerp international airport is operated by the Flemish government which has full jurisdiction.</lex>
+      <lex comment="good" lid="Id1" error_1="Flemish Region">Antwerp international airport is operated by the Flemish government which has full jurisdiction.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish government, which has jurisdiction over the Flemish Region.</lex>
       <lex comment="good" lid="Id3">The operating organisation of Antwerp International airport is the Flemish government who have jurisdiction of the Flemish Region.</lex>
     </entry>
@@ -2660,7 +2660,7 @@
         <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
         <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
+      <lex comment="good" lid="Id1" error_1="Indian Air Force">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
       <lex comment="good" lid="Id2">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force who operates the Agra Airport.</lex>
       <lex comment="good" lid="Id3">The operating organization for Agra Airport is the Indian Air Force who use the HAL Light Combat Helicopter.</lex>
     </entry>
@@ -2803,7 +2803,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id192" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>

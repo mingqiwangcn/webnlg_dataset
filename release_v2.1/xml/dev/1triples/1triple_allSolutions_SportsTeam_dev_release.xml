@@ -28,8 +28,8 @@
       <modifiedtripleset>
         <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A C Lumezzane played the 2014-2015 season in Lega Pro.</lex>
-      <lex comment="good" lid="Id2">Lumezzane played in the Lega Pro during the 2014 season.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Lega Pro" error_2="A.C. Lumezzane">A C Lumezzane played the 2014-2015 season in Lega Pro.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro" error_2="A.C. Lumezzane">Lumezzane played in the Lega Pro during the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -61,7 +61,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis played in the 2014 season.</lex>
-      <lex comment="good" lid="Id2">A.E Dimitia Efxeinoupolis were in the 2014 season.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">A.E Dimitia Efxeinoupolis were in the 2014 season.</lex>
       <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis played in season 2014.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
@@ -190,7 +190,7 @@
         <mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.</lex>
-      <lex comment="good" lid="Id2">Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015.</lex>
+      <lex comment="good" lid="Id2" error_1="2015 Campeonato Brasileiro Serie C">Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -200,7 +200,7 @@
         <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron Summit Assault's ground is St. Vincent-St. Mary High School.</lex>
-      <lex comment="good" lid="Id2">St Vincent-St Mary High School is the ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id2" error_1="St. Vincent-St. Mary High School">St Vincent-St Mary High School is the ground of Akron Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -341,5 +341,5 @@
       <lex comment="good" lid="Id1">Stuart Parker played football for Bury FC.</lex>
       <lex comment="good" lid="Id2">The footballer Stuart Parker plays for the Bury FC.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -38,7 +38,7 @@
         <mtriple>1000_Piazzia | epoch | 2015-06-27</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1000 Piazzia has an orbital period of 488160. It has a periapsis of 352497000000.0 and the epoch date of, 2015-06-27.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>101_Helena | mass | "3000.0"^^xsd:double</otriple>
@@ -57,7 +57,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">101 Helena (mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).</lex>
       <lex comment="good" lid="Id2">101 Helena has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
@@ -144,7 +144,7 @@
         <mtriple>1089_Tama | formerName | "A894 VA; A904 VD;"</mtriple>
         <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Formerly named "A894 VA; A 904 VD", 1089 Tama has an orbital period of 1202.846 days, and its epoch is 2005-11-26.</lex>
+      <lex comment="good" lid="Id1" error_1="A894 VA; A904 VD;">Formerly named "A894 VA; A 904 VD", 1089 Tama has an orbital period of 1202.846 days, and its epoch is 2005-11-26.</lex>
       <lex comment="good" lid="Id2">The 1089 Tama (formally known as A894 VA; A904 VD) has an orbital period of 1202.846 days and an epoch date of the 26th November 2005.</lex>
       <lex comment="good" lid="Id3">1089 Tama (formerly "A894 VA; A904 VD"), has an orbital period of 1202.846 days and the epoch date, 26 November 2005.</lex>
     </entry>
@@ -314,6 +314,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">110 Lydia; has an apoapsis of 440756000.0 kilometres, a periapsis of 377016000000.0, and its epoch is 31st December 2006.</lex>
       <lex comment="good" lid="Id2">110 Lydia, with the epoch date December 31st 2006, has an apoapsis of 440756000.0 km and a periapsis measurement of 377016000000.0.</lex>
-      </entry>
-    </entries>
+    </entry>
+  </entries>
 </benchmark>

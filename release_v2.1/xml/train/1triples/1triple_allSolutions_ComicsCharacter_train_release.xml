@@ -280,7 +280,7 @@
       <modifiedtripleset>
         <mtriple>BBC | product | BBC_Radio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the products of BCC is BCC radio.</lex>
+      <lex comment="good" lid="Id1" error_1="BBC" error_2="BBC Radio">One of the products of BCC is BCC radio.</lex>
       <lex comment="good" lid="Id2">BBC radio is one of the products of the BBC.</lex>
       <lex comment="good" lid="Id3">The BBC produces BBC Radio.</lex>
     </entry>
@@ -429,7 +429,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Steven T. Seagle is the creator of Baymax.</lex>
       <lex comment="good" lid="Id2">The creator of Baymax is Steven T. Seagle.</lex>
-      <lex comment="good" lid="Id3">Baymax was created by Steve T. Seagle.</lex>
+      <lex comment="good" lid="Id3" error_1="Steven T. Seagle">Baymax was created by Steve T. Seagle.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -506,7 +506,7 @@
       <modifiedtripleset>
         <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Marv Wolfman was the creator of Bibbo Bibowski.</lex>
+      <lex comment="good" lid="Id1" error_1="Bibbo Bibbowski">Marv Wolfman was the creator of Bibbo Bibowski.</lex>
       <lex comment="good" lid="Id2">Bibbo Bibbowski was created by Marv Wolfman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
@@ -969,7 +969,7 @@
       <modifiedtripleset>
         <mtriple>Marv_Wolfman | award | Academy_of_Comic_Book_Arts</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Marv Wolfwan won an award at the Academy of Comic Book Arts.</lex>
+      <lex comment="good" lid="Id1" error_1="Marv Wolfman">Marv Wolfwan won an award at the Academy of Comic Book Arts.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -998,8 +998,8 @@
       <modifiedtripleset>
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rene Goscinny is a French national.</lex>
-      <lex comment="good" lid="Id2">The nationality of René Goscinny is French.</lex>
+      <lex comment="good" lid="Id1" error_1="French people">Rene Goscinny is a French national.</lex>
+      <lex comment="good" lid="Id2" error_1="French people">The nationality of René Goscinny is French.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1106,7 +1106,7 @@
       <modifiedtripleset>
         <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tim Brooke Taylor was born in Derbyshire.</lex>
+      <lex comment="good" lid="Id1" error_1="Tim Brooke-Taylor">Tim Brooke Taylor was born in Derbyshire.</lex>
       <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in Derbyshire.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id97" shape="(X (X))" shape_type="NA" size="1">
@@ -1116,7 +1116,7 @@
       <modifiedtripleset>
         <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tim Brooke Taylor was born in England.</lex>
+      <lex comment="good" lid="Id1" error_1="Tim Brooke-Taylor">Tim Brooke Taylor was born in England.</lex>
       <lex comment="good" lid="Id2">Tim Brooke-Taylor was born in England.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id98" shape="(X (X))" shape_type="NA" size="1">

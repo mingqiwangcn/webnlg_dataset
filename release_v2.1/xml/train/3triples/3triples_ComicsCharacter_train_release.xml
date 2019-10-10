@@ -96,9 +96,9 @@
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
         <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called "Astérix".</lex>
-      <lex comment="good" lid="Id2">The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.</lex>
-      <lex comment="good" lid="Id3">The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny.</lex>
+      <lex comment="good" lid="Id1" error_1="French people">Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called "Astérix".</lex>
+      <lex comment="good" lid="Id2" error_1="French people">The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id3" error_1="French people">The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -118,7 +118,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.</lex>
       <lex comment="good" lid="Id2">Dick Dillin and Len Wein created the character Aurakles.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Dick_Dillin | nationality | United_States</otriple>
@@ -156,7 +156,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dick Dillin, an American along with Len Wein were the creators of Aurakles, a fictional character.</lex>
       <lex comment="good" lid="Id2">The comic book character Aurakles was created by Len Wein and the American Dick Dillin.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
@@ -249,7 +249,7 @@
         <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.</lex>
-      <lex comment="good" lid="Id2">The key person for BBC is Rona Fairfield and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
+      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The key person for BBC is Rona Fairfield and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -263,7 +263,7 @@
         <mtriple>BBC | locationCity | London</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.</lex>
-      <lex comment="good" lid="Id2">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairchild.</lex>
+      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairchild.</lex>
       <lex comment="good" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -352,7 +352,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bananaman the TV series was shown on the BBC which was founded by John Reith, 1st Baron Reith and is located in the Broadcasting House in London.</lex>
       <lex comment="good" lid="Id2">1st Baron, John Reith was the founder of BBC whose location is the Broadcasting House in London, and Bananaman was shown on the channel.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -366,7 +366,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The BBC, which is located in London and broadcast Bananaman, was founded by John Reith 1st Baron Reith.</lex>
       <lex comment="good" lid="Id2">The BBC, which broadcast Bananaman, is located in London and was founded by John Reith, 1st Baron Reith.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -394,7 +394,7 @@
         <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
-      <lex comment="good" lid="Id2">Banaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex comment="good" lid="Id2" error_1="Bananaman">Banaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
       <lex comment="good" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -505,7 +505,7 @@
         <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
         <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Banaman starred Tim Brooke Taylor and was first broadcast by STV on 3 October 1983.</lex>
+      <lex comment="good" lid="Id1" error_1="Bananaman" error_2="Tim Brooke-Taylor">Banaman starred Tim Brooke Taylor and was first broadcast by STV on 3 October 1983.</lex>
       <lex comment="good" lid="Id2">Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.</lex>
       <lex comment="good" lid="Id3">Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983.</lex>
     </entry>
@@ -520,8 +520,8 @@
         <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
         <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bananaman starred Tim Brooke Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
-      <lex comment="good" lid="Id2">Bananaman was broadcasted by STV, it starred Tim Brooke Taylor and last aired on 15th April 1986.</lex>
+      <lex comment="good" lid="Id1" error_1="Tim Brooke-Taylor">Bananaman starred Tim Brooke Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Bananaman was broadcasted by STV, it starred Tim Brooke Taylor and last aired on 15th April 1986.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -549,7 +549,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Big Hero 6, distributed by Walt Disney Studios Motion Pictures, starred Ryan Potter and was Baymax's first film appearance.</lex>
       <lex comment="good" lid="Id2">Big Hero 6 stars Ryan Potter and was Baymax's first film appearance. It was distributed by Walt Disney Studios Motion Pictures.</lex>
-      <lex comment="good" lid="Id3">Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter.</lex>
+      <lex comment="good" lid="Id3" error_1="Walt Disney Studios Motion Pictures">Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -608,7 +608,7 @@
         <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer, Roger Mckenzie.</lex>
-      <lex comment="good" lid="Id2">Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan.</lex>
+      <lex comment="good" lid="Id2" error_1="Benjamin Urich">Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -646,7 +646,7 @@
         <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
         <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic book character was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
+      <lex comment="good" lid="Id1" error_1="Ben Urich">The comic book character was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
       <lex comment="good" lid="Id2">Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.</lex>
       <lex comment="good" lid="Id3">The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books.</lex>
     </entry>
@@ -668,7 +668,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway who is an American.</lex>
       <lex comment="good" lid="Id2">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway, Jerry Ordway is American.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
@@ -710,7 +710,7 @@
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.</lex>
-      <lex comment="good" lid="Id2">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
+      <lex comment="good" lid="Id2" error_1="Walt Disney Studios Motion Pictures">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
       <lex comment="good" lid="Id3">Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1037,8 +1037,8 @@
         <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character Dane Whitman Black Knight, created by Roy Thomas and John Buscema, is also known as simply Dane Whitman.</lex>
-      <lex comment="good" lid="Id2">Dane Whitman, aka Black Knight, was created by John Buschema and Roy Thomas.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="John Buscema">Dane Whitman, aka Black Knight, was created by John Buschema and Roy Thomas.</lex>
+    </entry>
     <entry category="ComicsCharacter" eid="Id60" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>John_Buscema | nationality | Americans</otriple>
@@ -1057,7 +1057,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character, Dane Whitman Black Knight was created by Roy Thomas and the American, John Buscema.</lex>
       <lex comment="good" lid="Id2">The comic book character Dane Whitman, also known as the Black Knight, was created by Roy Thomas and the American, John Buscema in the comics genre.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id61" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Baymax | creator | Duncan_Rouleau</otriple>
@@ -1095,7 +1095,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character Auron's full name is Lambien and he was created by the American, Karl Kesel.</lex>
       <lex comment="good" lid="Id2">Auron - full name Lambien - is a comic character created by the American Karl Kesel.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id63" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>

@@ -37,9 +37,9 @@
         <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
         <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
-      <lex comment="good" lid="Id2">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
-      <lex comment="good" lid="Id3">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="good" lid="Id1" error_1="Puerto Ricans">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id2" error_1="Puerto Ricans">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id3" error_1="Puerto Ricans">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -94,9 +94,9 @@
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
         <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Big Hero 6 starred May Rudolph and the character of Baymax who was created by the American, Duncan Rouleau.</lex>
+      <lex comment="good" lid="Id1" error_1="Maya Rudolph">Big Hero 6 starred May Rudolph and the character of Baymax who was created by the American, Duncan Rouleau.</lex>
       <lex comment="good" lid="Id2">Baymax is a character in the film Big Hero 6 which starred Maya Rudolph. The creator of this character was American born Duncan Rouleau.</lex>
       <lex comment="good" lid="Id3">Maya Rudolph stars in Big Hero 6 in which the character Baymax also appears. Baymax was created by the American, Duncan Rouleau.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

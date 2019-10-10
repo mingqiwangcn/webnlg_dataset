@@ -55,7 +55,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Azerbaijan's leader is Artur Rasizade and his official title is Prime Minister of Azerbaijan. Baku is the capital and the Baku Turkish Martyrs Memorial which is dedicated to the Ottoman army soldiers killed in the Battle of Baku is located in the country.</lex>
       <lex comment="good" lid="Id2">Dedicated to the Ottoman Army soldiers killed in the Battle of Baku and located in Baku is the Turkish Martyrs Memorial. Baku is the capital of Azerbaijan whose Prime Minister and leader is Artur Rasizade.</lex>
-      <lex comment="good" lid="Id3">The Baku Turkish Martyr's Memorial honours the Ottoman Army Soldiers killed in the Battle of Baku. Artur Rasizade is the leader and Prime Minister of Azerbaijan whose capital is Baku.</lex>
+      <lex comment="good" lid="Id3" error_1="Baku Turkish Martyrs' Memorial">The Baku Turkish Martyr's Memorial honours the Ottoman Army Soldiers killed in the Battle of Baku. Artur Rasizade is the leader and Prime Minister of Azerbaijan whose capital is Baku.</lex>
     </entry>
     <entry category="Monument" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -72,7 +72,7 @@
         <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
         <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baku is the capital of Azerbaijan where the legislature is the National Assembly and the leader is Artur Rasizade. The country is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman army who lost their lives in the battle of Baku.</lex>
+      <lex comment="good" lid="Id1" error_1="Ottoman Army soldiers killed in the Battle of Baku">Baku is the capital of Azerbaijan where the legislature is the National Assembly and the leader is Artur Rasizade. The country is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman army who lost their lives in the battle of Baku.</lex>
       <lex comment="good" lid="Id2">The Turkish Martyrs Memorial, dedicated to Ottoman Army soldiers killed in the Battle of Baku is located in that city, the Capital of Azerbaijan. The leader of the country, Artur Rasizade is head of the National Assembly.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku. The Memorial is situated in Azerbaijan whose capital city is Baku. Azerbaijan has legislature of National Assembly and the leader's name is Artur Rasizade.</lex>
     </entry>
@@ -95,5 +95,5 @@
       <lex comment="good" lid="Id2">President of Turkey is the official title of the Turkish leader and his name is Ahmet Davutoglu. Turkey's capital is Ankara and its largest city is Istanbul. The Atatürk Monument is located in Izmir, Turkey.</lex>
       <lex comment="good" lid="Id3">The Ataturk Monument (Izmir) is located in Turkey, whose largest city is Istanbul and whose capital is Ankara. President of Turkey is the official title of the Turkish leader and his name is Ahmet Davutoglu.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

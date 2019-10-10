@@ -69,7 +69,7 @@
       <modifiedtripleset>
         <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Al Taqaddum Air Base serves the city of Fallujah.</lex>
+      <lex comment="good" lid="Id1" error_1="Al-Taqaddum Air Base">The Al Taqaddum Air Base serves the city of Fallujah.</lex>
       <lex comment="good" lid="Id2">Al-Taqaddum Air Base serves the city of Fallujah.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
@@ -100,7 +100,7 @@
       <modifiedtripleset>
         <mtriple>Allama_Iqbal_International_Airport | runwayLength | 3360.12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway length at Allama Iqbal International Airport is 3,360.12.</lex>
+      <lex comment="good" lid="Id1" error_1="3360.12">The runway length at Allama Iqbal International Airport is 3,360.12.</lex>
       <lex comment="good" lid="Id2">The runway at Allama Iqbal International Airport has a length of 3360.12.</lex>
       <lex comment="good" lid="Id3">The runway at Allama Iqbal International Airport is 3360.12 long.</lex>
     </entry>
@@ -133,9 +133,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "06/24 'Kaagbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 06/24 Kaagbaan.</lex>
-      <lex comment="good" lid="Id2">06/24, Kaagbaan, is the runway name of Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 06/24 Kaagbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="06/24 'Kaagbaan'">Amsterdam Airport Schiphol runway name is 06/24 Kaagbaan.</lex>
+      <lex comment="good" lid="Id2" error_1="06/24 'Kaagbaan'">06/24, Kaagbaan, is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3" error_1="06/24 'Kaagbaan'">The runway name of Amsterdam Airport Schiphol is 06/24 Kaagbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -145,7 +145,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is 973 metres above sea level.</lex>
-      <lex comment="good" lid="Id2">Andrews airport's is 973.0 above sea level.</lex>
+      <lex comment="good" lid="Id2" error_1="Andrews County Airport">Andrews airport's is 973.0 above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -384,7 +384,7 @@
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | regionServed | New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New Jersey is a region served by the Port Authority of New York and New Jersey.</lex>
-      <lex comment="good" lid="Id2">The Port Authority of N.Y. and N.J. serves New Jersey.</lex>
+      <lex comment="good" lid="Id2" error_1="Port Authority of New York and New Jersey">The Port Authority of N.Y. and N.J. serves New Jersey.</lex>
       <lex comment="good" lid="Id3">The Port Authority of New York and New Jersey serves the region of New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
@@ -409,7 +409,7 @@
       <modifiedtripleset>
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The USAF was involved in the 1986 bombing of Libya.</lex>
+      <lex comment="good" lid="Id1" error_1="1986 United States bombing of Libya">The USAF was involved in the 1986 bombing of Libya.</lex>
       <lex comment="good" lid="Id2">The United States Air Force was fighting in the United States bombing of Libya in 1986.</lex>
       <lex comment="good" lid="Id3">The 1986 United States bombing of Libya was carried out by the United States Air Force.</lex>
     </entry>
@@ -423,5 +423,5 @@
       <lex comment="good" lid="Id1">The United States Air Force has a Boeing C-17 Globemaster III transport aircraft.</lex>
       <lex comment="good" lid="Id2">The Boeing C-17 Globemaster III is a transport aircraft of the United States Air Force.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

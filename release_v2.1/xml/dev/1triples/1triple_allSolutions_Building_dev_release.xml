@@ -98,7 +98,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located at East Link Bridge.</lex>
       <lex comment="good" lid="Id2">The 3Arena is located on the East Link Bridge.</lex>
-      <lex comment="good" lid="Id3">3 Arena is located at East Link Bridge.</lex>
+      <lex comment="good" lid="Id3" error_1="3Arena">3 Arena is located at East Link Bridge.</lex>
     </entry>
     <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -280,7 +280,7 @@
       <modifiedtripleset>
         <mtriple>Republic_of_Ireland | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ireland official language is Irish English.</lex>
+      <lex comment="good" lid="Id1" error_1="Republic of Ireland">Ireland official language is Irish English.</lex>
       <lex comment="good" lid="Id2">The English language is the main language of the Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">One language used in the Republic of Ireland is English.</lex>
     </entry>
@@ -326,5 +326,5 @@
       <lex comment="good" lid="Id1">Paul Ryan is the leader of the United States.</lex>
       <lex comment="good" lid="Id2">The leader of the United States is Paul Ryan.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -61,7 +61,7 @@
         <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
         <mtriple>Abraham_A._Ribicoff | office (workedAt, workedAs) | "Governor of Connecticut"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham A. Ribicoff was born in Connecticut, United States, where he became governor. He was a member of the Democratic party in the United States. He died in the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="American">Abraham A. Ribicoff was born in Connecticut, United States, where he became governor. He was a member of the Democratic party in the United States. He died in the United States.</lex>
       <lex comment="good" lid="Id2">Abraham A Ribicoff was an American National born in Connecticut. He was a member of the United States Democratic Party and held the office of Governor of Connecticut before he died in the US.</lex>
       <lex comment="good" lid="Id3">American Abraham A. Ribicoff born in Connecticut was a member of United States Democratic Party and worked as a governor of Connecticut. He passed away in United Staes.</lex>
     </entry>
@@ -80,9 +80,9 @@
         <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
         <mtriple>Abraham_A._Ribicoff | deathPlace | New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the U.S., the country Abraham A. Ribicoff was a national of. Abraham A. Ribicoff; was born in Connecticut, married to Casey Ribicoff, and died in New York.</lex>
+      <lex comment="good" lid="Id1" error_1="Native Americans in the United States">Native Americans are an ethnic group in the U.S., the country Abraham A. Ribicoff was a national of. Abraham A. Ribicoff; was born in Connecticut, married to Casey Ribicoff, and died in New York.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in Connecticut. He was married to Casey Ribicoff. He was also a national to the United States and he died in New York. The Native Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">Native Americans are an ethnic group in the U.S. one of the citizens of that country was, Abraham A Ribicoff. He born in Connecticut. married to Casey Ribicoff and died in New York.</lex>
+      <lex comment="good" lid="Id3" error_1="Native Americans in the United States">Native Americans are an ethnic group in the U.S. one of the citizens of that country was, Abraham A Ribicoff. He born in Connecticut. married to Casey Ribicoff and died in New York.</lex>
     </entry>
     <entry category="Politician" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -100,8 +100,8 @@
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Holloway, who was born in Faversham, Kent, England, is a member of the Conservative Party in the UK. He studied at Magdalene College Cambridge before joining the Grenadier Guards and later starting his political career on 5th May 2005.</lex>
-      <lex comment="good" lid="Id2">Englishman Adam Holloway, born in Faversham, Kent and having attended Magdalene College in Cambridge, then joined the Grenadier Guards. He is a member of the UK Conservative Party and began his political career on 5th May 2005.</lex>
-      <lex comment="good" lid="Id3">Adam Holloway was born in Faversham, Kent, England and he went to Magdalene College, Cambridge and joined the Grenadier Guards in the military before joining the Tories.</lex>
+      <lex comment="good" lid="Id2" error_1="Faversham, Kent, England">Englishman Adam Holloway, born in Faversham, Kent and having attended Magdalene College in Cambridge, then joined the Grenadier Guards. He is a member of the UK Conservative Party and began his political career on 5th May 2005.</lex>
+      <lex comment="good" lid="Id3" error_1="Conservative Party (UK)">Adam Holloway was born in Faversham, Kent, England and he went to Magdalene College, Cambridge and joined the Grenadier Guards in the military before joining the Tories.</lex>
     </entry>
     <entry category="Politician" eid="Id6" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -216,7 +216,7 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, New York City. He died on 1 February 1896 in Dona Ana County, New Mexico, US.</lex>
-      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in New York City on Staten Island. He died on February 1st, 1896 in Dona Ana County, New Mexico.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">Albert Jennings Fountain was born in New York City on Staten Island. He died on February 1st, 1896 in Dona Ana County, New Mexico.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York City and died 1896-02-01 in Dona Ana County, New Mexico, United States.</lex>
     </entry>
     <entry category="Politician" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -241,9 +241,9 @@
         <mtriple>Albert_Jennings_Fountain | dateOfDeath | 1896-02-01</mtriple>
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">New York City (Staten Island) was the birthplace of Albert Jennnings, who died in Dona Ana County, New Mexico Territory, on 1896-02-01.</lex>
-      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in Staten Island, New York City. He died in Dona Ana County, New Mexico on 1896-02-01.</lex>
-      <lex comment="good" lid="Id3">Albert Jennings Fountain was born in New York City on Staten Island and died in Dona Ana County, New Mexico on February 1st, 1896.</lex>
+      <lex comment="good" lid="Id1" error_1="Albert Jennings Fountain">New York City (Staten Island) was the birthplace of Albert Jennnings, who died in Dona Ana County, New Mexico Territory, on 1896-02-01.</lex>
+      <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in Staten Island, New York City. He died in Dona Ana County, New Mexico on 1896-02-01.</lex>
+      <lex comment="good" lid="Id3" error_1="New Mexico Territory">Albert Jennings Fountain was born in New York City on Staten Island and died in Dona Ana County, New Mexico on February 1st, 1896.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -324,7 +324,7 @@
         <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
         <mtriple>Alvah_Sabin | state | Vermont</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alvah Sabin, who was from Vermont, represented the state's 3rd Congressional District and he worked as the Secretary of State of Vermont. Sabin ended his career on March 3rd, 1857 and as a point of interest, the largest city in the state is Burlington.</lex>
+      <lex comment="good" lid="Id1" error_1="Vermont's 3rd congressional district">Alvah Sabin, who was from Vermont, represented the state's 3rd Congressional District and he worked as the Secretary of State of Vermont. Sabin ended his career on March 3rd, 1857 and as a point of interest, the largest city in the state is Burlington.</lex>
       <lex comment="good" lid="Id2">Burlington is the largest city in Vermont, the state Alvah Sabin was from. Alvah Sabin; represented Vermont's 3rd Congressional District, worked as the Secretary of State of Vermont and ended his career, 1857-03-03.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin worked as the Secretary of the State of Vermont, the state where he was born and his home to Burlington, the state' largest city. He represented Vermont's 3rd Congressional District and ended his career on March 3rd, 1857.</lex>
     </entry>
@@ -343,7 +343,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
         <mtriple>Battle_of_Gettysburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Alfred Moore Scales fought at the Battle of Gettysburg during the American Civil War. Jefferson Davis was one of the war's commanders and one of several ethnic groups in the U.S. are the Native Americans.</lex>
+      <lex comment="good" lid="Id1" error_1="Native Americans in the United States">American Alfred Moore Scales fought at the Battle of Gettysburg during the American Civil War. Jefferson Davis was one of the war's commanders and one of several ethnic groups in the U.S. are the Native Americans.</lex>
       <lex comment="good" lid="Id2">Native Americans are the ethnic group in the United States. Alfred Moore Scales lived in the United States and involved in was the Battle of Gettysburg. The Battle of Gettysburg was part of the American Civil War conflict, during which, one of the commanders was Jefferson Davis.</lex>
       <lex comment="good" lid="Id3">Native Americans are an ethnic group in the United States, the country where Alfred Moore Scales lived. He had fought in the Battle of Gettysburg which took place during the American Civil War. A commander in the American Civil War was Jefferson Davis.</lex>
     </entry>
@@ -385,5 +385,5 @@
       <lex comment="good" lid="Id2">Argentina's Labour Party President Juan Peron was married to Eva Peron. Argentina is Spanish speaking and home to Alberto Teisaire (in office during Peron's leadership).</lex>
       <lex comment="good" lid="Id3">They speak Spanish in Argentina where Alberto Teisaire was from. Alberto Teisaire was in office while Juan Perón was president. Juan Perón was a member of the Labour Party in Argentina and was married to Eva Perón.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -29,7 +29,7 @@
       <modifiedtripleset>
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Mayor is the leader in Albuquerque, N.M.</lex>
+      <lex comment="good" lid="Id1" error_1="Albuquerque, New Mexico">The Mayor is the leader in Albuquerque, N.M.</lex>
       <lex comment="good" lid="Id2">The Mayor leads Albuquerque, New Mexico.</lex>
       <lex comment="good" lid="Id3">The leader title of Albuquerque, New Mexico, is Mayor.</lex>
     </entry>
@@ -322,8 +322,8 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States House of representatives, is located in the United States Capitol.</lex>
-      <lex comment="good" lid="Id2">The U.S. House of Representatives is in the U.S. Capitol.</lex>
+      <lex comment="good" lid="Id2" error_1="United States Capitol" error_2="United States House of Representatives">The U.S. House of Representatives is in the U.S. Capitol.</lex>
       <lex comment="good" lid="Id3">The United States House of Representatives is located at the United States Capitol.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

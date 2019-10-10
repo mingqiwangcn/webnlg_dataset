@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, is in Fulton County, Georgia, in the United States, a country where Native Americans are an ethnic group. The largest city in Fulton County is Atlanta.</lex>
       <lex comment="good" lid="Id2">The Native Americans are an ethnic group in the United States where Fulton County is found. The County, which is in the state of Georgia is the location of Alpharetta and has Atlanta as its largest city.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id3" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
@@ -125,7 +125,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana, is part of the Anderson Township and Fall Creek Township, Madison County in Indiana, U.S. Anderson has 523.9 people per square kilometer and an area of 107.43 square kilometres.</lex>
       <lex comment="good" lid="Id2">Anderson is part of Fall Creek Township, Madison County, Indiana in he U.S. Anderson is 107.43 square kilometres large and has 523.9 residents for every square kilometre.</lex>
-      <lex comment="good" lid="Id3">Located in the United States, in Madison County is Anderson, in Fall Creek Township, Anderson, part of Anderson Township, has an area of 107.43 square kilometres and a population density of 523.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3" error_1="Anderson Township, Madison County, Indiana" error_2="Anderson, Indiana" error_3="Fall Creek Township, Madison County, Indiana">Located in the United States, in Madison County is Anderson, in Fall Creek Township, Anderson, part of Anderson Township, has an area of 107.43 square kilometres and a population density of 523.9 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -182,9 +182,9 @@
         <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlanta which is part of DeKalb County Georgia has a population of 1299.0 inhabitants per square kilometre, covers 344,9 square kilometres and total area is 347.1 sq KM has an area code of 404.</lex>
+      <lex comment="good" lid="Id1" error_1="344.9 (square kilometres)">Atlanta which is part of DeKalb County Georgia has a population of 1299.0 inhabitants per square kilometre, covers 344,9 square kilometres and total area is 347.1 sq KM has an area code of 404.</lex>
       <lex comment="good" lid="Id2">Atlanta, (part of DeKalb County, Georgia), covers an area of 344.9 (square kilometres) and has 1299 people per sq km. Its total area is 347.1 sq km. The area code for Atlanta is 404.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Attica,_Indiana | subdivisionName | United_States</otriple>
@@ -200,9 +200,9 @@
         <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, part of Logan Township, Indiana, United States, lies 166 above sea level and has a population density of 783.1 people for each of its 4.14 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Attica, located in Logan Township Indiana, is 166 ft above sea level. It has a population density of 783.1, and is 4.14 square km.</lex>
-      <lex comment="good" lid="Id3">Attica is part of Logan Township, Fountain County, Indiana, U.S. and is 166m a.s.l. Attica in Indiana, has a total area of 4.14 square kilometres and a population density of 781.1 per Sq. Km.</lex>
+      <lex comment="good" lid="Id1" error_1="Logan Township, Fountain County, Indiana">Attica, part of Logan Township, Indiana, United States, lies 166 above sea level and has a population density of 783.1 people for each of its 4.14 square kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="Logan Township, Fountain County, Indiana" error_2="United States">Attica, located in Logan Township Indiana, is 166 ft above sea level. It has a population density of 783.1, and is 4.14 square km.</lex>
+      <lex comment="good" lid="Id3" error_1="783.1 (inhabitants per square kilometre)">Attica is part of Logan Township, Fountain County, Indiana, U.S. and is 166m a.s.l. Attica in Indiana, has a total area of 4.14 square kilometres and a population density of 781.1 per Sq. Km.</lex>
     </entry>
     <entry category="City" eid="Id10" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -287,7 +287,7 @@
         <mtriple>Auburn,_Washington | populationDensity | 914.8 (inhabitants per square kilometre)</mtriple>
         <mtriple>Auburn,_Washington | areaTotal | 77.41 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The population density of Auburn is 914.8 person for each of its 77.21 square kilometres. Auburn forms part of King County and Pierce County, both of Washington, United States.</lex>
+      <lex comment="good" lid="Id1" error_1="77.41 (square kilometres)">The population density of Auburn is 914.8 person for each of its 77.21 square kilometres. Auburn forms part of King County and Pierce County, both of Washington, United States.</lex>
       <lex comment="good" lid="Id2">Auburn is part of both King County and Pierce County in Washington which is located in the United States. It has a population density of 914.8 inhabitants per sq km and covers a total area of 77.41 sq kms.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Pierce County and King County, Washington, U.S. The population density of Auburn is 914.8 inhabitants per sq km. and the total area is 77.41 sq kms.</lex>
     </entry>
@@ -345,7 +345,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the languages of Texas, the location of Austin in Hays County, is Spanish. The county seat is San Marcos but the largest city in Texas is Houston.</lex>
       <lex comment="good" lid="Id2">Austin is a part of Texas, where the largest city is Houston and Spanish is one of the languages spoken. Austin is in Hays County, whose county seat is San Marcos.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Indiana | capital | Indianapolis</otriple>
@@ -368,9 +368,9 @@
         <mtriple>Indiana | language | English_Americans</mtriple>
         <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alexandria, part of Madison County, Indiana is in the U.S. The capital of Indiana is Indianapolis. American English is spoken in that state.</lex>
-      <lex comment="good" lid="Id2">Alexandria is part of Madison County, Indiana, U.S. Indianapolis is the capital of Indiana where American English is spoken.</lex>
-      <lex comment="good" lid="Id3">Alexandria is part of the state of Indiana, United States, and Indianapolis is the capital. Alexandria, is part of Madison County Indiana, where the language is American English.</lex>
+      <lex comment="good" lid="Id1" error_1="English Americans">Alexandria, part of Madison County, Indiana is in the U.S. The capital of Indiana is Indianapolis. American English is spoken in that state.</lex>
+      <lex comment="good" lid="Id2" error_1="English Americans">Alexandria is part of Madison County, Indiana, U.S. Indianapolis is the capital of Indiana where American English is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="English Americans">Alexandria is part of the state of Indiana, United States, and Indianapolis is the capital. Alexandria, is part of Madison County Indiana, where the language is American English.</lex>
     </entry>
     <entry category="City" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -408,7 +408,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tarrant County has its largest city as Fort Worth. Arlington, Tarrant County, Texas, and Austin (TX capital) is part of the United States.</lex>
       <lex comment="good" lid="Id2">Texas, located in the United States, has a capital city of Austin. It is also home to Arlington (located in Tarrant County) and Fort Worth, which is the largest city in Texas.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id18" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -482,8 +482,8 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Americans are the people occupying the US and one of the ethnic groups are the African Americans. English is the language spoken in the US. Angola is in Steuben County, Indiana, which is part of the United States.</lex>
-      <lex comment="good" lid="Id2">Angola, is in Steuben County, in the United States Where English is spoken, the inhabitants are Americans, and one of the ethnic groups, is African Americans.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="Angola, Indiana" error_2="Steuben County, Indiana">Angola, is in Steuben County, in the United States Where English is spoken, the inhabitants are Americans, and one of the ethnic groups, is African Americans.</lex>
+    </entry>
     <entry category="City" eid="Id22" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
@@ -558,7 +558,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, New Mexico is located in the United States and English is the spoken language there. The leader of the United States is called the President whom was Barack Obama recently.</lex>
       <lex comment="good" lid="Id2">The leader of the United States, which uses the English language, is President Barack Obama. Albuquerque in New Mexico is located within the country.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id26" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | language | English_language</otriple>
@@ -615,5 +615,5 @@
       <lex comment="good" lid="Id2">The leader of the United States, which includes the ethnic group of African Americans among its population of Americans, is the President. The country is the location of Albany in Georgia.</lex>
       <lex comment="good" lid="Id3">Americans live in the United States where the leader if known as the President. The country includes the ethnic group of African Americans and is the location of Albany, Georgia.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

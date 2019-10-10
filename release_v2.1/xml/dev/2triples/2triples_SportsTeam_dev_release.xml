@@ -23,7 +23,7 @@
         <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
         <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc Antonio Bentegodi.</lex>
       <lex comment="good" lid="Id2">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.</lex>
       <lex comment="good" lid="Id3">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A.</lex>
     </entry>
@@ -66,7 +66,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
         <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.E. Dimitra Efeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
+      <lex comment="good" lid="Id1" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
       <lex comment="good" lid="Id2">With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -132,7 +132,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team.</lex>
       <lex comment="good" lid="Id2">A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team.</lex>
-      <lex comment="good" lid="Id3">A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team.</lex>
+      <lex comment="good" lid="Id3" error_1="Italy national football team">A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -219,8 +219,8 @@
         <mtriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</mtriple>
         <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.</lex>
-      <lex comment="good" lid="Id2">AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Topklasse">AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Topklasse">AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.</lex>
       <lex comment="good" lid="Id3">AFC Ajax (amateurs) played in the 2014-15 Topklasse season and their home ground has a capacity for 5000 fans.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -232,8 +232,8 @@
         <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena in Shuvulan.</lex>
-      <lex comment="good" lid="Id2">The AZAL Arena is located in Shuvulan and is the ground of AZAL PFK.</lex>
+      <lex comment="good" lid="Id1" error_1="Shuvalan">AZAL PFK play their home matches at the AZAL Arena in Shuvulan.</lex>
+      <lex comment="good" lid="Id2" error_1="Shuvalan">The AZAL Arena is located in Shuvulan and is the ground of AZAL PFK.</lex>
       <lex comment="good" lid="Id3">The AZAL Arena in Shuvalan is the ground of AZAL PFK.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -306,6 +306,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Massimo Drago's club is the S.S. Chieti Calcio and he manages A.C. Cesena.</lex>
       <lex comment="good" lid="Id2">Massimo Drago manages A.C. Cesena and plays for S.S. Chieti Calcio.</lex>
-      </entry>
-    </entries>
+    </entry>
+  </entries>
 </benchmark>

@@ -15,7 +15,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument in Gettysburg, Pennsylvania of the U.S.A., is considered a contributing property and was erected in 2000.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>11th_Mississippi_Infantry_Monument | country | "United States"@en</otriple>
@@ -46,8 +46,8 @@
         <mtriple>Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adams County in Pennsylvania is located to the south of Cumberland County and northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania with Cumberland County lying to the north and Carroll County, Maryland to the southeast.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Adams County in Pennsylvania is located to the south of Cumberland County and northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania with Cumberland County lying to the north and Carroll County, Maryland to the southeast.</lex>
     </entry>
     <entry category="Monument" eid="Id4" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -186,7 +186,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">The 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry monument is located in the United States within the Monocacy National Battlefield. It was established on 11 July 1907 and is categorised as a historic district.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) is located on the Monocacy National Battlefield in the United States, where it is categorised as a historic district.</lex>
     </entry>
@@ -221,7 +221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Adams County. It is the location of the 11th Mississippi Infantry monument.</lex>
       <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
-      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adam County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
+      <lex comment="good" lid="Id3" error_1="Adams County, Pennsylvania">The 11th Mississippi Infantry Monument is located in Adam County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg in Adams County, Pennsylvania, which has Cumberland county to its north and Frederick County, Maryland to its southwest.</lex>
     </entry>
     <entry category="Monument" eid="Id14" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -237,7 +237,7 @@
         <mtriple>Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, established in 2000, can be found in Adams County Pennsylvania. The county is bordered to the north by Cumberland county and to the southeast by Carroll County.</lex>
+      <lex comment="good" lid="Id1" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument, established in 2000, can be found in Adams County Pennsylvania. The county is bordered to the north by Cumberland county and to the southeast by Carroll County.</lex>
       <lex comment="good" lid="Id2">In 2000 the 11th Mississippi Infantry monument was established in Adams County, Pennsylvania. This County is south of Cumberland County and to the northwest of Carroll County, Maryland.</lex>
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument was established in 2000 and is located in Adams County Pennsylvania, to the north of which is Cumberland County and to its southeast is Carroll County, Maryland.</lex>
     </entry>
@@ -306,7 +306,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Franklin County to its west, Cumberland County to its north, and Carroll County Maryland to its southeast.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Franklin County to its west, Carroll County Maryland to its southeast, and Cumberland County Pennsylvania to its north.</lex>
-      <lex comment="good" lid="Id3">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. This County is east of Franklin County and south of Cumberland County. Carrrol County, Maryland can be found to the south east.</lex>
+      <lex comment="good" lid="Id3" error_1="Carroll County, Maryland">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. This County is east of Franklin County and south of Cumberland County. Carrrol County, Maryland can be found to the south east.</lex>
     </entry>
     <entry category="Monument" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -373,7 +373,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial which is made of red granite and white marble is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. The memorial can be found in Azerbaijan's capital Baku.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Azerbaijan | capital | Baku</otriple>
@@ -421,7 +421,7 @@
         <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
         <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial can be found is Azerbaijan which is led by Prime Minister Artur Rasizade who leads the National Assembly.</lex>
+      <lex comment="good" lid="Id1" error_1="Prime Minister of Azerbaijan">The Baku Turkish Martyrs' Memorial can be found is Azerbaijan which is led by Prime Minister Artur Rasizade who leads the National Assembly.</lex>
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial is located in Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade, and legislated by the National Assembly.</lex>
       <lex comment="good" lid="Id3">The National Assembly dictates the legislature of Azerbaijan and the leader, who has the title Prime Minister, is Artur Rasizade. Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
     </entry>
@@ -457,7 +457,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial in Azerbaijan. The memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id2">The soldiers of the Ottoman army killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial located in Azerbaijan. It was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner.</lex>
-      <lex comment="good" lid="Id3">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial found in Azerbaijan. It was designed in red granite and white marble by Hilmi Guner and Huseyin Butuner.</lex>
+      <lex comment="good" lid="Id3" error_1="Huseyin Butuner and Hilmi Guner">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial found in Azerbaijan. It was designed in red granite and white marble by Hilmi Guner and Huseyin Butuner.</lex>
     </entry>
     <entry category="Monument" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -542,7 +542,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dead Man's plack is made of rock and found in England (the capital of which is London) where Cornish is spoken.</lex>
       <lex comment="good" lid="Id2">The Dead Man's Plack is a monument made of rock situated in England. The capital of England is London, and Cornish is one of languages spoken in England.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id33" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Dead_Man's_Plack | location | England</otriple>
@@ -678,7 +678,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ataturk monument (Izmir) is made out of bronze. It was inaugurated on 27 July 1932 and located in Turkey, where the capital is Ankara.</lex>
       <lex comment="good" lid="Id2">Turkey, where the capital is Ankara, is the location of the bronze Ataturk monument (Izmir). The monument was inaugurated on 27 July 1932.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id41" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
@@ -710,7 +710,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Turkey's capital is Ankara and the currency is the Turkish lira. The leader of Turkey is Ahmet Davutoglu. The Ataturk monument is located in Izmir.</lex>
-      <lex comment="good" lid="Id2">The Atatürk Monument in İzmir, Turkey, which has Ankara as its capital and uses the Lira as its currency, is led by Ahmet Davutoglu .</lex>
+      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument in İzmir, Turkey, which has Ankara as its capital and uses the Lira as its currency, is led by Ahmet Davutoglu .</lex>
       <lex comment="good" lid="Id3">Turkey, whose currency is the Turkish Lira, is led by Ahmet Davutoğlu from the capital Ankara. The Atatürk Monument (İzmir) is in Turkey.</lex>
       <lex comment="good" lid="Id4">Turkey, whose currency is the Turkish lira, is led by Ahmet Davutoğlu from the capital Ankara. The Atatürk Monument (İzmir) is found in Turkey.</lex>
     </entry>
@@ -761,7 +761,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ataturk Monument (Izmir) is located in Turkey and the Turkish leader is Ahmet Davutoglu. The largest city is Istanbul and the currency is the Turkish lira.</lex>
-      <lex comment="good" lid="Id2">The Atatürk Monument is located in Izmir, Turkey, where the largest city is Istanbul, the currency is the lira, and the leader's name is Ahmet Davutoğlu.</lex>
+      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument is located in Izmir, Turkey, where the largest city is Istanbul, the currency is the lira, and the leader's name is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id3">Turkey's largest city is Istanbul, the currency is the lira and the Turkish leader is Ahmet Davutoğlu. The Atatürk Monument (İzmir) is found in Turkey.</lex>
     </entry>
     <entry category="Monument" eid="Id46" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

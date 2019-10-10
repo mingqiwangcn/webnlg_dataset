@@ -164,7 +164,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor's architect was George Richard Pain and it was completed in 1862.</lex>
       <lex comment="good" lid="Id2">The architect George Richard Pain completed Adare Manor in 1862.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Adare_Manor | location | Adare</otriple>
@@ -331,5 +331,5 @@
       <lex comment="good" lid="Id2">The 3Arena is located in Dublin in the Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">The 3Arena is located in Dublin, which is part of the Republic of Ireland.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

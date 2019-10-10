@@ -15,7 +15,7 @@
         <mtriple>Apollo_12 | commander | David_Scott</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean (of the United States) was a crew member of NASA's Apollo 12 under the commander David Scott.</lex>
-      <lex comment="good" lid="Id2">United States national Alan Bean was a crew member of NASA's Apollo 12 mission under commander David S cott.</lex>
+      <lex comment="good" lid="Id2" error_1="David Scott">United States national Alan Bean was a crew member of NASA's Apollo 12 mission under commander David S cott.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -32,7 +32,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard, who was born in New Hampshire on November 18th, 1923, graduated with a M.A. from NWC in 1957 and retired on August 1st, 1974.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born 1923-11-18 in New Hampshire. He obtained a MA in 1957 from "NWC" he retired 1974-08-01.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Alan_Shepard | status | "Deceased"@en</otriple>
@@ -112,7 +112,7 @@
         <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See, a graduate of University of Texas at Austin, was born in Dallas on July 23, 1927, and died in St. Louis.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -127,8 +127,8 @@
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See attended the University of Texas in Austin. He became a test pilot. He died in St. Louis on 1966-02-28.</lex>
-      <lex comment="good" lid="Id2">Elliot See attended the University of Texas at Austin. He was a pilot and died in St. Louis, 28th February 1966.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="Test pilot">Elliot See attended the University of Texas at Austin. He was a pilot and died in St. Louis, 28th February 1966.</lex>
+    </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
@@ -160,7 +160,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born on July 23rd, 1927 in Dallas, and died in St. Louis on February 28th, 1966.</lex>
       <lex comment="good" lid="Id2">Elliot See was born 23rd July 1927 in Dallas and died in St. Louis on 28th February 1966.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
@@ -175,7 +175,7 @@
         <mtriple>Apollo_8 | backup pilot | Buzz_Aldrin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The members of Apollo 8 were Buzz Aldrin who was backup pilot, commander Frank Borman and William Anders who retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2">William Anders served as a crew member of Apollo 8 under Commander Frank Borrman and backup pilot Buzz Aldrin. He retired 1969.09.01.</lex>
+      <lex comment="good" lid="Id2" error_1="Frank Borman">William Anders served as a crew member of Apollo 8 under Commander Frank Borrman and backup pilot Buzz Aldrin. He retired 1969.09.01.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

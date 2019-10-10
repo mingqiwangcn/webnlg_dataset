@@ -38,7 +38,7 @@
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 was produced and built by the American Locomotive Company between May 1950 and August 1956. It has a V12 engine and a diesel-electric transmission.</lex>
-      <lex comment="good" lid="Id2">The ALCO RS-3, built by the American Locomotive Company, has a diesel-electric, V12 engine and was produced from May 1950 to August 1956.</lex>
+      <lex comment="good" lid="Id2" error_1="Diesel-electric transmission">The ALCO RS-3, built by the American Locomotive Company, has a diesel-electric, V12 engine and was produced from May 1950 to August 1956.</lex>
       <lex comment="good" lid="Id3">The American Locomotive Company produced the ALCO RS-3 between May 1950 and August 1956. It has a V12 engine and a diesel-electric transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -54,8 +54,8 @@
         <mtriple>American_Locomotive_Company | locationCountry | United_States</mtriple>
         <mtriple>American_Locomotive_Company | foundationPlace | Schenectady,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Locomotive Co. was founded in Schenectady, New York and is located in the US. It built the ALCO RS-3 which is 17068.8 mms in length.</lex>
-      <lex comment="good" lid="Id2">The ALCO RS-3 was made in the U.S. in Schenectady, N.Y. by the American Locomotive Co. The ALCO RS-3 is 17068.8 millimetres long.</lex>
+      <lex comment="good" lid="Id1" error_1="American Locomotive Company">The American Locomotive Co. was founded in Schenectady, New York and is located in the US. It built the ALCO RS-3 which is 17068.8 mms in length.</lex>
+      <lex comment="good" lid="Id2" error_1="American Locomotive Company" error_2="Schenectady, New York">The ALCO RS-3 was made in the U.S. in Schenectady, N.Y. by the American Locomotive Co. The ALCO RS-3 is 17068.8 millimetres long.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 whose length is 17068.8mm, was built by the American Locomotive Company in Schenectady, New York, US.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -71,7 +71,7 @@
         <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
         <mtriple>ALCO_RS-3 | powerType | Diesel-electric_transmission</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Montreal Locomotive Works built the ALCO RS-3 between May 1950 and Aug. 1956. It has a V12 engine and Diesel-Electric transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="May 1950 - August 1956">Montreal Locomotive Works built the ALCO RS-3 between May 1950 and Aug. 1956. It has a V12 engine and Diesel-Electric transmission.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 was built by the Montreal Locomotive Works and produced between May 1950 and August 1956. It has a V12 engine and a diesel-electric transmission.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 which was produced between May 1950 and August 1956, was built by the Montreal Locomotive Works. It has a diesel-electric transmission and a V12 engine.</lex>
     </entry>
@@ -122,7 +122,7 @@
         <mtriple>AMC_Matador | class | Mid-size_car</mtriple>
         <mtriple>AMC_Matador | engine | AMC_straight-6_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The mid-size AMC Matador, or VAM Classic, has an AMC straight-6 engine and is assembled in Kenosha, Wisconsin.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-size car">The mid-size AMC Matador, or VAM Classic, has an AMC straight-6 engine and is assembled in Kenosha, Wisconsin.</lex>
       <lex comment="good" lid="Id2">The AMC Matador (alternative name, VAM Classic) was assembled in Kenosha, Wisconsin. It is classed as a mid-size car and it has an AMC straight-6 engine.</lex>
       <lex comment="good" lid="Id3">The AMC Matador which is also known as the VAM Classic was assembled in Kenosha, Wisconsin. It is classed as a mid-size car and has an AMC straight-6 engine.</lex>
     </entry>
@@ -139,9 +139,9 @@
         <mtriple>Acura_TLX | layout | "front-wheel drive / all-wheel drive"</mtriple>
         <mtriple>Acura_TLX | engine | Honda_K_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The mid-size Acura TLX car was assembled in Marysville Ohio with a front-wheel/all-wheel drive and a Honda K engine.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is classed as a mid-size car, with a Honda K engine and front-wheel and all-wheel drive. It is assembled in Marysville, Ohio.</lex>
-      <lex comment="good" lid="Id3">The Acura TLX is a mid-size car which was assembled in Marysville, Ohio. It has front-wheel and all-wheel drive and a Honda K engine.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-size car" error_2="front-wheel drive / all-wheel drive">The mid-size Acura TLX car was assembled in Marysville Ohio with a front-wheel/all-wheel drive and a Honda K engine.</lex>
+      <lex comment="good" lid="Id2" error_1="front-wheel drive / all-wheel drive">The Acura TLX is classed as a mid-size car, with a Honda K engine and front-wheel and all-wheel drive. It is assembled in Marysville, Ohio.</lex>
+      <lex comment="good" lid="Id3" error_1="front-wheel drive / all-wheel drive">The Acura TLX is a mid-size car which was assembled in Marysville, Ohio. It has front-wheel and all-wheel drive and a Honda K engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -156,9 +156,9 @@
         <mtriple>Acura_TLX | layout | Front-engine_design</mtriple>
         <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acura TLX is a luxury class of vehicle with a V6 front engine design. It is made at the Marysville Auto Plant.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is a luxury vehicle with a V6 front engine design. It is assembled at the Marysville Auto Plant.</lex>
-      <lex comment="good" lid="Id3">The Acura TLX is a luxury class of vehicle made at the Marysville Auto Plant with a V6 engine and a front engine design.</lex>
+      <lex comment="good" lid="Id1" error_1="Front-engine design">Acura TLX is a luxury class of vehicle with a V6 front engine design. It is made at the Marysville Auto Plant.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine design">The Acura TLX is a luxury vehicle with a V6 front engine design. It is assembled at the Marysville Auto Plant.</lex>
+      <lex comment="good" lid="Id3" error_1="Front-engine design">The Acura TLX is a luxury class of vehicle made at the Marysville Auto Plant with a V6 engine and a front engine design.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -198,7 +198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki. The Aleksey Chirikov (icebreaker) is in service and its ship beam is 21.2.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki by the Arctech Helsinki Shipyard. It has a 21.2 m long ship beam and is in service.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
@@ -324,7 +324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American submarine NR-1 was built by General Dynamics Electric Boat and launched on 25 January 1969. It has a beam of 3.8 metres and a top speed of 8.334.</lex>
       <lex comment="good" lid="Id2">General Dynamics Electric Boat is the builder of the American submarine NR-1 and it was launched on January 25th 1969. Its top speed is 8.334 and it has a ship beam of 3.8 m.</lex>
-      <lex comment="good" lid="Id3">The American Submarine NR-1, built by General Dynamics Electric Boat, has a top speed of 8.334. It was launched January 25, 1969 and has a 3.8m ship beam.</lex>
+      <lex comment="good" lid="Id3" error_1="3.8 m">The American Submarine NR-1, built by General Dynamics Electric Boat, has a top speed of 8.334. It was launched January 25, 1969 and has a 3.8m ship beam.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -373,7 +373,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the UK, whose capital is London. It was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">Aston Martin V8 was made by Aston Martin in the UK whose capital is London. The Martin was succeeded by the Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin V8 is assembled in the U.K which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
+      <lex comment="good" lid="Id3" error_1="United Kingdom">The Aston Martin V8 is assembled in the U.K which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -434,9 +434,9 @@
         <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
-      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
-      <lex comment="good" lid="Id3">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id1" error_1="Front-engine, front-wheel-drive layout">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id3" error_1="Front-engine, front-wheel-drive layout" error_2="Supermini">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -586,5 +586,5 @@
       <lex comment="good" lid="Id2">Americans live in the U.S. whose capital is Washington, D.C. and an ethnic group there is known as African Americans. The Atlas II comes from the U.S.</lex>
       <lex comment="good" lid="Id3">Americans live in the United States which has the capital city of Washington DC and numbers African Americans among its ethnic groups. The Atlas II originates from the country.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

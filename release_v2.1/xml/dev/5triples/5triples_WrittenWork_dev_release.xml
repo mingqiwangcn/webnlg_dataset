@@ -37,7 +37,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ethnic group of Ireland is White people and is where A Long Long Way comes from. It was preceded by Annie Dunne and followed by The Secret Scripture which is published by Faber and Faber.</lex>
       <lex comment="good" lid="Id2">An ethnic group of Ireland is white people where A Long Long Way comes from. It was preceded by Annie Dunne preceded and followed by The Secret Scripture which is published by Faber and Faber.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id3" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Above_the_Veil | country | Australians</otriple>
@@ -61,7 +61,7 @@
         <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Above the Veil is an Australian novel and the sequel to Aenir and Castle. It was later followed by Into Battle and The Violet Keystone.</lex>
-      <lex comment="good" lid="Id2">Above the Viel is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.</lex>
+      <lex comment="good" lid="Id2" error_1="Above the Veil">Above the Viel is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into Battle and The Violet Keystone.</lex>
       <lex comment="good" lid="Id3">Above the Veil is an Austrlian novel and the sequel to Aenir and Castle. It was followed by Into the Battle and The Violet Keystone.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -81,7 +81,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and is nicknamed Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.</lex>
       <lex comment="good" lid="Id2">Cornell University is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of American Universities.</lex>
-      <lex comment="good" lid="Id3">Cornell Unversity is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of American Universities.</lex>
+      <lex comment="good" lid="Id3" error_1="Cornell University">Cornell Unversity is in Ithaca, New York and their nickname is Cornell Big Red. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of American Universities.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -135,9 +135,9 @@
         <mtriple>A_Severed_Wasp | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.</lex>
+      <lex comment="good" lid="Id1" error_1="Washington, D.C.">A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp originates in the United States where like in Great Britain, English is also spoken. Washington DC is the capital of the US and one ethnic group is the African Americans.</lex>
-      <lex comment="good" lid="Id3">A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.</lex>
+      <lex comment="good" lid="Id3" error_1="Washington, D.C.">A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -208,7 +208,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leaders of the United Kingdom are Elizabeth II and David Cameron. The AIDS journal is published in the United Kingdom by Lippincott, Williams &amp; Wilkins, whose parent company is Wolters Kluwer.</lex>
       <lex comment="good" lid="Id2">The AIDS journal was published in the United Kingdom where Elizabeth II and David Cameron are leaders. The journal was published by Lippincott Williams &amp; Wilkins whose parent company is Wolters Kluwer.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id11" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>United_States | leader | Barack_Obama</otriple>
@@ -245,5 +245,5 @@
       <lex comment="good" lid="Id1">A Severed Wasp is from the United States, where Barack Obama is the president. English is the main language of the U.S., and is also spoken in Great Britain. Native Americans are one of the national ethnic groups.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp is from the United States, where English is spoken (as in Great Britain), and Barack Obama is President. Native Americans are one of the ethnic groups in the U.S.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

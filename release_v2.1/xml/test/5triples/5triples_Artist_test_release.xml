@@ -205,7 +205,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac is a solo pop music singer who was born in 1972 in the Socialist Republic of Serbia. Disco music is a fusion genre of pop music.</lex>
       <lex comment="good" lid="Id2">Pop music solo singer Aleksandra Kovač was born 1972, in the Socialist Republic of Serbia. Disco is a fusion of pop music.</lex>
-      <lex comment="good" lid="Id3">Pop singer Aleksandra Kovac was born 1972, in the Socialist Republic of Serbia. Disco is a fusion style originating from pop.</lex>
+      <lex comment="good" lid="Id3" error_1="Pop music">Pop singer Aleksandra Kovac was born 1972, in the Socialist Republic of Serbia. Disco is a fusion style originating from pop.</lex>
     </entry>
     <entry category="Artist" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -250,7 +250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in 1872 in Manchester, England in the U.K. He died in London.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, England in the United Kingdom in 1872. He died in London.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England in 1872. He passed away in London.</lex>
+      <lex comment="good" lid="Id3" error_1="United Kingdom">Alfred Garth Jones was born in Manchester, England in 1872. He passed away in London.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -294,8 +294,8 @@
         <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell, a member of the Flibbertigibbet band and the Mellow Candle band, played folk music of Ireland becoming active in her career in 1963. Alison signed to Floating World Records.</lex>
-      <lex comment="good" lid="Id2">Ireland folk musician Alison O'Donnell is signed to Floating World Records and became active in 1963. She is associated with the Flibbertigibbet band and Mellow Candle.</lex>
-      <lex comment="good" lid="Id3">Floating World Records recording, Ireland, artist Alison O'Donnell began performing in 1963 and was a member of the Flibbertigibbet band and Mellow Candle.</lex>
+      <lex comment="good" lid="Id2" error_1="Folk music of Ireland">Ireland folk musician Alison O'Donnell is signed to Floating World Records and became active in 1963. She is associated with the Flibbertigibbet band and Mellow Candle.</lex>
+      <lex comment="good" lid="Id3" error_1="Folk music of Ireland">Floating World Records recording, Ireland, artist Alison O'Donnell began performing in 1963 and was a member of the Flibbertigibbet band and Mellow Candle.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -313,7 +313,7 @@
         <mtriple>Alison_O'Donnell | recordLabel | Stanyan_Records</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell plays jazz music, where Funk is a derivative and has sign for Stanyan Records label as well as Deram records based in London.</lex>
-      <lex comment="good" lid="Id2">Funk is derived from jazz music as performed by Alison O Donnell. She is signed with the record label Stanyan Records and also Deram Records which is based in London.</lex>
+      <lex comment="good" lid="Id2" error_1="Alison O'Donnell">Funk is derived from jazz music as performed by Alison O Donnell. She is signed with the record label Stanyan Records and also Deram Records which is based in London.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performs jazz music, of which funk is a derivative. She was signed to Deram Records in London but is now signed to Stanyan Records.</lex>
     </entry>
     <entry category="Artist" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -333,7 +333,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afrobeat is a fusion genre of Jazz. Funk is a derivative of Jazz which has its stylistic origins in folk music. Alison O'Donnell performs jazz music and can play the autoharp.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell, who plays the autoharp, is a performer of jazz, which has its origins on folk music. Jazz has a derivative called funk and a fusion genre named Afrobeat.</lex>
-      </entry>
+    </entry>
     <entry category="Artist" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Alison_O'Donnell | genre | Jazz</otriple>
@@ -368,7 +368,7 @@
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
         <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Allen Forrest was a solo acoustic singer and was born in the year 1981, in Dothan (Fort Campbell), Alabama.</lex>
+      <lex comment="good" lid="Id1" error_1="Acoustic music">Allen Forrest was a solo acoustic singer and was born in the year 1981, in Dothan (Fort Campbell), Alabama.</lex>
       <lex comment="good" lid="Id2">Allen Forrest was born in Fort Campbell, Dothan, Alabama in 1981. He plays acoustic music and has a background as a solo singer.</lex>
       <lex comment="good" lid="Id3">Allen Forrest was born in Fort Campbell, Dothan, Alabama in 1981. He is a solo singer who performs acoustic music.</lex>
     </entry>
@@ -406,7 +406,7 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
         <mtriple>Anders_Osborne | activeYearsStartYear | 1989</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne musical career began in 1989. His career began in the blue's genre. He has been associated with the band, Galactic as well as Tab Benoit. Osborne also has ties to fellow musician Billy Iuso.</lex>
+      <lex comment="good" lid="Id1" error_1="Blues">Anders Osborne musical career began in 1989. His career began in the blue's genre. He has been associated with the band, Galactic as well as Tab Benoit. Osborne also has ties to fellow musician Billy Iuso.</lex>
       <lex comment="good" lid="Id2">Anders Osborne began his Blues musical career in 1989 and has worked with Galactic, Tab Benoit and Billy Iuso.</lex>
       <lex comment="good" lid="Id3">Blues artist Anders Osborne began in 1989 and is associated with artists Tab Benoit, Galactic and Billy Iuso.</lex>
     </entry>
@@ -425,9 +425,9 @@
         <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
         <mtriple>Andra_(singer) | occupation | "singer, Reality television judge"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andra was born in Campia, Turzii in 1986. She is a Dance-pop music singer and makes a living as a singer and reality television judge.</lex>
-      <lex comment="good" lid="Id2">Andra is a dance-pop singer who was born in Campia, Turzii in 1986. She began her career as a solo singer and makes her living as a singer and reality television judge.</lex>
-      <lex comment="good" lid="Id3">Andra, a dance pop singer and a solo singer, was born in Campia Turzii in 1986. She makes her living as a singer and a reality tv judge.</lex>
+      <lex comment="good" lid="Id1" error_1="Campia Turzii">Andra was born in Campia, Turzii in 1986. She is a Dance-pop music singer and makes a living as a singer and reality television judge.</lex>
+      <lex comment="good" lid="Id2" error_1="Campia Turzii">Andra is a dance-pop singer who was born in Campia, Turzii in 1986. She began her career as a solo singer and makes her living as a singer and reality television judge.</lex>
+      <lex comment="good" lid="Id3" error_1="Dance-pop" error_2="singer, Reality television judge">Andra, a dance pop singer and a solo singer, was born in Campia Turzii in 1986. She makes her living as a singer and a reality tv judge.</lex>
     </entry>
     <entry category="Artist" eid="Id20" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -585,7 +585,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musician Andrew White's record label used to be Universal records which is now a defunct label. His record label is Polydor Records which is located in London. Andrew White's genre is alternative rock, the music fusion genre of which, is Nu metal.</lex>
       <lex comment="good" lid="Id2">Andrew White is an alternative rock musician with Polydor Records and was once with Universal Records. Polydor Records is in London. Nu metal is a fusion of alternative rock sounds.</lex>
-      <lex comment="good" lid="Id3">Alternative rock musician Andrew White was signed with Universal but is now with London's Polydore Records. Nu metal is an alternative rock fusion.</lex>
+      <lex comment="good" lid="Id3" error_1="Universal Records (defunct record label)">Alternative rock musician Andrew White was signed with Universal but is now with London's Polydore Records. Nu metal is an alternative rock fusion.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -638,5 +638,5 @@
       <lex comment="good" lid="Id2">Aaron Turner plays electric guitar and played with the black metal Twilight band and the Old Man Gloom band. A fusion of black metal is called Death metal.</lex>
       <lex comment="good" lid="Id3">Electric guitarist Aaron Turner played with black metal band Twilight and Old Man Gloom. Death metal is a fusion of blck metal.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -15,7 +15,7 @@
         <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Donal O'Ceallaigh discovered 15788 1993 SB which has an epoch date of March 6th 2006.</lex>
-      <lex comment="good" lid="Id2">(15788) 1993 SB's epoch is 6th March 2006 and it was discovered by Donal O Ceallaigh.</lex>
+      <lex comment="good" lid="Id2" error_1="Donal O'Ceallaigh">(15788) 1993 SB's epoch is 6th March 2006 and it was discovered by Donal O Ceallaigh.</lex>
       <lex comment="good" lid="Id3">(15788) 1993 SB has an epoch date of March 6th 2006 and it was discovered by Donal O'Ceallaigh.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -235,7 +235,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(29075) 1950 DA has a periapsis of 124950000000.0, and the epoch date of August 27th 2011.</lex>
       <lex comment="good" lid="Id2">29075 1950 DA has the epoch date of 27 August 2011 and its periapsis is 124950000000.0.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>(29075)_1950_DA | epoch | "2011-Aug-27 (JD2455800.5)"</otriple>
@@ -293,7 +293,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(410777) 2009 FD was discovered by Spacewatch and has an absolute magnitude of 22.1.</lex>
       <lex comment="good" lid="Id2">410777 2009 FD was discovered by Spacewatch and has an absolute magnitude of 22.1.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>(410777)_2009_FD | Planet/density | "1890.0"^^&lt;http://dbpedia.org/datatype/kilogramPerCubicMetre&gt;</otriple>
@@ -354,7 +354,7 @@
         <mtriple>(410777)_2009_FD | meanTemperature | 258.0 (kelvins)</mtriple>
         <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a mean temperature of 358.0 kelvins.</lex>
+      <lex comment="good" lid="Id1" error_1="258.0 (kelvins)">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a mean temperature of 358.0 kelvins.</lex>
       <lex comment="good" lid="Id2">(410777) 2009 FD has a mean temperature of 258 Kelvins and an apoapsis of 259776702.47055 kilometers.</lex>
       <lex comment="good" lid="Id3">The apoapsis of (410777) 2009 FD is 259776702.47055 kilometers and it has a mean temperature of 258.0 kelvins.</lex>
     </entry>
@@ -389,7 +389,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1999 SN5 was once the name of the asteroid (66063) 1998 RO1, which had its epoch on 13th January 2016.</lex>
       <lex comment="good" lid="Id2">"1999 SN5" was the former name of (66063) 1998 RO1, which has an epoch date of 2013-11-04.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>(66063)_1998_RO1 | epoch | "November 4, 2013"</otriple>
@@ -403,8 +403,8 @@
         <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
         <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days.</lex>
-      <lex comment="good" lid="Id2">1998 RO1 has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
+      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days.</lex>
+      <lex comment="good" lid="Id2" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -419,9 +419,9 @@
         <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
         <mtriple>(66063)_1998_RO1 | periapsis | 41498400000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1998 RO1 has an epoch date of 4 November 2013 and a periapsis of 41498400000.</lex>
+      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 4 November 2013 and a periapsis of 41498400000.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1, which has a periapsis measuring 41498400000.0, has the epoch date 13th January 2016.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>(66063)_1998_RO1 | Planet/maximumTemperature | "500.0"^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
@@ -454,7 +454,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1 has a mean temperature of 265 kelvins and its apoapsis is 254989570.60815 kilometres.</lex>
-      <lex comment="good" lid="Id3">1998 RO1 has a mean temperature of 265.0 kelvins and an apoapsis of 254989570.60815.</lex>
+      <lex comment="good" lid="Id3" error_1="(66063) 1998 RO1">1998 RO1 has a mean temperature of 265.0 kelvins and an apoapsis of 254989570.60815.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -485,7 +485,7 @@
         <mtriple>(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)</mtriple>
         <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">66063 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60816 km.</lex>
+      <lex comment="good" lid="Id1" error_1="254989570.60815 (kilometres)">66063 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60816 km.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id3">(66063) 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and an apoapsis of 254989570.60815 km.</lex>
     </entry>
@@ -1321,7 +1321,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The apoapsis for 1089 Tama is 373513000.0 (kilometres) and it has an average speed of 19.94 km per sec.</lex>
       <lex comment="good" lid="Id2">1089 Tama has an average speed of 19.94 kilometers per second and an apoapsis of 373513000.0 (kilometres).</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id80" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>1089_Tama | epoch | "November 26, 2005 (JD2453700.5)"</otriple>
@@ -1466,7 +1466,7 @@
         <mtriple>1097_Vicia | formerName | "1928 PC"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The epoch of 1097 Vicia (former name "1928 PC") is on 31 December 2016.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id89" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>1097_Vicia | rotationPeriod | "95040.0"^^xsd:double</otriple>
@@ -1554,7 +1554,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria has a temperature of 156.0 kelvins and its apoapsis is 605718000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">1099 Figneria has an apoapsis of 605718000 kilometres and a temperature of 156.0 kelvins.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id94" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>1099_Figneria | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
@@ -1975,7 +1975,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1101 Clematis has a mass of 5.7 kilograms and an apoapsis of 520906000.0 km.</lex>
       <lex comment="good" lid="Id2">At a mass of 5.7 kgs, 1101 Clematis, has an apoapsis of 520906000.0 kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id118" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>1101_Clematis | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
@@ -2063,7 +2063,7 @@
         <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
         <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">110 Lydia has a mass of 5.7kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="good" lid="Id1" error_1="6.7 (kilograms)">110 Lydia has a mass of 5.7kg and an apoapsis of 440756000.0 km.</lex>
       <lex comment="good" lid="Id2">110 Lydia has a mass of 6.7 kilograms and an apoapsis of 440756000.0 (kilometres).</lex>
       <lex comment="good" lid="Id3">110 Lydia has a mass of 6.7 kg and an apoapsis of 440756000.0 km.</lex>
     </entry>

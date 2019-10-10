@@ -18,7 +18,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio located in Ticino, Switzerland was established in 1996. It has 600 students. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id1" error_1="Federal Chancellor of Switzerland">The Accademia di Architettura di Mendrisio located in Ticino, Switzerland was established in 1996. It has 600 students. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Federal Chancellor Johann Schneider-Ammann is the current leader of Switzerland where the Accademia di Architettura di Mendrisio is located in Ticino. It was established in 1996 and has 600 students.</lex>
       <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Ticino, Switzerland was established in 1996 and currently has 600 students. The Federal Chancellor of Switzerland is named Johann Schneider-Ammann.</lex>
     </entry>
@@ -81,7 +81,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
         <mtriple>Tennis | sportsGoverningBody | International_Tennis_Federation</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology in Mumbai, Karnataka was given the "Technological Campus" status by the All India Council for Technical Education (located in Mumbai). The Acharya Institute offers tennis and the sports governing body is the International Tennis Foundation. Karnataka has the Arabian Sea to its west.</lex>
+      <lex comment="good" lid="Id1" error_1="International Tennis Federation">The Acharya Institute of Technology in Mumbai, Karnataka was given the "Technological Campus" status by the All India Council for Technical Education (located in Mumbai). The Acharya Institute offers tennis and the sports governing body is the International Tennis Foundation. Karnataka has the Arabian Sea to its west.</lex>
       <lex comment="good" lid="Id2">Tennis, which has the International Tennis Federation as its governing body, is offered as a sport at the Acharya Institute of Technology. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai and is situated in the state of Karnataka which has the Arabian Sea to the west.</lex>
       <lex comment="good" lid="Id3">Governed by the International Tennis Federation, the Acharya Institute of Technology in Karnataka offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. Karnataka is east of the Arabian Sea.</lex>
     </entry>
@@ -110,7 +110,7 @@
         <mtriple>Tennis | sportsGoverningBody | International_Tennis_Federation</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgium. The institute was given Technical Campus' status by the All India Council for Technical Education in Mumbai. The institute offers tennis which is governed by the International Tennis Federation.</lex>
+      <lex comment="good" lid="Id1" error_1="Belgaum">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in Belgium. The institute was given Technical Campus' status by the All India Council for Technical Education in Mumbai. The institute offers tennis which is governed by the International Tennis Federation.</lex>
       <lex comment="good" lid="Id2">Governed by the International Tennis Federation, the Acharya Institute of Technology offers tennis courses and was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. It is also affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
     <entry category="University" eid="Id6" shape="(X (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="6">
@@ -200,5 +200,5 @@
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is based in the city of Aarhus, Denmark. It was established in 1928 and is affiliated to the European University Association. There are 16000 students and an academic staff of 727.</lex>
       <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. It was established in 1928 and its affiliation is European University Association. The number of students is 16000 and academic staff is 737.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

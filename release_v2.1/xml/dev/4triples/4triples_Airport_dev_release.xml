@@ -37,7 +37,7 @@
         <mtriple>Alcobendas | country | Spain</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.</lex>
+      <lex comment="good" lid="Id1" error_1="Adolfo Suarez Madrid-Barajas Airport">Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas, Spain. The airport is operated by ENAIRE.</lex>
       <lex comment="good" lid="Id3">Adolfo Suárez Madrid–Barajas Airport, operated by Madrid's ENAIRE, is located in Alcobendas, Spain.</lex>
     </entry>
@@ -54,7 +54,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The runway name is 18R/26L and is 3,500 in length.</lex>
+      <lex comment="good" lid="Id1" error_1="18R/36L">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The runway name is 18R/26L and is 3,500 in length.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. ENAIRE operates this Airport. 18R/36L is the runway name and its length is 3500.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long.</lex>
     </entry>
@@ -79,7 +79,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra airport is in Uttar Pradesh, which is part of Awadh and Bundelkhand, is located 167.94 metres above sea level.</lex>
       <lex comment="good" lid="Id2">Agra Airport is 167.94 metres above sea level and located in Uttar Pradesh, part of Awadh and Bundelkhand.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Agra_Airport | location | Uttar_Pradesh</otriple>
@@ -112,7 +112,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated bt the United States Air Force which carried out the 1986 United States bombing of Libya. Its aircraft fighter is General Dynamics F-16 Fighting Falcon and the Lockheed AC-130 can be found on USAF aircraft carriers.</lex>
       <lex comment="good" lid="Id2">Al Asad airbase is operated by the United States air force who were involved in the 1986 bombing of Libya, and deploy the aircraft fighter General Dynamics F-16 Fighting Falcon and have the Lockheed AC130 on their aircraft carriers.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Al_Asad_Airbase | operator | United_States_Air_Force</otriple>
@@ -127,7 +127,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom. They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F-16 Fighting Falcon.</lex>
-      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and has the Lockhead AC-130 and General Dynamics F-16 Fighting Falcon as aircraft. One of their battles was Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id2" error_1="Lockheed AC-130">The United States Air Force is the operating organisation for Al Asad airbase and has the Lockhead AC-130 and General Dynamics F-16 Fighting Falcon as aircraft. One of their battles was Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 aircraft carriers. The General Dynamics F-16 Fighting Falcon is an aircraft used by the USAF and they were involved in the Operation Enduring Freedom.</lex>
     </entry>
     <entry category="Airport" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -229,8 +229,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.</lex>
-      <lex comment="good" lid="Id2">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="06/24 'Kaagbaan'">The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.</lex>
+      <lex comment="good" lid="Id2" error_1="06/24 'Kaagbaan'">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -350,7 +350,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin, which is part of Ellington. It serves Appleton, which is located in Little Chute, Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton (part of which is known as Little Chute) is served by Appleton International airport which is located in Greenville (part of which is known as Ellington), Wisconsin.</lex>
-      </entry>
+    </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Ardmore_Airport_(New_Zealand) | r3Surface | Poaceae</otriple>
@@ -475,7 +475,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Egg Harbor Township is in New Jersey, in the United States and is where Atlantic City International Airport is located. This airport has a runway length of 3048.0.</lex>
       <lex comment="good" lid="Id2">Egg Harbor Township, New Jersey is part of New Jersey in the United States. It is where Atlantic City International Airport (with a runway length of 3048.0) is located.</lex>
-      <lex comment="good" lid="Id3">Atlantic City Airport, (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Atlantic City International Airport">Atlantic City Airport, (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -494,5 +494,5 @@
       <lex comment="good" lid="Id2">The surface type of the second runway of Ardmore Airport, New Zealand is Poaceae. Poaceae is a flowering plant of the order of Commelinids and the class of Monocotyledon.</lex>
       <lex comment="good" lid="Id3">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae. Poaceae is a flowering plant in the class of Monocotyledon in the order of Commelinids.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

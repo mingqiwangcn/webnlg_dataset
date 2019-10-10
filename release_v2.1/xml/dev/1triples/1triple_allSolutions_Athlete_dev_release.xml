@@ -8,7 +8,7 @@
       <modifiedtripleset>
         <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Chairman of A C Milan is Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id1" error_1="A.C. Milan">The Chairman of A C Milan is Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id2">Silvio Berlusconi is the chairman of A.C. Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
@@ -115,8 +115,8 @@
         <mtriple>Ahmad_Kadhim_Assad | club | PAS_Tehran_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad played for the club PAS Tehran F.C.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim plays for PAS Tehran FC.</lex>
-      <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for PAS Tahran F.C.</lex>
+      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">Ahmad Kadhim plays for PAS Tehran FC.</lex>
+      <lex comment="good" lid="Id3" error_1="PAS Tehran F.C.">Ahmad Kadhim Assad plays for PAS Tahran F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -362,7 +362,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Maccabi Tel Aviv B.C.'s coach is Zan Tabak.</lex>
       <lex comment="good" lid="Id2">Zan Tabak is the coach for the Maccabi Tel Aviv B.C. team.</lex>
-      <lex comment="good" lid="Id3">The coach of Maccabi Tel Aviv B.C is Zan Tabak.</lex>
+      <lex comment="good" lid="Id3" error_1="Maccabi Tel Aviv B.C.">The coach of Maccabi Tel Aviv B.C is Zan Tabak.</lex>
     </entry>
     <entry category="Athlete" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -396,5 +396,5 @@
       <lex comment="good" lid="Id2">Point Fortin is located in Trinidad.</lex>
       <lex comment="good" lid="Id3">Point Fortin is located in the country of Trinidad.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

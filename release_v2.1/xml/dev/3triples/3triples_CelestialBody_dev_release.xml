@@ -141,9 +141,9 @@
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1036 Ganymed was discovered by Walter Baade, a German National who studied at the University of Gottingen.</lex>
-      <lex comment="good" lid="Id2">Walter Baade, a German national who graduated from the University of Gottingen, discovered 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id3">Walter Baade, a German National, discovered 1036 Ganymed. His alma mater was the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">1036 Ganymed was discovered by Walter Baade, a German National who studied at the University of Gottingen.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">Walter Baade, a German national who graduated from the University of Gottingen, discovered 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany">Walter Baade, a German National, discovered 1036 Ganymed. His alma mater was the University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -247,7 +247,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The epoch date of 1097 Vicia is 2006.12.31. It has a periapsis of 279142000000.0 and an apoapsis of 511592000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">The epoch date of 1097 Vicia is 2006.12.31. The periapsis measurement of this celestial body is 279142000000.0. It has an apoapsis of 511592000.0 km.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
@@ -265,7 +265,7 @@
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1097 Vicia has a temperature of 171 kelvins, an escape velocity of 0.0112 kilometres per second and an apoapsis of 511592000.0 km.</lex>
-      <lex comment="good" lid="Id2">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 00112km per sec.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0112 (kilometrePerSeconds)">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 00112km per sec.</lex>
       <lex comment="good" lid="Id3">The temperature of 1097 Vicia is 171.0 (kelvins),has an escape velocity of 0.0112 kilometres per second and its apoapsis is 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -286,7 +286,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, an apoapsis of 605718000.0 km and an escape velocity of 0.0155 km per sec.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 1099 Figneria has a temperature of 156 kelvins, escape velocity of 0.0155 k.p.s. and an apoapsis of 605718000.0 kms.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>10_Hygiea | surfaceArea | 8.37081e+11</otriple>
@@ -352,5 +352,5 @@
       <lex comment="good" lid="Id2">110 Lydia has an epoch date of December 31st 2006 and an orbital period of 142603000. Its periapsis is 377016000000.0.</lex>
       <lex comment="good" lid="Id3">The celestial body 110 Lydia, with the epoch date December 31st 2006, has a periapsis of 377016000000.0 and an orbital period of 142603000.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

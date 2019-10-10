@@ -56,7 +56,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bananaman first aired on the BBC 10/03/1983 and its last broadcast was 15th April 1986. The creator of Bananaman is Steve Bright and the show stars Graeme Garden.</lex>
       <lex comment="good" lid="Id2">Bananaman first aired on the BBC on October 3rd, 1983 and broadcast its last episode on April 15th, 1986. It was created by Steve Bright and stars Graeme Garden.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -170,7 +170,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baymax was created by the American, Duncan Rouleau and Steven T Seagle. The character appeared in Big Hero 6 which stars Ryan Potter.</lex>
       <lex comment="good" lid="Id2">The character of Baymax appeared in Big Hero 6 which stars Ryan Potter. He was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Duncan_Rouleau | nationality | Americans</otriple>
@@ -212,7 +212,7 @@
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
         <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax is a character in Big Hero 6 which stars Jamie Chung and was created by Steve T. Seagle and Duncan Rouleau, an American.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">Baymax is a character in Big Hero 6 which stars Jamie Chung and was created by Steve T. Seagle and Duncan Rouleau, an American.</lex>
       <lex comment="good" lid="Id2">Baymax is a character created by Steven T Seagle and the American, Duncan Rouleau. He appears in Big Hero 6 that stars Jamie Chung.</lex>
       <lex comment="good" lid="Id3">Baymax is a character in Big Hero 6 which stars Jamie Chung. Baymax was created by American Duncan Rouleau and Steven T. Seagle.</lex>
     </entry>
@@ -238,9 +238,9 @@
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
         <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax a character in Big Hero 6 was created by the american Duncan Rouleau and by Steve T. Seagle. Maya Rudolph was one of the stars in the film version of Big Hero 6.</lex>
-      <lex comment="good" lid="Id2">Baymax, is a character in Big Hero 6 whose creators are Steve T. Seagle and Duncan Rouleau, an American and it stars Maya Rudolph.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">Baymax a character in Big Hero 6 was created by the american Duncan Rouleau and by Steve T. Seagle. Maya Rudolph was one of the stars in the film version of Big Hero 6.</lex>
+      <lex comment="good" lid="Id2" error_1="Steven T. Seagle">Baymax, is a character in Big Hero 6 whose creators are Steve T. Seagle and Duncan Rouleau, an American and it stars Maya Rudolph.</lex>
       <lex comment="good" lid="Id3">Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Maya Rudolph.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

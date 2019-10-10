@@ -180,7 +180,7 @@
       <modifiedtripleset>
         <mtriple>Antioch,_California | elevationAboveTheSeaLevel | 13.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch, CA is 13 above sea level.</lex>
+      <lex comment="good" lid="Id1" error_1="Antioch, California">Antioch, CA is 13 above sea level.</lex>
       <lex comment="good" lid="Id2">Antioch, California is 13.0 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Antioch, California is located at 13.0 above sea level.</lex>
     </entry>
@@ -333,5 +333,5 @@
       <lex comment="good" lid="Id2">The largest town in Washtenaw county Michigan is Ann Arbor.</lex>
       <lex comment="good" lid="Id3">The largest city in Washtenaw County, Michigan is Ann Arbor.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -23,9 +23,9 @@
         <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
         <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Donal O'Ceallaigh discovered 15788 1993 SB which has an epoch date of March 6th, 2006. The periapsis of 15788 1993 SB is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="3997100000000.0" error_2="7715100000.0 (kilometres)" error_3="7729430000.0">Donal O'Ceallaigh discovered 15788 1993 SB which has an epoch date of March 6th, 2006. The periapsis of 15788 1993 SB is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
       <lex comment="good" lid="Id2">Donal O'Ceallaigh discovered (15788) 1993 SB, which has an epoch date of March 6th 2006, an orbital period of 7729430000.0, a periapsis of 3997100000000.0, and an apoapsis of 7715100000.0 km.</lex>
-      <lex comment="good" lid="Id3">The celestial body known as (15788) 1993 SB has an epoch date of 6 March 2006 and was discovered by Donal O Ceallaigh. It has an orbital period of 7729430000, a periapsis of 997100000000 and an apoapsis of 7715100000.0 kms.</lex>
+      <lex comment="good" lid="Id3" error_1="3997100000000.0" error_2="Donal O'Ceallaigh">The celestial body known as (15788) 1993 SB has an epoch date of 6 March 2006 and was discovered by Donal O Ceallaigh. It has an orbital period of 7729430000, a periapsis of 997100000000 and an apoapsis of 7715100000.0 kms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -49,8 +49,8 @@
         <mtriple>(15788)_1993_SB | periapsis | 3997100000000.0</mtriple>
         <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Iwan P William discovered (15788) 1993 SB which has an epoch date of 6 March 2006 and an orbital period of 7729430000.0. The periapsis measures 3997100000000.0 and the apoapsis is 7715100000.0 kms.</lex>
-      <lex comment="good" lid="Id2">15788 1993 SB was discovered by Iwan P Williams and has an epoch date of 6 March 2006. The orbital period is 772943000, the periapsis is 3997100000000.0 and the apoapsis 7715100000 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="Iwan P. Williams">Iwan P William discovered (15788) 1993 SB which has an epoch date of 6 March 2006 and an orbital period of 7729430000.0. The periapsis measures 3997100000000.0 and the apoapsis is 7715100000.0 kms.</lex>
+      <lex comment="good" lid="Id2" error_1="7729430000.0">15788 1993 SB was discovered by Iwan P Williams and has an epoch date of 6 March 2006. The orbital period is 772943000, the periapsis is 3997100000000.0 and the apoapsis 7715100000 kilometres.</lex>
       <lex comment="good" lid="Id3">15788 1993 SB was discovered by Iwan P Williams. Its orbital period is 7729430000, periapsis is 3997100000000, apoapsis is 7715100000 km, and its epoch is on the 6th of March, 2006.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -115,7 +115,7 @@
         <mtriple>(15788)_1993_SB | discoverer | Alan_Fitzsimmons</mtriple>
         <mtriple>(15788)_1993_SB | apoapsis | 7715100000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Fitzsimmons discovered 15788 1993 SB which has an epoch of March 6th, 2006 and an orbital period of 7,729,430,000 kilometres. Its periapsis is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="3997100000000.0" error_2="7715100000.0 (kilometres)" error_3="7729430000.0">Alan Fitzsimmons discovered 15788 1993 SB which has an epoch of March 6th, 2006 and an orbital period of 7,729,430,000 kilometres. Its periapsis is 3,997,100,000,000 kilometres and it has an apoapsis of 7,715,100,000 kilometres.</lex>
       <lex comment="good" lid="Id2">(15788) 1993 SB, which was discovered by Alan Fitzsimmons, has an epoch date of March 6th 2006 and an orbital period of 7729430000.0. The measurement of the apoapsis and periapsis is 7715100000 and 3997100000000.0 kms respectively.</lex>
       <lex comment="good" lid="Id3">The celestial body known as (15788) 1993 SB, discovered by Alan Fitzsimmons, has a periapsis of 3997100000000, an epoch date of March 6th 2006, an apoapsis of 7715100000 km, and an orbital period of 7729430000.0.</lex>
     </entry>
@@ -183,8 +183,8 @@
         <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
         <mtriple>(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">19255 1994 VK8 has a mass of 5.6 kilograms and an an orbital period of 8,788,850,000 days. Its escape velocity is .0925 kilometres per second, it has an apoapsis of 6,603,633,000 kilometres and an epoch of December 31st, 2006.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="0.0925 (kilometrePerSeconds)" error_2="6603633000.0 (kilometres)" error_3="8788850000.0">19255 1994 VK8 has a mass of 5.6 kilograms and an an orbital period of 8,788,850,000 days. Its escape velocity is .0925 kilometres per second, it has an apoapsis of 6,603,633,000 kilometres and an epoch of December 31st, 2006.</lex>
+    </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>(19255)_1994_VK8 | epoch | "December 31, 2006 (JD2454100.5)"</otriple>
@@ -249,9 +249,9 @@
         <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
         <mtriple>(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch of (19255) 1994 VKB is on December 31, 2006, it has a mass of 5.6 kgs, an orbital period of 8788850000.0, a periapsis of 6155910000000.0. and escape velocity of 0.0925 km/s.</lex>
-      <lex comment="good" lid="Id2">The epoch of (19255) 1994 VK8, which has a mass of 5.6 kilograms, is December 31st, 2006. Its orbital period is 8,788,850,000 kilometres, has a periapsis of 6,155,910000,000 kilometres and an escape velocity of 0.0925 kilometres per second.</lex>
-      <lex comment="good" lid="Id3">(19255) 1994 VK8 has a mass of 5.6 kgs, an epoch of 31 December 2006, an orbital period of 8788850000.0, a periapsis of 615591000000.0 and an escape velocity of 0.0925 km per second.</lex>
+      <lex comment="good" lid="Id1" error_1="(19255) 1994 VK8">The epoch of (19255) 1994 VKB is on December 31, 2006, it has a mass of 5.6 kgs, an orbital period of 8788850000.0, a periapsis of 6155910000000.0. and escape velocity of 0.0925 km/s.</lex>
+      <lex comment="good" lid="Id2" error_1="6155910000000.0" error_2="8788850000.0">The epoch of (19255) 1994 VK8, which has a mass of 5.6 kilograms, is December 31st, 2006. Its orbital period is 8,788,850,000 kilometres, has a periapsis of 6,155,910000,000 kilometres and an escape velocity of 0.0925 kilometres per second.</lex>
+      <lex comment="good" lid="Id3" error_1="6155910000000.0">(19255) 1994 VK8 has a mass of 5.6 kgs, an epoch of 31 December 2006, an orbital period of 8788850000.0, a periapsis of 615591000000.0 and an escape velocity of 0.0925 km per second.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -314,9 +314,9 @@
         <mtriple>(410777)_2009_FD | orbitalPeriod | 39447000.0</mtriple>
         <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">410777 2009 FD was discovered by Spacewatch and has an epoch date of June 27th, 2015. Its mass is 8.3 kilograms, it has an orbital period of 39,447,000 kilometres and an apoapsis of 259,776,702.47055 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="259776702.47055 (kilometres)" error_2="39447000.0">410777 2009 FD was discovered by Spacewatch and has an epoch date of June 27th, 2015. Its mass is 8.3 kilograms, it has an orbital period of 39,447,000 kilometres and an apoapsis of 259,776,702.47055 kilometres.</lex>
       <lex comment="good" lid="Id2">410777 2009 FD, discovered by Spacewatch, has an epoch date of 27 June 2015, a mass of 8.3 kgs, an orbital period of 39447000.0, and an apoapsis of 259776702.47055 km.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>(410777)_2009_FD | discoverer | Spacewatch</otriple>
@@ -369,7 +369,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">410777 2009 FD, which has a mass of 8.3 kgs was discovered by Spacewatch and has an epoch date of 27 June 2015. The orbital period is 39447000.0 and a periapsis of 88234300000.0.</lex>
       <lex comment="good" lid="Id2">27 June 2015 is the epoch date of 410777 2009 FD which has a mass of 8.3 kgs and was discovered by Spacewatch. It has an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
-      <lex comment="good" lid="Id3">The celestial body known as (410777) 2009 FD was discovered by Space Watch and has an epoch date of 27 June 105. It has a mass of 8.3kgs, an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
+      <lex comment="good" lid="Id3" error_1="Spacewatch">The celestial body known as (410777) 2009 FD was discovered by Space Watch and has an epoch date of 27 June 105. It has a mass of 8.3kgs, an orbital period of 39447000.0 and a periapsis of 88234300000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -433,7 +433,7 @@
         <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
         <mtriple>(66063)_1998_RO1 | periapsis | 41498400000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Lincoln Near-Earth Asteroid Research centre discovered asteroid 66063 1998 RO1 and used to be called 1999 SN5. It has an epoch date of November 4th, 2013 and an orbital period of 360.29 days and a periapsis of 41,498,400,000 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="41498400000.0">The Lincoln Near-Earth Asteroid Research centre discovered asteroid 66063 1998 RO1 and used to be called 1999 SN5. It has an epoch date of November 4th, 2013 and an orbital period of 360.29 days and a periapsis of 41,498,400,000 kilometres.</lex>
       <lex comment="good" lid="Id2">Lincoln Near-Earth Asteroid Research discovered the asteroid (66063) 1998 RO1 which was formerly called 1999 SN5. This celestial body has an epoch date of 4 November 2013, an orbital period lasting 360.29 days and a periapsis of 41498400000.0.</lex>
       <lex comment="good" lid="Id3">The celestial body known as (66063) 1998 RO1, which has an epoch date of 4 November 2013, was formerly called 1999 SN5 and was discovered by Lincoln Near-Earth Asteroid Research. It has a periapsis measuring 41498400000.0 and an orbital period of 360.29 days.</lex>
     </entry>
@@ -581,7 +581,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66063) 1998 RO1 which has an orbital period of 360.29 days and an escape velocity of 0.0999 km per sec, has the epoch date of 4 November 2013. The asteroid has a periapsis of 41498400000.0 and apoapsis of 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id2">66063 1998 RO1 has an orbital period of 360.29 days and a periapsis of 41498400000, its epoch is on the 13th of January 2016. It has an escape velocity of 0.0999 km/s and an apoapsis of 254989570.60815 kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>(66391)_1999_KW4 | epoch | "July 14, 2004 (JD2453200.5)"</otriple>
@@ -692,8 +692,8 @@
         <mtriple>1000_Piazzia | periapsis | 352497000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1000 Piazzia-former name "1923 NZ1951 OB"- has an escape velocity of 0.0252 kilometres per second and its epoch date was on 2015-06-27.It has an orbital period of 488160.0 and its periapsis is 352497000000.0.</lex>
-      <lex comment="good" lid="Id2">The epoch of the dark asteroid 1000 Piazzia is June 27th, 2015. Its former name is 1923 NZ1951 OB and its has an escape velocity of .0252 kilometres per second while its periapsis is 352,497,000,000 kilometres.</lex>
-      <lex comment="good" lid="Id3">The epoch of 1000 Piazzia, which was formerly called 1923 NZ1951 OB, is June 27th, 2015. Its escape velocity is .0252 kilometres per second, it has an orbital period of 488,160 and a periapsis of 352,497,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0252 (kilometrePerSeconds)" error_2="352497000000.0" error_3="488160.0">The epoch of the dark asteroid 1000 Piazzia is June 27th, 2015. Its former name is 1923 NZ1951 OB and its has an escape velocity of .0252 kilometres per second while its periapsis is 352,497,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="0.0252 (kilometrePerSeconds)" error_2="352497000000.0">The epoch of 1000 Piazzia, which was formerly called 1923 NZ1951 OB, is June 27th, 2015. Its escape velocity is .0252 kilometres per second, it has an orbital period of 488,160 and a periapsis of 352,497,000,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -779,7 +779,7 @@
         <mtriple>1000_Piazzia | escapeVelocity | 0.0252 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The dark asteroid called 1000 Piazzia which has the epoch of 27 June 2015 has an orbital period of 488160.0. It also has a mass of 1.1kg, a periapsis of 352497000000.0 and an escape velocity of 0.0252 km per sec.</lex>
-      <lex comment="good" lid="Id2">1000 Piazzia, which has the epoch date of 27 June 2015, has a mass of 1.1 kgs and an orbital period of 4881060.0. The escape velocity is 0.0252 km per sec and a periapsis of 352497000000.0.</lex>
+      <lex comment="good" lid="Id2" error_1="488160.0">1000 Piazzia, which has the epoch date of 27 June 2015, has a mass of 1.1 kgs and an orbital period of 4881060.0. The escape velocity is 0.0252 km per sec and a periapsis of 352497000000.0.</lex>
       <lex comment="good" lid="Id3">The dark asteroid 1000 Piazzia has an epoch date of 27 June 2015 and a mass of 1.1 kg. Its orbital period is 488160.0, the periapsis is 352497000000.0 and it has the escape velocity of 0.0252 km per sec.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -831,7 +831,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sergey Belyavsky discovered 1001 Gaussia-formerly called A911 MD-whose epoch date was on 30 July 2016.It has an orbital period of 5.75 days and its periapsis is 419113394.55312 (kilometres).</lex>
       <lex comment="good" lid="Id2">1001 Gaussia was formerly known as A911 MD and has the epoch date of 31 July 2016. It was discovered by Sergey Belyavsky and has the orbital period of 5.75 days with a periapsis of 419113394.55312 kms.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>1001_Gaussia | discoverer | Sergey_Belyavsky</otriple>
@@ -918,7 +918,7 @@
         <mtriple>James_Craig_Watson | nationality | Canada</mtriple>
         <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">James Craig Watson was a canadian national who discovered the 101 Helena which has a orbital period of 1516.670000000003 days. He studied at the university of Michigan and died in Madison, Wisconsin.</lex>
+      <lex comment="good" lid="Id1" error_1="1516.6700000000003 (days)">James Craig Watson was a canadian national who discovered the 101 Helena which has a orbital period of 1516.670000000003 days. He studied at the university of Michigan and died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id2">With an orbit of 1516.6700000000003 days, 101 Helena, was discovered by James Craig Watson. A Canadian, his alma mater was the University of Michigan and he died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id3">The discoverer of 101 Helena is James Craig Watson, a Canadian national and graduate of the University of Michigan who died in Madison, Wisconsin. 101 Helena has an orbital period of 1516.6700000000003 days.</lex>
     </entry>
@@ -1197,7 +1197,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Halton Arp and Allan Sandage were doctoral students of Walter Baade, the discoverer of 1036 Ganymed. Baade graduated from the University of Gottingen and died in West Germany.</lex>
       <lex comment="good" lid="Id2">Walter Baade, who graduated from University of Gottingen, discovered 1036 Ganymed. He had Halton Arp and Allan Sandage as doctoral students at the university. Mr. Baade died in West Germany.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id38" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>1036_Ganymed | discoverer | Walter_Baade</otriple>
@@ -1264,9 +1264,9 @@
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Halton Arp was a doctoral student of Walter Baade, the discoverer of 1036 Ganymed. Baade was a German national who was born in Preubisch Oldendorf and graduated from University of Gottingen.</lex>
-      <lex comment="good" lid="Id2">Halton Arp was a doctoral student of Walter Baade, the discoverer of 1036 Ganymed. Baade was a German national born in Preubisch Oldendorf who studied at the University of Gottingen.</lex>
-      <lex comment="good" lid="Id3">Halton Arp was a doctoral student of Walter Baade, who discovered 1036 Ganymed. Walter Baade, a German national, was born in Preußisch Oldendorf and his alma mater was the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">Halton Arp was a doctoral student of Walter Baade, the discoverer of 1036 Ganymed. Baade was a German national who was born in Preubisch Oldendorf and graduated from University of Gottingen.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">Halton Arp was a doctoral student of Walter Baade, the discoverer of 1036 Ganymed. Baade was a German national born in Preubisch Oldendorf who studied at the University of Gottingen.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany">Halton Arp was a doctoral student of Walter Baade, who discovered 1036 Ganymed. Walter Baade, a German national, was born in Preußisch Oldendorf and his alma mater was the University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id41" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1461,7 +1461,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Hera, which has a mass of 7.9 kg and an escape velocity of 0.0482 km per sec, has the epoch date of 27 August 2011. Its orbital period lasts 1622.213 days and the apoapsis measurement is 437170000.0 (kilometres).</lex>
       <lex comment="good" lid="Id2">103 Hera has an escape velocity of 0.0482 kilometres per second and a mass of 7.9 kilograms, it also has an orbital period of 1622.213 days. Its epoch is on the 31st of July 2016 and it has an apoapsis of 437170000.0 kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id48" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>103_Hera | epoch | "August 27, 2011 (JD2455800.5)"</otriple>
@@ -1485,8 +1485,8 @@
         <mtriple>103_Hera | apoapsis | 437170000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Hera, which has the epoch date 27 August 2011, has a mass of 7.9 kgs and an orbital period of 1622.213 days. Its periapsis is 371240000.0 kms and the apoapsis is 437170000.0 kms.</lex>
-      <lex comment="good" lid="Id2">103 Hera, which has a mass of 7.9 kilograms and an orbital period of 1,622.213 days, has an epoch of August 27th 2011. Its periapsis is 371,240,000 kilometres and an apoapsis of 437,170,000 kilometres.</lex>
-      <lex comment="good" lid="Id3">103 Hera has an epoch date of August 27th 2011, a mass of 7.9 kilograms and an orbital period of 1,622.213 days. Its periapsis is 371,240,000 kilometres and an apoapsis of 437,170,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="1622.213 (days)" error_2="371240000.0 (kilometres)" error_3="437170000.0 (kilometres)">103 Hera, which has a mass of 7.9 kilograms and an orbital period of 1,622.213 days, has an epoch of August 27th 2011. Its periapsis is 371,240,000 kilometres and an apoapsis of 437,170,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="1622.213 (days)" error_2="371240000.0 (kilometres)" error_3="437170000.0 (kilometres)">103 Hera has an epoch date of August 27th 2011, a mass of 7.9 kilograms and an orbital period of 1,622.213 days. Its periapsis is 371,240,000 kilometres and an apoapsis of 437,170,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id49" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1602,7 +1602,7 @@
         <mtriple>N._R._Pogson | nationality | England</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">N R Pogson was an English National who was born in Nottingham and died in Chennai. He discovered 107 Camilla which has a periapsis of 479343000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2">Englishman N. R. Pogson was born in Nottingham and died in Chennai. He discovered 107 Camilla which has an periapsis of 479,343,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="479343000.0 (kilometres)">Englishman N. R. Pogson was born in Nottingham and died in Chennai. He discovered 107 Camilla which has an periapsis of 479,343,000 kilometres.</lex>
       <lex comment="good" lid="Id3">British man N.R. Pogson, who was born in Nottingham and died in Chennai, was the discoverer of 107 Camilla. It has a periapsis of 479343000.0 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id53" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1691,7 +1691,7 @@
         <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
         <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch date of 1089 Tama, which was formerly known as 1930 ST; 1952 HE4, is November 26th, 2005. Its escape velocity is .0068 kilometres per second while its orbital period is 1,202.846 days and it has a periapsis of 288,749,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="0.0068 (kilometrePerSeconds)" error_2="1202.846 (days)" error_3="288749000000.0">The epoch date of 1089 Tama, which was formerly known as 1930 ST; 1952 HE4, is November 26th, 2005. Its escape velocity is .0068 kilometres per second while its orbital period is 1,202.846 days and it has a periapsis of 288,749,000,000 kilometres.</lex>
       <lex comment="good" lid="Id2">The former name of 1089 Tama is "1930 ST; 1952 HE4" and it has an epoch date of 26 November 2005. It has an escape velocity of 0.0068 km per sec, an orbital period of 1202.846 days and a periapsis measurement of 288749000000.0.</lex>
       <lex comment="good" lid="Id3">1089 Tama, which has the epoch date of 26 November 2005, was formerly known as "1930 ST; 1952 HE4". It has the escape velocity of 0.0068 km per sec, an orbital period of 1202.846 days and a periapsis of 288749000000.0.</lex>
     </entry>
@@ -1802,7 +1802,7 @@
         <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">26 November 2005 is the epoch date of 1089 Tama which has an orbital period of 1202.846 days and an escape velocity of 0.0068 km per sec. It has a periapsis measurement of 288749000000.0 and an apoapsis of 373513000.0 (kilometres).</lex>
-      <lex comment="good" lid="Id2">The epoch date of 1089 Tama, which has an escape velocity of .0068 kilometres per seconds, is November 26th, 2005. Its orbital period is 1,202.846 days, it has a periapsis of 288,749,000,000 kilometres and an apoapsis of 373,513,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0068 (kilometrePerSeconds)" error_2="1202.846 (days)" error_3="288749000000.0" error_4="373513000.0 (kilometres)">The epoch date of 1089 Tama, which has an escape velocity of .0068 kilometres per seconds, is November 26th, 2005. Its orbital period is 1,202.846 days, it has a periapsis of 288,749,000,000 kilometres and an apoapsis of 373,513,000 kilometres.</lex>
       <lex comment="good" lid="Id3">The escape velocity of 1089 Tama is 0.0068 km/sec, its periapsis is 288749000000.0 and had its epoch date on 2005-11-26. It has an orbital period of 1202.846 days and its apoapsis is 373513000.0 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id60" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1842,7 +1842,7 @@
         <mtriple>1089_Tama | escapeVelocity | 0.0068 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1089 Tama was formerly called "A894 VA; A904 VD;" and has the epoch date 26 November 2005. It has an orbital period lasting 1202.846 days, an escape velocity of 0.0068 km per sec and a periapsis measurement of 288749000000.0.</lex>
-      <lex comment="good" lid="Id2">The epoch of 1089 Tama, which has an escape velocity of .0068 kilometres a second and was formerly known as A894 VA; A904 VD, is November 26th, 2005. It has an orbital period of 1,202.846 days and a periapsis of 288,749,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0068 (kilometrePerSeconds)" error_2="1202.846 (days)" error_3="288749000000.0">The epoch of 1089 Tama, which has an escape velocity of .0068 kilometres a second and was formerly known as A894 VA; A904 VD, is November 26th, 2005. It has an orbital period of 1,202.846 days and a periapsis of 288,749,000,000 kilometres.</lex>
       <lex comment="good" lid="Id3">The epoch date of 1089 Tama is 26 November 2005 and its former name is "A894 VA; A904 VD". 1089 Tama has an orbital period of 1202.846 days, a periapsis of 288749000000.0 and an escape velocity of 0.0068 km/sec.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id61" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1867,7 +1867,7 @@
         <mtriple>1097_Vicia | orbitalPeriod | 135589000.0</mtriple>
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1097 Vicia, which has the epoch date of 31 December 2016, was formerly known as 1928 PC. and has an escape velocity of 0.0122 km per sec. Its orbital period is 135589000.0 and the periapsis measurement is 279142000000.0.</lex>
+      <lex comment="good" lid="Id1" error_1="0.0112 (kilometrePerSeconds)">1097 Vicia, which has the epoch date of 31 December 2016, was formerly known as 1928 PC. and has an escape velocity of 0.0122 km per sec. Its orbital period is 135589000.0 and the periapsis measurement is 279142000000.0.</lex>
       <lex comment="good" lid="Id2">The epoch of 1097 Vicia, formerly known as 1928 PC, is on 31 December 2016. The escape velocity of 1097 Vicia is 0.0112 km/sec, its orbital period is 135589000.0, and its periapsis is 279142000000.</lex>
       <lex comment="good" lid="Id3">1097 Vicia-formerly known as "1928 PC"-has an orbital period of 135589000.0 and an escape velocity of 0.0112 km per sec. It has a periapsis of 279142000000.0 and its epoch date was on 2006.12.31.</lex>
     </entry>
@@ -1894,7 +1894,7 @@
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs, orbital period of 135589000, periapsis of 279142000000, apoapsis of 511592000, and its epoch is on the 31st of December, 2016.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id63" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>1097_Vicia | escapeVelocity | "40.32"^^xsd:double</otriple>
@@ -1987,7 +1987,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria-formerly known as "1928 RQ"-has an escape velocity of 0.0155 kilometer per second and its epoch date was on 31 December 2006.Its periapsis is 34920600000 and has an orbital period of 179942000.0.</lex>
       <lex comment="good" lid="Id2">The epoch date for 1099 Figneria, formerly known as 1928 RQ, is 31 December 2006. 1099 Figneria has an escape velocity of 0.0155 km/sec, an orbital period of 179942000.0, and a periapsis of 349206000000.0.</lex>
-      <lex comment="good" lid="Id3">The epoch date for 1099 Figneria, which was formerly known as 1928 RQ is December 31st, 2006. It has an escape velocity of .0155 kilometres per second, an orbital period of 179,942,000 kilometres and a periapsis of 34,920,600,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="0.0155 (kilometrePerSeconds)" error_2="179942000.0">The epoch date for 1099 Figneria, which was formerly known as 1928 RQ is December 31st, 2006. It has an escape velocity of .0155 kilometres per second, an orbital period of 179,942,000 kilometres and a periapsis of 34,920,600,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id65" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2361,8 +2361,8 @@
         <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Annibale de Gasparis discovered 10 Hygiea, whose average speed is 16.76 kilometres per second and had its epoch date on 27th June 2015. It has a periapsis of 416136000000.0 and its apoapsis is 523951582.33968 kilometres.</lex>
-      <lex comment="good" lid="Id2">The asteroid 10 Hygiea was discovered by Annibale de Gasparis and has an apoapsis of 523,951,582.33968 kilometres. It travels at an average speed of 16.6 kilometres a second, has a periapsis of 416,136,000,000 kilometres and epoch of June 27th, 2015.</lex>
-      <lex comment="good" lid="Id3">10 Hygiea, which was discovered by Annibale de Gaspar, has an average speed of 16.76 kmps and an epoch date of 27th June 2015. The periapsis of 10 Hygiea has a measurement of 416136000000.0 and its apoapsis is 523951582.33968 (kilometres).</lex>
+      <lex comment="good" lid="Id2" error_1="16.76 (kilometrePerSeconds)" error_2="416136000000.0" error_3="523951582.33968 (kilometres)">The asteroid 10 Hygiea was discovered by Annibale de Gasparis and has an apoapsis of 523,951,582.33968 kilometres. It travels at an average speed of 16.6 kilometres a second, has a periapsis of 416,136,000,000 kilometres and epoch of June 27th, 2015.</lex>
+      <lex comment="good" lid="Id3" error_1="Annibale de Gasparis">10 Hygiea, which was discovered by Annibale de Gaspar, has an average speed of 16.76 kmps and an epoch date of 27th June 2015. The periapsis of 10 Hygiea has a measurement of 416136000000.0 and its apoapsis is 523951582.33968 (kilometres).</lex>
     </entry>
     <entry category="CelestialBody" eid="Id73" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2387,7 +2387,7 @@
         <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The asteroid 10 Hygiea was discovered by Annibale de Gasparis. It has an average speed of 16.76 kilometres per second, an apoapsis of 523951582.33968 kilometres and an orbital period of 5.57 days. Its epoch date is 27th June 2015.</lex>
-      <lex comment="good" lid="Id2">The asteroid 10 Hygiea has an epoch date of June 27th, 2015 and an average speed of 16.76 kilometres per second. It has an orbital period of 5.57 days, an apoapsis of 523,951,582.33968 kilometres and was discovered by Annibale de Gasparis.</lex>
+      <lex comment="good" lid="Id2" error_1="523951582.33968 (kilometres)">The asteroid 10 Hygiea has an epoch date of June 27th, 2015 and an average speed of 16.76 kilometres per second. It has an orbital period of 5.57 days, an apoapsis of 523,951,582.33968 kilometres and was discovered by Annibale de Gasparis.</lex>
       <lex comment="good" lid="Id3">The average speed of 10 Hygiea is 16.76 km per secs and it has an orbital period of 5.57 days and Annibale de Gasparis discovered it. Its epoch date was on June 27th 2015 and it has an apoapsis of 523951582.33968 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id74" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2412,7 +2412,7 @@
         <mtriple>10_Hygiea | orbitalPeriod | 5.57 (days)</mtriple>
         <mtriple>10_Hygiea | periapsis | 416136000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Annibale de Gasparis discovered 10 Hygiea which used to be called A900 GA. 10 Hygiea has an orbital period of 5.57 days, a periapsis of 416,136,000,000 kilometres and an epoch of June 27th, 2015.</lex>
+      <lex comment="good" lid="Id1" error_1="416136000000.0">Annibale de Gasparis discovered 10 Hygiea which used to be called A900 GA. 10 Hygiea has an orbital period of 5.57 days, a periapsis of 416,136,000,000 kilometres and an epoch of June 27th, 2015.</lex>
       <lex comment="good" lid="Id2">Annibale de Gasparis discovered 10 Hygiea, whose former name was A900 GA and had its epoch date on 27th June 2015. It has a periapsis of 416136000000.0 and an orbital period of 5.57 days.</lex>
       <lex comment="good" lid="Id3">10 Hygiea, discovered by Annibale de Gasparis on 27th June 2015, has an orbital period of 5.57 days and a periapsis of 416136000000.0. It was formally known as A900 GA.</lex>
     </entry>
@@ -2454,7 +2454,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 10 Hygiea has a surface area of 837080.744 square km and takes 5.57 days to orbit. This asteroid's apoapsis is 523951582.33968 kilometres, and it has an escape velocity of 0.21 kilometres per second. It has an epoch date of 27th June 2015.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 10 Hygiea has an epoch date of 27 June 2015 and a surface area of 837080.744 square km. Its orbital period is 5.57 days, the escape velocity is 0.21 km per sec and the apoapsis is 523951582.33968 kilometres.</lex>
-      <lex comment="good" lid="Id3">10 Hygiea has an epoch date of June 27th 2015 and has a surface area of 837080.744 square km. Its orbital period is 5.57 days, has a surface area of 837080.744 square km, and an apoapsis of 523951582.33968 (kilometres).</lex>
+      <lex comment="good" lid="Id3" error_1="0.21 (kilometrePerSeconds)">10 Hygiea has an epoch date of June 27th 2015 and has a surface area of 837080.744 square km. Its orbital period is 5.57 days, has a surface area of 837080.744 square km, and an apoapsis of 523951582.33968 (kilometres).</lex>
     </entry>
     <entry category="CelestialBody" eid="Id76" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2494,7 +2494,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">10 Hygiea (previously A900 GA), has an orbital period of 5.57 days and a periapsis of 416136000000.0. With an escape velocity of 0.21 km per secs, 10 Hygiea, has an epoch date of June 27th 2015.</lex>
       <lex comment="good" lid="Id2">10 Hygiea-former name A900 GA-has an orbital period of 5.57 days and its epoch date was on June 27th 2015.Its periapsis is 416136000000.0 and it has an escape velocity of 0.21 km per secs.</lex>
-      <lex comment="good" lid="Id3">The asteroid 10 Hygiea has an epoch date of June 27th 2015 and an escape velocity of .21 kilometres per second. It was formerly known as A900 GA and its orbital period is 5.57 days and measures 416,136,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="0.21 (kilometrePerSeconds)" error_2="416136000000.0">The asteroid 10 Hygiea has an epoch date of June 27th 2015 and an escape velocity of .21 kilometres per second. It was formerly known as A900 GA and its orbital period is 5.57 days and measures 416,136,000,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id77" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2519,8 +2519,8 @@
         <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1101 Clematis, formerly known as "1928 SJ", has an epoch date of December 31st 2006, an escape velocity of 0.02 km/sec, an orbital period of 183309000.0, and a periapsis of 445895000000.0.</lex>
-      <lex comment="good" lid="Id2">"1928 SJ" is the former name of the celestial body 1101 Clematis which has the epoch date 31 December 2006 and an escape velocity of 0.02 km per sec. This body has a periapsis measurement of 445895000000.0 and the orbital period of 182209000.0.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="183309000.0">"1928 SJ" is the former name of the celestial body 1101 Clematis which has the epoch date 31 December 2006 and an escape velocity of 0.02 km per sec. This body has a periapsis measurement of 445895000000.0 and the orbital period of 182209000.0.</lex>
+    </entry>
     <entry category="CelestialBody" eid="Id78" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>1101_Clematis | escapeVelocity | "72.0"^^xsd:double</otriple>
@@ -2587,7 +2587,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1101 Clematis has a mass of 5.7 kilograms, an escape velocity of 0.02 k.p.s and its epoch date was on December 31st 2006. It has an orbital period of 183309000.0 and its periapsis is 445895000000.0.</lex>
       <lex comment="good" lid="Id2">1101 Clematis has a mass of 5.7 kgs, an escape velocity of 0.02 k.p.s and its epoch date was on 31 December 2006. It has an orbital period of 183309000.0 and its periapsis is 445895000000.0.</lex>
-      <lex comment="good" lid="Id3">The epoch of 1101 Clematis, which has a mass of 5.7 kilograms, is December 31st, 2006. Its escape velocity is .02 kilometres per second, its orbital period is 183,309,000 kilometres and its has an periapsis of 445,895,000,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="0.02 (kilometrePerSeconds)" error_2="183309000.0" error_3="445895000000.0">The epoch of 1101 Clematis, which has a mass of 5.7 kilograms, is December 31st, 2006. Its escape velocity is .02 kilometres per second, its orbital period is 183,309,000 kilometres and its has an periapsis of 445,895,000,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id79" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2892,7 +2892,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11264 Claudiomaccone has a periapsis of 296521000.0 (kilometres),an average speed of 18.29 kms per second and its epoch date was on 26 November 2005.It has an orbital period of 1513.722 days and its apoapsis is 475426000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">11264 Claudiomaccone, which has the epoch date of 26 November 2005, is an asteroid with the average speed of 18.29 km per sec and an orbital period of 1513.722 days. Its apoapsis is 475426000 kilometres and the periapsis is 296521000.0 kilometres.</lex>
-      <lex comment="good" lid="Id3">The asteroid 11264 Claudiomaccone has an average speed of 18.29 kilometres per second and an orbital period of 1,513.722 days. Its epoch is November 26th, 2005 while its periapsis is 296,521,000 kilometres and it an apoapsis of 475,426,000 kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="1513.722 (days)" error_2="296521000.0 (kilometres)" error_3="475426000.0 (kilometres)">The asteroid 11264 Claudiomaccone has an average speed of 18.29 kilometres per second and an orbital period of 1,513.722 days. Its epoch is November 26th, 2005 while its periapsis is 296,521,000 kilometres and it an apoapsis of 475,426,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id87" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2920,5 +2920,5 @@
       <lex comment="good" lid="Id2">The orbital period for 11264 Claudiomaccone is 1513.722 days, has a periapsis of 296521000.0 (kilometres) and it was discovered by Nikolai Chernykh. It has an apoapsis of 475426000 kilometres and its epoch date was on November 26th 2005.</lex>
       <lex comment="good" lid="Id3">11264 Claudiomaccone, which was discovered by Nikolai Chernykh has the epoch date of 26 November 2005. It has a periapsis of 296521000.0, an apoapsis of 475426000 kms and the orbital period is 1513.722 days.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

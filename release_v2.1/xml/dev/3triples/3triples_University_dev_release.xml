@@ -56,9 +56,9 @@
         <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
         <mtriple>Tennis | sportsGoverningBody | International_Tennis_Federation</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Insitute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.</lex>
+      <lex comment="good" lid="Id1" error_1="Acharya Institute of Technology">The Acharya Insitute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.</lex>
       <lex comment="good" lid="Id2">The International Tennis Federation is the governing body for the sport which is offered at the Acharya Institute of Technology which was established in 2000.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>India | largestCity | Mumbai</otriple>
@@ -89,9 +89,9 @@
         <mtriple>Romania | leaderName | Klaus_Iohannis</mtriple>
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Romania is Prime Minister Klaus Lohannis. The 1 Decembrie 1918 University is in Romania.</lex>
+      <lex comment="good" lid="Id1" error_1="Klaus Iohannis">The leader of Romania is Prime Minister Klaus Lohannis. The 1 Decembrie 1918 University is in Romania.</lex>
       <lex comment="good" lid="Id2">The Prime Minister of Romania is Klaus Iohannis. The 1 Decembrie 1918 University is situated in Romania.</lex>
-      <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Iohannis.</lex>
+      <lex comment="good" lid="Id3" error_1="Prime Minister of Romania">1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Iohannis.</lex>
     </entry>
     <entry category="University" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -128,5 +128,5 @@
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at Aarhus University was established in 1928. It has 16000 students and an academic staff of 737.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in 1928 and currently has a staff of 737 and a student population of 16000.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

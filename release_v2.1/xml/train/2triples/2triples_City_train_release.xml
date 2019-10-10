@@ -23,7 +23,7 @@
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id1" error_1="Abilene, Texas">Albilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is located in the United States where African Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -49,7 +49,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is located in Texas, United States and one of the country's ethnic groups are the Native Americans.</lex>
-      <lex comment="good" lid="Id2">Albilene is part of Texas in the United States where one of the ethnic groups are Native Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Albilene is part of Texas in the United States where one of the ethnic groups are Native Americans.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas, is located in the United States, where one of the ethnic groups are the Native Americans.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -153,7 +153,7 @@
         <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
         <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="Abilene, Texas">Albilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas, covers a total area of 286.5 square kilometres and has 429.9 inhabitants per sq kilometre.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -229,7 +229,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The total area of Akron, Ohio, is 161.54 square kilometres and the population density is 1239.3 inhabitants per square kilometre.</lex>
       <lex comment="good" lid="Id2">Akron, Ohio with a total area of 161.54 sq km, has a population density of 1239.3 inhabitants per square kilometre.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Alabama | country | United_States</otriple>
@@ -286,7 +286,7 @@
         <mtriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
         <mtriple>Georgia_(U.S._state) | capital | Atlanta</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is located in the US state of Georgia, of which Albany is the capital.</lex>
+      <lex comment="good" lid="Id1" error_1="Atlanta">Albany is located in the US state of Georgia, of which Albany is the capital.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -335,7 +335,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The population density of Albany, Georgia is 535.0 inhabitants per square kilometre and the total area is 144.7 SqKm.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia has a total area of 144.7 sq km and a population density of 535.0 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id3">Albany in Georgia has a population density of 535 people per sq km and has a total area of 44.7 sq kms.</lex>
+      <lex comment="good" lid="Id3" error_1="144.7 (square kilometres)">Albany in Georgia has a population density of 535 people per sq km and has a total area of 44.7 sq kms.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -503,7 +503,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, New Mexico, U.S. is led by the Mayor of Albuquerque.</lex>
       <lex comment="good" lid="Id2">The leader of Albuquerque, New Mexico, US, is the Mayor of Albuquerque.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Albuquerque,_New_Mexico | areaTotal | 4.909e+08</otriple>
@@ -567,7 +567,7 @@
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.0 sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)" error_2="490.9 (square kilometres)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.0 sq km.</lex>
       <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a total area of 490.9 square kilometres and its population density is 1142.3 people per sq. km.</lex>
       <lex comment="good" lid="Id3">With a total are of 490.9 square kilometres, Albuquerque, in New Mexico, has a population density of 1142.3 inhabitants per square kilometre.</lex>
     </entry>
@@ -706,7 +706,7 @@
         <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Apharetta is located in Georgia, part of the United States, where African Americas are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" error_1="Alpharetta, Georgia">Apharetta is located in Georgia, part of the United States, where African Americas are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The African Americans are an ethnic group within the United States where Alpharetta is located in Georgia.</lex>
       <lex comment="good" lid="Id3">The United States is the location of Alpharetta, Georgia and includes the African Americans among its ethnic groups.</lex>
     </entry>
@@ -734,7 +734,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States includes the Native Americans among its ethnic groups and is the location of Alpharetta, Georgia.</lex>
       <lex comment="good" lid="Id2">The United States of America include the ethnic group of Native Americans and is the location of Alpharetta, Georgia.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id42" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Alpharetta,_Georgia | country | United_States</otriple>
@@ -744,7 +744,7 @@
         <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpharettta, Georgia is located in the United States where English is the official language.</lex>
+      <lex comment="good" lid="Id1" error_1="Alpharetta, Georgia">Alpharettta, Georgia is located in the United States where English is the official language.</lex>
       <lex comment="good" lid="Id2">The English language is spoken in the United States and Alpharetta, Georgia is located in the country.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Georgia is in the United States, where the English language is used.</lex>
     </entry>
@@ -894,7 +894,7 @@
         <mtriple>Anaheim,_California | UTCOffset | "-7"</mtriple>
         <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
       <lex comment="good" lid="Id2">Anaheim, California has a UTC offset of -7 and covers a total area of 131.6 square kilometres.</lex>
       <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres.</lex>
     </entry>
@@ -1176,7 +1176,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson is a city in Indiana, United States.</lex>
       <lex comment="good" lid="Id2">Anderson is a city in Indiana, in the U.S.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id69" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</otriple>
@@ -1413,7 +1413,7 @@
         <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington is part of Tarrant County, in the state of Texas.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Jones County, Texas.</lex>
+      <lex comment="good" lid="Id2" error_1="Arlington, Texas" error_2="Tarrant County, Texas">Abilene is part of Jones County, Texas.</lex>
       <lex comment="good" lid="Id3">Arlington is part of Tarrant County in Texas, U.S.</lex>
     </entry>
     <entry category="City" eid="Id83" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1457,7 +1457,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Fort Worth, Tarrant County (of which Arlington is part of), is the largest city in Texas.</lex>
       <lex comment="good" lid="Id2">Arlington is located in Tarrant County, Texas where the largest city is Fort Worth.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id86" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Arlington,_Texas | isPartOf | Texas</otriple>
@@ -1514,7 +1514,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington, Texas, has a population density, of 1472.0 inhabitants per square kilometre where the total area is 258.2 Sq.kl.</lex>
       <lex comment="good" lid="Id2">Arlington Texas has a population density of 1472 people per square kilometer and a total area of 258.2 SqK.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Atlanta | areaLand | 3.449e+08</otriple>
@@ -1530,7 +1530,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta covers 344.9 sq km but has a total area of 347.1 sq km.</lex>
       <lex comment="good" lid="Id2">Atlanta covers 344.9 square kilometres with a total area of 347.1 sq kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id89" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Atlanta | country | United_States</otriple>
@@ -1620,7 +1620,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is mostly part of DeKalb County in Georgia.</lex>
       <lex comment="good" lid="Id2">Atlanta is part of DeKalb County which is located in Georgia.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id96" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Atlanta | isPartOf | DeKalb_County,_Georgia</otriple>
@@ -2134,7 +2134,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The population density, of Auburn (Washington), is 914.8 inhabitants per square kilometre and its total area is 77.41 sq kms.</lex>
       <lex comment="good" lid="Id2">Auburn, Washington has a population density of 914.8 inhabitants per sq km and a total area of 77.41 sq kms.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id125" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Austin,_Texas | country | United_States</otriple>
@@ -2145,7 +2145,7 @@
         <mtriple>Austin,_Texas | isPartOf | Hays_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is in Hays County, Texas in the United States.</lex>
-      <lex comment="good" lid="Id2">Austin is a part of Hayes County in Texas which is a state of the United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Hays County, Texas">Austin is a part of Hayes County in Texas which is a state of the United States.</lex>
       <lex comment="good" lid="Id3">Austin is part of Hays County, Texas, United States.</lex>
     </entry>
     <entry category="City" eid="Id126" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2286,7 +2286,7 @@
         <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is part of DeKalb County in Georgia where Dunwoody is the largest city.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id136" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Fountain_County,_Indiana | country | United_States</otriple>
@@ -2386,7 +2386,7 @@
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is located in King County, Washington, United States.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id143" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Madison_County,_Indiana | country | United_States</otriple>
@@ -2476,7 +2476,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City is part of New Jersey in the United States.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id149" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>New_Jersey | largestCity | Newark,_New_Jersey</otriple>
@@ -2566,7 +2566,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Georgia is in the United States whose capital city is Washington D.C.</lex>
       <lex comment="good" lid="Id2">Albany is in Georgia which is a part of the United States, where Washington, D.C. is the capital.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id156" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -2668,7 +2668,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The country of Akron, Ohio, is United States, where Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">The United States is home to the ethnic group of Asian Americans and also the location of Akron, Ohio.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id164" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
@@ -2809,7 +2809,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Washington is located within the United States, in which Native Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">One of the ethnic groups in the United States are the Native Americans and the country is the location of Auburn, Washington.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id175" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | ethnicGroup | White_Americans</otriple>
@@ -2886,7 +2886,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron, Ohio is located in the United States where Barack Obama is a leader.</lex>
       <lex comment="good" lid="Id2">Akron, Ohio is located within the United States whose leader is Barack Obama.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id181" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States | leader | Barack_Obama</otriple>
@@ -2911,7 +2911,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Alabama is located in the United States, where the leader is Barack Obama.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama is located in the United States where Barack Obama is a leader.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id183" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</otriple>

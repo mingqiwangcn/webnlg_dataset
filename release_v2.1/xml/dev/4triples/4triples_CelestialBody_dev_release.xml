@@ -32,7 +32,7 @@
         <mtriple>(19255)_1994_VK8 | orbitalPeriod | 8788850000.0</mtriple>
         <mtriple>(19255)_1994_VK8 | periapsis | 6155910000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">19255 1994 VK8 has a mass of 5.6 kgs, oribital period of 8788850000, periapsis of 615591000000, and an epoch of the 31st of December, 2006.</lex>
+      <lex comment="good" lid="Id1" error_1="6155910000000.0">19255 1994 VK8 has a mass of 5.6 kgs, oribital period of 8788850000, periapsis of 615591000000, and an epoch of the 31st of December, 2006.</lex>
       <lex comment="good" lid="Id2">The epoch of (19255) 1994 VK8, which has an orbital period of 8788850000.0, is on 31 December 2006. It weighs 5.6 kilos and has a periapsis of 6155910000000.0.</lex>
       <lex comment="good" lid="Id3">(19255) 1994 VK8 has an orbital period of 8788850000.0 and a periapsis of 6155910000000.0. The epoch date is on 31 Decemberr 2006 and it has a mass of 5.6 kg.</lex>
     </entry>
@@ -92,7 +92,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66063) 1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days. Its escape velocity is 0.0999 km/sec and it has an apoapsis of 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id2">(66063)1998 RO1 had its epoch date on 2013-11-04 and has an orbital period of 360.29 days. It has an escape velocity of 0.0999 km/s and its apoapsis is 254989570.60815 kilometres.</lex>
-      <lex comment="good" lid="Id3">The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.</lex>
+      <lex comment="good" lid="Id3" error_1="0.0999 (kilometrePerSeconds)">The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -176,9 +176,9 @@
         <mtriple>Walter_Baade | birthPlace | German_Empire</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1036 Ganymed was discovered by Walter Baade who graduated from University of Gottingen. He was born in Germany and died in Gottingen.</lex>
-      <lex comment="good" lid="Id2">Walter Baade, born in Germany, discovered 1036 Ganymed. His alma mater was the University of Gottingen. Mr. Baade died in Gottingen.</lex>
-      <lex comment="good" lid="Id3">Walter Haase was born in the German empire and died in Gottingen. He studied at the university of Gottingen and discovered 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id1" error_1="German Empire">1036 Ganymed was discovered by Walter Baade who graduated from University of Gottingen. He was born in Germany and died in Gottingen.</lex>
+      <lex comment="good" lid="Id2" error_1="German Empire">Walter Baade, born in Germany, discovered 1036 Ganymed. His alma mater was the University of Gottingen. Mr. Baade died in Gottingen.</lex>
+      <lex comment="good" lid="Id3" error_1="Walter Baade">Walter Haase was born in the German empire and died in Gottingen. He studied at the university of Gottingen and discovered 1036 Ganymed.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -193,7 +193,7 @@
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baade, who was born in Preubisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen, and his doctoral student was Halton Arp.</lex>
+      <lex comment="good" lid="Id1" error_1="Preussisch Oldendorf">Walter Baade, who was born in Preubisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen, and his doctoral student was Halton Arp.</lex>
       <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade. Baade was born in Preußisch Oldendorf and attended the University of Gottingen where one of his doctoral students was Halton Arp.</lex>
       <lex comment="good" lid="Id3">Walter Baade, who was born in Preußisch Oldendorf, discovered 1036 Ganymed. He studied at The university of Gottingen and one of his doctoral students was Halton Arp.</lex>
     </entry>
@@ -256,7 +256,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">107 Camilla was discovered by E Wells and has an epoch date of 31 December 2006. It has an apoapsis of 560937000.0 kilometres and a periapsis of 479343000.0 kilometres.</lex>
       <lex comment="good" lid="Id2">E Wells discovered 107 Camilla an has an epoch date of December 31, 2006. Its periapsis is 479343000.0 kilometres and an apoapsis of 560937000.0 km.</lex>
-      </entry>
+    </entry>
     <entry category="CelestialBody" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>107_Camilla | discoverer | N._R._Pogson</otriple>
@@ -306,7 +306,7 @@
         <mtriple>1097_Vicia | periapsis | 279142000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs and an epoch date of Dec. 31, 2016. It has an orbital period of 135589000. and a periapsis measurement of 279142000000.0.</lex>
-      <lex comment="good" lid="Id2">The epoch date of 1097 Vicia was on 31 December 2016 and its mass is 9.8kg. Its orbital period is 135589000.0 and its periapsis is 269142000000.</lex>
+      <lex comment="good" lid="Id2" error_1="279142000000.0">The epoch date of 1097 Vicia was on 31 December 2016 and its mass is 9.8kg. Its orbital period is 135589000.0 and its periapsis is 269142000000.</lex>
       <lex comment="good" lid="Id3">The celestial body known as 1097 Vicia has a mass of 9.8kg and its epoch is on 31 December 2016. The orbital period for 1097 Vicia is 135589000.0 and it has a periapsis measurement of 279142000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -341,8 +341,8 @@
         <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria has a mass of 2.7 kg and an orbital period of 179942000.0. It has a periapsis of 349206000000.0 and an epoch date of 31st December 2006.</lex>
-      <lex comment="good" lid="Id2">34920600000 is the periapsis of 1099 Figneria, which has a mass of 2.7 kgs, an orbital period of 179942000.0 and an epoch date of December 31st 2006.</lex>
-      <lex comment="good" lid="Id3">Weighing 2.7 kgs, 1099 Figneria, has an orbital period of 179942000.0. This minor planet, has a periapsis of 34920600000 and its epoch date is, 31 December 2006.</lex>
+      <lex comment="good" lid="Id2" error_1="349206000000.0">34920600000 is the periapsis of 1099 Figneria, which has a mass of 2.7 kgs, an orbital period of 179942000.0 and an epoch date of December 31st 2006.</lex>
+      <lex comment="good" lid="Id3" error_1="349206000000.0">Weighing 2.7 kgs, 1099 Figneria, has an orbital period of 179942000.0. This minor planet, has a periapsis of 34920600000 and its epoch date is, 31 December 2006.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

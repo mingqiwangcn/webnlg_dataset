@@ -10,9 +10,9 @@
         <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
         <mtriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">FC Magedburg has 27250 members and was in Regionalliga in 2014.</lex>
-      <lex comment="good" lid="Id2">FC Magdeburg played in the Regionalliga in 2014-15 season and has 27250 members.</lex>
-      <lex comment="good" lid="Id3">1.FC Magdeburg has 27250 members and in the 2014-15 season they played in the Regionalliga.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Regionalliga">FC Magedburg has 27250 members and was in Regionalliga in 2014.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Regionalliga">FC Magdeburg played in the Regionalliga in 2014-15 season and has 27250 members.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Regionalliga">1.FC Magdeburg has 27250 members and in the 2014-15 season they played in the Regionalliga.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -40,7 +40,7 @@
         <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran, who has managed AC Chievo Verona, was born in Italy.</lex>
-      <lex comment="good" lid="Id2">Associazione Calcio ChievoVerona is managed by Italian born Rolando Maran.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona" error_2="Italy">Associazione Calcio ChievoVerona is managed by Italian born Rolando Maran.</lex>
       <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran, who was born in Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -53,7 +53,7 @@
         <mtriple>Jorge_Humberto_Rodríguez | club | FC_Dallas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He plays for FC Dallas.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez, manager of A D Isidro Metapan, plays for FC Dallas.</lex>
+      <lex comment="good" lid="Id2" error_1="A.D. Isidro Metapan">Jorge Humberto Rodriguez, manager of A D Isidro Metapan, plays for FC Dallas.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -95,7 +95,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Blackpool have had Stuart Parker as their manager, and he is attached to Irlam Town Football Club.</lex>
       <lex comment="good" lid="Id2">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who is a member of the Irlam Town F.C.</lex>
-      <lex comment="good" lid="Id3">Footballer Stuart Parker, attached to Irlam Town Football Club, also manages A.F.C. Blackpool.</lex>
+      <lex comment="good" lid="Id3" error_1="Irlam Town F.C.">Footballer Stuart Parker, attached to Irlam Town Football Club, also manages A.F.C. Blackpool.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -140,9 +140,9 @@
         <mtriple>A.S._Livorno_Calcio | ground | Livorno</mtriple>
         <mtriple>A.S._Livorno_Calcio | league | Serie_B</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S Livorno Calcio ground is in Livorno and the club plays in Serie B.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Livorno Calcio">A.S Livorno Calcio ground is in Livorno and the club plays in Serie B.</lex>
       <lex comment="good" lid="Id2">AS Livorno Calcio play in Serie B, and their grounds are in Livorno.</lex>
-      <lex comment="good" lid="Id3">The AS Livorno club in Serie B plays in Livorno.</lex>
+      <lex comment="good" lid="Id3" error_1="A.S. Livorno Calcio">The AS Livorno club in Serie B plays in Livorno.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -154,7 +154,7 @@
         <mtriple>Christian_Panucci | club | A.S._Roma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Christian Panucci plays at A.S. Roma. He also manages A.S. Livorno Calcio .</lex>
-      <lex comment="good" lid="Id2">A.S Livorno Calcio is managed by Christian Panucci, who plays for A S Roma.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Livorno Calcio" error_2="A.S. Roma">A.S Livorno Calcio is managed by Christian Panucci, who plays for A S Roma.</lex>
       <lex comment="good" lid="Id3">A.S. Livorno Calcio is managed by Christian Panucci who plays at the A.S. Roma.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -166,9 +166,9 @@
         <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
         <mtriple>Paulo_Sousa | club | Juventus_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The manager of ACF Fiorentina is Paulo Sousa, his club is Juventus.</lex>
-      <lex comment="good" lid="Id2">Paulo Sousa is the manager of the ACF Fiorentina and his club is Juventus.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Juventus F.C.">The manager of ACF Fiorentina is Paulo Sousa, his club is Juventus.</lex>
+      <lex comment="good" lid="Id2" error_1="Juventus F.C.">Paulo Sousa is the manager of the ACF Fiorentina and his club is Juventus.</lex>
+    </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>ACF_Fiorentina | capacity | 47290</otriple>
@@ -196,8 +196,8 @@
         <mtriple>AEK_Athens_F.C. | numberOfMembers | 69618</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens F.C. has 69618 members and its ground is in Greece.</lex>
-      <lex comment="good" lid="Id2">AEK Athens's ground is in Greece and the club has 69618 members.</lex>
-      <lex comment="good" lid="Id3">AEK Athen's ground is in Greece and has 69618 members.</lex>
+      <lex comment="good" lid="Id2" error_1="AEK Athens F.C.">AEK Athens's ground is in Greece and the club has 69618 members.</lex>
+      <lex comment="good" lid="Id3" error_1="AEK Athens F.C.">AEK Athen's ground is in Greece and has 69618 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -285,7 +285,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pietro Grasso is the leader in Italy where the ground of A.S. Gubbio 1910 is located.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader.</lex>
-      <lex comment="good" lid="Id3">Pietro Grasso is the leader of Italy where the ground of A S Gubbio is located.</lex>
+      <lex comment="good" lid="Id3" error_1="A.S. Gubbio 1910">Pietro Grasso is the leader of Italy where the ground of A S Gubbio is located.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -308,5 +308,5 @@
       <lex comment="good" lid="Id2">The manager of A.S. Roma is Luciano Spalletti who plays for Empoli F.C.</lex>
       <lex comment="good" lid="Id3">Luciano Spalletti plays for Empoli F.C. and manages A.S. Roma.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

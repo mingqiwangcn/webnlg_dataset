@@ -62,7 +62,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">California is home to Anaheim, which is led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, which is part of California.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
@@ -127,7 +127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch, California is 13.0 metres above sea level and has a total area of 75.324 sq km.</lex>
       <lex comment="good" lid="Id2">Antioch, California lies 13.0 metres above sea level and covers an area of 75.324 square kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Arlington,_Texas | elevation | "184.099"^^xsd:double</otriple>
@@ -360,5 +360,5 @@
       <lex comment="good" lid="Id2">Albuquerque, New Mexico, is within the United States; the leader of which, is called the President of the United States.</lex>
       <lex comment="good" lid="Id3">Albuquerque is in New Mexico, in the United States, where the leader is called the President of the United States.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

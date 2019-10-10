@@ -29,9 +29,9 @@
         <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
         <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolando Maran has worked at FC Bari 1908. He managed Associazione Calcio ChievoVerona and is in the Carrarese Calcio club. He was born in Italy.</lex>
+      <lex comment="good" lid="Id1" error_1="A.C. Chievo Verona">Rolando Maran has worked at FC Bari 1908. He managed Associazione Calcio ChievoVerona and is in the Carrarese Calcio club. He was born in Italy.</lex>
       <lex comment="good" lid="Id2">Rolando Maran was born in Italy and is in the Carrarese Calcio Club. He currently plays for F.C. Bari 1908 while managing A.C. Chievo Verona.</lex>
-      <lex comment="good" lid="Id3">Rolando Maran, who was born in Italy and has previously worked for FC Bari 1908. He currently plays for Carrarese Calcio and manages Associazione Calcio ChievoVerona.</lex>
+      <lex comment="good" lid="Id3" error_1="A.C. Chievo Verona">Rolando Maran, who was born in Italy and has previously worked for FC Bari 1908. He currently plays for Carrarese Calcio and manages Associazione Calcio ChievoVerona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -52,8 +52,8 @@
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian born, Michele Marcolini, plays for A.C. Chievo Verona, owns Torino F.C., and is manager of A.C. Lumezzane.</lex>
-      <lex comment="good" lid="Id2">Italian born Michele Marcolini has been the manager of AC Lumezzane. He currently plays for Torino FC and AC Chievo Verona.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born, Michele Marcolini, plays for A.C. Chievo Verona, owns Torino F.C., and is manager of A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Italian born Michele Marcolini has been the manager of AC Lumezzane. He currently plays for Torino FC and AC Chievo Verona.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini was born in Italy and has been the manager of AC Lumezzane. He currently owns Torino F.C. and plays for A.C. Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -77,7 +77,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis which has 1500 members. It is in the league EPSTH 2nd GROUP and its grounds are in the town of Efxeinoupoli.</lex>
       <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP and have 1500 members. Their chairman is Antonis Milionis and their home ground is situated in Efxeinoupoli.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
@@ -169,8 +169,8 @@
         <mtriple>Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.</mtriple>
         <mtriple>Paulo_Sousa | club | Inter_Milan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attached to the club Inter Milan, Paulo Sousa's club is Juventus. He also plays for Maccabi Tel Aviv F.C. and is manager of ACF Fiorentina.</lex>
-      <lex comment="good" lid="Id2">Paulo Sousa is the manager of ACF Fiorentina and his club is Juventus. He plays for both plays for Maccabi Tel Aviv F.C. and the Inter Milan club.</lex>
+      <lex comment="good" lid="Id1" error_1="Juventus F.C.">Attached to the club Inter Milan, Paulo Sousa's club is Juventus. He also plays for Maccabi Tel Aviv F.C. and is manager of ACF Fiorentina.</lex>
+      <lex comment="good" lid="Id2" error_1="Juventus F.C.">Paulo Sousa is the manager of ACF Fiorentina and his club is Juventus. He plays for both plays for Maccabi Tel Aviv F.C. and the Inter Milan club.</lex>
       <lex comment="good" lid="Id3">Paulo Sousa once played for Inter Milan and Juventus FC. He now manages ACF Fiorentina and plays for Maccabi Tel Aviv F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -282,7 +282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league, which is based in Brazil. The club's ground is called the Estádio Municipal Coaracy da Mata Fonseca and it is located in Alagoas.</lex>
       <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense's ground is Estadio Municipal Coaracy da Mata Fonseca which is located in Alagoas. They play in the Campeonato Brasileiro Série C league which is from Brazil.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id16" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
@@ -313,9 +313,9 @@
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
         <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">St Vincent-St Mary High School is the ground of Akron Summit Assault, Akron, Ohio, U.S. Akron, Ohio is part of Summit County, Ohio.</lex>
-      <lex comment="good" lid="Id2">The ground of Akron Summit Assault is at St Vincent-St Mary High School in Akron, Ohio, Summit County, United States.</lex>
-      <lex comment="good" lid="Id3">St Vincent-St Mary High School, Akron, Summit County, Ohio, United States is the ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id1" error_1="St. Vincent-St. Mary High School">St Vincent-St Mary High School is the ground of Akron Summit Assault, Akron, Ohio, U.S. Akron, Ohio is part of Summit County, Ohio.</lex>
+      <lex comment="good" lid="Id2" error_1="St. Vincent-St. Mary High School">The ground of Akron Summit Assault is at St Vincent-St Mary High School in Akron, Ohio, Summit County, United States.</lex>
+      <lex comment="good" lid="Id3" error_1="St. Vincent-St. Mary High School">St Vincent-St Mary High School, Akron, Summit County, Ohio, United States is the ground of Akron Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id18" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -332,7 +332,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where there are leaders called Pietro Grasso and Sergio Mattarella and the capital is Rome.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital and two of the leaders are Pietro Grasso and Sergio Mattarella.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
@@ -349,5 +349,5 @@
       <lex comment="good" lid="Id1">Peter Stöger is the manager at 1. FC Köln. He is a former player of SK Vorwärts Steyr, FC Admira Wacker Mödling and FK Austria Wien.</lex>
       <lex comment="good" lid="Id2">Peter Stöger is at the FK Austria Wien club and is in the SK Vorwärts Steyr club, a player in FC Admira Wacker Mödling, and is the manager of FC Koln.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

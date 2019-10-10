@@ -174,7 +174,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of Potter County and Randall County in Texas in the U.S.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County and Randall County in Texas, United States.</lex>
-      <lex comment="good" lid="Id3">Amarillo, Texas is located in the counties of Randall and Potter in the U.S.</lex>
+      <lex comment="good" lid="Id3" error_1="Potter County, Texas" error_2="Randall County, Texas">Amarillo, Texas is located in the counties of Randall and Potter in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id9" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -218,8 +218,8 @@
         <mtriple>Orange_County,_California | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Orange County in California is part of the Greater Los Angeles area, where Anaheim is located in the United States.</lex>
-      <lex comment="good" lid="Id2">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="United States">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California.</lex>
+    </entry>
     <entry category="City" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Anaheim,_California | isPartOf | Orange_County,_California</otriple>
@@ -381,7 +381,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria, Indiana is part of Madison County Indiana in the United States. The largest city in Madison County is Anderson.</lex>
       <lex comment="good" lid="Id2">Alexandria in the United States is part of Madison County, Indiana which has the largest city of Anderson.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>United_States | capital | Washington,_D.C.</otriple>
@@ -503,7 +503,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola, Indiana is located in the United States where the English language is spoken and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" error_1="Asian Americans">Angola, Indiana is located in the United States where the English language is spoken and the Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The United States, where the Asian Americans are an ethnic group, uses the English language and is the location of Angola, Indiana.</lex>
       <lex comment="good" lid="Id3">Asian Americans are an ethnic group in the U.S which is where they speak english and the city Angola, Indiana is located.</lex>
     </entry>
@@ -522,5 +522,5 @@
       <lex comment="good" lid="Id2">Anaheim in California is led by the United States House of Representatives which is part of the United States Congress.</lex>
       <lex comment="good" lid="Id3">In the United States, the House of Representatives (part of the United States Congress) leads Anaheim, California.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Ticino, Switzerland. It was established in 1996 and it has 600 students. The leader of Switzerland is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">The leader of Switzerland is Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in Ticino which was established in 1996 and has 600 students.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio, which has 600 students, was founded in 1996 in Ticino, Switzerland. The leader of Switzerland is Johann Schneider - Amman.</lex>
+      <lex comment="good" lid="Id3" error_1="Johann Schneider-Ammann">The Accademia di Architettura di Mendrisio, which has 600 students, was founded in 1996 in Ticino, Switzerland. The leader of Switzerland is Johann Schneider - Amman.</lex>
     </entry>
     <entry category="University" eid="Id3" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -62,7 +62,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University and is located in Bangalore, Karnataka. To its northeast is Telangana and to its west is the Arabian Sea.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in Balgalore, Karnataka is east of the Arabian Sea and southwest of Telangana. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" error_1="Bangalore">The Acharya Institute of Technology in Balgalore, Karnataka is east of the Arabian Sea and southwest of Telangana. It is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">Karnataka state which has the Arabian Sea to its west and Telangana to its northwest is also home to the Acharya Institute of Technology. The Institute is located in the city of Bangalore and is affiliated with the Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -116,9 +116,9 @@
         <mtriple>Romania | capital | Bucharest</mtriple>
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.</lex>
+      <lex comment="good" lid="Id1" error_1="Prime Minister of Romania">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.</lex>
       <lex comment="good" lid="Id2">1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania and Klaus Iohannis is the country's Prime Minister.</lex>
-      <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in the city of Alba lulia in Romania. The capital of Romania is Bucharest and the Prime Minister is Klaus lohannis.</lex>
+      <lex comment="good" lid="Id3" error_1="Alba Iulia" error_2="Klaus Iohannis">1 Decembrie 1918 University is located in the city of Alba lulia in Romania. The capital of Romania is Bucharest and the Prime Minister is Klaus lohannis.</lex>
     </entry>
     <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -160,5 +160,5 @@
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It is affiliated with the European University Association and has a staff compliment of 737. 16000 students attend the university currently.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was established in Denmark in 1928. The School is affiliated with the European University Association and has 16,000 students and 737 academic staff.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

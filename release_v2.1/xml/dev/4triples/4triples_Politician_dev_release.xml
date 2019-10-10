@@ -104,9 +104,9 @@
         <mtriple>Abdul_Taib_Mahmud | party | Parti_Pesaka_Bumiputera_Bersatu</mtriple>
         <mtriple>Abdul_Taib_Mahmud | residence | Kuching</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id2">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Japanese Occupation of British Borneo is the birth place of Adenan Satem, who succeeded Abdul Taib Mahmud.</lex>
-      <lex comment="good" lid="Id3">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, was born in Kuching. Satem was born in Japanese Occupied British Borneo.</lex>
+      <lex comment="good" lid="Id1" error_1="Japanese occupation of British Borneo">Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex comment="good" lid="Id2" error_1="Kuching">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Japanese Occupation of British Borneo is the birth place of Adenan Satem, who succeeded Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id3" error_1="Japanese occupation of British Borneo">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, was born in Kuching. Satem was born in Japanese Occupied British Borneo.</lex>
     </entry>
     <entry category="Politician" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -121,8 +121,8 @@
         <mtriple>Abdul_Taib_Mahmud | residence | Sarawak</mtriple>
         <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adenan Satem was born in Japanese Occupied British Borneo. His successor was Abdul Taib Mahmud, who, resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
-      <lex comment="good" lid="Id2">Japanese occupied, British Borneo, was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party and resides in Sarawak.</lex>
+      <lex comment="good" lid="Id1" error_1="Japanese occupation of British Borneo">Adenan Satem was born in Japanese Occupied British Borneo. His successor was Abdul Taib Mahmud, who, resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
+      <lex comment="good" lid="Id2" error_1="Japanese occupation of British Borneo">Japanese occupied, British Borneo, was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party and resides in Sarawak.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party, lives in Sarawak. He was succeeded by Adenan Satem, who was born in the Japanese Occupation of British Borneo.</lex>
     </entry>
     <entry category="Politician" eid="Id8" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -156,9 +156,9 @@
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Caballero; was born in Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id1" error_1="Galicia (Spain)">Abel Caballero; was born in Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.</lex>
       <lex comment="good" lid="Id2">Abel Caballero, who belongs to the Spanish Socialist Workers' Party, is a member of the Congress of Deputies. Caballero was born in Galicia, Spain.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was born in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
+      <lex comment="good" lid="Id3" error_1="Galicia (Spain)">Abel Caballero was born in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
     <entry category="Politician" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -173,7 +173,7 @@
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ponteareas, Spain, is the birthplace of Albel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.</lex>
+      <lex comment="good" lid="Id1" error_1="Abel Caballero">Ponteareas, Spain, is the birthplace of Albel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas in Spain. He belongs to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Spain in Ponteareas and was the Minister of Transport. He was also a member of the Spanish Socialist Workers' Party.</lex>
       <lex comment="good" lid="Id4">Abel Caballero was born in Ponteareas in Spain. He belonged to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
@@ -198,8 +198,8 @@
         <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal was a member of the Republican party of the United States. Abner W. Sibal was a member of the Connecticut Senate from the 26th District and was the predecessor to, Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id2">Abner W. Sibal; was born in Ridgewood, Queen, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id3">Abner W. Sibel was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2" error_1="Ridgewood, Queens">Abner W. Sibal; was born in Ridgewood, Queen, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3" error_1="Abner W. Sibal">Abner W. Sibel was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -266,7 +266,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc is a national of Poland where the language used is Polish. He was involved in battles of the Polish-Soviet war during which Joseph Stalin was a commander.</lex>
       <lex comment="good" lid="Id2">Adam Koc, a Polish nationalist, fought in the Polish-Soviet War. Joseph Stalin was a commander in that war. The Polish language is used in Poland.</lex>
-      </entry>
+    </entry>
     <entry category="Politician" eid="Id16" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Adam_Koc | battles | Polish–Soviet_War</otriple>
@@ -361,7 +361,7 @@
         <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Knightsbridge, Airey Neave; began his career on March 4th 1974, fought in the Battle of France, and ended his career on 30th March 1979.</lex>
-      <lex comment="good" lid="Id2">Airey Near was born in Kinightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.</lex>
+      <lex comment="good" lid="Id2" error_1="Airey Neave" error_2="Knightsbridge">Airey Near was born in Kinightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.</lex>
       <lex comment="good" lid="Id3">Knightsbridge born Airey Neave, who fought in the Battle of France, had a career which lasted from March 4th 1974 to 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -379,7 +379,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave was born in Knightsbridge, England and fought in World War Two. He started his career on June 30th, 1953 and ended it on March 30th, 1979.</lex>
       <lex comment="good" lid="Id2">Knightsbridge born Airey Neave fought in World War II. His career began on 30th June 1953 and ended on 30th March 1979.</lex>
-      <lex comment="good" lid="Id3">World War II veteran Airey Neave was born in Knightbridge. He began his career 06/30/1953 and retired 03/30/1979.</lex>
+      <lex comment="good" lid="Id3" error_1="Knightsbridge">World War II veteran Airey Neave was born in Knightbridge. He began his career 06/30/1953 and retired 03/30/1979.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -394,7 +394,7 @@
         <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
         <mtriple>Albert_B._White | dateOfDeath | 1941-07-03</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born, 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virgininia.</lex>
+      <lex comment="good" lid="Id1" error_1="Parkersburg, West Virginia">Born, 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virgininia.</lex>
       <lex comment="good" lid="Id2">Albert B White was born on 22nd September 1856 and he died in Parkersburg, West Virginia on 1941-07-03.</lex>
       <lex comment="good" lid="Id3">Albert B White was born on 22nd September 1856 and died on the 3rd July 1941 in Parkersburg, West Virginia.</lex>
     </entry>
@@ -429,7 +429,7 @@
         <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born on May 20, 1891, was a Rear Admiral originating from Mendoza, Argentina. He preceded Isaac Rojas.</lex>
-      <lex comment="good" lid="Id2">Alberto teisaire was born in Mendosa, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
+      <lex comment="good" lid="Id2" error_1="Mendoza, Argentina">Alberto teisaire was born in Mendosa, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was born on May 20th 1891 in Mendoza, Argentina and became a Rear Admiral. He was succeeded by Isaac Rojas.</lex>
     </entry>
     <entry category="Politician" eid="Id25" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -485,9 +485,9 @@
         <mtriple>Alfred_N._Phillips | birthPlace | Connecticut</mtriple>
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Connecticut born Alfred N Phillips, who served in the US Army, fought in the battle called Whiskey Rebellion. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
-      <lex comment="good" lid="Id2">Connecticut born Alfred N Phillips served in the US Army and fought in the Whiskey Rebellion battle. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
-      <lex comment="good" lid="Id3">U.S. House of Representatives, 4th District, Connecticut member Alfred N Phillips (born: Connecticut) was a US Army veteran. The Whiskey Rebellion was fought by the United States Army.</lex>
+      <lex comment="good" lid="Id1" error_1="United States Army">Connecticut born Alfred N Phillips, who served in the US Army, fought in the battle called Whiskey Rebellion. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex comment="good" lid="Id2" error_1="United States Army">Connecticut born Alfred N Phillips served in the US Army and fought in the Whiskey Rebellion battle. He was later a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex comment="good" lid="Id3" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">U.S. House of Representatives, 4th District, Connecticut member Alfred N Phillips (born: Connecticut) was a US Army veteran. The Whiskey Rebellion was fought by the United States Army.</lex>
     </entry>
     <entry category="Politician" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -503,7 +503,7 @@
         <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Governor of Texas"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin, Texas and served in the Democratic Party in the U.S. He worked as the Governor of Texas and was succeeded by, Price Daniel.</lex>
-      <lex comment="good" lid="Id2">U.S. Democratic Party member and Texas Governor, Allan Shivers, was born in Lufkin, Texas. He was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id2" error_1="Governor of Texas">U.S. Democratic Party member and Texas Governor, Allan Shivers, was born in Lufkin, Texas. He was succeeded by Price Daniel.</lex>
       <lex comment="good" lid="Id3">United States Democratic Party member and Governor of Texas Allan Shivers was born in Lufkin, Texas and succeeded by Price Daniel.</lex>
     </entry>
     <entry category="Politician" eid="Id29" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -558,9 +558,9 @@
         <mtriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"</mtriple>
         <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the U.S. where in New Britain, Connecticut, Abraham A Ribicoff was born. U.S. Abraham A. Ribicoff's spouse is Ruth Ribicoff.</lex>
-      <lex comment="good" lid="Id2">Abraham A Ribicoff was born in New Britain, Connecticut and his nationality is American. He was married to Ruth Ribicoff. Native Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">American Abraham A. Ribicoff was born in New Britain, Connecticut and is married to Ruth Ribicoff. One of the ethnic groups in the U.S. are Native Americans.</lex>
+      <lex comment="good" lid="Id1" error_1="Native Americans in the United States">Native Americans are an ethnic group in the U.S. where in New Britain, Connecticut, Abraham A Ribicoff was born. U.S. Abraham A. Ribicoff's spouse is Ruth Ribicoff.</lex>
+      <lex comment="good" lid="Id2" error_1="Native Americans in the United States">Abraham A Ribicoff was born in New Britain, Connecticut and his nationality is American. He was married to Ruth Ribicoff. Native Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3" error_1="Native Americans in the United States">American Abraham A. Ribicoff was born in New Britain, Connecticut and is married to Ruth Ribicoff. One of the ethnic groups in the U.S. are Native Americans.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

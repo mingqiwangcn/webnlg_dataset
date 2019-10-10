@@ -89,8 +89,8 @@
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a total are of 490.9 square kilometres and a land area of 486.2 square kilometres. It has a population density of 1142.3 people per square kilometers, and the area codes are 505 and 575.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, New Mexico covers a total of 490.0 sq kms which includes a land area of 486.2 sq km. It has the area codes 505 and 575 and a population density of 1142.3 inhabitants per sq km.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="490.9 (square kilometres)">Albuquerque, New Mexico covers a total of 490.0 sq kms which includes a land area of 486.2 sq km. It has the area codes 505 and 575 and a population density of 1142.3 inhabitants per sq km.</lex>
+    </entry>
     <entry category="City" eid="Id6" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Amarillo,_Texas | isPartOf | Potter_County,_Texas</otriple>
@@ -121,7 +121,7 @@
         <mtriple>Anaheim,_California | leaderTitle | California_State_Assembly</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California in the U.S. is led by the California State Assembly and is part of Orange County which forms part of the Greater L.A. area.</lex>
+      <lex comment="good" lid="Id1" error_1="Greater Los Angeles Area">Anaheim, California in the U.S. is led by the California State Assembly and is part of Orange County which forms part of the Greater L.A. area.</lex>
       <lex comment="good" lid="Id2">Led by the California State Assembly, Anaheim, is in Orange County, California (part of the Greater Los Angeles area), in the United States.</lex>
       <lex comment="good" lid="Id3">Anaheim is a city in Orange County (part of the Greater Los Angeles area) which is part of California in the U.S. Anaheim is led by the California State Assembly.</lex>
     </entry>
@@ -236,9 +236,9 @@
         <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica is part of Logan Township, Fountain County, Indiana and has 783.1 inhabitants for each of the 4.14 square kilometres it covers.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Attica is part of Logan Township, Fountain County, Indiana and has 783.1 inhabitants for each of the 4.14 square kilometres it covers.</lex>
       <lex comment="good" lid="Id2">Attica is part of Logan Township, Fountain County, Indiana in the United States. The area of Attica Indiana is 4.14 Sq Km and it has a 783.1 inhabitants per square kilometres population density.</lex>
-      <lex comment="good" lid="Id3">Attica is part of Logan Township, Fountain County in the United States. It covers a total area of 4.14 sq kms and the population density if 783.1 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id3" error_1="Attica, Indiana" error_2="Logan Township, Fountain County, Indiana">Attica is part of Logan Township, Fountain County in the United States. It covers a total area of 4.14 sq kms and the population density if 783.1 inhabitants per sq km.</lex>
     </entry>
     <entry category="City" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -272,7 +272,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama which is located in the United States where you can also find asian americans.</lex>
       <lex comment="good" lid="Id2">The Asian Americans are an ethnic group in the United States where Lee County is located. Auburn is found in this County which is in the state of Alabama.</lex>
-      <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is, Asian American.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is, Asian American.</lex>
     </entry>
     <entry category="City" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -324,7 +324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is located in Pierce County, Washington in the U.S.The capital city of the United States is Washington DC.</lex>
       <lex comment="good" lid="Id2">Auburn, Pierce County, Washington, which is located in the United States (with its capital as Washington, D.C.).</lex>
-      <lex comment="good" lid="Id3">The capital of the U.S. is Washington, D.C. Washington state, in the United States, is where Austin, part of Pierce County, Washington, is located.</lex>
+      <lex comment="good" lid="Id3" error_1="Auburn, Washington">The capital of the U.S. is Washington, D.C. Washington state, in the United States, is where Austin, part of Pierce County, Washington, is located.</lex>
     </entry>
     <entry category="City" eid="Id17" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -402,7 +402,7 @@
         <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch, Contra Costa County is part of the San Francisco Bay region of, spanish speaking, California.</lex>
+      <lex comment="good" lid="Id1" error_1="San Francisco Bay Area">Antioch, Contra Costa County is part of the San Francisco Bay region of, spanish speaking, California.</lex>
       <lex comment="good" lid="Id2">The city of Antioch is located within California, where the Spanish language is spoken. Antioch, is part of Contra Costa County in California, which is part of the San Francisco Bay area.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County and part of the San Francisco Bay Area in California. Spanish is spoken in California.</lex>
     </entry>
@@ -504,7 +504,7 @@
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron is located in the United States in Summit County, Ohio. The inhabitants of the country are known as Americans and include the ethnic group of Asian Americans.</lex>
-      <lex comment="good" lid="Id2">One ethnic group that lives in Akron, Ohio are Asians Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Summit County, Ohio">One ethnic group that lives in Akron, Ohio are Asians Americans.</lex>
       <lex comment="good" lid="Id3">Akron in Summit County, Ohio is part of the U.S. where Asian Americans are one of several ethnic groups among all Americans.</lex>
     </entry>
     <entry category="City" eid="Id26" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -540,5 +540,5 @@
       <lex comment="good" lid="Id1">The United States House of Representatives is part of the United States Congress and leads Anaheim, California. It is located within the US where the English language is spoken.</lex>
       <lex comment="good" lid="Id2">Anaheim in California is led by the United States House of Representatives, part of the United States Congress. English is spoken in the US, which is where the House of Representatives is located.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

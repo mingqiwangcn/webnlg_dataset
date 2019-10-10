@@ -19,7 +19,7 @@
         <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue has the Postmodern style of architecture.</lex>
-      <lex comment="good" lid="Id2">The architectural style of 250 Delaware Avenue is Postmodern.</lex>
+      <lex comment="good" lid="Id2" error_1="Postmodern architecture">The architectural style of 250 Delaware Avenue is Postmodern.</lex>
     </entry>
     <entry category="Building" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -167,7 +167,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are located in New York City.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths are located in New York City.</lex>
-      </entry>
+    </entry>
     <entry category="Building" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Buffalo,_New_York | subdivisionName | Erie_County,_New_York</otriple>
@@ -245,8 +245,8 @@
       <modifiedtripleset>
         <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Los Angeles Herald-Examiner">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building.</lex>
+    </entry>
     <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
         <otriple>Live_Nation_Entertainment | location | Beverly_Hills,_California</otriple>
@@ -311,9 +311,9 @@
       <modifiedtripleset>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A leader in the United Kingdom is Elizabeth 11.</lex>
+      <lex comment="good" lid="Id1" error_1="Elizabeth II">A leader in the United Kingdom is Elizabeth 11.</lex>
       <lex comment="good" lid="Id2">The leader of the United Kingdom is Elizabeth II.</lex>
       <lex comment="good" lid="Id3">The leader of United Kingdom is Elizabeth II.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

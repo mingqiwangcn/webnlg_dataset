@@ -20,7 +20,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Siniša Mihajlović is the manager for A.C. Milan.</lex>
       <lex comment="good" lid="Id2">Siniša Mihajlović is manager of A.C. Milan.</lex>
-      <lex comment="good" lid="Id3">Siniša Mihajlović is the manager of A. C. Milan.</lex>
+      <lex comment="good" lid="Id3" error_1="A.C. Milan">Siniša Mihajlović is the manager of A. C. Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -157,7 +157,7 @@
       <modifiedtripleset>
         <mtriple>Aaron_Hunt | club | Germany_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt plays for the German National Under 21 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany national under-21 football team">Aaron Hunt plays for the German National Under 21 football team.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt's club is the Germany national under-21 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
@@ -169,7 +169,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt played for the Germany national youth football team.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt plays for the Germany national youth football team.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt is in the German national youth football team.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany national youth football team">Aaron Hunt is in the German national youth football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -238,7 +238,7 @@
       <modifiedtripleset>
         <mtriple>Aaron_Hunt | youthclub | SV_Werder_Bremen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt's is in the youth club SV Weder Bremen.</lex>
+      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">Aaron Hunt's is in the youth club SV Weder Bremen.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt played for the SV Werder Bremen youth team.</lex>
       <lex comment="good" lid="Id3">Aaron Hunt belongs to the youth club SV Werder Bremen.</lex>
     </entry>
@@ -324,7 +324,7 @@
       <modifiedtripleset>
         <mtriple>Abel_Hernández | club | Uruguay_national_under-20_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernandez's club is the Uruguay national under 20 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Uruguay national under-20 football team">Abel Hernandez's club is the Uruguay national under 20 football team.</lex>
       <lex comment="good" lid="Id2">Abel Hernandez plays for the Uruguay national under-20 football team.</lex>
       <lex comment="good" lid="Id3">Abel Hernández played for the Uruguay national under-20 football team.</lex>
     </entry>
@@ -459,7 +459,7 @@
       <modifiedtripleset>
         <mtriple>Adam_Maher | currentclub | PSV_Eindhoven</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The current club that Adam Mayer plays for is PSV Eindhoven.</lex>
+      <lex comment="good" lid="Id1" error_1="Adam Maher">The current club that Adam Mayer plays for is PSV Eindhoven.</lex>
       <lex comment="good" lid="Id2">Adam Maher currently plays for PSV Eindhoven.</lex>
       <lex comment="good" lid="Id3">The current club of Adam Maher is PSV Eindhoven.</lex>
     </entry>
@@ -578,7 +578,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al-Jaish_SC_(Syria)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Jaish SC in Syria.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for the Syrian club Al Jaish SC.</lex>
+      <lex comment="good" lid="Id2" error_1="Al-Jaish SC (Syria)">Ahmad Kadhim Assad plays for the Syrian club Al Jaish SC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al-Jaish SC (Syria).</lex>
     </entry>
     <entry category="Athlete" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
@@ -619,9 +619,9 @@
       <modifiedtripleset>
         <mtriple>Ahmad_Kadhim_Assad | club | Al-Talaba_SC</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al Talaba SC.</lex>
+      <lex comment="good" lid="Id1" error_1="Al-Talaba SC">Ahmad Kadhim Assad plays for Al Talaba SC.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad plays for Al-Talaba SC.</lex>
-      <lex comment="good" lid="Id3">Ahmad Kadhim Assad is a member of Al Talaba SC.</lex>
+      <lex comment="good" lid="Id3" error_1="Al-Talaba SC">Ahmad Kadhim Assad is a member of Al Talaba SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -647,7 +647,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad's club is Al Shorta SC.</lex>
-      <lex comment="good" lid="Id2">Ahmed Kadhim Assad plays for Al Shorta SC.</lex>
+      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">Ahmed Kadhim Assad plays for Al Shorta SC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for the club Al Shorta SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
@@ -749,7 +749,7 @@
       <modifiedtripleset>
         <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-17_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams's club is the Trinidad and Tobago national under 17 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Trinidad and Tobago national under-17 football team">Akeem Adams's club is the Trinidad and Tobago national under 17 football team.</lex>
       <lex comment="good" lid="Id2">Akeem Adams played for the Trinidad and Tobago national under-17 football team.</lex>
       <lex comment="good" lid="Id3">Akeem Adams once played for the Trinidad and Tobago national under-17 football team.</lex>
     </entry>
@@ -761,7 +761,7 @@
         <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-20_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams played in the Trinidad and Tobago national under-20 football team.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams played football for the Trinidad and Tobago national under 20 team.</lex>
+      <lex comment="good" lid="Id2" error_1="Trinidad and Tobago national under-20 football team">Akeem Adams played football for the Trinidad and Tobago national under 20 team.</lex>
       <lex comment="good" lid="Id3">Akeem Adams plays for the Trinidad and Tobago national under-20 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
@@ -1120,7 +1120,7 @@
         <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Priestley plays for Orange County Blues FC.</lex>
-      <lex comment="good" lid="Id2">Akeem Priestley is connected to the Orange County Blues Football Club.</lex>
+      <lex comment="good" lid="Id2" error_1="Orange County Blues FC">Akeem Priestley is connected to the Orange County Blues Football Club.</lex>
       <lex comment="good" lid="Id3">Akeem Priestley plays for the Orange County Blues FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
@@ -1188,7 +1188,7 @@
       <modifiedtripleset>
         <mtriple>Al-Khor_Sports_Club | position | Qatar_Stars_League</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Khor Sports Club plays in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id1" error_1="Al-Khor Sports Club">Al Khor Sports Club plays in the Qatar Stars League.</lex>
       <lex comment="good" lid="Id2">Al-Khor Sports Club's position is in the Qatar Stars League.</lex>
     </entry>
     <entry category="Athlete" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
@@ -1199,7 +1199,7 @@
         <mtriple>Al-Wakrah_Sport_Club | league | Qatar_Stars_League</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al-Wakrah Sport Club is in the Qatar Stars League.</lex>
-      <lex comment="good" lid="Id2">The Al Wakrah Sport Club is in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2" error_1="Al-Wakrah Sport Club">The Al Wakrah Sport Club is in the Qatar Stars League.</lex>
       <lex comment="good" lid="Id3">Al-Wakrah Sport Club play in the Qatar Stars League.</lex>
     </entry>
     <entry category="Athlete" eid="Id105" shape="(X (X))" shape_type="NA" size="1">
@@ -1211,7 +1211,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al-Wakrah Sport Club position is in the Qatar Stars League.</lex>
       <lex comment="good" lid="Id2">Al-Wakrah sport club plays in the Qatar Stars League.</lex>
-      <lex comment="good" lid="Id3">Al Wakrah Sport Club play in the Qatar Stars league.</lex>
+      <lex comment="good" lid="Id3" error_1="Al-Wakrah Sport Club">Al Wakrah Sport Club play in the Qatar Stars league.</lex>
     </entry>
     <entry category="Athlete" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1221,7 +1221,7 @@
         <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Kharaitiyat SC's ground is Al Khor.</lex>
-      <lex comment="good" lid="Id2">Al Kharaitiyat is located in Al Khor.</lex>
+      <lex comment="good" lid="Id2" error_1="Al Kharaitiyat SC">Al Kharaitiyat is located in Al Khor.</lex>
       <lex comment="good" lid="Id3">Al Khor is the home ground of Al Kharaitiyat SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
@@ -1281,7 +1281,7 @@
       <modifiedtripleset>
         <mtriple>Alaa_Abdul-Zahra | club | Al-Merrikh_SC</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul Zahra has played for Al Merrikh SC.</lex>
+      <lex comment="good" lid="Id1" error_1="Al-Merrikh SC">Alaa Abdul Zahra has played for Al Merrikh SC.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for Al-Merrikh SC.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al-Merrikh SC.</lex>
     </entry>
@@ -1366,7 +1366,7 @@
       <modifiedtripleset>
         <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-23_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul Zahra plays for the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for the Iraq national under 23 football team.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for the Iraq national under-23 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
@@ -1491,7 +1491,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin's football club is Motherwell FC.</lex>
       <lex comment="good" lid="Id2">Alan Martin played football for Motherwell F.C.</lex>
-      <lex comment="good" lid="Id3">The footballer Alan Martin played for Motherwell Football Club.</lex>
+      <lex comment="good" lid="Id3" error_1="Motherwell F.C.">The footballer Alan Martin played for Motherwell Football Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1503,7 +1503,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | club | Scotland_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The footballer Alan Martin plays in the Scottish National under 21 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Scotland national under-21 football team">The footballer Alan Martin plays in the Scottish National under 21 football team.</lex>
       <lex comment="good" lid="Id2">Footballer, Alan Martin played for the Scotland national under-21 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id130" shape="(X (X))" shape_type="NA" size="1">
@@ -1513,7 +1513,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | height | 185.42 (centimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Footballer, Alan Martin is 185,42 centimetres tall.</lex>
+      <lex comment="good" lid="Id1" error_1="185.42 (centimetres)">Footballer, Alan Martin is 185,42 centimetres tall.</lex>
       <lex comment="good" lid="Id2">The footballer Alan Martin was 185.42 cm tall.</lex>
       <lex comment="good" lid="Id3">Alan Martin (footballer) is 185.42 centimetres tall.</lex>
     </entry>
@@ -1526,7 +1526,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksander Barkov Jr was born in Tampere, Finland.</lex>
       <lex comment="good" lid="Id2">Aleksander Barkov Jr . was born in Tampere, Finland.</lex>
-      <lex comment="good" lid="Id3">Aleksander Barkov Junior was born in Tampere, Finland.</lex>
+      <lex comment="good" lid="Id3" error_1="Aleksander Barkov, Jr.">Aleksander Barkov Junior was born in Tampere, Finland.</lex>
     </entry>
     <entry category="Athlete" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1587,9 +1587,9 @@
       <modifiedtripleset>
         <mtriple>Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Barkov Jr's weight is 96.1632 kg.</lex>
+      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr's weight is 96.1632 kg.</lex>
       <lex comment="good" lid="Id2">Aleksander Barkov Jr weighs 96.1632 kilograms.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Barkov Jr's weight is 96.1632 kgs.</lex>
+      <lex comment="good" lid="Id3" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr's weight is 96.1632 kgs.</lex>
     </entry>
     <entry category="Athlete" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1795,7 +1795,7 @@
       <modifiedtripleset>
         <mtriple>Aleksandr_Prudnikov | club | Russia_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for the Russia national under 21 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Russia national under-21 football team">Aleksandr Prudnikov played for the Russia national under 21 football team.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov played for the Russia national under-21 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id156" shape="(X (X))" shape_type="NA" size="1">
@@ -1847,7 +1847,7 @@
       <modifiedtripleset>
         <mtriple>Aleksandre_Guruli | birthPlace | Georgian_Soviet_Socialist_Republic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandre Guruli was born in Georgia, in the Soviet Socialist Republic.</lex>
+      <lex comment="good" lid="Id1" error_1="Georgian Soviet Socialist Republic">Aleksandre Guruli was born in Georgia, in the Soviet Socialist Republic.</lex>
       <lex comment="good" lid="Id2">Aleksandre Guruli was born in the Georgian Soviet Socialist Republic.</lex>
     </entry>
     <entry category="Athlete" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
@@ -2244,7 +2244,7 @@
         <mtriple>Alex_Tyus | college | Florida_Gators_men's_basketball</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Tyus played for the college Florida Gators men's basketball team.</lex>
-      <lex comment="good" lid="Id2">Alex Tyus played basketball for the Florida Gators at College.</lex>
+      <lex comment="good" lid="Id2" error_1="Florida Gators men's basketball">Alex Tyus played basketball for the Florida Gators at College.</lex>
     </entry>
     <entry category="Athlete" eid="Id194" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2564,7 +2564,7 @@
         <mtriple>FC_Torpedo_Moscow | season | 2014–15_Russian_Premier_League</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">FC Torpedo Moscow played in the 2014-15 Russian Premier League.</lex>
-      <lex comment="good" lid="Id2">During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Russian Premier League">During the 2014-15 season FC Torpedo Moscow played in the Russian Premier League.</lex>
       <lex comment="good" lid="Id3">FC Torpedo Moscow played the 2014–15 season in the Russian Premier League.</lex>
     </entry>
     <entry category="Athlete" eid="Id225" shape="(X (X))" shape_type="NA" size="1">
@@ -2825,7 +2825,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The coach of the Los Angeles Rams is Jeff Fisher.</lex>
       <lex comment="good" lid="Id2">The Los Angeles Rams coach is Jeff Fisher.</lex>
-      <lex comment="good" lid="Id3">Jeff Fisher is the coach for the Los Angles Rams.</lex>
+      <lex comment="good" lid="Id3" error_1="Los Angeles Rams">Jeff Fisher is the coach for the Los Angles Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2993,8 +2993,8 @@
         <mtriple>SV_Werder_Bremen | league | Bundesliga</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">SV Werder Bremen play in the Bundesliga.</lex>
-      <lex comment="good" lid="Id2">SV Werder Breman plays in the Bundesliga.</lex>
-      <lex comment="good" lid="Id3">SV Werder is in the Bundesliga league.</lex>
+      <lex comment="good" lid="Id2" error_1="SV Werder Bremen">SV Werder Breman plays in the Bundesliga.</lex>
+      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">SV Werder is in the Bundesliga league.</lex>
     </entry>
     <entry category="Athlete" eid="Id263" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3003,7 +3003,7 @@
       <modifiedtripleset>
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The manager of SV Werder Breman is Viktor Skrypnyk.</lex>
+      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">The manager of SV Werder Breman is Viktor Skrypnyk.</lex>
       <lex comment="good" lid="Id2">Viktor Skrypnyk is the manager of SV Werder Bremen.</lex>
     </entry>
     <entry category="Athlete" eid="Id264" shape="(X (X))" shape_type="NA" size="1">
@@ -3025,7 +3025,7 @@
         <mtriple>SV_Werder_Bremen_II | manager | Alexander_Nouri</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of SV Werder Bremen II is Alexander Nouri.</lex>
-      <lex comment="good" lid="Id2">Alexander Nouri is the manager of SV Werder Bremen.</lex>
+      <lex comment="good" lid="Id2" error_1="SV Werder Bremen II">Alexander Nouri is the manager of SV Werder Bremen.</lex>
       <lex comment="good" lid="Id3">Alexander Nouri manages SV Werder Bremen II.</lex>
     </entry>
     <entry category="Athlete" eid="Id266" shape="(X (X))" shape_type="NA" size="1">
@@ -3035,7 +3035,7 @@
       <modifiedtripleset>
         <mtriple>Scotland_national_under-19_football_team | coach | Scot_Gemmill</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Scot Gemmill is the coach of the Scottish national under 19 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Scotland national under-19 football team">Scot Gemmill is the coach of the Scottish national under 19 football team.</lex>
       <lex comment="good" lid="Id2">Scot Gemmill is coach for the Scotland national under-19 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id267" shape="(X (X))" shape_type="NA" size="1">
@@ -3045,9 +3045,9 @@
       <modifiedtripleset>
         <mtriple>Scotland_national_under-21_football_team | coach | Ricky_Sbragia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ricky Sbragia is the coach of the Scotland national under 21 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Scotland national under-21 football team">Ricky Sbragia is the coach of the Scotland national under 21 football team.</lex>
       <lex comment="good" lid="Id2">Ricky Sbragia coaches the Scotland national under-21 football team.</lex>
-      <lex comment="good" lid="Id3">The Scottish national under 21 football team coach is Ricky Sbragia.</lex>
+      <lex comment="good" lid="Id3" error_1="Scotland national under-21 football team">The Scottish national under 21 football team coach is Ricky Sbragia.</lex>
     </entry>
     <entry category="Athlete" eid="Id268" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3056,7 +3056,7 @@
       <modifiedtripleset>
         <mtriple>Shabab_Al-Ordon_Club | league | Jordan_Premier_League</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Shabab Al-Ordon Club is in the Jordan Permier League.</lex>
+      <lex comment="good" lid="Id1" error_1="Jordan Premier League">Shabab Al-Ordon Club is in the Jordan Permier League.</lex>
     </entry>
     <entry category="Athlete" eid="Id269" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3157,7 +3157,7 @@
         <mtriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Steel Azin F.C. play in Iran Football's 3rd Division.</lex>
-      <lex comment="good" lid="Id2">Steel Azin FC is in Iran's Footaball 3rd Division.</lex>
+      <lex comment="good" lid="Id2" error_1="Iran Football's 3rd Division">Steel Azin FC is in Iran's Footaball 3rd Division.</lex>
       <lex comment="good" lid="Id3">The league Steel Azin F.C. play in is Iran Football's 3rd Division.</lex>
     </entry>
     <entry category="Athlete" eid="Id278" shape="(X (X))" shape_type="NA" size="1">

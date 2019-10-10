@@ -14,7 +14,7 @@
         <mtriple>Hull_City_A.F.C. | manager | Steve_Bruce</mtriple>
         <mtriple>Abel_Hernández | club | Hull_City_A.F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernandez belongs to Abel Hernandezand club Penarol. He also plays for, Steve Bruce managed, Hull City A.F.C.</lex>
+      <lex comment="good" lid="Id1" error_1="Central Espanol">Abel Hernandez belongs to Abel Hernandezand club Penarol. He also plays for, Steve Bruce managed, Hull City A.F.C.</lex>
       <lex comment="good" lid="Id2">Abel Hernandez, who played for Penarol, was a member of the Central Espanol youth team. Abel Hernández's club is Hull City A.F.C. which is managed by, Steve Bruce.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez, whose club is Penarol, played youth football for Central Español. his club is also Hull City A.F.C., the manager of which, is Steve Bruce.</lex>
     </entry>
@@ -31,7 +31,7 @@
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
         <mtriple>U.S._Città_di_Palermo | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernández, who was a member of youth club Peñaro, plays for the club, U.S. Città di Palermo. The club is managed by Giuseppe Iachini and play in the Serie A league.</lex>
+      <lex comment="good" lid="Id1" error_1="Penarol">Abel Hernández, who was a member of youth club Peñaro, plays for the club, U.S. Città di Palermo. The club is managed by Giuseppe Iachini and play in the Serie A league.</lex>
       <lex comment="good" lid="Id2">When he was younger, Abel Hernández played for Peñarol. He now plays for US Citta di Palermo in the Serie A. League and managed by Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id3">Abel Hernández plays for, Giuseppe Iachini managed, U.S. Città di Palermo. in the Serie A league. He has played for Peñarol.</lex>
     </entry>
@@ -227,7 +227,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante, who played for the club Anyang Halla, was born on May 9th 1989, in Brandon, Manitoba.</lex>
       <lex comment="good" lid="Id2">Alex Plante, whose club is called Anyang Halla, was born on 1989-05-09, in Brandon, Manitoba.</lex>
-      <lex comment="good" lid="Id3">Born on 09/05/1989 in Brandon, Manitoba, Alex Planat participated in the Anyang Halla Club.</lex>
+      <lex comment="good" lid="Id3" error_1="Alex Plante">Born on 09/05/1989 in Brandon, Manitoba, Alex Planat participated in the Anyang Halla Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -328,9 +328,9 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
         <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
-      <lex comment="good" lid="Id2">FC Torpedo Moscow who are managed by Aleksandr Chumakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Russian Premier League">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id2" error_1="Valery Petrakov">FC Torpedo Moscow who are managed by Aleksandr Chumakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Russian Premier League">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
     </entry>
     <entry category="Athlete" eid="Id18" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -372,5 +372,5 @@
       <lex comment="good" lid="Id2">Aaron Hunt plays in the Bundesliga league for SV Werder Bremen II. The manager is Viktor Skrypnyk.</lex>
       <lex comment="good" lid="Id3">Aaron Hunt plays for SV Werder Bremen in the Bundesliga. The team are managed by Viktor Skrypnyk. Aaron Hunter played for SV Werder Bremen II.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

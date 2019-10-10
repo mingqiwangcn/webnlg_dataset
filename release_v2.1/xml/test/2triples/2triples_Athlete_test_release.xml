@@ -36,8 +36,8 @@
         <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
         <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Maher is connected to the AZ Alkmaar club and plays for the Netherlands National club for players under 17.</lex>
-      <lex comment="good" lid="Id2">AZ Alkmaar player Adam Maher represented the Netherlands national side at Under 17 level.</lex>
+      <lex comment="good" lid="Id1" error_1="Netherlands national under-17 football team">Adam Maher is connected to the AZ Alkmaar club and plays for the Netherlands National club for players under 17.</lex>
+      <lex comment="good" lid="Id2" error_1="Netherlands national under-17 football team">AZ Alkmaar player Adam Maher represented the Netherlands national side at Under 17 level.</lex>
       <lex comment="good" lid="Id3">Adam Maher is connected to the AZ Alkmaar club and played for the Netherlands national under-17 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -51,7 +51,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad clubs are Steel Azin FC and Al Shorta SC.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for both Steel Azin F.C. and Al Shorta SC.</lex>
-      </entry>
+    </entry>
     <entry category="Athlete" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Akeem_Adams | team | Trinidad_and_Tobago_national_football_team</otriple>
@@ -159,8 +159,8 @@
         <mtriple>Alan_Martin_(footballer) | club | Leeds_United_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Former clubs of the footballer Alan Martin include Hamilton Academicals FC and Leeds United FC.</lex>
-      <lex comment="good" lid="Id2">Alan Martin plays football for Hamilton Academical F.C and Leeds United F.C.</lex>
-      <lex comment="good" lid="Id3">Alan Martin is a footballer who plays for Hamilton Academical and Leeds United football clubs.</lex>
+      <lex comment="good" lid="Id2" error_1="Hamilton Academical F.C.">Alan Martin plays football for Hamilton Academical F.C and Leeds United F.C.</lex>
+      <lex comment="good" lid="Id3" error_1="Hamilton Academical F.C." error_2="Leeds United F.C.">Alan Martin is a footballer who plays for Hamilton Academical and Leeds United football clubs.</lex>
     </entry>
     <entry category="Athlete" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -184,7 +184,7 @@
         <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
         <mtriple>Aleksander_Barkov,_Jr. | birthDate | 1995-09-02</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksander Barkov was born on 2 September 1995 and plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksander Barkov was born on 2 September 1995 and plays for the Florida Panthers.</lex>
       <lex comment="good" lid="Id2">Aleksander Barkov Jr. was born on the 2nd September 1995 and plays for the Florida Panthers.</lex>
       <lex comment="good" lid="Id3">Born on 2nd September 1995, Aleksander Barkov Jr plays for the Florida Panthers.</lex>
     </entry>
@@ -223,7 +223,7 @@
         <mtriple>Alex_Tyus | league | Turkish_Basketball_Super_League</mtriple>
         <mtriple>Alex_Tyus | club | Maccabi_Tel_Aviv_B.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Tyus plays for the club, Maccabi Tel Aviv B.C which is in the Turkish Basketball Super league.</lex>
+      <lex comment="good" lid="Id1" error_1="Maccabi Tel Aviv B.C.">Alex Tyus plays for the club, Maccabi Tel Aviv B.C which is in the Turkish Basketball Super league.</lex>
       <lex comment="good" lid="Id2">Alex Tyus has played in the Turkish Basketball Super League and has also represented the club Maccabi Tel Aviv BC.</lex>
       <lex comment="good" lid="Id3">Alex Tyus plays for Maccabi Tel Aviv B.C. in the Turkish Basketball Super League.</lex>
     </entry>
@@ -285,7 +285,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Prudnikov played with the Spartak Moscow FC whose playing ground is the Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for FC Spartak Moscow at the Otkrytiye Arena.</lex>
-      </entry>
+    </entry>
     <entry category="Athlete" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>RoPS | league | Veikkausliiga</otriple>

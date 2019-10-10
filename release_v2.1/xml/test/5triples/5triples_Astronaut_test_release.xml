@@ -37,7 +37,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and he was a member of the NASA Apollo 14 crew. He was awarded the United States Navy Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was on the crew of Apollo 14, which was operated by NASA. He was born in New Hampshire, and was warded the United States Navy Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
@@ -109,8 +109,8 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a crew member of Apollo 11. He is now retired.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, NJ and graduated from MIT, Sc.D. 1963. He was a fighter pilot and a crew member on Apollo 11. He is now retired.</lex>
+      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ. He graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a crew member of Apollo 11. He is now retired.</lex>
+      <lex comment="good" lid="Id2" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ and graduated from MIT, Sc.D. 1963. He was a fighter pilot and a crew member on Apollo 11. He is now retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from MIT, Sc.D. in 1963. He is a retired fighter pilot and was a member of the Apollo 11 crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -128,7 +128,7 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He was a member of the Apollo 11 crew, organized by NASA. He is now retired. William Anders was a backup pilot for Apollo 11.</lex>
+      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ. He was a member of the Apollo 11 crew, organized by NASA. He is now retired. William Anders was a backup pilot for Apollo 11.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin, born in Glen Ridge, New Jersey, was a crew member on the NASA operated Apollo 11 mission (for which William Anders was the backup pilot). Buzz is now retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was born in Glen RIdge, New Jersey He is now retired but served as crew member on the NASA operated Apollo 11 mission on which William Anders was the backup pilot.</lex>
     </entry>
@@ -149,7 +149,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born on January 20th, 1930. He was a crew member on NASA's Apollo 11. The backup pilot for Apollo 11 was William Anders. Aldrin has now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born on the 20th October 1930. He was a crew member of Apollo 11, but is now retired. William Anders was a backup pilot on the Apollo 11 mission, which was operated by NASA.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>California | gemstone | Benitoite</otriple>
@@ -184,7 +184,7 @@
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire (United States) and died in California. He was awarded the Distinguished Service Medal by the United States Navy, which is higher than the Department of Commerce Gold Medal.</lex>
-      </entry>
+    </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>William_Anders | dateOfRet | "1969-09-01"^^xsd:date</otriple>
@@ -203,5 +203,5 @@
       <lex comment="good" lid="Id1">William Anders is an American who was born in British Hong Kong. He became a fighter pilot and later a member of the crew on Apollo 8. He retired on 1 September 1969.</lex>
       <lex comment="good" lid="Id2">William Anders, a US national born in British Hong Kong, retired in 1969-09-01. He was a fighter pilot and later served as a crew member of Apollo 8.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

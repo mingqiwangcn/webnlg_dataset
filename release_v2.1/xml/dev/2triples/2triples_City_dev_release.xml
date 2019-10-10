@@ -148,7 +148,7 @@
         <mtriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana, United States.</lex>
-      <lex comment="good" lid="Id2">Anderson, is part of Fall Creek Township, Madison County, in the U.S.</lex>
+      <lex comment="good" lid="Id2" error_1="Anderson, Indiana" error_2="Fall Creek Township, Madison County, Indiana">Anderson, is part of Fall Creek Township, Madison County, in the U.S.</lex>
       <lex comment="good" lid="Id3">Anderson, is part of Fall Creek Township, Madison County, Indiana, in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -209,7 +209,7 @@
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ann Arbor, Michigan has a population of 1580.7 per square kilometre and a total area of 74.33 square kilometres.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Atlanta | country | United_States</otriple>
@@ -348,7 +348,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica is part of Indiana, where Indianapolis is the capital.</lex>
       <lex comment="good" lid="Id2">Attica is part of the state of Indiana where the capital is Indianapolis.</lex>
-      </entry>
+    </entry>
     <entry category="City" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Michigan | country | United_States</otriple>
@@ -404,5 +404,5 @@
       <lex comment="good" lid="Id2">Akron Ohio is part of the United States where one of the ethnic groups are Asian Americans.</lex>
       <lex comment="good" lid="Id3">The United States include the ethnic group of Asian Americans and is the location of Akron, Ohio.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

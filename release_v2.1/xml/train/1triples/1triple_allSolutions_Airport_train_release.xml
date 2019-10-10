@@ -291,7 +291,7 @@
       <modifiedtripleset>
         <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lake Placid, N.Y. is served by the Adirondack Regional Airport.</lex>
+      <lex comment="good" lid="Id1" error_1="Lake Placid, New York">Lake Placid, N.Y. is served by the Adirondack Regional Airport.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Lake Placid, New York.</lex>
     </entry>
     <entry category="Airport" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
@@ -733,7 +733,7 @@
       <modifiedtripleset>
         <mtriple>Al_Asad_Airbase | runwayLength | 3992.88</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway length of Al Asad Airbase is 3,992.88.</lex>
+      <lex comment="good" lid="Id1" error_1="3992.88">The runway length of Al Asad Airbase is 3,992.88.</lex>
       <lex comment="good" lid="Id2">3992.88 is the length of the runway at Al Asad Airbase.</lex>
     </entry>
     <entry category="Airport" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
@@ -755,7 +755,7 @@
         <mtriple>Al_Asad_Airbase | runwayName | "09L/27R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway name of Al Asad Airbase is 09L/27R.</lex>
-      <lex comment="good" lid="Id2">The AI Asad Airbase's runway name is "09L/27R".</lex>
+      <lex comment="good" lid="Id2" error_1="Al Asad Airbase">The AI Asad Airbase's runway name is "09L/27R".</lex>
     </entry>
     <entry category="Airport" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -828,7 +828,7 @@
         <mtriple>Alderney | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alderney's leader name is Elizabeth II.</lex>
-      <lex comment="good" lid="Id2">Aldernay's leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2" error_1="Alderney">Aldernay's leader is Elizabeth II.</lex>
       <lex comment="good" lid="Id3">The leader's name of Alderney is Elizabeth II.</lex>
     </entry>
     <entry category="Airport" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
@@ -1030,9 +1030,9 @@
       <modifiedtripleset>
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">lpena County Regional Airport elevation above the sea level in metres is 210.</lex>
+      <lex comment="good" lid="Id1" error_1="Alpena County Regional Airport">lpena County Regional Airport elevation above the sea level in metres is 210.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport has an elevation of 210 metres above sea level.</lex>
-      <lex comment="good" lid="Id3">Aplena County Regional Airport is elevated 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id3" error_1="Alpena County Regional Airport">Aplena County Regional Airport is elevated 210 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id98" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1247,7 +1247,7 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway length of Amsterdam Airport is 3800.0 metres.</lex>
+      <lex comment="good" lid="Id1" error_1="Amsterdam Airport Schiphol">The runway length of Amsterdam Airport is 3800.0 metres.</lex>
       <lex comment="good" lid="Id2">The runway length at Amsterdam Airport Schiphol is 3800.0.</lex>
       <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 3800.0.</lex>
     </entry>
@@ -1258,9 +1258,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "04/22 'Oostbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 04/22 Ooostbaan.</lex>
-      <lex comment="good" lid="Id2">04/22 Oostbaan is the runway name of Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id3">The runway at Amsterdam Airport Schiphol is 04/22 'Oostbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="04/22 'Oostbaan'">Amsterdam Airport Schiphol runway name is 04/22 Ooostbaan.</lex>
+      <lex comment="good" lid="Id2" error_1="04/22 'Oostbaan'">04/22 Oostbaan is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3" error_1="04/22 'Oostbaan'">The runway at Amsterdam Airport Schiphol is 04/22 'Oostbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1269,9 +1269,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "09/27 'Buitenveldertbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol runway name is 09/27 Buitenvelderbaan.</lex>
-      <lex comment="good" lid="Id2">09/27 Buitenveldertbaan is the runway name of the Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id3">Amsterdam Schiphol Airport has a runway named 09/27 Buitenveldertbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="09/27 'Buitenveldertbaan'">Amsterdam Airport Schiphol runway name is 09/27 Buitenvelderbaan.</lex>
+      <lex comment="good" lid="Id2" error_1="09/27 'Buitenveldertbaan'">09/27 Buitenveldertbaan is the runway name of the Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3" error_1="09/27 'Buitenveldertbaan'">Amsterdam Schiphol Airport has a runway named 09/27 Buitenveldertbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id120" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1280,9 +1280,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18C/36C 'Zwanenburgbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway name of Amsterdam's Schiphol Airport is 18C/36C Zwanenburgbaan.</lex>
-      <lex comment="good" lid="Id2">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 18C/36C Zwanenburgbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="18C/36C 'Zwanenburgbaan'">The runway name of Amsterdam's Schiphol Airport is 18C/36C Zwanenburgbaan.</lex>
+      <lex comment="good" lid="Id2" error_1="18C/36C 'Zwanenburgbaan'">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3" error_1="18C/36C 'Zwanenburgbaan'">The runway name of Amsterdam Airport Schiphol is 18C/36C Zwanenburgbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id121" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1291,9 +1291,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18L/36R 'Aalsmeerbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amserdam Airport Schiphol runway name is 18L/36R Aalsmeerbaan.</lex>
-      <lex comment="good" lid="Id2">18L/36R Aalsmeerbaan is the runway name of Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id3">Amsterdam Schiphol Airport has the runway name 18L/36R 'Aalsmeerbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="18L/36R 'Aalsmeerbaan'" error_2="Amsterdam Airport Schiphol">Amserdam Airport Schiphol runway name is 18L/36R Aalsmeerbaan.</lex>
+      <lex comment="good" lid="Id2" error_1="18L/36R 'Aalsmeerbaan'">18L/36R Aalsmeerbaan is the runway name of Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id3" error_1="18L/36R 'Aalsmeerbaan'">Amsterdam Schiphol Airport has the runway name 18L/36R 'Aalsmeerbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1302,9 +1302,9 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18R/36L 'Polderbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">18R/36L Polderbaan is the runway name at Amsterdam Airport Schiphol.</lex>
-      <lex comment="good" lid="Id2">The runway at Amsterdam Sciphol Airport is called 18R/36L Polderbaan.</lex>
-      <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 18R/36L Polderbaan.</lex>
+      <lex comment="good" lid="Id1" error_1="18R/36L 'Polderbaan'">18R/36L Polderbaan is the runway name at Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id2" error_1="18R/36L 'Polderbaan'" error_2="Amsterdam Airport Schiphol">The runway at Amsterdam Sciphol Airport is called 18R/36L Polderbaan.</lex>
+      <lex comment="good" lid="Id3" error_1="18R/36L 'Polderbaan'">The runway name of Amsterdam Airport Schiphol is 18R/36L Polderbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2069,7 +2069,7 @@
       <modifiedtripleset>
         <mtriple>Atlantic_City_International_Airport | cityServed | Atlantic_City,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlantic City International Airport serves Atlantic City, N.J.</lex>
+      <lex comment="good" lid="Id1" error_1="Atlantic City, New Jersey">The Atlantic City International Airport serves Atlantic City, N.J.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport serves the city of Atlantic City, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id193" shape="(X (X))" shape_type="NA" size="1">
@@ -2099,7 +2099,7 @@
       <modifiedtripleset>
         <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township, N.J.</lex>
+      <lex comment="good" lid="Id1" error_1="Egg Harbor Township, New Jersey">Atlantic City International Airport is in Egg Harbor Township, N.J.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, New Jersey.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, New Jersey.</lex>
     </entry>
@@ -2152,8 +2152,8 @@
       <modifiedtripleset>
         <mtriple>Atlantic_City_International_Airport | runwaySurfaceType | "Asphalt/Concrete"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway surface at Atlantic City International Airport is made from asphalt and concrete.</lex>
-      <lex comment="good" lid="Id2">The Atlantic City International Airport's runway surface is made of Asphalt and Concrete.</lex>
+      <lex comment="good" lid="Id1" error_1="Asphalt/Concrete">The runway surface at Atlantic City International Airport is made from asphalt and concrete.</lex>
+      <lex comment="good" lid="Id2" error_1="Asphalt/Concrete">The Atlantic City International Airport's runway surface is made of Asphalt and Concrete.</lex>
     </entry>
     <entry category="Airport" eid="Id201" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2162,7 +2162,7 @@
       <modifiedtripleset>
         <mtriple>Belgium | capital | City_of_Brussels</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The capital of Belgium is Brussels.</lex>
+      <lex comment="good" lid="Id1" error_1="City of Brussels">The capital of Belgium is Brussels.</lex>
       <lex comment="good" lid="Id2">The capital city of Belgium is Brussels.</lex>
     </entry>
     <entry category="Airport" eid="Id202" shape="(X (X))" shape_type="NA" size="1">
@@ -2207,7 +2207,7 @@
         <mtriple>Belgium | officialLanguage | German_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">German is the official language of Belgium.</lex>
-      <lex comment="good" lid="Id2">Belguim's official language is German.</lex>
+      <lex comment="good" lid="Id2" error_1="Belgium">Belguim's official language is German.</lex>
       <lex comment="good" lid="Id3">German is an official language of Belgium.</lex>
     </entry>
     <entry category="Airport" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
@@ -2242,7 +2242,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Curitiba is part of the State of Paraná.</lex>
       <lex comment="good" lid="Id2">Curitiba is part of Parana state.</lex>
-      <lex comment="good" lid="Id3">Curitaba is part of the state of Parana.</lex>
+      <lex comment="good" lid="Id3" error_1="Curitiba">Curitaba is part of the state of Parana.</lex>
     </entry>
     <entry category="Airport" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2485,7 +2485,7 @@
       <modifiedtripleset>
         <mtriple>Harrietstown,_New_York | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Harrietsown, New York, is located in United States.</lex>
+      <lex comment="good" lid="Id1" error_1="Harrietstown, New York">Harrietsown, New York, is located in United States.</lex>
       <lex comment="good" lid="Id2">Harrietstown, New York is in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
@@ -2533,7 +2533,7 @@
       <modifiedtripleset>
         <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">India's Air Force has an aircraft-capable helicopter known as the HAL Light Combat Helicopter.</lex>
+      <lex comment="good" lid="Id1" error_1="Indian Air Force">India's Air Force has an aircraft-capable helicopter known as the HAL Light Combat Helicopter.</lex>
       <lex comment="good" lid="Id2">The HAL Light Combat Helicopter is an aircraft helicopter of the Indian Air Force.</lex>
       <lex comment="good" lid="Id3">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force.</lex>
     </entry>
@@ -2699,7 +2699,7 @@
       <modifiedtripleset>
         <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Maple Ridge Townshio, Alpena County Michigan is in the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="Maple Ridge Township, Alpena County, Michigan">Maple Ridge Townshio, Alpena County Michigan is in the United States.</lex>
       <lex comment="good" lid="Id2">The Maple Ridge Township, Alpena County, Michigan is in the U.S.</lex>
       <lex comment="good" lid="Id3">Maple Ridge Township, Alpena County, Michigan is located in the United States.</lex>
     </entry>
@@ -3197,7 +3197,7 @@
       <modifiedtripleset>
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The USAF was involved in the Invasion of Panama.</lex>
+      <lex comment="good" lid="Id1" error_1="United States invasion of Panama">The USAF was involved in the Invasion of Panama.</lex>
       <lex comment="good" lid="Id2">The United States invasion of Panama was a battle involving the United States Air Force.</lex>
     </entry>
     <entry category="Airport" eid="Id294" shape="(X (X))" shape_type="NA" size="1">

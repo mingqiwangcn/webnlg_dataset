@@ -112,7 +112,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1st Baron, John Reith was the founder of the BBC which is located in London and showed the TV series, Bananaman. Another product of the BBC is BBC radio.</lex>
       <lex comment="good" lid="Id2">Bananaman is broadcast by the BBC, the organisation founded by John Reith, 1st Baron Reith. The BBC is based in London and also produces BBC radio.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -128,7 +128,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bill Oddie stars in Bananaman which was created by Steve Bright. It was first broadcast by the BBC on 3 October 1983.</lex>
       <lex comment="good" lid="Id2">Bananaman, created by Steve Bright and starring Bill Oddie, was first broadcast by the BBC on the 3rd October 1983.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Bananaman | network | BBC</otriple>
@@ -198,7 +198,7 @@
         <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lancashire born Bill Oddie was the star of Bananaman, broadcasted by the BBC out of the broadcasting house in London.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id12" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Bananaman | starring | Bill_Oddie</otriple>
@@ -305,7 +305,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. It was first aired on 3 October 1983, being broadcast by the BBC.</lex>
       <lex comment="good" lid="Id2">Bananaman (created by Steve Bright) was first broadcasted by the BBC on the 10/03/1983, and starred Tim Brooke-Taylor.</lex>
-      <lex comment="good" lid="Id3">Tim Brooke Taylor starred in Bananaman which was created by Steve Bright. It was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex comment="good" lid="Id3" error_1="Tim Brooke-Taylor">Tim Brooke Taylor starred in Bananaman which was created by Steve Bright. It was broadcast by the BBC and first aired on 3 October 1983.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -338,7 +338,7 @@
         <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The character Baymax first appeared in the film Big Hero 6 and is voiced by Scott Adsit. It was created by Duncan Rouleau and Steve T Seagle.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">The character Baymax first appeared in the film Big Hero 6 and is voiced by Scott Adsit. It was created by Duncan Rouleau and Steve T Seagle.</lex>
       <lex comment="good" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who first appeared in the film Big Hero 6 and is voiced by Scott Adsit.</lex>
       <lex comment="good" lid="Id3">Baymax, voiced by Scott Adsit and created by Duncan Rouleau and Steven T. Seagle first appeared in the film Big Hero 6.</lex>
     </entry>
@@ -373,7 +373,7 @@
         <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, first appeared in the film Big Hero 6.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, first appeared in the film Big Hero 6.</lex>
       <lex comment="good" lid="Id2">Baymax first appeared in the film Big Hero 6 and was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
       <lex comment="good" lid="Id3">Big hero 6 was the first appearance for Baymax, created by American Duncan Rouleau and Steven T. Seagle.</lex>
     </entry>
@@ -396,7 +396,7 @@
         <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax is a character created by Duncan Rouleau and Steve T. Seagle which first appeared in the film " Big Hero 6".</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">Baymax is a character created by Duncan Rouleau and Steve T. Seagle which first appeared in the film " Big Hero 6".</lex>
       <lex comment="good" lid="Id2">Baymax is a character who first appeared in the film Big Hero 6. It was created by Steven T Seagle and Duncan Rouleau.</lex>
       <lex comment="good" lid="Id3">Steven T Seagle and Duncan Rouleau created the character Baymax, which first appeared in the movie Big Hero 6.</lex>
     </entry>
@@ -419,7 +419,7 @@
         <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax, the Big Hero 6 character created by Steve T Seagle and Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">Baymax, the Big Hero 6 character created by Steve T Seagle and Duncan Rouleau, is voiced by Scott Adsit.</lex>
       <lex comment="good" lid="Id2">Duncan Rouleau and Steven T. Seagle are both creators of the character Baymax which featured in the film Big Hero 6. The voice of this character in the film was provided by Scott Adsit.</lex>
       <lex comment="good" lid="Id3">Duncan Rouleau and Steven T. Seagle are both creators of Baymax which featured in the film Big Hero 6. The voice of Baymax was provided by Scott Adsit.</lex>
     </entry>
@@ -488,7 +488,7 @@
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
         <mtriple>Baymax | voice | Scott_Adsit</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, is voiced by Scott Adsit.</lex>
       <lex comment="good" lid="Id2">Scott Adsit provides the voice for Baymax who was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
       <lex comment="good" lid="Id3">Scott Adsit provides the voice for the character Baymax who was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
     </entry>
@@ -534,7 +534,7 @@
         <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Tukyk stars in the film, Big Hero 6 in which Baymax, created by the American Duncan Rouleau, is also a character.</lex>
+      <lex comment="good" lid="Id1" error_1="Alan Tudyk">Alan Tukyk stars in the film, Big Hero 6 in which Baymax, created by the American Duncan Rouleau, is also a character.</lex>
       <lex comment="good" lid="Id2">The American, Duncan Rouleau created the character of Baymax who appeared in the film Big Hero 6 which starred Alan Tudyk.</lex>
       <lex comment="good" lid="Id3">American national Duncan Rouleau is the creator of the character Baymax, which featured in the film Big Hero 6 (starring Alan Tudyk).</lex>
     </entry>
@@ -683,8 +683,8 @@
         <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
         <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
-      <lex comment="good" lid="Id2">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+      <lex comment="good" lid="Id1" error_1="French people">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2" error_1="French people">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

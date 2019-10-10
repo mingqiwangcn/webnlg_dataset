@@ -17,9 +17,9 @@
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
         <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asterix was created by Albert Uderzo and Rene Goscinny who is a French national.</lex>
-      <lex comment="good" lid="Id2">The comic character Asterix, was created by Albert Uderzo and René Goscinny, who is French.</lex>
-      <lex comment="good" lid="Id3">The comic book character Asterix was created by Albert Uderzo and the Frenchman René Goscinny.</lex>
+      <lex comment="good" lid="Id1" error_1="French people">Asterix was created by Albert Uderzo and Rene Goscinny who is a French national.</lex>
+      <lex comment="good" lid="Id2" error_1="French people">The comic character Asterix, was created by Albert Uderzo and René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id3" error_1="French people">The comic book character Asterix was created by Albert Uderzo and the Frenchman René Goscinny.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -34,7 +34,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The TV series Bananaman starred Tim Brooke-Taylor and was last aired on the BBC on 15th April 1986.</lex>
       <lex comment="good" lid="Id2">Bananaman, which was broadcast by the BBC and last aired on April 15th, 1986, starred Tim Brooke-Taylor.</lex>
-      <lex comment="good" lid="Id3">Tim Brooke Taylor starred in Bananaman which was broadcast by the BBC and last aired on 15 April 1986.</lex>
+      <lex comment="good" lid="Id3" error_1="Tim Brooke-Taylor">Tim Brooke Taylor starred in Bananaman which was broadcast by the BBC and last aired on 15 April 1986.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -77,7 +77,7 @@
         <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walt Disney Studio Motion Picture distributed the film Big Hero 6, in which Ryan Potter starred and Baymax is a character.</lex>
+      <lex comment="good" lid="Id1" error_1="Walt Disney Studios Motion Pictures">Walt Disney Studio Motion Picture distributed the film Big Hero 6, in which Ryan Potter starred and Baymax is a character.</lex>
       <lex comment="good" lid="Id2">Baymax is a character in the Big Hero 6 film starring Ryan Potter and distributed by Walt Disney Studios Motion Pictures.</lex>
       <lex comment="good" lid="Id3">The movie Big Hero 6 stars Ryan Potter which has Baymax as one of its characters, was distributed by Walt Disney Studios Motion Pictures.</lex>
     </entry>
@@ -140,5 +140,5 @@
       <lex comment="good" lid="Id2">Bolt, a comic character is also known as Larry Bolatinsky was created by Ernie Colon and Gary Cohn.</lex>
       <lex comment="good" lid="Id3">Ernie Colon and Gary Cohn created the comic character Bolt, who has the alternative name Larry Bolatinsky.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

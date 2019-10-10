@@ -97,7 +97,7 @@
         <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The creator of Bibbo Bibbowski, who is often called Bibbo, are Jerry Ordway and Marv Wolfman.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
@@ -111,7 +111,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character Blockbuster, also known as Roland Desmond, was created by Roger Stern and Tom Lyle.</lex>
       <lex comment="good" lid="Id2">The comic book character Blockbuster's alter ego is Roland Desmond and he was created by Roger Stern and Tom Lyle.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
@@ -140,6 +140,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An alternative name for the comic character Bolt is Larry Bolatinsky and he was created by Paris Cullins and Dan Mishkin.</lex>
       <lex comment="good" lid="Id2">The comic character Bolt, aka Larry Bolatinsky, was created by Paris Cullins and Dan Mishkin.</lex>
-      </entry>
-    </entries>
+    </entry>
+  </entries>
 </benchmark>

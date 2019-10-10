@@ -21,8 +21,8 @@
         <mtriple>1955_Dodge | wheelbase | 120.0 (inches)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1955 Dodge is made by the Dodge company and has a V8 engine, a 3-speed automatic transmission and a wheelbase of 120 inches.</lex>
-      <lex comment="good" lid="Id2">The 1955 Dodge is manufactured by Dodge and it has a V8 engine. It has a wheelbase of 120 inches and has a 3 speed automatic transmission.</lex>
-      <lex comment="good" lid="Id3">Dodge is the manufacturer of the 1955 Dodge which has a V8 engine, a 3 speed automatic transmission and a wheelbase of 120 inches.</lex>
+      <lex comment="good" lid="Id2" error_1="3-speed automatic">The 1955 Dodge is manufactured by Dodge and it has a V8 engine. It has a wheelbase of 120 inches and has a 3 speed automatic transmission.</lex>
+      <lex comment="good" lid="Id3" error_1="3-speed automatic">Dodge is the manufacturer of the 1955 Dodge which has a V8 engine, a 3 speed automatic transmission and a wheelbase of 120 inches.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -73,7 +73,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDAstella is 253260.0 millimetres long and has a beam of 32.2 metres. AIDAstella was built by Meyer Werft and is owned by Costa Crociere.</lex>
       <lex comment="good" lid="Id2">AIDAstella is 253260.0 millimetres in length and has a beam of 32.2 metres. It is owned by Costa Crociere and was built by Meyer Werft.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
@@ -87,7 +87,7 @@
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Costa Crociere is the owner of the AIDAstella which is 25326.0 millimetres long. It was built by Meyer Werft and operated by AIDA Cruise Line.</lex>
+      <lex comment="good" lid="Id1" error_1="253260.0 (millimetres)">Costa Crociere is the owner of the AIDAstella which is 25326.0 millimetres long. It was built by Meyer Werft and operated by AIDA Cruise Line.</lex>
       <lex comment="good" lid="Id2">AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft and is 253260.0 millimetres in length. It is owned by Costa Crociere and operated by AIDA cruises.</lex>
     </entry>
@@ -206,9 +206,9 @@
         <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
         <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. The car was last manufactured in 1958.</lex>
-      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe is a two door model with a straight four engine and a wheelbase of 2160 millimetres. It rolled off the production line in 1958.</lex>
-      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, it's two doors and has a straight four engine. Its final year of production was 1959.</lex>
+      <lex comment="good" lid="Id1" error_1="Two door coupe">The Abarth 1000 GT Coupe is a 2 door coupe which has a wheelbase of 2160 millimetres and contains a straight four engine. The car was last manufactured in 1958.</lex>
+      <lex comment="good" lid="Id2" error_1="Two door coupe">The Abarth 1000 GT Coupe is a two door model with a straight four engine and a wheelbase of 2160 millimetres. It rolled off the production line in 1958.</lex>
+      <lex comment="good" lid="Id3" error_1="Two door coupe">The Abarth 1000 GT Coupe has a wheelbase of 2160 mm, it's two doors and has a straight four engine. Its final year of production was 1959.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -223,9 +223,9 @@
         <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
         <mtriple>Acura_TLX | engine | Honda_K_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acura TLX is assembled at the Marysville Auto Plant, has a front engine design with a Honda K engine and is a luxury vehicle.</lex>
-      <lex comment="good" lid="Id2">The Luxury Class Acura TLX, assembled at Marysville Auto Plant, has a Honda K front engine.</lex>
-      <lex comment="good" lid="Id3">The Acura TLX is made at the Marysville Auto Plant. It is classed as a luxury vehicle with a Honda K engine located at the front.</lex>
+      <lex comment="good" lid="Id1" error_1="Front-engine design">Acura TLX is assembled at the Marysville Auto Plant, has a front engine design with a Honda K engine and is a luxury vehicle.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine design" error_2="Luxury vehicle">The Luxury Class Acura TLX, assembled at Marysville Auto Plant, has a Honda K front engine.</lex>
+      <lex comment="good" lid="Id3" error_1="Front-engine design">The Acura TLX is made at the Marysville Auto Plant. It is classed as a luxury vehicle with a Honda K engine located at the front.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -246,7 +246,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The icebreaker ship Aleksey Chirikov was built by the Archtech Helsinki Shipyard in Finland with a length of 99.83 and a ship beam of 21.2.</lex>
+      <lex comment="good" lid="Id1" error_1="Arctech Helsinki Shipyard">The icebreaker ship Aleksey Chirikov was built by the Archtech Helsinki Shipyard in Finland with a length of 99.83 and a ship beam of 21.2.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov is 99.83 long and has a ship beam of 21.2 m. It was built in Finland at the Arctech Helsinki Shipyard.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksy Chirikov, having a ship beam of 21.2 m. and a length of 99.83 metres, was built in Finland at the Arctech Helsinki Shipyard.</lex>
     </entry>
@@ -264,7 +264,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The in service icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard. in Finland. It has a ship beam of 21.2 m.</lex>
-      <lex comment="good" lid="Id2">The Finnish built Aleksey Chirikov is an icebreaker and currently in service. It was built by the Archtech Helsinki Shipyard and has a ship beam of 21.2m.</lex>
+      <lex comment="good" lid="Id2" error_1="Arctech Helsinki Shipyard" error_2="Finland">The Finnish built Aleksey Chirikov is an icebreaker and currently in service. It was built by the Archtech Helsinki Shipyard and has a ship beam of 21.2m.</lex>
       <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker Aleksey Chirikov in Finland. It has a 21.2 m long ship beam and is in service.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -286,7 +286,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | status | "In service"</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Finland built the Aleksey Chirikov, icebreaker which has a 21.2 ship beam and was made in Helsinki. It is currently working.</lex>
+      <lex comment="good" lid="Id1" error_1="In service">Finland built the Aleksey Chirikov, icebreaker which has a 21.2 ship beam and was made in Helsinki. It is currently working.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki, in Finland. It is in service and has a ship beam of 21.2 m.</lex>
       <lex comment="good" lid="Id3">The icebreaker ship Aleksey Chirikov was built in Finland by Aleksey Chirikov who is in Helsinki. The ship's beam is 21.2m and is currently in service.</lex>
     </entry>
@@ -360,7 +360,7 @@
         <mtriple>American_Motors | fate | Chrysler</mtriple>
         <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American motors was acquired by Chrysler. It was succeed by Eagle, and manufactures AMC Matador.</lex>
+      <lex comment="good" lid="Id1" error_1="Roy D. Chapin, Jr.">American motors was acquired by Chrysler. It was succeed by Eagle, and manufactures AMC Matador.</lex>
       <lex comment="good" lid="Id2">American Motors was succeeded by Eagle and acquired by Chrysler, it includes figure Roy D. Chapin Jr. The AMC Matador is made by American Motors.</lex>
       <lex comment="good" lid="Id3">Eagle succeeded American Motors, who manufacture the AMC Matador, were acquired by Chrysler and have Roy D Chapin Jr as a key person.</lex>
     </entry>
@@ -390,8 +390,8 @@
         <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American submarine NR-1 was launched on The 25th of January 1969. It has a top speed of 8.334 km/h, a ship beam of 3.8 m., and is 45000.0 (millimetres) long.</lex>
-      <lex comment="good" lid="Id2">The American submarine NR-1, which was launched on The 25th of January 1969, has a top speed of 9.334 km/hr, a ship beam of 3.8m and a length of 45000.0 mms.</lex>
-      <lex comment="good" lid="Id3">The American sub NR-1 was launched on January 25, 1969 and its top speed is 8.344. It is 45000.0 millimetres long and has a ship beam of 3.8 m.</lex>
+      <lex comment="good" lid="Id2" error_1="3.8 m" error_2="8.334">The American submarine NR-1, which was launched on The 25th of January 1969, has a top speed of 9.334 km/hr, a ship beam of 3.8m and a length of 45000.0 mms.</lex>
+      <lex comment="good" lid="Id3" error_1="8.334" error_2="American submarine NR-1">The American sub NR-1 was launched on January 25, 1969 and its top speed is 8.344. It is 45000.0 millimetres long and has a ship beam of 3.8 m.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -446,9 +446,9 @@
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
         <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Audi A1 is assembled at Audi Brussels and has the hatchback style of body. It has a 1.2 litre engine and a 5 speed manual transmission.</lex>
+      <lex comment="good" lid="Id1" error_1="5-speed manual">The Audi A1 is assembled at Audi Brussels and has the hatchback style of body. It has a 1.2 litre engine and a 5 speed manual transmission.</lex>
       <lex comment="good" lid="Id2">The Audi A1 is assembled by Audi Brussels and is a hatchback. It has a 1.2 litre engine and has a 5-speed manual transmission.</lex>
-      </entry>
+    </entry>
     <entry category="MeanOfTransportation" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Audi_A1 | manufacturer | Audi</otriple>
@@ -561,7 +561,7 @@
         <mtriple>General_Dynamics_Electric_Boat | locationCity | Groton,_Connecticut</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m and was built by General Dynamics Electric Boat. General Dynamics is the parent company of the General Dynamics Electric Boat Co which is located in the city of Groton, Connecticut.</lex>
-      <lex comment="good" lid="Id2">General Dynamics is the parent company of the General Dynamics Electric Boat Co. out of Groton, CT. The GD Electric Boat Co built the American sub called NR-1 which has a 3.8 m beam.</lex>
+      <lex comment="good" lid="Id2" error_1="American submarine NR-1" error_2="Groton, Connecticut">General Dynamics is the parent company of the General Dynamics Electric Boat Co. out of Groton, CT. The GD Electric Boat Co built the American sub called NR-1 which has a 3.8 m beam.</lex>
       <lex comment="good" lid="Id3">General Dynamics is the parent company of General Dynamics Electric Boat who are located in the city of Groton, Connecticut and built the American submarine NR-1 with a ship beam of 3.8 m.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id30" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
@@ -600,8 +600,8 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALV X-1 came from United States. The capital city of the country is Washington D.C. and its national anthem is the Star Spangled Banner. White Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id1" error_1="Washington, D.C.">The ALV X-1 came from United States. The capital city of the country is Washington D.C. and its national anthem is the Star Spangled Banner. White Americans are an ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id2">The United States, which is where the ALV X-1 originated, has the capital city of Washington DC. The country's national anthem is the Star Spangled Banner and there is an ethnic group of White Americans.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -148,8 +148,8 @@
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Walter Baade was born in the German Empire, died in West Germany and discovered 1036 Ganymed. His Alma mater was the University of Gottingen and Allan Sandage was his doctoral student.</lex>
-      <lex comment="good" lid="Id2">Walter Baade, who discovered 1036 Ganymed, was born in Germany and died in West Germany. He graduated from the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
-      <lex comment="good" lid="Id3">Walter Baade, who was born in Germany and died in West Germany, discovered 1036 Ganymed. Baade's alma mater was the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
+      <lex comment="good" lid="Id2" error_1="German Empire">Walter Baade, who discovered 1036 Ganymed, was born in Germany and died in West Germany. He graduated from the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
+      <lex comment="good" lid="Id3" error_1="German Empire">Walter Baade, who was born in Germany and died in West Germany, discovered 1036 Ganymed. Baade's alma mater was the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -193,7 +193,7 @@
         <mtriple>107_Camilla | apoapsis | 560937000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">107 Camilla, which has the epoch date 31 December 2006, was discovered by F Vilas and has an orbital period of 2368.05 days. The apoapsis and periapsis measurements are 560937000.0 kilometres and 479343000.0 kilometres respectively.</lex>
-      <lex comment="good" lid="Id2">107 Camilla, which has an epoch date of December 31st 2006, was discovered by F. Vilas. Its orbital period is 2,368.05 days, its periapsis is 479,343,000 kilometres and has an apoapsis of 560,937,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="2368.05 (days)" error_2="479343000.0 (kilometres)" error_3="560937000.0 (kilometres)">107 Camilla, which has an epoch date of December 31st 2006, was discovered by F. Vilas. Its orbital period is 2,368.05 days, its periapsis is 479,343,000 kilometres and has an apoapsis of 560,937,000 kilometres.</lex>
       <lex comment="good" lid="Id3">107 Camilla, which was discovered by F Vilas and has the epoch date of 31 December 2006, has an orbital period of 2368.05 days. It has a periapsis of 479343000.0 kms and an apoapsis of 560937000.0 kms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id8" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -238,7 +238,7 @@
         <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The epoch of 1089 Tama (whose former name was A919 HA; 1927 WB) is 2005-11-26. The escape velocity of 1089 Tama is 0.0068 km/sec, has an orbital period of 1202.846 days and an apoapsis of 373513000.0 (kilometres).</lex>
-      <lex comment="good" lid="Id2">1089 Tama was formerly known as A919 HA; 1927 WB, has an epoch of November 26th, 2005 and an orbit of 1,202.846 days. Its escape velocity is .0068 kilometres a second and it has an apoapsis of 373,513,000 kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0068 (kilometrePerSeconds)" error_2="1202.846 (days)" error_3="373513000.0 (kilometres)">1089 Tama was formerly known as A919 HA; 1927 WB, has an epoch of November 26th, 2005 and an orbit of 1,202.846 days. Its escape velocity is .0068 kilometres a second and it has an apoapsis of 373,513,000 kilometres.</lex>
       <lex comment="good" lid="Id3">1089 Tama was formerly known as A919 HA; 1927 WB and has the epoch date of 2005/11/26. It has an escape velocity of 0.0068 km per sec, an apoapsis of 373513000.0 kms and an orbital period lasting 1202.846 days.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -359,9 +359,9 @@
         <mtriple>10_Hygiea | temperature | 164.0 (kelvins)</mtriple>
         <mtriple>10_Hygiea | apoapsis | 523951582.33968 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The surface area of the asteroid 10 Hygiea is 837,080.744 square kilometres while its temperatures is 164 degrees Kelvin. The asteroid has an epoch date of June 27th, an escape velocity of 0.21 kilometres a second and an apoapsis of 523,951,582.33968 kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="523951582.33968 (kilometres)" error_2="837080.744 (squareKilometres)">The surface area of the asteroid 10 Hygiea is 837,080.744 square kilometres while its temperatures is 164 degrees Kelvin. The asteroid has an epoch date of June 27th, an escape velocity of 0.21 kilometres a second and an apoapsis of 523,951,582.33968 kilometres.</lex>
       <lex comment="good" lid="Id2">The asteroid called 10 Hygiea had an epoch date on 27th June 2015, its temperature is 164.0 kelvins and its surface area is 837080.744 square kilometres. It has an escape velocity of 0.21 kilometres per second and its apoapsis is 523951582.33968 kms.</lex>
       <lex comment="good" lid="Id3">10 Hygiea, with an epoch date of June 27, 2015, has and escape velocity of 0.21 km per sec. The surface area is 837080.744 sq km, an apoasis of 523951582.33968 km and a temperature of 164 Kelvins.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

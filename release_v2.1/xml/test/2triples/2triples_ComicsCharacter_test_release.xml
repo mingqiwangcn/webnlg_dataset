@@ -29,7 +29,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bananaman, starring Jill Shilling, is broadcasted by the BBC.</lex>
       <lex comment="good" lid="Id2">Bananaman was broadcast by the BBC and starred Jill Shilling.</lex>
-      </entry>
+    </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
         <otriple>Bananaman | starring | Graeme_Garden</otriple>
@@ -53,7 +53,7 @@
         <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor, star of Bananaman was born in Derbyshire.</lex>
-      <lex comment="good" lid="Id2">Tim Brooke Taylor, was born in Derbyshire, and starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke Taylor, was born in Derbyshire, and starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -93,7 +93,7 @@
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Baymax, created by Steve T. Seagle, is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id1" error_1="Steven T. Seagle">Baymax, created by Steve T. Seagle, is a character in Big Hero 6.</lex>
       <lex comment="good" lid="Id2">Baymax was created by Steven T Seagle and is a character in Big Hero 6.</lex>
       <lex comment="good" lid="Id3">Baymax, a character in Big Hero 6, was created by Steven T. Seagle.</lex>
     </entry>
@@ -147,5 +147,5 @@
       <lex comment="good" lid="Id1">Bibbo Bibbowski, often called Bo Bibbowski, was created by Marv Wolfman.</lex>
       <lex comment="good" lid="Id2">Marv Wolfman was creator of Bibbo Bibbowski, often called Bo Bibbowski.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

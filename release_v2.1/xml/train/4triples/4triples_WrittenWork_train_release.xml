@@ -162,8 +162,8 @@
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the The Grantville Gazettes"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eric Flint was born in Burbank, California and wrote 1634: The Bavarian Crisis. It was preceded by the DeMarce short stories in the Grantville Gazettes including Grantville Gazette II.</lex>
-      <lex comment="good" lid="Id2">Eric Flint, who wrote 1634: The Bavarian Crisis was born in Burbank California. The book was preceded by Grantville Gazette II and the DeMarce short stores in the Grantville Gazettes.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="DeMarce short stories in the The Grantville Gazettes">Eric Flint, who wrote 1634: The Bavarian Crisis was born in Burbank California. The book was preceded by Grantville Gazette II and the DeMarce short stores in the Grantville Gazettes.</lex>
+    </entry>
     <entry category="WrittenWork" eid="Id10" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
@@ -196,7 +196,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634: The Bavarian Crisis is preceded by The Grantville Gazettes including Grantville Gazette III. It is written by Eric Flint who was born in Burbank, California.</lex>
       <lex comment="good" lid="Id2">Eric Flint, born in Burbank, California, is the author of 1634: The Bavarian Crisis. The Grantville Gazettes and Grantville Gazette III preceded 1634: The Bavarian Crisis.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1634:_The_Bavarian_Crisis | author | Eric_Flint</otriple>
@@ -244,7 +244,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
         <mtriple>Eric_Flint | birthPlace | Burbank,_California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Eric Flint, influenced by Robert A. Heinlein, (Burbank, Ca.) wrote 1634: The Bavarian Crisis. The Bavarian Crisis was preceded by The Grantville Gazettes.</lex>
+      <lex comment="good" lid="Id1" error_1="Burbank, California">Eric Flint, influenced by Robert A. Heinlein, (Burbank, Ca.) wrote 1634: The Bavarian Crisis. The Bavarian Crisis was preceded by The Grantville Gazettes.</lex>
       <lex comment="good" lid="Id2">Eric Flint was born in Burbank, California and was influenced by Robert A Heinlein. He is the author of 1634: The Bavarian Crisis which is the sequel to The Grantville Gazettes.</lex>
       <lex comment="good" lid="Id3">1634: The Bavarian Crisis was written by Eric Flint, born in Burbank California, who was influenced by Robert A Heinlein. It's the sequel to The Grantville Gazettes.</lex>
     </entry>
@@ -263,7 +263,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eric Flint was born in Burbank, California and was influenced by Robert A Heinlein. He wrote 1634: The Bavarian Crisis which was preceded by Grantville Gazette II.</lex>
       <lex comment="good" lid="Id2">Influenced by Robert A. Heinlein, Eric Flint is the author of 1634: The Bavarian Crisis and its prequel Grantville Gazette II. He was born in Burbank California.</lex>
-      <lex comment="good" lid="Id3">Eric Flint was influenced by Robert A Heinlen. He was born in Burbank, California and wrote Grantville Gazette II and then 1634 The Bavarian Crisis.</lex>
+      <lex comment="good" lid="Id3" error_1="Robert A. Heinlein">Eric Flint was influenced by Robert A Heinlen. He was born in Burbank, California and wrote Grantville Gazette II and then 1634 The Bavarian Crisis.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -280,7 +280,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eric Flint was born in Burbank, California and his work was influenced by Robert A Heinlein. He wrote 1634: The Bavarian Crisis which is the sequel to Grantville Gazette III.</lex>
       <lex comment="good" lid="Id2">Eric Flint was born in Burbank California and was influenced by Robert A Heinlein. He is the author of 1634: The Bavarian Crisis which was preceded by Grantville Gazette III.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id17" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II</otriple>
@@ -311,8 +311,8 @@
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | "DeMarce short stories in the The Grantville Gazettes"</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | author | "Virginia DeMarce and Eric Flint"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Virginia DeMarce's short stories in the The Grantville Gazettes preceded 1634: The Bavarian Crisis co-authored with Eric Flint which is the sequel to 1634 The Ram Rebellion, written in English.</lex>
-      <lex comment="good" lid="Id2">The English written book 1634: The Ram Rebellion was written before the DeMarce Short stories in the Grantville Gazette. Then followed the book 1634: The Bavarian Crisis whose authors are Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id1" error_1="Virginia DeMarce and Eric Flint">Virginia DeMarce's short stories in the The Grantville Gazettes preceded 1634: The Bavarian Crisis co-authored with Eric Flint which is the sequel to 1634 The Ram Rebellion, written in English.</lex>
+      <lex comment="good" lid="Id2" error_1="DeMarce short stories in the The Grantville Gazettes">The English written book 1634: The Ram Rebellion was written before the DeMarce Short stories in the Grantville Gazette. Then followed the book 1634: The Bavarian Crisis whose authors are Virginia DeMarce and Eric Flint.</lex>
       <lex comment="good" lid="Id3">DeMarce short stories in the Grantville Gazettes preceded '1634: The Bavarian Crisis'. The novel that was written by Virginia DeMarce and Eric Flint. It in turn was preceded by '1634:The Ram Rebellion' that was written in English.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -328,9 +328,9 @@
         <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Ram Rebellion was written by Eric Flint, has 512 pages and is the media type E book with an ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion was written by Eric Flint, has 512 pages and is the media type E book with an ISBN number of 1-4165-2060-0.</lex>
       <lex comment="good" lid="Id2">Eric Flint wrote the e-book "1634: The Ram Rebellion". The novel is 512 pages long and the ISBN code is 1-4165-2060-0.</lex>
-      <lex comment="good" lid="Id3">1634: The Ram Rebellion by Eric Flint has 512 pages, can be found in E book format and has an ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id3" error_1="E-book">1634: The Ram Rebellion by Eric Flint has 512 pages, can be found in E book format and has an ISBN number of 1-4165-2060-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -380,7 +380,7 @@
         <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eric Flint, who was born in Burbank California, wrote the book "1634: The Ram Rebellion" which had been preceded by 1634 The Galileo Affair, which was influenced by Robert A Heinlein.</lex>
-      <lex comment="good" lid="Id2">Influenced by Robert A. Heinlein, Eric Flint (born Burbank, CA) is the author of 1634: The Galileo Affair and its sequel 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2" error_1="Burbank, California">Influenced by Robert A. Heinlein, Eric Flint (born Burbank, CA) is the author of 1634: The Galileo Affair and its sequel 1634: The Ram Rebellion.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion was preceded by 1634:: The Galileo Affair. It was written by Eric Flint who was influenced by Robert A Heinlein and was born in Burbank, California.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id23" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -616,7 +616,7 @@
         <mtriple>AIDS_(journal) | ISSN_number | "1473-5571"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aids Journal was first published in 1987 with the ISSN number 1473-5571, it also comes under the academic discipline of HIV/AIDs.</lex>
-      <lex comment="good" lid="Id2">The AIDS (journal) was first published in 1987 and belongs to the academic discipline of HIV. The journal has the ISSN number of 1473-5571.</lex>
+      <lex comment="good" lid="Id2" error_1="HIV/AIDS">The AIDS (journal) was first published in 1987 and belongs to the academic discipline of HIV. The journal has the ISSN number of 1473-5571.</lex>
       <lex comment="good" lid="Id3">The Aids Journal, first published in 1987, has the ISSN number 1473-5571 and belongs to the academic discipline HIV/AIDS.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id32" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -650,8 +650,8 @@
         <mtriple>A.T._Charlie_Johnson | nationality | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A T Charlie Johnson, a United States national, is the editor of AIP Advances. His Alma mater is Harvard University and he is the doctoral advisor for Michael Tinkham.</lex>
-      <lex comment="good" lid="Id2">American A.T. Charlie Johnson, who attended Harvard and whose doctoral advisor was Michael Tinkham, is the editor of AIP Advances.</lex>
-      <lex comment="good" lid="Id3">A.T. Charlie Johnson, a U.S. national, attended Harvard University. His doctoral advisor was Michael Tinkham. Johnson edited AlP Advances.</lex>
+      <lex comment="good" lid="Id2" error_1="Harvard University">American A.T. Charlie Johnson, who attended Harvard and whose doctoral advisor was Michael Tinkham, is the editor of AIP Advances.</lex>
+      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson, a U.S. national, attended Harvard University. His doctoral advisor was Michael Tinkham. Johnson edited AlP Advances.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id34" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -808,7 +808,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.T. Charlie Johnson lives in the U.S. and attended Stanford University where his doctoral advisor was Michael Tinkham. He is the editor of the publication AIP Advances.</lex>
       <lex comment="good" lid="Id2">The United States is the residence of A T Charlie Johnson who edited AIP Advances. His alma mater was Stanford University and his doctoral advisor was Michael Tinkham.</lex>
-      <lex comment="good" lid="Id3">A.T. Charlie Johnson who lives in the U.S. and attended Stanford University is the editor of AlP Advances. His doctoral advisor at that university was Michael Tinkham.</lex>
+      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson who lives in the U.S. and attended Stanford University is the editor of AlP Advances. His doctoral advisor at that university was Michael Tinkham.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id43" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -840,7 +840,7 @@
         <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
         <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.T. Charlie Johnson lives in the United States and attended Stanford University. He is the editor of AIP advances which is published by The American Institue of Physics.</lex>
+      <lex comment="good" lid="Id1" error_1="American Institute of Physics">A.T. Charlie Johnson lives in the United States and attended Stanford University. He is the editor of AIP advances which is published by The American Institue of Physics.</lex>
       <lex comment="good" lid="Id2">The American Institute of Physics publishes AIP Advances and it was edited by A.T. Charlie Johnson, who lives in the U.S. and which almaMater is Stanford University.</lex>
       <lex comment="good" lid="Id3">AIP Advances, published by American Institute of Physics, is edited by A. T. Charlie Johnson, who resides in the U.S, and is a graduate of Stanford University.</lex>
     </entry>
@@ -880,7 +880,7 @@
         <mtriple>A.T._Charlie_Johnson | residence | United_States</mtriple>
         <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A T Charlie Johnson is the editor of AIP Advance, abbreviated to AIP Adv, from United States, graduated by Stanford University.</lex>
+      <lex comment="good" lid="Id1" error_1="AIP Advances">A T Charlie Johnson is the editor of AIP Advance, abbreviated to AIP Adv, from United States, graduated by Stanford University.</lex>
       <lex comment="good" lid="Id2">"AIP Adv." is the abbreviation of AIP Advances, that was edited by A.T. Charlie Johnson. His residence is in The United States and his alma mater is Stanford University.</lex>
       <lex comment="good" lid="Id3">AIP Advances (abbreviation: AIP Adv) was edited by A.T. Charlie Johnson who went to Stanford University and lives in the U.S.</lex>
     </entry>
@@ -962,7 +962,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Glastonbury Romance, with 1174 pages, is available in print. Its ISBN number is 0-7156-3648-0, and its OCLC number is 76798317.</lex>
       <lex comment="good" lid="Id2">A Glastonbury Romance, which has 1174 pages, is in print and has the OCLC number 76798317 and the ISBN number 0-7156-3648-0.</lex>
-      <lex comment="good" lid="Id3">The printed copy of A Glastonbury Romance has 1174 pages, an OCLC number of 76798317 and an ISBN number of -7156-3648-0.</lex>
+      <lex comment="good" lid="Id3" error_1="0-7156-3648-0">The printed copy of A Glastonbury Romance has 1174 pages, an OCLC number of 76798317 and an ISBN number of -7156-3648-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id51" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1006,7 +1006,7 @@
         <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Long Long Way (written in Ireland) was published by Viking Press and followed by The Secret Scripture. Ireland has the ethnic white group.</lex>
+      <lex comment="good" lid="Id1" error_1="White people">A Long Long Way (written in Ireland) was published by Viking Press and followed by The Secret Scripture. Ireland has the ethnic white group.</lex>
       <lex comment="good" lid="Id2">The novel A Long Long Way, published by Viking Press, was followed by The Secret Scripture. It was written in Ireland, which has white people as an ethnic group.</lex>
       <lex comment="good" lid="Id3">The Secret Scripture followed the book A Long Long Way published by Viking Press. A Long Long Way comes from Ireland where an ethnic group is white people.</lex>
     </entry>
@@ -1030,7 +1030,7 @@
         <mtriple>Viking_Press | parentCompany | Penguin_Random_House</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Long Long way was written in Ireland and published by Viking Press. Penguin Random House is the parent company of Viking Press. White people are an ethnic group in Ireland.</lex>
-      <lex comment="good" lid="Id2">Published by Viking Press (parent co: Penguin Random House) A Long Long Way was written in Ireland, which is predominantly caucasian in ethnicity.</lex>
+      <lex comment="good" lid="Id2" error_1="White people">Published by Viking Press (parent co: Penguin Random House) A Long Long Way was written in Ireland, which is predominantly caucasian in ethnicity.</lex>
       <lex comment="good" lid="Id3">A Long Long Way comes from Ireland, where there is ethnic group of white people. The book is published by Viking Press which has the parent company Penguin Random House.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id54" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1139,7 +1139,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book, A Loyal Character Dancer, has the ISBN number of 1-56947-301-3 and The OCLC number is 49805501. It was penned by Qiu Xiaolong and is in print.</lex>
       <lex comment="good" lid="Id2">The book, written by Qiu Xiaolong, A Loyal Character Dancer, is in print with an OCLC number of 49805501 and an ISBN of 1-56947-301-3.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id59" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A_Loyal_Character_Dancer | language | English_language</otriple>
@@ -1219,7 +1219,7 @@
         <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
         <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">In Great Britain English is the primary language. The book A Loyal Character is written in English, is published by Soho Press in the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="A Loyal Character Dancer">In Great Britain English is the primary language. The book A Loyal Character is written in English, is published by Soho Press in the United States.</lex>
       <lex comment="good" lid="Id2">As English is spoken in Great Britain, A Loyal Character Dancer was written in English, published by Soho Press in the United States.</lex>
       <lex comment="good" lid="Id3">The English language is spoken in Great Britain and is also what A Loyal Character Dancer is written in. A Loyal Character Dancer was published in the United States by Soho Press.</lex>
     </entry>
@@ -1253,7 +1253,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press in the United States. The language of the country is English and one of its ethnic groups is Asian American.</lex>
+      <lex comment="good" lid="Id1" error_1="Asian Americans">A Loyal Character Dancer was published by Soho Press in the United States. The language of the country is English and one of its ethnic groups is Asian American.</lex>
       <lex comment="good" lid="Id2">An ethnic group, Asian Americans are part of the United states where English is the language and where Soho Press published A Loyal Character Dancer.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States by Soho Press. The national language of the United States is English. One of the ethnic groups in the U.S. are Asian Americans and many people from this background reside there.</lex>
     </entry>
@@ -1634,8 +1634,8 @@
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">83646315 is the LCCN number for Acta Mathematica Hungarica and the ISSN number is 1588-2632. Its bbreviation is "Acta Math. Hungar." and its discipline is Math.</lex>
-      <lex comment="good" lid="Id2">Acta Mathematica Hungarica (Acta Math. Hungar.) which has a discipline of math has the LCCN number 83646315 and ISSN number 1588-2632.</lex>
+      <lex comment="good" lid="Id1" error_1="Mathematics">83646315 is the LCCN number for Acta Mathematica Hungarica and the ISSN number is 1588-2632. Its bbreviation is "Acta Math. Hungar." and its discipline is Math.</lex>
+      <lex comment="good" lid="Id2" error_1="Mathematics">Acta Mathematica Hungarica (Acta Math. Hungar.) which has a discipline of math has the LCCN number 83646315 and ISSN number 1588-2632.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica has the abbreviation of Acta Math. Hungar and covers the academic discipline of Mathematics. This publication has the LCCN number 83646315 and the ISSN number 1588-2632.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id83" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1711,7 +1711,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acta Palaeontologica Polonica is published by the Institute of Paleobiology, Polish Academy of Sciences and has the abbreviated name of Acta Palaeontol. Pol. The LCCN number is 60040714 and the CODEN code APGPAC.</lex>
       <lex comment="good" lid="Id2">Acta Palaeontologica Polonica was published by the Institute of Paleobiology, Polish Academy of Sciences and its title is abbreviated to Acta Palaeontol. Pol. It has an LCCN number of 60040714 and its CODEN code is APGPAC.</lex>
-      <lex comment="good" lid="Id3">Acta Palaeontologica Polonica which is abbreviated to Acta Palaeontol.Pol, was published by the Paleobiology, Polish Academy of Sciences. This publication has an LCCN number of 60040714 and a CODEN code of APGPAC.</lex>
+      <lex comment="good" lid="Id3" error_1="Institute of Paleobiology, Polish Academy of Sciences">Acta Palaeontologica Polonica which is abbreviated to Acta Palaeontol.Pol, was published by the Paleobiology, Polish Academy of Sciences. This publication has an LCCN number of 60040714 and a CODEN code of APGPAC.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1830,8 +1830,8 @@
         <mtriple>Addiction_(journal) | abbreviation | "Addiction"</mtriple>
         <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addiction Journal, abbreviated to Addiction, is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
-      <lex comment="good" lid="Id2">The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id1" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction Journal, abbreviated to Addiction, is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
+      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
       <lex comment="good" lid="Id3">The Addiction Journal has the ISSN number of 0965-2140 and the LCCN number of 93645978. It is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and is abbreviated to "Addiction".</lex>
     </entry>
     <entry category="WrittenWork" eid="Id91" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1854,8 +1854,8 @@
         <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and has the ISSN number 1360-0443. It has the abbreviation of "Addiction" and the LCCN number 93645978.</lex>
-      <lex comment="good" lid="Id2">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the abbreviated name "Addiction". The ISSN number is 1360-0443 and the LCCN number is 93645978.</lex>
-      <lex comment="good" lid="Id3">Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley Blackwell on behalf of the Society of the Study of Addiction.</lex>
+      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the abbreviated name "Addiction". The ISSN number is 1360-0443 and the LCCN number is 93645978.</lex>
+      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley Blackwell on behalf of the Society of the Study of Addiction.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1919,7 +1919,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addiction journal (abbreviated to Addiction) is published by Wiley-Blackwell. It has the ISSN number 0965-2140, and the LCCN number 93645978.</lex>
       <lex comment="good" lid="Id2">Wiley-Blackwell is the publisher of Addiction (journal), known as Addiction, ISSN number of 0965-2140 and LCCN number 93645978.</lex>
-      <lex comment="good" lid="Id3">The Addiction journal (abbreviated to Addiction) was published by Wiley Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
+      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell">The Addiction journal (abbreviated to Addiction) was published by Wiley Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id94" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2005,8 +2005,8 @@
         <mtriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It is abbreviated to Admin. Sci. Q. Its ISSN number is "0001-8392" and LLCN number is 57059226.</lex>
-      <lex comment="good" lid="Id2">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It has the abbreviation of Admin. Sci. Q, an ISSN number of 001-8392 and LLCN number of 57059226.</lex>
-      <lex comment="good" lid="Id3">Administrative Science Quarterly, abbreviated to Admin.Sci.Q., is a Sage publication for the Samuel Curtis Johnson Graduate School of Management, Cornell University, LCCN number 57059226, ISSN number 0001-8392.</lex>
+      <lex comment="good" lid="Id2" error_1="0001-8392">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It has the abbreviation of Admin. Sci. Q, an ISSN number of 001-8392 and LLCN number of 57059226.</lex>
+      <lex comment="good" lid="Id3" error_1="SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University">Administrative Science Quarterly, abbreviated to Admin.Sci.Q., is a Sage publication for the Samuel Curtis Johnson Graduate School of Management, Cornell University, LCCN number 57059226, ISSN number 0001-8392.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2061,7 +2061,7 @@
         <mtriple>Cornell_University | president | Elizabeth_Garrett</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, affiliated with the Association of American Universities, publishes the Administrative Science Quarterly. Its president is Elizabeth Garrett and it is located in Ithaca, NY.</lex>
+      <lex comment="good" lid="Id1" error_1="Ithaca, New York">Cornell University, affiliated with the Association of American Universities, publishes the Administrative Science Quarterly. Its president is Elizabeth Garrett and it is located in Ithaca, NY.</lex>
       <lex comment="good" lid="Id2">Elizabeth Garrett is president of Cornell University in Ithaca, New York. The University is affiliated with the Association of American Universities and publishes Administrative Science Quarterly.</lex>
       <lex comment="good" lid="Id3">Affiliated with the Association of American Universities, Cornell University is in the city of Ithaca, New York, with its president Elizabeth Garrett. It publishes Administrative Science Quarterly.</lex>
     </entry>
@@ -2085,7 +2085,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University, of Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities and also with the Association of Public and Land Grant Universities.</lex>
-      <lex comment="good" lid="Id2">Located in New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land grant Universities and Association of American Universities.</lex>
+      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Located in New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land grant Universities and Association of American Universities.</lex>
       <lex comment="good" lid="Id3">Cornell University in Ithaca, New York is affiliated with the Association of Public and Land grant Universities. and the Association of American Universities. The university publishes the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id101" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2120,7 +2120,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University (nickname Cornell Big Red) published Administrative Science Quarterly. Cornell University is affiliated with the Association of American Universities and is located in Ithaca, New York.</lex>
       <lex comment="good" lid="Id2">Cornell University is in Ithaca, New York and is affiliated with the Association of American Universities. Their nickname is Cornell Big Red and they publish the Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3">Cornell University is affiliated with the Association of American Universities and publishes Adninistrative Science Quarterly. The University is located in Ithaca, New York and has the nickname Cornell Big Red.</lex>
+      <lex comment="good" lid="Id3" error_1="Administrative Science Quarterly">Cornell University is affiliated with the Association of American Universities and publishes Adninistrative Science Quarterly. The University is located in Ithaca, New York and has the nickname Cornell Big Red.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id103" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2182,8 +2182,8 @@
         <mtriple>Aenir | ISBN_number | "0-439-17684-0"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aenir, written by Garth Nix, is available in print. Its OCLC number is 45644811, and ISBN number is 0-439-17684-0.</lex>
-      <lex comment="good" lid="Id2">Aenir, written by Garth Nix, was produced in print with the ISBN number 1-4165-2060-0 and the OCLC number 45644811.</lex>
-      <lex comment="good" lid="Id3">Aenir written by Garth Nix was produced in print has an OCLC number of 45344811 and an ISBN number of 0-439-17684-0.</lex>
+      <lex comment="good" lid="Id2" error_1="0-439-17684-0">Aenir, written by Garth Nix, was produced in print with the ISBN number 1-4165-2060-0 and the OCLC number 45644811.</lex>
+      <lex comment="good" lid="Id3" error_1="45644811">Aenir written by Garth Nix was produced in print has an OCLC number of 45344811 and an ISBN number of 0-439-17684-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id106" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2199,7 +2199,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S., where there is an ethnic group of Native Americans. The book is written in English, that is spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarian was written in English which is spoken in Great Britain. The book originates from the United States where one of the ethnic groups are the Native Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Alcatraz Versus the Evil Librarians">Alcatraz Versus the Evil Librarian was written in English which is spoken in Great Britain. The book originates from the United States where one of the ethnic groups are the Native Americans.</lex>
       <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians, from the United States, is written in English, also spoken in Great Britain. Native Americans are one of the ethnic groups of the United States.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id107" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2345,7 +2345,7 @@
         <mtriple>American_Journal_of_Mathematics | frequency | "Bimonthly"</mtriple>
         <mtriple>American_Journal_of_Mathematics | ISSN_number | "0002-9327"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Journal of Mathematics (Am. J. Math) is published bi-monthly with its discipline being Math. It has an ISSN number of 0002-9327.</lex>
+      <lex comment="good" lid="Id1" error_1="Bimonthly">The American Journal of Mathematics (Am. J. Math) is published bi-monthly with its discipline being Math. It has an ISSN number of 0002-9327.</lex>
       <lex comment="good" lid="Id2">American Journal of Mathematics ISSN number: 0002-9327. Its abbreviation is Am. J. Math and his discipline is Math. It is published bimonthly.</lex>
       <lex comment="good" lid="Id3">The American Journal of Medicine (Am. J. Math) is a bimonthly publication with an academic discipline in Mathematics. The ISSN# is: 0002-9327.</lex>
     </entry>
@@ -2448,7 +2448,7 @@
         <mtriple>Johns_Hopkins_University_Press | parentCompany | Johns_Hopkins_University</mtriple>
         <mtriple>American_Journal_of_Mathematics | abbreviation | "Am. J. Math."</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American Journal of Math (Am. J. Math.) is published in the U.S. by the Johns Hopkins University Press . Johns Hopkins University is the parent company of the Johns Hopkins University Press.</lex>
+      <lex comment="good" lid="Id1" error_1="American Journal of Mathematics">The American Journal of Math (Am. J. Math.) is published in the U.S. by the Johns Hopkins University Press . Johns Hopkins University is the parent company of the Johns Hopkins University Press.</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics (abbrv. Am. J. Math) was published by Johns Hopkins University (located: US). It is the parent company of Johns Hopkins University Press.</lex>
       <lex comment="good" lid="Id3">American Journal of Mathematics, abbreviated to Am. J. Math, is published by the Johns Hopkins University Press. Johns Hopkins University is the parent company of the Johns Hopkins University Press which is located in the United States.</lex>
     </entry>
@@ -2507,7 +2507,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is the language used in both Great Britain and the United States (where the Asian Americans are an ethnic group). The US is where A Loyal Character Dancer was published.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published in the United States where the Asian Americans are an ethnic group. English is spoken both in the US and Great Britain.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id123" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -2538,7 +2538,7 @@
         <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer was published by Soho Press and is published in the United States. In this country they speak English, same as in Great Britan.</lex>
+      <lex comment="good" lid="Id1" error_1="Great Britain">A Loyal Character Dancer was published by Soho Press and is published in the United States. In this country they speak English, same as in Great Britan.</lex>
       <lex comment="good" lid="Id2">English is the spoken language of both Great Britain and United States. The US is where A Loyal Character Dancer is published by Soho Press.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press in the United States. The language of both the US and Great Britain is English.</lex>
     </entry>
@@ -2623,7 +2623,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Wizard of Mars was written in the United States where the main language is English (originated in Great Britain). Natives Americans are an ethnic group of the US.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id130" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -2638,7 +2638,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S, where English is spoken and African Americans are an ethnic group. English is also the language of Great Britain.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id131" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>English_language | spokenIn | Great_Britain</otriple>
@@ -2836,7 +2836,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The leader of the UK is David Cameron and English is the language spoken.</lex>
       <lex comment="good" lid="Id2">AIDS (journal) was published by Lippincott Williams &amp; Wilkins, in the UK. English is the language there, and previous leader was David Cameron.</lex>
-      </entry>
+    </entry>
     <entry category="WrittenWork" eid="Id141" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>United_Kingdom | leader | David_Cameron</otriple>
@@ -3130,7 +3130,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in both Great Britain and the United States (home of President Barack Obama). A Severed Wasp is from the United States.</lex>
       <lex comment="good" lid="Id2">Barack Obama was the president of the United States. English is the main language there, but was originated in Great Britain. A Severed Wasp is a book from the US.</lex>
-      <lex comment="good" lid="Id3">Some random facts about the United States: The language spoken there is mainly English, Barack Obama was the previous president, and the book A Severed Wasp was written there.</lex>
+      <lex comment="good" lid="Id3" error_1="Great Britain">Some random facts about the United States: The language spoken there is mainly English, Barack Obama was the previous president, and the book A Severed Wasp was written there.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id158" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3162,7 +3162,7 @@
         <mtriple>1634:_The_Ram_Rebellion | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of the United States was Barack Obama. The capital of the US is Washington D.C. 1634 The Ram Rebellion comes from the United States and one of its ethnic groups is Asian American.</lex>
+      <lex comment="good" lid="Id1" error_1="Asian Americans">The leader of the United States was Barack Obama. The capital of the US is Washington D.C. 1634 The Ram Rebellion comes from the United States and one of its ethnic groups is Asian American.</lex>
       <lex comment="good" lid="Id2">1634 The Ram Rebellion was written in the United States, where Barack Obama was the previous president. The capital city is Washington D.C. and the country includes many Asian Americans.</lex>
       <lex comment="good" lid="Id3">1634 The Ram Rebellion comes from the United States, the leader of this country is Barack Obama and the capital is Washington, D.C. They have an ethnic group called Asian Americans.</lex>
     </entry>
@@ -3369,5 +3369,5 @@
       <lex comment="good" lid="Id1">A Glastonbury Romance is the sequel to Wolf Solent and was followed by Maiden Castle and Weymouth Sands which was written by John Cowper Powys.</lex>
       <lex comment="good" lid="Id2">John Cowper Powys is the author of Weymouth Sands which came after A Glastonbury Romance and preceded Maiden Castle. A Glastonbury Romance is the sequel to Wolf Solent.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

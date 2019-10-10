@@ -37,7 +37,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">B M Reddy is president of the Acharya Institute of Technology in Bangalore.</lex>
       <lex comment="good" lid="Id2">The president of Acharya Institute of Technology in Bangalore is B.M. Reddy.</lex>
-      </entry>
+    </entry>
     <entry category="University" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
@@ -63,5 +63,5 @@
       <lex comment="good" lid="Id1">AWH Engineering College is located in Kerala whose leader is Kochi.</lex>
       <lex comment="good" lid="Id2">AWH Engineering College is in the state of Kerala, whose leader is Kochi.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

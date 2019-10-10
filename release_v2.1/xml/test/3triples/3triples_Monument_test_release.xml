@@ -13,7 +13,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States 11th Mississippi Infantry Monument's location is Adams County, Pennsylvania, northwest of Carroll County Maryland.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
@@ -40,7 +40,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial, known locally as Türk Şehitleri Anıtı, is located in Baku, the capital city of Azerbaijan.</lex>
-      </entry>
+    </entry>
     <entry category="Monument" eid="Id4" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
         <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
@@ -71,5 +71,5 @@
       <lex comment="good" lid="Id2">Ahmet Davutoglu is a leader from Turkey whose capital is Ankara and where the Ataturk Monument can be found in Izmir.</lex>
       <lex comment="good" lid="Id3">The Atatürk Monument (İzmir) is found in Turkey, where the capital is Ankara and the leader is Ahmet Davutoğlu.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

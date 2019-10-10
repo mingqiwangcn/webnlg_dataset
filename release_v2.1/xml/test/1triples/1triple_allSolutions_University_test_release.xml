@@ -27,7 +27,7 @@
       <modifiedtripleset>
         <mtriple>Kerala | has to its northwest | Mahé,_India</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The northwest border to Kerala is Mahe in India.</lex>
+      <lex comment="good" lid="Id1" error_1="Mahe, India">The northwest border to Kerala is Mahe in India.</lex>
       <lex comment="good" lid="Id2">Kerala has to its northwest Mahé in India.</lex>
       <lex comment="good" lid="Id3">Mahé in India is to the northwest of Kerala.</lex>
     </entry>
@@ -61,7 +61,7 @@
       <modifiedtripleset>
         <mtriple>School of Business and Social Sciences at the Aarhus University | dean | "Thomas Pallesen"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Thomas Pallesen is the dean of Aarhus University School of Business and Social Sciences .</lex>
+      <lex comment="good" lid="Id1" error_1="School of Business and Social Sciences at the Aarhus University">Thomas Pallesen is the dean of Aarhus University School of Business and Social Sciences .</lex>
       <lex comment="good" lid="Id2">The dean of School of Business and Social Sciences at the Aarhus University is Thomas Pallesen.</lex>
       <lex comment="good" lid="Id3">Thomas Pallesen is the Dean at the School of Business and Social Sciences at Aarhus University.</lex>
       <lex comment="good" lid="Id4">The dean of the School of Business and Social Sciences at the Aarhus University is Thomas Pallesen.</lex>
@@ -77,13 +77,13 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at Aarhus University has 16000 students.</lex>
-      <lex comment="good" lid="Id2">Aarhus University School of Business and Social Sciences' number of students are 16000.</lex>
+      <lex comment="good" lid="Id2" error_1="School of Business and Social Sciences at the Aarhus University">Aarhus University School of Business and Social Sciences' number of students are 16000.</lex>
       <lex comment="good" lid="Id3">There are 16000 students at the School of Business and Social Sciences at the University of Aarhus.</lex>
-      <lex comment="good" lid="Id4">There are 16000 students in the Aarhus University School of Business and Social Sciences.</lex>
-      <lex comment="good" lid="Id5">Aarhus University School of Business and Social Sciences has 16000 students.</lex>
+      <lex comment="good" lid="Id4" error_1="School of Business and Social Sciences at the Aarhus University">There are 16000 students in the Aarhus University School of Business and Social Sciences.</lex>
+      <lex comment="good" lid="Id5" error_1="School of Business and Social Sciences at the Aarhus University">Aarhus University School of Business and Social Sciences has 16000 students.</lex>
       <lex comment="good" lid="Id6">The number of students in School of Business and Social Sciences at the Aarhus University is 16000.</lex>
       <lex comment="good" lid="Id7">The number of students at the School of Business and Social Sciences at the Aarhus University is 16000.</lex>
       <lex comment="good" lid="Id8">The School of Business and Social Sciences at the Aarhus University has 16000 students.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

@@ -17,7 +17,7 @@
         <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Defender and under 16 Italy international footballer Alessio Romagnoli plays for the Serie A side AC Milan, which is managed by Siniša Mihajlović.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli previously played for the Italian national under 16 football team where he was one of the defenders. He now plays for in Serie A for A C Milan who are managed by Sinisa Mihajlovic.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Milan">Alessio Romagnoli previously played for the Italian national under 16 football team where he was one of the defenders. He now plays for in Serie A for A C Milan who are managed by Sinisa Mihajlovic.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is a defender and played in the Italy national under 16's football team. He also in the Serie A league for AC Milan who are managed by Sinisa Mihajlovic.</lex>
     </entry>
     <entry category="Athlete" eid="Id2" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -35,7 +35,7 @@
         <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
         <mtriple>Alessio_Romagnoli | club | Italy_national_under-17_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Milan, playing in Seria A, is managed by Sinisa Mihajlovic, and has players like Alessio Ramgnoli, who also plays as a defender for the italian national under 17 team.</lex>
+      <lex comment="good" lid="Id1" error_1="Alessio Romagnoli" error_2="Serie A">AC Milan, playing in Seria A, is managed by Sinisa Mihajlovic, and has players like Alessio Ramgnoli, who also plays as a defender for the italian national under 17 team.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli is a defender in the Italy national under-17 football team. He also plays in Serie A with AC Milan who are managed by Sinisa Mihajlovic.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is a member of the Italian national under 17 football team. He also plays as a defender in the Serie A League with AC Milan who are managed by Sinisa Mihajlovic.</lex>
     </entry>
@@ -54,7 +54,7 @@
         <mtriple>Alessio_Romagnoli | position | Defender_(football)</mtriple>
         <mtriple>Alessio_Romagnoli | club | Italy_national_under-19_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alessio Romagnoli is a defence player in the A.C. Milan club Serie A. whose manager is Siniša Mihajlović. Mr. Romagnoli also played for the Italy national under 19 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Defender (football)">Alessio Romagnoli is a defence player in the A.C. Milan club Serie A. whose manager is Siniša Mihajlović. Mr. Romagnoli also played for the Italy national under 19 football team.</lex>
       <lex comment="good" lid="Id2">Defender Alessio Romagnoli, who has represented the Italy national football team at Under 19 level, plays for the Serie A side A.C. Milan, which is managed by Siniša Mihajlović.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli who used to play for the Italy national under - 19 football team, is currently a defender for the A.C. Milan football club which plays in Serie A. Sinisa Mihajlovic is the manager of A.C. Milan.</lex>
     </entry>
@@ -73,7 +73,7 @@
         <mtriple>Peñarol | manager | Jorge_Orosmán_da_Silva</mtriple>
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Hernandez plays for U.S. Città di Palermo and belongs to the Central Espanol youth team. He has played for Penarol, managed by Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id1" error_1="Uruguayan Segunda Division">Abel Hernandez plays for U.S. Città di Palermo and belongs to the Central Espanol youth team. He has played for Penarol, managed by Jorge Orosmán da Silva.</lex>
       <lex comment="good" lid="Id2">Abel Hernández has played for Central Español (in the Uruguayan Segunda División) and Penarol (managed by Jorge Orosmán da Silva). Hernandez plays for U.S. Città di Palermo.</lex>
       <lex comment="good" lid="Id3">Abel Hernández played youth football for Central Español, whose main team play in the Uruguayan Segunda Division. His current clubs are Penarol, managed by Jorge Orosman da Silva, and US Citta di Palermo.</lex>
     </entry>
@@ -170,7 +170,7 @@
         <mtriple>Budapest | country | Hungary</mtriple>
         <mtriple>Akeem_Adams | deathPlace | Budapest</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin F.C., the latter of which have their home ground at the Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id1" error_1="Hungary">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin F.C., the latter of which have their home ground at the Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id2">Akeem Adams club was Ferencvarosi TC and he was a member of United Petrotrin FC club whose ground is at Palo Seco Velodrome. He died in Budapest, Hungary.</lex>
       <lex comment="good" lid="Id3">Akeem Adams played for United Petrotrin F.C. at the Palo Seco Velodrome. He now plays for Ferencvarosi TC. Mr. Adams passed away in Budapest, Hungary.</lex>
     </entry>
@@ -198,7 +198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American football player Akeem Ayers made his debut for the Nashville, Tennessee based team Tennessee Titans. He later played for the St Louis Rams, who play in St Louis and whose coach is Jeff Fisher.</lex>
       <lex comment="good" lid="Id2">Akeem Ayers started with the Tennessee Titans that are based in Nashville, TN. He also played for the St. Louis Rams out of St. Louis and coached by Jeff Fisher.</lex>
-      <lex comment="good" lid="Id3">Akeem Ayers debuted with Nashiville, Tennessee's, Tennessee Titans. He also played with the St. Louis Rams of St. Louis (coached by Jeff Fisher.</lex>
+      <lex comment="good" lid="Id3" error_1="Nashville, Tennessee">Akeem Ayers debuted with Nashiville, Tennessee's, Tennessee Titans. He also played with the St. Louis Rams of St. Louis (coached by Jeff Fisher.</lex>
     </entry>
     <entry category="Athlete" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -250,7 +250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers played for the Tennessee Titans (Nashville) and the St. Louis Rams (coached by Steve Spagnuolo).</lex>
       <lex comment="good" lid="Id2">Akeem Ayers formerly played with the St Louis Rams who are based in the city of St Louis and coached by Steve Spagnuolo. He made his debut with the Tennessee Titans who are based in Nashville, Tennessee.</lex>
-      <lex comment="good" lid="Id3">Akkem Ayers made his debut for the Tennessee Titans, who are based in Nashville, Tennessee. He later played for the St Louis Rams, located in the city of St Louis, and managed by Steve Spagnuolo.</lex>
+      <lex comment="good" lid="Id3" error_1="Akeem Ayers">Akkem Ayers made his debut for the Tennessee Titans, who are based in Nashville, Tennessee. He later played for the St Louis Rams, located in the city of St Louis, and managed by Steve Spagnuolo.</lex>
     </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -294,8 +294,8 @@
         <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club that is in the Jordan Premier League. He is also in the AL Kharaitiyat SC located at Al Khor and managed by Amar Osim.</lex>
-      <lex comment="good" lid="Id2">Alaa Abdul Zahra belongs to Shabab Al-Ordon Club (in the Jordan Permier League) and plays for, Al Khor located, Al Kharaitiyat SC (managed by Amar Osim).</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul-Zahra has played for the club Shabab Al-Ordon which is in the Jordan Premier League. He has also played for Al Khor based side Al Kharaitiyat, which is managed by Amar Osim.</lex>
+      <lex comment="good" lid="Id2" error_1="Jordan Premier League">Alaa Abdul Zahra belongs to Shabab Al-Ordon Club (in the Jordan Permier League) and plays for, Al Khor located, Al Kharaitiyat SC (managed by Amar Osim).</lex>
+      <lex comment="good" lid="Id3" error_1="Al Kharaitiyat SC" error_2="Shabab Al-Ordon Club">Alaa Abdul-Zahra has played for the club Shabab Al-Ordon which is in the Jordan Premier League. He has also played for Al Khor based side Al Kharaitiyat, which is managed by Amar Osim.</lex>
     </entry>
     <entry category="Athlete" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -319,8 +319,8 @@
         <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
         <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Marrikh SC is a former club of Alaa Abdul Zahra who has also played for the Qatar Stars League side Al Kharaitiyat SC, who are managed by Amar Osim and play their home games at Al Khor.</lex>
-      <lex comment="good" lid="Id2">Alaa Adbul Zahra's former clubs include Al Merrikh SC and Al Kharaitiyat, the latter of which play their home games in the Qatar Stars League at Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.</lex>
+      <lex comment="good" lid="Id1" error_1="Al-Merrikh SC">Al Marrikh SC is a former club of Alaa Abdul Zahra who has also played for the Qatar Stars League side Al Kharaitiyat SC, who are managed by Amar Osim and play their home games at Al Khor.</lex>
+      <lex comment="good" lid="Id2" error_1="Al-Merrikh SC">Alaa Adbul Zahra's former clubs include Al Merrikh SC and Al Kharaitiyat, the latter of which play their home games in the Qatar Stars League at Al Khor. The manager of Al Kharaitiyat SC is Amar Osim.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -441,7 +441,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra, who plays for Al-Wakrah Sport Club, also plays for Al Kharaitiyat SC. The latter team are based in Al Khor and play in the Qatar Stars League under their manager, Amar Osim.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club. His club is Al Kharaitiyat SC who play in the Qatar Stars League, are located at Al Khor and managed by Amar Osim.</lex>
-      <lex comment="good" lid="Id3">Alaa Abdul-Zahra Plays for Kharaitiyat in the Qatar Stars League. The club's home is located in Al Khor and its manager is Amar Osim. Alaa Abdul-Zahra has also played for the Al-Wakrah Sport Club.</lex>
+      <lex comment="good" lid="Id3" error_1="Al Kharaitiyat SC">Alaa Abdul-Zahra Plays for Kharaitiyat in the Qatar Stars League. The club's home is located in Al Khor and its manager is Amar Osim. Alaa Abdul-Zahra has also played for the Al-Wakrah Sport Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -504,8 +504,8 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov died in Russia where the Russian language is spoken. He plays for FC Torpedo Moscow under the manager Valery Petrakov and was previously a member of the Soviet Union national football team.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Chumakov has played for FC Torpedo Moscow and the Soviet Union national football team. The Torpedo Moscow was managed by Valaery Petrakov. Mr. Chumakov died in Russia. Russian is spoken there.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for FC Torpedo Mosow, managed by Valery Petrakov and for the Soviet Union national football team. He died in Russia where the spoken language is Russian.</lex>
+      <lex comment="good" lid="Id2" error_1="Valery Petrakov">Aleksandr Chumakov has played for FC Torpedo Moscow and the Soviet Union national football team. The Torpedo Moscow was managed by Valaery Petrakov. Mr. Chumakov died in Russia. Russian is spoken there.</lex>
+      <lex comment="good" lid="Id3" error_1="FC Torpedo Moscow">Aleksandr Chumakov plays for FC Torpedo Mosow, managed by Valery Petrakov and for the Soviet Union national football team. He died in Russia where the spoken language is Russian.</lex>
     </entry>
     <entry category="Athlete" eid="Id24" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -523,7 +523,7 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov, who died in Russia (leader: Sergey Naryshkin), belonged to the Soviet Union national football team and played for FC Torpedo Moscow, which is manged by Valery Petrakov.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Chumakov who plays for the Soviet Union national football team and whose club is FC Torpedo Moscow managed by Valery Petrakov, died in Russia, a country led by Serkey Naryshkin.</lex>
+      <lex comment="good" lid="Id2" error_1="Sergey Naryshkin">Aleksandr Chumakov who plays for the Soviet Union national football team and whose club is FC Torpedo Moscow managed by Valery Petrakov, died in Russia, a country led by Serkey Naryshkin.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov died in Russia where the leader is Sergey Naryshkin. Chumakov was a member of the Soviet Union national football team and played for FC Torpedo Moscow under their manager, Valery Petrakov.</lex>
     </entry>
     <entry category="Athlete" eid="Id25" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -549,7 +549,7 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov plays for FC Torpedo Moscow who are managed by Valery Petrakov. He was also a member of the Soviet Union national football team and died in Russia where the leader is Vladimir Putin.</lex>
-      <lex comment="good" lid="Id2">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin. Chumakov played for FC Torpedo Moscow, where the manager was Valery Petrakov.</lex>
+      <lex comment="good" lid="Id2" error_1="Soviet Union national football team">Former Soviet Union international footballer Aleksandr Chumakov died in Russia, where the leader is Vladimir Putin. Chumakov played for FC Torpedo Moscow, where the manager was Valery Petrakov.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov played for FC Torpedo Moscow and the Soviet Union national football team. He died in Russia, a country whose leader is Vladimir Putin. FC Torpedo Moscow are managed by Valery Petrakov.</lex>
     </entry>
     <entry category="Athlete" eid="Id26" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -585,7 +585,7 @@
         <mtriple>Aleksandr_Prudnikov | club | FC_Terek_Grozny</mtriple>
         <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov played for FC Terek Grozny, managed by Rashid Rakhimov. He belongs to FC Spartak Moscow, with its grounds at Otkrytiye Arena, and plays for Otkrytiye Arena.</lex>
+      <lex comment="good" lid="Id1" error_1="FC Amkar Perm">Aleksandr Prudnikov played for FC Terek Grozny, managed by Rashid Rakhimov. He belongs to FC Spartak Moscow, with its grounds at Otkrytiye Arena, and plays for Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov plays for or has played for, FC Amkar Perm, FC Terek Grozny and FC Spartak Moscow's youth team who play at the Otkrytiye Arena. The manager of FC Terek Grozny is Rashid Rakhimov.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov has played for FC Spartak Moscow's youth team, for FC Amkar Perm and for FC Terek Grozny. FC Spartak Moscow play at the Otkrytiye Arena. FC Terek Grozny are managed by Rashid Rakhimov.</lex>
     </entry>
@@ -683,7 +683,7 @@
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The defender Alessio Romagnoli is a member of AS Roma and AC Milan. The latter club are in the Serie A league and managed by Sinisa Mihajlovic.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli has played for A.S.Roma and A.C.Milan, where he was a defender. A.C.Milan play in Serie A and their manager is Siniša Mihajlović.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Milan">Alessio Romagnoli has played for A.S.Roma and A.C.Milan, where he was a defender. A.C.Milan play in Serie A and their manager is Siniša Mihajlović.</lex>
     </entry>
     <entry category="Athlete" eid="Id32" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -728,7 +728,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli has been a defender with the club U.C. Sampdoria who play in the Serie A league. He currently plays for AC Milan under the manager Sinisa Mihajlovic.</lex>
       <lex comment="good" lid="Id2">Defender Alessio Romagnoli's former football clubs include the Serie A side U.C. Sampdoria and A.C. Milan, the latter of which is managed by Siniša Mihajlović.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli plays defense for A.C. Milan which is managed by Siniša Mihajlović. Mr. Romagnoli is associated with UC Sampdoria part of the Serie A. League.</lex>
+      <lex comment="good" lid="Id3" error_1="Defender (football)">Alessio Romagnoli plays defense for A.C. Milan which is managed by Siniša Mihajlović. Mr. Romagnoli is associated with UC Sampdoria part of the Serie A. League.</lex>
     </entry>
     <entry category="Athlete" eid="Id34" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -790,7 +790,7 @@
         <mtriple>Alessio_Romagnoli | club | Italy_national_under-16_football_team</mtriple>
         <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alessio Romagnoli played for the Italian national under 16 football team and had represented the club U.C. Sampdoria. He currently plays with A.C Milan who is managed by Sinisa Mihajlovic and whose chairman is Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id1" error_1="A.C. Milan">Alessio Romagnoli played for the Italian national under 16 football team and had represented the club U.C. Sampdoria. He currently plays with A.C Milan who is managed by Sinisa Mihajlovic and whose chairman is Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli's current club is A.C. Milan where the chairman is Silvio Berlusconi and the manager is Sinisa Mihajlovic. He has also played for the Italy national under 16 team and represented the club UC Sampdoria.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is currently with A.C. Milan where the chairman is Silvio Berlusconi and the manager Sinisa Mihajlovic. He has previously played for the Italian national under 16 football team and has also represented the club UC Sampdoria.</lex>
     </entry>
@@ -829,7 +829,7 @@
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli, who plays for A.S. Roma, used to play for the Italian national under-19 football team. His current club is AC Milan which has Silvio Berlusconi as the chairman and Siniša Mihajlović as the manager.</lex>
-      <lex comment="good" lid="Id2">A.C. Milan, run by Alessio Romagnoli, member of A.S. Rome and the italian national under 19 football team, is managed by Sinisa Mihajlovic and is chaired by Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Roma">A.C. Milan, run by Alessio Romagnoli, member of A.S. Rome and the italian national under 19 football team, is managed by Sinisa Mihajlovic and is chaired by Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli's is a member of AS Roma, AC Milan and the Italy national under 19 football team, where he is managed by Sinisa Mihajlovic and chaired by Silvio Berlusconi.</lex>
     </entry>
     <entry category="Athlete" eid="Id39" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -868,7 +868,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Central Español, who play in the Uruguayan Segunda División, is where Abel Hernandez played youth football. He was part of the Uruguay Olympic football team and also played for U.S. Città di Palermo, where the manager was Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id2">Central Español play in the Uruguayan Segunda División league and Abel Hernandez previously played for their youth football team. He was also in the Uruguay Olympic team and is currently with the US Citta di Palermo club managed by Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id3">Abel Hernández belongs to the Uruguay Olympic team and U.S. Città di Palermo, which is managed by Giuseppe Iachini. He has played for Central Español in the Uruguayan Segunda División.</lex>
+      <lex comment="good" lid="Id3" error_1="Uruguay Olympic football team">Abel Hernández belongs to the Uruguay Olympic team and U.S. Città di Palermo, which is managed by Giuseppe Iachini. He has played for Central Español in the Uruguayan Segunda División.</lex>
     </entry>
     <entry category="Athlete" eid="Id41" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -994,7 +994,7 @@
         <mtriple>FC_Terek_Grozny | manager | Rashid_Rakhimov</mtriple>
         <mtriple>Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandr Prudnikov, who is a member of the the youth side of FC Spartak Moscow also plays for FC Kuban Krasnodar. In addition, he is in the FC Terek Grozny club managed by Rashid Rakhimov.</lex>
+      <lex comment="good" lid="Id1" error_1="Otkrytiye Arena">Aleksandr Prudnikov, who is a member of the the youth side of FC Spartak Moscow also plays for FC Kuban Krasnodar. In addition, he is in the FC Terek Grozny club managed by Rashid Rakhimov.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov was with the FC Spartak Moscow's youth team out of the Otkrytiye home Arena. He also played for FC Terek Grozny managed by Rashid Rakhimov. Mr. Prudnikov is now playing for the Kuban Krasnodar club.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov has played for FC Kuban Krasnodar and also FC Terek Grozny, where the manager was Rashid Rakhimov. Prudnikov played youth football at FC Spartak Moscow, whose home ground is the Otkrytiye Arena.</lex>
     </entry>
@@ -1041,7 +1041,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Prudnikov's former teams include FC Tom Tomsk and FC Amkar Perm, the latter of which is managed by Gadzhi Gadzhiyev. Prudnikov was part of the youth team of FC Spartak Moscow, whose home games are played at the Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id2">Aleksandr Prudnikov played youth football for FC Spartak Moscow, whose home ground is the Otkrytiye Arena. He later played for FC Tom Tomsk and FC Amkar Perm, where the manager is Gadzhi Gadzhiyev.</lex>
-      <lex comment="good" lid="Id3">FC Spartak Moscow plays at Otkrytiye Arena, which host's Aleksandr Prudnikov, who plays for FC Tom Tomsk, FC Amkar Perm and used to play for FC Spartak Moscow, managed by FC Amker Perm.</lex>
+      <lex comment="good" lid="Id3" error_1="Gadzhi Gadzhiyev">FC Spartak Moscow plays at Otkrytiye Arena, which host's Aleksandr Prudnikov, who plays for FC Tom Tomsk, FC Amkar Perm and used to play for FC Spartak Moscow, managed by FC Amker Perm.</lex>
     </entry>
     <entry category="Athlete" eid="Id49" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1078,8 +1078,8 @@
         <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov's club was FC Torpedo Moscow and the Soviet Union national football team. The Torpedo Moscow team played in the 2014-15 Russian Premier league. Its chairman is Aleksandr Tukmanov and its manager is Valery Petrakov.</lex>
-      <lex comment="good" lid="Id2">Aleksandr Chumakov has played for FC Torpedo Moscow and is now their chairman. He was a member of the Soviet Union national football team and the FC Torpedo Moscow also participated in the 2014-15 Russian Premier League. The club is managed by Valery Petrakov.</lex>
-      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for FC Torpedo Moscow (managed by Valery Petrakov and includes chairman Aleksandr Tukmanov.) and the Soviet Union national football team. FC Torpedo Moscow played in Russian Premier League during the 2014-15 season.</lex>
+      <lex comment="good" lid="Id2" error_1="Aleksandr Tukmanov">Aleksandr Chumakov has played for FC Torpedo Moscow and is now their chairman. He was a member of the Soviet Union national football team and the FC Torpedo Moscow also participated in the 2014-15 Russian Premier League. The club is managed by Valery Petrakov.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Russian Premier League">Aleksandr Chumakov plays for FC Torpedo Moscow (managed by Valery Petrakov and includes chairman Aleksandr Tukmanov.) and the Soviet Union national football team. FC Torpedo Moscow played in Russian Premier League during the 2014-15 season.</lex>
     </entry>
     <entry category="Athlete" eid="Id51" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1122,7 +1122,7 @@
         <mtriple>Houston_Texans | city | Houston</mtriple>
         <mtriple>Atlanta_Falcons | owner | Arthur_Blank</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Dent, who debuted with the Atlanta Falcons, has played with the Houston based, Houston Texans. The Atlanta Falcons are owned by Arthur Blank.</lex>
+      <lex comment="good" lid="Id1" error_1="Texas">Akeem Dent, who debuted with the Atlanta Falcons, has played with the Houston based, Houston Texans. The Atlanta Falcons are owned by Arthur Blank.</lex>
       <lex comment="good" lid="Id2">Akeem Dent made his debut with the Atlanta Falcons who are owned by Arthur Blank. He used to play for the Houston Texans who are based in the city of Houston and play in Texas.</lex>
       <lex comment="good" lid="Id3">Akeem Dent made his debut with the Atlanta Falcons who are owned by Arthur Blank. He was formerly with the Houston Texans who are based in the city of Houston in Texas.</lex>
     </entry>
@@ -1220,7 +1220,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers made his debut with the Tennessee Titans and has also played with the Los Angeles Rams. They are based in LA at the Los Angeles Memorial Coliseum and are coached by Jeff Fisher.</lex>
       <lex comment="good" lid="Id2">Akeem Ayers made his debut for the Tennessee Titans and later played for the Los Angeles Rams, who play at the Los Angeles Memorial Coliseum and whose coach is Jeff Fisher.</lex>
-      <lex comment="good" lid="Id3">The Tennessee Titans were Akeem Ayers debut team. He played also for the LA Rams that are based in that same city and play at LA Memorial Coliseum. The coach for the Rams is Jeff Fisher.</lex>
+      <lex comment="good" lid="Id3" error_1="Los Angeles" error_2="Los Angeles Memorial Coliseum" error_3="Los Angeles Rams">The Tennessee Titans were Akeem Ayers debut team. He played also for the LA Rams that are based in that same city and play at LA Memorial Coliseum. The coach for the Rams is Jeff Fisher.</lex>
     </entry>
     <entry category="Athlete" eid="Id57" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1270,7 +1270,7 @@
         <mtriple>Tennessee_Titans | coach | Mike_Mularkey</mtriple>
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Tennessee Titans, coached by Mile Mularkey and located in Nashville, Tennessee, was where Akeem Ayers made his debut. He later played for the Los Angeles Rams, whose home ground is at the Los Angeles Memorial Coliseum.</lex>
+      <lex comment="good" lid="Id1" error_1="Mike Mularkey">The Tennessee Titans, coached by Mile Mularkey and located in Nashville, Tennessee, was where Akeem Ayers made his debut. He later played for the Los Angeles Rams, whose home ground is at the Los Angeles Memorial Coliseum.</lex>
       <lex comment="good" lid="Id2">Akeem Ayers made his debut for the Tennessee Titans, who are based in Nashville, Tennessee and coached by Mike Mularkey. Ayers later played for the Los Angeles Rams, whose home ground is the Los Angeles Memorial Coliseum.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers formerly played for Los Angeles Rams who play their home matches at the Los Angeles Memorial Coliseum. He made his debut for the Tennessee Titans who are based in the city of Nashville, Tennessee and coached by Mike Mularkey.</lex>
     </entry>
@@ -1328,8 +1328,8 @@
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Penarol football team play in the Uruguayan Primera Division and Abel Hernandez was a member of their youth team. His club is currently Hull City AFC and he also plays for US Citta di Palermo under the manager, Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id2">Peñarol, where Abel Hernandez played youth football, are part of the Uruguayan Primera División. Hernandez later played for Hull City and the club U.S. Città di Palermo, where the manager was Giuseppe Iachini .</lex>
-      <lex comment="good" lid="Id3">Abel Hernández played youth football for Peñarol who are part of the Uruguayan Primera División. He has also played for Hull City and U.S. Città di Palermo, where the manager is Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id2" error_1="Hull City A.F.C.">Peñarol, where Abel Hernandez played youth football, are part of the Uruguayan Primera División. Hernandez later played for Hull City and the club U.S. Città di Palermo, where the manager was Giuseppe Iachini .</lex>
+      <lex comment="good" lid="Id3" error_1="Hull City A.F.C.">Abel Hernández played youth football for Peñarol who are part of the Uruguayan Primera División. He has also played for Hull City and U.S. Città di Palermo, where the manager is Giuseppe Iachini.</lex>
     </entry>
     <entry category="Athlete" eid="Id62" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1411,7 +1411,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams' club is Central F.C.and is part of the United Petrotrin F.C. that has their home ground in Palo Seco. Mr. Adams died in Budapest, Hungary.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams, who died in the Hungarian city of Budapest, represented Central FC and also United Petrotrin FC, who play at Palo Seco.</lex>
+      <lex comment="good" lid="Id2" error_1="Hungary">Akeem Adams, who died in the Hungarian city of Budapest, represented Central FC and also United Petrotrin FC, who play at Palo Seco.</lex>
       <lex comment="good" lid="Id3">Akeem Adams, whose club was Central F.C., played for United Petrotrin F.C., the ground of which is, Palo Seco. Akeem Adams died in Budapest, a city in Hungary.</lex>
     </entry>
     <entry category="Athlete" eid="Id66" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1437,8 +1437,8 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and is a member of the United Petrotin FC who play at the Palo Seco ground. He died in Budapest, Hungary.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin FC, the latter of whose home ground is Palo Seco.</lex>
-      <lex comment="good" lid="Id3">Akeem Adams died in the Hungarian city of Budapest. His former clubs include Ferencvarosi TC and United Petrotrin F.C, the latter of which play their home games in Palo Seco.</lex>
+      <lex comment="good" lid="Id2" error_1="Hungary">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin FC, the latter of whose home ground is Palo Seco.</lex>
+      <lex comment="good" lid="Id3" error_1="Hungary">Akeem Adams died in the Hungarian city of Budapest. His former clubs include Ferencvarosi TC and United Petrotrin F.C, the latter of which play their home games in Palo Seco.</lex>
     </entry>
     <entry category="Athlete" eid="Id67" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1457,7 +1457,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams played for United Petrotrin F.C. which is at the Palo Seco Velodrome. He also played for Central F.C. Mr. Adams died in Budapest, Hungary.</lex>
       <lex comment="good" lid="Id2">Akeem Adams died in Budapest, Hungary. He was a member of the United Petrotrin FC club who play at the Palo Seco Velodrome, and also played for Central FC.</lex>
-      <lex comment="good" lid="Id3">Akeem Adams, who died in the Hungarian city of Budapest, once played for the club United Petrotrin FC, whose home ground is the Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id3" error_1="Central F.C." error_2="Hungary">Akeem Adams, who died in the Hungarian city of Budapest, once played for the club United Petrotrin FC, whose home ground is the Palo Seco Velodrome.</lex>
     </entry>
   </entries>
 </benchmark>

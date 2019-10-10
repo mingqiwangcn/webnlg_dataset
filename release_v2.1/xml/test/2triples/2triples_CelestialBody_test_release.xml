@@ -31,7 +31,7 @@
         <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
         <mtriple>(66391)_1999_KW4 | orbitalPeriod | 16244700.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">(66391) 199 KW4 has an epoch date of July 14th 2004 and its orbital period is 16244700.</lex>
+      <lex comment="good" lid="Id1" error_1="(66391) 1999 KW4">(66391) 199 KW4 has an epoch date of July 14th 2004 and its orbital period is 16244700.</lex>
       <lex comment="good" lid="Id2">(66391) 1999 KW4 has an orbital period of 16244700.0 and an epoch date of 2004-07.14.</lex>
       <lex comment="good" lid="Id3">The asteroid called (66391) 1999 KW4 has an orbital period of 16244700.0 and an epoch date of 2004/07/14.</lex>
     </entry>
@@ -69,9 +69,9 @@
         <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The German Walter Baade discovered 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade, a German national.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Germany">The German Walter Baade discovered 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">1036 Ganymed was discovered by Walter Baade, a German national.</lex>
+    </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
         <otriple>103_Hera | discoverer | James_Craig_Watson</otriple>
@@ -267,5 +267,5 @@
       <lex comment="good" lid="Id2">The celestial body known as 110 Lydia has an orbital period of 142603000 and an epoch date of 31 December 2006.</lex>
       <lex comment="good" lid="Id3">110 Lydia has an epoch date of December 31st 2006 and has an orbital period of 142603000.0.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

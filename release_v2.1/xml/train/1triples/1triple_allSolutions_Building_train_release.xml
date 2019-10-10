@@ -98,7 +98,7 @@
         <mtriple>108_St_Georges_Terrace | cost | "120 million (Australian dollars)"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace cost 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2">108 St Georges Terrace cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)">108 St Georges Terrace cost 120m Australian dollars.</lex>
       <lex comment="good" lid="Id3">The cost of 108 St. Georges Terrace is 120 million AUD.</lex>
     </entry>
     <entry category="Building" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
@@ -111,7 +111,7 @@
       <modifiedtripleset>
         <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">108 St. Georges Terrace has a floor area of 39599.0 square metres.</lex>
+      <lex comment="good" lid="Id1" error_1="39500.0 (square metres)">108 St. Georges Terrace has a floor area of 39599.0 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -434,7 +434,7 @@
         <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The construction of 320 South Boston Building was completed in 1929.</lex>
-      <lex comment="good" lid="Id2">320 South Boston was completed in 1929.</lex>
+      <lex comment="good" lid="Id2" error_1="320 South Boston Building">320 South Boston was completed in 1929.</lex>
       <lex comment="good" lid="Id3">320 South Boston Building was completed in 1929.</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
@@ -508,7 +508,7 @@
       <modifiedtripleset>
         <mtriple>3Arena | height | 28.0 (metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The height of 3 arena is 28 metres.</lex>
+      <lex comment="good" lid="Id1" error_1="3Arena">The height of 3 arena is 28 metres.</lex>
       <lex comment="good" lid="Id2">The height of 3Arena is 28.0 metres.</lex>
       <lex comment="good" lid="Id3">3Arena is 28.0 metres high.</lex>
     </entry>
@@ -531,7 +531,7 @@
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located in Dublin.</lex>
-      <lex comment="good" lid="Id2">3 Arena is located in Dublin.</lex>
+      <lex comment="good" lid="Id2" error_1="3Arena">3 Arena is located in Dublin.</lex>
       <lex comment="good" lid="Id3">3Arena is located in Dublin.</lex>
     </entry>
     <entry category="Building" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
@@ -585,7 +585,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky Copenhagen has 23 floors.</lex>
       <lex comment="good" lid="Id2">There are 23 floors in the AC Hotel Bella Sky Copenhagen.</lex>
-      <lex comment="good" lid="Id3">The Bella Sky hotel in Copenhagen has 23 floors.</lex>
+      <lex comment="good" lid="Id3" error_1="AC Hotel Bella Sky Copenhagen">The Bella Sky hotel in Copenhagen has 23 floors.</lex>
     </entry>
     <entry category="Building" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -683,7 +683,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor was designed by the architect Lewis Nockalls Cottingham.</lex>
       <lex comment="good" lid="Id2">Lewis Nockalls Cottingham is the architect of Adare Manor.</lex>
-      <lex comment="good" lid="Id3">Lewis Cottingham is the architect of Adare Manor.</lex>
+      <lex comment="good" lid="Id3" error_1="Lewis Nockalls Cottingham">Lewis Cottingham is the architect of Adare Manor.</lex>
     </entry>
     <entry category="Building" eid="Id65" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -795,7 +795,7 @@
       <modifiedtripleset>
         <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addid Ababa City Hall was completed in 1964.</lex>
+      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addid Ababa City Hall was completed in 1964.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall's completion date was in 1964.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall was completed in 1964.</lex>
     </entry>
@@ -863,7 +863,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located on St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
       <lex comment="good" lid="Id2">The address of Adisham Hall is St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id3" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id81" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -932,7 +932,7 @@
       <modifiedtripleset>
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Admisham Hall is located at Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id1" error_1="Adisham Hall">Admisham Hall is located at Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id3">Adisham Hall is in Haputale, Sri Lanka.</lex>
     </entry>
@@ -987,7 +987,7 @@
         <mtriple>Akita_Museum_of_Art | address | "1-4-2 Nakadori"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The address of Akita Museum of Art is "1-4-2 Nakadori".</lex>
-      <lex comment="good" lid="Id2">The address of Akita Musuem of Art is 142 Nakadori.</lex>
+      <lex comment="good" lid="Id2" error_1="Akita Museum of Art">The address of Akita Musuem of Art is 142 Nakadori.</lex>
     </entry>
     <entry category="Building" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -998,7 +998,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tadao Ando is the architect who designed the Akita Museum of Art.</lex>
       <lex comment="good" lid="Id2">Tadao Ando is the architect of the Akita Museum of Art.</lex>
-      <lex comment="good" lid="Id3">Tadao Ando is the architect of Akita Museum.</lex>
+      <lex comment="good" lid="Id3" error_1="Akita Museum of Art">Tadao Ando is the architect of Akita Museum.</lex>
     </entry>
     <entry category="Building" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1090,8 +1090,8 @@
       <modifiedtripleset>
         <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architectural style of the Alan B. Miller Hall is Georgian.</lex>
-      <lex comment="good" lid="Id2">The architectural style of the Alan B Miller Hall is Georgian.</lex>
+      <lex comment="good" lid="Id1" error_1="Georgian architecture">The architectural style of the Alan B. Miller Hall is Georgian.</lex>
+      <lex comment="good" lid="Id2" error_1="Georgian architecture">The architectural style of the Alan B Miller Hall is Georgian.</lex>
       <lex comment="good" lid="Id3">Alan B Miller Hall was built in the Georgian architecture style.</lex>
     </entry>
     <entry category="Building" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
@@ -1128,8 +1128,8 @@
       <modifiedtripleset>
         <mtriple>Alan_B._Miller_Hall | cost | "75.0 million (dollars)"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alan B Miller Hall cost 75 million dollars.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id1" error_1="75.0 million (dollars)">The Alan B Miller Hall cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="75.0 million (dollars)">Alan B. Miller Hall cost 75 million dollars.</lex>
     </entry>
     <entry category="Building" eid="Id104" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1298,7 +1298,7 @@
       <modifiedtripleset>
         <mtriple>Ampara_Hospital | website | &lt;http://www.ghampara.gov.lk/&gt;</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital has a website: http://www.ghampara.gov.lk/.</lex>
+      <lex comment="good" lid="Id1" error_1="&lt;http://www.ghampara.gov.lk/&gt;">Ampara Hospital has a website: http://www.ghampara.gov.lk/.</lex>
     </entry>
     <entry category="Building" eid="Id119" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1424,7 +1424,7 @@
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grouns is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds">Asilomar Conference Grouns is located at Asilomar Blvd., Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.</lex>
       <lex comment="good" lid="Id3">The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.</lex>
     </entry>
@@ -1468,7 +1468,7 @@
         <mtriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths have the Romanesque Revival style of architecture.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths architectural style is that of Romanesque Revival.</lex>
+      <lex comment="good" lid="Id2" error_1="Romanesque Revival architecture">The Asser Levy Public Baths architectural style is that of Romanesque Revival.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths are in the architectural style of Romanesque Revival architecture.</lex>
     </entry>
     <entry category="Building" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
@@ -1480,7 +1480,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.</lex>
-      <lex comment="good" lid="Id3">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street.</lex>
+      <lex comment="good" lid="Id3" error_1="Asser Levy Place and East 23rd Street">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street.</lex>
     </entry>
     <entry category="Building" eid="Id136" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1907,7 +1907,7 @@
         <mtriple>Gujarat | leaderName | Anandiben_Patel</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel is the leader of Gujarat.</lex>
-      <lex comment="good" lid="Id2">Anandiben Patel was the leader of Gujurat.</lex>
+      <lex comment="good" lid="Id2" error_1="Gujarat">Anandiben Patel was the leader of Gujurat.</lex>
     </entry>
     <entry category="Building" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2003,7 +2003,7 @@
       <modifiedtripleset>
         <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
       </modifiedtripleset>
-      <lex comment="toFix" lid="Id1">The main ethnic group in Japan is the Japanese.</lex>
+      <lex comment="toFix" lid="Id1" error_1="Japanese people">The main ethnic group in Japan is the Japanese.</lex>
     </entry>
     <entry category="Building" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2013,7 +2013,7 @@
         <mtriple>Japan | ethnicGroup | Koreans_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Japan has an ethnic group called Koreans in Japan.</lex>
-      <lex comment="good" lid="Id2">Japan has an ethnic group of Koreans.</lex>
+      <lex comment="good" lid="Id2" error_1="Koreans in Japan">Japan has an ethnic group of Koreans.</lex>
     </entry>
     <entry category="Building" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2063,7 +2063,7 @@
         <mtriple>John_Madin | hometown | Birmingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham is the home town of John Madin.</lex>
-      <lex comment="good" lid="Id2">The hometown of Joh Madin is Birmingham.</lex>
+      <lex comment="good" lid="Id2" error_1="John Madin">The hometown of Joh Madin is Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2103,7 +2103,7 @@
       <modifiedtripleset>
         <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julie Morgan designed significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id1" error_1="Julia Morgan">Julie Morgan designed significant buildings in Chinatown, San Francisco.</lex>
       <lex comment="good" lid="Id2">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
     </entry>
     <entry category="Building" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
@@ -2116,7 +2116,7 @@
       <modifiedtripleset>
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Riverside Art Musuem is one of Julia Morgan's significant buildings.</lex>
+      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">The Riverside Art Musuem is one of Julia Morgan's significant buildings.</lex>
     </entry>
     <entry category="Building" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2198,7 +2198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International is based in Bethesda, Maryland.</lex>
       <lex comment="good" lid="Id2">Marriott International is located in Bethesda Maryland.</lex>
-      <lex comment="good" lid="Id3">The Marriott International is located in Bethseda, Maryland.</lex>
+      <lex comment="good" lid="Id3" error_1="Bethesda, Maryland">The Marriott International is located in Bethseda, Maryland.</lex>
     </entry>
     <entry category="Building" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2476,7 +2476,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ethnic group of the United States is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">There is an ethnic group of Asians in the United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans">There is an ethnic group of Asians in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

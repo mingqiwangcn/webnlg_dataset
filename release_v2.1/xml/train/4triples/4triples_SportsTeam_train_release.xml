@@ -50,7 +50,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jens Hartel is in the RB Leipzig club and plays for both SV Germania Schoneiche and 1 FC Lokomotive Leipzig. He has also been the manager of 1FC Magdeburg.</lex>
       <lex comment="good" lid="Id2">Jens Härtel started his career playing for FC Lokomotive Leipzig. Since then he has been the manager of 1 FC Magdeburg and is currently in the RB Leipzig club and playing for SV Germania Schoneiche.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
@@ -65,7 +65,7 @@
         <mtriple>Jens_Härtel | club | FC_Sachsen_Leipzig</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jens Härtel, the manager of FC Magdeburg also plays for 1. FC Lokomotive Leipzig, SV Babelsberg 03 and he has played for FC Sachsen Leipzig.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
@@ -96,7 +96,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of FC Magdeburg is Jens Härtel; he played for FC Lokomotive Leipzig, for SV Germania Schoneiche, and has represented the club FC Sachsen Leipzig.</lex>
       <lex comment="good" lid="Id2">Jens Hartel started his career playing for FC Lokomotive Leipzig. Since then he has played for FC Sachsen Leipzig and now plays for SV Germania Schoneiche, whilst managing FC Magdeburg.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id7" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
@@ -192,9 +192,9 @@
         <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
         <mtriple>A.C._Cesena | numberOfMembers | 23900</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesena has 23900 members and their ground is the Stadio Dino Manuzzi. They currently play in the Serie B League in which Carpri F.C. 1909 have previously been champions.</lex>
+      <lex comment="good" lid="Id1" error_1="Carpi F.C. 1909">A.C. Cesena has 23900 members and their ground is the Stadio Dino Manuzzi. They currently play in the Serie B League in which Carpri F.C. 1909 have previously been champions.</lex>
       <lex comment="good" lid="Id2">A.C. Cesena's ground is the Stadio Dino Manuzzi, they have 23900 members and play in Serie B, which was previously won by Carpi F.C. 1909.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.C._Cesena | league | Serie_B</otriple>
@@ -208,8 +208,8 @@
         <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Carpi FC 1909 are the champions of Serie B, the league AC Cesena are in. They are managed by Massimo Drago, who was at the club ASD Licita 1931.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931">Carpi FC 1909 are the champions of Serie B, the league AC Cesena are in. They are managed by Massimo Drago, who was at the club ASD Licita 1931.</lex>
+    </entry>
     <entry category="SportsTeam" eid="Id14" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.C._Cesena | league | Serie_B</otriple>
@@ -256,7 +256,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Cesena has 23900 members and their ground is located in Italy. They play in the Serie B league of which Carpi FC 1909 are previous champions.</lex>
       <lex comment="good" lid="Id2">AC Cesena's ground is located in Italy and they have 23900 members. They play in the Serie B league of which Carpi FC 1909 are the champions.</lex>
-      <lex comment="good" lid="Id3">A.C. Cesena has 23900 members and its ground is located in Italy. They play in Serie B league where Carpi 1909 are previous champions.</lex>
+      <lex comment="good" lid="Id3" error_1="Carpi F.C. 1909">A.C. Cesena has 23900 members and its ground is located in Italy. They play in Serie B league where Carpi 1909 are previous champions.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -306,7 +306,7 @@
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of AC Chievo Verona which has 39371 members, is "Associazione Calcio ChievoVerona S.r.l." The club play in Verona and were part of the Serie A 2014-15 season.</lex>
-      <lex comment="good" lid="Id2">The full name of A.C. Chievo Verona who have 39371 members, is Associazione Calcio Chievo Verona S.r.l. They play in Verona and were in the 2014-15 Serie A season.</lex>
+      <lex comment="good" lid="Id2" error_1="Associazione Calcio ChievoVerona S.r.l.">The full name of A.C. Chievo Verona who have 39371 members, is Associazione Calcio Chievo Verona S.r.l. They play in Verona and were in the 2014-15 Serie A season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -327,9 +327,9 @@
         <mtriple>A.C._Chievo_Verona | season | 2014</mtriple>
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." and they played in the 2014 season. Their home ground is called Stadio Marc Antonio Bentegodi and it holds 39371 fans.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." and they played in the 2014 season. Their home ground is called Stadio Marc Antonio Bentegodi and it holds 39371 fans.</lex>
       <lex comment="good" lid="Id2">The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and their home ground is Stadio Marc'Antonio Bentegodi. The club has 39371 members and competed in the 2014 season.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
@@ -344,7 +344,7 @@
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio ChievoVerona S.r.l., is the full name of AC Chievo Verona, the home ground of which is Stadio Marc'Antonio Bentegodi. A.C. Chievo Verona has 39371 members, and played the 2014-15 season in Serie A.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.C._Chievo_Verona | manager | Rolando_Maran</otriple>
@@ -358,9 +358,9 @@
         <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
         <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolando Maran (born in Italy) is manager of AC Chievo Verona and has played for Calcio Cantania and Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id1" error_1="Calcio Catania">Rolando Maran (born in Italy) is manager of AC Chievo Verona and has played for Calcio Cantania and Carrarese Calcio.</lex>
       <lex comment="good" lid="Id2">Born in Italy, Rolando Maran is attached to the club Calcio Catania. He also has managed AC Chievo Verona, and plays for Carrarese Calcio.</lex>
-      <lex comment="good" lid="Id3">Rolando Maran (Italian) is a member of the Calcio Cantania. He plays for Carrarese Calcio and is the manager of Calcio ChievoVerona.</lex>
+      <lex comment="good" lid="Id3" error_1="Calcio Catania" error_2="Italy">Rolando Maran (Italian) is a member of the Calcio Cantania. He plays for Carrarese Calcio and is the manager of Calcio ChievoVerona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -375,8 +375,8 @@
         <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
         <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian born Rolando Maran is in Varese Calcio S.S.D. club and also plays for Carrarese Calcio. He has previously managed AC Chievo Verona.</lex>
-      <lex comment="good" lid="Id2">Italian born Rolando Maran now plays at the Carrarese Calcio. He previously managed AC Chievo Verona and used to be at the Varese Calcio SSD.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born Rolando Maran is in Varese Calcio S.S.D. club and also plays for Carrarese Calcio. He has previously managed AC Chievo Verona.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Italian born Rolando Maran now plays at the Carrarese Calcio. He previously managed AC Chievo Verona and used to be at the Varese Calcio SSD.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id24" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -414,7 +414,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
         <mtriple>Italy | leader | Pietro_Grasso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Petro Grasso is the leader of Italy which is home to AC Lumezzane. The country uses the Italian language and has the capital city of Rome.</lex>
+      <lex comment="good" lid="Id1" error_1="Pietro Grasso">Petro Grasso is the leader of Italy which is home to AC Lumezzane. The country uses the Italian language and has the capital city of Rome.</lex>
       <lex comment="good" lid="Id2">A.C. Lumezzane play in Italy where the capital is Rome, the spoken language is Italian and the leader is Pietro Grasso.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id26" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -453,7 +453,7 @@
         <mtriple>Italy | leader | Pietro_Grasso</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pietro Grasso is the leader in Italy where the Italian language is used and the capital city is Rome. AC Lumezzane play in the country.</lex>
-      <lex comment="good" lid="Id2">A.C. Lumezzanne's ground is in Italy where the capital is Rome, the official language is Italian and the leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Lumezzane">A.C. Lumezzanne's ground is in Italy where the capital is Rome, the official language is Italian and the leader is Pietro Grasso.</lex>
       <lex comment="good" lid="Id3">A.C. Lumezzane's ground is in Italy, the capital of which is Rome. Pietro Grasso is a leader of the Italian people, and the national language is Italian.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id28" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -517,7 +517,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Michele Marcolini, who was manager of AC Lumezzane, played football for Torino FC Youths, A.C. Chievo Verona and Atalanta BC.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini is the manager of AC Lumezzane. Previously he played for Atalanta BC and youth football for Torino FC. His own club is AC Chievo Verona.</lex>
-      <lex comment="good" lid="Id3">Michele Marcolini is part of the Atlanta B.C. Club and is affiliated with the youth club Torino F.C. In addition he plays for A.C. Chievo Verona and manages A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id3" error_1="Atalanta B.C.">Michele Marcolini is part of the Atlanta B.C. Club and is affiliated with the youth club Torino F.C. In addition he plays for A.C. Chievo Verona and manages A.C. Lumezzane.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id31" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -532,7 +532,7 @@
         <mtriple>Michele_Marcolini | club | F.C._Bari_1908</mtriple>
         <mtriple>Michele_Marcolini | club | Vicenza_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian born Michele Marcolini manages AC Lumezzane. He also plays for both FC Bari 1908 and VIcenza Calcio.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born Michele Marcolini manages AC Lumezzane. He also plays for both FC Bari 1908 and VIcenza Calcio.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini, who was born in Italy, is the manager at AC Lumezzane. He previously played for Vicenza Calcio and now plays for FC Bari 1908.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini, who was born in Italy, is in the Vicenza Calcio club. He manages the A.C. Lumezzane and plays for F.C. Bari 1908.</lex>
     </entry>
@@ -549,9 +549,9 @@
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
         <mtriple>Michele_Marcolini | club | Atalanta_B.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian born Michele Marcolini has managed AC Lumezzane. He is also part of the Atalanta BC club and owns Torino FC.</lex>
-      <lex comment="good" lid="Id2">Italian born Michele Marcolini is the manager of AC Lumezzane. He also owns Torino FC and has previously played for Atalanta BC.</lex>
-      <lex comment="good" lid="Id3">Italian born Michele Marcolini plays for Torino FC and is part of the Atalanta BC club. He currently manages the AC Lumezzane.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born Michele Marcolini has managed AC Lumezzane. He is also part of the Atalanta BC club and owns Torino FC.</lex>
+      <lex comment="good" lid="Id2" error_1="Italy">Italian born Michele Marcolini is the manager of AC Lumezzane. He also owns Torino FC and has previously played for Atalanta BC.</lex>
+      <lex comment="good" lid="Id3" error_1="Italy">Italian born Michele Marcolini plays for Torino FC and is part of the Atalanta BC club. He currently manages the AC Lumezzane.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id33" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -566,7 +566,7 @@
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
         <mtriple>Michele_Marcolini | club | Vicenza_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italian born Michele Marcolini is the manager of AC Lumezzane. He also played for Vicenza Calcio and owns Torino FC.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born Michele Marcolini is the manager of AC Lumezzane. He also played for Vicenza Calcio and owns Torino FC.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini was born in Italy, he plays for Vicenza Calcio at the Torino F.C. club while managing AC Lumezzane.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini, who was born in Italy, has been manager of AC Lumezzane, owns Torino F.C. and played for Vicenza Calcio.</lex>
     </entry>
@@ -601,7 +601,7 @@
         <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
         <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan. It is located in Metapán, El Salvado, has 10000 members, and its full name is "Asociación Deportiva".</lex>
+      <lex comment="good" lid="Id1" error_1="Metapan, El Salvador">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan. It is located in Metapán, El Salvado, has 10000 members, and its full name is "Asociación Deportiva".</lex>
       <lex comment="good" lid="Id2">A.D. Isidro Metapan's full name is "Asociación Deportiva". It is managed by Jorge Humberto Rodríguez, its ground is located in Metapán, El Salvador and has 10000 members.</lex>
       <lex comment="good" lid="Id3">The full name of A.D. Isidro Metapan is Asociacion Deportiva. Its ground is located in Metapán, El Salvador, it has 10000 members. and its manager is Jorge Humberto Rodríguez.</lex>
     </entry>
@@ -631,7 +631,7 @@
         <mtriple>A.D._Isidro_Metapán | fullname | "Asociación Deportiva"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AD Isidro Metapan play at the Estadio Jorge Calero Suarez and has 10000 members. Their full name is "Asociación Deportiva" and they are managed by Jorge Humberto Rodriguez.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id36" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A.D._Isidro_Metapán | manager | "Jorge Humberto Rodríguez"@en</otriple>
@@ -674,7 +674,7 @@
         <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is the manager of A.D. Isidro Metapan and plays for the El Salvador national football team and Alianza F.C. He is also in C.D. FAS.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for the Alianza F. C. club, C. D. FAS, and the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id2" error_1="Alianza F.C." error_2="C.D. FAS">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for the Alianza F. C. club, C. D. FAS, and the El Salvador national football team.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for the El Salvador national football team and for Alianza F.C. He manages the A.D. Isidro Metapan and is in C.D. FAS.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id38" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -690,7 +690,7 @@
         <mtriple>Jorge_Humberto_Rodríguez | club | FC_Dallas</mtriple>
         <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is the manager of AD Isidro Metapan. He is connected to Allianza FC and the FC Dallas as well as playing for the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Alianza F.C.">Jorge Humberto Rodriguez is the manager of AD Isidro Metapan. He is connected to Allianza FC and the FC Dallas as well as playing for the El Salvador national football team.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez clubs are Alianza F.C. and the FC Dallas club. He also manages AD Isidro Metapan and plays for the El Salvador national football team.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan. He also plays for Alianza F.C., FC Dallas, and the El Salvador national football team.</lex>
     </entry>
@@ -707,9 +707,9 @@
         <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
         <mtriple>Jorge_Humberto_Rodríguez | club | C.D._Águila</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez, who is attached to the club CD Aguila. He is also member of the club FC Dallas, and plays for the El Salvador national football team.</lex>
-      <lex comment="good" lid="Id2">Jorge Humberto Rodriguez is attached to the club CD Aguila and plays for the El Salvador national football team. He is in the FC Dallas Club and is manager of AD Isidro Metapan.</lex>
-      <lex comment="good" lid="Id3">Ex-A D Isidro Metapán manager Jorge Humberto, currently playing for FC Dallas and the El Salvador national football team, is attached to the club CD Aguila.</lex>
+      <lex comment="good" lid="Id1" error_1="C.D. Aguila">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez, who is attached to the club CD Aguila. He is also member of the club FC Dallas, and plays for the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id2" error_1="C.D. Aguila">Jorge Humberto Rodriguez is attached to the club CD Aguila and plays for the El Salvador national football team. He is in the FC Dallas Club and is manager of AD Isidro Metapan.</lex>
+      <lex comment="good" lid="Id3" error_1="C.D. Aguila" error_2="Jorge Humberto Rodriguez">Ex-A D Isidro Metapán manager Jorge Humberto, currently playing for FC Dallas and the El Salvador national football team, is attached to the club CD Aguila.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id40" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -749,7 +749,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, where Athens in the capital and Nikos Voutsis and Prokopis Pavlopoulos are leaders.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece. Greece's capital is Athens and their leaders are Nikos Voutsis and Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id3">A.E. Dimitra Efxeinoupolis is located in Greece where Athens is the capital and both Prokopis Pavlopoulos and Nikos Voutis are leaders.</lex>
+      <lex comment="good" lid="Id3" error_1="Nikos Voutsis">A.E. Dimitra Efxeinoupolis is located in Greece where Athens is the capital and both Prokopis Pavlopoulos and Nikos Voutis are leaders.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -765,7 +765,7 @@
         <mtriple>Greece | language | Greek_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, where they speak Greek. Athens is the capital of Greece, where one of the leaders is Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis club is located in Greece where the capital city is Athens. Prokopis Pavloopoulos is a leader of the country where the Greek language is spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis club is located in Greece where the capital city is Athens. Prokopis Pavloopoulos is a leader of the country where the Greek language is spoken.</lex>
       <lex comment="good" lid="Id3">The Greek language is spoken in Greece where A.E Dimitra Efxeinoupolis is located . The leader of the country, which has the capital city of Athens, is Prokopis Pavlopoulos.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id43" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -783,7 +783,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Nikos Voutsis is the leader of greece where the currency is the Euro and the capital city is Athens. The country is the location of A.E Dimitra Efxeinoupolis.</lex>
       <lex comment="good" lid="Id2">The A.E. Dimitea Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
@@ -843,9 +843,9 @@
         <mtriple>Greece | capital | Athens</mtriple>
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece, the capital of which is Athens. Two of the leaders in that country are, Alexis Tsipras and Prokopis Pavloopoulos.</lex>
+      <lex comment="good" lid="Id1" error_1="Prokopis Pavlopoulos">The A.E Dimitra Efxeinoupolis club is located in Greece, the capital of which is Athens. Two of the leaders in that country are, Alexis Tsipras and Prokopis Pavloopoulos.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, where Athens is the capital. It is also where two of the leaders are, Alexis Tsipras and Prokopis Pavlopoulos.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id47" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
@@ -888,7 +888,7 @@
         <mtriple>Greece | language | Greek_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece where Nikos Voutsis and Prokopis Pavlopoulos are leaders. The language spoken in the country is greek.</lex>
-      <lex comment="good" lid="Id2">The Greek language is spoken in Greece where A.E Dimitra Efxeinoupolis is located and Nikos Voutsis and Prokopis Pavloopoulos are leaders.</lex>
+      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">The Greek language is spoken in Greece where A.E Dimitra Efxeinoupolis is located and Nikos Voutsis and Prokopis Pavloopoulos are leaders.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id49" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -933,7 +933,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis has the full name A.E Dimitra Efxeinoupolis and their ground is in the town of Efxeinoupoli. They played in the 2014–15 A EPSTH. Greece season.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | ground | "Jepson Way,"@en</otriple>
@@ -947,9 +947,9 @@
         <mtriple>A.F.C._Blackpool | numberOfMembers | 1500</mtriple>
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Association Football Club Blackpool, is A.F.C. Blackpool's full name. The club has 1500 members, and Jepson Way is their grounds. In the season 2014-2015 Blackpool played in the North West Counties Football League.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 North West Counties Football League">Association Football Club Blackpool, is A.F.C. Blackpool's full name. The club has 1500 members, and Jepson Way is their grounds. In the season 2014-2015 Blackpool played in the North West Counties Football League.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool played in the 2014-15 North West Counties Football League season and has 1500 members. Their full name is "Association Football Club Blackpool" and their home ground is Jepson Way.</lex>
-      <lex comment="good" lid="Id3">Blackpool played in the North West Counties Football League in the 2014-15 season. Their full name is Association Football Club Blackpool, their home ground is Jepson Way and they have 1500 members.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 North West Counties Football League" error_2="A.F.C. Blackpool">Blackpool played in the North West Counties Football League in the 2014-15 season. Their full name is Association Football Club Blackpool, their home ground is Jepson Way and they have 1500 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id52" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -970,9 +970,9 @@
         <mtriple>A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League</mtriple>
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. Blackpool Mechanics ground holds 1500 fans. The club's full name is Association Football Club Blackpool and in the season 2014-2015 they played in the North West Counties Football League.</lex>
-      <lex comment="good" lid="Id2">AFC Blackpool Mechanics ground has a capacity of 1500. In the season 2014-2015 Blackpool played in the North West Counties Football League and the club's full name is Association Football Club Blackpool.</lex>
-      <lex comment="good" lid="Id3">In the season 2014-2015 AFC Blackpool, who have 1500 members, played in the North West Counties Football League. They have the full name "Association Football Club Blackpool" and their home ground is The Mechanics.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 North West Counties Football League">A.F.C. Blackpool Mechanics ground holds 1500 fans. The club's full name is Association Football Club Blackpool and in the season 2014-2015 they played in the North West Counties Football League.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 North West Counties Football League">AFC Blackpool Mechanics ground has a capacity of 1500. In the season 2014-2015 Blackpool played in the North West Counties Football League and the club's full name is Association Football Club Blackpool.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 North West Counties Football League">In the season 2014-2015 AFC Blackpool, who have 1500 members, played in the North West Counties Football League. They have the full name "Association Football Club Blackpool" and their home ground is The Mechanics.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id53" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1016,7 +1016,7 @@
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Blackpool ground is in Blackpool, and it has 1500 members. It played in the 2014-15 North West Counties Football League season, and has the full name "Association Football Club Blackpool".</lex>
-      <lex comment="good" lid="Id2">In the season 2014-2015 AFC Blackpool, who have 1500 members played in the North West Counties Football League. The full name of the club, who are based at their ground in Blackpool, is "Association Football Club Blackpool".</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 North West Counties Football League">In the season 2014-2015 AFC Blackpool, who have 1500 members played in the North West Counties Football League. The full name of the club, who are based at their ground in Blackpool, is "Association Football Club Blackpool".</lex>
       <lex comment="good" lid="Id3">A.F.C. Blackpool, full name "Association Football Club Blackpool", has 1500 members and a home ground in Blackpool. AFC Blackpool played in the 2014-15 North West Counties Football League season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id55" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1062,7 +1062,7 @@
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The U.K. Labour Party are the leaders of the Blackpool council in Blackpool. It is here that footballer, Stuart Parker, plays for Blackpool F.C. and where the ground of AFC Blackpool is located. Stuart Parker is the manager of A.F.C. Blackpool.</lex>
-      <lex comment="good" lid="Id2">The manager of A.F.C. Blackpool is Stuart Parker (footballer) and he also plays in this team. The leader of Blackpool council is the Labour Party (UK).</lex>
+      <lex comment="good" lid="Id2" error_1="Blackpool F.C.">The manager of A.F.C. Blackpool is Stuart Parker (footballer) and he also plays in this team. The leader of Blackpool council is the Labour Party (UK).</lex>
     </entry>
     <entry category="SportsTeam" eid="Id57" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1078,8 +1078,8 @@
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gordon Marsden, is one of the leaders in Blackpool, which is where, AFC Blackpool have their grounds. The club had footballer, Stuart Parker (who plays for Blackpool F.C.), for a manager.</lex>
-      <lex comment="good" lid="Id2">Stuart Parker is a footballer who has managed, and now plays for, Blackpool FC. The club's ground is in Blackpool which is led by Gordon Marsden.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="A.F.C. Blackpool">Stuart Parker is a footballer who has managed, and now plays for, Blackpool FC. The club's ground is in Blackpool which is led by Gordon Marsden.</lex>
+    </entry>
     <entry category="SportsTeam" eid="Id58" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
@@ -1112,7 +1112,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Footballer Stuart Parker plays for KV Mechelen and is the manager of A.F.C. Blackpool whose ground is in Blackpool, where the leader is the Conservative Party (UK).</lex>
       <lex comment="good" lid="Id2">Blackpool based club AFC Blackpool is managed by Stuart Parker who is part of the KV Mechelen club. The town is led by the Conservative Party UK.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id60" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
@@ -1143,8 +1143,8 @@
         <mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stuart Parker has been the manager of AFC Blackpool, a club based in the city of Blackpool where the council is led by the UK Labour Party. His previous club was Stockport County FC.</lex>
-      <lex comment="good" lid="Id2">Stuart Parker, who once played for Stockport County FC is now the manager of AFC Blackpool. The club has their ground in Blackpool where the council is run by Labour.</lex>
-      </entry>
+      <lex comment="good" lid="Id2" error_1="Labour Party (UK)">Stuart Parker, who once played for Stockport County FC is now the manager of AFC Blackpool. The club has their ground in Blackpool where the council is run by Labour.</lex>
+    </entry>
     <entry category="SportsTeam" eid="Id62" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A.F.C._Fylde | ground | "Kellamergh Park"@en</otriple>
@@ -1194,7 +1194,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dave Challinor is at Colwyn Bay FC and is affiliated with Tranmere Rovers FC. He plays at Stockport County FC and manages AFC Fylde.</lex>
       <lex comment="good" lid="Id2">The manager of AFC Fylde is Dave Challinor who is at Colwyn Bay FC and plays for both Tranmere Rovers and Stockport County FC.</lex>
-      <lex comment="good" lid="Id3">Dave Challinor (player of Colwyn Bay club) plays for Tranmere Rovers F.C. at Stockport County F.C. and also manages A.F.C Fylde.</lex>
+      <lex comment="good" lid="Id3" error_1="Colwyn Bay F.C.">Dave Challinor (player of Colwyn Bay club) plays for Tranmere Rovers F.C. at Stockport County F.C. and also manages A.F.C Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id65" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1209,9 +1209,9 @@
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
         <mtriple>A.F.C._Fylde | ground | "Bryning Lane"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Based at Bryning Lane, the Association Football Club Fylde (A.F.C. Fylde), has 3180 members and has played the 2014-15 season in the Football Conference.</lex>
-      <lex comment="good" lid="Id2">Based at Bryning Lane, the Association Football Club Fylde, or AFC Fylde played the 2014-15 season and has 3180 members.</lex>
-      <lex comment="good" lid="Id3">Association Football Club Fylde (abbreviated to AFC Fylde) has 3180 members, are based at Brynng Lane and played the 2014-15 season in the Football Conference.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Football Conference">Based at Bryning Lane, the Association Football Club Fylde (A.F.C. Fylde), has 3180 members and has played the 2014-15 season in the Football Conference.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Football Conference">Based at Bryning Lane, the Association Football Club Fylde, or AFC Fylde played the 2014-15 season and has 3180 members.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Football Conference" error_2="Bryning Lane">Association Football Club Fylde (abbreviated to AFC Fylde) has 3180 members, are based at Brynng Lane and played the 2014-15 season in the Football Conference.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id66" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1266,7 +1266,7 @@
         <mtriple>A.S._Livorno_Calcio | fullname | "Associazione Sportiva"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio or Associazione Sportiva is based in Livorno, Italy has 19238 members and were in the 2014-15 Serie B season.</lex>
-      <lex comment="good" lid="Id2">A.S. Livorno Calcio, full name Associazione Sportiva Livorno Calcio, is based in Livorno, Italy. They have 19238 members and were in Serie B in the 2014-15 season .</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Serie B">A.S. Livorno Calcio, full name Associazione Sportiva Livorno Calcio, is based in Livorno, Italy. They have 19238 members and were in Serie B in the 2014-15 season .</lex>
     </entry>
     <entry category="SportsTeam" eid="Id69" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1282,7 +1282,7 @@
         <mtriple>A.S._Livorno_Calcio | fullname | "Associazione Sportiva"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.S. Livorno Calcio is Associazione Sportiva and they played in the 2014-15 Serie B season. Their ground is in Livorno and they have 19238 members.</lex>
-      <lex comment="good" lid="Id2">Associazione Sportiva Livorno Calcio (abbreviated to A.S. Livorno Calcio) has 19238 members. Its ground is located in Livorno and they played season 2014-2015 in Serie B.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Serie B">Associazione Sportiva Livorno Calcio (abbreviated to A.S. Livorno Calcio) has 19238 members. Its ground is located in Livorno and they played season 2014-2015 in Serie B.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id70" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1298,7 +1298,7 @@
         <mtriple>A.S._Livorno_Calcio | fullname | "Associazione Sportiva"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Stadio Armando Picchi is the home ground of AS Livorno Calcio who played in the 2014-15 Serie B season. they have 19238 members and the full name of the club is Associazione Sportiva.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id71" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>A.S._Livorno_Calcio | ground | Stadio_Armando_Picchi</otriple>
@@ -1358,7 +1358,7 @@
         <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
         <mtriple>A.S._Roma | season | 2014–15_Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Associazione Sportiva Roma S.p.A (abbreviated to A.S.Roma) has 70634 members, their ground is in Italy and they were in Serie A in 2014-2015.</lex>
+      <lex comment="good" lid="Id1" error_1="Associazione Sportiva Roma S.p.A." error_2="Rome, Italy">Associazione Sportiva Roma S.p.A (abbreviated to A.S.Roma) has 70634 members, their ground is in Italy and they were in Serie A in 2014-2015.</lex>
       <lex comment="good" lid="Id2">Associazione Sportiva Roma S.p.A., or A.S Roma for short, has its ground in Rome, Italy and has 70634 members. A.S. Roma played in Serie A in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id74" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1381,7 +1381,7 @@
         <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Sportiva Roma S.p.A. is the full name of, A.S. Roma, who have their ground in Rome, Italy. They competed in the 2014 season and have 70634 members.</lex>
-      <lex comment="good" lid="Id2">A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A, has 70634 members, competed in the 2014 season and it's grounded in Rome, Italy.</lex>
+      <lex comment="good" lid="Id2" error_1="Associazione Sportiva Roma S.p.A.">A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A, has 70634 members, competed in the 2014 season and it's grounded in Rome, Italy.</lex>
       <lex comment="good" lid="Id3">The full name of A.S. Roma is Associazione Sportiva Roma S.p.A. and their home ground is in Rome, Italy. They have 70634 members and played in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id75" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1404,7 +1404,7 @@
         <mtriple>A.S._Roma | season | 2014–15_Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Roma's full name is Associazione Sportiva Roma S.p.A. and they play at the Stadio Olimpico. The club has 70634 members and played in the Serie A in 2014-15.</lex>
-      <lex comment="good" lid="Id2">Associazione Sportiva Roma S.p.A (abbreviated to A.S.Roma) have 70634 members and there ground is Stadio Olimpico. They played in the Serie A league in 2014-2015.</lex>
+      <lex comment="good" lid="Id2" error_1="Associazione Sportiva Roma S.p.A.">Associazione Sportiva Roma S.p.A (abbreviated to A.S.Roma) have 70634 members and there ground is Stadio Olimpico. They played in the Serie A league in 2014-2015.</lex>
       <lex comment="good" lid="Id3">Associazione Sportiva Roma S.p.A., or A.S Roma for short, has the Stadio Olimpico as its ground and 70634 members. A.S. Roma played in Serie A in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id76" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1421,8 +1421,8 @@
         <mtriple>Paulo_Sousa | club | Inter_Milan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paulo Sousa played for Inter Milan and Maccabi Tel Aviv FC. He is a member of the Portugal national football team and manages ACF Fiorentina.</lex>
-      <lex comment="good" lid="Id2">Paulo Souza is manager of ACF Fiorentina, plays for Maccabi Tel Aviv F.C., InterMilan club and the Portugal National Football Team.</lex>
-      <lex comment="good" lid="Id3">Paulo Souza plays for Inter Milan, Maccabi Tel Aviv F.C. and the Portuguese national football team. In addition, he also manages ACF Fiorentina.</lex>
+      <lex comment="good" lid="Id2" error_1="Paulo Sousa">Paulo Souza is manager of ACF Fiorentina, plays for Maccabi Tel Aviv F.C., InterMilan club and the Portugal National Football Team.</lex>
+      <lex comment="good" lid="Id3" error_1="Paulo Sousa" error_2="Portugal national football team">Paulo Souza plays for Inter Milan, Maccabi Tel Aviv F.C. and the Portuguese national football team. In addition, he also manages ACF Fiorentina.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id77" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1484,7 +1484,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gus Poyet is associated with the Real Zaragoza football club and manages AEK Athens FC. They play in the Superleague Greece alongside Olympiacos FC who are previous champions.</lex>
       <lex comment="good" lid="Id2">Gus Poyet is in the Real Zaragoza club and manages AEK Athens which competes in the Superleague of Greece. Previous winners of the league are Olympiacos FC.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id80" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>AEK_Athens_F.C. | league | Superleague_Greece</otriple>
@@ -1504,7 +1504,7 @@
         <mtriple>AEK_Athens_F.C. | numberOfMembers | 69618</mtriple>
         <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens F.C. were past champions in the Greece Superleague and are currently in the Superleague of Greece. It has 69618 members and its home ground is the Olympic Stadium (Athens).</lex>
+      <lex comment="good" lid="Id1" error_1="Olympiacos F.C.">AEK Athens F.C. were past champions in the Greece Superleague and are currently in the Superleague of Greece. It has 69618 members and its home ground is the Olympic Stadium (Athens).</lex>
       <lex comment="good" lid="Id2">AEK Athens FC home ground is The Olympic Stadium (Athens). The club has 69618 members and competes in the Superleague Greece. Olympiacos FC are previous champions of the league.</lex>
       <lex comment="good" lid="Id3">AEK Athens F.C. have 69618 members, their ground is the Olympic Stadium (Athens) and they play in the Superleague of Greece whose current champions are Olympiacos F.C.</lex>
     </entry>
@@ -1560,9 +1560,9 @@
         <mtriple>AEK_Athens_F.C. | ground | Athens</mtriple>
         <mtriple>AEK_Athens_F.C. | numberOfMembers | 69618</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens F.C. play in the Superleague Greece and they played the 2014-2015 season. Their ground is in Athens, and they have 69618 members.</lex>
-      <lex comment="good" lid="Id2">Part of the Superleague of Greece, AEK Athens FC played the 2014-2015 season, in the Football League, in Greece. AEK Athens F.C. has 69618 members, and their ground is in Athens.</lex>
-      <lex comment="good" lid="Id3">AEK Athens F.C.'s ground is in Athens, they have 69618 members, compete in the Superleague Greece and played the 2014-2015 season in the Football League (Greece).</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Football League (Greece)">AEK Athens F.C. play in the Superleague Greece and they played the 2014-2015 season. Their ground is in Athens, and they have 69618 members.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Football League (Greece)">Part of the Superleague of Greece, AEK Athens FC played the 2014-2015 season, in the Football League, in Greece. AEK Athens F.C. has 69618 members, and their ground is in Athens.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Football League (Greece)">AEK Athens F.C.'s ground is in Athens, they have 69618 members, compete in the Superleague Greece and played the 2014-2015 season in the Football League (Greece).</lex>
     </entry>
     <entry category="SportsTeam" eid="Id84" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1583,8 +1583,8 @@
         <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
         <mtriple>AEK_Athens_F.C. | league | Superleague_Greece</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens F.C. has 69618 members and its home ground is The Olympic Stadium (Athens). They are currently in Superleague of Greece and played the 2014-2015 season in the Football League (Greece).</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="2014-15 Football League (Greece)">AEK Athens F.C. has 69618 members and its home ground is The Olympic Stadium (Athens). They are currently in Superleague of Greece and played the 2014-2015 season in the Football League (Greece).</lex>
+    </entry>
     <entry category="SportsTeam" eid="Id85" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>AFC_Ajax | manager | Frank_de_Boer</otriple>
@@ -1633,7 +1633,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax own and operate Sportpark De Toekomst. Tenants include AFC Ajax (amateurs), Ajax Youth Academy and Jong Ajax.</lex>
       <lex comment="good" lid="Id2">AFC Ajax (amateurs)'s ground, which they operate, is Sportpark De Toekomst, the tenants of which are, Jong Ajax and the Ajax Youth Academy.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id88" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
@@ -1664,7 +1664,7 @@
         <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
         <mtriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of AFC Ajax (amateurs) is Amsterdamsche Football Club Ajax Amateurs and their nickname is Lucky Ajax. They played in the Topklasse in the 2014-2015 season and have 5000 Members.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Topklasse">The full name of AFC Ajax (amateurs) is Amsterdamsche Football Club Ajax Amateurs and their nickname is Lucky Ajax. They played in the Topklasse in the 2014-2015 season and have 5000 Members.</lex>
       <lex comment="good" lid="Id2">The nickname of AFC Ajax (amateurs), or "Amsterdamsche Football Club Ajax Amateurs", is Lucky Ajax. AFC Ajax (amateurs) played in the 2014-15 Topklasse season and have 5000 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id90" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1680,7 +1680,7 @@
         <mtriple>AZAL_Arena | location | Baku</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play out of the AZAL Arena in the Azerbaijan Premier League, of which Qarabag FK are currently champions.</lex>
+      <lex comment="good" lid="Id1" error_1="Baku">AZAL PFK play out of the AZAL Arena in the Azerbaijan Premier League, of which Qarabag FK are currently champions.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id91" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1695,7 +1695,7 @@
         <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena which is located in Shuvulan. They play in the Azerbaijan Premier League, the champions of which are Qarabağ FK.</lex>
+      <lex comment="good" lid="Id1" error_1="Shuvalan">AZAL PFK play their home matches at the AZAL Arena which is located in Shuvulan. They play in the Azerbaijan Premier League, the champions of which are Qarabağ FK.</lex>
       <lex comment="good" lid="Id2">Qarabag FK are the champions of the Azerbaijan Premier League. Also in the league are AZAL PFK who play their home matches at AZAL Arena in Shuvalan.</lex>
       <lex comment="good" lid="Id3">AZAL PFK's ground is AZAL Arena which is located in Shuvalan. They currently play in the Azerbaijan Premier League whose championship football team is Qarabag FK.</lex>
     </entry>
@@ -1713,7 +1713,7 @@
         <mtriple>AZAL_PFK | location | "Shuvalan, Baku, Azerbaijan"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZAL Arena, the ground of AZAL PFK, is located in Shuvalan, Baku, Azerbaijan. AZAL PFK play in the Azerbaijan Premier League, where a championship team called Qarabag FK also play.</lex>
-      <lex comment="good" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK compete in. The ground of which, is located in Shuvalan, Baku, Azerbaijan.</lex>
+      <lex comment="good" lid="Id2" error_1="AZAL Arena">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK compete in. The ground of which, is located in Shuvalan, Baku, Azerbaijan.</lex>
       <lex comment="good" lid="Id3">The champions of the Azerbaijan Premier League is Qarabag FK. AZAL PFK, who also play in the league, have their home ground at the AZAL Arena in Shuvalan, Baku, Azerbaijan.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id93" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -1731,7 +1731,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Qarabag FK, are the champions of the Azerbaijan Premier League. Also to play in that league are AZAL PFK, who are in the 2014 season and have 3500 members .</lex>
       <lex comment="good" lid="Id2">Qarabag FK are champions of the Azerbaijan Premier League. AZAL PFK, who have 3500 members also play in the league and are in season 2014.</lex>
-      <lex comment="good" lid="Id3">AZAL PFK (3500 members) competed in season 2014 and in The Aerbaijan Premier League. Qrabag FK is the champions of Azerbaijan Premier League Os.</lex>
+      <lex comment="good" lid="Id3" error_1="Qarabag FK">AZAL PFK (3500 members) competed in season 2014 and in The Aerbaijan Premier League. Qrabag FK is the champions of Azerbaijan Premier League Os.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id94" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1746,9 +1746,9 @@
         <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Qarabag FK are the champions of the Azerbaijan Premier League. It is in this league, that the 3500 member strong, AZAL PFK competes in and played in, in 2014-15.</lex>
-      <lex comment="good" lid="Id2">AZAL PFK have 3500 members and played in the Azerbaijan Premier League in 2014-15. Previous champions of this league were Qarabag FK.</lex>
-      <lex comment="good" lid="Id3">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK, who have 3500 members also played in 2014-15.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Azerbaijan Premier League">Qarabag FK are the champions of the Azerbaijan Premier League. It is in this league, that the 3500 member strong, AZAL PFK competes in and played in, in 2014-15.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Azerbaijan Premier League">AZAL PFK have 3500 members and played in the Azerbaijan Premier League in 2014-15. Previous champions of this league were Qarabag FK.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Azerbaijan Premier League">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK, who have 3500 members also played in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id95" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1763,9 +1763,9 @@
         <mtriple>John_van_den_Brom | club | De_Graafschap</mtriple>
         <mtriple>AZ_Alkmaar | owner | Robert_Eenhoorn</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom is the manager of AZ Alkmaar, owned by Robert Eehoorn, as well as playing for AFC Ajax and De Graafschap.</lex>
-      <lex comment="good" lid="Id2">AZ Alkmaar is owned by Robert Eenhoorn and managed by John van den Bron who plays for AFC Ajax and De Graafschap.</lex>
-      <lex comment="good" lid="Id3">John van den Brom has managed AZ Alkmaar which is owned by Robert Eehoorn. He also plays for both AFC Ajax and De Graafschap.</lex>
+      <lex comment="good" lid="Id1" error_1="Robert Eenhoorn">John van den Brom is the manager of AZ Alkmaar, owned by Robert Eehoorn, as well as playing for AFC Ajax and De Graafschap.</lex>
+      <lex comment="good" lid="Id2" error_1="John van den Brom">AZ Alkmaar is owned by Robert Eenhoorn and managed by John van den Bron who plays for AFC Ajax and De Graafschap.</lex>
+      <lex comment="good" lid="Id3" error_1="Robert Eenhoorn">John van den Brom has managed AZ Alkmaar which is owned by Robert Eehoorn. He also plays for both AFC Ajax and De Graafschap.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id96" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1781,8 +1781,8 @@
         <mtriple>AZ_Alkmaar | owner | Max_Huiberts</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom is in Vitesse Arnhem and plays for AFC Ajax. He has also been manager for AZ Alkmaar which is owned by Max Huiberts.</lex>
-      <lex comment="good" lid="Id2">John van den Brom plays for Vitesse Arnhem. He also plays and manages AZ Alkmaar which is owned by Max Huiberts.</lex>
-      <lex comment="good" lid="Id3">The manager of AZ Alkmaar, owned by Max Huiberts, is John van den Brom who plays for AFC Ajax and Vitsse Arnhem.</lex>
+      <lex comment="good" lid="Id2" error_1="AFC Ajax">John van den Brom plays for Vitesse Arnhem. He also plays and manages AZ Alkmaar which is owned by Max Huiberts.</lex>
+      <lex comment="good" lid="Id3" error_1="Vitesse Arnhem">The manager of AZ Alkmaar, owned by Max Huiberts, is John van den Brom who plays for AFC Ajax and Vitsse Arnhem.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id97" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1797,8 +1797,8 @@
         <mtriple>John_van_den_Brom | club | Vitesse_Arnhem</mtriple>
         <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom is the manager of AZ Alkmaar. He is in Vitesse Arnhem, and plays for both Istanbulspor AS and AFC Ajax.</lex>
-      <lex comment="good" lid="Id2">Along with managing AZ Alkmaar, John van der Brom is a player in Istanbulspor A.Ş and plays for AFC Ajax and Vitesse Arnhem.</lex>
+      <lex comment="good" lid="Id1" error_1="Istanbulspor A.S.">John van den Brom is the manager of AZ Alkmaar. He is in Vitesse Arnhem, and plays for both Istanbulspor AS and AFC Ajax.</lex>
+      <lex comment="good" lid="Id2" error_1="Istanbulspor A.S." error_2="John van den Brom">Along with managing AZ Alkmaar, John van der Brom is a player in Istanbulspor A.Ş and plays for AFC Ajax and Vitesse Arnhem.</lex>
       <lex comment="good" lid="Id3">the manager of AZ Alkmaar is john van den Brom, who plays for AFC Ajax, Vitesse Arnhem and Istanbulspor A.S.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1815,7 +1815,7 @@
         <mtriple>AZ_Alkmaar | owner | Max_Huiberts</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom, former manager of AZ Alkmaar, now owned by Max Huiberts, plays for AFC Ajax and Istanbulspor A.S.</lex>
-      <lex comment="good" lid="Id2">John van den Brom is the manager of AZ Alkmaar which is owned by Max Huiberts. He also plays for both AFC Ajax and Istanbulspor AS.</lex>
+      <lex comment="good" lid="Id2" error_1="Istanbulspor A.S.">John van den Brom is the manager of AZ Alkmaar which is owned by Max Huiberts. He also plays for both AFC Ajax and Istanbulspor AS.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id99" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1855,7 +1855,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense (which is their full name) competed in the 2015 Campeonato Brasileiro Série C. Their ground is called Estádio Municipal Coaracy da Mata Fonseca and they have 17000 members.</lex>
       <lex comment="good" lid="Id2">The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense". and they have 17000 members. Their ground is the Estadio Municipal Coaracy da Mata Fonseca and the club played in the Campeonato Brasileiro Serie C in 2015.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id101" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
@@ -1870,8 +1870,8 @@
         <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca which is located in Arapiraca. They play in the Campeonato Brasileiro Série C league in which Vila Nova Futebol Clube are the champions.</lex>
-      <lex comment="good" lid="Id2">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca which is located in Arapiraca. They play in the Campeonato Brasileiro Serie C League, in which the current champions are Vila Nove Futebol Clube.</lex>
-      <lex comment="good" lid="Id3">Agremiação Sportiva Arapiraquense play at the Estádio Municipal Coaracy da Mata Fonseca ground which is located in Arapiraca. They currently play in the Campeonato Brasileiro Serie C League whose current champions are The Vila Nova Futebl Clube.</lex>
+      <lex comment="good" lid="Id2" error_1="Vila Nova Futebol Clube">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca which is located in Arapiraca. They play in the Campeonato Brasileiro Serie C League, in which the current champions are Vila Nove Futebol Clube.</lex>
+      <lex comment="good" lid="Id3" error_1="Vila Nova Futebol Clube">Agremiação Sportiva Arapiraquense play at the Estádio Municipal Coaracy da Mata Fonseca ground which is located in Arapiraca. They currently play in the Campeonato Brasileiro Serie C League whose current champions are The Vila Nova Futebl Clube.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id102" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1886,7 +1886,7 @@
         <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
         <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sportiva Arapiraquense, will play this year in the Brazilian Serie C football league Coaracy da Mata Fonseca Stadium, Vila Nova Futebol Clube is the current champion.</lex>
+      <lex comment="good" lid="Id1" error_1="Agremiacao Sportiva Arapiraquense" error_2="Campeonato Brasileiro Serie C" error_3="Estadio Municipal Coaracy da Mata Fonseca">Sportiva Arapiraquense, will play this year in the Brazilian Serie C football league Coaracy da Mata Fonseca Stadium, Vila Nova Futebol Clube is the current champion.</lex>
       <lex comment="good" lid="Id2">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C in which Agremiação Sportiva Arapiraquense also play. Their home ground is the Estadio Municipal Coaracy da Mata Fonseca in Brazil.</lex>
       <lex comment="good" lid="Id3">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca in Brazil. They play in the Campeonato Brasileiro Série C league where Vila Nova Futebol Clube have been champions.</lex>
     </entry>
@@ -2027,7 +2027,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense (which is the club's full name) played in the 2015 season. They have 17000 members and the nickname "Alvinegro".</lex>
       <lex comment="good" lid="Id2">The nickname of Agremiacao Sportiva Arapiraquense (which is the full name) is "Alvinegro". The club played in 2015 and has 17000 members.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id111" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
         <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
@@ -2170,7 +2170,7 @@
         <mtriple>Akron,_Ohio | country | United_States</mtriple>
         <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron Summit Assault's ground is St. Vincent-St. Mary High School located in Akron in Summit County, Ohio.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Akron Summit Assault's ground is St. Vincent-St. Mary High School located in Akron in Summit County, Ohio.</lex>
       <lex comment="good" lid="Id2">St Vincent-St Mary High School, Akron, Summit County, Ohio, United States is the ground of Akron Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id118" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -2331,7 +2331,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A S Gubbio's home ground is in Italy which is led by Pietro Grasso. The language spoken is Italian and the people are known as Italians.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">A S Gubbio's home ground is in Italy which is led by Pietro Grasso. The language spoken is Italian and the people are known as Italians.</lex>
       <lex comment="good" lid="Id2">Italy is where the ground of A.S. Gubbio 1910 is located. The country is inabitated by Italians and Italian is the language spoken. Italy is led by Pietro Grasso.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id127" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2347,7 +2347,7 @@
         <mtriple>Italy | capital | Rome</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AS Gubbio's home ground is in Italy which is led by Pietro Grasso. The inhabitants of the country are known as Italians and their capital city is Rome.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">AS Gubbio's home ground is in Italy which is led by Pietro Grasso. The inhabitants of the country are known as Italians and their capital city is Rome.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, which is inhabited by Italians, its leader is Pietro Grasso and the capital is Rome.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id128" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2380,7 +2380,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pietro Grasso and Sergio Mattarella are leaders of Italy where the Italian language is spoken. The country is the location for the home ground of AS Gubbio 1910.</lex>
       <lex comment="good" lid="Id2">Pietro Grasso and Sergio Mattarella are leaders of Italy where the Italian language is spoken and the ground of AS Gubbio 1910 is located.</lex>
-      </entry>
+    </entry>
     <entry category="SportsTeam" eid="Id130" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
         <otriple>Italy | officialLanguage | Italian_language</otriple>
@@ -2434,7 +2434,7 @@
         <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
         <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Previous Greece Superleague champions AEK Athens FC play their home games at The Olympic Stadium, Athens.</lex>
+      <lex comment="good" lid="Id1" error_1="Olympiacos F.C.">Previous Greece Superleague champions AEK Athens FC play their home games at The Olympic Stadium, Athens.</lex>
       <lex comment="good" lid="Id2">AEK Athens F.C. have there home ground at the Olympic Stadium (Athens) which is located in Athens. They currently play in the Superleague of Greece whose current champions are Olympiacos F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id133" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2551,7 +2551,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger has played for FC Admira Wacker Modling, has managed FC Koln and also worked for SK Vorwärts Steyr and First Vienna FC.</lex>
       <lex comment="good" lid="Id2">Peter Stoger is attached to First Vienna FC and is in SK Vorwarts Steyr club. He plays for FC Admira Wacker Modling and is the manager of 1 FC Koln.</lex>
-      <lex comment="good" lid="Id3">Peter Soger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Koln.</lex>
+      <lex comment="good" lid="Id3" error_1="Peter Stoger">Peter Soger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Koln.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id140" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2600,7 +2600,7 @@
         <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Juventus F.C, former champions of Serie A, compete with A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A., based in Rome, Italy, playing in Serie A.</lex>
+      <lex comment="good" lid="Id1" error_1="Juventus F.C.">Juventus F.C, former champions of Serie A, compete with A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A., based in Rome, Italy, playing in Serie A.</lex>
       <lex comment="good" lid="Id2">Juventus FC are champions of Serie A in which AS Roma also play. Their full name is "Associazione Sportiva Roma S.p.A." and they have a ground in Rome, Italy.</lex>
       <lex comment="good" lid="Id3">Juventus FC have been champions of Serie A in which AS Roma also play. AS Roma's full name is Associazione Sportiva Roma S.p.A. and their ground is in Rome, Italy.</lex>
     </entry>
@@ -2693,7 +2693,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Roma play in Serie A which have Juventus FC as previous champions. AS Roma's ground is in Rome, Italy and they have 70634 members.</lex>
       <lex comment="good" lid="Id2">AS Roma's ground is located in Rome, Italy and they have 70634 members. They play in Serie A which has Juventus FC as former champions.</lex>
-      <lex comment="good" lid="Id3">A.S. Roma of Rome Italy, has 70634 members and plays in Serie A where Juventus F. C. are champions.</lex>
+      <lex comment="good" lid="Id3" error_1="Juventus F.C.">A.S. Roma of Rome Italy, has 70634 members and plays in Serie A where Juventus F. C. are champions.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id148" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2708,7 +2708,7 @@
         <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Juventus FC and AS Roma are former Serie A champions, where Roma has 70634 members, its headquarters is the Olimpico stadium.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Olimpico">Juventus FC and AS Roma are former Serie A champions, where Roma has 70634 members, its headquarters is the Olimpico stadium.</lex>
       <lex comment="good" lid="Id2">AS Roma 's ground is Stadio Olimpico and they have 70634 members. They play in the Serie A league of which Juventus FC have previously been champions.</lex>
       <lex comment="good" lid="Id3">Juventus FC are champions of Serie A in which AS Roma also play. The AS Roma ground is Stadio Olimpico and they have 70634 members.</lex>
     </entry>
@@ -2754,6 +2754,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Luciano Spalletti, who has been associated with Udinese Calcio, manages A.S. Roma who play in Serie A. Juventus FC have been Serie A champions.</lex>
       <lex comment="good" lid="Id2">AS Roma play in the Serie A league where Juventus FC are the champions. Their manager is Luciano Spalletti who has been associated with Udinese Calcio.</lex>
-      </entry>
+    </entry>
   </entries>
 </benchmark>

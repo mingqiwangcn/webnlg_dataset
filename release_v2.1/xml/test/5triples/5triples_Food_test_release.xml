@@ -16,9 +16,9 @@
         <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
         <mtriple>Indonesia | language | Indonesian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arem-arem while more specific to java, is found nationwide in Indonesia, where the language is Indonesian. It is also where the currency is the Indonesian rupiah and Jusuf Kalla is a leader.</lex>
-      <lex comment="good" lid="Id2">Arem-arem is a food usually served in Indonesia which has the rupiah as its currency and the people speak Indonesian. Its leader is Jusuf Kalla and although arem-arem is found nationwide, it's more specific to Java.</lex>
-      <lex comment="good" lid="Id3">Arem-arem is nationwide dish in Indonesia where Indonesian is the spoken language, but originates from the Island of Java. The country's vice-president is Jusuf Kalla and the local currency is Indonesian rupiah.</lex>
+      <lex comment="good" lid="Id1" error_1="Nationwide in Indonesia, but more specific to Java">Arem-arem while more specific to java, is found nationwide in Indonesia, where the language is Indonesian. It is also where the currency is the Indonesian rupiah and Jusuf Kalla is a leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Nationwide in Indonesia, but more specific to Java">Arem-arem is a food usually served in Indonesia which has the rupiah as its currency and the people speak Indonesian. Its leader is Jusuf Kalla and although arem-arem is found nationwide, it's more specific to Java.</lex>
+      <lex comment="good" lid="Id3" error_1="Nationwide in Indonesia, but more specific to Java">Arem-arem is nationwide dish in Indonesia where Indonesian is the spoken language, but originates from the Island of Java. The country's vice-president is Jusuf Kalla and the local currency is Indonesian rupiah.</lex>
     </entry>
     <entry category="Food" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -92,7 +92,7 @@
         <mtriple>Malaysia | ethnicGroup | Malaysian_Indian</mtriple>
         <mtriple>Asam_pedas | region | Malay_Peninsula</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asam pedas is a food from the Malay Peninsula region of Malaysia. Abu Zahar is a leader in Malaysia, where there are ethnic groups called the Malays and the Malaysian Indians.</lex>
+      <lex comment="good" lid="Id1" error_1="Abu Zahar Ujang">Asam pedas is a food from the Malay Peninsula region of Malaysia. Abu Zahar is a leader in Malaysia, where there are ethnic groups called the Malays and the Malaysian Indians.</lex>
       <lex comment="good" lid="Id2">Asam pedas is from the Malay Peninsula region of Malaysia, the country where Abu Zahar Ujang is leader and where Malaysian Malay and Malaysian Indian are ethnic groups.</lex>
       <lex comment="good" lid="Id3">Asam pedas is a food from Malaysia and can be found throughout the Malaysian peninsula region. The country's leader is Abu Zahar Ujang and among its ethnic groups are the Malay and Malaysian Indians.</lex>
     </entry>
@@ -111,9 +111,9 @@
         <mtriple>Bacon_Explosion | region | Kansas_City_metropolitan_area</mtriple>
         <mtriple>Bacon_Explosion | mainIngredients | Sausage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bacon Explosion comes from the Kansas City metropolitan area of the United States. Its main ingredients are bacon and sausage.</lex>
-      <lex comment="good" lid="Id2">The Bacon Explosion comes from Kansas City in the United States. It includes bacon obviously, but also sausage.</lex>
-      <lex comment="good" lid="Id3">Bacon Explosion originates from the Kansas City metropolitan area of the United States. Its main ingredients are bacon and sausage.</lex>
+      <lex comment="good" lid="Id1" error_1="Bacon,sausage">Bacon Explosion comes from the Kansas City metropolitan area of the United States. Its main ingredients are bacon and sausage.</lex>
+      <lex comment="good" lid="Id2" error_1="Bacon,sausage" error_2="Kansas City metropolitan area">The Bacon Explosion comes from Kansas City in the United States. It includes bacon obviously, but also sausage.</lex>
+      <lex comment="good" lid="Id3" error_1="Bacon,sausage">Bacon Explosion originates from the Kansas City metropolitan area of the United States. Its main ingredients are bacon and sausage.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -130,9 +130,9 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bacon Explosion comes from the United States where one of the ethnic groups are White American and Paul Ryan is a leader. English is spoken there and the capital is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States where English is spoken and the capital is Washington D.C. A political leader there is Paul Ryan and White Americans are one ethnic group of the country.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="White Americans">Bacon Explosion comes from the United States where one of the ethnic groups are White American and Paul Ryan is a leader. English is spoken there and the capital is Washington, D.C.</lex>
+      <lex comment="good" lid="Id2" error_1="Washington, D.C.">The Bacon Explosion comes from the United States where English is spoken and the capital is Washington D.C. A political leader there is Paul Ryan and White Americans are one ethnic group of the country.</lex>
+    </entry>
     <entry category="Food" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
         <otriple>Bacon_sandwich | variations | BLT</otriple>
@@ -188,7 +188,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ingredient of bandeja paisa is lemon which belongs to the rutaceae family and falls under the order of rosids. Bandeja paisa is a dish from the Antioquia Department region and the department is located in Colombia.</lex>
       <lex comment="good" lid="Id2">Lemon is a member of the family Rutaceae and is of the order of Rosids. Lemon is an ingredient in the dish Bandeja Paisa, which hails from the Antioquia Department region of Colombia.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Barny_Cakes | country | France</otriple>
@@ -320,7 +320,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Coming from the region Mindanao, in the Philippines, Binignit is a dessert. While sweet potato is one of the ingredients in it, the main ingredient is banana.</lex>
       <lex comment="good" lid="Id2">Some of the ingredients found in the dessert Binignit are banana and sweet potato. The dish comes from Mindanao and is found in the Philippines.</lex>
-      <lex comment="good" lid="Id3">Sweet potato, one of the ingredients in Binignit, is also paired with banana, to make a dessert from the Mindanao region in the Phillippines.</lex>
+      <lex comment="good" lid="Id3" error_1="Philippines">Sweet potato, one of the ingredients in Binignit, is also paired with banana, to make a dessert from the Mindanao region in the Phillippines.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -356,7 +356,7 @@
         <mtriple>Bionico | ingredient | Raisin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a dessert dish from the Jalisco region of Mexico and contains the ingredients chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
-      <lex comment="good" lid="Id2">Bionico is a dessert that contains the following: chopped fruit, condensed milk, granola, raisins and shredded coconut. It is found in the Jalisco region of Mexico.</lex>
+      <lex comment="good" lid="Id2" error_1="Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins">Bionico is a dessert that contains the following: chopped fruit, condensed milk, granola, raisins and shredded coconut. It is found in the Jalisco region of Mexico.</lex>
     </entry>
     <entry category="Food" eid="Id19" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -430,7 +430,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amatriciana sauce comes from Italy, where Italians come from and Rome is the capital city. Sergio Mattarella and Laura Boldrini are leaders in Italy.</lex>
       <lex comment="good" lid="Id2">Amatriciana is a popular sauce from Italy where the capital is Rome and the population are known as Italians. Leaders of the country include Sergio Mattarella and Laura Boldrini.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Italy | leaderName | Pietro_Grasso</otriple>
@@ -466,7 +466,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tony Tan is a leader in Singapore where standard Chinese is spoken and where Ayam penyet is from. This dish is also from Java, where one ethnic group is the Baduy.</lex>
       <lex comment="good" lid="Id2">The Baduy is an ethnic group in Java. Ayam penyet is from the Singapore region and Java. The leader of Singapore is Tony Tan and the language there is Standard Chinese.</lex>
-      </entry>
+    </entry>
     <entry category="Food" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
         <otriple>Java | ethnicGroup | Javanese_people</otriple>
@@ -542,5 +542,5 @@
       <lex comment="good" lid="Id2">The dish ajoblanco originates from Spain and more specifically Andalusia where Susana Diaz is the leader. In Spain, the language spoken is Spanish and an ethnic group are the Spaniards.</lex>
       <lex comment="good" lid="Id3">Spaniards, the ethnic group of Spain, speak Spanish. Ajoblanco originates the Andalusia region of Spain. Susana Diaz is a leader of Andalusia.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

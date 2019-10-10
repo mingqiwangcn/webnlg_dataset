@@ -54,7 +54,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Lumezzane has 4150 members and is in the Lega Pro/A league where they played in the 2014 season.</lex>
       <lex comment="good" lid="Id2">I am interested in the 2014 A.C. Lumezzane season. It plays in Lega Pro/A. and has 4150 members.</lex>
-      <lex comment="good" lid="Id3">A.C Lumezzane, with 4150 members, play in the Lega Pro/A, participating in the 2014 season.</lex>
+      <lex comment="good" lid="Id3" error_1="A.C. Lumezzane">A.C Lumezzane, with 4150 members, play in the Lega Pro/A, participating in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -93,8 +93,8 @@
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece, where there are leaders called Nikos Voutsis and Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id2">There are two prominent leaders in Greece: Nikos Voutsis and Prokopis Pavlopoulos as well the A.E. Dimitra Efxeinoupolis is located there.</lex>
-      <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis is located in Greece, the leader of the country is Nikos Voutsis and/or Prokopis Pavloopoulos.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">There are two prominent leaders in Greece: Nikos Voutsis and Prokopis Pavlopoulos as well the A.E. Dimitra Efxeinoupolis is located there.</lex>
+      <lex comment="good" lid="Id3" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis is located in Greece, the leader of the country is Nikos Voutsis and/or Prokopis Pavloopoulos.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -107,7 +107,7 @@
         <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
         <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The manager of A.F.C. Blackpool is Stuart Parker who is with Drogheda United F.C and plays for Runcorn F.C. Halton.</lex>
+      <lex comment="good" lid="Id1" error_1="Drogheda United F.C.">The manager of A.F.C. Blackpool is Stuart Parker who is with Drogheda United F.C and plays for Runcorn F.C. Halton.</lex>
       <lex comment="good" lid="Id2">Footballer Stuart Parker, the manager of AFC Blackpool, was at Drogheda United FC and plays for Runcorn F.C. Halton.</lex>
       <lex comment="good" lid="Id3">Stuart Parker is a footballer with the Drogheda United F.C., also plays for Runcorn F.C. Halton and has managed AFC Blackpool.</lex>
     </entry>
@@ -137,7 +137,7 @@
         <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
         <mtriple>Stuart_Parker_(footballer) | club | Irlam_Town_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Stuart Parker is a member of the Iriam Town F.C. as well as the manager of A.F.C. Blackpool and has also represented the KV Mechelen club.</lex>
+      <lex comment="good" lid="Id1" error_1="Irlam Town F.C.">Stuart Parker is a member of the Iriam Town F.C. as well as the manager of A.F.C. Blackpool and has also represented the KV Mechelen club.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool have had Stuart Parker as their manager. He has represented the club KV Mechelen and is a member of the Irlam Town F.C.</lex>
       <lex comment="good" lid="Id3">AFC Blackpool have had Stuart Parker as their manager. He is attached to Irlam Town Football Club and is part of the KV Mechelen club.</lex>
     </entry>
@@ -153,7 +153,7 @@
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde has the full name "Association Football Club Fylde," they have 3180 members and their ground is located in Warton, Fylde.</lex>
-      <lex comment="good" lid="Id2">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is Warton Fylde.</lex>
+      <lex comment="good" lid="Id2" error_1="A.F.C. Fylde">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is Warton Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -187,7 +187,7 @@
         <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The "Associazione Sportiva Roma S.p.A." is the non-abbreviated name of A.S. Roma which has 70634 members and a home ground in Rome, Italy.</lex>
-      <lex comment="good" lid="Id2">A.S.Roma have 70634 members, play their home games in Rome and their full title is Associazione Roma S.p.A.</lex>
+      <lex comment="good" lid="Id2" error_1="Associazione Sportiva Roma S.p.A." error_2="Rome, Italy">A.S.Roma have 70634 members, play their home games in Rome and their full title is Associazione Roma S.p.A.</lex>
       <lex comment="good" lid="Id3">A.S. Roma, or Associazione Sportiva Roma S.p.A., has 70634 members and its ground is in Rome, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -320,9 +320,9 @@
         <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
         <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League, of which K-W United FC have been champions.</lex>
+      <lex comment="good" lid="Id1" error_1="St. Vincent-St. Mary High School">St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League, of which K-W United FC have been champions.</lex>
       <lex comment="good" lid="Id2">Akron Summit Assault who play in the Premier Development League, won by K-W United FC, have their home ground at St. Vincent-St. Mary High School.</lex>
-      <lex comment="good" lid="Id3">St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League which K-W United FC have been champions of.</lex>
+      <lex comment="good" lid="Id3" error_1="St. Vincent-St. Mary High School">St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League which K-W United FC have been champions of.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -350,7 +350,7 @@
         <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is a leader of the Italian people.</lex>
+      <lex comment="good" lid="Id1" error_1="Italians">The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is a leader of the Italian people.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy which is led by Sergio Mattarella and inhabited by Italians.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, country of Italians where the leader is Sergio Mattarella.</lex>
     </entry>
@@ -369,5 +369,5 @@
       <lex comment="good" lid="Id2">Home ground of AEK Athens FC, the Olympic Stadium is located in Athens, whose mayor is Giorgos Kaminis.</lex>
       <lex comment="good" lid="Id3">The Olympic Stadium in Athens is the home ground of AEK Athens FC. The mayor of Athens is Giorgos Kaminis.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

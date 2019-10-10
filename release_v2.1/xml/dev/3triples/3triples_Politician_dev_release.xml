@@ -34,7 +34,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ab Klink was born in the Netherlands, belongs to the Christian Democratic Appeal party and graduated from Erasmus University in Rotterdam.</lex>
       <lex comment="good" lid="Id2">Born in the Netherlands, Ab Klink attended Erasmus University Rotterdam and belongs to the Christian Democratic Appeal party.</lex>
-      </entry>
+    </entry>
     <entry category="Politician" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Abdul_Taib_Mahmud | residence | Sarawak</otriple>
@@ -62,7 +62,7 @@
         <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Miri, Malaysia, and living in, Sarawak, Abdul Taib Mahmud, is a member of Barisan Ra'ayat Jati Sarawak party.</lex>
-      <lex comment="good" lid="Id2">Born in Miri, in Malayasia, Abdul Taib Mahmud, resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
+      <lex comment="good" lid="Id2" error_1="Miri, Malaysia">Born in Miri, in Malayasia, Abdul Taib Mahmud, resides in Sarawak and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, a member of the Barisan Ra'ayat Jati Sarawak party, was born in Miri, Malaysia and lives in Sarawak.</lex>
     </entry>
     <entry category="Politician" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -92,7 +92,7 @@
         <mtriple>Mike_Akhigbe | predecessor | Oladipo_Diya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdulsalami Abubakar served while Mike Akhigbe, who was preceded by Oladipo Diya, was Vice President. He was succeeded by Olusegun Obasanjo.</lex>
-      <lex comment="good" lid="Id2">Abdulsalami Abubakar's successor was Olusegun Obasanjo who was the predecessor of Mike Akhigbe. Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President.</lex>
+      <lex comment="good" lid="Id2" error_1="Oladipo Diya">Abdulsalami Abubakar's successor was Olusegun Obasanjo who was the predecessor of Mike Akhigbe. Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President.</lex>
       <lex comment="good" lid="Id3">Olusegun Obasanjo succeeded Abdulsalami Abubakar, who was in office while Mike Akhigbe was the Vice President. Oladipo Diya was the predecessor of Mike Akhigbe.</lex>
     </entry>
     <entry category="Politician" eid="Id7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -107,8 +107,8 @@
         <mtriple>Olusegun_Obasanjo | inOfficeWhileVicePresident | Atiku_Abubakar</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdulsalami Abubakar, who served in the Nigerian Air Force, was succeeded by Olusegun Obasanjo, who was in office at the same time that Atiku Abubakar was Vice President.</lex>
-      <lex comment="good" lid="Id2">Nigerian Air Force member Abdulsalami Akubar was succeeded by Olusegun Obasanjo who was in office whilst Atiku Akubakar was Vice President.</lex>
-      <lex comment="good" lid="Id3">Abdulsalami Abubakar served in the Nigerian Air Force. He was Vice-President when Olusegun Obasanjo was in office. Mr. Obasanjo succeeded Abdulsalami Abubakar.</lex>
+      <lex comment="good" lid="Id2" error_1="Abdulsalami Abubakar" error_2="Atiku Abubakar">Nigerian Air Force member Abdulsalami Akubar was succeeded by Olusegun Obasanjo who was in office whilst Atiku Akubakar was Vice President.</lex>
+      <lex comment="good" lid="Id3" error_1="Atiku Abubakar">Abdulsalami Abubakar served in the Nigerian Air Force. He was Vice-President when Olusegun Obasanjo was in office. Mr. Obasanjo succeeded Abdulsalami Abubakar.</lex>
     </entry>
     <entry category="Politician" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -128,7 +128,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero was born in Galicia, Spain and worked as Minister of Transport.</lex>
       <lex comment="good" lid="Id2">Abel Caballero, was born in Galicia, Spain, and worked as Minister of Transport.</lex>
-      <lex comment="good" lid="Id3">Spanish born, Abel Caballero, while in office, was the Minister of Transport.</lex>
+      <lex comment="good" lid="Id3" error_1="Galicia (Spain)" error_2="Spain">Spanish born, Abel Caballero, while in office, was the Minister of Transport.</lex>
     </entry>
     <entry category="Politician" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -191,7 +191,7 @@
         <mtriple>Adam_Holloway | birthPlace | Kent</mtriple>
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Holloway, a member of the UK Convservative Party, was born in Kent and graduated from Magdalene College, Cambridge.</lex>
+      <lex comment="good" lid="Id1" error_1="Conservative Party (UK)">Adam Holloway, a member of the UK Convservative Party, was born in Kent and graduated from Magdalene College, Cambridge.</lex>
       <lex comment="good" lid="Id2">Kent born Adam Holloway, who studied at Magdalene College Cambridge, is a member of the UK Conservative Party.</lex>
       <lex comment="good" lid="Id3">Adam Holloway was born in Kent and his alma mater is Magdalene College, Cambridge. He is a member of the Conservative Party in the UK.</lex>
     </entry>
@@ -221,9 +221,9 @@
         <mtriple>Adam_Koc | birthPlace | Congress_Poland</mtriple>
         <mtriple>Polish–Soviet_War | commander | Leon_Trotsky</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adam Koc, who was born in Congress in Poland, fought in the Polish Soviet War in which Leon Trotsky was a commander.</lex>
-      <lex comment="good" lid="Id2">Leon Trotsky was a commander in the Polish Soviet war in which Adam Koc was also involved. Koc was born in Congress, Poland.</lex>
-      </entry>
+      <lex comment="good" lid="Id1" error_1="Polish-Soviet War">Adam Koc, who was born in Congress in Poland, fought in the Polish Soviet War in which Leon Trotsky was a commander.</lex>
+      <lex comment="good" lid="Id2" error_1="Polish-Soviet War">Leon Trotsky was a commander in the Polish Soviet war in which Adam Koc was also involved. Koc was born in Congress, Poland.</lex>
+    </entry>
     <entry category="Politician" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
         <otriple>Adonis_Georgiadis | office | "Minister for Health"</otriple>
@@ -307,7 +307,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave, who was involved in the Battle of France, was awarded the Order of the British Empire and ended his career on 30th March 1979.</lex>
       <lex comment="good" lid="Id2">Airey Neave, who ended his career on 30 March 1979 participated in the Battle of France and was awarded the Order of the British Empire.</lex>
-      <lex comment="good" lid="Id3">Airey Neave OBE, fought in the Battle of France and ended his career on 30th March 1979.</lex>
+      <lex comment="good" lid="Id3" error_1="Order of the British Empire">Airey Neave OBE, fought in the Battle of France and ended his career on 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -336,7 +336,7 @@
         <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave fought in World War II and was awarded the Military Cross before ending his career on 30 March 1979.</lex>
-      <lex comment="good" lid="Id2">Airey Nerve served in World Ward II and retired on 30th Match 1979. He was awarded the Military Cross.</lex>
+      <lex comment="good" lid="Id2" error_1="Airey Neave">Airey Nerve served in World Ward II and retired on 30th Match 1979. He was awarded the Military Cross.</lex>
       <lex comment="good" lid="Id3">Airey Neave was awarded the Military Cross whilst serving in world war 2, he retired on 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -351,8 +351,8 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, United States, and died in New Mexico Territory.</lex>
-      <lex comment="good" lid="Id2">Born in Staten Island, New York, Albert Jennings Fountain died in the New Mexico Territory.</lex>
-      <lex comment="good" lid="Id3">Albert Jennings Fountain's place of death was in the New Mexico Territory, but he was born in Staten Island, New York.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">Born in Staten Island, New York, Albert Jennings Fountain died in the New Mexico Territory.</lex>
+      <lex comment="good" lid="Id3" error_1="United States">Albert Jennings Fountain's place of death was in the New Mexico Territory, but he was born in Staten Island, New York.</lex>
     </entry>
     <entry category="Politician" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -386,7 +386,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Imst, in the County of Tyrol, was the birthplace of Alfons Gorbach, who died in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in lmst, County of Tyrol and died in Graz.</lex>
+      <lex comment="good" lid="Id2" error_1="Imst">Alfons Gorbach was born in lmst, County of Tyrol and died in Graz.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in the state of Tyrol and he passed away in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -407,7 +407,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allan Shivers, who worked as a member of the Texas State Senate from District 4 (Port Arthur), served in the Democratic Party in the US, where he was succeeded by Price Daniel.</lex>
       <lex comment="good" lid="Id2">Allan Shivers, a member of the Democratic Party in the United States, worked as a member of the Texas State Senate from District 4 (Port Arthur) and was succeeded by Price Daniel.</lex>
-      <lex comment="good" lid="Id3">Democratic, Texas State Senate District 4 for Port Arthur member Allan Shivers was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id3" error_1="Democratic Party (United States)" error_2="Member of the Texas State Senate from District 4 (Port Arthur)">Democratic, Texas State Senate District 4 for Port Arthur member Allan Shivers was succeeded by Price Daniel.</lex>
     </entry>
     <entry category="Politician" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -501,8 +501,8 @@
         <mtriple>American_Civil_War | commander | Robert_E._Lee</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Robert E Lee was a commander in the American Civil War when the Battle of Cold Harbor took place. Aaron S Daggett fought in this battle.</lex>
-      <lex comment="good" lid="Id2">Aaron S. Daggett battled in the Battle of Cold Harbour which took place during the American Civil War. Robert E. Lee was a commander in the American Civil War.</lex>
-      <lex comment="good" lid="Id3">Aaron S. Daggett fought in the American Civil War, Battle of Cold Harbour. Robert E Lee was a Civil War commander.</lex>
+      <lex comment="good" lid="Id2" error_1="Battle of Cold Harbor">Aaron S. Daggett battled in the Battle of Cold Harbour which took place during the American Civil War. Robert E. Lee was a commander in the American Civil War.</lex>
+      <lex comment="good" lid="Id3" error_1="Battle of Cold Harbor">Aaron S. Daggett fought in the American Civil War, Battle of Cold Harbour. Robert E Lee was a Civil War commander.</lex>
     </entry>
     <entry category="Politician" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -518,5 +518,5 @@
       <lex comment="good" lid="Id1">Adam Koc is from Poland, where Polish is spoken and where Kashubians are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The Polish language is used in Poland, where Adam koc was from. Poland has an ethnic group called Kashubians.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>

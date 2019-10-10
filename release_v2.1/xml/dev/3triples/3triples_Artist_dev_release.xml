@@ -202,8 +202,8 @@
         <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
         <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ahmet Ertegun performs blues music and is from Washington D.C., United States.</lex>
-      <lex comment="good" lid="Id2">Ahmet Ertegun, who is from Washington D.C. in the United States, plays the blues.</lex>
+      <lex comment="good" lid="Id1" error_1="Washington, D.C.">Ahmet Ertegun performs blues music and is from Washington D.C., United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Ahmet Ertegun, who is from Washington D.C. in the United States, plays the blues.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -451,7 +451,7 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anders Osborne has worked with Tab Benoit and is associated with the Voice of the Wetland All-Stars and Billy Iuso.</lex>
+      <lex comment="good" lid="Id1" error_1="Voice of the Wetlands All-Stars">Anders Osborne has worked with Tab Benoit and is associated with the Voice of the Wetland All-Stars and Billy Iuso.</lex>
       <lex comment="good" lid="Id2">Anders Osborne is associated with the musical artist Billy Iuso, with the band Voice of the Wetlands All-Stars and with Tab Benoit.</lex>
       <lex comment="good" lid="Id3">Associated with Tab Benoit, Anders Osborne is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars.</lex>
     </entry>
@@ -537,7 +537,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with the musicians Jwaydan Moyine and Armin van Buuren (who plays House music).</lex>
       <lex comment="good" lid="Id2">Andrew Rayel is associated with the musician Jwaydan Moyine and house musician, Armin van Buuren.</lex>
-      <lex comment="good" lid="Id3">Armin van Buuren performs house music and is associated with the musical artist Armin van Buuren and the musician Jwaydan Moyine.</lex>
+      <lex comment="good" lid="Id3" error_1="Andrew Rayel">Armin van Buuren performs house music and is associated with the musical artist Armin van Buuren and the musician Jwaydan Moyine.</lex>
     </entry>
-    </entries>
+  </entries>
 </benchmark>
