@@ -202,7 +202,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="09/27 'Buitenveldertbaan'">Serving the city of Amsterdam, Amsterdam Airport Schiphol is -3.3528 metres above sea level. It has a runway named 09/27 Buitenveldertbaan and a runway length of 2014.0.</lex>
-      <lex comment="good" lid="Id2" error_1="09/27 'Buitenveldertbaan'">Amsterdam AIrport, Schiphol serves the city of Amsterdam and is -3.3528 from sea level. The runway name is 09/27 Buitenvelderbaan and is 2014.0 in length.</lex>
+      <lex comment="good" lid="Id2" error_1="09/27 'Buitenveldertbaan'">Amsterdam AIrport, Schiphol serves the city of Amsterdam and is -3.3528 from sea level. The runway name is 09/27 Buitenveldertbaan and is 2014.0 in length.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -225,7 +225,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="18L/36R 'Aalsmeerbaan'">The city of Amsterdam is served by Amsterdam Schiphol Airport. This airport has an elevation of -3.3528 from sea level and the runway name 18L/36R 'Aalsmeerbaan. It also has the runway length of 2014.0 metres.</lex>
       <lex comment="good" lid="Id2" error_1="18L/36R 'Aalsmeerbaan'">Amsterdam Airport Schiphol is -3.3528 above sea level, has a runway name 18L/36R'Aalsmeerbaan which is 2014.0 in length and serves the city of Amsterdam.</lex>
-      <lex comment="good" lid="Id3" error_1="18L/36R 'Aalsmeerbaan'">Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 above sea level and has a runway length of 2014.0 with the name of 18L/36R.</lex>
+      <lex comment="good" lid="Id3" error_1="18L/36R 'Aalsmeerbaan'">Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 above sea level and has a runway length of 2014.0 with the name of 18L/36R 'Aalsmeerbaan'.</lex>
     </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -409,8 +409,8 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
         <mtriple>Atlantic_City_International_Airport | runwayName | "4/22"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Operated by the Port Authority of New York and New Jersey, Atlantic City International Airport is 23 metres above sea level. it has the runway name 4/22 and the runway length, 1,873.</lex>
-      <lex comment="good" lid="Id2" error_1="1873.0">The Atlantic City International Airport (runway name 4/22), is run by the Port Authority of New York and New Jersey, and is located 23.0 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">Operated by the Port Authority of New York and New Jersey, Atlantic City International Airport is 23 metres above sea level. It has the runway name 4/22 and the runway length, 1,873.</lex>
+      <lex comment="good" lid="Id2" error_1="1873.0">The Atlantic City International Airport (with the runway of 1873 metres named "4/22") is run by the Port Authority of New York and New Jersey, and is located 23.0 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23 metres above sea level. The runway name is 4/22 and it has a length of 1873.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -496,7 +496,7 @@
         <mtriple>Iraq | language | Arabic</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Iraq is Haider al-Abadi and they speak Arabic. Fallujah which is located in Iraq is served by the Al-Taqaddum air base.</lex>
-      <lex comment="good" lid="Id2" error_1="Al-Taqaddum Air Base" error_2="Haider al-Abadi">Fallujah is served by the Al Taqaddum air base and is located in Iraq which is led by Haider Al Abadi and the Arabic language is spoken and.</lex>
+      <lex comment="good" lid="Id2" error_1="Al-Taqaddum Air Base" error_2="Haider al-Abadi">Fallujah is served by the Al Taqaddum air base and is located in Iraq which is led by Haider Al Abadi and the Arabic language is spoken there.</lex>
       <lex comment="good" lid="Id3" error_1="Al-Taqaddum Air Base">The Al Taqaddum Air Base serves the city of Fallujah, Iraq. Haider Al-Abadi is a leader in Iraq whose language is Arabic.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
