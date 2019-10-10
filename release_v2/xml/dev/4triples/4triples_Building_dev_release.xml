@@ -78,7 +78,7 @@
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction beginning in January 2014, Postmodern art 250 Delaware Avenue has 12 floors with a total area of 30843.8 square meters.</lex>
-      <lex comment="good" lid="Id2">Construction of the 12 floor Postmodern style building, 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
+      <lex comment="good" lid="Id2">Construction of the 12 floor Postmodern style building , 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
       <lex comment="good" lid="Id3">First begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -231,7 +231,7 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction of Adisham Hall in Sri Lanka began in 1927 and ended in 1931. It was built in the Tudor Revival architectural style.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall, Sri Lanka, was started in 1927 and completed in 1931. It has the Tudor Revival style.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall , Sri Lanka, was started in 1927 and completed in 1931. It has the Tudor Revival style.</lex>
       <lex comment="good" lid="Id3">The architectural styled "Tudor Revival" Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
@@ -287,7 +287,7 @@
         <mtriple>Mason_School_of_Business | country | United_States</mtriple>
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Situated in Virginia, United States, Alan B. Miller Hall was completed on 1st June 2009. The current tenants are the Mason School of Business.</lex>
+      <lex comment="good" lid="Id1">Situated in Virginia, United States,, Alan B. Miller Hall was completed on 1st June 2009. The current tenants are the Mason School of Business.</lex>
       <lex comment="good" lid="Id2">Located in Virginia, United States and with the current tenants of the Mason School of Business, the Alan B. Miller Hall was completed in June 1st, 2009.</lex>
       </entry>
     <entry category="Building" eid="Id16" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -377,7 +377,7 @@
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
         <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital is located in the Eastern Province of Sri Lanka, where the currency is the Sri Lankan rupee. One of the leaders of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id1">Ampara Hospital is located in the Eastern Province of Sri Lanka, where the currency is the Ski Lankan rupee. One of the leaders of Sri Lanka is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital is located in Eastern Province, Sri Lanka. The currency of Sri Lanka is the Sri Lankan rupee and the leader of the country is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and its currency is the Sri Lankan rupee.</lex>
     </entry>
@@ -467,9 +467,9 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Malatu Teshome.</lex>
       <lex comment="good" lid="Id2">Mulatu Teshome is a leader in Ethiopia, a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id3">Mulata Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
+      <lex comment="good" lid="Id3">Mulata Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

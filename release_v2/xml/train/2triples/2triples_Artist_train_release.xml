@@ -266,7 +266,7 @@
         <mtriple>Aaron_Deer | origin | United_States</mtriple>
         <mtriple>Aaron_Deer | origin | Indianapolis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Deer was born in the Indianapolis, United States.</lex>
+      <lex comment="good" lid="Id1">Aaron Deer was born in the Indianapolis,United States.</lex>
       <lex comment="good" lid="Id2">Aaron Deer is an American from Indianapolis.</lex>
       <lex comment="good" lid="Id3">Aaron Deer is American from Indianapolis.</lex>
     </entry>
@@ -279,7 +279,7 @@
         <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Greymachine</mtriple>
         <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Isis_(band)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Turner, formerly of the Greymachine band, plays for Isis.</lex>
+      <lex comment="good" lid="Id1">Aaron Turner, formerly o the Greymachine band, plays for Isis.</lex>
       <lex comment="good" lid="Id2">Aaron Turner is an artist for the band Isis and is associated with the group Greymachine.</lex>
       <lex comment="good" lid="Id3">Aaron Turner is associated with the group Greymachine and the band Isis.</lex>
     </entry>
@@ -345,7 +345,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner is a musician in the Lotus Eaters band and he played for Old Man Gloom.</lex>
       <lex comment="good" lid="Id2">Aaron Turner is a member of the Lotus Eaters Band who once played for Old Man Gloom.</lex>
-      <lex comment="good" lid="Id3">Aaron Turner, formerly Old Man Gloom, plays with the Lotus Eaters.</lex>
+      <lex comment="good" lid="Id3">Aaron Turner , formerly Old Man Gloom, plays with the Lotus Eaters.</lex>
     </entry>
     <entry category="Artist" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -895,7 +895,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agustin Barboza was born in Asuncion in Paraguay.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza was born in Asuncion, Paraguay.</lex>
-      <lex comment="good" lid="Id3">The birth place of Agustin Barboza is Asuncion, Paraguay.</lex>
+      <lex comment="good" lid="Id3">The birth place of Agustin Barboza is Asuncion,Paraguay.</lex>
     </entry>
     <entry category="Artist" eid="Id63" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1095,7 +1095,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmet Ertegun's music genre is rock and roll, which came from the blues.</lex>
       <lex comment="good" lid="Id2">Ahmet Ertegun plays rock and roll music, which originated from blues music.</lex>
-      <lex comment="good" lid="Id3">Ahmet Ertegun plays rock and roll music, the stylistic origins of which come from Blues.</lex>
+      <lex comment="good" lid="Id3">Ahmet Ertegun plays rock and roll music, the stylistic origins of which , come from Blues.</lex>
     </entry>
     <entry category="Artist" eid="Id77" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1342,7 +1342,7 @@
         <mtriple>Al_Anderson_(NRBQ band) | instrument | Singing</mtriple>
         <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson from the band, NRBQ, is a singer whose genre is rock music.</lex>
+      <lex comment="good" lid="Id1">Al Anderson from the band, NRBQ, is a singer who's genre is rock music.</lex>
       <lex comment="good" lid="Id2">Al Anderson is a singer for the band NRBQ and their genre is Rock music.</lex>
       <lex comment="good" lid="Id3">NRBQ singer Al Anderson plays music in the rock genre.</lex>
     </entry>
@@ -1643,7 +1643,7 @@
         <mtriple>Aleksandra_Kovač | activeYearsStartYear | 1990</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac became active in 1990 and uses the musical genre, rhythm and blues.</lex>
-      <lex comment="good" lid="Id2">Aleksandra Kovac, a rhythm and blues artist, started playing in 1990.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac , a rhythm and blues artist, started playing in 1990.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovač began her musical career in 1990 and her genre is rhythm and blues.</lex>
     </entry>
     <entry category="Artist" eid="Id113" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2126,7 +2126,7 @@
         <mtriple>Alison_O'Donnell | genre | Folk_music</mtriple>
         <mtriple>Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alison O'Donnell is a musician who uses her voice, bodhran, percussion and autoharp, and her genre is folk music.</lex>
+      <lex comment="good" lid="Id1">Alison O'Donnell is a musician who uses her voice,bodhran,percussion and autoharp, and her genre is folk music.</lex>
       <lex comment="good" lid="Id2">Folk music is the genre of Alison O'Donnell, who is a singer and also plays the bodhran, percussion and autoharp.</lex>
       <lex comment="good" lid="Id3">Folk musician Alison O'Donnell performs using her voice, a bodrhan, percussion and autoharp.</lex>
     </entry>
@@ -3027,7 +3027,7 @@
         <mtriple>Funk | musicFusionGenre | Afrobeat</mtriple>
         <mtriple>Aleksandra_Kovač | genre | Funk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Afrobeat is a fusion of funk music which is the genre of Aleksandra Kovac.</lex>
+      <lex comment="good" lid="Id1">Afrobeat is a fusion of funk music which is the genre of Aleksandra Kovac..</lex>
       <lex comment="good" lid="Id2">Afrobeat is a fusion of the funk music genre which Aleksandra Kovac performs.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovac is an exponent of Funk where Afrobeat is a fusion of funk.</lex>
     </entry>

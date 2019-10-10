@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean, who was born in Wheeler, Texas, graduated from the University of Texas with a B.S. in 1955 and in 1963 NASA picked him as part of the Apollo 12 space program.</lex>
       <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas. He attended the University of Texas in Austin and obtained a B.S. in 1955. He was selected by NASA in 1963 and was a crew member on Apollo 12.</lex>
-      <lex comment="good" lid="Id3">Alan Bean who was born in 1963 in Wheeler, Texas, graduated in 1955 and went on to become a crew member of Apollo 12.</lex>
+      <lex comment="good" lid="Id3">Alan Bean who was born in 1963 in Wheeler, Texas , graduated in 1955 and went on to become a crew member of Apollo 12.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -65,7 +65,7 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean is a United States citizen born in Wheeler, Texas on 15 March 1932 and who graduated from UT Austin BS in 1955.</lex>
-      <lex comment="good" lid="Id2">Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B.S. in 1955.</lex>
+      <lex comment="good" lid="Id2">Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B,S. In 1955.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -273,7 +273,7 @@
         <mtriple>Alan_Shepard | was selected by NASA | 1959</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and obtained a MA in 1957 from NWC. he was selected by NASA in 1959 and became a test pilot.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M.A. in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M,A, in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -509,7 +509,7 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born Edwin E. Aldrin, Jr on 1930-01-20. He attended the Massachusetts Institute of Technology obtaining the ScD. in 1963. He won 20 awards.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin, real name Edwin E. Aldrin Jr was born 20th January 1930, received 20 awards and attended Massachusetts Institute of Technology.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin, real name Edwin E. Aldrin Jr was born 20th January 1930, received 20 awards and attended Massachusetts Institute of Technology,.</lex>
       </entry>
     <entry category="Astronaut" eid="Id33" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -591,7 +591,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Buzz Aldrin, who was born in Glen Ridge, New Jersey, joined NASA in 1963 and in 1963 graduated from MIT with a Sc. D.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is a United States National born in Glen Ridge, New Jersey. He obtained a Sc.D in 1963 from the Massachusetts Institute of Technology. He was selected by NASA in 1963.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin is a US citizen born in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology, ScD in 1963 and was selected by NASA in 1963.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin is a US citizen born in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology, ScD in 1963 and was selected by NASA in 1963,.</lex>
     </entry>
     <entry category="Astronaut" eid="Id38" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -829,7 +829,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See who was born in Dallas and died in St. Louis, attended the University of Texas in Austin and in 1962 was picked by NASA to join the space program.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas. He attended the University of Texas in Austin and was selected by NASA in 1962. He died in St Louis.</lex>
-      <lex comment="good" lid="Id3">Elliot See who was born in Dallas and died in St Louis, graduated from the University of Texas at Austin and was selected by NASA in 1962.</lex>
+      <lex comment="good" lid="Id3">Elliot See who was born in Dallas and died in St Louis, graduated from the University of Texas at Austin and was selected by NASA in 1962,.</lex>
     </entry>
     <entry category="Astronaut" eid="Id53" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -907,7 +907,7 @@
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See's Alma mater was the University of Texas, Austin, which had affiliations with the University of Texas System. He died in St. Louis on February 28, 1966.</lex>
+      <lex comment="good" lid="Id1">Elliot See's Alma mater was the University of Texas , Austin, he had affiliations with the University of Texas System. He died in St. Louis on February 28, 1966.</lex>
       </entry>
     <entry category="Astronaut" eid="Id58" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1229,7 +1229,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Fighter pilot William Anders, who is now retired, was part of Apollo 8 which included Frank Borman among the crew.</lex>
       <lex comment="good" lid="Id2">William Anders is a retired fighter pilot. He along side Frank Borman was a crew member of Apollo 8.</lex>
-      <lex comment="good" lid="Id3">William Anders, retired, served as a fighter pilot before joining as a crew member on Apollo 8 alongside Frank Borman.</lex>
+      <lex comment="good" lid="Id3">William Anders, retired, served as a fighter pilot before joining as a crew member on Apollo 8 alongside Frank Borman,.</lex>
     </entry>
     <entry category="Astronaut" eid="Id78" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1292,7 +1292,7 @@
         <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders was born in British Hong Kong on October 17th, 1933 and in 1963 after a stint as a fighter pilot, NASA picked him to be part of the space program.</lex>
+      <lex comment="good" lid="Id1">William Anders was born in British Hong Kong on October 17th, 1933 and in 1963 after a stint as a test pilot, NASA picked him to be part of the space program.</lex>
       <lex comment="good" lid="Id2">William Anders was born in British Hong Kong on 1933.10.17. He served as a fighter pilot prior to being selected by NASA in 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id82" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

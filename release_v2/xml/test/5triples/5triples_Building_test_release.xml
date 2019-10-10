@@ -221,7 +221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is an art museum at 1-4-2 Nakadori, Akita, Akita Prefecture, Japan. It was constructed with 3 floors.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture, Japan. The museum has 3 floors and its address is 1-4-2 Nakadori.</lex>
-      <lex comment="good" lid="Id3">The Akita Museum of Art, which has 3 floors, is an art museum in the city of Akita, Japan. Its address is 142 Nakadori, which is the Akita Prefecture.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art, which has 3 floors, is an art museum in the city of Akita, Japan. It's address is 142 Nakadori, which is the Akita Prefecture.</lex>
     </entry>
     <entry category="Building" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -258,7 +258,7 @@
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B. Miller Hall was designed by Robert A.M. Stern; it is located in Virginia and it is owned by the College of William and Mary. Its current tenants are the Mason School of Business in the US.</lex>
-      <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall, which was designed by Robert A.M. Stern. Situated in Virginia, it has as its tenants United States based Mason School of Business.</lex>
+      <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall. which was designed by Robert A.M. Stern. Situated in Virginia, it has as its tenants United States based Mason School of Business.</lex>
       </entry>
     <entry category="Building" eid="Id12" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

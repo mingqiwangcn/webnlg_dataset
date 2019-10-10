@@ -25,7 +25,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDAstella was built by Meyer Werft, owned by Costa Crociere, the parent company of which is, Carnival Corporation &amp; plc. AIDAstella is operated by AIDA Cruises which is located in Germany.</lex>
       <lex comment="good" lid="Id2">Carnival Corporation &amp; plc is the parent company of Costa Crociere which is the owner of the AIDAstella. The AIDAstella was built by Meyer Werft and is operated by AIDA Cruises which is based in Germany.</lex>
-      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line, located in Germany.</lex>
+      <lex comment="good" lid="Id3">Carnival Corporation &amp; plc is the parent company of Costa Crociere, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line, located in Germany . .</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3, built by the American Locomotive Company, was produced Between May 1950 and August 1956. It has 12 cylinders, a four-stroke engine and is 17068.8 millimetres.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3 was built by the American Locomotive Company and was produced between May 1950 and August 1956. It has a cylinder count of 12, is 17068.8 (millimetres) in length, and has a four-stroke engine.</lex>
-      <lex comment="good" lid="Id3">The ALCO RS-3 was made from May 1950 until August 1956 by the American Locomotive Company. It is 17068.8mm long, has a four-stroke engine and 12 cylinders.</lex>
+      <lex comment="good" lid="Id3">The ALCO RS-3 was made from May 1950 until August 1956 by the American Locomotive Company. It is 17068.8mm long, has a four-stroke engine and 12 cyclinders.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -262,7 +262,7 @@
         <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
         <mtriple>Aston_Martin_V8 | assembly | Newport_Pagnell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8, related to the Aston Martin DBS and the Aston Martin RHAM/1, is a Coupe with an engine volume of 5.3 litres. It is assembled in Newport Pagnell.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8, related to the Aston Martin DBS and the Aston Martin RHAM/1 , is a Coupe with an engine volume of 5.3 litres. It is assembled in Newport Pagnell.</lex>
       <lex comment="good" lid="Id2">The Aston Martin RHAM/1, and the Aston Martin DBS are related means of transport to the Aston Martin V8. The latter vehicle is a coupe with a 5.3 litre engine and is assembled at Newport Pagnell.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -280,8 +280,8 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8, assembled in the United Kingdom (leader: Elizabeth II), was succeeded by the Aston Martin Virage which was manufactured by Aston Martin. The V8 and the Virage are relative means of transport with the Aston MArtin DBS.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8, suceeded by the the Aston Martin Virage, is made in the United Kingdom, led by Elizabeth II. The Vs, the Virage (made by Aston Martin) and the Aston Martin DBS, are related modes of transportation.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8, assembled in the United Kingdom (leader:Elizabeth II), was succeeded by the Aston Martin Virage which was manufactured by Aston Martin. The V8 and the Virage are relative means of transport with the Aston MArtin DBS.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8, suceeded by the the Aston Martin Virage and made n the United Kingdom, led by Elizabeth II. The Vs, the Virage (made by Aston Martin) and the Aston Martin DBS, are related modes of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id13" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -409,7 +409,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft of Rostock, Germany made the A-Rosa Luna. Berlin is the capital of Germany and Andreas Voßkuhle is a leader there.</lex>
       <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft which is found in Rostock, Germany. Berlin is its capital and Andreas Vosskuhle is one leader there.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital.</lex>
+      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital. .</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -427,7 +427,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II is from the United States, whose capital is Washington, D.C. Inhabitants of the United States are called Americans, and english is a spoken language there. An ethnic group called Native Americans is also located in the United States.</lex>
-      <lex comment="good" lid="Id2">The United States, has a capital city of Washington D.C., its inhabitants are known as Americans and an ethnic group that lives there are Native Americans. The language of the US is English and it is the creator of the Atlas II.</lex>
+      <lex comment="good" lid="Id2">The United States, has a capital city of Washington D.C., it's inhabitants are known as Americans and an ethnic group that lives there are Native Americans. The language of the US is English and it is the creator of the Atlas II.</lex>
       <lex comment="good" lid="Id3">The, English speaking, United States, with its capital in Washington D.C., is home to American, Native Americans and the Atlas II.</lex>
     </entry>
     </entries>

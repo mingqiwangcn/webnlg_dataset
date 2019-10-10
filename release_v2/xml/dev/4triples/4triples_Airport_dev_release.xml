@@ -38,7 +38,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.</lex>
-      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas, Spain. The airport is operated by ENAIRE.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas,Spain. The airport is operated by ENAIRE.</lex>
       <lex comment="good" lid="Id3">Adolfo Suárez Madrid–Barajas Airport, operated by Madrid's ENAIRE, is located in Alcobendas, Spain.</lex>
     </entry>
     <entry category="Airport" eid="Id3" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -56,7 +56,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The runway name is 18R/26L and is 3,500 in length.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. ENAIRE operates this Airport. 18R/36L is the runway name and its length is 3500.</lex>
-      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long.</lex>
+      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and run by ENAIRE. Its runway name is 18R/36L and it is 3500 m long,.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -127,7 +127,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom. They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F-16 Fighting Falcon.</lex>
-      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and has the Lockhead AC-130 and General Dynamics F-16 Fighting Falcon as aircraft. One of their battles was Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and has the Lockhead AC-130 and General Dynamics F-16 Fighting Falcon as aircraft. One of their battles was Operation Enduring Freedom..</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 aircraft carriers. The General Dynamics F-16 Fighting Falcon is an aircraft used by the USAF and they were involved in the Operation Enduring Freedom.</lex>
     </entry>
     <entry category="Airport" eid="Id8" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -145,7 +145,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force who deploy the Lockheed AC-130 as an attack aircraft and the McDonnell Douglas F-15 Eagle as a fighter aircraft. They also fought in the battles of Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">Operation Enduring Freedom was a battle involving the United States Air Force who operate Al Asad Airbase. They deploy the Lockheed AC-130 on their aircraft carriers and the McDonnell Douglas F-15 Eagle as a fighter aircraft.</lex>
-      <lex comment="good" lid="Id3">Al Asad airbase is operated by the United States Air Force which was involved in Operation Enduring Freedom. The Lockheed AC-130 and McDonnell Douglas F-15 Eagle are two of their aircraft.</lex>
+      <lex comment="good" lid="Id3">Al Asad airbase is operated by the United States Air Force which was involved in Operation Enduring Freedom. The Lockheed AC-130 and McDonnell Douglas F-15 Eagle are two of their aircrafts.</lex>
     </entry>
     <entry category="Airport" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -179,7 +179,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority has headquarters at Jinnah International airport and governs the Allama Iqbal International Airport in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab.</lex>
       <lex comment="good" lid="Id2">The Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of the Punjab. The airport is governed by the Pakistan Civil Aviation Authority headquartered in Jinnah International Airport.</lex>
-      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab, Pakistan which is led by the Provincial Assembly of Punjab. The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the Jinnah International Airport.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab,Pakistan which is led by the Provincial Assembly of Punjab.The airport is operated by the Pakistan Civil Aviation Authority whose headquarters is in the Jinnah International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -245,7 +245,7 @@
         <mtriple>Texas | demonym | Texan</mtriple>
         <mtriple>Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County Airport, Texas is in the United States. The inhabitants of Texas, Texans, speak English.</lex>
+      <lex comment="good" lid="Id1">Andrews County Airport, Texas is in the United States. The inhabitants of Texas, Texans , speak English.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is located in Texas within the United States, the people of Texas are referred to as Texans and the local language is English.</lex>
       <lex comment="good" lid="Id3">Texas is the location of Andrews County airport and is in the United States. The inhabitants are known as Texans and they speak the English language.</lex>
     </entry>
@@ -264,7 +264,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County airport is in Texas, United States, where the people are known as Texans and Spanish is spoken.</lex>
       <lex comment="good" lid="Id2">Texans are the people from Texas in the United States where Spanish is spoken and Andrews County airport is located.</lex>
-      <lex comment="good" lid="Id3">Andrews County Airport is located in Texas, United States. The people of Texas are called Texans and Spanish language is spoken there.</lex>
+      <lex comment="good" lid="Id3">Andrews County Airport is located in Texts,United States. The people of Texas are called Texans and Spanish language is spoken there.</lex>
     </entry>
     <entry category="Airport" eid="Id15" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -304,7 +304,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">At 159 meters above sea level, Angola International Airport is located at Ícolo e Bengo, part of Luanda Province, in Angola.</lex>
       <lex comment="good" lid="Id2">Angola International airport, situated 159 metres above sea level, is located at Ícolo e Bengo, part of Luanda Province in Angola.</lex>
-      <lex comment="good" lid="Id3">Angola International Airport is located in Ícolo e Bengo in Luanda Province, Angola. It is 159 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Angola International Airport is located in Ícolo e Bengo in Luanda Province, Angola. It is 159 metres above sea level..</lex>
     </entry>
     <entry category="Airport" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -331,7 +331,7 @@
         <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0</mtriple>
         <mtriple>Antwerp_International_Airport | runwayLength | 600.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antwerp International Airport is operated by the Flemish government, owned by the flemish region, has an elevation of 12.0 metres above sea level, and its runway length is 600.0.</lex>
+      <lex comment="good" lid="Id1">Antwerp International Airport is operated by the Flemish government, owned by the flemish region, has an elevation of 12.o metres above sea level, and it's runway length is 600.0.</lex>
       <lex comment="good" lid="Id2">The Flemish government operate Antwerp International Airport which is owned by the Flemish region. The airport has an elevation of 12.0 metres above sea level and a runway length of 600.0.</lex>
       <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region and operated by the Flemish Government. The airport has a runway length of 600.00 and is 12 metres above sea level.</lex>
     </entry>
@@ -348,7 +348,7 @@
         <mtriple>Appleton,_Wisconsin | isPartOf | Little_Chute,_Wisconsin</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport is located in Greenville, Wisconsin, which is part of Ellington. It serves Appleton, which is located in Little Chute, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport is located in Wisconsin where Appleton is part of greenville,little chute and serves appleton.</lex>
       <lex comment="good" lid="Id2">Appleton (part of which is known as Little Chute) is served by Appleton International airport which is located in Greenville (part of which is known as Ellington), Wisconsin.</lex>
       </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -366,7 +366,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ardmore Airport (New Zealand) has a 3rd runway made of poaceae and is 34 metres above sea level. The runway name is 07/25 and has a length of 518.0.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) is located 34 meters above sea level and has a 3rd runway made of poaceae which is 518.0 in length and has the name 07/25.</lex>
-      <lex comment="good" lid="Id3">Ardmore Airport, New Zealand is elevated 34.0 meters above sea level and its 3rd runway is made of poaceae. The runway name of the airport is 07/25 and it's 518.0 meters long.</lex>
+      <lex comment="good" lid="Id3">Ardmore Airport,New Zealand is elevated 34.0 meters above sea level and its 3rd runway is made of poaceae. The runway name of the airport is 07/25 and it's 518.0 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -457,8 +457,8 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operated by ENAIRE (Madrid, Spain), the Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.</lex>
-      <lex comment="good" lid="Id2">ENAIRE is located in Madrid, which, in turn, is a city in Spain. It operates Adolfo Suarez Madrid-Barajas Airport in San Sebastian de los Reyes.</lex>
-      <lex comment="good" lid="Id3">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas Airport, which is located in San Sebastian de los Reyes. ENAIRE is located in Madrid, Spain.</lex>
+      <lex comment="good" lid="Id2">ENAIRE is located in Madrid, which, in turn, is a city in Spain.It operates Adolfo Suarez Madrid-Barajas Airport in San Sebastian de los Reyes.</lex>
+      <lex comment="good" lid="Id3">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas Airport,which is located in San Sebastian de los Reyes. ENAIRE is located in Madrid,Spain.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -474,7 +474,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Egg Harbor Township is in New Jersey, in the United States and is where Atlantic City International Airport is located. This airport has a runway length of 3048.0.</lex>
-      <lex comment="good" lid="Id2">Egg Harbor Township, New Jersey is part of New Jersey in the United States. It is where Atlantic City International Airport (with a runway length of 3048.0) is located.</lex>
+      <lex comment="good" lid="Id2">Egg Harbor Township, New Jersey is part of New Jersey in the United States. It is where Atlantic City International Airport(with a runway length of 3048.0) is located.</lex>
       <lex comment="good" lid="Id3">Atlantic City Airport, (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

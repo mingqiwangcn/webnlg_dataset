@@ -70,7 +70,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AWH Engineering College in Kuttikkattoor, India is in the state of Kerala which has Mahe to its northwest. The school was established in 2001 and employs 250 people in its academic department.</lex>
       <lex comment="good" lid="Id2">Established in 2001, the AWH Engineering College in Kuttikkattoor, Kerala, southeast of Mahe, India. It currently has 250 staff.</lex>
-      <lex comment="good" lid="Id3">Kerala is a state in India which is positioned with Mahe to its northwest. It is also home to the AWH Engineering College which is located in the city of Kuttikkattoor, India. The college was founded in 2001 and has 250 members of staff.</lex>
+      <lex comment="good" lid="Id3">Kerala is a state in India which is positioned with Mahe to it's northwest. It is also home to the AWH Engineering College which is located in the city of Kuttikkattoor, India. The college was founded in 2001 and has 250 members of staff.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -132,7 +132,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland was established in 1996. Its dean is Mario Botta. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Federal Chancellor Johann Schneider-Ammann is the leader of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio. The Accademia was established in 1996 and is overseen by Dean Mario Botta.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Mendriso, Switzerland was established in 1996. Its dean is Mario Botta. Switzerland is led by Federal Chancellor Johann Schneider Ammann.</lex>
+      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Mendriso, Switzerland was established in 1996. It's dean is Mario Botta. Switzerland is led by Federal Chancellor Johann Schneider Ammann.</lex>
     </entry>
     <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -181,7 +181,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architetturia di Mendrisio in Switzerland was established in 1996. It has 100 academic staff and 600 students. Its dean is Mario Botta. The leader of Switzerland in Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id2">There are 600 students an 100 academic staff at the Accademia di Architettura di Mendrisio which was established in 1996 in Switzerland. The Dean of the Accademia is Mario Botta but it is Johann Schneider-Ammann who leads the country.</lex>
+      <lex comment="good" lid="Id2">There are 600 students an 100 academic staff at the Accademia di Architettura di Mendrisio which was establishedin 1996 in Switzerland. The Dean of the Accademia is Mario Botta but it is Johann Schneider-Ammann who leads the country.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and currently has 100 staff and 600 students. The dean of the academy is Mario Botta. The country's leader is Johann Schneider-Ammann.</lex>
     </entry>
     <entry category="University" eid="Id9" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
@@ -301,7 +301,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisi is located in Mendrisio, Switzerland and was established in 1996. Its academic staff consists of 100 members, it has 600 students and its Dean is Mario Botta.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisi is located in Mendrisio,Switzerland and was established in 1996. Its academic staff consists of 100 members, it has 600 students and its Dean is Mario Botta.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland was established in 1996 and currently has 100 staff and 600 students. The dean of the academy is Mario Botta.</lex>
     </entry>
     <entry category="University" eid="Id14" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
@@ -430,7 +430,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Meride's neighbouring municipality is Meride. Switzerland's anthem is the Swiss Psalm, and its leader is Federal Chancellor Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Federal Chancellor Johann Schneider-Ammann is the leader of Switzerland where the national anthem is the Swiss Psalm. The country is the location of the Accademia di Architettura di Mendrisio based in Mendrisio, a neighbouring municipality to Meride.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is in Mendrisio, neighbouring the municipality of Meride in Switzerland. The country is led by the Federal Chancellor, Johann Schneider-Ammann and its national anthem is the Swiss Psalm.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is in Mendrisio, neighbouring the municipality of Meride in Switzerland. The country is led by the Federal Chancellor, Johann Schneider-Ammann and it's national anthem is the Swiss Psalm.</lex>
     </entry>
     <entry category="University" eid="Id19" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -450,7 +450,7 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland which is governed by a Federal Assembly and has as its Chancellor, Johann Schneider-Ammann. The country's anthem is the Swiss Psalm.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland. The country's legislature is the Federal Assembly and its leader is the Federal Chancellor, Johann Schneider-Ammann. The national anthem is the Swiss Psalm.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland. The country's legislature is the Federal Assembly and it's leader is the Federal Chancellor, Johann Schneider-Ammann. The national anthem is the Swiss Psalm.</lex>
       <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland. The national anthem of this country is the Swiss Psalm . Switzerland's leader (the Federal Chancellor of Switzerland) is called Johann Schneider-Ammann and the country is legislated over by the Federal Assembly (Switzerland).</lex>
     </entry>
     <entry category="University" eid="Id20" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -471,7 +471,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, Karnataka, India was established in 2000. Its president is B.M. Reddy and it is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">The city of Bangalore in the state of Karnataka in India is the location of the Acharya Institute of Technology. The President of the Institute which was established in 2000 and is affiliated with Visvesvaraya Technological University is B M Reddy.</lex>
+      <lex comment="good" lid="Id2">The city of Bangalore in the state of Karnataka in India is the location of the Acharya Institute of Technology. The President of the Institute which was established in 2000 and is affiliated with Visvesvaraya Technological University is B M Reddy .</lex>
       <lex comment="good" lid="Id3">Established in 2000, the Acharya Institute of Technology is in Bangalore, Karnataka India. The institute's president is B.M. Reddy and it is affiliated with the Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -492,7 +492,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, Karnataka is affiliated to the Visvesvaraya Technological University. It was given the "Technical Campus" status by the All India Council for Technical Education (located in Mumbai). Karnataka has Telangana to its northeast.</lex>
-      <lex comment="good" lid="Id2">The city of Bangalore in the state of Karnataka, India which lies southwest of Telangana is the location of the Acharya Institute of Technology affiliated to the Visvesvaraya Technological University. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai.</lex>
+      <lex comment="good" lid="Id2">The city of Bangalore in the state of Karnataka, India which lies southwest of Telangana is the location of the Acharya Institute of Technology ffiliated to the Visvesvaraya Technological University. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technolgoy is located in the state of Karnataka which is positioned with Telangana to the northeast. The Institute is in the city of Bangalore and has strong connections with the Visvesvaraya Technological University. Along with these connections the Institute was also given the 'Technical Campus' status by the All India Council for Technical Education which is based in Mumbai.</lex>
     </entry>
     <entry category="University" eid="Id22" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -594,7 +594,7 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, India, 560090. Its director is Dr G.P. Prabhukumar and its motto is "Nurturing Excellence". It is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the city of Bangalore, India is affiliated to the Visvesvaraya Technological University and has Dr G P Prabhukumar as its Director. The motto for the Institute is "Nurturing Excellence" and the campus is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the city of Bangalore, India is affiliated to the Visvesvaraya Technological University and has Dr G P Prabhukumar as it's Director. The motto for the Institute is "Nurturing Excellence" and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The institute's director is Dr. G. P. Prabhukumar and their motto is "Nurturing Excellence." It is also affiliated with the Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id27" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -676,8 +676,8 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is in Bangalore India in the state of Karnataka. It is affiliated with Visvesvaraya Technological University and its motto is Nurturing Excellence. Its full address is Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is in Bangalore, Karnataka India. Affiliated with the Visvesvaraya Technological University, its motto is Nurturing Excellence. The campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id1">The Acharya Institute of Technology is in Bangalore India in the state of Karnataka. It is affiliated with Visvesvaraya Technological University and its motto is Nurturing Excellence. Its full address is n Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology is in Bangalore, Karnataka India. Affiliated with the Visvesvaraya Technological University, it's motto is Nurturing Excellence. The campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology (motto Nurturing Excellence) is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India and is affiliated with Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id31" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -719,7 +719,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It has 700 postgraduate students; its director is Dr G.P. Prabhukumar and its president is B.M. Reddy.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the city of Bangalore, India has B M Reddy as President and Dr G P Prabhukumar as its Director. There are 700 postgraduate students and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the city of Bangalore, India has B M Reddy as President and Dr G P Prabhukumar as it's Director. There are 700 postgraduate students and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology is located at campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, in Bangalore city, India. Its president is B.M. Reddy and the director is Dr. G. P. Prabhukumar. It has 700 postgraduate students .</lex>
     </entry>
     <entry category="University" eid="Id33" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -823,7 +823,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India was established in 2000. Its president is B.M. Reddy. It is associated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in India is affiliated to the Visvesvaraya Technological University based in the city of Belgaum. It was established in 2000 and has B M Reddy as President . The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id3">B.M.Reddy is the President of the Acharya Institute of Technology which was founded in 2000 in India. The institute is also strongly connected to the Visvesvaraya Technological University which is located in Belgaum. The exact location for the Acharya Institute of Technology is " In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex comment="good" lid="Id3">B.M.Reddy is the President of the Acharya Institute of Technology which was founded in 2000 in India. The institute is also strongly connected to the Visvesvaraya Technological University which is located in Belgaum. The exact location for the Acharya Institute of Technology is " In Soldevanahalli, Acharya Dr.Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
     </entry>
     <entry category="University" eid="Id38" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -913,7 +913,7 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology in the state of Karnataka, is affiliated with Visvesvaraya Technological University. The school was given Technical Campus' status by All India Council for Technical Education. While the All India Council for Technical Education is in Mumbai, Visvesvaraya Technological University is in Belgaum and Acharya Institute of Technology is in the state of Karnataka which has Telangana to its northeast.</lex>
-      <lex comment="good" lid="Id2">The Alcharya Institute of Technology in Karanataka, located to the northeast of Telangana, was given Technical Campus status by the All India Council for Technical Education in Mumbai. The Alcharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="good" lid="Id2">The Alcharya Institute of Technology in Karanataka, located to the northeast of Telanga, was given Technical Campus status by the All India Council for Technical Education in Mumbai. The Alcharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in Karnataka, southwest of Telangana, was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
     <entry category="University" eid="Id42" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -942,7 +942,7 @@
         <mtriple>Aarhus | governmentType | Magistrate</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark is affiliated to the European University Association (which has its HQ in Brussels). Aarhus has a magistrate government. Denmark's leader is Lars Lokke Rasmussen.</lex>
-      <lex comment="good" lid="Id2">The city of Aarhus in Denmark, which has a magistrate-led government, is the location of the School of Business and Social Sciences. The School is affiliated to the European University Association based in Brussels. The current leader of the country is Lars Lokke Rasmussen.</lex>
+      <lex comment="good" lid="Id2">The city of Aarhus in Denmark, which has a magistrate lead government, is the location of the School of Business and Social Sciences . The School is affiliated to the European University Association based in Brussels. The current leader of the country is Lars Lokke Rasmussen.</lex>
       <lex comment="good" lid="Id3">School of Business and Social Sciences at the Aarhus University in Aarus, Denmark is affiliated with the European University Association headquartered in Brussels. Denmark is governed by a magistrate, and the leaders name is Lars Løkke Rasmussen.</lex>
     </entry>
     <entry category="University" eid="Id43" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
@@ -963,7 +963,7 @@
         <mtriple>India | river | Ganges</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AWH Engineering College in Kuttikkattoor, India has 250 employees and was established in 2001. Mumbai is India's largest city and the country is home to the Ganges River.</lex>
-      <lex comment="good" lid="Id2">Established in 2001, the AWH Engineering College in Kuttikkattoor, India currently has 250 staff. The country's largest city is Mumbai and a its most famous river is the Ganges.</lex>
+      <lex comment="good" lid="Id2">Established in 2001, the AWH Engineering College in Kuttikkattoor, India currently has 250 staff. The country's largest city is Mumbai and a it's most famous river is the Ganges.</lex>
       <lex comment="good" lid="Id3">AWH Engineering College of Kuttikkattoor, India was established in 2001 and has an academic staff of 250. India's largest city is Mumbai and one the country's rivers is the Ganges.</lex>
     </entry>
     <entry category="University" eid="Id44" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
@@ -1027,7 +1027,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AWH Engineering College is located in Kerala, India. Kerala has Mahe, India to its northwest and its leader is Kochi. The Ganges is a river in India and India's largest city is Mumbai.</lex>
       <lex comment="good" lid="Id2">The largest city in India is Mumbai, and one of the country's rivers is the Ganges. The country is the location of the AWH Engineering College in the state of Kerala which is led by Kochi and has Mahe, India to the northwest.</lex>
-      <lex comment="good" lid="Id3">India with its largest city of Mumbai and the river Ganges is also so home to the state of Kerala with the governor Kochi and to its northwest Mahe, India. Kerala is also home to the AWH Engineering College .</lex>
+      <lex comment="good" lid="Id3">India with it's largest city of Mumbai and the river Ganges is also so home to the state of Kerala with the governor Kochi and to it's northwest Mahe,India. Kerala is also home to the AWH Engineering College .</lex>
     </entry>
     <entry category="University" eid="Id47" shape="(X (X (X) (X (X) (X) (X))))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1085,7 +1085,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba Iulia, Alba County, Romania. Romania's capital is Bucharest, its leader is Klaus Iohannis and its ethnic group is Germans of Romania.</lex>
       <lex comment="good" lid="Id2">The country of Romania is led by Klaus Iohannis and the capital city is Bucharest. One of the ethnic groups in the country are the Germans of Romania. The country is the location of the 1 Decembrie 1918 University in Alba Iulia, Alba County.</lex>
-      <lex comment="good" lid="Id3">Romania is governed by Klaus Iohannis and its capital city is Bucharest. It is known for being home to the ethnic group the Germans of Romania and the 1 Decembrie 1918 University which is located in Alba Iulia in the Alba county.</lex>
+      <lex comment="good" lid="Id3">Romania is governed by Klaus Iohannis and it's capital city is Bucharest. It is known for being home to the ethnic group the Germans of Romania and the 1 Decembrie 1918 University which is located in Alba Iulia in the Alba county.</lex>
     </entry>
     <entry category="University" eid="Id49" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1264,9 +1264,9 @@
         <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
         <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association, its headquarters being in Brussels. The School is found in Aarhus, Denmark. Aarhus is found to the southwest of Mols, and Denmark's leader is Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association, its headquarters being in Brussels. The School is found in Aarhus,Denmark. Aarhus is found to the southwest of Mols, and Denmark's leader is Lars Løkke Rasmussen.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University in Aarus, southwest of Mols, Denmark is affiliated with the European University Association, headquartered in Brussels. The country's leader is named Lars Løkke Rasmussen.</lex>
-      <lex comment="good" lid="Id3">Denmark is governed by Lars Lokke Rasmussen and is also home to the School of Business and Social Sciences at the Aarhus University which is located in the city of Aarhus positioned with Mols to its northeast. The school has strong connections with the European University Association which is based in Brussels.</lex>
+      <lex comment="good" lid="Id3">Denmark is governed by Lars Lokke Rasmussen and is also home to the School of Business and Social Sciences at the Aarhus University which is located in the city of Aarhus positioned with Mols to it's northeast. The school has strong connections with the European University Association which is based in Brussels.</lex>
     </entry>
     <entry category="University" eid="Id55" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1329,7 +1329,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It has 16,000 students and its dean is Thomas Pallesen. It is affiliated to the European University Association.</lex>
       <lex comment="good" lid="Id2">In 1928 the School of Business and Social Sciences at the Aarhus University was established in the city of Aarhus, Denmark and it is now affiliated to the European University Association. The current Dean is Thomas Pallesen and there is a total of 16000 students.</lex>
-      <lex comment="good" lid="Id3">Established in 1928 and with a current student body of 16000, the School of Business and Social Sciences at the Aarhus University in Aarus, Denmark is affiliated with the European University Association and its dean is Thomas Pallesen.</lex>
+      <lex comment="good" lid="Id3">Established in 1928 and with a current student body of 16000, the School of Business and Social Sciences at the Aarhus University in Aarus, Denmark is affiliated with the European University Association and it's dean is Thomas Pallesen.</lex>
     </entry>
     <entry category="University" eid="Id58" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1416,7 +1416,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It has 737 academic staff and 16,000 students. Its Latin name is "Universitas Aarhusiensis".</lex>
       <lex comment="good" lid="Id2">There are 16000 students and 737 academic staff at the School of Business and Social Sciences at the Aarhus University in Denmark. The School was established in 1928 and is affiliated with the European University Association and has the Latin name of "Universitas Aarhuensis".</lex>
-      <lex comment="good" lid="Id3">Established in 1928 the School of Business and Social Sciences at the Aarhus University in Denmark is affiliated with the European University Association. The university has a staff compliment of 737 and 16000 students and its latin name is Universitas Aarhusiensis.</lex>
+      <lex comment="good" lid="Id3">Established in 1928 the School of Business and Social Sciences at the Aarhus University in Denmark is affiliated with the European University Association. The university has a staff compliment of 737 and 16000 students and it's latin name is Universitas Aarhusiensis.</lex>
     </entry>
     <entry category="University" eid="Id61" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1436,8 +1436,8 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090, Undia. Its director is Dr G.P. Prabhukumar. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the state of Karnataka, India is affiliated to the Visvesvaraya Technological University based in the city of Belgaum. The Director is Dr G P Prabhukumar and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the state of Karnataka in the country India. Its director is Dr. G.P. Prabhukumar and it has strong connections with the Visvesvaraya Technological University which is in the city of Belgaum. The exact location of the Acharya Institute of Technology is "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090".</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology in the state of Karnataka, India is affiliated to the Visvesvaraya Technological University based in the city of Belgaum. . The Director is Dr G P Prabhukumar and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the state of Karnataka in the country India. It's director is Dr. G.P. Prabhukumar and it has strong connections with the Visvesvaraya Technological University which is in the city of Belgaum. The exact location of the Acharya Institute of Technology is " In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.".</lex>
     </entry>
     <entry category="University" eid="Id62" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1458,7 +1458,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology has 700 Postgraduate Students, its campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090 and it is affiliated with Visvesvaraya Technological University. The University was established in 2000 and is found in Belgaum, India.</lex>
       <lex comment="good" lid="Id2">Established in 2000, the Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. It currently has 700 post-graduate students and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology was founded in 2000 in the country India and has 700 postgraduate students. The institute has connections with the Visvesvaraya Technological University which is located in Belgaum. The exact location for the Acharya Institute of Technology is "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090".</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology was founded in 2000 in the country India and has 700 postgraduate students. The institute has connections with the Visvesvaraya Technological University which is located in Belgaum. The exact location for the Acharya Institute of Technology is " In Soldevanahalli, Acharya Dr.Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.".</lex>
     </entry>
   </entries>
 </benchmark>

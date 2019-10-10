@@ -107,7 +107,7 @@
         <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
         <mtriple>Albany,_Oregon | isPartOf | Benton_County,_Oregon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Linn County and part of Benton County, Oregon in the U.S.</lex>
+      <lex comment="good" lid="Id1">Albany is a city in Linn County and part of Benton County,Oregon in the U.S.</lex>
       <lex comment="good" lid="Id2">The city of Albany is part of both Linn County and Benton County, in Oregon, in the United States.</lex>
       <lex comment="good" lid="Id3">Part of Linn County, the city of Albany, is also part of Benton County, Oregon, in the U.S.</lex>
     </entry>
@@ -122,8 +122,8 @@
         <mtriple>New_Mexico_House_of_Representatives | leader | Don_Tripp</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The New Mexico House of Representatives, led by Don Tripp, is the the leader of Albuquerque, New Mexico in the United States.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, New Mexico, U.S. is led by the New Mexico house of representatives, whose leader is Don Tripp.</lex>
+      <lex comment="good" lid="Id1">The New Mexico House of Representatives,led by Don Tripp, is the the leader of Albuquerque,New Mexico in the United States.</lex>
+      <lex comment="good" lid="Id2">Albuquerque,New Mexico,U.S. is led by the New Mexico house of representatives,whose leader is Don Tripp.</lex>
       <lex comment="good" lid="Id3">Albuquerque, New Mexico is in the United States and led by the New Mexico House of Representatives. Don Tripp leads that house.</lex>
     </entry>
     <entry category="City" eid="Id6" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -152,7 +152,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpharetta is part of the U.S. state, Georgia, where African Americans are one of the country's ethnic group.</lex>
+      <lex comment="good" lid="Id1">Alpharetta is part of the U.S. state, Georgia,where African Americans are one of the country's ethnic group.</lex>
       <lex comment="good" lid="Id2">The United States include the ethnic group of African Americans and is the location of Alpharetta, part of the state of Georgia.</lex>
       <lex comment="good" lid="Id3">Alpharetta, is part of Georgia, in the United States, where one of the ethnic groups is African Americans.</lex>
     </entry>
@@ -187,7 +187,7 @@
         <mtriple>Potter_County,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the United States, where you will find Amarillo, which is part of Potter County in Texas.</lex>
+      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the United States, where you will find Amarillo, which is part of Potter County in Texas..</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County, Texas which is part of the U.S. where one of the ethnic groups are Native Americans.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas, in the United States, where Native Americans are one of the ethnic groups.</lex>
     </entry>
@@ -217,7 +217,7 @@
         <mtriple>Orange_County,_California | isPartOf | Greater_Los_Angeles_Area</mtriple>
         <mtriple>Orange_County,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Orange County in California is part of the Greater Los Angeles area, where Anaheim is located in the United States.</lex>
+      <lex comment="good" lid="Id1">Orange County in California is part of the Greater Los Angeles area,where Anaheim is located in the United States.</lex>
       <lex comment="good" lid="Id2">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California.</lex>
       </entry>
     <entry category="City" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -296,7 +296,7 @@
         <mtriple>Atlanta | country | United_States</mtriple>
         <mtriple>Atlanta | isPartOf | "Georgia"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia, United States.</lex>
+      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia,United States.</lex>
       <lex comment="good" lid="Id2">Atlanta is part of DeKalb County in Georgia, United States.</lex>
       <lex comment="good" lid="Id3">Most of Atlanta is part of DeKalb County in Georgia, in the U.S.</lex>
     </entry>
@@ -311,7 +311,7 @@
         <mtriple>Auburn,_Alabama | country | United_States</mtriple>
         <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is part of Lee County, Alabama in the United States.</lex>
+      <lex comment="good" lid="Id1">Auburn is part of Lee County,Alabama in the United States.</lex>
       <lex comment="good" lid="Id2">Auburn is part of Lee County, Alabama, located in the United States.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama, United States.</lex>
     </entry>
@@ -408,8 +408,8 @@
         <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene is located in Taylor County, Texas, United States whose capital city is Washington D.C.</lex>
-      <lex comment="good" lid="Id2">Washington, D.C. is the capital of the U.S. and Abilene is located in Taylor county, Texas.</lex>
+      <lex comment="good" lid="Id1">Abilene is located in Taylor County, Texas,United States whose capital city is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">Washington, D.C. is the capital of the U.S. and Abilene is located in Taylor county,Texas.</lex>
       <lex comment="good" lid="Id3">Abilene, part of Taylor County, Texas, in the United States, where the capital is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id24" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -458,9 +458,9 @@
         <mtriple>United_States | language | English_language</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico is in the United States, where English is the official language and Africann Americans are one of the country's ethnic group.</lex>
-      <lex comment="good" lid="Id2">The United States include the ethnic group of African Americans, uses the English language, and is the location of Albuquerque in New Mexico.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico, is in the, English speaking, United States, where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico is in the United States,where English is the official language and Africann Americans are one of the country's ethnic group.</lex>
+      <lex comment="good" lid="Id2">The United States include the ethnic group of African Americans , uses the English language, and is the location of Albuquerque in New Mexico.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico, in the, English speaking, United States, where African Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id27" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -490,7 +490,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Native Americans are one of the ethnic groups in the United states of America, where Barack Obama is leader and where Albuquerque in New Mexico is located.</lex>
       <lex comment="good" lid="Id2">Albuquerque is in New Mexico, in the United States. Where Native Americans are one of the ethnic groups and the leader is Barack Obama.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico, is in the United States. The country led by Barack Obama, and where Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico,is in the United States. The country led by Barack Obama, and where Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -520,7 +520,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim in California is led by the US based United States House of Representatives which is part of the United States Congress.</lex>
       <lex comment="good" lid="Id2">Anaheim in California is led by the United States House of Representatives which is part of the United States Congress.</lex>
-      <lex comment="good" lid="Id3">In the United States, the House of Representatives (part of the United States Congress) leads Anaheim, California.</lex>
+      <lex comment="good" lid="Id3">In the United States, the House of Representatives ( part of the United States Congress), leads Anaheim, California.</lex>
     </entry>
     </entries>
 </benchmark>

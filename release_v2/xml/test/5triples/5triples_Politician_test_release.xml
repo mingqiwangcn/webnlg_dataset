@@ -61,7 +61,7 @@
         <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
         <mtriple>Abraham_A._Ribicoff | office (workedAt, workedAs) | "Governor of Connecticut"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abraham A. Ribicoff was born in Connecticut, United States, where he became governor. He was a member of the Democratic party in the United States. He died in the United States.</lex>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff was born in Connecticut, United States,where he became governor. He was a member of the Democratic party in the United States. He died in the United States.</lex>
       <lex comment="good" lid="Id2">Abraham A Ribicoff was an American National born in Connecticut. He was a member of the United States Democratic Party and held the office of Governor of Connecticut before he died in the US.</lex>
       <lex comment="good" lid="Id3">American Abraham A. Ribicoff born in Connecticut was a member of United States Democratic Party and worked as a governor of Connecticut. He passed away in United Staes.</lex>
     </entry>
@@ -300,7 +300,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Burlington is the largest city in Vermont, which was Alvah Sabin's state. Alvah Sabin; was an active politician beginning March 4, 1853, represented Vermont's 3rd Congressional District and ended his career on 1857-03-03.</lex>
       <lex comment="good" lid="Id2">Alvah Sabin's political career began on March 4th 1853 and ended on March 3rd 1857. Coming from Vermont, where the largest city is Burlington, he represented Vermont's 3rd Congressional District.</lex>
-      <lex comment="good" lid="Id3">Alvah Sabin, started active service on 1853-03-04 and represented Vermont's 3rd Congressional District. From Vermont, where the largest city is Burlington, Alvah Sabin ended his career 1857-03-03.</lex>
+      <lex comment="good" lid="Id3">Alvah Sabin, started active service on 1853-03-04 and represented Vermont's 3rd Congressional District. From Vermont , where the largest city is Burlington, Alvah Sabin, ended his career 1857-03-03.</lex>
     </entry>
     <entry category="Politician" eid="Id15" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

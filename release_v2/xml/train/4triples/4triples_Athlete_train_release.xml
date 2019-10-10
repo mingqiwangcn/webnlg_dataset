@@ -184,7 +184,7 @@
         <mtriple>VfL_Wolfsburg | league | Bundesliga</mtriple>
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt plays for both Vfl Wolfsburg who play in the Bundesliga and SV Werder Bremen who are managed by Viktor Skrypnyk.</lex>
+      <lex comment="good" lid="Id1">Aaron Hunt plays for both Vfl Wolfsburg who play in the Bundesliga and SV Werder Bremen who are managed by Viktor Skrypnyk..</lex>
       <lex comment="good" lid="Id2">Aaron Hunt plays for SV Werder Bremen who have Viktor Skrypnyk as their manager, and his club is VfL Wolfsburg who play in the Bundesliga.</lex>
       </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -225,7 +225,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt's club is VfL Wolfsburg of the Bundesliga. He also plays for SV Werder Bremen II, where Alexander Nouri is the manager.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt played for SV Werder Bremen II where Alexander Nouri is the manager, and his current club is VfL Wolfsburg who play in the Bundesliga.</lex>
-      <lex comment="good" lid="Id3">Alexander Nouri is the manager for SV Werder Bremen II, the former club of Aaron Hunt, who plays for Vfl Wolfsburg. The league Vfl Wolfsburg play in is Bundesliga.</lex>
+      <lex comment="good" lid="Id3">Alexander Nouri is the manager for SV Werder Bremen II, the former club of Aaron Hunt. who plays for Vfl Wolfsburg. The league Vfl Wolfsburg play in is Bundesliga.</lex>
     </entry>
     <entry category="Athlete" eid="Id14" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -282,7 +282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt belongs to VfL Wolfsburg and played for SV Werder Bremen, in the Bundesliga. Dieter Hecking manages VfL Wolfsburg.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt has played for the club SV Werder Bremen in the Bundesliga and also for VfL Wolfsburg who are managed by Dieter Hecking.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt, is a member of Vfl Wolfsburg, which is managed by Dieter Hecking. once played for SV Werder Bremen. SV Werder is in the Bundesliga league.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt, is a member of Vfl Wolfsburg, which is managed by Dieter Hecking. once played for SV Werder Bremen. SV Werder is in the Bundesliga league..</lex>
     </entry>
     <entry category="Athlete" eid="Id17" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -632,7 +632,7 @@
         <mtriple>Adam_McQuaid | club | Boston_Bruins</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam McQuaid, who has played for the Boston Bruins. was drafted to the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
-      <lex comment="good" lid="Id2">Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2">Adam McQuaid, who played for the Boston Bruins, was drafted to the Columbus Blue Jackets whose general manager is Jarmo Kekalainen and are based in Columbus, Ohio,.</lex>
       <lex comment="good" lid="Id3">Adam McQuaid plays for the Boston Bruins, however his draft team is the Columbus Blue Jackets who are based in the city of Columbus, Ohio and managed by Jarmo Kekalainen.</lex>
     </entry>
     <entry category="Athlete" eid="Id36" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -673,7 +673,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams played for United Petrtrin FC and now plays for Ferencvarosi TC which is managed by Thomas Doll and chaired by Gabor Kubatov.</lex>
       <lex comment="good" lid="Id2">Akeem Adams club is Ferencvarosi TC whose manager is Thomas Doll and chairman is Gabor Kubatov. Mr. Adams is also part of the United Petrotrin F.C. club.</lex>
-      <lex comment="good" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club and plays for the Ferencvarosi TC that is managed by Thomas Doll. The chairman of the Ferencvarosi TC is Gabor Kubatov.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams is a member of the United Petrotrin F.C. club and plays for the Ferencvarosi TC that is managed by Mr. Akeem Adams. The chairman of the Ferencvarosi TC is Gabor Kubatov.</lex>
     </entry>
     <entry category="Athlete" eid="Id38" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -728,7 +728,7 @@
         <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
         <mtriple>Akeem_Adams | club | W_Connection_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC,, but his own club is Ferencvarosi TC where Thomas Doll is the manager and Gabor Kubatov is chairman.</lex>
       <lex comment="good" lid="Id2">Akeem Adams, who played for W Connection F.C., plays for Ferencvarosi TC. Gábor Kubatov is the chairman of Ferencvárosi TC. which is managed by, Thomas Doll.</lex>
       <lex comment="good" lid="Id3">Akeem Adams, who plays for W Connection F.C., also plays for Ferencvarosi TC. Thomas Doll is the manager for and Gabor Kubatov is the chairman of Ferencvárosi TC.</lex>
     </entry>
@@ -859,7 +859,7 @@
         <mtriple>Akeem_Ayers | birthDate | 1989-07-10</mtriple>
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Ayers was born July 10th 1989 and has played linebacker for the Tennessee Titans and the New England Patriots.</lex>
+      <lex comment="good" lid="Id1">Akeem Ayers was born July 10th 1989 and has played linebacker for the Tenessee Titans and the New England Patriots.</lex>
       <lex comment="good" lid="Id2">Linebacker, Akeem Ayers, was born on 10th July 1989. His former team is the New England Patriots and he made his debut for the Tennessee Titans.</lex>
       <lex comment="good" lid="Id3">Linebacker, Akeem Ayers was born July 10th, 1989. He his debut for the Tennessee Titans and used to play for the New England Patriots.</lex>
     </entry>
@@ -951,7 +951,7 @@
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers made his debut for the Tennessee Titans, who are based in Nashville, Tennessee. Another team he played for were the American Football team, St. Louis Rams, who are based in the city of St. Louis.</lex>
-      <lex comment="good" lid="Id2">Akeem Ayers' former team is St. Louis Rams which are based in the city of St. Louis. Akeem Ayers made his debut for American Football team, the Tennessee Titans, which is based in the city of Nashville, Tennessee.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers' former team is St. Louis Rams which are based in the city of St. Louis. Akeem Ayers made his debut for American Football team,the Tennessee Titans, which is based in the city of Nashville, Tennessee.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers debuted with the Tennessee Titans (Nashville, TN) and is a former member of the St. Louis Rams (St. Louis).</lex>
     </entry>
     <entry category="Athlete" eid="Id53" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1132,7 +1132,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
         <mtriple>Al_Kharaitiyat_SC | manager | Amar_Osim</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club and also for Al Kharaitiyat SC who are managed by Amar Osim and located in Al Khor.</lex>
+      <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Al-Wakrah Sport Club and also for Al Kharaitiyat SC who are managed by Amar Osim i and located in Al Khor.</lex>
       <lex comment="good" lid="Id2">Al Khor is the home ground of Al Kharaitiyat SC which is managed by, Amar Osim. It is also the club of Alaa Abdul-Zahra, who also plays for the Al-Wakrah Sport Club.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul-Zahra, who plays for the Al-Wakrah Sport Club, plays for Al Kharaitiyat SC. This club is located in Al Khor and is managed by, Amar Osim.</lex>
     </entry>
@@ -1253,7 +1253,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin played football for Accrington Stanley F.C., which play in Accrington. He is a footballer for the Crewe Alexandra FC which is managed by Steve Davis.</lex>
-      <lex comment="good" lid="Id2">Alan Martin plays for both Crewe Alexandra FC, which is managed by Steve Davis, and also Accrington Stanley FC which has their ground in Accrington.</lex>
+      <lex comment="good" lid="Id2">Alan Martin plays for both Crewe Alexandra FC , which is managed by Steve Davis, and also Accrington Stanley FC which has their ground in Accrington.</lex>
       <lex comment="good" lid="Id3">Footballer, Alan Martin, plays for the club, Crewe Alexandra F.C. which is managed by footballer, Steve Davis. Alan Martin used to play for Accrington Stanley F.C. which played in Accrington.</lex>
     </entry>
     <entry category="Athlete" eid="Id69" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1327,7 +1327,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin is a footballer for the Hamilton Academical FC., the ground of which, is located in Hamilton, South Lanarkshire. Alan Martin is also a footballer for the Clyde FC club which is managed by, Barry Ferguson.</lex>
-      <lex comment="good" lid="Id2">Alan Martin is a footballer for the Hamilton Academical FC whose home is in Hamilton, South Lanarkshire. Mr. Martin played for the Clyde FC that is managed by Mr. Barry Ferguson.</lex>
+      <lex comment="good" lid="Id2">Alan Martin is a footballer for the Hamilton Academical FC whose home is in Hamilton,South Lanarkshire. Mr. Martin played for the Clyde FC that is managed by Mr. Barry Ferguson.</lex>
       <lex comment="good" lid="Id3">Alan Martin played football for Clyde F.C. and manager, Barry Ferguson. Mr. Martin also played for the Hamilton Academical FC whose home is in Hamilton, South Lanarkshire.</lex>
     </entry>
     <entry category="Athlete" eid="Id73" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1389,7 +1389,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
         <mtriple>Clyde_F.C. | ground | Broadwood_Stadium</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Martin's football club is Motherwell FC but he also played for Clyde FC where Barry Ferguson is the manager and whose home ground is the Broadwood Stadium.</lex>
+      <lex comment="good" lid="Id1">Alan Martin's football club is Motherwell FC but he also played for Clyde FC where Barry Ferguson is the manager and whose homeground is the Broadwood Stadium.</lex>
       <lex comment="good" lid="Id2">Alan Marti, who played football for Motherwell F.C., played football for Clyde F.C. Barry Ferguson is the manager for Clyde F.C. which call there football ground, Broadwood Stadium.</lex>
       <lex comment="good" lid="Id3">The Broadwood Stadium is the home ground of Clyde F.C. which is managed by Barry Ferguson. Former Clyde F.C. footballer, Alan Martin, now is a member of the Motherwell FC.</lex>
     </entry>
@@ -1747,7 +1747,7 @@
         <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S. Roma member, Alessio Romagnoli, plays for A.C. Milan, which is managed by Siniša Mihajlović and is in Serie A league.</lex>
+      <lex comment="good" lid="Id1">A.S. Roma member, Alessio Romagnoli, plays for A.C. Milan. which is managed by Siniša Mihajlović and is in Serie A league.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli plays for AS Roman and AC Milan, managed by Sinisa Mihajlovic, in the Serie A League.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli, a member of A.S. Roma, is a member of the A.C. Milan club which play in Serie A. Siniša Mihajlović is the manager for A.C. Milan.</lex>
     </entry>
@@ -1794,7 +1794,7 @@
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli plays for A.S. Roma who play in the Serie A League. He is also a member of the A.C. Milan club who are managed by Sinisa Mihajolovic.</lex>
-      <lex comment="good" lid="Id2">Alessio Romagnoli plays for the club A.C. Milan (manager: Mihajlović). He also plays for A.S. Roma, who is in Serie A.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli plays for the club A.C. Milan (manager: Mihajlović). He also plays for A.S. Roma, who is in Serie A..</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is a member of the A.C. Milan club and the A.S. Roma which is part of Serie A. The A.C. Milan is managed by Siniša Mihajlović.</lex>
     </entry>
     <entry category="Athlete" eid="Id97" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1828,7 +1828,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli, who used to represented the club U.C. Sampdoria, is now with AC Milan. Silvio Berlusconi is the chairman of A.C. Milan which is managed by, Siniša Mihajlović.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli plays for U.C. Sampdoria, which is managed by Siniša Mihajlović and the chairman is Silvio Berlusconi. A.C. Milanis the current club of Alessio Romagnoli.</lex>
-      <lex comment="good" lid="Id3">Alessio Romagnoli, is connected to UC Sampdoria and his current club is A.C. Milan. Silvio Berlusconi is the chairman of A.C. Milan which has Siniša Mihajlović as the manager.</lex>
+      <lex comment="good" lid="Id3">Alessio Romagnoli, is connected to UC Sampdoria and his current club is A.C. Milan. Silvio Berlusconi is the chiarman of A.C. Milan which has Siniša Mihajlović as the manager.</lex>
     </entry>
     <entry category="Athlete" eid="Id99" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1878,7 +1878,7 @@
         <mtriple>Alex_Plante | birthPlace | Manitoba</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in 1989, in Manitoba, Alex Plante has played for the club Anyang Hallam and is 1.9304 metres tall.</lex>
-      <lex comment="good" lid="Id2">Former Anyang Halla club player, Alex Plante, is 1.9304m tall. He was born in Manitoba, in 1989.</lex>
+      <lex comment="good" lid="Id2">Former Anyang Halla club player, Alex Plante, is 1.9304m tall. He was born in Manitoba,in 1989.</lex>
       <lex comment="good" lid="Id3">Alex Plante was born 1989, in Manitoba and is 1.9304 m. tall. He played for club, Anyang Halla.</lex>
     </entry>
     <entry category="Athlete" eid="Id102" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2003,7 +2003,7 @@
         <mtriple>Alex_Plante | birthPlace | Canada</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante was born in Canada, which is led by Elizabeth II. English language is spoken in Canada, the national anthem of which, is O Canada.</lex>
-      <lex comment="good" lid="Id2">Alex Plante came from Canada whose leader is Elizabeth II and anthem is O Canada. One language spoken in Canada is English.</lex>
+      <lex comment="good" lid="Id2">Alex Plante came from Canada whose leader is Elizabeth II and anthem is O Canada. One language spoken in Canada is Engligh.</lex>
       <lex comment="good" lid="Id3">O Canada is the national anthem of Canada, where Elizabeth II rules. Alex Plante is Canadian, and English is the spoken language.</lex>
     </entry>
     <entry category="Athlete" eid="Id109" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2299,7 +2299,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Dent debuted with the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans who are based in Texas.</lex>
       <lex comment="good" lid="Id2">Akeem Dent debuted with the Atlanta Falcons which are owned by, Arthur Blank. Akeem Dent used to play for Texas based, Houston Texans.</lex>
-      <lex comment="good" lid="Id3">Akeem Dent's first played for the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans whose home is in Texas.</lex>
+      <lex comment="good" lid="Id3">Akeem Dent's first played for the Atlanta Falcons who are owned by Arthur Blank. He went on to play for Houston Texans whose home is in Texas.,.</lex>
     </entry>
     <entry category="Athlete" eid="Id126" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2396,7 +2396,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers' debut team was the Tennessee Titans who are based in the city of Nashville, Tennessee. Another former club of his was the Los Angeles Rams who play their home matches at the Los Angeles Memorial Coliseum.</lex>
       <lex comment="good" lid="Id2">The debut team of Akeem Ayers was the Tennessee Titans who are based in the city of Nashville, Tennessee. Ayers has also played for the Los Angeles Rams who play their home matches at the Los Angeles Memorial Coliseum.</lex>
-      <lex comment="good" lid="Id3">Akeem Ayers made his debut for the Tennessee Titans which are based in Nashville, Tennessee. His former team is the Los Angeles Rams, which play at the Los Angeles Memorial Coliseum.</lex>
+      <lex comment="good" lid="Id3">Akeem Ayers made his debut for the Tennessee Titans which are based in Nashville, Tennessee. His former team is the Los Angeles Rams. which play at the Los Angeles Memorial Coliseum.</lex>
     </entry>
     <entry category="Athlete" eid="Id131" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2486,7 +2486,7 @@
         <mtriple>Peñarol | manager | Jorge_Orosmán_da_Silva</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Hernandez, who played for the Central Espanol club, in his youth, played for Peñarol. Jorge Orosmán da Silva is the manager of Peñarol which play in the Uruguayan Primera División league.</lex>
-      <lex comment="good" lid="Id2">Abel Hernández has played for Central Español. In his youth, he played for Peñarol. Jorge Orosmán da Silva is the manager of Penarol, which plays in the Uruguayan Primera División.</lex>
+      <lex comment="good" lid="Id2">Abel Hernández has played for Central Español. In his youth, he played for Peñarol. Jorge Orosmán da Silva os th e,anager of Penarol, which plays in the Uruguayan Primera División.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez is a member of Penarol's youth club, part of the Uruguayan Primera Division, and whose manager is Jorge Orosmán da Silva. Mr. Hernandez also played the the Central espanol Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id136" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2578,7 +2578,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt plays for SV Werder Bremen which plays in the Bundesliga. He also plays for SV Werder Bremen II which is manged by Alexander Nouri.</lex>
       <lex comment="good" lid="Id2">Alexander Nouri manages SV Werder Bremen II, the team Aaron Hunt plays for. Hunt used to play for SV Werder Bremen, which play in the Bundesliga.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt, who played for SV Werder Bremen II, plays for SV Werder Bremen which play in the Bundesliga. Alexander Nouri is the manager of SV Werder Bremen.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt. who played for SV Werder Bremen II, plays for SV Werder Bremen which play in the Bundesliga. Alexander Nouri is the manager of SV Werder Bremen.</lex>
     </entry>
     <entry category="Athlete" eid="Id141" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2593,7 +2593,7 @@
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
         <mtriple>Aaron_Hunt | club | Germany_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aaron Hunt plays for the German National Under 21 team and also for SV Werder Breman, managed by Viktor Skrypnyk, in the Bundesliga.</lex>
+      <lex comment="good" lid="Id1">Aaron Hunt plays for the German National Under 21 team and also for SV Werder Breman, managed byy Viktor Skrypnyk, in the Bundesliga.</lex>
       <lex comment="good" lid="Id2">The manager of SV Werder Breman, is Viktor Skrypnyk. Aaron Hunt played for SV Werder Bremen which play in the Bundesliga. Aaron Hunt's club is the Germany national under-21 football team.</lex>
       <lex comment="good" lid="Id3">Aaron Hunt plays for SV Werder Bremen along with playing for the Germany national under-21 football team. SV Werder Bremen play in the Bundesliga and are managed by Viktor Skyrypnyk.</lex>
     </entry>
@@ -2627,7 +2627,7 @@
         <mtriple>St._Louis | isPartOf | French_First_Republic</mtriple>
         <mtriple>St._Louis | leaderName | Francis_G._Slay</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alex Tyus was born in St Louis, part of greater St Louis and the French First Republic and led by Francis G slay.</lex>
+      <lex comment="good" lid="Id1">Alex Tyus was born in St Louis , part of greater St Louis and the French First Republic and led by Francis G slay.</lex>
       <lex comment="good" lid="Id2">Alex Tyus was born in St Louis, part of Greater St Louis and the French First Republic. The leader is Francis G Slay.</lex>
       <lex comment="good" lid="Id3">Alex Tyus was born in St. Louis, part of Greater St. Louis. That city forms part of the French first republic and its leader is Francis G. Slay.</lex>
     </entry>

@@ -31,8 +31,8 @@
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Blackpool has the full name "Association Football Club Blackpool".</lex>
-      <lex comment="good" lid="Id2">A.F.C. Blackpool full name is "Association Football Club Blackpool".</lex>
-      <lex comment="good" lid="Id3">The full name of A.F.C. Blackpool is Association Football Club Blackpool.</lex>
+      <lex comment="good" lid="Id2">A.F.C. Blackpool fullname is "Association Football Club Blackpool".</lex>
+      <lex comment="good" lid="Id3">The fullname of A.F.C. Blackpool is Association Football Club Blackpool.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -140,7 +140,7 @@
         <mtriple>Akron,_Ohio | location | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron is located in Summit County, Ohio.</lex>
-      <lex comment="good" lid="Id2">Akron, Ohio is located in Summit County, Ohio.</lex>
+      <lex comment="good" lid="Id2">Akron, Ohio is located in Summit County, Ohio,.</lex>
       <lex comment="good" lid="Id3">Akron, Ohio is in Summit County, Ohio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
@@ -151,8 +151,8 @@
         <mtriple>Akron_Summit_Assault | fullname | "Akron Metro Futbol Club Summit Assault"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of Akron Summit Assault is ''Akron Metro Futbol Club Summit Assault.</lex>
-      <lex comment="good" lid="Id2">Akron Summit Assault full name is "Akron Metro Futbol Club Summit Assault".</lex>
-      <lex comment="good" lid="Id3">The full name of Akron Summit is Akron Metro Futbol Club Summit Assault.</lex>
+      <lex comment="good" lid="Id2">Akron Summit Assault fullname is "Akron Metro Futbol Club Summit Assault".</lex>
+      <lex comment="good" lid="Id3">The fullname of Akron Summit is Akron Metro Futbol Club Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -344,8 +344,8 @@
       <modifiedtripleset>
         <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">St. Vincent-St. Mary High School is in the United States.</lex>
-      <lex comment="good" lid="Id2">St. Vincent St. Mary High School is located in United States.</lex>
+      <lex comment="good" lid="Id1">St. Vincent-St.Mary High School is in the United States.</lex>
+      <lex comment="good" lid="Id2">St. Vincent St.Mary High School is located in United States.</lex>
     </entry>
     </entries>
 </benchmark>

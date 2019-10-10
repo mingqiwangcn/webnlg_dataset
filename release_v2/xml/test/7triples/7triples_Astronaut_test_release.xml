@@ -43,7 +43,7 @@
         <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on November 18th, 1923. He graduated from NWC in 1957 with an M.A. He was selected by NASA in 1959 and he was a test pilot. He died in California.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard, born on November 18, 1923, graduated from NWC in 1957 with an M.A. Alan Shepard served as a test pilot, and was selected by NASA in 1959. Alan Shepard, born in New Hampshire, died in California.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard,born on November 18, 1923,graduated from NWC in 1957 with an M.A. Alan Shepard served as a test pilot, and was selected by NASA in 1959.Alan Shepard, born in New Hampshire, died in California,.</lex>
       <lex comment="good" lid="Id3">Alan Shepard has died in California. He was born on 18 November 1923 in New Hampshire and attended school at NWC, graduating in 1957 with an MA. He became a test pilot and was eventually selected by NASA in 1959.</lex>
     </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
@@ -88,7 +88,7 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Edwin E. Aldrin, Jr. was better known by his nickname of Buzz Aldrin and as a test pilot he was picked to crew Apollo 11 by NASA in 1963. Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930 and in 1963 he graduated from MIT with a Sc. D.</lex>
+      <lex comment="good" lid="Id1">Edwin E. Aldrin, Jr. was better known by his nickname of Buzz Aldrin and as a test pilot he was picked to crew Apollo 11 by NASA in 1963. Aldrin was born in Glen Ridge, New Jersey on January 20th,1930 and in 1963 he graduated from MIT with a Sc. D.</lex>
       <lex comment="good" lid="Id2">Edwin E. Aldrin, Jr. was better known as Buzz Aldrin, a fighter pilot and member of Apollo 11 after NASA picked him for the space program in 1963. Aldrin was born on January 20th, 1930 in Glen Ridge, New Jersey and a graduate of MIT's Sc. D. program in 1963.</lex>
       <lex comment="good" lid="Id3">Edwin E. "Buzz" Aldrin Jr was a Fighter pilot who was born in Glen Ridge, New Jersey on 1930 01 20. In 1963, he graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and was selected by NASA to be part of their Apollo 11 crew.</lex>
     </entry>
@@ -203,7 +203,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born on the 17th of October in 1933 in British Hong Kong. He was a member on Apollo 8 as a fighter pilot. He retired on the 1st of September in 1969.</lex>
       <lex comment="good" lid="Id2">William Anders is an American who was born in British Hong Kong on October 17th 1933. He was a fighter pilot and crewed Apollo 8. He retired on the 1st September 1969.</lex>
-      <lex comment="good" lid="Id3">William Anders was a US national who was born in British Hong Kong on 17 October 1933. He became a fighter pilot and was a member of the crew aboard Apollo 8. He retired on 1 September 1969.</lex>
+      <lex comment="good" lid="Id3">William Anders was a US national who was born in British Hong Kong on 17 October 1933. He became a test pilot and was a member of the crew aboard Apollo 8. He retired on 1 September 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>

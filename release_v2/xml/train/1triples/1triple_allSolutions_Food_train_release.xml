@@ -504,7 +504,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asam pedas is a food found in the Malay Peninsula.</lex>
       <lex comment="good" lid="Id2">Asam pedas is from the Malay Peninsula region.</lex>
-      <lex comment="good" lid="Id3">Asam pedas hails from the Malay Peninsula.</lex>
+      <lex comment="toFix" lid="Id3">Asam pedas hails from Malay Peninsula.</lex>
     </entry>
     <entry category="Food" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1601,7 +1601,7 @@
       <modifiedtripleset>
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The country Binignit comes from is the Philippines.</lex>
+      <lex comment="toFix" lid="Id1">The county Binignit comes from is the Philippines.</lex>
       <lex comment="good" lid="Id2">The binignit dish can be found in the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id154" shape="(X (X))" shape_type="NA" size="1">
@@ -1694,7 +1694,7 @@
       <modifiedtripleset>
         <mtriple>Binignit | mainIngredients | Sweet_potato</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The main ingredients of binignit are sweet potatoes.</lex>
+      <lex comment="good" lid="Id1">The main ingredients of binignit are sweet potatotes.</lex>
       <lex comment="good" lid="Id2">One of the main ingredients of Binignit is the sweet potato.</lex>
     </entry>
     <entry category="Food" eid="Id163" shape="(X (X))" shape_type="NA" size="1">
@@ -1756,7 +1756,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Condensed milk is an ingredient of Bionico.</lex>
       <lex comment="good" lid="Id2">Condensed milk is an ingredient in Bionico.</lex>
-      <lex comment="good" lid="Id3">Condensed milk is used in bionico.</lex>
+      <lex comment="good" lid="Id3">Condensed milk is used in bionico,.</lex>
     </entry>
     <entry category="Food" eid="Id169" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1795,7 +1795,7 @@
       <modifiedtripleset>
         <mtriple>Bionico | mainIngredients | "Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico.</lex>
+      <lex comment="good" lid="Id1">Sour cream, chopped fruits, condensed milk. granola, raisins and shredded coconut are the main ingredients in Bionico.</lex>
       <lex comment="good" lid="Id2">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
       <lex comment="good" lid="Id3">Chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins are the main ingredients in bionico.</lex>
     </entry>
@@ -2461,7 +2461,7 @@
         <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ilocano people are an ethnic group from the Philippines.</lex>
-      <lex comment="good" lid="Id2">The Ilocano people are an ethnic group from the Philippines.</lex>
+      <lex comment="good" lid="Id2">The llocano people are an ethnic group from the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id232" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2832,7 +2832,7 @@
       <modifiedtripleset>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id1">African Americans are an ethic group in the United States.</lex>
       <lex comment="good" lid="Id2">African Americans are one of the ethnic groups in the United States.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the U.S.</lex>
     </entry>

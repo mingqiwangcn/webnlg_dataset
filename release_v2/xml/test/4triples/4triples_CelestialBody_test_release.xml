@@ -232,7 +232,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs, orbital period of 135589000, apoapsis of 511592000, and its epoch is the 31st of December, 2006.</lex>
       <lex comment="good" lid="Id2">1097 Vicia, with the epoch date December 31st 2006, has a mass of 98 kgs, an apoapsis of 511592000.0 km and an orbital period of 135589000.0.</lex>
-      <lex comment="good" lid="Id3">The epoch of 1097 Vicia is on 31 December 2016 and has a mass of 9.8kg. The orbital period for 1097 Vicia is 135589000.0 and its apoapsis is 511592000.0 km.</lex>
+      <lex comment="good" lid="Id3">The epoch of 1097 Vicia is on 13 January 2016 and has a mass of 9.8kg. The orbital period for 1097 Vicia is 135589000.0 and its apoapsis is 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -267,7 +267,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">109 Felicitas, with an escape velocity of 0.0473 kmps, has an epoch date of 31 December 2006, an orbital period of 139705000.0 and a periapsis of 283326000000.0.</lex>
       <lex comment="good" lid="Id2">109 Felicitas has an orbital period of 139705000.0 and a periapsis of 283326000000.0. Its epoch date is 31 December 2006, and it has an escape velocity of 0.0473 kilometres per second.</lex>
-      <lex comment="good" lid="Id3">109 Felicitas, which has an epoch date of December 31st 2006, has an escape velocity of 0.0473 kilometres per second. 139705000.0 is its orbital period and 283326000000.0 is its periapsis.</lex>
+      <lex comment="good" lid="Id3">109 Felicitas ,which has an epoch date of December 31st 2006, has an escape velocity of 0.0473 kilometres per second. 139705000.0 is its orbital period and 283326000000.0 is its periapsis.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -381,7 +381,7 @@
         <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1101 Clematis has an epoch date of December 31st 2006. It has an escape velocity of 0.02 kilometres per second, a periapsis of 445895000000, and an orbital period of 183309000.0.</lex>
-      <lex comment="good" lid="Id2">1101 Clematis's escape velocity is 0.02 km/s, orbital period of 183309000, periapsis of 445895000000, and an epoch on the 31st of December.</lex>
+      <lex comment="good" lid="Id2">1101 Clematis's escape velocity is 0.02 km/s, prbital period of 183309000, periapsis of 445895000000, and an epoch on the 31st of December.</lex>
     </entry>
     </entries>
 </benchmark>

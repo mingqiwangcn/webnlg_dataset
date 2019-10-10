@@ -148,7 +148,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.F.C. Fylde are based at Bryning Lane and their full name is "Association Football Club Fylde." They have 3180 members and competed in the 2014 season.</lex>
       <lex comment="good" lid="Id2">AFC Fylde, which has the full name "Association Football Club Fylde" are based at Bryning Lane. The club has 3180 members and played in 2014.</lex>
-      <lex comment="good" lid="Id3">Association Football Club Fylde (abbreviated to A.F.C. Fylde) has 3180 members, are based at Bryning Lane and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id3">Association Football Club Fylde (abbreviated to A.F.C. Fylde) has 3180 members , are based at Bryning Lane and competed in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -171,7 +171,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attached to the club Inter Milan, Paulo Sousa's club is Juventus. He also plays for Maccabi Tel Aviv F.C. and is manager of ACF Fiorentina.</lex>
       <lex comment="good" lid="Id2">Paulo Sousa is the manager of ACF Fiorentina and his club is Juventus. He plays for both plays for Maccabi Tel Aviv F.C. and the Inter Milan club.</lex>
-      <lex comment="good" lid="Id3">Paulo Sousa once played for Inter Milan and Juventus FC. He now manages ACF Fiorentina and plays for Maccabi Tel Aviv F.C.</lex>
+      <lex comment="good" lid="Id3">Paulo Sousa once played for Inter Milan and Juventus FC. He now manages ACF Fiorentina and plays for Maccabi Tel Aviv F.C..</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -193,7 +193,7 @@
         <mtriple>AEK_Athens_F.C. | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With 69618 members, AEK Athens F.C. has its ground in Greece. They play in the Superleague Greece, and played in the 2014 season.</lex>
-      <lex comment="good" lid="Id2">AEK Athens FC has a ground in Greece and has 69618 members. They played in the 2014 season and compete in the Superleague Greece.</lex>
+      <lex comment="good" lid="Id2">AEK Athens FC has a ground in Greece and has 69618 memberrs. They played in the 2014 season and compete in the Superleague Greece.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -347,7 +347,7 @@
         <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is the manager at 1. FC Köln. He is a former player of SK Vorwärts Steyr, FC Admira Wacker Mödling and FK Austria Wien.</lex>
-      <lex comment="good" lid="Id2">Peter Stöger is at the FK Austria Wien club and is in the SK Vorwärts Steyr club, a player in FC Admira Wacker Mödling, and is the manager of FC Koln.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is at the FK Austria Wien club and is in the SK Vorwärts Steyr club, a player in FC Admira Wacker Mödling, and is the manager of FC Kolin.</lex>
     </entry>
     </entries>
 </benchmark>

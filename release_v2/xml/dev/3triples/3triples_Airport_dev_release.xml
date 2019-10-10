@@ -27,7 +27,7 @@
         <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene Regional Airport serves the city of Abilene which is part of Taylor County, Texas, in the United States.</lex>
+      <lex comment="good" lid="Id1">Abilene Regional Airport serves the city of Abilene which is part of Taylor County,Texas, in the United States.</lex>
       <lex comment="good" lid="Id2">Abilene Regional Airport serves the city of Abilene which is part of Taylor County, Texas, in the United States.</lex>
       <lex comment="good" lid="Id3">The Abilene regional airport serves Abilene, Texas, which is a part of Taylor County, Texas in the United States.</lex>
     </entry>
@@ -153,7 +153,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force who is the operating organisation for Al Asad airbase fought battles in the Korean war and also in Operation Enduring Freedom.</lex>
-      <lex comment="good" lid="Id2">The US Air Force, veteran of the Korean war and Operation Enduring Freedom, operated Al Asad Airbase.</lex>
+      <lex comment="good" lid="Id2">The US Air Force, veteran of the Korean war and Operation Enduring Freedom, operated Al Asad Airbase,.</lex>
     </entry>
     <entry category="Airport" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -171,7 +171,7 @@
         <mtriple>Alderney_Airport | runwayLength | 733.0</mtriple>
         <mtriple>Alderney_Airport | cityServed | Alderney</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 1st runway at Alderney Airport is made from Poaceae and has a length of 733.0. Alderney Airport serves the city of Alderney.</lex>
+      <lex comment="good" lid="Id1">The 1st runway at Alderney Airport is made from Poaceae and has a length of 733.0.</lex>
       </entry>
     <entry category="Airport" eid="Id10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -200,7 +200,7 @@
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Wilson Township, Alpena County, Michigan, Alpena County Regional Airport has an elevation of 210 metres above sea level and a runway length of 1,533 metres.</lex>
-      <lex comment="good" lid="Id2">Aplena County Regional Airport is elevated 210 metres above sea level, has a runway length of 1,533 metres and is located in Wilson Township, Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id2">Aplena County Regional Airport; is elevated 210 metres above sea level, has a runway length of 1,533 metres and is located in Wilson Township, Alpena County, Michigan.</lex>
       <lex comment="good" lid="Id3">Alpena County Regional Airport is located in the Wilson Township, Alpena County, Michigan. It is 210 m above sea level and its runway length is 1533 feet.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

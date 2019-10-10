@@ -36,7 +36,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Serving the city of Abilene in Texas, is Abilene Regional Airport. It has the ICAO location identifier KABI and the runway name 17R/35L. The airport is 546 metres above sea level and has a runway length of 2194.0.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is served by Abilene Regional Airport which has the ICAO location identifier of KABI. It is located 546 metres above sea level and has a runway 2194 metres long with the name of 17R/35L.</lex>
-      <lex comment="good" lid="Id3">Abilene Regional Airport serves the city of Abilene in Texas, its ICAO identifier is KABI, its runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.</lex>
+      <lex comment="good" lid="Id3">Abilene Regional Airport serves the city of Abilene in Texas, it's ICAO identifier is KABI, it's runway length is 2194.0 and is 546 metres above sea level, the name of the runway is 17R/35L.</lex>
     </entry>
     <entry category="Airport" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -53,7 +53,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE and can be found in Madrid. The airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R.</lex>
+      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE and can be found in Madrid.The airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R.</lex>
       <lex comment="good" lid="Id2">Adofo Suárez Madrid-Barajas Airport, which lies 610 metres above sea level, is located in Madrid and operated by ENAIRE. The airport's runway, named 14L/32R, has a length of 4349.0.</lex>
       </entry>
     <entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -78,7 +78,7 @@
         <mtriple>Uttar_Pradesh | leaderName | Ram_Naik</mtriple>
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh Bundelkhand, its ICAO location identifier is VIAG. the leader of Utterar Pradesh is Ram Naik.</lex>
+      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh Bundelkhand, it's ICAO location identifier is VIAG. the leader of Utterar Pradesh is Ram Naik.</lex>
       <lex comment="good" lid="Id2">Agra Airport is located in Uttar Pradesh. Uttar Pradesh is part of both Awadh ad Bundelkhand. The Airport's ICAO location identifier is "VIAG". The leader of Uttar Pradesh is called Ram Naik.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -161,7 +161,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenda involved the United States Air Force which currently operates the Al Asad Airbase.</lex>
       <lex comment="good" lid="Id2">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers is the Lockheed AC-130 Hercules which is a transport plane.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack aircraft and Lockheed C-130 Hercules transport aircraft. The USAF participated in the Korean War and the Invasion of Grenada.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack air crafts and Lockheed C-130 Hercules transport aircrafts. The USAF participated in the Korean War and the Invasion of Grenada.</lex>
     </entry>
     <entry category="Airport" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -236,7 +236,7 @@
         <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport. The airport serves the city of Lahore, in Pakistan where Shehbaz Sharif is the leader. It is also where the Allama Iqbal International Airport is found, in Punjab, Pakistan.</lex>
+      <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport. The airport serves the city of Lahore, in Pakistan where Shehbaz Sharif is the leader, It is also where the Allama Iqbal International Airport is found, in Punjab, Pakistan.</lex>
       <lex comment="good" lid="Id2">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport located in Punjab, Pakistan, which is led by Shehbaz Sharif. The airport serves Lahore in Pakistan.</lex>
     </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -325,7 +325,7 @@
         <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Angola International Airport is in Ícolo e Bengo, (Luanda Province), The airport serves Luanda, and is 159 metres above sea level.</lex>
-      <lex comment="good" lid="Id2">Angola International Airport is located at Ícolo e Bengo in Luanda province, Angola. The Airport is situated 159 meters above sea level and serves the city of Luanda.</lex>
+      <lex comment="good" lid="Id2">Angola International Airport is located at Ícolo e Bengo in Luanda province,Angola.The Airport is situated 159 meters above sea level and serves the city of Luanda.</lex>
       <lex comment="good" lid="Id3">Angola International Airport, which is located in Ícolo e Bengo in the Luanda Province in Angola, serves Luanda. The airport lies 159 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -365,7 +365,7 @@
         <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International Airport is located in Ícolo e Bengo, Luanda, Angola. The runway is 4000ft long and is 159m a.s.l.</lex>
-      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, which is a part of Luanda Province, located in Angola. The airport is 159 meters above sea level and its runway has a length of 4000.0.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, which is a part of Luanda Province, located in Angola. The airport is 159 meters above sea level and its runway has a lenght of 4000.0.</lex>
       <lex comment="good" lid="Id3">Angola International Airport is located in Icolo e Bengo, which is located in the Luanda Province, Angola. The airport is situated 159 meters above sea level and it has a runway that measures a length of 4000.0.</lex>
     </entry>
     <entry category="Airport" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -392,7 +392,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport which is owned by the Flemish Region. The airport serves the city of Antwerp, is 12.0 metres above sea level, and has a runway length of 600.0.</lex>
       <lex comment="good" lid="Id2">The Flemish Region owns Antwerp International Airport which is operated by the Flemish Department of Mobility and Public Works and serves the city of Antwerp. The runway length is 600.0 and the airport is 12 metres above sea level.</lex>
-      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region and located in the city of Antwerp. The airport has a runway length of 600.0, elevation of 12.0 metres above sea level and the Flemish department of Mobility and Public Works is the operating organisation.</lex>
+      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region and located in the city of Antwerp. The airport has a runway length of 600.0 , elevation of 12.0 metres above sea level and the Flemish department of Mobility and Public Works is the operating organisation.</lex>
     </entry>
     <entry category="Airport" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -417,8 +417,8 @@
         <mtriple>Appleton_International_Airport | runwayName | "3/21"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville, Wisconsin. The runway at the airport is 3/21 and is 2439 in length.</lex>
-      <lex comment="good" lid="Id2">Appleton International Airport can be found in Greenville, Wisconsin and serves the city of Appleton. It is situated 280 meters above sea level and has a 2,439 kilometers long runway called 3/21.</lex>
-      <lex comment="good" lid="Id3">Appleton International Airport, which serves the city of Appleton is located in Greenville, Wisconsin. It is elevated 2801 meters above sea level. The airport's runway, which is named 3/21 measures a length of 2439 units.</lex>
+      <lex comment="good" lid="Id2">Appleton International Airport can be found in Greenville, Wisconsin and serves the city of Appleton.It is situated 280 meters above sea level and has a 2,439 kilometers long runway called 3/21.</lex>
+      <lex comment="good" lid="Id3">Appleton International Airport, which serves the city of Appleton is located in Greenville, Wisconsin. It is elevated 2801 meters above sea level. The airport's runway, which is named 3/21 measures a lenght of 2439 units.</lex>
     </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -462,7 +462,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ardmore Airport in New Zealand is operated by the Civil Aviation Authority and is 34 metres above sea level. It has a runway named 03R/21L which is 1,411 long and its third runway has a poaceae surface.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) is operated by the Civil Aviation Authority of New Zealand. Its 3rd runway is made of Poaceae and its name is 03R/21L. It is 1411 m long and the airport is 34 m above sea level.</lex>
-      <lex comment="good" lid="Id3">The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand and is situated 34 meters above sea level. The airport's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called "03R/21L".</lex>
+      <lex comment="good" lid="Id3">The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand and is situated 34 meters above sea level.The airport's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called "03R/21L".</lex>
     </entry>
     <entry category="Airport" eid="Id21" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

@@ -358,7 +358,7 @@
         <mtriple>Juan_Carlos_I_of_Spain | predecessor | Francisco_Franco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Francisco Franco was the predecessor of Juan Carlos I of Spain.</lex>
-      <lex comment="good" lid="Id2">The predecessor of Juan Carlos I of Spain was Francisco Franco.</lex>
+      <lex comment="good" lid="Id2">The predecessor of Juan Carlos I f Spain was Francisco Franco.</lex>
     </entry>
     <entry category="Politician" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

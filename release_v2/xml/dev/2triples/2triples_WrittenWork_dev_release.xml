@@ -155,7 +155,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer is published in the United States where the Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer is published in the United States, which includes among its ethnic groups Asian Americans.</lex>
-      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States, where many Asian Americans live.</lex>
+      <lex comment="good" lid="Id3">A Loyal Character Dancer is published in the United States, where many Asian Americans live,.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -225,7 +225,7 @@
         <mtriple>Above_the_Veil | country | Australians</mtriple>
         <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aenir and its sequel Above the Veil are examples of Austrlian literature.</lex>
+      <lex comment="good" lid="Id1">Aenir and it's sequel Above the Veil are examples of Austrlian literature.</lex>
       <lex comment="good" lid="Id2">Above the Veil, preceded by Aenir, is from the country of Australia.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -296,9 +296,9 @@
         <mtriple>Administrative_Science_Quarterly | CODEN_code | "ASCQAG"</mtriple>
         <mtriple>Administrative_Science_Quarterly | abbreviation | "Admin. Sci. Q."</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Administrative Science Quarterly has a Coden code of "ASCQAG" and the abbreviation of Admin. Sci. Q.</lex>
-      <lex comment="good" lid="Id2">Administrative Science Quarterly, abbreviated Admin. Sci. Q., has a Coden code of "ASCQAG".</lex>
-      <lex comment="good" lid="Id3">The code for Administrative Science Quarterly (abbreviated as Admin. Sci. Q.) is ASCQAG.</lex>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly has a Coden code of "ASCQAG" and the abbreviation of Admin.Sci.Q.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly, abbreviated Admin. Sci. Q, has a Coden code of "ASCQAG".</lex>
+      <lex comment="good" lid="Id3">The code for Administrative Science Quarterly (abbreviated as Admin. Sci. Q) is ASCQAG.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -365,7 +365,7 @@
         <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDS (journal) comes under the academic discipline HIV which belongs to the family Orthoretrovirinae.</lex>
-      <lex comment="good" lid="Id2">The AIDS (journal) is the academic discipline of HIV, a disease part of the Orthoretrovirinae family.</lex>
+      <lex comment="good" lid="Id2">The AIDS(journal) is the academic discipline of HIV, a disease part of the Orthoretrovirinae family.</lex>
       <lex comment="good" lid="Id3">AIDS (journal) comes under the academic discipline HIV which is part of the family of orthoretrovirinae.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">

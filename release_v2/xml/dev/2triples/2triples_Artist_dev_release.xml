@@ -138,7 +138,7 @@
         <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Frew plays rock music, which originated from country music.</lex>
-      <lex comment="good" lid="Id2">Alan Frew's musical genre is rock music, which originated from country music.</lex>
+      <lex comment="good" lid="Id2">Alan Frews' musical genre is rock music, which originated from country music.</lex>
       <lex comment="good" lid="Id3">Alan Frew plays rock music which has its roots in country music.</lex>
     </entry>
     <entry category="Artist" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -403,7 +403,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sims are associates.</lex>
+      <lex comment="good" lid="Id1">Musicians Andrew Rayel, who is associated with Christian Burns , and Mark Sims are associates.</lex>
       <lex comment="good" lid="Id2">The musicians Andrew Rayel and Christian Burns are associates and they worked with Mark Sixma.</lex>
       <lex comment="good" lid="Id3">Musicians, Andrew Rayel, Christian Burns and Mark Sima, are associates.</lex>
     </entry>
@@ -422,7 +422,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew White whose genre is alternative rock, is associated with the musical artist Marry Banilow.</lex>
       <lex comment="good" lid="Id2">Andrew White is and alternative rock musician who is associated with Marry Banilow.</lex>
-      <lex comment="good" lid="Id3">Andrew White, whose genre is alternative rock, is associated with the musical artist Marry Banilow.</lex>
+      <lex comment="good" lid="Id3">Andrew White, who's genre is alternative rock, is associated with the musical artist Marry Banilow.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -434,7 +434,7 @@
         <mtriple>Alfredo_Zitarrosa | birthPlace | Uruguay</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa was born in Tabaré Vázquez led Uruguay.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa's birthplace was Uruguay where the leader is Tabaré Vázquez.</lex>
+      <lex comment="good" lid="Id2">Alfredo Zitarrosa's birthplace was Uruguay where it's leader is Tabaré Vázquez.</lex>
       <lex comment="good" lid="Id3">Tabare Vazquez is the leader of Uruguay where Alfredo Zitarrosa was born.</lex>
     </entry>
     </entries>

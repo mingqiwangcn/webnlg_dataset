@@ -94,8 +94,8 @@
         <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baymax, created by Steve T. Seagle, is a character in Big Hero 6.</lex>
-      <lex comment="good" lid="Id2">Baymax was created by Steven T Seagle and is a character in Big Hero 6.</lex>
-      <lex comment="good" lid="Id3">Baymax, a character in Big Hero 6, was created by Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id2">Baymax was created by Steven t Seagle and is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id3">Baymax, a character in Big Hero 6, was created by Steven. T Seagle.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -110,9 +110,9 @@
         <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
         <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic book character Ben Urich (full name, Benjamin Urich) was created by Roger McKenzie.</lex>
+      <lex comment="good" lid="Id1">The comic book character Ben Urich ( full name, Benjamin Urich ) was created by Roger McKenzie.</lex>
       <lex comment="good" lid="Id2">Roger McKenzie is the comic book writer who created Ben Urich (full name Benjamin Urich).</lex>
-      <lex comment="good" lid="Id3">Roger McKenzie, the comic book writer, is the creator of Ben Urich (Benjamin Urich).</lex>
+      <lex comment="good" lid="Id3">Roger McKenzie, the comic book writer, is the creator of Ben Urich ( Benjamin Urich ).</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

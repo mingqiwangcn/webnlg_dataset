@@ -161,7 +161,7 @@
         <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac is a solo singer.</lex>
-      <lex comment="good" lid="Id2">A solo singer is part of Aleksandra Kovač's background.</lex>
+      <lex comment="good" lid="Id2">A solo singer is part of Aleksandra Kovač's background,.</lex>
     </entry>
     <entry category="Artist" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

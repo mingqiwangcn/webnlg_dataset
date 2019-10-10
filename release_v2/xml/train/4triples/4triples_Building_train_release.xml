@@ -77,7 +77,7 @@
         <mtriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. Its architectural style is Brutalist.</lex>
+      <lex comment="good" lid="Id1">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. It's architectural style is Brutalist.</lex>
       <lex comment="good" lid="Id2">An example of Brutalist architecture, 103 Colmore Row, in Birmingham, was conceived by local-born architect John Madin.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham, England was designed by the architect John Madin, who was born in the city. The architectural style of 103 Colmore Row falls under Brutalist architecture.</lex>
     </entry>
@@ -184,8 +184,8 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Madin (born in Birmingham) was the architect of 103 Colmore Row, Colmore Row, which is a 23 floor building.</lex>
-      <lex comment="good" lid="Id2">Consisting of 23 floors, 103 Colmore Row is located in Colman Row and was designed by Birmingham born, John Madin.</lex>
+      <lex comment="good" lid="Id1">John Madin (born in Birmingham) was the architect of 103 Colmore Row. Colmore Row, which is a 23 floor building.</lex>
+      <lex comment="good" lid="Id2">Consisting of 23 floors, 103 Colman Row is located in Colman Row and was designed by Birmingham born, John Madin.</lex>
       <lex comment="good" lid="Id3">The 23 floor building at 103 Colmore Row in Birmingham was designed by John Madin, a local architect.</lex>
     </entry>
     <entry category="Building" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -365,7 +365,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Construction of 11 Diagonal Street began in 1978 and finished in 1983 with 20 floors. The architect was Helmut Jahn.</lex>
       <lex comment="good" lid="Id2">Helmut Jahn is the architect of 11 Diagonal Street which was begun in 1978 and completed in 1983 with 20 floors.</lex>
-      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was completed in 1983, 5 years after the street itself was built in 1978. It is a 20 floor structure designed by Helmut Jahn.</lex>
+      <lex comment="good" lid="Id3">The building at 11 Diagonal Street was completed in 1983 , 5 years after the street itself was build in 1978. It is a 20 floor structure designed by Helmut Jahn.</lex>
     </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -473,7 +473,7 @@
         <mtriple>South_Africa | leaderName | Cyril_Ramaphosa</mtriple>
         <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cape Town as its capital and Cyril Ramaphosa as leader. Coloured people are an ethnic group of this country.</lex>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, which has Cape Town as its capital and Cyril Ramaphosa as leader. Coloured people are an ethic group of this country.</lex>
       <lex comment="good" lid="Id2">In South Africa (where the capital is Cape Town) there are many ethnic groups, one of which is called the Coloured, Cyril Ramaphosa is one of the leaders and 11 Diagonal Street is located there.</lex>
       </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -621,7 +621,7 @@
         <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
         <mtriple>South_Africa | ethnicGroup | White_South_African</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, a country with an ethnic group White South Africans, led by either Cyril Ramaphosa or Jacob Zuma.</lex>
+      <lex comment="good" lid="Id1">11 Diagonal Street is located in South Africa, a country with an ethic group White South Africans, led by either Cyril Ramaphosa or Jacob Zuma.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is located in South Africa, the country which has Cyril Ramaphosa and Jacob Zuma as leaders and where one of the ethnic groups is White South Africans.</lex>
       <lex comment="good" lid="Id3">Cyril Ramaphosa and Jacob Zuma are leaders in South Africa where 11 Diagonal Street is located and the white South Africans are one of the ethnic groups.</lex>
     </entry>
@@ -794,7 +794,7 @@
         <mtriple>Cleveland | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is in Cleveland, U.S., which is part of Cuyahoga County, Ohio. Frank G. Jackson is the leader of Cleveland.</lex>
-      <lex comment="good" lid="Id2">Part of the Cuyahoga County in Ohio is Cleveland in the United States. Cleveland has the leader Frank G Jackson and is the location of the 200 Public square.</lex>
+      <lex comment="good" lid="Id2">Part of the Cuyahoga Country in Ohio if the United States, Cleveland has the leader Frank G Jackson and is the location of the 200 Public square.</lex>
       </entry>
     <entry category="Building" eid="Id34" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -937,7 +937,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The building at 20 Fenchurch Street was started in January 2009 and completed in April 2014. It has 34 floors, and a floor area of 62145.3 square metres.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch St. was started in Jan. 2009 and completed in April, 20014. It has 34 floors and is 62145.3 square meters.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres; its construction began in January 2009 and was completed in April 2014.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres, constructionof it began in January 2009 and was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -975,8 +975,8 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor count of 34 and is located in London whose leader is Boris Johnson although London is led via the European Parliament.</lex>
-      <lex comment="good" lid="Id2">Boris Johnson is the leader in London. 20 Fenchurch Street has 34 floors and is located in London. London is led by the European Parliament.</lex>
+      <lex comment="good" lid="Id1">20 Fenchurch Street has a floor count of 34 and is located in London whose leader is Boris Johnson although London is lead via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">Boris Johnson is the leader in London. 20 Fenchurch Street has 34 floors and is located in London. London is lead to the European Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1032,7 +1032,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom, of which the capital is London. The Leader of London, via the European Parliament, is called Boris Johnson.</lex>
-      <lex comment="good" lid="Id2">London, the UK capital is led via the European Parliament along with Boris Johnson. It is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">London, the UK capital is lead via the European Parliament along with Boris Johnson. It is the location of 20 Fenchurch Street.</lex>
     </entry>
     <entry category="Building" eid="Id45" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1047,9 +1047,9 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which has the capital city of London and is led via the European Parliament. The UK is the location of 20 Fenchurch Street.</lex>
-      <lex comment="good" lid="Id2">London, the capital of the United Kingdom is led via the European Parliament and Elizabeth II. 20 Fenchurch Street is located within the UK.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is led via the European Parliament although the leader of the United Kingdom is Elizabeth II.</lex>
+      <lex comment="good" lid="Id1">Elizabeth II is a leader of the United Kingdom which has the capital city of London and is lead via the European Parliament. The UK is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">London, the capital of the United Kingdom is lead via the European Parliament and Elizabeth II. 20 Fenchurch Street is located within the UK.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, the capital of which is London which is lead via the European Parliment although the leader of the United Kingdom is Elizabeth II.</lex>
     </entry>
     <entry category="Building" eid="Id46" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1092,7 +1092,7 @@
         <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. Its start date was January 2014.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. It's start date was January 2014.</lex>
       <lex comment="good" lid="Id2">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
       <lex comment="good" lid="Id3">The construction of 250 Delaware Avenue began in January 2014, worth 110 million (dollars) that has 30843.8 (square metres), and a floor count of 12.</lex>
     </entry>
@@ -1554,7 +1554,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Hotel Bella Sky is in Copenhagen, Denmark and has Marriott International as its tenant. It was designed by 3XN and has 23 floors.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen, designed with 23 floors by 3XN, and currently tenanted by the Marriott International Hotel, is located in Denmark.</lex>
-      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky, Copenhagen, Denmark, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
+      <lex comment="good" lid="Id3">The 23 floor AC Hotel Bella Sky , Copenhagen, is currently occupied by Marriott International. The hotel was designed by architect firm 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id71" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1632,7 +1632,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
         <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A key person at Marriott International which was founded in Washington DC, is Bill Marriott. Marriott International is a tenant of AC Hotel Bella Sky in Copenhagen, Denmark.</lex>
+      <lex comment="good" lid="Id1">A key person at Marriott International which was founded in Washington DC, is Bill Marriott. Marriott International is a tenant of AC Hotel Bella Sky in Copenhagen, Demark.</lex>
       <lex comment="good" lid="Id2">Bill Marriott is one of the key people at Marriott International which was founded in Washington DC and is the current tenant of AC Hotel Bella Sky Copenhagen in Denmark.</lex>
       <lex comment="good" lid="Id3">Marriott International was founded in Washington, D.C by Bill Marriott, it is the tenant of the AC Hotel Bella Sky Copenhagen, Denmark.</lex>
     </entry>
@@ -1728,7 +1728,7 @@
         <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Adare Manor is located in the Republic of Ireland where Irish is one of the official language's spoken and the currency used is the euro. Enda Kenny is the current leader for the republic.</lex>
-      <lex comment="good" lid="Id2">Adare Manor is located in the Republic of Ireland which has Irish as the official language, the euro as currency and is led by Enda Kenny.</lex>
+      <lex comment="good" lid="Id2">Adare Manor is located in the Republic of Ireland which has Irish as the official language, the euro as currency and is led by Enda Kenny,.</lex>
     </entry>
     <entry category="Building" eid="Id80" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2163,7 +2163,7 @@
         <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka where the capital is Sri Jayawardenepura Kotte and the leader is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3">Adisham Hall is located in Haputale, Sri Lanka, where Ranil Wickremesinghe is one of the countries leaders and Sri Jayawardenepura Kotta is the capital city.</lex>
     </entry>
@@ -2327,7 +2327,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Designed by architect Tadao Ando, the Akita Museum of Art is Located in Akita Prefecture, Akita, Japan.</lex>
       <lex comment="good" lid="Id2">The architect of Akita Museum of Art in Akita, Akita Prefecture, Japan is Tadao Ando.</lex>
-      <lex comment="good" lid="Id3">Akita Museum of Art is located in Akita, Akita Prefecture, Japan and was designed by the architect Tadao Ando.</lex>
+      <lex comment="good" lid="Id3">Akita Museum of Art is located in Akita, Akita Prefecture, Japan and was designed by the architect Tadao Ando,.</lex>
     </entry>
     <entry category="Building" eid="Id107" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2428,8 +2428,8 @@
         <mtriple>Akita_Prefecture | country | Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan, where some Chinese people live.</lex>
-      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture, Japan. In Japan there is an ethnic group of Chinese people.</lex>
-      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita which in turn is part of Akita Prefecture, Japan. Located in Japan are an ethnic group of Chinese people.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is locacted in Akiita, Akita which is part of Akita Prefecture, Japan. In Japan there is an ethnic group of Chinese people.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita which in turn is part of Akita Prefecture., Japan. Located in Japan are an ethnic group of Chinese people.</lex>
     </entry>
     <entry category="Building" eid="Id111" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2444,7 +2444,7 @@
         <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
         <mtriple>Akita,_Akita | country | Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita which is part of Akita Prefecture in Japan. Filipinos are one ethnic group in Japan.</lex>
+      <lex comment="good" lid="Id1">Akita Museum of Art is an art museum in the city of Akita which is part of Akita Prefecture in Japan. Filipinos are one ethic group in Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture, Japan. One of the ethnic groups in Japan is the Filipinos.</lex>
     </entry>
     <entry category="Building" eid="Id112" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
@@ -2652,7 +2652,7 @@
         <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
         <mtriple>Alan_B._Miller_Hall | completionDate | "1 June 2009"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan B. Miller Hall in Williamsburg, Virginia was designed by Robert A.M. Stern and completed on June 1, 2009. Its owner is the College of William and Mary.</lex>
+      <lex comment="good" lid="Id1">Alan B. Miller Hall in Williamsburg, Virginia was designed by Robert A.M. Stern and completed on June 1, 2009. It's owner is the College of William and Mary.</lex>
       <lex comment="good" lid="Id2">The Alan B. Miller Hall in Williamsburg, Virginia, owned by the College of William and Mary, was designed by Robert A M Stern and completed on June 1st, 2009.</lex>
     </entry>
     <entry category="Building" eid="Id123" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2990,7 +2990,7 @@
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is in the Eastern Province of Sri Lanka, where Austin Fernando is the leader, and they use the Sri Lankan rupee.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province of Sri Lanka (the currency of which is the Sri Lankan rupee), the leader of that province is Austin Fernando.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province of Sri Lanka (the currency of which is the Ski Lankan rupee), the leader of that province is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id138" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3057,7 +3057,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is in Eastern Province, Sri Lanka which is led by Austin Fernando. The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital is located in the Eastern Province, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe. The leader of the Eastern Province of Sri Lanka is Austin Fernando.</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka in its Eastern Province. The leader of Sri Lanka is Ranil Wickremesinghe and the leader in the Eastern Province is Austin Fernando.</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka in it's Eastern Province. The leader of Sri Lanka is Ranil Wickremesinghe and the leader in the Eastern Province is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id142" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3094,9 +3094,9 @@
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With the leader Ranil Wickremesinghe and the capital of Sri Jayawardenepura Kotte, Sri Lanka is the location of Ampara Hospital and has the currency of the Sri Lankan rupee.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Sri Lankan rupee and the capital is Sri Jayawardenepura Kotte .</lex>
-      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Sri Lankan rupee and Sri Jayawardenepura Kotte is the capital.</lex>
+      <lex comment="good" lid="Id1">With the leader Ranil Wickremesinghe and the capital of Sri Jayawardenepura Kotte, Sri Lanka is the location of Ampara Hospital and has the currency of the Ski Lankan rupee .</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Ski Lankan rupee and the capital is Sri Jayawardenepura Kotte .</lex>
+      <lex comment="good" lid="Id3">Ampara Hospital is in Sri Lanka, where the leader is Ranil Wickremesinghe, the currency is the Ski Lankan rupee and Sri Jayawardenepura Kotte is the capital.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3411,8 +3411,8 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 with reference number 80002709.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 withreference number 80002709.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place , East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 are in Asser Levy Place and East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id160" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3650,7 +3650,7 @@
         <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham has the B postcode and one of the city leaders is Labour politician John Clancy. The architect who designed 103 Colmore Row, John Madin, was born in the city.</lex>
-      <lex comment="good" lid="Id2">John Madin, the architect who designed 103 Colmore Row, was born in Birmingham which has the postcode 'B'and is where Labour politician John Clancy is leader.</lex>
+      <lex comment="good" lid="Id2">John Madin the architect who designed 130 Colmore Row, was born in Birmingham which has the postcode 'B'and is where Labour politician John Clancy is leader.</lex>
       </entry>
     <entry category="Building" eid="Id173" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3681,7 +3681,7 @@
         <mtriple>John_Madin | hometown | Birmingham</mtriple>
         <mtriple>Birmingham | leaderName | Andrew_Mitchell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Led by Andrew Mitchell and with the postcode area 'B', Birmingham is the hometown of architect John Madin, who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id1">Led by Andrew Mitchell and with the postcode area 'B', Birmingham is the hometown of architect John Madin, whom designed 102 Colmore Row.</lex>
       <lex comment="good" lid="Id2">Birmingham, which has the B postcode is led by Andrew Mitchell and is the hometown of architect John Madin who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham. The postal code of Birmingham is B and the leader is Andrew Mitchell.</lex>
     </entry>
@@ -3739,7 +3739,7 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa City Hall is in the country of Ethiopia (leader: Hailemariam Desalegn). Addis Ababa is home to the Addis Ababa City Hall and The Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id2">The Addis Ababa City Hall is located in Addis Ababa (Ethiopia) which is also where the Addis Ababa stadium can be found. The leader of Ethiopia is Hailemariam Desalegn .</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa City Hall is located in Addis Ababa (Ethiopia) which is also where the Addis Ababa stadium can be found. The leader of Ethiopa is Hailemariam Desalegn .</lex>
       <lex comment="good" lid="Id3">Ethiopia, led by Hailemariam Desalegn, is home to the Addis Ababa City Hall and Addis Ababa Stadium, both located in the city that named them.</lex>
     </entry>
     <entry category="Building" eid="Id178" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -3762,8 +3762,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa in Ethiopia (led by Hailemariam Desalegn) is the location of Addis Ababa City Hall and Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id2">Both Addis Ababa Stadium and City Hall are located in Addis Ababa, Ethiopia, whose leader is Hailemariam Desalegn.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where Hailemariam Desalegn is the leader.</lex>
+      <lex comment="good" lid="Id2">Both Addis Ababa Stadium and City Hall are located in Addis Ababa, Ethiopa, whose leader is Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall is located in Addis Ababa, Ethopia, where Hailemariam Desalegn is the leader.</lex>
     </entry>
     <entry category="Building" eid="Id179" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3778,8 +3778,8 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ethiopia is led by Hailemariam Desalegn and uses the Amharic language. The Addis Ababa City Hall is located in the city of Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Hailemariam Desalegn is the ruler, where the language spoken is Amharic.</lex>
+      <lex comment="good" lid="Id1">Ethiopa is led by Hailemariam Desalegn and uses the Amharic language. The Addis Ababa City Hall is located in the city of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethopia. Hailemariam Desalegn is the ruler, where the language spoken is Amharic.</lex>
     </entry>
     <entry category="Building" eid="Id180" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3801,7 +3801,7 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, a country with leader Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The leader in Ethiopia is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The leader in Ethiopia is Malatu Teshome.</lex>
       <lex comment="good" lid="Id3">Addis Ababa is in Ethiopia which has a leader named Mulatu Teshome. Addis Ababa City Hall and the Addis Ababa Stadium are both in Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id181" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3817,8 +3817,8 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">Mulatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Malatu Teshome.</lex>
+      <lex comment="good" lid="Id2">Malatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
       <lex comment="good" lid="Id3">Ethiopia is led by Mulatu Teshome and has the spoken language of Amharic, and is the location of Addis Ababa City Hall, which can be found in Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id182" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3840,7 +3840,7 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Malatu Teshome and Hailemariam Desalegn.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
       </entry>
     <entry category="Building" eid="Id183" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -3863,8 +3863,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Leaders in Ethiopia are Mulatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Malatu Teshome and Hailemariam Desalegn.</lex>
     </entry>
     <entry category="Building" eid="Id184" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3913,7 +3913,7 @@
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
         <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, India, a country which previously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
+      <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, India, a country which prevously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
       <lex comment="good" lid="Id2">The leader of India is called T S Thakur and another leader there is Sumitra Mahajan. Amdavad ni Gufa is located in Ahmedabad in India.</lex>
       <lex comment="good" lid="Id3">Amdavad ni Gufa is located in Ahmedabad, in India, the country where T S Thakur and Sumitra Mahajan are leaders.</lex>
     </entry>
@@ -4245,8 +4245,8 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paul Ryan is the leader of the United States governed by the President. An example of a street name in the United States is Delaware Avenue and an example of an ethnic group is White Americans.</lex>
-      <lex comment="good" lid="Id2">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethnic groups is White Americans. Also located in the U.S. is 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id1">Paul Ryan is the leader and President Of the United States. An example of a street name in the United States is Delaware Avenue and an example of an ethic group is White Americans.</lex>
+      <lex comment="good" lid="Id2">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethic groups is White Americans. also located in the U.S. is 250 Delaware Avenue.</lex>
     </entry>
     <entry category="Building" eid="Id206" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

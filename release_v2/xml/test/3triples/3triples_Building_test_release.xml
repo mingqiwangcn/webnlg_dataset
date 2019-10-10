@@ -382,7 +382,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham is led by the Liberal Democrats and is the birthplace of the architect John Madin who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">Architect John Madin, born in Birmingham (led by the Liberal Democrats), designed 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id3">John Madin, designer of 103 Colmore Row, was born in Birmingham, currently led by the Liberal Democrats.</lex>
+      <lex comment="good" lid="Id3">John Madin, designer of 103 Colmore Row , was born in Birmingham, currently led by the Liberal Democrats.</lex>
     </entry>
     <entry category="Building" eid="Id23" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

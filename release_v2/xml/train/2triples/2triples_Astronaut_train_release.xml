@@ -60,7 +60,7 @@
       <lex comment="good" lid="Id3">Alan Bean was a test pilot who was born in Wheeler, Texas.</lex>
       <lex comment="good" lid="Id4">Alan Bean was born in Wheeler, Texas and pursued a career as a test pilot.</lex>
       <lex comment="good" lid="Id5">Alan Bean (born in Wheeler Texas) served as a test pilot.</lex>
-      <lex comment="good" lid="Id6">Alan Bean (born in Wheeler Texas) served as test pilot.</lex>
+      <lex comment="good" lid="Id6">Alan Bean( born in Wheeler Texas) served as test pilot.</lex>
       <lex comment="good" lid="Id7">Alan Bean, a test pilot, was born in Wheeler, Texas.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -150,7 +150,7 @@
       <lex comment="good" lid="Id3">Alan Shepard is an American who was born in New Hampshire.</lex>
       <lex comment="good" lid="Id4">Alan Shepard is a US citizen born in New Hampshire.</lex>
       <lex comment="good" lid="Id5">Alan Shepard has a US nationality and was born in the New Hampshire.</lex>
-      <lex comment="good" lid="Id6">Alan Shepard was born in New Hampshire (US).</lex>
+      <lex comment="toFix" lid="Id6">Alan Shepard was born in New Hampshire (US(.</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -164,7 +164,7 @@
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire but died in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and died in California.</lex>
       <lex comment="good" lid="Id3">Alan Shepard (born in New Hampshire) died in California.</lex>
-      <lex comment="good" lid="Id4">Alan Shepard who born in New Hampshire died in California.</lex>
+      <lex comment="good" lid="Id4">Alan Shepard ( born in New Hampshire ) died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -179,7 +179,7 @@
       <lex comment="good" lid="Id2">Alan Shepard died in California om July 21, 1998.</lex>
       <lex comment="good" lid="Id3">Alan Shepard died in California on July 21st, 1998.</lex>
       <lex comment="good" lid="Id4">Alan Shepard died in California on 1998-07-21.</lex>
-      <lex comment="good" lid="Id5">Alan Shepard passed away on 1998-07-21 in California.</lex>
+      <lex comment="toFix" lid="Id5">Alan Shepard passed away on 1998-07-21 in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -245,10 +245,10 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and he served as the Chief of the Astronaut Office.</lex>
       <lex comment="good" lid="Id2">Alan Shepard, who was born in New Hampshire, later became the Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, held the position of the Chief of the Astronaut Office.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard , who was born in New Hampshire, held the position of the Chief of the Astronaut Office.</lex>
       <lex comment="good" lid="Id4">Alan Shepard is Chief of the Astronaut Office and was born in New Hampshire.</lex>
       <lex comment="good" lid="Id5">Alan Shepard who was born in New Hampshire held the title Chief of the Astronaut Office.</lex>
-      <lex comment="good" lid="Id6">Alan Shepard, who was born in New Hampshire is the Chief of the Astronaut Office.</lex>
+      <lex comment="good" lid="Id6">Alan Shepard, who was born in New Hampshire is the Chief of the Astronaut Office,.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -404,7 +404,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard's Distinguished Service Medal from the U.S. Navy ranks higher than Department of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was the recipient of the Distinguished Service Medal in the United States Navy and this is a medal that is ranked higher than Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard got the Distinguished Service Medal of United States Navy, which has a higher rank than the Department of Commerce Gold Medal.</lex>
+      <lex comment="toFix" lid="Id3">in the higher rank of Department of Commerce Gold Medal Alan Shepard got one of the Distinguished Service Medal of United States Navy.</lex>
     </entry>
     <entry category="Astronaut" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -431,7 +431,7 @@
       <lex comment="good" lid="Id1">Elliot See was was born in Dallas and was a student at University of Texas at Austin.</lex>
       <lex comment="good" lid="Id2">Elliot See graduated from the University of Texas at Austin and was also born in Dallas, Texas.</lex>
       <lex comment="good" lid="Id3">Elliot See was born in Dallas and went on to attend the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id4">Dallas native Elliot See's alma mater was the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id4">Dallas native Eliot See's alma mater was the University of Texas at Austin.</lex>
       <lex comment="good" lid="Id5">Elliot See graduated from the University of Texas, Austin. He was born in Dallas.</lex>
       </entry>
     <entry category="Astronaut" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -459,7 +459,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See died on February 28, 1966, in St Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See died in St Louis on February 28,1966.</lex>
-      <lex comment="good" lid="Id3">Elliot See died in St Louis on February 28, 1966.</lex>
+      <lex comment="good" lid="Id3">Elliot See died in St Louis on February 28, 1966..</lex>
       <lex comment="good" lid="Id4">Elliot See died in St. Louis on February 28th, 1966.</lex>
       <lex comment="good" lid="Id5">Elliot See died in St. Louis on 1966-02-28.</lex>
       <lex comment="good" lid="Id6">Elliot See died in St Louis on 28/02/1966.</lex>
@@ -493,7 +493,7 @@
       <lex comment="good" lid="Id1">Elliot See died in St. Louis, the Kingdom of France.</lex>
       <lex comment="good" lid="Id2">Elliot See died in St Louis situated in the Kingdom of France.</lex>
       <lex comment="good" lid="Id3">Elliot See died in St. Louis which was once part of the Kingdom of France.</lex>
-      <lex comment="good" lid="Id4">Elliot See died in St. Louis (part of Kingdom of France).</lex>
+      <lex comment="good" lid="Id4">Elliot See died in St. Louis ( part of Kingdom of France).</lex>
     </entry>
     <entry category="Astronaut" eid="Id36" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -506,8 +506,8 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See, who is now dead, was born in Dallas.</lex>
       <lex comment="good" lid="Id2">Elliot See, who was born in Dallas, has died.</lex>
-      <lex comment="good" lid="Id3">Elliot See (deceased) was born in Dallas.</lex>
-      <lex comment="good" lid="Id4">Elliot See, deceased, was born in Dallas.</lex>
+      <lex comment="good" lid="Id3">Eliot See (deceased) was born in Dallas.</lex>
+      <lex comment="toFix" lid="Id4">Elliot See, deceased. was born in Dallas.</lex>
       <lex comment="good" lid="Id5">Elliot See, born in Dallas, has already passed away.</lex>
     </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -519,9 +519,10 @@
         <mtriple>Elliot_See | status | "Deceased"</mtriple>
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See died in St. Louis.</lex>
+      <lex comment="toFix" lid="Id1">Elliot See is died in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See passed away in St Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See is deceased and died in St. Louis.</lex>
+      <lex comment="good" lid="Id4">Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -551,7 +552,7 @@
       <lex comment="good" lid="Id3">William Anders was born 1933-10-17 and he received a MS from AFIT.</lex>
       <lex comment="good" lid="Id4">William Anders (1933-10-17) graduated from AFIT, in 1962.</lex>
       <lex comment="good" lid="Id5">William Anders was born on October 17th, 1933 and his Alma Mater was AFIT, M.S. which he attended in 1962.</lex>
-      <lex comment="good" lid="Id6">William Anders (born on 1933-10-17) graduated from AFIT, M.S. in 1962.</lex>
+      <lex comment="good" lid="Id6">William Anders ( born on 1933-10-17) graduated from AFIT, M.S. in 1962.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -578,7 +579,7 @@
         <mtriple>William_Anders | nationality | United_States</mtriple>
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The American William Anders was born in British Hong Kong.</lex>
+      <lex comment="good" lid="Id1">The American William Anders was born in British Hong Kong,.</lex>
       <lex comment="toFix" lid="Id2">William Anders, who was from the United States, was actually born in British Hong Kong.</lex>
       <lex comment="good" lid="Id3">Although William Anders was from the United States, he was actually born in British Hong Kong.</lex>
       <lex comment="good" lid="Id4">William Anders nationality is the United States, but he was born in Hong Kong.</lex>
@@ -598,7 +599,7 @@
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
       <lex comment="good" lid="Id2">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
       <lex comment="good" lid="Id3">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
-      <lex comment="good" lid="Id4">William Anders who was born in British Hong Kong served as a fighter pilot.</lex>
+      <lex comment="toFix" lid="Id4">Willian Anders born in British Hong Kong served as a fighter pilot.</lex>
       <lex comment="good" lid="Id5">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -610,7 +611,7 @@
         <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
         <mtriple>William_Anders | was a crew member of | Apollo_8</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders is a fighter pilot and member of Apollo 8's crew.</lex>
+      <lex comment="good" lid="Id1">William Anders is a test pilot and member of Apollo 8's crew.</lex>
       <lex comment="good" lid="Id2">William Anders was part of the Apollo 8 crew and was once a fighter pilot.</lex>
       <lex comment="good" lid="Id3">William Anders was a fighter pilot and a crew member of Apollo 8.</lex>
     </entry>

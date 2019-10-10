@@ -233,7 +233,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A-Rosa Luna, bulit by Neptun Werft, Warnemunde, has a top speed of 24.0, a ship displacement of 1850 tonnes and is 125800.0mm long.</lex>
-      <lex comment="good" lid="Id2">A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24 km/h. TheA-Rosa Luna is 125.8 metres long and it was built by Neptun Werft, Warnemünde.</lex>
+      <lex comment="good" lid="Id2">A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24 km/h. TheA-Rosa Luna is 125.8 metres long and it was built by Neptun Werft, Warnemünde. .</lex>
       </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -254,7 +254,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is powered by MTU Friedrichshafen made engines and its top speed is 24.0. It is 125800.0 millimetres in length and has a ship displacement of 1850 tonnes.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna is powered by MTU Friedrichshafen made engines and it's top speed is 24.0. It is 125800.0 millimetres in length and has a ship displacement of 1850 tonnes.</lex>
       <lex comment="good" lid="Id2">The ship A-Rosa Luna weighs 1850 tonnes, has a top speed of 24.0, is 125800.0 millimetres in length, and is powered by a MTU Friedrichshafen engine.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine and has a top speed of, 24.0. It has a ship displacement of 1850 tonnes and a length of, 125.8 metres.</lex>
     </entry>
@@ -300,7 +300,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
         <mtriple>A-Rosa_Luna | shipOrdered | 2004-01-22</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna was ordered on the 22nd of January 2004 and its top speed is 24.0. The A-Rosa Luna is 125800.0 millimetres in length and weighs 1850 tonnes.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was ordered on the 22nd of January 2004 and its top speed is 24.0. The A-Rosa Luna is 125800.0 millimetres in length and weighs 1850 tonnes..</lex>
       <lex comment="good" lid="Id2">A-Rosa Luna has a ship displacement of 1850 tonnes, is 125800.0 (millimetres) long and a top speed of 24.0. It was ordered on the 22nd of January 2004.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -381,7 +381,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDA Cruises of Germany is the owner of AIDAluna, which is powered by Caterpillar Inc (includes key figure Douglas R. Oberhelman).</lex>
       <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. who provide the power for AIDAluna owned by AIDA Cruises in Germany.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by German company AIDA Cruises, uses a Caterpillar Inc. engine. Caterpillar Inc. includes key member Douglas R. Oberhelman.</lex>
+      <lex comment="good" lid="Id3">AIDAluna, owned by German company AIDA Cruises, uses a Caterpillar Inc. engine . Caterpillar Inc. includes key member Douglas R. Oberhelman.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -397,7 +397,7 @@
         <mtriple>AIDAluna | christeningDate | 2009-04-04</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With a christening date of 2009-04-04, the AIDAluna, had its maiden voyage on the 22nd of March, 2009. The length of the AIDAluna is 252000.0 millimetres and its power type is the Caterpillar Inc. engine.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna made its first trip on March 22, 2009 and its christening date is April 4, 2009. The length of the AIDAluna is 252000.0 millimetres and it has a Caterpillar Inc. engine.</lex>
+      <lex comment="good" lid="Id2">The AIDAluna made its first trip on March 22, 2009 and it's christening date is April 4, 2009. The length of the AIDAluna is 252000.0 millimetres and it has a Caterpillar Inc. engine.</lex>
       <lex comment="good" lid="Id3">The christening date of AIDAluna is the 4th April 2004 and it had its maiden voyage on the 22nd of March 2009. The length of the AIDAluna is 252000.0 millimetres and it is powered by Caterpillar Inc.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -438,7 +438,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna, built by Meyer Weft and owned by AIDA Cruises, is 252 metres long and has a ship beam of 32.2.</lex>
       <lex comment="good" lid="Id2">AIDAluna has a ship beam of 32.2, 252000 millimetres long and was built by Meyer Werft. AIDAluna is owned by AIDA Cruises.</lex>
-      <lex comment="good" lid="Id3">AIDA Cruises own the AIDAluna which was built by Meyer Werft and is 252 m long. Its ship beam is 32.2 long.</lex>
+      <lex comment="good" lid="Id3">AIDA Cruises own the AIDAluna which was built by Meyer Werft and is 252 m long. It's ship beam is 32.2 long.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -567,7 +567,7 @@
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ship AIDAstella was built by Meyer Werft and its operator is AIDA Cruises. It has a beam of 32.2 metres and is is 253260.0 millimetres in length.</lex>
+      <lex comment="good" lid="Id1">The ship AIDAstella was built by Meyer Werft and its operator is AIDA Cruises. It has a beam of 32.2 metres and is is 253260.0 millimetres in length. .</lex>
       <lex comment="good" lid="Id2">AIDAstella is 253260.0mm long with a 32.2m ship beam. It's operated by AIDA Cruise Line and built by Meyer Werft.</lex>
       <lex comment="good" lid="Id3">AIDAstella was built by Meyer Werft and is operated by AIDA Cruises. AIDAstella is 253260.0 millimetres in length and has a beam of 32.2 m.</lex>
     </entry>
@@ -1011,7 +1011,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ALV X-1 originated in the United States where the capital is Washington, D.C. The inhabitants of the United States are called Americans and African Americans are one of the ethnic groups there.</lex>
-      <lex comment="good" lid="Id2">The ALV X-1 originates in the United States which has the African Americans among its ethnic groups. The people of the US are known as Americans and the capital city is Washington DC.</lex>
+      <lex comment="good" lid="Id2">The ALV X-1 originates in the United States which has the African Americans among it's ethnic groups. The people of the US are known as Americans and the capital city is Washington DC.</lex>
       <lex comment="good" lid="Id3">ALV X-1 hails from the US, where African Americans are among the ethnic groups and the people are called Americans. Washington D.C. is the capital of the United States.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id52" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1044,7 +1044,7 @@
         <mtriple>United_States | demonym | Americans</mtriple>
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The U.S. is the originator of the ALVX-1. Washington, D.C. is its capital, Americans live there, and one ethnic group is called the Asian Americans.</lex>
+      <lex comment="good" lid="Id1">The U.S. is the originator os the ALVX-1. Washington, D.C. is its capital, Americans live there, and one ethnic group is called the Asian Americans.</lex>
       <lex comment="good" lid="Id2">Found in the US is the ALV X-1. The capital of that country is Washington, D.C. and an ethnic group there is called Asian Americans. Americans occupy the U.S.</lex>
       <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States which has the capital of Waahington D.C. The inhabitants of the United States are called Americans but Asian Americans are one of the ethnic groups there.</lex>
     </entry>
@@ -1208,7 +1208,7 @@
         <mtriple>AMC_Matador | bodyStyle | Coupé</mtriple>
         <mtriple>AMC_Matador | engine | AMC_V8_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador is assembled in Thames, New Zealand and its alternative name is VAM Classic. The AMC Matador has a Coupé style body and is equipped with an AMC V8 engine.</lex>
+      <lex comment="good" lid="Id1">The AMC Matador is assembled in Thames, New Zealand and its alternative name is VAM Classic. The AMC Matador has a Coupé style body and is equipped with an AMC V8 engine..</lex>
       <lex comment="good" lid="Id2">The Coupé AMC Matador, aka VAM Classic, is assembled in Thames, New Zealand, and has a AMC V8 engine.</lex>
       <lex comment="good" lid="Id3">The AMC Matador, also known as VAM Classic, is assembled in Thames, New Zealand. It has a Coupé style body and has a AMC V8 engine.</lex>
     </entry>
@@ -1226,7 +1226,7 @@
         <mtriple>AMC_Matador | engine | AMC_straight-6_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The alternative name for AMC Matador is VAM Classic and it is assembled in Thames, New Zealand. The AMC Matador is a Coupé and has an AMC straight-6 engine.</lex>
-      <lex comment="good" lid="Id2">AMC Matador also known as VAM Classic is a coupé with an AMC straight-6 engine is assembled in Thames, New Zealand.</lex>
+      <lex comment="good" lid="Id2">AMC Matador also known as VAM Classic is a coupé with an AMC straight-6 engine is assembled in Thames,New Zealand.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id64" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1276,7 +1276,7 @@
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) has a ship beam length of 24.4. and is 192000 mms in length. It derives from Argentina and provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000.</lex>
-      <lex comment="good" lid="Id2">ARA Veinticinco de Mayo (V-2) derives from Argentina and it provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000. Its ship beam measures 24.4m and is 192000.0 millimetres long.</lex>
+      <lex comment="good" lid="Id2">ARA Veinticinco de Mayo (V-2) derives from Argentina and it provided spare parts for the Nael Minas Geraisand but the remainder was scrapped in 2000. It's ship's beam measures 24.4m and is 192000.0 millimetres long.</lex>
       <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo (V-2) from Argentina has a ship beam length of 24.4 and is 192000.0 mms in length. It has provided spare parts for NaeL Minas Geraisand and the remainder was scrapped in 2000.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id67" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1325,7 +1325,7 @@
         <mtriple>Abarth_1000_GT_Coupé | manufacturer | Abarth</mtriple>
         <mtriple>Abarth | foundedBy | Carlo_Abarth</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abarth was founded by Carlo Abarth in Bologna. It is the manufacturer of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
+      <lex comment="good" lid="Id1">Abarth was founded by Carlo Abarth in Bologna,. It is the manufacturer of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">Abarth, which was founded by Carlo Abarth, in Bologna, is the manufacturer of the Abarth 1000 GT Coupé. The Abarth 1000 GT Coupé was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id3">The Abarth company was founded in Bologna by Carlo Abarth. The company made the Abarth 1000 GT Coupe which was designed by Gruppo Bertone.</lex>
     </entry>
@@ -1361,7 +1361,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth foundation was founded in Italy by Carlo Abarth. It manufactured the Abarth 1000 GT Coupé which was designed by Gruppo Bertone.</lex>
       <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and made by Abarth. The Abarth foundation was founded in Italy by Carlo Abarth.</lex>
-      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and manufactured by Abarth, which was founded by Carlo Abarth. The Abarth foundation was founded in Italy.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT Coupe was designed by Gruppo Bertone and manufactured by Abarth, which was founded by Carlo Abarth . The Abarth foundation was founded in Italy.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id72" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1377,7 +1377,7 @@
         <mtriple>Abarth | foundedBy | Carlo_Abarth</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abarth (founded byCarlo Abarth) are the manufacturers of the Abarth 1000 GT Coupé which was designed by Gruppo Bertone (founded in Italy).</lex>
-      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe, designed by Italy's Gruppo Bertone, was made by Abarth (founded by Carlo Abarth).</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe , designed by Italy's Gruppo Bertone, was made by Abarth (founded by Carlo Abarth).</lex>
       <lex comment="good" lid="Id3">Gruppo Bertone designed the Abarth 1000 GT Coupe and was founded in Italy. Abarth, founded by Carlo Abarth, made that Coupe.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id73" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1564,7 +1564,7 @@
         <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé is a two door coupe which has a width of 1.55 metres. It has a wheelbase of 2160 millimetres and a straight-four engine.</lex>
-      <lex comment="good" lid="Id2">The Abarth 1000 GT 2 door Coupe is 1.55 m wide and has a wheelbase of 2160 millimetres. Its engine is a straight-four type.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT 2 door Coupe is 1.55 m wide and has a wheelbase of 2160 millimetres. It's engine is a straight-four type.</lex>
       <lex comment="good" lid="Id3">The Abarth 1000GT Coupe has a wheelbase of 2160mm, and a width of 1.55m. It is a two door coupe and has a straight four engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id84" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1599,7 +1599,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX is a mid-size car with a V6 engine and front-wheel and all-wheel drive. It is assembled in Marysville, Ohio.</lex>
       <lex comment="good" lid="Id2">The Acura TLX is mid-size class of car with a V6 engine and front-wheel and all-wheel drive. It is assembled in Marysville, Ohio.</lex>
-      <lex comment="good" lid="Id3">The Acura TLX is a mid size car assembled in Marysville, Ohio with a V6 engine and front and all-wheel drive.</lex>
+      <lex comment="good" lid="Id3">The Acura TLX is a mid size car assembled in Marysville,Ohio with a V6 engine and front and all-wheel drive.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1723,7 +1723,7 @@
         <mtriple>Acura_TLX | class | Luxury_vehicle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX has a V6 engine and is assembled at the Marysville Auto Plant. It is a luxury, front wheel drive vehicle.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX is assembled at the Marysville Auto Plant. It has a V6 engine, front wheel drive and is a luxury vehicle.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX is assembled at the Marysville Auto Plant.It has a V6 engine, front wheel drive and is a luxury vehicle.</lex>
       <lex comment="good" lid="Id3">Luxury vehicle, the Acura TLX, has a front wheel drive and a V6 engine and is assembled at Marysville Auto Plant.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id93" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1807,7 +1807,7 @@
         <mtriple>Acura_TLX | engine | Honda_J_engine</mtriple>
         <mtriple>Acura_TLX | relatedMeanOfTransportation | Honda_Accord</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Honda makes the Acura TLX model (related to the Honda Accord) that contains a Honda J Engine. A division of honda is the Acura.</lex>
+      <lex comment="good" lid="Id1">Honda makes the Acura TLX model (related to the Honda Accord)that contains a Honda J Engine. A division of honda is the Acura.</lex>
       <lex comment="good" lid="Id2">Acura is a division of Honda, the company who make the Acura TLX. The vehicle is related to the Honda Accord and has a Honda J engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id98" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -1970,8 +1970,8 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres and a 21.2 m long ship beam. The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki.</lex>
-      <lex comment="good" lid="Id2">The Aleksey Chirikov icebreaker is 99.83 metres long and its beam is 21.2.The ship was built at the Arctech Helsinki Shipyard.</lex>
+      <lex comment="good" lid="Id1">An icebreaker, the Aleksey Chirikov, has a length of 99.83 metres and a 21.2 m long shipbeam. The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki.</lex>
+      <lex comment="good" lid="Id2">The Aleksey Chirikov icebreaker is 99.83 metres long and it's beam is 21.2.The ship was built at the Arctech Helsinki Shipyard.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksey Chirikov was built at the Archtech Helsinki Shipyard in Helsinki. It is 99.83 metres long and has a ship beam of 21.2 metres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id106" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2054,8 +2054,8 @@
         <mtriple>Alfa_Romeo_164 | class | "Mid-size luxury / Executive car"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, a mid size luxury executive car has a 4-speed auto (ZF 4HP18QE) transmission with a straight-four engine. It is also referred to as the Alfa Romeo 168.</lex>
-      <lex comment="good" lid="Id2">Alfa Romeo 164 (alternative name Alfa Romeo 168) is considered a mid-size luxury executive car. It has a straight four engine and has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 has a 4 speed automatic, straigt four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
+      <lex comment="good" lid="Id2">Alfa Romeo 164 (alternative name Alfa Romeo 168), is considered a mid-size luxury executive car. It has a Straight four engine and has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164, is a 4 speed automatic, straigt four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2158,7 +2158,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, which is assembled in Italy where Rome is the capital, is similar to the Fiat Croma and the Lancia Thema.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, assembled in Italy (capital:Rome), the Fiat Croma and Lancia Thema, are related modes of transportation.</lex>
-      <lex comment="good" lid="Id3">The Alfa Romeo 164 is similar to the Fiat Croma and related to the Lancia Thema. Its assembly line is in Italy, whose capital is Rome.</lex>
+      <lex comment="good" lid="Id3">The Alfa Romeo 164 is similar to the Fiat Croma and related to the Lancia Thema. It's assembly line is in Italy, whose capital is Rome.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id116" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2180,7 +2180,7 @@
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, the Fiat Croma and Saab 9000 are related means of transport in that they are both cars. The Alfa Romeo 164 was assembled in Italy, where Rome is the capital.</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 164, the Fiat Croma, the Saab 900 are similar means of transport. The Alfa Romeo 164 is assembled in Italy where Rome is the capital.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 the Fiat Croma , the Saab 900 are similar means of transport. The Alfa Romeo 164 is assembled in Italy where Rome is the capital.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id117" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2224,7 +2224,7 @@
         <mtriple>Humphrys,_Tennant_and_Dykes | location | Deptford</mtriple>
         <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alhambra with length 63800.0milimetres is owned by the P&amp;O company and powered by a Humphreys, Tennant and Dykes engine located in Deptford.</lex>
+      <lex comment="good" lid="Id1">Alhambra with length 63800.0milimetres is owned by the P&amp;O company and powered by a Humphreys,Tennant and Dykes engine located in Deptford.</lex>
       <lex comment="good" lid="Id2">The Alhambra is owned by P&amp;O and is 63800.0 millimetres long. It is powered by an engine from Humphrys, Tennant and Dykes who are located in Deptford.</lex>
       </entry>
     <entry category="MeanOfTransportation" eid="Id119" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2246,7 +2246,7 @@
         <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
         <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes is located in London and provides the power for the Alhambra which is owned by P&amp;O and built by the Samuda Brothers.</lex>
+      <lex comment="good" lid="Id1">Humphrys,Tennant and Dykes is located in London and provides the power for the Alhambra which is owned by P&amp;O and built by the Samuda Brothers.</lex>
       <lex comment="good" lid="Id2">Alhambra was built by the Samuda Brothers and is owned by the P &amp; O company. It powered by an engine made by Humphrys, Tennant and Dykes, who are located in London.</lex>
       <lex comment="good" lid="Id3">The Alhambra, owned by P&amp;O, built by the Samuda Brothers, is powered by London's Humphrys, Tennant and Dykes.</lex>
     </entry>
@@ -2269,7 +2269,7 @@
         <mtriple>Humphrys,_Tennant_and_Dykes | location | London</mtriple>
         <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alhambra which is 63800.0 millimetres long owned by P&amp;O has a Humphreys, Tennant and Dykes engine located in London.</lex>
+      <lex comment="good" lid="Id1">The Alhambra which is 63800.0 millimetres long owned by P&amp;O has a Humphreys,Tennant and Dykes engine located in London.</lex>
       <lex comment="good" lid="Id2">Alhambra is 63800.0 mms in length and is owned by the P &amp; O company. It has a power type manufactured by Humnphrys, Tennant and Dykes who are located in London.</lex>
       <lex comment="good" lid="Id3">The Alhambra, owned by P&amp;O, had the length of 63800.0 millimetres and is powered by a Humphrys, Tennant and Dykes engine. Humphrys, Tennant and Dykes is located in London.</lex>
     </entry>
@@ -2339,7 +2339,7 @@
         <mtriple>Alhambra | topSpeed | 18.52</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alhambra, has a length of 63800.0 millimetres and its ship beam is 8.3m. Its top speed is 18.52 and it is powered by a Humphrys, Tennant and Dykes engine.</lex>
-      <lex comment="good" lid="Id2">The Alhambra has a Humphrys, Tennant and Dykes power type, a ship beam of 8.3m, a length of 63800.0 millimetres and a top speed of 18.52.</lex>
+      <lex comment="good" lid="Id2">The Alhambra has a Humphrys, Tennant and Dykes power type, a ship beam of 8.3m , a length of 63800.0 millimetres and a top speed of 18.52.</lex>
       <lex comment="good" lid="Id3">The Alhambra has an 8.3m ship beam and a length of 63800.0 millimetres. Its top speed is 18.52 and it is powered by a Humphrys, Tennant and Dykes engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id124" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2386,7 +2386,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alhambra ship beam is 8.3m and it is 63800.0 millimetres long. It was launched on 31st May 1855. and had a top speed of 18.52 km/h.</lex>
       <lex comment="good" lid="Id2">The Alhambra was launched on 31 May 1855 and has an 8.3m ship beam, a top speed of 18.52 and is 63800.0 mms long.</lex>
-      <lex comment="good" lid="Id3">The Alhambra had a top speed of 18.52 km/h and a ship beam of 8.3 m. It was 63800.0 millimetres long and was was launched on 31st May 1855.</lex>
+      <lex comment="good" lid="Id3">The Alhambra had a top speed of 18.52 km/h and a ship beam of 8.3m.. It was 63800.0 millimetres long and was was launched on 31st May 1855.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id126" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2482,8 +2482,8 @@
         <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
         <mtriple>Alvis_Speed_25 | engine | 31.48 tax horsepower</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle. It has a wheelbase of 127" and an engine capable of producing 31.48 tax horsepower. It is considered a full-sized luxury vehicle.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full-size luxury vehicle which has a wheelbase of 127 inches and a 31.48 hp engine. It also has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle. It h a wheelbase of 127" and an engine capable of producing 31.48 tax horsepower. It is considered a full-sized luxury vehicle.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 is a full-size luxury vehicle which has a wheelbase of 127 inches and a 31.48 hp engine. It also has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25, classed as a full-size luxury car, has a 31.48 tax hp engine and a wheelbase of 127 inches. Its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id130" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2560,8 +2560,8 @@
         <mtriple>Alvis_Speed_25 | class | Full-size_car</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle. The Alvis Speed 25, which is a full size class car, has a wheelbase of 127 inches and a 31.48 tax horsepower engine.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 is classed as a Full-size car with a wheelbase of 127 inches and an engine capable of producing 31.48 tax horsepower. It has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id3">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle". The wheelbase measures 127 inches, it has a 31.48 tax hp engine and is classed as a full-size car.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 is classed as a Full-size car with a wheelbase of 127 inches and an engine capable of producing 31.48 tax horsepower. It has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle". The wheelbase measures 127 inches, it has a 31.48 tax hp engine and is classed as a full-size car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id131" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2582,7 +2582,7 @@
         <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
         <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American Motors Co, which includes member Roy D. Chapin Jr., was succeeded by Eagle. AMC Matador is manufactured by American Motors, which includes subsidiary Wheel Horse.</lex>
+      <lex comment="good" lid="Id1">American Motors Co, which includes member Roy D. Chapin Jr., was succeeded by Eagle. AMC Matador is manufactured by American Motors, which includes subsidary Wheel Horse.</lex>
       <lex comment="good" lid="Id2">American Motors Co was succeeded by Eagle and owns a subsidiary company, The Wheel Horse. A key person at American Motors, a company where the AMC Matador is manufactured, is Roy D. Chapin Jr.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id132" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2606,7 +2606,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AMC Matador is manufactured by American Motors and Wheel Horse is a subsidiary. Roy D Chapin Jr is a key person at American Motors which was acquired by Chrysler.</lex>
       <lex comment="good" lid="Id2">AMC Matador is manufactured by American Motors which was acquired by Chrysler. Roy D. Chapin Jr. is a key person at American Motors and The Wheel Horse is a subsidiary of them.</lex>
-      <lex comment="good" lid="Id3">American Motors manufactures the AMC Matador, was acquired by Chrysler and includes subsidiary Wheel Horse. AM includes member Roy D Chapin Jr.</lex>
+      <lex comment="good" lid="Id3">American Motors manufactures the AMC Matador, was acquired by Chrysler and includes subsidary Wheel Horse. AM includes member Roy D Chapin Jr.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id133" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2759,8 +2759,8 @@
         <mtriple>Antares_(rocket) | maidenFlight | 2013-04-21</mtriple>
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket was made by the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport. Its maiden flight was on April 21st 2013 and its final flight on July 13, 2014.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket is manufactured at the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport. Its maiden flight was on April 21st 2013 and the last one was on July 13th 2014.</lex>
+      <lex comment="good" lid="Id1">The Antares rocket was made by the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Its Its maiden flight was on April 21st 2013 and its final flight on July 13, 2014.</lex>
+      <lex comment="good" lid="Id2">The Antares rocket is manufactured at the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport. It's maiden flight was on April 21st 2013 and the last one was on July 13th 2014.</lex>
       <lex comment="good" lid="Id3">The Antares rocket made its maiden flight on April 21st 2013 and its final flight on July 13th 2014. It was made by the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id140" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2778,7 +2778,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antares rocket, manufactured at Yuzhnoye Design Office, launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. Its initial flight was April 21, 2013 and the final launch was July 13. 2014.</lex>
       <lex comment="good" lid="Id2">The Antares rocket made its maiden flight on April 21st 2013 and had its final flight on July 13, 2014. It is manufactured by the Yuzhnoye Design Office and was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
-      <lex comment="good" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and it was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. It made its first flight on April 21, 2013 and its last flight on July 13, 2014.</lex>
+      <lex comment="good" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and it was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0. It made its first flight on April 21, 2013 and it's last flight on July 13, 2014.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id141" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2845,7 +2845,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antares rocket is made by the Yuzhnoye Design Office and made its premier voyage on Jan. 9, 2013 and its final flight was on the 28th October 2014. The Mid-Atlantic Regional Spaceport Launch Pad 0 is its launch pad.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket is manufactured by the Yuzhnoye Design Office and its launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. Its maiden flight was on the 09th January 2014 and its final flight was on the 28th October 2014.</lex>
+      <lex comment="good" lid="Id2">The Antares rocket is manufactured by the Yuzhnoye Design Office and it's launch site was the Mid-Atlantic Regional Spaceport Launch Pad 0. It's maiden flight was on the 09th January 2014 and it's final flight was on the 28th October 2014.</lex>
       </entry>
     <entry category="MeanOfTransportation" eid="Id145" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2895,7 +2895,7 @@
         <mtriple>Ariane_5 | launchSite | Guiana_Space_Centre</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on August 11th 2005 and its last flight on December 18, 2009. The European Space Agency is the manufacturer of the Ariane 5 which was launched from Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id2">Guiana Space Centre was the launch site of the Ariane 5, which was manufactured by the European Space Agency. Its first voyage was on August 11.2005 and the last was on December 18.2009.</lex>
+      <lex comment="good" lid="Id2">Guiana Space Centre was the launch site of the Ariane 5,which was manufactured by the European Space Agency.Its first voyagevwas on August 11.2005 and the last was on December 18.2009.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009 Ariane 5 was manufactured by the European Space Agency and launched from the Guiana Space Centre.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id148" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2911,8 +2911,8 @@
         <mtriple>Ariane_5 | maidenFlight | 1996-06-04</mtriple>
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. The Ariane 5 was manufactured at the ESA and Arianespace and its launch site was ELA-3 launchpad.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5, which was manufactured at the ESA and Arianespace was launched at ELA-3. The maiden flight took place on 4 June 1996 and the final flight on 18 December 2009.</lex>
+      <lex comment="good" lid="Id1">Ariane 5 had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. The Ariane 5 was manufactured at the ESA and Arinanespace and its launch site was ELA-3 launchpad..</lex>
+      <lex comment="good" lid="Id2">The Ariane 5, which was manufactured at the ESA and Arinanespace was launched at ELA-3. The maiden flight took place on 4 June 1996 and the final flight on 18 December 2009.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3, had its maiden flight on the 4th of June, 1996 and its final flight on the 18th of December 2009. It was made by ESA and Arianespace.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id149" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2968,7 +2968,7 @@
         <mtriple>Ariane_5 | maidenFlight | 2005-08-11</mtriple>
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arianespace. It was launched at the ELA-3 launchpad, with the first voyage taking place on August 11, 2005. Its final flight was on the 18th of December 2009.</lex>
+      <lex comment="good" lid="Id1">The Ariane 5 was manufactured at the ESA and Arinanespace. It was launched at the ELA-3 launchpad, with the first voyage taking place on August 11, 2005. Its final flight was on the 18th of December 2009.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 had its first voyage August 11, 2005 and final flight on the 18th of December 2009. It was made by ESA and Arianespace and was launched from the ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was made by ESA and Arianespace and was launched at the ELA-3. It had its maiden flight on August 11th 2005 and its last flight was on December 18, 2009.</lex>
     </entry>
@@ -2987,7 +2987,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Airbus Defense and Space manufactured the Ariance 5 which was launched at ELA-3. Airane 5's maiden flight was on June 4, 1996 and its final flight was December 18, 2004.</lex>
       <lex comment="good" lid="Id2">The launch site of the Ariane was ELA-3 launchpad, it made its maiden flight on June 4th 1996. It was manufactured by The Airbus Defence and Space and the final flight took place on December 18th 2004.</lex>
-      <lex comment="good" lid="Id3">The manufacturer of the Ariane 5 was The Airbus Defence and Space and it was launched at ELA-3. Its maiden flight was on June 4, 1996 and the final flight was on December 18, 2004.</lex>
+      <lex comment="good" lid="Id3">The manufacturer of the Ariane 5 was The Airbus Defence and Space and it was launched at ELA-3. It's maiden flight was on June 4, 1996 and the final flight was on December 18, 2004.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id153" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3104,7 +3104,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin Virage, made by the company Aston Martin, succeeded the Aston Martin V8 which has a 5.3 litre engine and is related to Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Virage, was made by the company Aston Martin, and was succeeded the Aston Martin V8 which has a 5.3 litre engine. The Aston Martin V8 is a related means of transport to the Aston Martin RHAM/1.</lex>
-      <lex comment="good" lid="Id3">The Aston Martin V8 has a 5.3 litre engine and preceded the Aston Martin Virage made by the company Aston Martin. It is a related means of transportation to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 has a 5.3 litre engine and preceded the Aston Martin Virage made by the company Aston Martin. It is a related means of transportation to the Aston Martin RHAM/1,.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id160" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3205,7 +3205,7 @@
         <mtriple>Aston_Martin_V8 | manufacturer | Aston_Martin</mtriple>
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 and Aston Martin DBS are a related means of transport and they're manufactured by Aston Martin. The Aston Martin V8 was succeeded by the Aston Martin Virage and its engine volume is 5.3 litres.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8 and Aston Martin DBS are a related means of transport and they're manufactured by Aston Martin. The Aston Martin V8 was succeeded by the Aston Martin Virage and it's engine volume is 5.3 litres.</lex>
       <lex comment="good" lid="Id2">The Aston Martin made Aston Martin V8 and the Aston Martin DBS are related means of transport. The Aston Martin V8 has a 5.3 litre engine and was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8, succeeded by the Aston Martin Virage, has a 5.3 liter engine and is manufactured by Aston Martin. It is similar to the Aston Martin DBS.</lex>
     </entry>
@@ -3428,7 +3428,7 @@
         <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II was launched from the Cape Canaveral Air Force Station at the Spaceport Florida Launch Complex 36. It is 3.04m in diameter and the final flight was on 1998-03-16.</lex>
-      <lex comment="good" lid="Id2">The Atlas II was launched from the Cape Canaveral Air Force Station at the Spaceport Florida Launch Complex 36. It has a diameter of 3.04m and its final flight was on 1998-03-16.</lex>
+      <lex comment="good" lid="Id2">The Atlas II was launched from the Cape Canaveral Air Force Station at the Spaceport Florida Launch Complex 36. It has a diameter of 3.04m and it's final flight was on 1998-03-16.</lex>
       <lex comment="good" lid="Id3">The Atlas II, with a 3.04m diameter, was launched from Cape Canaveral Air Force Station and the Spaceport Florida Launch Complex 36. Its final flight was 3/16/1998.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id176" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3461,7 +3461,7 @@
         <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
         <mtriple>Atlas_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Atlas II was launched at the launched Vandenberg AFB Space Launch Complex 3 at Cape Canaveral Air Force Station. It had its final flight on March 16th 1998 and was 3.04 in diameter.</lex>
+      <lex comment="good" lid="Id1">The Atlas II was launched at the launched Vandenberg AFB Space Launch Complex 3 at Cape Canaveral Air Force Station.It had its final flight on March 16th 1998 and was 3.04 in diameter.</lex>
       <lex comment="good" lid="Id2">The Atlas II is 3.04 m in diameter and had its final flight on 16 March 1998. It was launched from Vandenberg AFB Space Launch Complex 3 and Cape Canaveral Air Force Station.</lex>
       <lex comment="good" lid="Id3">The Atlas II is 3.04m in diameter and was sent from the Cape Canaveral Air Force Station and the Vandenberg AFB Space Launch Complex 3. March 16, 1998 was its last flight.</lex>
     </entry>
@@ -3650,7 +3650,7 @@
         <mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Caterpillar Inc. was founded in California and located in Peoria, Illinois. Douglas R. Oberhelman is a key person of the company and its engine power AIDAluna.</lex>
+      <lex comment="good" lid="Id1">Caterpillar Inc. was founded in California and located in Peoria,Illinois. Douglas R. Oberhelman is a key person of the company and its engine power AIDAluna.</lex>
       <lex comment="good" lid="Id2">AIDAluna is powered by Caterpillar Inc. where Douglas R Oberhelman is a key person. The company was founded in California and is located in Peoria, Illinois.</lex>
       <lex comment="good" lid="Id3">The power type of the AIDAluna is the Caterpillar Inc. engine, the company is located in Peoria, Illinois. The foundation place of Caterpillar Inc. was California and a key person with the company is, Douglas R. Oberhelman.</lex>
     </entry>
@@ -4043,7 +4043,7 @@
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Having been made in Italy, the Alfa Romeo is like the Fiat Croma car which in turn is related to the Opel Vectra car.</lex>
-      <lex comment="good" lid="Id2">The Alfa Romeo 164 is assembled in Italy where the capital is Rome. Fiat Croma, similar to the Alfa Romeo 164, is related to the Opel Vectra.</lex>
+      <lex comment="good" lid="Id2">The Alfa Romeo 164 is assembled in Italy where the capital is Rome. Fiat Croma, similar to the Alfa Romeo 164, is related to the Opel Vectra. .</lex>
       <lex comment="good" lid="Id3">The Fiat Croma and Opel Vectra and Alfa Romeo 164 are a related forms of transportation. The Alfa Romeo 164 is assembled in Italy where the capital is Rome.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id208" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -4323,7 +4323,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operated by Arianespace, the ELA-3 is at the Guiana Space Centre in French Guiana in Kourou. This was the launch site of the Ariane 5.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was launched at the Arianespace operated ELA-3 at Guiana Space Centre. Guiana Space Centre is located in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was launched at the Arianespace operated ELA-3 at Guiana Space Centre. Guiana Space Centre is located in Kourou,French Guiana.</lex>
       <lex comment="good" lid="Id3">The launch site of the Ariane was ELA-3 launchpad, which is operated by Arianespace. The ELA-3 is located at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id222" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -4372,8 +4372,8 @@
         <mtriple>Italy | capital | Rome</mtriple>
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164. The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
-      <lex comment="good" lid="Id2">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164. The Alfa Romeo 164 was assembled in Italy, whose capital is Rome.</lex>
+      <lex comment="good" lid="Id1">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164 . The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
+      <lex comment="good" lid="Id2">The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164 . The Alfa Romeo 164 was assembled in Italy, whose capital is Rome.</lex>
       <lex comment="good" lid="Id3">The Saab 9000, Alfa Romeo 164 and Lancia Thema are related means of transportation. The Alfa Romeo 164's assembly line is in Italy, where Rome is the capital.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id225" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -4503,7 +4503,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II is from the United States which has the capital city of Washington DC. The leader of the country is the President and the ethnic groups include African Americans.</lex>
-      <lex comment="good" lid="Id2">The United States, led by the President, has its capital in Washington D.C. and is the origin of the Atlas II and African Americans.</lex>
+      <lex comment="good" lid="Id2">The United States, led by the President, has it's capital in Washington D.C. and is the origin of the Atlas II and African Americans.</lex>
       <lex comment="good" lid="Id3">Atlas II originates from the United States, where Washington D.C. is the capital and the leader is the President. African Americans make up an ethnic group.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id232" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -4555,7 +4555,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II originated from the U.S. where the inhabitants are called Americans. The leader of the United States is the President of the United States and African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">The Atlas II is from the United States, where the people are Americans and African Americans are among the ethnic groups. The leader of the United States is the President of the United States.</lex>
-      <lex comment="good" lid="Id3">The Atlas II originated from the U.S, where Americans live. The leader of the United States is the President of the United States, and one of its ethnic groups is African Americans.</lex>
+      <lex comment="good" lid="Id3">The Atlas II originated from the U.S, where Americans live. The leader of the United States is the President of the United States, and one of its ethnic groups is African Americans. .</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id235" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4655,7 +4655,7 @@
         <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlas II is from the United States where the capital city is Washington D.C. Americans live in the U.S. as do many ethnic groups, one being Asian Americans.</lex>
-      <lex comment="good" lid="Id2">The Atlas II originated from the U.S., whose capital is Washington D.C. The people of the United States are called Americans and one of its ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id2">The Atlas II originated from the U.S., whose capital is Washington D.C.. The people of the United States are called Americans and one of its ethnic groups is Asian Americans .</lex>
       <lex comment="good" lid="Id3">The Atlas II comes from the United States, a country whose capital city is Washington D.C. The people of the U.S. are known as Americans. Asian Americans are an ethnic group within the country.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id241" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

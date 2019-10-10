@@ -72,7 +72,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operator of AIDAstella is German baased AIDA Cruises. The AIDAstella is owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella is owned by Cost Crociere and its operator is German based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella is owned by Cost Crociere and it's operator is German based AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">AIDA Cruises are based in Germany and owned by Costa Crociere. They operate the AIDAstella.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -129,7 +129,7 @@
         <mtriple>AMC_Matador | modelYears | 1971</mtriple>
         <mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AMC Matador, including the 1971 model, and the Ambassador are related. The assembly line is in Port Melbourne, Victoria.</lex>
+      <lex comment="good" lid="Id1">The AMC Matador, iincluding the 1971 model, and the Ambassador are related. The assembly line is in Port Melbourne, Victoria.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Port Melbourne, Victoria. One of the model years include 1971. It is elated to the AMC Ambassador.</lex>
       <lex comment="good" lid="Id3">The AMC Matador, related to the AMC Ambassador, is produced in Port Melbourne, Victoria, including in the year 1971.</lex>
     </entry>
@@ -239,7 +239,7 @@
         <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Car and Engineering Company, founded in Coventry and succeeded by the Rover Company, manufactured the Alvis Speed 25.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company, which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company , which was succeeded by the Rover Co.</lex>
       <lex comment="good" lid="Id3">The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company which was succeeded by The Rover Co.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -390,7 +390,7 @@
         <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 is manufactured by Audi. It is a similar means of transport as the Seat Ibiza and Volkswagen Polo since they are all cars.</lex>
-      <lex comment="good" lid="Id2">Audi's A1 is similar to the Seat Ibiza and the VW Polo.</lex>
+      <lex comment="good" lid="Id2">Audi's A1 is simiilar to the Seat Ibiza and the VW Polo.</lex>
       <lex comment="good" lid="Id3">Audi is the manufacturer of the Audi A1. It, the Seat Ibiza and VW Polo are all cars and therefore related modes of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

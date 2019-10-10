@@ -39,7 +39,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is manager of 1. FC Köln who were in the 2014–15 Bundesliga season and have 50000 members.</lex>
       <lex comment="good" lid="Id2">The manager of 1. FC Koln is Peter Stoger. They have 50000 members and played the 2014-15 season in the Bundesliga.</lex>
-      <lex comment="good" lid="Id3">1. FC Köln were in the 2014–15 Bundesliga season, its manager is Peter Stoger and have 50000 members.</lex>
+      <lex comment="good" lid="Id3">1. FC Köln were in the 2014–15 Bundesliga season, its manager is Peter Stoger nad have 50000 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -53,8 +53,8 @@
         <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of 1. FC Koln is Peter Stoger who plays for the Austria national football team and is a member of the FK Austria Wien soccer club.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is currently at FK Austria Wien and manages FC Koln, he also plays international football for Austria.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln, he plays for the Austria national football team and FK Austria Wien also.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is currently at FK Austria Wien and manages FC Kolin, he also plays international football for Austria.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin, he plays for the Austria national football team and FK Austria Wien also.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -68,7 +68,7 @@
         <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is manager of 1. FC Köln and has played for SC Wiener Neustadt and the Austria national football team.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and plays for both SC Wiener Neustadt and the Austria national football team.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and plays for both SC Wiener Neustadt and the Austria national football team.</lex>
       <lex comment="good" lid="Id3">The manager of 1. FC Koln is Peter Stoger who is affiliated with the SC Wiener Neustadt club and plays for the Austria national football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -169,7 +169,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of FC Magdeburg is Jens Härtel who also plays for 1. FC Lokomotive Leipzig and SV Babelsberg 03.</lex>
       <lex comment="good" lid="Id2">FC Magdeburg manager Jens Hartel is a former professional who first played for FC Lokomotive Leipzig, and later, for SV Babelsberg 03.</lex>
-      <lex comment="good" lid="Id3">The first club Jens Hartel played for was F.C Lokomotive Leipzig, he is part of the SV Babelsberg 03 club and manages FC Magdeburg.</lex>
+      <lex comment="good" lid="Id3">The first club Jens Hartel played for was F.C Lokomotive Leipzig, he is part of the SV Babelsberg 03 club and,manages FC Magdeburg.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -326,8 +326,8 @@
         <mtriple>A.C._Cesena | numberOfMembers | 23900</mtriple>
         <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesena's ground is the Stadio Dino Manuzzi. They have 23900 members and play in the Serie B league.</lex>
-      <lex comment="good" lid="Id2">A.C. Cesena play in Serie B, they have 23900 members and their ground is Stadio Dino Manuzzi.</lex>
+      <lex comment="good" lid="Id1">A.C. Cesana's ground is the Stadio Dino Manuzzi. They have 23900 members and play in the Serie B league.</lex>
+      <lex comment="good" lid="Id2">A.C. Cesana play in Serie B, they have 23900 members and their ground is Stadio Dino Manuzzi.</lex>
       <lex comment="good" lid="Id3">A.C. Cesena, with 23900 members, is in the Serie B league and has a ground called Stadio Dino Manuzzi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -357,8 +357,8 @@
         <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C.Cesena plays in Stadio Dino Manuzzi and is also the in the Serie B league, and the Carpi F.C. 1909 won the championship Serie B division.</lex>
-      <lex comment="good" lid="Id2">A.C. Cesena's ground is the Stadio Dino Manuzzi and they played in Serie B but lost to Carpi FC 1909.</lex>
-      <lex comment="good" lid="Id3">With grounds at the Stadio Dino Manuzzi, A.C. Cesena play in Serie B. Carpi FC 1909 are previous champions of that league.</lex>
+      <lex comment="good" lid="Id2">A.C. Cesana's ground is the Stadio Dino Manuzzi and they played in Serie B but lost to Carpi FC 1909.</lex>
+      <lex comment="good" lid="Id3">With grounds at the Stadio Dino Manuzzi, A.C. Cesana play in Serie B. Carpi FC 1909 are previous champions of that league.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id23" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -391,7 +391,7 @@
         <mtriple>A.C._Chievo_Verona | ground | "Verona, Italy"</mtriple>
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Verona, Italy is the home to A.C. Chievo Verona which has 39371 members and the full name of "Associazione Calcio ChievoVerona S.r.l."</lex>
+      <lex comment="good" lid="Id1">Verona, Italy is the home to A.C. Chievo Verona which has 39371 members and the full name of "Associazione Calcio ChievoVerona S.r.l.".</lex>
       <lex comment="good" lid="Id2">Associazione Calcio Chievo Verona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and are based in Verona, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -412,7 +412,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio ChievoVerona S.r.l. is at the ground Verona and has 39371 members.</lex>
       <lex comment="good" lid="Id2">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." and play at their ground in Verona where they have 39371 members.</lex>
-      <lex comment="good" lid="Id3">The full name of AC Chievo Verona, which has 39371 members and plays in Verona, is "Associazione Calcio ChievoVerona S.r.l."</lex>
+      <lex comment="good" lid="Id3">The full name of AC Chievo Verona, which has 39371 members and plays in Verona, is "Associazione Calcio ChievoVerona S.r.l.".</lex>
     </entry>
     <entry category="SportsTeam" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -431,7 +431,7 @@
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and they have 39371 members while their home ground is Stadio Marc Antonio Bentegodi.</lex>
-      <lex comment="good" lid="Id2">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." Their home ground is Stadio Marc Antonio Bentegodi and they have 39371 members.</lex>
+      <lex comment="good" lid="Id2">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l.". Their home ground is Stadio Marc Antonio Bentegodi and they have 39371 members.</lex>
       <lex comment="good" lid="Id3">Associazione Calcio ChievoVerona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and its home ground is Stadio Marc'Antonio Benregodi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id27" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -526,8 +526,8 @@
         <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane, they have 4150 members and play in the Lega Pro league.</lex>
-      <lex comment="good" lid="Id2">The full name of A.C. Lumezzane is Associazione Calcio Lumezzane SpA, they have 4150 members and play in the Lega Pro league.</lex>
-      <lex comment="good" lid="Id3">Associazione Calcio Lumezzane SpA (A.C. Lumezzane) has 4150 members and plays in the Lega Pro league.</lex>
+      <lex comment="good" lid="Id2">The fullname of A.C. Lumezzane is Associazione Calcio Lumezzane SpA, they have 4150 members and play in the Lega Pro league.</lex>
+      <lex comment="good" lid="Id3">Associazione Calcio Lumezzane SpA( A.C. Lumezzane) has 4150 members and plays in the Lega Pro league.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -565,7 +565,7 @@
         <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lumezzane played in the Lega Pro during the 2014-2015 season and has 4150 members.</lex>
+      <lex comment="toFix" lid="Id1">Lumezzane played in the Lega Pro during the 2014 season. and has 4150 members.</lex>
       <lex comment="good" lid="Id2">A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014 season and still play in the same league.</lex>
       <lex comment="good" lid="Id3">A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro: 2014.</lex>
     </entry>
@@ -604,7 +604,7 @@
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The manager of A.C. Lumezzane is Michele Marcolini. He plays for A.C. Chievo Verona and is at Torino F.C. club.</lex>
+      <lex comment="toFix" lid="Id1">The manager of A.C. Lumezzane is Michele Marcolini plays for A.C. Chievo Verona. and is at Torino F.C. club.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini manages the A.C. Lumezzane and plays for both A.C. Chievo Verona and Torino F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id37" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -639,7 +639,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Michele Marcolini has managed A.C. Lumezzane and played for Atalanta B.C. and A.C. Chievo Verona.</lex>
       <lex comment="good" lid="Id2">Michele Marcolini has been the manager of AC Lumezzane and his club is A.C. Chievo Verona but he plays for Atalanta B.C.</lex>
-      <lex comment="good" lid="Id3">Michele Marcolini plays for both Atalanta B.C. and A.C. Chievo Verona and has been manager of AC Lumezzane.</lex>
+      <lex comment="good" lid="Id3">Michele Marcoli plays for both Atalanta B.C. and A.C. Chievo Verona and has been manager of AC Lumezzane.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -809,7 +809,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asociacion Deportiva is now known as A.D. Isidro Metapan and has 10000 members and plays in Metapan.</lex>
       <lex comment="good" lid="Id2">A.D. Isidro Metapán's ground is in Metapán, they have 10000 members and the full name Asociación Deportiva.</lex>
-      <lex comment="good" lid="Id3">The full name of A.D. Isidro Metapan is Asociacion Deportiva, they have 10000 members and play at their ground at Metapán.</lex>
+      <lex comment="good" lid="Id3">The fullname of A.D. Isidro Metapan is Asociacion Deportiva, they have 10000 members and play at their ground at Metapán.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id49" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -844,7 +844,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, capital of which is Athens and the leader is Nikos Voutsis.</lex>
-      <lex comment="good" lid="Id3">Greece, led by Nikos Voutisis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3">Greece, led by Nikos Voutisis, who's capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1033,7 +1033,7 @@
         <mtriple>A.F.C._Blackpool | numberOfMembers | 1500</mtriple>
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. Blackpool full name is "Association Football Club Blackpool," they have 1500 members and their grounds are at Jespon Way.</lex>
+      <lex comment="good" lid="Id1">A.F.C. Blackpool fullname is "Association Football Club Blackpool," they have 1500 members and their grounds are at Jespon Way.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool has the full name "Association Football Club Blackpool". They have 1500 members and their grounds are Jepson Way.</lex>
       </entry>
     <entry category="SportsTeam" eid="Id62" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1052,8 +1052,8 @@
         <mtriple>A.F.C._Blackpool | numberOfMembers | 1500</mtriple>
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. Blackpool full name is "Association Football Club Blackpool". They have 1500 members and their ground is The Mechanics.</lex>
-      <lex comment="good" lid="Id2">The full name of A.F.C. Blackpool is Association Football Club Blackpool. Their ground is The Mechanics. and they have 1500 members.</lex>
+      <lex comment="good" lid="Id1">A.F.C. Blackpool fullname is "Association Football Club Blackpool". They have 1500 members and their ground is The Mechanics.</lex>
+      <lex comment="good" lid="Id2">The fullname of A.F.C. Blackpool is Association Football Club Blackpool. Their ground is The Mechanics. and they have 1500 members.</lex>
       <lex comment="good" lid="Id3">AFC Blackpool, with 1500 members, has the full name "Association Football Club Blackpool", and its ground is called "The Mechanics".</lex>
     </entry>
     <entry category="SportsTeam" eid="Id63" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1227,9 +1227,9 @@
         <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde".</lex>
+      <lex comment="good" lid="Id1">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde.".</lex>
       <lex comment="good" lid="Id2">The full name of the A.F.C. Fylde is "Association Football Club Fylde," they have 3180 members and their ground is Kellamergh Park.</lex>
-      <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", its grounds are Kellamergh Park and it has 3180 members.</lex>
+      <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", it's grounds are Kellamergh Park and it has 3180 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id74" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1284,7 +1284,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde's manager is Dave Challinor who is affiliated with Tranmere Rovers F.C. and plays for Colwyn Bay F.C. club.</lex>
       <lex comment="good" lid="Id2">Dave Challinor is at Colwyn Bay FC and manages A.F.C. Fylde. He is also affiliated with Tranmere Rovers F.C.</lex>
-      <lex comment="good" lid="Id3">Dave Challinor is affiliated with Tranmere Rovers F.C., plays for Colwyn Bay F.C. and is manager of AFC Fylde.</lex>
+      <lex comment="good" lid="Id3">Dave Challinor is affiliated with Tranmere Rovers F.C. , plays for Colwyn Bay F.C. and is manager of AFC Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id77" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1338,7 +1338,7 @@
         <mtriple>A.S._Gubbio_1910 | season | 2014–15_Lega_Pro</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl. It was a part of the 2014–15 Lega Pro season and has 5300 members.</lex>
-      <lex comment="good" lid="Id2">A.S. Gubbio 1910, which stands for Associazione Sportiva Gubbio 1910 Srl., has 5300 members and was in the Lega Pro in the 2014-15 season.</lex>
+      <lex comment="good" lid="Id2">A.S. Gubbio 1910 , which stands for Associazione Sportiva Gubbio 1910 Srl., has 5300 members. and was in the Lega Pro in the 2014-15 season.</lex>
       <lex comment="good" lid="Id3">A.s Gubbio 1910 (Associazione Aportiva Gubbio 1910 Srl.), with 5300 members, participated in the 2014-15 Leg Pro season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id80" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1379,7 +1379,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.S. Livorno Calcio is Associazione Sportiva, their ground is in Livorno Italy and they have 19,238 members.</lex>
       <lex comment="good" lid="Id2">Livorno, Italy is the location of the ground of AS Livorno Calcio which has 19238 members and the full name of Associazione Sportiva.</lex>
-      <lex comment="good" lid="Id3">Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno, Italy.</lex>
+      <lex comment="good" lid="Id3">Associazione Sportiva Livorno Calcio is the fullname of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id82" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1392,7 +1392,7 @@
         <mtriple>A.S._Livorno_Calcio | numberOfMembers | 19238</mtriple>
         <mtriple>A.S._Livorno_Calcio | fullname | "Associazione Sportiva"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Associazione Sportiva Livorno Calcio is the full name of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno.</lex>
+      <lex comment="good" lid="Id1">Associazione Sportiva Livorno Calcio is the fullname of A.S.Livorno Calcio. They have 19238 members and their ground is in Livorno.</lex>
       </entry>
     <entry category="SportsTeam" eid="Id83" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1411,7 +1411,7 @@
         <mtriple>A.S._Livorno_Calcio | fullname | "Livorno Calcio S.p.A."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio. They have 19238 members and grounds in Livorno.</lex>
-      <lex comment="good" lid="Id2">The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A. Its ground is in Livorno and it has 19238 members.</lex>
+      <lex comment="good" lid="Id2">The fullname of A.S. Livorno Calcio is Livorno Calcio S.p.A. Its ground is in Livorno and it has 19238 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id84" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1508,7 +1508,7 @@
         <mtriple>Christian_Panucci | club | Chelsea_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio are managed by Christian Panucci who has played for Chelsea FC and is attached to the club Genoa CFC.</lex>
-      <lex comment="good" lid="Id2">Christian Panucci played football for Genoa F.C. and Chelsea F.C. Today he manages A.S. Livorno Calcio.</lex>
+      <lex comment="good" lid="Id2">Christian Panucci played football for Genoa F.C. and Chelsea F.C.. Today he manages A.S. Livorno Calcio.</lex>
       <lex comment="good" lid="Id3">Christian Panucci has played for Chelsea FC and Genoa C.F.C. and now manages A.S. Livorno Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id90" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1572,8 +1572,8 @@
         <mtriple>A.S._Roma | fullname | "Associazione Sportiva Roma S.p.A."</mtriple>
         <mtriple>A.S._Roma | ground | Rome</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S. Roma's full name is Associazione Sportiva Roma S.p.A. They have 70634 members and their ground is located in Rome.</lex>
-      <lex comment="good" lid="Id2">AS Roma has 70634 members and has a ground in Rome. Their full name is Associazione Sportiva Roma S.p.A.</lex>
+      <lex comment="good" lid="Id1">A.S. Roma's fullname is Associazione Sportiva Roma S.p.A. They have 70634 members and their ground is located in Rome.</lex>
+      <lex comment="good" lid="Id2">AS Roma has 70634 members and has a ground in Rome. Their fullname is Associazione Sportiva Roma S.p.A.</lex>
       <lex comment="good" lid="Id3">The full name of A.S. Roma is Associazione Sportiva Roma S.p.A. They have 70634 members and their ground is in Rome.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id94" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1643,8 +1643,8 @@
         <mtriple>ACF_Fiorentina | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACF Fiorentina (full name: ACF Fiorentina S.p.A.) competed in the 2014 season and their ground holds 47290 fans.</lex>
-      <lex comment="good" lid="Id2">ACF Fiorentina, who competed in the 2014 season has the full name of ACF Fiorentina S.p.A. They currently have 47290 members.</lex>
-      <lex comment="good" lid="Id3">ACF Fiorentina full name is ACF Fiorentina S.p.A, they have 47290 members and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">ACF Fiorentina, who competed in the 2014 season has the fullname of ACF Fiorentina S.p.A. . They currently have 47290 members.</lex>
+      <lex comment="good" lid="Id3">ACF Fiorentina fullname is ACF Fiorentina S.p.A, they have 47290 members and competed in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1677,8 +1677,8 @@
         <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
         <mtriple>AEK_Athens_F.C. | ground | Athens</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AEK Athens FC whose grounds are in Athens compete in the Superleague Greece, the champion of which is Olympiacos F.C.</lex>
-      <lex comment="good" lid="Id2">AEK Athens F.C. whose grounds are in Athens, play in the Superleague Greece, the previous champions of which were Olympiacos FC.</lex>
+      <lex comment="good" lid="Id1">AEK Athens FC who's grounds are in Athens compete in the Superleague Greece, the champion of which is Olympiacos F.C.</lex>
+      <lex comment="good" lid="Id2">AEK Athens F.C. who's grounds are in Athens, play in the Superleague Greece, the previous champions of which were Olympiacos FC.</lex>
       <lex comment="good" lid="Id3">AEK Athens F.C., with their ground in Athens, play in the Superleague Greece in which Olympiacos F.C. were past champions.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id100" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1694,7 +1694,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens F.C. is in the Superleague of Greece (previous champions: Olympiacos), and their home ground is The Olympic Stadium (Athens).</lex>
       <lex comment="good" lid="Id2">The ground for AEK Athens FC is the Olympic Stadium (Athens) and they compete in the Superleague Greece. Previous champions of the superleague are Olympiacos FC.</lex>
-      <lex comment="good" lid="Id3">AEK Athens FC compete in the Superleague Greece, whose previous champions are Olympiacos FC. Their home ground is the Olympic Stadium (Athens).</lex>
+      <lex comment="toFix" lid="Id3">AEK Athens FC compete in the Superleague Greece are previous champions and home ground is The Olympic Stadium (Athens).</lex>
     </entry>
     <entry category="SportsTeam" eid="Id101" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1870,7 +1870,7 @@
         <mtriple>AFC_Ajax_(amateurs) | fullname | "Amsterdamsche Football Club Ajax Amateurs"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Amsterdamsche Football Club Ajax Amateurs is now known as AFC Ajax and has 5000 members and has played in the 2014-15 Topklasse season.</lex>
-      <lex comment="good" lid="Id2">The AFC Ajax (amateurs) complete name is the "Amsterdamsche Football Club Ajax Amateurs. They play in the Topklasse in the 2014-2015 season and have 5000 members.</lex>
+      <lex comment="good" lid="Id2">The AFC Ajax (amateurs) complete name is the "Amsterdamsche Football Club Ajax Amateurs. They play in the Topklasse in the 2014-2015 season and have 5000 memberrs.</lex>
       <lex comment="good" lid="Id3">The full name of AFC Ajax (amateurs) is "Amsterdamsche Football Club Ajax Amateurs" they have 5000 members and played in the 2014-15 Topklasse season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1909,7 +1909,7 @@
         <mtriple>AZAL_PFK | season | 2014</mtriple>
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu, they have 3500 members and were in the 2014 season.</lex>
+      <lex comment="good" lid="Id1">The fullname of AZAL PFK is AZAL Pesokar Futbol Klubu, they have 3500 members and were in the 2014 season.</lex>
       <lex comment="good" lid="Id2">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu. They competed in the 2014 season and have 3500 members.</lex>
       <lex comment="good" lid="Id3">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu". They competed in the season 2014 and have 3500 members.</lex>
     </entry>
@@ -2038,7 +2038,7 @@
         <mtriple>John_van_den_Brom | club | De_Graafschap</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom manages the AZ Alkmaar and plays for both R.S.C. Anderlecht and De Graafschap.</lex>
-      <lex comment="good" lid="Id2">The manager of AZ Alkmaar is john van den Brom who plays for both R.S.C. Anderlecht and De Graafschap.</lex>
+      <lex comment="good" lid="Id2">The manager of AZ Alkmaar is john van den Brom who plays for tboh R.S.C. Anderlecht and De Graafschap.</lex>
       <lex comment="good" lid="Id3">John van den Brom has been manager of AZ Alkmaar and plays for both R.S.C. Anderlecht and De Graafschap.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id121" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2255,7 +2255,7 @@
         <mtriple>Agremiação_Sportiva_Arapiraquense | fullname | "Agremiação Sportiva Arapiraquense"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of Agremiação Sportiva Arapiraquense is "Agremiação Sportiva Arapiraquense". The club has 17000 members and competed in the 2015 Campeonato Brasileiro Série C.</lex>
-      <lex comment="good" lid="Id2">The Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense". It has 17000 members and it was in Campeonato Brasileiro Serie C in 2015.</lex>
+      <lex comment="toFix" lid="Id2">The Agremiação Sportiva Arapiraquense's full name is"Agremiação Sportiva Arapiraquense" has 17000 members and were in Campeonato Brasileiro Serie C in 2015.</lex>
       <lex comment="good" lid="Id3">Agremiação Sportiva Arapiraquense's full name is "Agremiação Sportiva Arapiraquense". They competed in the 2015 Campeonato Brasileiro Série C and have 17000 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id134" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2333,7 +2333,7 @@
         <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
         <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dan Horrigan is the governor of Akron, Ohio which has St. Vincent-St. Mary High School located in it, and inside the high school is the Akron Summit Assault organization.</lex>
+      <lex comment="good" lid="Id1">Dan Horrigan is the governor of Akron, Ohio which has St. Vincent-St. Mary High School located in it , and inside the high school is the Akron Summit Assault organization.</lex>
       <lex comment="good" lid="Id2">Akron Summit Assault's ground is St. Vincent-St. Mary High School in Akron, Ohio where Dan Horrigan is the leader.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id139" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -2407,7 +2407,7 @@
         <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron Summit Assault is located at the St. Vincent-St. Mary High school in Ohio.</lex>
-      <lex comment="good" lid="Id2">St. Vincent-St. Mary High School is in Ohio in the United States and is the ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id2">St. Vincent-St.Mary High School is in Ohio in the United States and is the ground of Akron Summit Assault.</lex>
       <lex comment="good" lid="Id3">St Vincent-St Mary High School is the ground of Akron Summit Assault, in the state of Ohio in the United States of America.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id144" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2453,7 +2453,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Denzil Antonio is the manager of Akron Summit Assault which has 3000 members and played in the 2011 PDL season.</lex>
       <lex comment="good" lid="Id2">Denzil Antonio is the manager of Akron Summit Assault which has 3000 members and plays in the 2011 PDL season.</lex>
-      <lex comment="good" lid="Id3">Akron Summit Assault, with 3000 members managed by Denzil Antonio, play in the 2011 PDL season.</lex>
+      <lex comment="good" lid="Id3">Akron Summit Assault , with 3000 members managed by Denzil Antonio, play in the 2011 PDL season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id146" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2480,7 +2480,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In Italy the capital is Rome, the leader is Sergio Mattarella and the ground of A.S. Gubbio 1910 is located there.</lex>
-      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. The capital of the country is Rome and its leader is Sergio Mattarella.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. The capital of the country is Rome and it's leader is Sergio Mattarella.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id148" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2495,7 +2495,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Italy is where Italian people live, Rome is the capital and the ground of A.S. Gubbio 1910 can be found there.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where the people are known as Italians and the capital city is Rome.</lex>
-      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and its people called Italians.</lex>
+      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's people called Italians.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id149" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2529,8 +2529,8 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.</lex>
-      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Pietro Grasso and capital is Rome.</lex>
-      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and its leader is Pietro Grasso.</lex>
+      <lex comment="toFix" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy. whose leader is Pietro Grasso and capital is Rome.</lex>
+      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's leader is Pietro Grasso.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id151" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2574,7 +2574,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.</lex>
-      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, whose leader is Sergio Mattarella and where they speak Italian.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, who's leader is Sergio Mattarella and where they speak Italian.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id154" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2630,7 +2630,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Massimo Drago has been the manager of A C Cesena whose club is the S.S. Chieti Calcio. and played for A.S.D. S.S. Nola 1925.</lex>
       <lex comment="good" lid="Id2">Massimo Drago has been the manager of A C Cesena and plays for both S.S. Chieti Calcio and A.S.D. S.S. Nola 1925.</lex>
-      <lex comment="good" lid="Id3">Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesena.</lex>
+      <lex comment="good" lid="Id3">Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesana.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id157" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2702,7 +2702,7 @@
         <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.</lex>
-      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Koln and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="good" lid="Id2">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Kolin and is affiliated with the SC Wiener Neustadt club.</lex>
       <lex comment="good" lid="Id3">Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id162" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2716,7 +2716,7 @@
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
         <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Peter Stöger, manager of FC Koln plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
+      <lex comment="good" lid="Id1">PeterStöger, manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
       <lex comment="good" lid="Id2">Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id163" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2834,7 +2834,7 @@
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.</lex>
-      <lex comment="good" lid="Id2">Juventus FC have been Serie A champions. A.S. Roma, whose ground is Stadio Olimpico also play in the same league.</lex>
+      <lex comment="good" lid="Id2">Juventus FC have been Serie A champions. A.S. Roma, who's ground is Stadio Olimpico also play in the same league.</lex>
       <lex comment="good" lid="Id3">The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico.</lex>
     </entry>
   </entries>

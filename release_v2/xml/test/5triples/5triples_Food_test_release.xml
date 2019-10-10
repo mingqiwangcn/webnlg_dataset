@@ -17,8 +17,8 @@
         <mtriple>Indonesia | language | Indonesian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem while more specific to java, is found nationwide in Indonesia, where the language is Indonesian. It is also where the currency is the Indonesian rupiah and Jusuf Kalla is a leader.</lex>
-      <lex comment="good" lid="Id2">Arem-arem is a food usually served in Indonesia which has the rupiah as its currency and the people speak Indonesian. Its leader is Jusuf Kalla and although arem-arem is found nationwide, it's more specific to Java.</lex>
-      <lex comment="good" lid="Id3">Arem-arem is nationwide dish in Indonesia where Indonesian is the spoken language, but originates from the Island of Java. The country's vice-president is Jusuf Kalla and the local currency is Indonesian rupiah.</lex>
+      <lex comment="good" lid="Id2">Arem-arem is a food usually served in Indonesia which has the rupiah as its currency and the people speak Indonesian. Its leader is Jusuf Kalla and although arem-arem- is found nationwide, it's more specific to Java.</lex>
+      <lex comment="good" lid="Id3">Arem-arem is nationwide dish in Indonesia where Indonesian is the spoken language, but originates from the Island of Java.The country's vice-president is Jusuf Kalla and the local currency is Indonesian rupiah.</lex>
     </entry>
     <entry category="Food" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -94,7 +94,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asam pedas is a food from the Malay Peninsula region of Malaysia. Abu Zahar is a leader in Malaysia, where there are ethnic groups called the Malays and the Malaysian Indians.</lex>
       <lex comment="good" lid="Id2">Asam pedas is from the Malay Peninsula region of Malaysia, the country where Abu Zahar Ujang is leader and where Malaysian Malay and Malaysian Indian are ethnic groups.</lex>
-      <lex comment="good" lid="Id3">Asam pedas is a food from Malaysia and can be found throughout the Malaysian peninsula region. The country's leader is Abu Zahar Ujang and among its ethnic groups are the Malay and Malaysian Indians.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a food from Malaysia and can be found throughout the Malaysian peninsula region.The country's leader is Abu Zahar Ujang and among its ethnic groups are the Malay and Malaysian Indians.</lex>
     </entry>
     <entry category="Food" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -231,7 +231,7 @@
         <mtriple>Batagor | dishVariation | Shumai</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Joko Widodo is the leader of Indonesia, where the dish batagor can be found. Batagor, Siomay (which contains peanut sauce) and Shumai are all variations of the same dish.</lex>
-      <lex comment="good" lid="Id2">Batagor is a variation of Siomay (which contains peanut sauce) and Shumai. It originates from Indonesia where the leader is president Joko Widodo.</lex>
+      <lex comment="good" lid="Id2">Batagor is a variation of Siomay(which contains peanut sauce) and Shumai.It originates from Indonesia where the leader is president Joko Widodo.</lex>
       <lex comment="good" lid="Id3">Batagor, a variation of Shumai and Siomay (includes peanut sauce), is found in Joko Widodo led Indonesia.</lex>
     </entry>
     <entry category="Food" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -464,7 +464,7 @@
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tony Tan is a leader in Singapore where standard Chinese is spoken and where Ayam penyet is from. This dish is also from Java, where one ethnic group is the Baduy.</lex>
+      <lex comment="good" lid="Id1">Tony Tan is a leader in Singapore where standard Chinese is spoken and where Ayam penet is from. This dish is also from Java, where one ethnic group is the Baduy.</lex>
       <lex comment="good" lid="Id2">The Baduy is an ethnic group in Java. Ayam penyet is from the Singapore region and Java. The leader of Singapore is Tony Tan and the language there is Standard Chinese.</lex>
       </entry>
     <entry category="Food" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

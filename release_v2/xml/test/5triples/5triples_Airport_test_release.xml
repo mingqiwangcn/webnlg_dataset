@@ -174,8 +174,8 @@
         <mtriple>Al_Asad_Airbase | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad air base has a runway name of 08/26 which is 3992.8 in length. It is situated in the Al Anbar Province of Iraq, is operated by the United States Air Force and has the ICAO location identifier ORAA.</lex>
-      <lex comment="good" lid="Id2">The United States Airport operates the Al Asad airbase which is located in the Al Anbar Province, Iraq. The ICAO location identifier of Al Asad Airbase is ORAA and the length is 3992.88m and the runway is known as 08/26.</lex>
-      <lex comment="good" lid="Id3">Al Asad Airbase is located in Al Anbar Province, Iraq and is operated by the United States Air Force. ORAA is the ICAO location of the airbase. Its runway, named "08/26", measures a length of 3992.88.</lex>
+      <lex comment="good" lid="Id2">The United States Airport operates the Al Asad airbase which is located in the Al Anbar Province, Iraq. The ICAO location identifer of Al Asad Airbase is ORAA and the length is 3992.88m and the runway is known as 08/26.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is located in Al Anbar Province, Iraq and is operated by the United States Air Force. ORAA is the ICAO location of the airbase. It's runway, named "08/26" measures a length of 3992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -377,7 +377,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpena County Regional Airport serving Alpena, Michigan, is located in Wilson Township, Alpena County, USA. The airport is 210 metres above sea level and has a runway length of 1533.0.</lex>
       <lex comment="good" lid="Id2">Aplena County Regional Airport, serving Alpena, Michigan is found in Wilson Township, Aplena County, Michigan in the USA. This airport is elevated 210 meters above sea level and it has a runway measuring 1533.0 in length.</lex>
-      <lex comment="good" lid="Id3">210 metres above sea level in the Wilson Township, Alpena County, Michigan U.S.A, there is an airport called Alpena County Regional Airport. It serves the citizens of Alpena Michigan. It has a runway that stretches 1533.0 in length.</lex>
+      <lex comment="good" lid="Id3">210 metres above sea level in the Wilson Township, Alpena County, Michigan U.S.A, there is an airport called Alpena Country Regional Airport. It serves the citizens of Alpena Michigan. It has a runway that stretches 1533.0 in length.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -409,7 +409,7 @@
         <mtriple>Angola_International_Airport | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Ícolo e Bengo, Angola International Airport serves Luanda. The airport is 159 metres above the sea level, has a runway length of 3800 and the runway name, 05L/23R.</lex>
-      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo and serves the city of Luanda. It is situated 159 meters above sea level and has a 3,800 kilometers long runway named 05L/23R.</lex>
+      <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo and serves the city of Luanda.It is situated 159 meters above sea level and has a 3,800 kilometers long runway named 05L/23R.</lex>
       <lex comment="good" lid="Id3">Angola International Airport, which lies 159 metres above sea level, is located in Icolo e Bengo and serves the city of Luanda. The runway length is 3800.0 and the runway is named 05L/23R.</lex>
     </entry>
     <entry category="Airport" eid="Id17" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
@@ -519,7 +519,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ICAO location identifier for Atlantic City International Airport is KACY. It is located at Egg Harbor Township, Atlantic County, New Jersey in the United States.</lex>
-      <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States. The Airport's ICAO location identifier is KACY.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States.The Airport's ICAO location identifier is KACY.</lex>
     </entry>
     <entry category="Airport" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -538,7 +538,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township, which is in New Jersey, in the United States. The airport is operated by the Port Authority of New York and New Jersey, the headquarters of which are at the Four World Trade Center.</lex>
       <lex comment="good" lid="Id2">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey which operates Atlantic City International Airport. The airportis in Egg Harbor Township, part of New Jersey, in the United States.</lex>
-      <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, whose headquarters is located at the Four World Trade Center. The airport is found in Egg Harbor, N.J, in the United States.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey,whose headquarters is located at the Four World Trade Center.The airport is found in Egg Harbor,N.J, in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id22" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -575,8 +575,8 @@
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force which operates Agra Airport. This airport is located in Uttar Pradesh (part of Bundelkhand), where Ram Naik is the leader.</lex>
-      <lex comment="good" lid="Id2">Agra Airport is in Uttar Pradesh (part of Bundelkhand) and operated by the Indian Air Force. The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force. Ram Naik is a leader of Uttar Pradesh.</lex>
-      <lex comment="good" lid="Id3">Agra Airport is located in Uttar Pradesh (part of Bundelkhand) and operated by the Indian Air Force. Ram Naik is the leader of Uttar Pradesh. The Indian Air Force uses HAL Light Combat Helicopters.</lex>
+      <lex comment="good" lid="Id2">Agra Airport is in Uttar Pradesh(part of Bundelkhand) and operated by the Indian Air Force. The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force. Ram Naik is a leader of Uttar Pradesh.</lex>
+      <lex comment="good" lid="Id3">Agra Airport is located in Uttar Pradesh(part of Bundelkhand) and operated by the Indian Air Force.Ram Naik is the leader of Uttar Pradesh.The Indian Air Force uses HAL Light Combat Helicopters.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>

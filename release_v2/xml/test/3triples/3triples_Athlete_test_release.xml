@@ -61,8 +61,8 @@
         <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
         <mtriple>Akeem_Adams | club | W_Connection_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC, having previously played for United Petrotrin F.C., whose ground is Palo Seco.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams played for W Connection F.C. and is a member of the United Petrotrin F.C. club, which play in Palo Seco.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams plays for W Connection FC , having previously played for United Petrotrin F.C., whose ground is Palo Seco.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams played for W Connection F.C. and is a member of the United Petrotrin F.C. club. which play in Palo Seco.</lex>
       <lex comment="good" lid="Id3">Akeem Adams played for W Connection F.C. and the United Petrotrin F.C., whose ground was Palo Seco.</lex>
     </entry>
     <entry category="Athlete" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -164,7 +164,7 @@
         <mtriple>Aleksandr_Prudnikov | club | FC_Kuban_Krasnodar</mtriple>
         <mtriple>Aleksandr_Prudnikov | club | FC_Alania_Vladikavkaz</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Footballer Aleksandr Prudnikov, (February 24, 1989), plays for FC Kuban Krasnodar and Alania Vladikavkaz.</lex>
+      <lex comment="good" lid="Id1">Footballer Aleksandr Prudnikov , (February 24, 1989), plays for FC Kuban Krasnodar and Alania Vladikavkaz.</lex>
       <lex comment="good" lid="Id2">Born on 24th February 1989, Aleksandr Prudnikov, plays for both, FC Alania Vladikavkaz and FC Kuban Krasnodar club.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov who was born on 24 February 1989 plays for FC Kuban Krasnodar and FC Alania Vladikavkaz.</lex>
     </entry>
@@ -209,7 +209,7 @@
         <mtriple>A.C._Milan | manager | Siniša_Mihajlović</mtriple>
         <mtriple>Alessio_Romagnoli | club | Italy_national_under-16_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alessio Romagnoli plays in the club A.C. Milan whose manager is Siniša Mihajlović. He's also in the Italy national under 16's football team.</lex>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays in the club A.C. Milan whose manager is Siniša Mihajlović. He's alos in the Italy national under 16's football team.</lex>
       <lex comment="good" lid="Id2">Footballer Alessio Romagnoli, who represented Italy at Under 16 level, plays for C Milan, where the manager is Siniša Mihajlović.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli played for the Italy national under-16 football team. He plays for the club A.C. Milan which is managed by, Siniša Mihajlović.</lex>
     </entry>

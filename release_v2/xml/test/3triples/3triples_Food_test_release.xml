@@ -66,7 +66,7 @@
         <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
         <mtriple>Arrabbiata_sauce | ingredient | Olive_oil</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rome, Italy is where the sauce called arrabbiata is from, it includes olive oil as an ingredient used in its preparation.</lex>
+      <lex comment="good" lid="Id1">Rome, Italy is where the sauce called arrabbiata is from, it includes olive oil as an ingredient used in it's preparation.</lex>
       <lex comment="good" lid="Id2">Arrabbiata sauce is made from olive oil and comes from Rome in Italy.</lex>
       <lex comment="good" lid="Id3">Arrabbiata sauce is a traditional dish from Rome, Italy. Olive oil is one of the ingredients in the sauce.</lex>
     </entry>
@@ -260,7 +260,7 @@
         <mtriple>Baked_Alaska | ingredient | Sponge_cake</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sponge cake is an ingredient of Baked Alaska which is a dessert. Another type of dessert is a cookie.</lex>
-      <lex comment="good" lid="Id2">Sponge cake is an ingredient in the dessert Baked Alaska. Another type of dessert is a cookie.</lex>
+      <lex comment="good" lid="Id2">Sponge cake is an ingredient in the dessert Baked Alaska, Another type of desert is a cookie.</lex>
       <lex comment="good" lid="Id3">Sponge cake is a part of the dessert Baked Alaska, cookies are also a dessert.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

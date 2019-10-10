@@ -157,7 +157,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron S Daggett was born in Maine.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett was born in Maine.</lex>
-      <lex comment="good" lid="Id3">Aaron S. Daggett was born in Maine.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggat was born in Maine.</lex>
     </entry>
     <entry category="Politician" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -267,7 +267,7 @@
       <modifiedtripleset>
         <mtriple>Ab_Klink | office (workedAt, workedAs) | House_of_Representatives_(Netherlands)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink worked at the House of Representatives in Netherlands.</lex>
+      <lex comment="good" lid="Id1">Ab Klink worked at the House of Representatives in Netherlands,.</lex>
     </entry>
     <entry category="Politician" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -327,7 +327,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud's birthplace was Kingdom of Sarawak.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud was born in the Kingdom of Sarawak.</lex>
-      <lex comment="good" lid="Id3">The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak.</lex>
+      <lex comment="good" lid="Id3">The birth place of Abdul Taid Mahmud was the Kingdom of Sarawak.</lex>
     </entry>
     <entry category="Politician" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -347,7 +347,7 @@
         <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
-      <lex comment="good" lid="Id2">Abdul Taib Mahmud is a member of Barisan Ra'ayat Jati Sarawak party.</lex>
+      <lex comment="good" lid="Id2">Abdul Taid Mahmud is a member of Barisan Ra'ayat Jati Sarawak party.</lex>
     </entry>
     <entry category="Politician" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -480,7 +480,7 @@
       <modifiedtripleset>
         <mtriple>Abdulsalami_Abubakar | successor | Al-Amin_Daggash</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdulsalami Abubakar's successor was Al-Amin Daggash.</lex>
+      <lex comment="good" lid="Id1">Abdulsalami Abubakar's succcessor was Al-Amin Daggash.</lex>
       <lex comment="good" lid="Id2">Al-Amin Daggash was succeeded by Abdulsalami Abubakar.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar's successor was Al-Amin Daggash.</lex>
     </entry>
@@ -594,7 +594,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero, while in office, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was the Minister of Transport.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero worked as Minister of Transport.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero worked as Minister of Transport,.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -626,7 +626,7 @@
       <modifiedtripleset>
         <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abner W Sibal's date of birth is 11 - 04 - 1921.</lex>
+      <lex comment="good" lid="Id1">Abner W Sibal' s date of birth is 11 - 04 - 1921.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal was born on the 11th April 1921.</lex>
     </entry>
     <entry category="Politician" eid="Id59" shape="(X (X))" shape_type="NA" size="1">
@@ -741,7 +741,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City, New York, U.S. is the death place of Abraham A. Ribicoff.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff died in New York City, New York, U.S.</lex>
-      <lex comment="good" lid="Id3">Abrahm A. Ribicoff died in New York City, New York, U.S.</lex>
+      <lex comment="good" lid="Id3">Abrahm A. Ribicoff died in New York City, New York, U.S..</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1758,7 +1758,7 @@
       <modifiedtripleset>
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Argentina.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Agentina.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire was born in Mendoza, Argentina.</lex>
     </entry>
     <entry category="Politician" eid="Id164" shape="(X (X))" shape_type="NA" size="1">
@@ -2323,7 +2323,7 @@
         <mtriple>Alvah_Sabin | successor | Homer_Elihu_Royce</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Homer Elihu Royce was preceded by Alvah Sabin.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin successor was Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id2">Alvah Sabin sucessor was Homer Elihu Royce.</lex>
       <lex comment="good" lid="Id3">Homer Elihu Royce was the successor to Alvah Sabin.</lex>
     </entry>
     <entry category="Politician" eid="Id217" shape="(X (X))" shape_type="NA" size="1">

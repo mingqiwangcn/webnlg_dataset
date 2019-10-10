@@ -18,7 +18,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University in Alba, Alba Iulia, Romania has the nickname "Uab". Its rector is Breaz Valer Daniel.</lex>
       <lex comment="good" lid="Id2">Breaz Valer Daniel is rector of the 1 Decembrie 1918 University which has the nickname of Uab and is located in the city of Alba Iulia, Alba, Romania.</lex>
-      <lex comment="good" lid="Id3">The rector of the 1 Decembrie 1918 Universitie is Breaz Valer Daniel. The university, which is nicknamed Uab, is in Alba Julia in Romania.</lex>
+      <lex comment="good" lid="Id3">The rector of the 1 Decembrie 1918 Universitie is Breaz Valer Daniel.. The university, which is nicknamed Uab, is in Alba Julia in Romania.</lex>
     </entry>
     <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -161,7 +161,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland was established in 1996. Its dean is Mario Botta. The leader of Switzerland is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio. The Dean of the Accademia is Mario Botta and it was established in 1996.</lex>
-      <lex comment="good" lid="Id3">Mario Botta is the dean of the Accademia di Architettura di Mendrisio in the Swiss city of Mendrisio. It was established in 1996. The leader of Switzerland is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id3">Mario Botta is the dean of the Accademia di Architettura di Mendrisio in the Swiss city of Mendrisio.It was established in 1996. The leader of Switzerland is Johann Schneider -Ammann.</lex>
     </entry>
     <entry category="University" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -499,7 +499,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Achaya Institute of Tachnology, located in the state of Karnataka in India, at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with Visvesvaraya Technological University, located in the city of Belgaum.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, Karnataka, India. It is affilaited with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
     <entry category="University" eid="Id26" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -518,7 +518,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The campus of the Acharya Institute of Technology which is affiliated with the Visvesvaraya Technological University is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The are 700 postgraduate students at the Institute.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology in Balgalore, India is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University and has 700 post-graduate students.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology in Balgalore, India is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affilaited with the Visvesvaraya Technological University and has 700 post-graduate students.</lex>
     </entry>
     <entry category="University" eid="Id27" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -573,8 +573,8 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, India is affiliated to the Visvesvaraya Technological University. Its director is Dr G. O. Prabhukumar and its motto is "Nurturing Excellence".</lex>
-      <lex comment="good" lid="Id2">The Director of The Acharya Institute of Technology located in Bangalore, India, is Dr G P Prabhukumar. The Institute is affiliated with the Visvesvaraya Technological University and has the motto "Nurturing Excellence".</lex>
-      <lex comment="good" lid="Id3">Dr. G. P. Prabhukumar is the director of Acharya Institute of Technology, which is an affiliate of Visvesvaraya Technological University located at Bangalore city in India. Their motto is "Nurturing Excellence".</lex>
+      <lex comment="good" lid="Id2">The Director of The Acharya Institute of Technology located in Bangalore, India , is Dr G P Prabhukumar. The Institute is affiliated with the Visvesvaraya Technological University and has the motto "Nurturing Excellence".</lex>
+      <lex comment="toFix" lid="Id3">Dr. G. P. Prabhukumar is the director of Acharya Institute of Technology is an affliate of Visvesvaraya Technological University located at Bangalore city in India, their motto is "Nurturing Excellence".</lex>
     </entry>
     <entry category="University" eid="Id30" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -593,7 +593,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India is affiliated to the Visvesvaraya Technological University. It was established in 2000.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in India which is affiliated with the Visvesvaraya Technological University was established in 2000. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology was established in 2000. It is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology was established in 2000. It is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. It is affilaited with the Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id31" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -662,9 +662,9 @@
         <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India has 700 postgraduate students. Its president is B. M. Reddy.</lex>
+      <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India has 700 postgraduate students. Its president is B.M. Reddy.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology campus is located in India at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. The President is B M Reddy and there are 700 postgraduate students.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. It has 700 post-graduate students and its president is B. M. Reddy.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. It has 700 post-graduate students and it's president is B.M. Reddy.</lex>
     </entry>
     <entry category="University" eid="Id34" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -681,9 +681,9 @@
         <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
         <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Acharya Institute of Technology in Bangalore, India was established in 2000. Its director is Dr. G. P. Prabhukumar and its president is B. M. Reddy.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in Balgalore, India was established in 2000. The director is Dr. G. P. Prabhukumar and its president is B. M. Reddy.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the city of Bangalore in India and was established in 2000. The Institute's President is B. M. Reddy and the Director is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="good" lid="Id1">Acharya Institute of Technology in Bangalore, India was established in 2000. Its director is Dr. G. P. Prabhukumar and its president is B.M. Reddy.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology in Balgalore, India was established in 2000. The director is Dr. G. P. Prabhukumar and it's president is B.M. Reddy.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the city of Bangalore in India and was established in 2000. The Institute's President is B.M. Reddy and the Director is Dr.G.P.Prabhukumar.</lex>
     </entry>
     <entry category="University" eid="Id35" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -875,7 +875,7 @@
         <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
         <mtriple>India | river | Ganges</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AWH Engineering College, established in 2001, is located in India and has an academic staff of 250. India's largest city is Mumbai and has a river called the Ganges.</lex>
+      <lex comment="good" lid="Id1">The AWH Engineering College , established in 2001, is located in India and has an academic staff of 250. India's largest city is Mumbai and has a river called the Ganges.</lex>
       </entry>
     <entry category="University" eid="Id44" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1105,7 +1105,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Denmark is affiliated with the European University Association in Brussels and has a staff compliment of 737.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University has 737 academic staff and is located in Aarhus, Denmark. The School is affiliated with the European University Association, headquartered in Brussels.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark and currently has 737 members of staff. The school is affiliated with the European University Association which has its headquarters in Brussels.</lex>
+      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark and currently has 737 members of staff. The school is affiliated with the European University Association which has it's headquarters in Brussels.</lex>
     </entry>
     <entry category="University" eid="Id53" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1243,7 +1243,7 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Services at the Aarhus University in Aarhus, Denmark was established in 1928. It has 16,000 students and it is affiliated to the European University Association.</lex>
-      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, Denmark. It has 16000 students and was established in 1928. It is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id2">The School of Business and Social Sciences at thee Aarhus University is located in the city of Aarhus, Denmnark. It has 16000 students and was established in 1928. It is affiliated with the European University Association.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and is affiliated with the European University Association and has 16000 students.</lex>
     </entry>
     <entry category="University" eid="Id59" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1263,7 +1263,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at Aarhus University in Denmark has Thomas Pallesen as its dean. It was established in 1928, has 16,000 students and 737 employees.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University was established in 1928 and is located in Denmark. There are 16,000 students, and an academic staff size of 737, headed by the dean, Thomas Pallesen.</lex>
-      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was founded in 1928 in Denmark. The School currently has 16000 students attending with 737 members of staff and the dean of the school is Thomas Pallesen.</lex>
+      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was founded in 1928 in Denmark. The School currently has 16000 students attending with 737 members of staff and the dean of the school is Thomas Pallessen.</lex>
     </entry>
     <entry category="University" eid="Id60" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1318,7 +1318,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India. It was established in 2000 and it is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology which is affiliated with the Visvesvaraya Technological University in the city of Belgaum, India, was established in 2000. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology established in India in 2000 is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology established in India in 2000 is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affilaited with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
   </entries>
 </benchmark>

@@ -250,7 +250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in 1872 in Manchester, England in the U.K. He died in London.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, England in the United Kingdom in 1872. He died in London.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England in 1872. He passed away in London.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester,England in 1872.He passed away in London.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -267,9 +267,9 @@
         <mtriple>London | leaderTitle | European_Parliament</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup, London. Boris Johnson is a leader in London, whose leader is the European Parliament.</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup, London. Boris Johnson is a leader in London, who's leader is the European Parliament.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was Sidcup was born in Manchester and died, in Boris Johnson and European Parliament led, Sidcup, London.</lex>
-      <lex comment="good" lid="Id3">Manchester born Alfred Garth Jones died in Sidcup, London. Boris Johnson and the European Parliament lead London.</lex>
+      <lex comment="good" lid="Id3">Manchester born Alfred Garth Jones, died in Sidcup, London. Boris Johnson and the European Parliament lead London.</lex>
     </entry>
     <entry category="Artist" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -351,7 +351,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell is a singer who plays the bodhran, percussion and autoharp and also performs jazz music. Funk is derived from Jazz and Afrobeat music is a fusion of Jazz music. Blues music influenced Jazz music.</lex>
       <lex comment="good" lid="Id2">Jazz singer Alison O'Donnell plays the bodhran, percussion and autoharp. Jazz derives from funk and blues while being an influence on funk and Afrobeat fusion.</lex>
-      <lex comment="good" lid="Id3">Jazz musician Alison O'Donnell uses voice, bodhran, percussion and the autoharp. Afrobeat and Funk originate from Jazz, which comes from the Blues.</lex>
+      <lex comment="good" lid="Id3">Jazz musician Alison O'Donnell uses voice, ,bodhran, percussion and the autoharp. Afrobeat and Funk originate from Jazz, which comes from the Blues.</lex>
     </entry>
     <entry category="Artist" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -583,7 +583,7 @@
         <mtriple>Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)</mtriple>
         <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The musician Andrew White's record label used to be Universal records which is now a defunct label. His record label is Polydor Records which is located in London. Andrew White's genre is alternative rock, the music fusion genre of which, is Nu metal.</lex>
+      <lex comment="good" lid="Id1">The musician Andrew White's record label used to be Universal records which is now a defunct label. His record label is Polydor Records which is located in London. Andrew White's genre is alternative rock , the music fusion genre of which, is Nu metal.</lex>
       <lex comment="good" lid="Id2">Andrew White is an alternative rock musician with Polydor Records and was once with Universal Records. Polydor Records is in London. Nu metal is a fusion of alternative rock sounds.</lex>
       <lex comment="good" lid="Id3">Alternative rock musician Andrew White was signed with Universal but is now with London's Polydore Records. Nu metal is an alternative rock fusion.</lex>
     </entry>
@@ -609,7 +609,7 @@
         <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
         <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Anderson plays with the rock band NRBQ. Rock has its origins in the blues and country music, where the banjo is played, and Bhangra is a rock fusion.</lex>
+      <lex comment="good" lid="Id1">Al Anderson plays with the rock band NRBQ. Rock has its origiins in the blues and country music, where the banjo is played, and Bhangra is a rock fusion.</lex>
       <lex comment="good" lid="Id2">The banjo is a staple of country music, the origin of rock, which is also inspired by the Blues. Rock lends itself to bhangra and is the style of Al Anderson and NRBQ.</lex>
     </entry>
     <entry category="Artist" eid="Id29" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">

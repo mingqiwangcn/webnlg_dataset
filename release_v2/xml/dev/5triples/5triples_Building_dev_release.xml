@@ -168,7 +168,7 @@
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ethnic group in Japan are the Japanese and the leader is Tarō Asō. Akita Museum of Art is in Akita, Akita which is part of Japan and the Akita Prefecture.</lex>
-      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita which is located in Japan. The leader of Japan is Taro Aso and the main ethnic group in Japan is the Japanese. Akita, Akita is part of Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">"The Akita Museum of Art is located in Akita, Akita which is located in Japan. The leader of Japan is Taro Aso and the main ethnic group in Japan is the Japanese. Akita, Akita is part of Akita Prefecture.".</lex>
       <lex comment="good" lid="Id3">Akita Museum of Art is in the city of Akita, Japan. The main ethnic group in Japan are the Japanese, the leader is Taro Aso and Akita, Akita is part of Akita Prefecture.</lex>
     </entry>
     <entry category="Building" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -376,8 +376,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hailemariam Desalegn and Mulatu Teshome are leaders within Ethiopia. The Addis Ababa Stadium and the Addis Ababa City Hall are both located within the country in Addis Ababa.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The country is led by Mulatu Teshome and Hailemariam Desalegn.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are leaders in the country.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia. The country is led by Malatu Teshome and Hailemariam Desalegn,.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa, Ethiopia. Malatu Teshome and Hailemariam Desalegn are leaders in the country.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

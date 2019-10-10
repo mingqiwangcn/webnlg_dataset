@@ -17,7 +17,7 @@
         <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AWH Engineering College is located southeast of Mahe in Kuttikkattoor, Kerala, India. The College was established in 2001 and has 250 academic staff.</lex>
-      <lex comment="good" lid="Id2">Kerala state which has Mahe, India to its northwest is also the home of the AWH Engineering College. The College was established in 2001 in the city of Kuttikkattoor and currently has 250 members of staff.</lex>
+      <lex comment="good" lid="Id2">Kerala state which has Mahe, India to it's northwest is also the home of the AWH Engineering College. The College was established in 2001 in the city of Kuttikkattoor and currently has 250 members of staff.</lex>
     </entry>
     <entry category="University" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -54,7 +54,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, India has 700 postgraduate students. It is affiliated to the Visvesvaraya Technological University and its president is B.M.Reddy.</lex>
       <lex comment="good" lid="Id2">B M Reddy is the President of the Acharya Institute of Technology in Bangalore, India. The Institute is affiliated with the Visvesvaraya Technological University and has 700 postgraduate students.</lex>
-      <lex comment="good" lid="Id3">The president of the Acharya Institute of Technology in Bangalore, India is B. M. Reddy. The Acharya Institute of Technology, which has 700 postgraduate students, is affiliated to Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3">The president of the Acharya Institute of Technology in Bangalore, India is B. M. Reddy. The Acharya Institute of Technology, which has 700 postgraduate students , is affiliated to Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -93,7 +93,7 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Denmark is affiliated to the European University Association in Brussels. Denmark has a monarchy and its leader is Lars Lokke Rasmussen.</lex>
-      <lex comment="good" lid="Id2">The European University Association has its headquarters in Brussels. The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and is located in Denmark. Denmark has a Monarchy with its leader being Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id2">The European University Association has its headquarters in Brussels. The School of Business and Social Sciences at the Aarhus University is affiliate d with the European University Association and is located in Denmark. Denmark has a Monarchy with its leader being Lars Løkke Rasmussen.</lex>
       </entry>
     <entry category="University" eid="Id5" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -112,7 +112,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College in Kuttikkattoor, India was established in 2001 and has a staff of 250. The country's largest city is Mumbai.</lex>
       <lex comment="good" lid="Id2">AWH Engineering College established in 2001 in Kuttikkattoor, India has 250 academic staff. Mumbai is the largest city in India.</lex>
-      <lex comment="good" lid="Id3">India with its largest city Mumbai is also the home of the AWH Engineering College. The college is based in the city of Kuttikkattoor and was founded in 2001. It currently has 250 members of staff.</lex>
+      <lex comment="good" lid="Id3">India with it's largest city Mumbai is also the home of the AWH Engineering College. The college is based in the city of Kuttikkattoor and was founded in 2001. It currently has 250 members of staff.</lex>
     </entry>
     <entry category="University" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

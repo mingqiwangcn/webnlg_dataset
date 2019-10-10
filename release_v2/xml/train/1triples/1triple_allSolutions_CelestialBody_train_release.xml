@@ -190,7 +190,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(29075) 1950 DA has an epoch date of August 27th 2011.</lex>
       <lex comment="good" lid="Id2">29075 1950 DA has the epoch date of 27 August 2011.</lex>
-      <lex comment="good" lid="Id3">The epoch for (29075) 1950 DA is on the 27th of August 2011.</lex>
+      <lex comment="good" lid="Id3">The epoch for (29075) 1950 DA is on the 27th of August 2010.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -295,8 +295,8 @@
         <mtriple>(410777)_2009_FD | meanTemperature | 258.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(410777) 2009 FD has a mean temperature of 258.0 kelvins.</lex>
-      <lex comment="good" lid="Id2">The mean temperature of (410777) 2099 FD is 258.0 kelvins.</lex>
-      <lex comment="good" lid="Id3">(410777) 2009 FD has a mean temperature of 258 Kelvins.</lex>
+      <lex comment="good" lid="Id2">The mean temperature of 410777 2099 FD is 258.0 kelvins.</lex>
+      <lex comment="good" lid="Id3">410777 2009 FD has a mean temperature of 258 Kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

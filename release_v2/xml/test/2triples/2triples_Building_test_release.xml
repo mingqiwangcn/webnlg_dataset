@@ -217,7 +217,8 @@
         <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in Sri Lanka and has the architectural style Tudor Revival.</lex>
-      <lex comment="good" lid="Id2">Adisham Hall is located in Sri Lanka and its architectural style is Tudor Revival.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is located in Sri Lanka and it's architectural style is Tudor Revival.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is located in Sri Lanka and it's architectural style is Tudor Revival.</lex>
     </entry>
     <entry category="Building" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

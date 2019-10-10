@@ -189,7 +189,7 @@
         <mtriple>Bacon_sandwich | ingredient | Bread</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A bacon sandwich on bread is also known as bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
-      <lex comment="good" lid="Id2">The bacon sandwich, which one of two ingredients is bread, has different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id2">The bacon sandwich, which one of two ingedients is bread, has different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -320,7 +320,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore where Tony Tan is a leader.</lex>
       <lex comment="good" lid="Id2">Tony Tan is the leader of Singapore, from where Beef kway teow originates.</lex>
-      <lex comment="good" lid="Id3">Beef kway teow originates from Singapore and its leader is Tony Tan.</lex>
+      <lex comment="good" lid="Id3">Beef kway teow originates from Singapore and it's leader is Tony Tan.</lex>
     </entry>
     <entry category="Food" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -335,7 +335,7 @@
         <mtriple>Bhajji | country | India</mtriple>
         <mtriple>India | leaderName | Sumitra_Mahajan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji originates from India and Sumitra Mahajan is its leader.</lex>
+      <lex comment="good" lid="Id1">Bhajji originates from India and Sumitra Mahajan is it's leader.</lex>
       <lex comment="good" lid="Id2">Bhajji comes from India where the leader is Sumitra Mahajan.</lex>
       <lex comment="good" lid="Id3">Bhajji originates from India where the leader is Sumitra Mahajan.</lex>
     </entry>
@@ -411,7 +411,7 @@
         <mtriple>Bionico | course | Dessert</mtriple>
         <mtriple>Bionico | ingredient | Granola</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bionico is a dessert and it requires granola as one of its ingredients.</lex>
+      <lex comment="good" lid="Id1">Bionico is a dessert and it requires granola as one of it's ingredients.</lex>
       <lex comment="good" lid="Id2">Bionico is a dessert, requiring granola as one of its ingredients.</lex>
       <lex comment="good" lid="Id3">Bionico is a dessert that includes the ingredient granola.</lex>
     </entry>
@@ -425,7 +425,7 @@
         <mtriple>Bionico | course | Dessert</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A popular dessert is Bionico and a variation of this dish can be honey.</lex>
-      <lex comment="good" lid="Id2">Honey can be used as a variation in Bionico which is a dessert.</lex>
+      <lex comment="good" lid="Id2">Honey can be used as a variaton in Bionico which is a dessert.</lex>
       <lex comment="good" lid="Id3">Honey can be added to bionico, a dessert dish.</lex>
     </entry>
     <entry category="Food" eid="Id34" shape="(X (X (X)))" shape_type="chain" size="2">

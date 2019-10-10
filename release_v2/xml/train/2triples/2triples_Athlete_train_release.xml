@@ -2066,7 +2066,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Tyus plays in the Euroleague for the club, Maccabi Tel Aviv B.C.</lex>
       <lex comment="good" lid="Id2">Alex Tyus, now in the Euroleague, played for Maccabi Tel Aviv B.C.</lex>
-      <lex comment="good" lid="Id3">Alex Tyus, who played for Maccabi Tel Aviv B.C., plays in the Euroleague.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus, who played for Maccabi Tel Aviv B.C. , plays in the Euroleague.</lex>
     </entry>
     <entry category="Athlete" eid="Id156" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2092,7 +2092,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante was born in Brandon, Manitoba where the leader is Drew Caldwell.</lex>
       <lex comment="good" lid="Id2">Alex Plante's birth place is Brandon, Manitoba where the leader is Drew Caldwell.</lex>
-      <lex comment="good" lid="Id3">Drew Caldwell is a leader in Brandon, Manitoba where Alex Plante was born.</lex>
+      <lex comment="good" lid="Id3">Drew Calder is a leader in Brandon, Manitoba where Alex Plante was born.</lex>
     </entry>
     <entry category="Athlete" eid="Id158" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2396,7 +2396,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Motherwell_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Motherwell FC, who play their home games at Fir Park, is a former club of footballer Alan Martin.</lex>
-      <lex comment="good" lid="Id2">Fir Park is the home ground of Motherwell FC where Alan Martin plays football.</lex>
+      <lex comment="good" lid="Id2">Fir Park is the home ground of Motherwell FC where Alan Martin plays football,,.</lex>
       <lex comment="good" lid="Id3">Motherwell FC, former club of the player Alan Martin, play their home games at Fir Park.</lex>
     </entry>
     <entry category="Athlete" eid="Id180" shape="(X (X (X)))" shape_type="chain" size="2">

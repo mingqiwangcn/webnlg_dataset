@@ -71,7 +71,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument which is located in Adams County, Pennsylvania. It was established in 2000 and falls under the category of contributing property.</lex>
-      <lex comment="good" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and was established in 2000 where it is categorised as contributing property.</lex>
+      <lex comment="good" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and was established in 2000 where it is categorised as contributing property,.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument (completed in 2000) is located in Adams County, Pennsylvania, and falls under the category of Contributing property.</lex>
     </entry>
     <entry category="Monument" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -101,7 +101,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument in Pennsylvania was completed in 2000 and is categorized as a contributing property.</lex>
-      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, Pennsylvania, is categorised as a contributing property and was established in 2000.</lex>
+      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument, Pennsylvania, is categorised as a contributing property and was established in 2000..</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument (established in 2000) stands in the state of Pennsylvania, and is categorised as a contributing property.</lex>
     </entry>
     <entry category="Monument" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -535,7 +535,7 @@
         <mtriple>Turkey | currency | Turkish_lira</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Turkey's largest city is Istanbul, its currency is the lira and it has the Ataturk Monument in Izmir.</lex>
+      <lex comment="toFix" lid="Id1">Turkey's largest city is Istanbul, it's currency is the lira and has the Ataturk Monument in Izmir.</lex>
       <lex comment="good" lid="Id2">Istanbul is the largest city in Turkey but the Ataturk monument is located in Izmir. The Turkish currency is known as the Turkish lira.</lex>
     </entry>
     <entry category="Monument" eid="Id38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -563,7 +563,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | material | "Bronze"</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The bronze Atatürk monument is in Turkey, where the leader is Ahmet Davutoğlu.</lex>
+      <lex comment="good" lid="Id1">The bronze Atatürk momument is in Turkey, where the leader is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id2">The Atatürk Monument made of bronze is located in İzmir, Turkey, whose leader is Ahmet Davutoğlu.</lex>
     </entry>
     <entry category="Monument" eid="Id40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

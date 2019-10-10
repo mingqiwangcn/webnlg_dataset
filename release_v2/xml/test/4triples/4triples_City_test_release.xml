@@ -14,7 +14,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Georgia, is located within the United States, where English is one of the spoken languages. Native Americans are one of the ethnic groups in the United States of America.</lex>
+      <lex comment="good" lid="Id1">Albany, Georgia, is located within the United States,where English is one of the spoken languages.Native Americans are one of the ethnic groups in the United States of America.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia, is in the United States, where English is spoken, and, where Native Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id3">Albany is part of the state of Georgia in the United States. The country uses the English language and includes the ethnic group of Native Americans.</lex>
     </entry>
@@ -54,7 +54,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington DC is the capital of the United States, where African Americans are an ethnic group. The US is also where you will find Amarillo, which is part of Potter County in Texas.</lex>
-      <lex comment="good" lid="Id2">Amarillo is part of Potter County, Texas in the United States. African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id2">Amarillo is part of Potter County,Texas in the United States.African Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County in Texas in the U.S. Washington, D.C. is the U.S. capital and African Americans are an ethnic group in that country.</lex>
     </entry>
     <entry category="City" eid="Id4" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -89,7 +89,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Indiana is in the U.S. where Native Americans are an ethnic group, and the inhabitants are called Americans.</lex>
       <lex comment="good" lid="Id2">In the U.S. where the people are known as Americans, there are also Native Americans and a city known as Angola in Indiana.</lex>
-      <lex comment="good" lid="Id3">Angola is a city in Indiana, United States. The country's inhabitants are called Americans and Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Angola is a city in Indiana,United States.The country's inhabitants are called Americans and Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -138,7 +138,7 @@
         <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is part of Lee County, Alabama in the United States. African Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id1">Auburn is part of Lee County,Alabama in the United States.African Americans are an ethnic group within the United States.</lex>
       <lex comment="good" lid="Id2">Auburn in Lee County, Alabama is in the U.S.A. which is home to African Americans.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama in the United States. One of the ethnic groups of the country are the African Americans.</lex>
     </entry>
@@ -161,7 +161,7 @@
         <mtriple>Auburn,_Alabama | country | United_States</mtriple>
         <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn, Lee County, Alabama is located in the United States. Opelika is the county seat of Lee County, Alabama.</lex>
+      <lex comment="good" lid="Id1">Auburn,Lee County,Alabama is located in the United States. Opelika is the county seat of Lee County, Alabama.</lex>
       <lex comment="good" lid="Id2">Opelika is the county seat of Lee County, Alabama, the county where Auburn is located, in the United States.</lex>
       <lex comment="good" lid="Id3">The Alabama, US town of Auburn is part of Lee County, the county seat of which is Opelika.</lex>
     </entry>
@@ -185,7 +185,7 @@
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, King County, Washington is located within the United States. The capital of the United States is Washington DC.</lex>
-      <lex comment="good" lid="Id2">The capital of U.S is Washington, D.C. King County, Auburn is located in this state.</lex>
+      <lex comment="good" lid="Id2">The capital of U.S is Washington, D.C.. King County, Auburn is located in this state.</lex>
       <lex comment="good" lid="Id3">Auburn is located in King County, Washington state. The capital of the US is Washington DC.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -321,7 +321,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">People in the U.S., where you will find Angola, Indiana, are known as Americans and that includes African Americans.</lex>
       <lex comment="good" lid="Id2">Angola is a city in Indiana located in the U.S. Americans live in the U.S. and African Americans are an ethnic group there.</lex>
-      <lex comment="good" lid="Id3">Angola, Indiana is in the U.S where the inhabitants are called Americans. One of the ethnic groups in the United States are the African Americans.</lex>
+      <lex comment="good" lid="Id3">Angola, Indiana is in the U.S where the inhabitants are called Americans.One of the ethnic groups in the United States are the African Americans.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -371,8 +371,8 @@
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron is located within Summit County, Ohio, in the United States, where English is spoken, and, where one of the ethnic groups is Asian American.</lex>
-      <lex comment="good" lid="Id2">The United States uses the spoken language of English and includes the ethnic group of Asian Americans. The country is the location of Akron, part of Summit County in Ohio.</lex>
-      <lex comment="good" lid="Id3">Akron, Summit County, Ohio is located within the United States. English is the official language of the country.</lex>
+      <lex comment="good" lid="Id2">The United States uses the spoken language of English and includes the ethnic group of Asian Americans. The country is the location of Akron, part of Summit County in Ohio,.</lex>
+      <lex comment="good" lid="Id3">Akron,Summit County,Ohio is located within the United States.English is the official language of the country.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -387,9 +387,9 @@
         <mtriple>Alabama | country | United_States</mtriple>
         <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">We will find Native Americans in the U.S.A. which is also home to Auburn, Alabama in Lee County.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of Lee County, Alabama in the United States. Native Americans are one of the ethnic groups in the United States of America.</lex>
-      <lex comment="good" lid="Id3">Auburn, Alabama is part of Lee County, Alabama in the United States. Native Americans are one of the ethnic groups in the United States of America.</lex>
+      <lex comment="good" lid="Id1">We will find Native Americans in the U.S.A.which is also home to Auburn, Alabama in Lee County.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of Lee County,Alabama in the United States.Native Americans are one of the ethnic groups in the United States of America.</lex>
+      <lex comment="good" lid="Id3">Auburn, Alabama is part of Lee County,Alabama in the United States.Native Americans are one of the ethnic groups in the United States of America.</lex>
     </entry>
     <entry category="City" eid="Id23" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -404,7 +404,7 @@
         <mtriple>Auburn,_Alabama | country | United_States</mtriple>
         <mtriple>Lee_County,_Alabama | state | Alabama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama within the United States. Native Americans are one of the ethnic groups in the United States of America.</lex>
+      <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama within the United States.Native Americans are one of the ethnic groups in the United States of America.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama is part of Lee County, Alabama, in the United States, where Native Americans are a ethnic group.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Lee County in Alabama in the United States. An ethnic group in the U.S. are Native Americans.</lex>
     </entry>
@@ -438,7 +438,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola, Indiana (U.S.), is home to one of its ethnic groups, the Asian Americans. English is spoken in the United States.</lex>
+      <lex comment="good" lid="Id1">Angola,Indiana (U.S.), is home to one of its ethnic groups, the Asian Americans. English is spoken in the United States.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is in the United States, where English is the language spoken and Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The city of Angola, Indiana is located in the United States. Some Asian Americans live there and the language spoken is English.</lex>
     </entry>

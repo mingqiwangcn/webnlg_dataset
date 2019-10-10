@@ -364,7 +364,7 @@
         <mtriple>AIDAluna | activeYearsStartDate | 2009-03-22</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna which has a length of 252000.0 millimetres started its service on the 22nd of March, 2009.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long, and its service was started on the 22nd of March, 2009.</lex>
+      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long, and its service was started on the 22nd of March, 2009</lex>
       <lex comment="good" lid="Id3">The AIDAluna began its service on 22 March, 2009 and it is 252000.0 mms in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -394,7 +394,7 @@
         <mtriple>AIDAluna | length | 252000.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna is 252m long andhad its maiden voyage on March 22 2009.</lex>
-      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long and had its maiden voyage on 22 March 2009.</lex>
+      <lex comment="good" lid="Id2">The AIDAluna is 252 metres long and had it's maiden voyage on 22 March 2009.</lex>
       <lex comment="good" lid="Id3">The AIDAluna, 252000.0 millimetres long, had her first voyage on March 22, 2009.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -928,7 +928,7 @@
         <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
         <mtriple>AMC_Matador | modelYears | 1971</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1971 is one of the model years of the AMC Matador which is assembled in Thames, New Zealand.</lex>
+      <lex comment="good" lid="Id1">1971 is one of the model years of the AMC Matador which is assembled in Thames,New Zealand.</lex>
       <lex comment="good" lid="Id2">The AMC Matador was assembled in Thames, New Zealand including the 1971 model year.</lex>
       <lex comment="good" lid="Id3">The AMC Matador, produced in 1971, was made in Thames in New Zealand.</lex>
     </entry>
@@ -941,7 +941,7 @@
         <mtriple>AMC_Matador | assembly | Thames,_New_Zealand</mtriple>
         <mtriple>AMC_Matador | modelYears | 1974</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AMC Matador is assembled in Thames, New Zealand and is available in a 1974 model.</lex>
+      <lex comment="good" lid="Id1">AMC Matador is assembled in Thames,New Zealand and is available in a 1974 model.</lex>
       <lex comment="good" lid="Id2">The AMC Matador which is available in a 1974 model is assembled in Thames, New Zealand.</lex>
       <lex comment="good" lid="Id3">1974 is one of the model years of the AMC Matador which was made in Thames, New Zealand.</lex>
     </entry>
@@ -1012,7 +1012,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) comes from Argentina and is 24.4m long.</lex>
       <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo V-2 derives from Argentina and the ship's beam measures 24.4.</lex>
-      <lex comment="good" lid="Id3">The ARA Veinticinco De mayo (V-2) comes from Argentina and its ship beam measures 2.4.</lex>
+      <lex comment="good" lid="Id3">The ARA Veinticinco De mayo (V-2) comes from Argentina and it's ship beam measures 2.4.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id73" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1262,7 +1262,7 @@
         <mtriple>Acura_TLX | engine | V6_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acura TLX, with a V6 engine, is made in Marysville, Ohio.</lex>
-      <lex comment="good" lid="Id2">The Acura TLX, with a v6 engine, is made in Marysville, Ohio.</lex>
+      <lex comment="good" lid="Id2">The Acura TLX , with a v6 engine, is made in Marysville, Ohio.</lex>
       <lex comment="good" lid="Id3">The Acura TLX has a V6 engine and was assembled in Marysville, Ohio.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id91" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1425,7 +1425,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Finland is the builder of the icebreaker called the Aleksey Chirikov which has a 21.2 m long ship beam.</lex>
-      <lex comment="good" lid="Id2">The Finnish built Aleksey Chirikov (icebreaker) has a 21.2 m long ship beam.</lex>
+      <lex comment="good" lid="Id2">The Finnish built Aleksey Chirikov (icebreaker) has a 21.2 m long shipbeam.</lex>
       <lex comment="good" lid="Id3">The icebreaker ship Aleksey Chirikov was built in Finland and has a ship beam of 21.2 m.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id102" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1470,7 +1470,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Helsinki</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aleksey Chirikov icebreaker was built in Helsinki and has a 21.2 m long ship beam.</lex>
+      <lex comment="good" lid="Id1">The Aleksey Chirikov icebreaker was built in Helsinki and has a 21.2 m long shipbeam.</lex>
       <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki and has a ship beam of 21.2 m.</lex>
       <lex comment="good" lid="Id3">The icebreaker Aleksey Chirikov was built in Helsinki and has a ship beam of 21.2.</lex>
     </entry>
@@ -1736,7 +1736,7 @@
         <mtriple>Alvis_Speed_25 | engine | "Petrol"</mtriple>
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a petrol engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 has a petrol engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id123" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1975,7 +1975,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antares rocket's final flight was from Mid-Atlantic Regional Spaceport Launch Pad 0 on the 28th October 2014.</lex>
-      <lex comment="good" lid="Id2">The launch site of the Antares rocket was the Mid-Atlantic Regional Spaceport Launch Pad 0 and it took its final flight on 28 October 2014.</lex>
+      <lex comment="good" lid="Id2">The launch site of the Antares rocket was the Mid-Atlantic Regional Spaceport Launch Pad 0 and it took it's final flight on 28 October 2014.</lex>
       <lex comment="good" lid="Id3">The rocket, Antares, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0 and its final flight was on 2014-10-28.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id138" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2000,7 +2000,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
         <mtriple>Antares_(rocket) | finalFlight | 2013-09-18</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket launch site was the Mid Atlantic Regional Spaceport and its final flight took place on 18 September 2013.</lex>
+      <lex comment="good" lid="Id1">The Antares rocket launch site was the Mid Atlantic Regional Spaceport and it's final flight took place on 18 September 2013.</lex>
       <lex comment="good" lid="Id2">The Antares rocket was launched from the Mid-Atlantic Regional Spaceport and made its final voyage on September 18, 2013.</lex>
       <lex comment="good" lid="Id3">The rocker Antares was launched from the Mid-Atlantic Regional Spaceport and made its final voyage on September 18, 2013.</lex>
     </entry>
@@ -2130,7 +2130,7 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was made by ESA and Arianespace and was launched at ELA-3.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arianespace and was launched at the ELA-3.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arinanespace and was launched at the ELA-3.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was made by ESA and Arianespace and launched from the ELA-3 launchpad.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id150" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2270,7 +2270,7 @@
         <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 is a Coupe with a 5.3 litre engine.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 has a 5.3 litre engine and its body style is the coupe.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 has a 5.3 litre engine and it's body style is the coupe.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8's body style is the Coupé and it has an engine volume of 5.3 litres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id160" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2386,7 +2386,7 @@
         <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin Virage  which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin Virage , which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 was succeeded by the Aston Martin Virage which is a related vehicle to the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 was succeeded by the Aston Martin Virage which is related to the Aston Martin DBS.</lex>
     </entry>
@@ -2543,7 +2543,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lockheed Martin is the manufacturer of the Atlas II, the launch site of which, was the Spaceport Florida Launch Complex 36.</lex>
       <lex comment="good" lid="Id2">The Atlas II was manufactured by Lockheed Martin and its launch site was the Spaceport Florida Launch Complex 36.</lex>
-      <lex comment="good" lid="Id3">The Atlas II, whose launch pad is at Spaceport Florida Launch Complex 36, was made by Lockheed Martin.</lex>
+      <lex comment="good" lid="Id3">The Atlas II , whose launch pad is at Spaceport Florida Launch Complex 36, was made by Lockheed Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id181" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2828,7 +2828,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 and the Fiat Croma are similar means of transport and the latter is also related to the Saab 9000.</lex>
       <lex comment="good" lid="Id2">The Fiat Croma, Saab 9000 and the Fiat Croma are all cars and as such, are related means of transport.</lex>
-      <lex comment="good" lid="Id3">The Fiat Croma, which is a similar means of transport to the Alfa Romeo 164, is also a related means of transport to the Saab 9000.</lex>
+      <lex comment="good" lid="Id3">The Fiat Croma, which is a similar means of transport to the Alfa Romeo 164, is also a related means of transport to the Saab 9000 .</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id200" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

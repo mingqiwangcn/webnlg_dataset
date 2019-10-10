@@ -77,8 +77,8 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Madin was the architect of the building located at 103 Colmore Row. The building was completed in 1976.</lex>
-      <lex comment="good" lid="Id2">Designed by, Birmingham born, architect, John Madin, 103 Colmore Row was completed in 1976. It is located in Colmore Row and has 23 floors.</lex>
+      <lex comment="good" lid="Id1">John Madin was the architect of the building located at 103 Colmore Row .The building was completed in 1976.</lex>
+      <lex comment="good" lid="Id2">Designed by, Birmingham born, architect, John Madin,103 Colmore Row was completed in 1976. It is located in Colmore Row and has 23 floors.</lex>
       <lex comment="good" lid="Id3">Architect John Madin (born in Birmingham) designed 103 Colmore Row in 1976 (located at Colmore Row and boasts 23 floors).</lex>
     </entry>
     <entry category="Building" eid="Id3" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -186,7 +186,7 @@
         <mtriple>South_Africa | leaderName | Jacob_Zuma</mtriple>
         <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">South Africa's ethnic groups include the Coloured. 11 Diagonal Street is located here and its capital is Cape Town. Its leaders include Jacob Zuma and Cyril Ramaphosa.</lex>
+      <lex comment="good" lid="Id1">South Africa's ethnic groups include the Coloured. 11 Diagonal Street is located here and it's capital is Cape Town. It's leaders include Jacob Zuma and Cyril Ramaphosa.</lex>
       <lex comment="good" lid="Id2">The address, 11 Diagonal Street is located in South Africa, which has Cape Town as its capital. Coloured people are an ethnic group in South Africa with Cyril Ramaphosa and Jacob Zuma as its leaders.</lex>
       <lex comment="good" lid="Id3">The address, 11 Diagonal Street is located in South Africa, which has Cape Town as its capital. Cyril Ramaphosa and Jacob Zuma are leaders of South Africa, where coloured people are an ethnic group.</lex>
     </entry>
@@ -417,7 +417,7 @@
         <mtriple>Cleveland | isPartOf | Ohio</mtriple>
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Javkson and Cleveland's governing body is Cleveland City Council.</lex>
+      <lex comment="good" lid="Id1">"200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Javkson and Cleveland's governing body is Cleveland City Council.".</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland, Cuyahoga County, Ohio which is governed by the Cleveland City Council and the leader Frank G Jackson.</lex>
       <lex comment="good" lid="Id3">200 Public Square is located in Cleveland, Cuyahoga County, Ohio. The governing body for the city is Cleveland City Council and Frank G Jackson is a city leader.</lex>
     </entry>
@@ -455,7 +455,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in the United Kingdom, which has London as its capital. Queen Elizabeth II is a leader of the UK, as is Boris Johnson, and the European Parliament also has some control.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom, the country of which London is the capital and of which Elizabeth II is a leader. Boris Johnson is the leader of London, though the city is led via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom, the country of which London is the capital and of which Elizabeth II is a leader. Boris Johnson is the leader of London, though the city is lead via the European Parliament.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located in the UK where the capital city is London. Boris Johnson is a leader in London which is led by the European Parliament. Elizabeth II is the leader of the United Kingdom.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
@@ -473,8 +473,8 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
         <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elizabeth II is the leader of United Kingdom where the currency is Pound sterling and 20 Fenchurch Street is located. The capital is London which is led via the European Parliament.</lex>
-      <lex comment="good" lid="Id2">London, the capital of the UK is led via the European Parliament. 20 Fenchurch Street is located within the country which is led by Elizabeth II and has the currency of the pound sterling.</lex>
+      <lex comment="good" lid="Id1">Elizabeth II is the leader of United Kingdom where the currency is Pound sterling and 20 Fenchurch Street is located. The capital is London which is lead via the European Parliament.</lex>
+      <lex comment="good" lid="Id2">London, the capital of the UK is lead via the European Parliament. 20 Fenchurch Street is located within the country which is led by Elizabeth II and has the currency of the pound sterling.</lex>
     </entry>
     <entry category="Building" eid="Id20" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -491,7 +491,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Boris Johnson led London is the capital of the United Kingdom (led by Elizabeth II), which is home to the British people and 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id1">Boris Johnson led London is the capital of the United Kingdom (led by Elizabeth II)is home to the British people and 20 Fenchurch Street.</lex>
       </entry>
     <entry category="Building" eid="Id21" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -509,7 +509,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The capital of the United Kingdom is London which is led by the European Parliament along with Boris Johnson. The country is the location of 20 Fenchurch Street and the native people are known as British.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom. The capital of this country is London and is led via the European Parliament. The leader is called Boris Johnson. The natives of the United kingdom are British people.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located within the United Kingdom. The capital of this country is London and is lead via the European Parliament. The leader is called Boris Johnson. The natives of the United kingdom are British people.</lex>
     </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -527,7 +527,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">London is the capital of the UK which is led by Elizabeth II via the European Parliament. The native people are known as British and 20 Fenchurch Street is located within the country.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom, the capital city of which is London (which is led via the European Parliament). British people inhabit the UK and the leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom, the capital city of which is London (which is lead via the European Parliament). British people inhabit the UK and the leader is Elizabeth II.</lex>
       <lex comment="good" lid="Id3">The United Kingdom is led by Elizabeth II and also the European Parliament. The native people are known as British and the capital of the country is London. The UK is also the location of 20 Fenchurch Street.</lex>
     </entry>
     <entry category="Building" eid="Id23" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -682,7 +682,7 @@
         <mtriple>Chicago | country | United_States</mtriple>
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle, with 60 floors, is located in Chicago, Illinois, U.S. Chicago's leader is called Rahm Emanuel.</lex>
+      <lex comment="good" lid="Id1">300 North LaSalle, with 60 floors, is located in Chicago, Illinois, U.S.. Chicago's leader is called Rahm Emanuel.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois, United States, and has 60 floors. Chicago is led by Rahm Emanuel.</lex>
     </entry>
     <entry category="Building" eid="Id31" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
@@ -830,7 +830,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The company Populous were the architects of the 3Arena at North Wall, Dublin. The arena, which has a height of 28 metres, was completed in December 2008 and hosts concerts and events.</lex>
       <lex comment="good" lid="Id2">Concerts and events are hosted at 3Arena which is 28 metres high and was completed in December 2008. It is located at North Wall, Dublin and designed by the architectural company Populous.</lex>
-      <lex comment="good" lid="Id3">3Arena in North Wall, Dublin, whose height is 28 metres, was designed by the company Populous and completed in December 2008. It hosts various concerts and events.</lex>
+      <lex comment="good" lid="Id3">3Arena in North Wall, Dublin ,whose height is 28 metres, was designed by the company Populous and completed in December 2008. It hosts various concerts and events.</lex>
     </entry>
     <entry category="Building" eid="Id39" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -899,7 +899,7 @@
         <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena is located at North Wall, Dublin and hosts concerts and events. It has a height of 28 metres and was designed by the architect HOK SVE and completed in December 2008.</lex>
-      <lex comment="good" lid="Id2">The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building.</lex>
+      <lex comment="good" lid="Id2">"The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building.".</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1233,7 +1233,7 @@
         <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The capital of Denmark is Copenhagen and Lars Lokke Rasmussen is Denmark's leader. AC Hotel Bella Sky is in Copenhagen, Denmark and the tenant of the AC Hotel Bella Sky Copenhagen is Marriott International which was founded in Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">"The capital of Denmark is Copenhagen and Lars Lokke Rasmussen is Denmark's leader. AC Hotel Bella Sky is in Copenhagen, Denmark and the tenant of the AC Hotel Bella Sky Copenhagen is Marriott International which was founded in Washington, D.C.".</lex>
       </entry>
     <entry category="Building" eid="Id58" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1302,7 +1302,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AC Hotel Bella Sky in Copenhagen has 23 floors and was designed by architects 3XN. It is owned by Bella Center and currently tenanted by Marriott International.</lex>
-      <lex comment="good" lid="Id2">The AC Hotel, Bella Sky in Copenhagen has 23 floors, is owned by Bella Center and was designed by the architects of the firm 3XN. Marriott International Hotel are the current tenants of the AC Hotel, Bella Sky.</lex>
+      <lex comment="good" lid="Id2">The AC Hotel , Bella Sky in Copenhagen has 23 floors, is owned by Bella Center and was designed by the architects of the firm 3XN. Marriott International Hotel are the current tenants of the AC Hotel, Bella Sky.</lex>
       <lex comment="good" lid="Id3">Located in Copenhagen, AC Hotel Bella Sky Copenhagen was designed by the architects of the 3XN firm. It has 23 floors, is owned by Bella Center and is tenanted by Marriott International.</lex>
     </entry>
     <entry category="Building" eid="Id61" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1459,7 +1459,7 @@
         <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The inhabitants of the Republic of Ireland are the Irish, which is also the language used in the Republic which is led by Enda Kenny. The currency is the euro and the Republic is the location of Adare Manor.</lex>
-      <lex comment="good" lid="Id2">The Republic of Ireland, led by Enda Kenny and home to the Irish, where the currency is the euro, is home to Adare Manor.</lex>
+      <lex comment="good" lid="Id2">The Republic of Ireland, led by Edna Kenny and home to the Irish, where the currency is the euro, is home to Adare Manor.</lex>
     </entry>
     <entry category="Building" eid="Id66" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1540,7 +1540,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale which is in Sri Lanka and the capital of Sri Lanka is Sri Jayawardenepura Kotte and Ranil Wickremesinghe is a leader of Sri Lanka. Sri Lanka's currency is the Sri Lankan rupee.</lex>
+      <lex comment="good" lid="Id1">"Adisham Hall is located in Haputale which is in Sri Lanka and the capital of Sri Lanka is Sri JayawRdenepura Kotte and Ranil Wickremesinghe is a leader of Sri Lanka. Sri Lanka's currency is the Ski Lankan rupee.".</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located at Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe, its capital is Sri Jayawardenepura Kotte, and the official currency is the Sri Lankan rupee.</lex>
       </entry>
     <entry category="Building" eid="Id69" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1660,7 +1660,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor Revival style of architecture.</lex>
       <lex comment="good" lid="Id2">Adisham Hall was constructed between 1927 and 1931 in the Tudor Revival style. It is located on St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall was started to be built in 1927 and was completed in 1931. Adisham Hall has the architectural style 'Tudor Revival' and its address is: St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall was started to be built in 1927 and was completed in 1931. Adisham Hall has the architectural style 'Tudor Revival' and it's address is: St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id74" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1696,7 +1696,7 @@
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Taro Aso is the leader of Japan which has the Vietnamese people as one of its ethnic groups. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id1">Taro Aso is the leader of Japan which has the Vietnamese people as one of it's ethnic groups. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Vietnamese are an ethnic group in Japan where Taro Aso is the leader. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
       </entry>
     <entry category="Building" eid="Id76" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1797,7 +1797,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. One of the ethnic groups in Japan is the Filipinos and the leader of the country is Tarō Asō.</lex>
       <lex comment="good" lid="Id2">The Filipinos are one of the ethnic groups in Japan which is led by Taro Aso. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id3">Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. One of Japan's leaders is Tarō Asō and one ethnic group is the Filipinos.</lex>
+      <lex comment="good" lid="Id3">Akita Museum of Art is in Akita, Akita(part of Akita Prefecture) in Japan. One of Japan's leaders isTarō Asō and one ethic group is the Filipinos.</lex>
     </entry>
     <entry category="Building" eid="Id81" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2237,7 +2237,7 @@
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ampara Hospital is in Sri Lanka and is situated in the Eastern Province state of Sri Lanka. Austin Fernando is the leader of the Eastern Province of Sri Lanka and the Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
+      <lex comment="good" lid="Id1">"Ampara Hospital is in Sri Lanka and is situated in the Eastern Province state of Sri Lanka. Austin Fernando is the leader of the Eastern Province of Sri Lanka and the Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka.".</lex>
       </entry>
     <entry category="Building" eid="Id98" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2557,7 +2557,7 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths, located in Avenue A, Manhattan, is in the Romanesque Revival architectural style, was constructed in 1904 and added to the National Register of Historic Places on 04/23/1980 with reference number: 80002709.</lex>
-      <lex comment="good" lid="Id2">Asser Levy Public Baths is located in Avenue A, Manhattan. They are in the architectural style of Romanesque Revival architecture and were constructed in 1904. The reference number is 80002709 in the National Register of Historic Places and was added on 1980-04-23.</lex>
+      <lex comment="good" lid="Id2">Asser Levy Public Baths is located in Avenue A, Manhattan. They are in the architectural sytle of Romanesque Revival architecture and were constructed in 1904. The reference number is 80002709 in the National Register of Historic Places and was added on 1980-04-23.</lex>
       <lex comment="good" lid="Id3">Asser Levy Public Baths, constructed in 1904 and designed in the Romanesque Revival style, is located in Avenue A, Manhattan. The site was added to the National Register of Historic Places on 23rd April 1980, with Reference Number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id115" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2594,7 +2594,7 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asser Levy Public Baths are located in New York City. They were constructed in 1904 and are in the architectural style of Romanesque Revival architecture. They were added to the National Register of Historic Places on 1980-04-23 with the reference number 80002709.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths are located in New York City. They were constructed in 1904 and are in the architectural sytle of Romanesque Revival architecture. They were added to the National Register of Historic Places on 1980-04-23 with the reference number 80002709.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths are located in New York City. They were constructed in 1904 and have the Romanesque Revival style of architecture. The Reference Number in the National Register of Historic Places is 80002709 and was added on 23rd April 1980.</lex>
       <lex comment="good" lid="Id3">Asser Levy Public Baths were constructed in 1904 in the Romanesque Revival style of architecture. They are located in New York City and were added to the National Register of Historic Places on 1980-04-23 with the reference number of 80002709.</lex>
     </entry>
@@ -2614,7 +2614,7 @@
         <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths are in Manhattern New York City, New York, United states. The leader of Manhattan is Cyrus Vance Jr.</lex>
-      <lex comment="good" lid="Id2">Asser Levy Public Baths are found in New York City, Manhattan, New York, in the U.S. Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
+      <lex comment="good" lid="Id2">Asser Levy Public Baths are found in New York City, Manhattan, New York, in the U.S.. Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
     </entry>
     <entry category="Building" eid="Id118" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2755,7 +2755,7 @@
         <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
         <mtriple>Birmingham | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Architect John Madin (born in Birmingham) designed 103 Colmore Row; Birmingham (postal code B) is governed by The Labour Party's (UK) Birmingham City Council.</lex>
+      <lex comment="good" lid="Id1">Architect John Madin (born in Birmingham) designed 103 Colmore Row; Birmingham(postal code B) is governed by The Labour Party's(UK) Birmingham City Council.</lex>
       <lex comment="good" lid="Id2">The B postcode area is the postal code of Birmingham, which is led by the UK Labour Party and is governed by Birmingham City Council. John Madin, the architect who designed 103 Colmore Row, was born in Birmingham.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham (postcode area 'B'), was designed by the architect John Madin who was born in the city. Birmingham's governing body is Birmingham City Council, which is led by the Labour Party.</lex>
     </entry>
@@ -2868,7 +2868,7 @@
         <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Madin, who was the architect of 103 Colmore Row was born in Birmingham. The governing body of the city (which has the B postcode) is the City Council led by the UK Conservative Party.</lex>
-      <lex comment="good" lid="Id2">Birmingham City Council governs the city of Birmingham which has the postcode area "B". It is led by the Conservative Party (UK) and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id2">Birmingham City Council governs the city of Birmingham which has the postcode area "B". It is led by the Conservative Party(UK) and is the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row was designed by the architect John Madin, who was born in Birmingham. The leader of Birmingham is the Conservative Party (UK), and it has the postcode area 'B'. Its governing body is Birmingham City Council.</lex>
     </entry>
     <entry category="Building" eid="Id131" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2936,7 +2936,7 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amharic is the language of Ethiopia, which is led by Mulatu Teshome and Hailemariam Desalegn and the location of Addis Ababa City Hall in Addis Ababa.</lex>
+      <lex comment="good" lid="Id1">Amharic is the language of Ethiopia, which is led by Malatu Teshome and Hailemariam Desalegn and the location of Addis Ababa City Hall in Addis Ababa.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, the country where the Amharic language is used. The leader of Ethiopia is Hailemariam Desalegn and another leader there is Mulatu Teshome.</lex>
       <lex comment="good" lid="Id3">In Ethiopia the Amharic language is spoken. Ethiopia's leaders include Hailemariam Desalegn and Mulatu Teshome. Addis Ababa is an Ethiopian city where Addis Ababa City Hall is situated.</lex>
     </entry>
@@ -2956,7 +2956,7 @@
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall and Addis Ababa Stadium are both located in Addis Ababa, Ethiopia. Amharic is the language of Ethiopia and the country's leader is Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, where Amharic is spoken. The name of the country's leader is Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id2">The Addis Ababa Stadium and Addis Ababa City Hall are located in Addis Ababa, Ethiopia, where Amharic is spoken. The name of the country's leader is Malatu Teshome.</lex>
       </entry>
     <entry category="Building" eid="Id135" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2980,9 +2980,9 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amharic is a language in Ethiopia where the leader is Mulatu Teshome. Addis Ababa is located in the country and is where Addis Ababa City Hall and Addis Ababa Stadium are located.</lex>
+      <lex comment="good" lid="Id1">Amharic is a language in Ethiopia where the leader is Malatu Teshome. Addis Ababa is located in the country and is where Addis Ababa City Hall and Addis Ababa Stadium are located.</lex>
       <lex comment="good" lid="Id2">Addis Ababa is in in Ethiopia and has a City Hall and Stadium. Mulatu Teshome is an Ethiopian leader and the language is Amharic.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia. The leader of Ethiopia is Mulatu Teshome and the language used in the country is Amharic.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia. The leader of Ethiopia is Malatu Teshome and the language used in the country is Amharic.</lex>
     </entry>
     <entry category="Building" eid="Id136" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3006,9 +3006,9 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia and the Addis Ababa Stadium can also be found there. The leaders of Ethiopia are Mulatu Teshome and Hailemariam Desalegn.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall and the Addis Ababa Stadium are located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are leaders in this country.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are both located in Addis Ababa, Ethiopia. Mulatu Teshome and Hailemariam Desalegn are key country leaders.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall is in Addis Ababa, Ethiopia and the Addis Ababa Stadium can also be found there. The leaders of Ethiopia are Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall and the Addis Ababa Stadium are located in Addis Ababa, Ethiopia. Malatu Teshome and Hailemariam Desalegn are leaders in this country.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall and Addis Ababa Stadium are both located in Addis Ababa, Ethiopia. Malatu Teshome and Hailemariam Desalegn are key country leaders.</lex>
     </entry>
     <entry category="Building" eid="Id137" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3034,7 +3034,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where Amharic is the language spoken. Key leaders of Ethiopia include Hailemariam Desalegn and Mulatu Teshome.</lex>
       <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where Mulatu Teshome is also a leader. The Amharic language is found in the country which is the location of Addis Ababa City Hall in Addis Ababa.</lex>
-      <lex comment="good" lid="Id3">Leaders in Ethiopia are Mulatu Teshome and Hailemariam Desalegn. Addis Ababa City Hall is in Addis Ababa, Ethiopia and the language spoken there is Amharic.</lex>
+      <lex comment="good" lid="Id3">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis Ababa City Hall is in Addis Ababa, Ethiopia and the language spoken there is Amharic.</lex>
     </entry>
     <entry category="Building" eid="Id138" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3295,7 +3295,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located within the United States where English is the language and the Native Americans are an ethnic group. John Roberts is a leader in the United States where the country's leader is titled the President of the United States.</lex>
-      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States which has English as its language and the ethnic group of Native Americans can be found. The leader of the US is titled the President and the current Chief Justice is John Roberts.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States which has English as it's language and the ethnic group of Native Americans can be found. The leader of the US is titled the President and the current Chief Justice is John Roberts.</lex>
     </entry>
     <entry category="Building" eid="Id151" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3401,7 +3401,7 @@
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The White Americans are an ethnic group in the United States which uses the English language. The country is the location of 250 Delaware Avenue and is led by the President. One of the leaders in the country is Paul Ryan.</lex>
-      <lex comment="good" lid="Id2">English is the language of the United States which is led by a President and has the ethnic group of White Americans. The country is the location of 250 Delaware Avenue and has Paul Ryan as one of its leaders.</lex>
+      <lex comment="good" lid="Id2">English is the language of the United States which is led by a President and has the ethnic group of White Americans. The country is the location of 250 Delaware Avenue and has Paul Ryan as one of it's leaders.</lex>
     </entry>
   </entries>
 </benchmark>

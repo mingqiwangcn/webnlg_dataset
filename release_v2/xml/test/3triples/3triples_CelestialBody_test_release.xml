@@ -55,8 +55,8 @@
         <mtriple>101_Helena | escapeVelocity | 0.0348 (kilometrePerSeconds)</mtriple>
         <mtriple>101_Helena | apoapsis | 441092000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">101 Helena (mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).</lex>
-      <lex comment="good" lid="Id2">101 Helena has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.</lex>
+      <lex comment="good" lid="Id1">101 Helena(mass 3.0kgs) has an escape velocity of 0.0348 kilometres per second and its apoapsis is 441092000.0 (kms).</lex>
+      <lex comment="good" lid="Id2">101 Helena; has a mass of 3.0 kgs, an escape velocity of 0.0348 kilometres per second, and an apoapsis of 441092000.0 kilometres.</lex>
       </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -74,7 +74,7 @@
         <mtriple>103_Hera | epoch | 2011-08-27</mtriple>
         <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Hera has an epoch date of August 27th 2011 and was discovered by James Craig Watson, who died in Madison, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">103 Hera has an epoch date of August 27th 2011 and was discovered by James Craig Watson ,who died in Madison,Wisconsin.</lex>
       <lex comment="good" lid="Id2">James Craig Watson was the discoverer of 103 Hera, the epoch of which is on the 31st of July 2016. He died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id3">103 Hera, which has the epoch of 27 August 2011, was discovered by James Craig Watson, who died in Madison, Wisconsin.</lex>
     </entry>
@@ -144,7 +144,7 @@
         <mtriple>1089_Tama | formerName | "A894 VA; A904 VD;"</mtriple>
         <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Formerly named "A894 VA; A 904 VD", 1089 Tama has an orbital period of 1202.846 days, and its epoch is 2005-11-26.</lex>
+      <lex comment="good" lid="Id1">Formerly named "A894 VA; A 904 VD", 1089 Tama has an orbital period of 1202.846 days, and it's epoch is 2005-11-26.</lex>
       <lex comment="good" lid="Id2">The 1089 Tama (formally known as A894 VA; A904 VD) has an orbital period of 1202.846 days and an epoch date of the 26th November 2005.</lex>
       <lex comment="good" lid="Id3">1089 Tama (formerly "A894 VA; A904 VD"), has an orbital period of 1202.846 days and the epoch date, 26 November 2005.</lex>
     </entry>
@@ -264,7 +264,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">10 Hygiea has an apoapsis of 523951582.33968 km, a surface area of 837080.744 sq km and an average speed of 16.76 km per sec.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 10 Hygiea, has a surface area of 837080.744 square km and an average speed of 16.76 km per secs. 10 Hygiea has an apoapsis of 523951582.33968 kilometres.</lex>
-      <lex comment="good" lid="Id3">The asteroid 10 Hygiea has a surface area of 837080.744 square kilometres and an apoapsis of 523951582.33968 kilometres. Its average speed is 16.76 kilometres per second.</lex>
+      <lex comment="good" lid="Id3">The astroid10 Hygiea has a surface area of 837080.744 square kilometres and an apoapsis of 523951582.33968 kilometres. Its average speed is 16.76 kilometres per second.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

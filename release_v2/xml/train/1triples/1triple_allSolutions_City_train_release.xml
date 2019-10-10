@@ -624,7 +624,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County, in Georgia.</lex>
-      <lex comment="good" lid="Id2">Fulton County is the location of Alpharetta, Georgia.</lex>
+      <lex comment="good" lid="Id2">Fulton County is the location of Alpharetta,Georgia.</lex>
       <lex comment="good" lid="Id3">Alpharetta is part of Fulton County in Georgia.</lex>
     </entry>
     <entry category="City" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
@@ -849,7 +849,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The area code of Anderson, in Indiana, is 765.</lex>
       <lex comment="good" lid="Id2">The area code of Anderson, Indiana is 765.</lex>
-      <lex comment="good" lid="Id3">The area code of Anderson, Indiana, is 765.</lex>
+      <lex comment="good" lid="Id3">The area code of Anderson, Indiana , is 765.</lex>
     </entry>
     <entry category="City" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -859,7 +859,7 @@
         <mtriple>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana has an area of 107.43 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Anderson is located in Indiana, whose total area is 107.43 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Anderson is located in Indiana , whose total area is 107.43 square kilometres.</lex>
       <lex comment="good" lid="Id3">The total area of Anderson, Indiana is 107.43 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id79" shape="(X (X))" shape_type="NA" size="1">
@@ -930,7 +930,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Lafayette_Township,_Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana is part of Lafayette Township, Madison County, Indiana.</lex>
-      <lex comment="good" lid="Id2">Anderson is part of Lafayette Township, Madison County, Indiana.</lex>
+      <lex comment="good" lid="Id2">Anderson is part of Lafayette Township, Madison County,Indiana.</lex>
     </entry>
     <entry category="City" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1526,7 +1526,8 @@
         <mtriple>Attica,_Indiana | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica, Indiana is part of the U.S.</lex>
-      <lex comment="good" lid="Id2">Attica, Indiana is part of the United States.</lex>
+      <lex comment="good" lid="Id2">Attica,Indiana is part of the United States.</lex>
+      <lex comment="good" lid="Id3">Attica, Indiana is part of the United States.</lex>
     </entry>
     <entry category="City" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1599,7 +1600,7 @@
       <modifiedtripleset>
         <mtriple>Auburn,_Alabama | populationDensity | 368.65 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Population density in Auburn, Alabama is 368.65 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id1">Population density in Auburn,Alabama is 368.65 inhabitants per square kilometre.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama has a population density of 368.65 inhabitants per sq km.</lex>
       <lex comment="good" lid="Id3">The population density of the city, Auburn in Alabama is 368.65 (inhabitants per square kilometre).</lex>
     </entry>
@@ -1952,7 +1953,7 @@
       <modifiedtripleset>
         <mtriple>Democratic_Party_(United_States) | headquarter | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Democratic Party headquarters are in Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">The Democratic Party headquarters are in Washington, D.C..</lex>
       <lex comment="good" lid="Id2">The Democratic Party (U.S.) is headquartered in Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id176" shape="(X (X))" shape_type="NA" size="1">
@@ -2067,7 +2068,7 @@
         <mtriple>King_County,_Washington | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">King County Washington is in the U.S.</lex>
-      <lex comment="good" lid="Id2">King County, Washington is located in the United States.</lex>
+      <lex comment="good" lid="Id2">King County ,Washington is located in the United States.</lex>
       <lex comment="good" lid="Id3">King County, Washington is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id187" shape="(X (X))" shape_type="NA" size="1">
@@ -2129,7 +2130,7 @@
       <modifiedtripleset>
         <mtriple>Madison_County,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Madison County is in Indiana, which is in the United States.</lex>
+      <lex comment="good" lid="Id1">Madison County is in Indiana, which is in the United States,.</lex>
       <lex comment="good" lid="Id2">Madison County, Indiana is in the country of the United States.</lex>
       <lex comment="good" lid="Id3">Madison County, Indiana, is located in the United States.</lex>
     </entry>
@@ -2299,7 +2300,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pierce County, Washington is in the United States.</lex>
       <lex comment="good" lid="Id2">Pierce County, Washington is located within the United States.</lex>
-      <lex comment="good" lid="Id3">The country of Pierce County, Washington, is United States.</lex>
+      <lex comment="good" lid="Id3">The country of Pierce Country, Washington, is United States.</lex>
     </entry>
     <entry category="City" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2340,7 +2341,7 @@
         <mtriple>Randall_County,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Randall County is in Texas, in the United States.</lex>
-      <lex comment="good" lid="Id2">Randall County is located in Texas, United States.</lex>
+      <lex comment="good" lid="Id2">Randall County is located in Texas,United States.</lex>
       <lex comment="good" lid="Id3">Randall County in Texas is located within the United States.</lex>
     </entry>
     <entry category="City" eid="Id213" shape="(X (X))" shape_type="NA" size="1">

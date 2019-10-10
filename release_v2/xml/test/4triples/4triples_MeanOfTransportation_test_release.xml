@@ -22,7 +22,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ship AIDAstella is operated by Rostock based AIDA Cruises. It was built by Meyer Werft and is owned by Costa Crociere.</lex>
       <lex comment="good" lid="Id2">Located at Rostock, AIDA Cruises operate AIDAstella ship which was built by Meyer Werft and owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft. It is owned by Costa Crociere and operated by AIDA Cruise Line based in Rostock.</lex>
+      <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft . It is owned by Costa Crociere and operated by AIDA Cruise Line based in Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -197,7 +197,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki Shipyard in Helsinki. The Aleksey Chirikov (icebreaker) is in service and its ship beam is 21.2.</lex>
-      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki by the Arctech Helsinki Shipyard. It has a 21.2 m long ship beam and is in service.</lex>
+      <lex comment="good" lid="Id2">The icebreaker Aleksey Chirikov was built in Helsinki by the Arctech Helsinki Shipyard It has a 21.2 m long shipbeam and is in service.</lex>
       </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -253,7 +253,7 @@
         <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Car and Engineering Company was founded in Coventry and was succeeded by the Rover Company. The Alvis Speed 25 has a petrol engine and was manufactured by the Alvis Car and Engineering Company.</lex>
-      <lex comment="good" lid="Id2">The Alvis Speed 25, which has a petrol engine, was manufactured by the Alvis Car and Engineering Company. The company was founded in Coventry and succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25, which has a petrol engine, was manufactured by the Alvis Car and Engineering Company. The company was founded in Coventry and succeeded by the Rover Co..</lex>
       <lex comment="good" lid="Id3">Alvis Speed 25, with its petrol engine, was made by the Alvis Car and Engineering Company found in Coventry. The Rover Co. succeeded that car company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -323,7 +323,7 @@
         <mtriple>American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American submarine NR-1 was built by General Dynamics Electric Boat and launched on 25 January 1969. It has a beam of 3.8 metres and a top speed of 8.334.</lex>
-      <lex comment="good" lid="Id2">General Dynamics Electric Boat is the builder of the American submarine NR-1 and it was launched on January 25th 1969. Its top speed is 8.334 and it has a ship beam of 3.8 m.</lex>
+      <lex comment="good" lid="Id2">General Dynamics Electric Boat is the builder of the American submarine NR-1 and it was launched on January 25th 1969. It's top speed is 8.334 and it has a ship beam of 3.8 m.</lex>
       <lex comment="good" lid="Id3">The American Submarine NR-1, built by General Dynamics Electric Boat, has a top speed of 8.334. It was launched January 25, 1969 and has a 3.8m ship beam.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -340,7 +340,7 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antares rocket, made by Yuzhnoye Design Office, had its initial flight April 21, 2013 and final flight on 10/28/2014. It was launched at Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
-      <lex comment="good" lid="Id2">The Antares rocket was made by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. Its maiden flight was on 21 April 2013 and the final flight on 28 October 2014.</lex>
+      <lex comment="good" lid="Id2">The Antares rocket was made by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport Launch Pad 0. It's maiden flight was on 21 April 2013 and the final flight on 28 October 2014.</lex>
       <lex comment="good" lid="Id3">The Antares rocket made its first flight on April 21, 2013 and its final flight was on 2014-10-28. It is manufactured by the Yuzhnoye Design Office and it was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -371,7 +371,7 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the UK, whose capital is London. It was succeeded by the Aston Martin Virage.</lex>
+      <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the UK,whose capital is London.It was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">Aston Martin V8 was made by Aston Martin in the UK whose capital is London. The Martin was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is assembled in the U.K which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
     </entry>
@@ -407,7 +407,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlas II was launched from Vandenberg Air Force Base and the Cape Canaveral Air Force Station. It is 2.04 m in diameter and made its final flight on 5 December 2002.</lex>
       <lex comment="good" lid="Id2">The Atlas II, which is 3.04m in diameter, has been launched from Cape Canaveral Air Force Station and Vandenberg Air Force Base. Its final flight was December 5, 2002.</lex>
-      <lex comment="good" lid="Id3">Atlas II was launched from Vandenberg Air Force Base at the Cape Canaveral Air Force Station. It has a diameter of 3.04m and its final flight of the Atlas II was on 2002-12-05.</lex>
+      <lex comment="good" lid="Id3">Atlas II was launched from Vandenberg Air Force Base at the Cape Canaveral Air Force Station. It has a diameter of 3.04m and it's final flight of the Atlas II was on 2002-12-05.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -435,7 +435,7 @@
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
-      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id2">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout .</lex>
       <lex comment="good" lid="Id3">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -457,7 +457,7 @@
         <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Caterpillar Inc. was founded in California and located in Illinois. AIDA Cruises is the owner of the AIDAluna which is powered by Caterpillar Inc.</lex>
+      <lex comment="good" lid="Id1">Caterpillar Inc. was founded in California and located in Illinois.AIDA Cruises is the owner of the AIDAluna which is powered by Caterpillar Inc.</lex>
       <lex comment="good" lid="Id2">Caterpillar Inc was founded in California and is located in Illinois. It powers the AIDAluna which is owned by AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">Caterpillar Inc was founded in California and is located in Illinois. AIDAluna, owned by AIDA Cruises, is powered by Caterpillar Inc.</lex>
     </entry>
@@ -531,7 +531,7 @@
         <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
         <mtriple>Alfa_Romeo_164 | bodyStyle | Sedan_(automobile)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164, Fiat Croma and Opel Vectra are related forms of transportation. The body style of the Alfa Romeo 164 is Sedan and its assembly line is in Milan.</lex>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, Fiat Croma and Opel Vectra are related forms of transportation. The body style of the Alfa Romeo 164 is Sedan and it's assembly line is in Milan.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, Opel Vectra and Fiat Croma are similar means of transport. The Alfa Romeo 164 is a sedan which was assembled in Milan.</lex>
       <lex comment="good" lid="Id3">The Alfa Romeo 164 is assembled in Milan and has a sedan type body. It is a related and similar means of transport to the Fiat Croma and the Opel Vectra.</lex>
     </entry>

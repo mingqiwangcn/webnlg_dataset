@@ -18,7 +18,7 @@
       <modifiedtripleset>
         <mtriple>1634:_The_Bavarian_Crisis | ISBN_number | "978-1-4165-4253-7"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Bavarian Crisis can be located by its ISBN number "978-1-4165-4253-7".</lex>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis can be located by it's ISBN number "978-1-4165-4253-7".</lex>
       <lex comment="good" lid="Id2">The ISBN number of 1634: The Bavarian Crisis is 978-1-4165-4253-7.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
@@ -80,7 +80,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634 The Bavarian Crisis comes in hardcover.</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis is a hardcover publication.</lex>
-      <lex comment="good" lid="Id3">1634: The Bavarian Crisis is available in hardcover.</lex>
+      <lex comment="good" lid="Id3">1634: Th Bavarian Crisis is available in hardcover.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -207,7 +207,7 @@
       <modifiedtripleset>
         <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1634: The Ram Rebellion can be found as an E book.</lex>
+      <lex comment="good" lid="Id1">1634: The Ram Rebelllion can be found as an E book.</lex>
       <lex comment="good" lid="Id2">1634: The Ram Rebellion is of the media type E book.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion is available as an E-Book.</lex>
     </entry>
@@ -421,7 +421,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIDS (journal) comes under the academic discipline HIV.</lex>
       <lex comment="good" lid="Id2">The academic discipline of AIDS journal is HIV.</lex>
-      <lex comment="good" lid="Id3">The AIDS (journal) publishes about HIV.</lex>
+      <lex comment="toFix" lid="Id3">The AIDS(journal) is the academic discipline of HIV.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -433,7 +433,7 @@
       <modifiedtripleset>
         <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The AIDS journal studies HIV/AIDS.</lex>
+      <lex comment="toFix" lid="Id1">The AIDS journal studiies HIV/AIDS.</lex>
       <lex comment="good" lid="Id2">The Aids Journal's discipline is HIV/AIDS.</lex>
       <lex comment="good" lid="Id3">The AIDS journal belongs to the academic discipline, HIV/AIDS.</lex>
     </entry>
@@ -532,7 +532,7 @@
       <modifiedtripleset>
         <mtriple>AIP_Advances | impactFactor | "1.524"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AIP Advances has the impact factor 1.524.</lex>
+      <lex comment="good" lid="Id1">AIP Advances has the impact factor 1.524,.</lex>
       <lex comment="good" lid="Id2">The impact factor of AIP Advances is 1.524.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
@@ -718,7 +718,7 @@
       <modifiedtripleset>
         <mtriple>A_Glastonbury_Romance | publisher | The_Bodley_Head</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Glastonbury Romance is published by The Bodley Head.</lex>
+      <lex comment="good" lid="Id1">A Glastonbury Romance is publshed by The Bodley Head.</lex>
       <lex comment="good" lid="Id2">A Glastonbuy Romance is published by The Bodley Head.</lex>
       <lex comment="good" lid="Id3">A Glastonbury Romance was published by The Bodley Head.</lex>
     </entry>
@@ -859,7 +859,7 @@
       <modifiedtripleset>
         <mtriple>A_Loyal_Character_Dancer | mediaType | Hardcover</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A Loyal Character Dancer can be found in hardcover.</lex>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer can be found in hardcover,.</lex>
       <lex comment="good" lid="Id2">A Loyal Character Dancer was published in Hardcover.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id84" shape="(X (X))" shape_type="NA" size="1">
@@ -1281,7 +1281,7 @@
       <modifiedtripleset>
         <mtriple>Acta_Palaeontologica_Polonica | academicDiscipline | Paleobiology</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Paleobiology is the academic discipline of Acta Palaeontologica Polonica.</lex>
+      <lex comment="good" lid="Id1">Paleobiology is the academic discipine of Acta Palaeontologica Polonica.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1335,7 +1335,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The journal Addiction had the ISSN number 0965-2140.</lex>
       <lex comment="good" lid="Id2">The Addiction journal has an ISSN number of 0965-2140.</lex>
-      <lex comment="good" lid="Id3">The ISSN number of Addiction journal is 0965-2140.</lex>
+      <lex comment="good" lid="Id3">The ISSN number of Addiction journeal is 0965-2140.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id129" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1678,7 +1678,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Journal of Mathematics is also known by the abbreviated title of Am. J. Math.</lex>
       <lex comment="good" lid="Id2">Am. J. Math is the abbreviation for the American Journal of Mathematics.</lex>
-      <lex comment="good" lid="Id3">The American Journal of Mathematics is abbreviated to Am. J. Math.</lex>
+      <lex comment="good" lid="Id3">The American Journal of Mathematics is abbreivated to Am. J. Math.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1942,7 +1942,8 @@
       <modifiedtripleset>
         <mtriple>John_Cowper_Powys | birthPlace | Shirley,_Derbyshire</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley, Derbyshire.</lex>
+      <lex comment="good" lid="Id1">John Cowper Powys was born in Shirley,Derbyshire.</lex>
+      <lex comment="good" lid="Id2">John Cowper Powys was born in Shirley, Derbyshire.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

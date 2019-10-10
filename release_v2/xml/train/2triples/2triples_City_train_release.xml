@@ -24,7 +24,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Abilene, Texas is located in the United States where African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Abilene,Texas is located in the United States where African Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -178,9 +178,9 @@
         <mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akron, Ohio is part of the U.S. where Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Akron,Ohio is part of the U.S. where Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Akron Ohio is part of the United States of America, in which one of the ethnic groups is Native Americans.</lex>
-      <lex comment="good" lid="Id3">Akron, Ohio is part of the United States where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">Akron,Ohio is part of the United States where Native Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -410,7 +410,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States has an ethnic group called Native Americans and is where you will find Albany, Oregon.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is part of the U.S. where one of the ethnic groups are Native Americans.</lex>
-      <lex comment="good" lid="Id3">Albany, Oregon is in the United States, where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">Albany, Oregon is in the United States, where Native Americans are one of the ethic groups.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -438,7 +438,7 @@
         <mtriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The land area of Albuquerque, New Mexico is 486.2 square kilometres while its total area is 490.9 square kilometres.</lex>
+      <lex comment="good" lid="Id1">The land area of Albuquerque,New Mexico is 486.2 square kilometres while its total area is 490.9 square kilometres.</lex>
       <lex comment="good" lid="Id2">The total area of Albuquerque, New Mexico is 490.9 square kilometres, the area of land is 486.2 square kilometers.</lex>
     </entry>
     <entry category="City" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -452,7 +452,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, is in New Mexico, in the United States.</lex>
       <lex comment="good" lid="Id2">Albuquerque is part of New Mexico in the United States.</lex>
-      <lex comment="good" lid="Id3">Albuquerque is located in New Mexico, United States.</lex>
+      <lex comment="good" lid="Id3">Albuquerque is located in New Mexico,United States.</lex>
     </entry>
     <entry category="City" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -501,7 +501,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico, U.S. is led by the Mayor of Albuquerque.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico ,U.S. is led by the Mayor of Albuquerque.</lex>
       <lex comment="good" lid="Id2">The leader of Albuquerque, New Mexico, US, is the Mayor of Albuquerque.</lex>
       </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -744,7 +744,7 @@
         <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpharettta, Georgia is located in the United States where English is the official language.</lex>
+      <lex comment="good" lid="Id1">Alpharettta,Georgia is located in the United States where English is the official language.</lex>
       <lex comment="good" lid="Id2">The English language is spoken in the United States and Alpharetta, Georgia is located in the country.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Georgia is in the United States, where the English language is used.</lex>
     </entry>
@@ -757,7 +757,7 @@
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo, Texas is located within the United States where African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id1">Amarillo,Texas is located within the United States where African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">African Americans are an ethnic group in the United States, where Amarillo, Texas is located.</lex>
       <lex comment="good" lid="Id3">The United States include the ethnic group of African Americans and is the location of Amarillo, Texas.</lex>
     </entry>
@@ -809,7 +809,7 @@
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo, Texas is part of Randall County, Texas, in the United States.</lex>
-      <lex comment="good" lid="Id2">Amarillo, Texas is part of Randall County in the U.S.</lex>
+      <lex comment="good" lid="Id2">Amarillo,Texas is part of Randall County in the U.S.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Randall County, Texas, United States.</lex>
     </entry>
     <entry category="City" eid="Id48" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -834,7 +834,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of Texas, in the United States.</lex>
       <lex comment="good" lid="Id2">The city of Amarillo is located in Texas in the United States.</lex>
-      <lex comment="good" lid="Id3">Amarillo is a city in Texas, United States.</lex>
+      <lex comment="good" lid="Id3">Amarillo is a city in Texas,United States.</lex>
     </entry>
     <entry category="City" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -896,7 +896,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
       <lex comment="good" lid="Id2">Anaheim, California has a UTC offset of -7 and covers a total area of 131.6 square kilometres.</lex>
-      <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres,.</lex>
     </entry>
     <entry category="City" eid="Id52" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1050,7 +1050,7 @@
         <mtriple>Anaheim,_California | leaderTitle | California_State_Senate</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The California State Senate leads Anaheim, which is in Orange County, California.</lex>
-      <lex comment="good" lid="Id2">The California State Senate leads Anaheim, which is part of Orange County in California.</lex>
+      <lex comment="good" lid="Id2">The California State Senate leads Anaheim,which is part of Orange County in California.</lex>
     </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1290,7 +1290,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asian Americans are one of the ethnic groups in the U.S., the country where Angola, Indiana located.</lex>
-      <lex comment="good" lid="Id2">Angola, Indiana is part of the U.S. where Asian Americans are one of the country's ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Angola,Indiana is part of the U.S. where Asian Americans are one of the country's ethnic groups.</lex>
       <lex comment="good" lid="Id3">Angola in Indiana is in the U.S. and one ethnic group in that country is Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id75" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1542,7 +1542,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is part of Fulton County in Georgia, United States.</lex>
       <lex comment="good" lid="Id2">Atlanta is part of Fulton County, Georgia, United States.</lex>
-      <lex comment="good" lid="Id3">Atlanta is part of Fulton County in Georgia, United States.</lex>
+      <lex comment="good" lid="Id3">Atlanta is part of Fulton County in Georgia,United States.</lex>
     </entry>
     <entry category="City" eid="Id90" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1721,8 +1721,8 @@
         <mtriple>Atlantic_City,_New_Jersey | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City is part of New Jersey, United States where African Americans are one of the country's ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Atlantic City, New Jersey is part of the United States of America where one of the ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id1">Atlantic City is part of New Jersey,United States where African Americans are one of the country's ethnic groups.</lex>
+      <lex comment="good" lid="Id2">Atlantic City , New Jersey is part of the United States of America where one of the ethnic groups are African Americans.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States, where Atlantic City, New Jersey is located.</lex>
     </entry>
     <entry category="City" eid="Id103" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1855,7 +1855,7 @@
         <mtriple>Attica,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana is located in the United States where African Americans are one of the country's ethnic groups.</lex>
+      <lex comment="good" lid="Id1">Attica,Indiana is located in the United States where African Americans are one of the country's ethnic groups.</lex>
       <lex comment="good" lid="Id2">The United States includes the ethnic group of African Americans and is the location of Attica, Indiana.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States, the country which Attica, Indiana, is part of.</lex>
     </entry>
@@ -1869,7 +1869,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica, Indiana is part of the United States of America where one of the ethnic groups are Asian Americans.</lex>
-      <lex comment="good" lid="Id2">Attica, Indiana is located in the United States where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Attica,Indiana is located in the United States where Asian Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id111" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1880,7 +1880,7 @@
         <mtriple>Attica,_Indiana | isPartOf | United_States</mtriple>
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana is part of the United States, where the capital is Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">Attica,Indiana is part of the United States, where the capital is Washington, D.C.</lex>
       <lex comment="good" lid="Id2">Attica, Indiana is part of the United States, where the capital city is Washington DC.</lex>
       <lex comment="good" lid="Id3">The United States has the capital city of Washington DC, and is the location of Attica, Indiana.</lex>
     </entry>
@@ -2027,7 +2027,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">African Americans are an ethnic group within the United States where you can find Auburn, Washington.</lex>
-      <lex comment="good" lid="Id2">Auburn, Washington is located in the United States, where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Auburn, Washington is located in the United States, where African Americans are an ethic group.</lex>
     </entry>
     <entry category="City" eid="Id120" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2196,7 +2196,7 @@
         <mtriple>Austin,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin, Texas is located in the United States where Native Americans are among the country's ethnic groups.</lex>
+      <lex comment="good" lid="Id1">Austin,Texas is located in the United States where Native Americans are among the country's ethnic groups.</lex>
       <lex comment="good" lid="Id2">The United States of America is the location of Austin, Texas and includes the Native Americans among its ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id130" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2209,7 +2209,7 @@
         <mtriple>Hays_County,_Texas | largestCity | San_Marcos,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hays County, Texas is part of Austin and the largest city is San Marcos.</lex>
-      <lex comment="good" lid="Id2">Austin is in Hays County, Texas, and the largest city of Hays County is San Marcos.</lex>
+      <lex comment="good" lid="Id2">Austin is in Hays County, Texas, and the largest city of Hays County is San Marcos,.</lex>
       <lex comment="good" lid="Id3">Austin is in Hays County, Texas where the largest city is San Marcos.</lex>
     </entry>
     <entry category="City" eid="Id131" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2313,8 +2313,8 @@
         <mtriple>Fulton_County,_Georgia | country | United_States</mtriple>
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fulton County is the location of Alpharetta, Georgia, in the United States.</lex>
-      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County in Georgia, United States.</lex>
+      <lex comment="good" lid="Id1">Fulton County is the location of Alpharetta,Georgia, in the United States.</lex>
+      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County in Georgia,United States.</lex>
       <lex comment="good" lid="Id3">Alpharetta, is part of Fulton County, in Georgia, in the United States.</lex>
     </entry>
     <entry category="City" eid="Id138" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2327,7 +2327,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta is part of Fulton County in Georgia where the largest city is Atlanta.</lex>
-      <lex comment="good" lid="Id2">Atlanta is the largest city of Fulton County, Georgia, the county where Alpharetta is located.</lex>
+      <lex comment="good" lid="Id2">Atlanta is the largest city of Fulton County, Georgia,the county where Alpharetta is located.</lex>
     </entry>
     <entry category="City" eid="Id139" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2445,7 +2445,7 @@
         <mtriple>Michigan | largestCity | Detroit</mtriple>
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor is found in Michigan where Detroit (its largest city) is also located.</lex>
+      <lex comment="good" lid="Id1">Ann Arbor is found in Michigan where Detroit ( it's largest city ) is also located.</lex>
       <lex comment="good" lid="Id2">Ann Arbor is part of Michigan which has Detroit as its largest city.</lex>
       <lex comment="good" lid="Id3">Ann Arbor is located in Michigan where Detroit is the largest city.</lex>
     </entry>
@@ -2578,7 +2578,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Oregon is located within the United States which has the capital of Washington DC.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is in the United States, the capital of which, is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Albany (Oregon) is in the U.S., the capital of which is Washington, D.C.</lex>
+      <lex comment="good" lid="Id3">Albany ( Oregon), is in the U.S., the capital of which, is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2628,7 +2628,7 @@
         <mtriple>Auburn,_Washington | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Washington is part of the United States which has the capital city of Washington DC.</lex>
-      <lex comment="good" lid="Id2">Auburn, Washington is part of the United States, where Washington D.C. is the capital.</lex>
+      <lex comment="good" lid="Id2">Auburn, Washington is part of the United States, where Washington D,C,. is the capital.</lex>
       <lex comment="good" lid="Id3">Auburn, Washington is part of the United States whose capital is Washington DC.</lex>
     </entry>
     <entry category="City" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2703,7 +2703,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany, Oregon is located within the United States, where one of the ethnic groups is Asian Americans.</lex>
+      <lex comment="good" lid="Id1">Albany,Oregon is located within the United States,where one of the ethnic groups is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the US, where Albany, Oregon is located.</lex>
       <lex comment="good" lid="Id3">Albany, Oregon is part of the U.S. and one ethnic group in that country is Asian Americans.</lex>
     </entry>
@@ -2834,7 +2834,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Georgia is in the United States which uses the English language.</lex>
       <lex comment="good" lid="Id2">The United States uses the English language and is where you will find Albany, Georgia.</lex>
-      <lex comment="good" lid="Id3">Albany, Georgia is located in the United States where English is one of the spoken languages.</lex>
+      <lex comment="good" lid="Id3">Albany,Georgia is located in the United States where English is one of the spoken languages.</lex>
     </entry>
     <entry category="City" eid="Id177" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2859,7 +2859,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States, where English is spoken, is home to Albuquerque in New Mexico.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, New Mexico is located in the United States where English is one of the spoken languages.</lex>
+      <lex comment="good" lid="Id2">Albuquerque,New Mexico is located in the United States where English is one of the spoken languages.</lex>
       <lex comment="good" lid="Id3">English is spoken in the United States, which is where Albuquerque, New Mexico is located.</lex>
     </entry>
     <entry category="City" eid="Id179" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2871,7 +2871,7 @@
         <mtriple>United_States | language | English_language</mtriple>
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola, Indiana is located in the United States, where English is the official language.</lex>
+      <lex comment="good" lid="Id1">Angola,Indiana is located in the United States,where English is the official language.</lex>
       <lex comment="good" lid="Id2">English is the language of the United States, where you will find Angola, Indiana.</lex>
       <lex comment="good" lid="Id3">Angola, Indiana is in the United States where English is spoken.</lex>
     </entry>

@@ -157,7 +157,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque in New Mexico has a total area of 490.9 sq km, of which 486.2 is land. The population density is 1142.3 people per square kilometre. The area codes for Albuquerque are 505 and 575.</lex>
       <lex comment="good" lid="Id2">The total area of Albuquerque in New Mexico is 490.9 square kilometres of which 486.2 is land. The population density is 1142.3 persons per sq km and the area codes there are 505 and 575.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers. The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1142.3 people per square kilometres.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 and total area of 490.9 square kilometers.The area codes in Albuquerque, New Mexico are 505 and 575 and there are 1142.3 people per square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -200,7 +200,7 @@
         <mtriple>Democratic_Party_(United_States) | headquarter | Washington,_D.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson in the United States is led by the Democratic Party of the US who have their headquarters in Washington DC. Anderson is located in Indiana, where the state capital is Indianapolis.</lex>
-      <lex comment="good" lid="Id2">The Democratic Party leads Anderson, Indiana in the US. The party headquarter is located in Washington D.C. Indianapolis is the capital of Indiana.</lex>
+      <lex comment="good" lid="Id2">The Democratic Party leads Anderson,Indiana in the US.The party headquarter is located in Washington D.C.Indianapolis is the capital of Indiana.</lex>
       <lex comment="good" lid="Id3">Indianapolis is the capital of Indiana, where the city of Anderson is located, in the United States. Anderson, is led by the U.S. Democratic Party, which is headquartered in Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -252,7 +252,7 @@
         <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">California, where some parts speak Chinese, is home to Antioch, which covers 75.324 square kilometres of Contra Costa County in the San Francisco Bay area.</lex>
-      <lex comment="good" lid="Id2">Antioch and the San Francisco bay area are parts of Contra Costa County in California. The total area of Antioch is 75.324 square km and Chinese is one of the spoken languages in California.</lex>
+      <lex comment="good" lid="Id2">Antioch and the San Francisco bay area are parts of Contra Costa County in California.The total area of Antioch is 75.324 square km and Chinese is one of the spoken languages in California.</lex>
       <lex comment="good" lid="Id3">With a total area of 75.324 square km, Antioch is part of Contra Costa County. This county is part of the San Francisco Bay area, in California, where, in some parts, Chinese is spoken.</lex>
     </entry>
     <entry category="City" eid="Id9" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -341,7 +341,7 @@
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is in Williamson County Texas where Georgetown is the county seat and Round Rock is the largest city and spanish is spoken.</lex>
-      <lex comment="good" lid="Id2">Williamson County, Texas contains the towns of Austin, Round Rock, the largest city, and the county seat of Georgetown. Spanish is spoken in Texas.</lex>
+      <lex comment="good" lid="Id2">Williamson County, Texas contains the towns of Austin, Round Rock, the largest city , and the county seat of Georgetown. Spanish is spoken in Texas.</lex>
       <lex comment="good" lid="Id3">Austin is part of Williamson County, Texas, where Spanish is spoken. Round Rock is the largest city in Williamson County and Georgetown is the county seat.</lex>
     </entry>
     <entry category="City" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -359,7 +359,7 @@
         <mtriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</mtriple>
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas, which uses the Spanish language, is Houston.</lex>
+      <lex comment="good" lid="Id1">Austin is part of Williamson County in Texas which has the county seat of Georgetown. The largest city in Texas , which uses the Spanish language, is Houston.</lex>
       <lex comment="good" lid="Id2">Williamson County with county seat Georgetown, and Austin are located inTexas, where the largest city is Houston and Spanish is one of the spoken languages.</lex>
     </entry>
     <entry category="City" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -440,8 +440,8 @@
         <mtriple>Texas | country | United_States</mtriple>
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is its biggest city.</lex>
-      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas, the capital city of which, is Austin. Houston is the largest city in Texas, which is in the United States.</lex>
+      <lex comment="good" lid="Id1">Arlington is part of Tarrant County in Texas in the U.S. Austin is the capital in that state and Houston is it's biggest city.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas, the capital city of which, is Austin . Houston is the largest city in Texas, which is in the United States.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -477,7 +477,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>Albany,_Oregon | isPartOf | Linn_County,_Oregon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is a city in Linn County, Oregon in the United States. The capital of the country is Washington, D.C. and its inhabitants are called Americans. African Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id1">Albany is a city in Linn County, Oregon in the United States.The capital of the country is Washington, D.C. and its inhabitants are called Americans.African Americans are an ethnic group within the United States.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is in Linn County in the United States. Washington, D.C. is the capital of the U.S.; where African Americans and Americans call home.</lex>
       </entry>
     <entry category="City" eid="Id20" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -532,7 +532,7 @@
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States uses the English language, has the capital of Washington DC, and includes the Asian Americans among its ethnic groups. The city of Albany is located within the country and is part of Benton County in Oregon.</lex>
-      <lex comment="good" lid="Id2">The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethnic group of Asian Americans and English is spoken.</lex>
+      <lex comment="good" lid="Id2">The city of Albany is part of Benton County, Oregon U.S. In the U.S.A. Washington D.C. is the capital, there is an ethic group of Asian Americans and English is spoken.</lex>
       </entry>
     <entry category="City" eid="Id23" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -586,8 +586,8 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque in New Mexico, U.S. is led by the Albuquerque City Council and English is the official language. The leader of the United States is Barack Obama and Native Americans are one of the ethnic groups in the country.</lex>
-      <lex comment="good" lid="Id2">Native Americans are an ethnic group in the United States, where Barack Obama, is the leader. English speaking America, is where Albuquerque, in New Mexico, is located. The Albuquerque City Council has a leadership role in Albuquerque.</lex>
+      <lex comment="good" lid="Id1">Albuquerque in New Mexico,U.S. is led by the Albuquerque City Council and English is the official language.The leader of the United States is Barack Obama and Native Americans are one of the ethnic groups in the country.</lex>
+      <lex comment="good" lid="Id2">Native Americans are an ethnic group in the United States, where Barack Obama, is the leader. English speaking America, is where Albuquerque, in New Mexico., is located. The Albuquerque City Council has a leadership role in Albuquerque.</lex>
       <lex comment="good" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, in the United States. The leader of this English speaking country, is Barack Obama, and one of the ethnic groups, is Native Americans.</lex>
     </entry>
     <entry category="City" eid="Id26" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">

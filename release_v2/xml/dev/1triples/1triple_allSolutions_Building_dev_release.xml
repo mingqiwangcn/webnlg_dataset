@@ -148,7 +148,7 @@
       <modifiedtripleset>
         <mtriple>Amdavad_ni_Gufa | architect | B._V._Doshi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The architect B V Doshi designed Amdavad Ni Gufa.</lex>
+      <lex comment="good" lid="Id1">The architecct B V Doshi designed Amdavad Ni Gufa.</lex>
       <lex comment="good" lid="Id2">B V Doshi is the architect who designed Amdavad ni Gufa.</lex>
     </entry>
     <entry category="Building" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
@@ -245,7 +245,7 @@
       <modifiedtripleset>
         <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic groups in Japan is the Brazilians.</lex>
+      <lex comment="toFix" lid="Id1">One of the ethnic groups in Japan in the Brazilians.</lex>
       <lex comment="toFix" lid="Id2">The Brazilians in Japan are an ethnic group found in Japan.</lex>
     </entry>
     <entry category="Building" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
@@ -281,7 +281,7 @@
         <mtriple>Republic_of_Ireland | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ireland official language is Irish English.</lex>
-      <lex comment="good" lid="Id2">The English language is the main language of the Republic of Ireland.</lex>
+      <lex comment="toFix" lid="Id2">English language is the main language of the Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">One language used in the Republic of Ireland is English.</lex>
     </entry>
     <entry category="Building" eid="Id27" shape="(X (X))" shape_type="NA" size="1">

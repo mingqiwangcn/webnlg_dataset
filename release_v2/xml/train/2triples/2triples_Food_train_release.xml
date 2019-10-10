@@ -292,7 +292,7 @@
         <mtriple>Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"</mtriple>
         <mtriple>Amatriciana_sauce | dishVariation | Garlic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A variant of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
+      <lex comment="good" lid="Id1">A varient of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
       <lex comment="good" lid="Id2">one Amatriciana sauce variation is onion, garlic, black pepper and chili- sometimes garlic is added.</lex>
       <lex comment="good" lid="Id3">Variations of Amatriciana sauce includes onion, garlic, black pepper, and chili.</lex>
     </entry>
@@ -413,7 +413,7 @@
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Indonesia is Joko Widodo which commonly serves arem arem.</lex>
-      <lex comment="good" lid="Id2">Arem-arem is a dish from Indonesia and its leader is Joko Widodo.</lex>
+      <lex comment="good" lid="Id2">Arem-arem is a dish from Indonesia and it's leader is Joko Widodo.</lex>
     </entry>
     <entry category="Food" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -454,7 +454,7 @@
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
         <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arem-arem is found nationwide in Indonesia, but is more specific to Java and its main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id1">Arem-arem is found nationwide in Indonesia, but is more specific to Java and it's main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
       <lex comment="good" lid="Id2">Compressed rice cooked in banana leaf with vegetables or minced meat fillings are the main ingredients of Arem-arem which is found nationwide in Indonesia but is more specific to Java.</lex>
       <lex comment="good" lid="Id3">Arem-arem is an Indonesian dish but more specific to Java and has the main ingredients of compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
     </entry>
@@ -534,7 +534,7 @@
         <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
         <mtriple>Italy | leaderName | Pietro_Grasso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arrabbiata sauce is from Italy and Pietro Grasso is its leader.</lex>
+      <lex comment="good" lid="Id1">Arrabbiata sauce is from Italy and Pietro Grasso is it's leader.</lex>
       <lex comment="good" lid="Id2">Pietro Grasson is the leader of Italy, where arrabbiata sauce can be found.</lex>
       <lex comment="good" lid="Id3">Arrabbiata sauce is from Italy where Pietro Grasso is the leader.</lex>
     </entry>
@@ -739,7 +739,7 @@
         <mtriple>Arròs_negre | country | Spain</mtriple>
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arros negre is from Spain and its leader is Felipe VI.</lex>
+      <lex comment="good" lid="Id1">Arros negre is from Spain and it's leader is Felipe VI.</lex>
       <lex comment="good" lid="Id2">Felipe VI of Spain is the leader of Spain where Arròs negre is a traditional dish.</lex>
       <lex comment="good" lid="Id3">Felipe VI of Spain is the leader of Spain, where one can find Arros negre.</lex>
     </entry>
@@ -766,7 +766,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Catalonia is led by the Parliament of Catalonia and is the region that Arros negre is from.</lex>
       <lex comment="good" lid="Id2">The leaders of Catalonia are the Parliament of Catalonia and in this region you can find Arros negre.</lex>
-      <lex comment="good" lid="Id3">Arros negre is from the Catalonia region and its leaders are the Parliament of Catalonia.</lex>
+      <lex comment="good" lid="Id3">Arros negre is from the Catalonia region and it's leaders are the Parliament of Catalonia.</lex>
     </entry>
     <entry category="Food" eid="Id58" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -906,7 +906,7 @@
         <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Malaysia includes the Malaysian chinese and is a locale for the dish: Asam pedas.</lex>
-      <lex comment="good" lid="Id2">The Malaysian chinese are an ethnic group in Malaysia where Asam pedas is a local food.</lex>
+      <lex comment="good" lid="Id2">The Malaysian chinese are an ethnic group in Malaysia where Asam pedas is a local food,.</lex>
       <lex comment="good" lid="Id3">Asam pedas is a food found in Malaysia where Malaysian Chinese are an ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id69" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -942,9 +942,9 @@
         <mtriple>Asam_pedas | country | Malaysia</mtriple>
         <mtriple>Malaysia | leaderName | Abdul_Halim_of_Kedah</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asam pedas is a food found in Malaysia and Abdul Halim of Kedah is its leader.</lex>
+      <lex comment="good" lid="Id1">Asam pedas is a food found in Malaysia and Abdul Halim of Kedah is it's leader.</lex>
       <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia where the leader is Abdul Halim of Kedah.</lex>
-      <lex comment="good" lid="Id3">Asam pedas is a food found in Malaysia and its leader is Abdul Halim of Kedah.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a food found in Malaysia and it's leader is Abdul Halim of Kedah.</lex>
     </entry>
     <entry category="Food" eid="Id72" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -956,7 +956,7 @@
         <mtriple>Malaysia | leaderName | Abu_Zahar_Ujang</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abu Zahar Ujang is the leader of Malaysia where one of the local foods is asam pedas.</lex>
-      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia and Abu Zahar Ujang is its leader.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia and Abu Zahar Ujang is it's leader.</lex>
       <lex comment="good" lid="Id3">Asam pedas is a food found in Malaysia, where Abu Zahar Ujang is a leader.</lex>
     </entry>
     <entry category="Food" eid="Id73" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -970,7 +970,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arifin Zakaria is leader of Malaysia, where Asam pedas is found.</lex>
       <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia, where Arifin Zakaria is the leader.</lex>
-      <lex comment="good" lid="Id3">Asam pedas is a dish found in Malaysia, where the leader is Arifin Zakaria.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a dish found in Malaysia. where the leader is Arifin Zakaria.</lex>
     </entry>
     <entry category="Food" eid="Id74" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1148,7 +1148,7 @@
         <mtriple>Ayam_penyet | region | Malaysia</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam penyet is popular in Malaysia and also found in Java.</lex>
+      <lex comment="good" lid="Id1">Ayam penet is popular in Malaysia and also found in Java.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a food found in Java, and it comes from the region of Malaysia.</lex>
     </entry>
     <entry category="Food" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1340,7 +1340,7 @@
         <mtriple>Bacon_Explosion | country | United_States</mtriple>
         <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bacon Explosion is from the United States and Paul Ryan is its leader.</lex>
+      <lex comment="good" lid="Id1">Bacon Explosion is from the United States and Paul Ryan is it's leader.</lex>
       <lex comment="good" lid="Id2">The Bacon Explosion comes from the United States where Paul Ryan is a leader.</lex>
     </entry>
     <entry category="Food" eid="Id103" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1429,9 +1429,9 @@
         <mtriple>Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"</mtriple>
         <mtriple>Bacon_sandwich | ingredient | Brown_sauce</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Brown sauce can be added to a bacon sandwich and its nicknames include bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id1">Brown sauce can be added to a bacon sandwich and its nicknames include bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece n bacon, bacon cob, bacon barm and bacon muffin.</lex>
       <lex comment="good" lid="Id2">An ingredient in a bacon sandwich is brown sauce and it can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
-      <lex comment="good" lid="Id3">Bacon Sandwich includes brown sauce. The bacon sandwich also goes by the following: bacon butty, bacon sarnie, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id3">Bacon Sandwich includes brown sauce. The bacon sandwich also goes by the following: bacon butty, bacon sarnie, bacon sanger, piece' n bacon, bacon cob, bacon barm and bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1748,7 +1748,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell pudding is classed as a dessert and it contains ground almond, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id2">The dessert, Blackwell pudding, includes: ground almonds, jam, butter and eggs.</lex>
-      <lex comment="good" lid="Id3">Bakewell pudding is classed as a dessert and its main ingredients are ground almonds, jam, butter and eggs.</lex>
+      <lex comment="good" lid="Id3">Bakewell pudding is classed as a dessert and it's main ingredients are ground almonds, jam, butter and eggs.</lex>
     </entry>
     <entry category="Food" eid="Id134" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1927,7 +1927,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef is an ingredient of Bakso, from Chinese cuisine.</lex>
       <lex comment="good" lid="Id2">Beef is an ingredient in the Chinese dish Bakso.</lex>
-      <lex comment="good" lid="Id3">Basko, a Chinese dish, is made with beef as a main ingredient.</lex>
+      <lex comment="good" lid="Id3">Basko , a Chinese dish, is made with beef as a main ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id147" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2520,7 +2520,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy is eaten in the Philippines where the Ilocano people are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Batchoy is a dis found in the Phillipines; the Ilocano people are an ethnic group living there.</lex>
-      <lex comment="good" lid="Id3">The Ilocano people are an ethnic group from the Philippines where Batchoy is eaten.</lex>
+      <lex comment="good" lid="Id3">The llocano people are an ethnic group from the Philippines where Batchoy is eaten.</lex>
     </entry>
     <entry category="Food" eid="Id188" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2584,7 +2584,7 @@
         <mtriple>Batchoy | region | La_Paz,_Iloilo_City</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Noodles, pork organs, vegetables, chicken, shrimp and beef are main ingredients of Batchoy which is found in La Paz, Iloilo City.</lex>
-      <lex comment="good" lid="Id2">Batchoy which originated in La Paz, Iloilo City uses noodles, pork organs, vegetables, chicken, shrimp and beef as its main ingredients.</lex>
+      <lex comment="good" lid="Id2">Batchoy which originated in La Paz, Iloilo City uses noodles, pork organs, vegetables, chicken, shrimp and beef as it's main ingredients.</lex>
       <lex comment="good" lid="Id3">Batchoy originated from the region of La Paz, Iloilo City and the main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
     </entry>
     <entry category="Food" eid="Id193" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2637,7 +2637,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Oyster sauce is an ingredient in the popular Singapore dish of Beef kway teow.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is a Singapore dish which contains oyster sauce.</lex>
-      <lex comment="good" lid="Id3">Oyster sauce is an ingredient of Beef kway teow which is a dish from Singapore.</lex>
+      <lex comment="good" lid="Id3">Oyster sauce is an ingredient of Beef kway teow which is a dish from Sinagpore.</lex>
     </entry>
     <entry category="Food" eid="Id197" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2712,7 +2712,7 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Beef kway teow comes from Singapore region where the English language is spoken.</lex>
+      <lex comment="good" lid="Id1">Beef kway teow comes from Singaporae region where the English language is spoken.</lex>
       <lex comment="good" lid="Id2">English is spoken in Singapore where beef kway teow is a dish.</lex>
       </entry>
     <entry category="Food" eid="Id203" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2724,7 +2724,7 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore and the country's leader is Halimah Yacob.</lex>
+      <lex comment="good" lid="Id1">Beef kway teow is a dish of Singapore and the counrty's leader is Halimah Yacob.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is a dish of Halimah Yacob led, Singapore.</lex>
       <lex comment="good" lid="Id3">Beef kway teow comes from the Singapore region where the leader is Halimah Yacob.</lex>
     </entry>
@@ -2846,7 +2846,7 @@
         <mtriple>Bhajji | region | Karnataka</mtriple>
         <mtriple>Karnataka | leaderName | Vajubhai_Vala</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji comes from the Karnataka region and its leader is Vajubhai Vala.</lex>
+      <lex comment="good" lid="Id1">Bhajji comes from the Karnataka region and it's leader is Vajubhai Vala.</lex>
       <lex comment="good" lid="Id2">Bhajji is from the Karnataka region where the leader is Vajubhai Vala.</lex>
       <lex comment="good" lid="Id3">Vajubhai Vala is the leader of Karnataka, where Bhajji originates from.</lex>
     </entry>
@@ -2898,7 +2898,7 @@
         <mtriple>Binignit | ingredient | Coconut_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit is a dish from the Philippines that contains coconut milk.</lex>
-      <lex comment="good" lid="Id2">The binignit dish, which has coconut milk as an ingredient, can be found in the Philippines.</lex>
+      <lex comment="good" lid="Id2">The binignit dish,which has coconut milk as an ingredient, can be found in the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id217" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2949,7 +2949,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit and sandesh are both dessert.</lex>
       <lex comment="good" lid="Id2">Sandesh (confectionery) is a dish that can be served as a dessert, as is Binignit.</lex>
-      <lex comment="good" lid="Id3">Two types of desserts that can be served are Binignit and Sandesh.</lex>
+      <lex comment="good" lid="Id3">Two types of deserts that can be served are Binignit and Sandesh.</lex>
     </entry>
     <entry category="Food" eid="Id221" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3051,7 +3051,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients of Binignit are the sweet potato and coconut milk.</lex>
       <lex comment="good" lid="Id2">One of the main ingredients of Binignit is the sweet potato but it also uses coconut milk.</lex>
-      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatoes, and it also includes coconut milk.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of binignit are sweet potatotes, and it also includes coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id229" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3087,7 +3087,7 @@
         <mtriple>Binignit | mainIngredients | Taro</mtriple>
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The dish Binignit can be found in the Philippines, its main ingredient is Taro.</lex>
+      <lex comment="good" lid="Id1">The dish Binignit can be found in the Philippines, it's main ingredient is Taro.</lex>
       </entry>
     <entry category="Food" eid="Id232" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3179,7 +3179,7 @@
         <mtriple>Mexico | leaderName | Silvano_Aureoles_Conejo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Silvano Aureoles Conejo is the leader of Mexico where Bionico is one of the local foods.</lex>
-      <lex comment="good" lid="Id2">Bionico is a food found in Mexico and its leader is Silvano Aureoles Conejo.</lex>
+      <lex comment="good" lid="Id2">Bionico is a food found in Mexico and it's leader is Silvano Aureoles Conejo.</lex>
       <lex comment="good" lid="Id3">Bionico is a food found in Mexico where the leader is Silvano Aureoles Conejo.</lex>
     </entry>
     <entry category="Food" eid="Id239" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -3256,7 +3256,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is served at the dessert course and can be varied by using cottage cheese.</lex>
       <lex comment="good" lid="Id2">Bionico is a dish served for dessert that can be varied by using cottage cheese.</lex>
-      <lex comment="good" lid="Id3">The dessert Bionico can be varied using cottage cheese.</lex>
+      <lex comment="good" lid="Id3">The desert Bionico, can be varied using cottage cheese.</lex>
     </entry>
     <entry category="Food" eid="Id245" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3282,7 +3282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre is found in the region of Catalonia and the leader of the country is Carles Puigdemont.</lex>
       <lex comment="good" lid="Id2">Arros negre originates from Catalonia (led by Carles Puigdemont).</lex>
-      <lex comment="good" lid="Id3">Arros negre is a region of Catalonia and Carles Puigdement is its leader.</lex>
+      <lex comment="good" lid="Id3">Arros negre is a region of Catalonia and Carles Puigdement is it's leader.</lex>
     </entry>
     <entry category="Food" eid="Id247" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3320,7 +3320,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakso is a dish from the country of Indonesia, where Jakarta is the capital.</lex>
       <lex comment="good" lid="Id2">The capital of Indonesia is Jakarta and Bakso comes from there.</lex>
-      <lex comment="good" lid="Id3">Jakarta, Indonesia is where Bakso originates.</lex>
+      <lex comment="good" lid="Id3">Jakarta , Indonesia is where Bakso originates.</lex>
     </entry>
     <entry category="Food" eid="Id250" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3597,7 +3597,7 @@
         <mtriple>Beef_kway_teow | country | Singapore</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tony Tan is the leader of Singapore where Beef kway teow is a popular dish.</lex>
-      <lex comment="good" lid="Id2">Beef kway teow is a dish from Singapore and Tony Tan is its leader.</lex>
+      <lex comment="good" lid="Id2">Beef kway teow is a dish from Singapore and Tony Tan is it's leader.</lex>
       </entry>
     <entry category="Food" eid="Id271" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3652,8 +3652,8 @@
         <mtriple>Ajoblanco | country | Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ajoblanco originates from the country of Spain where the leader is Felipe VI of Spain.</lex>
-      <lex comment="good" lid="Id2">Ajoblanco originates from Spain and Felipe VI is its leader.</lex>
-      <lex comment="good" lid="Id3">Ajoblanco is from Spain and Felipe VI is its leader.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco originiates from Spain and Felipe VI is it's leader.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco is from Spain and Felipe VI is it's leader.</lex>
     </entry>
     <entry category="Food" eid="Id275" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

@@ -165,7 +165,7 @@
         <mtriple>Asam_pedas | region | "Sumatra and Malay Peninsula"</mtriple>
         <mtriple>Asam_pedas | mainIngredients | "Fish cooked in sour and hot sauce"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The main ingredients of asam pedas, a food from the Sumatra and Malay Peninsula regions of Malaysia, consist of fish cooked in a sour and hot sauce.</lex>
+      <lex comment="good" lid="Id1">The main ingredients of asam pedas , a food from the Sumatra and Malay Peninsula regions of Malaysia, consist of fish cooked in a sour and hot sauce.</lex>
       <lex comment="good" lid="Id2">Asam pedas is made from fish cooked in a sour and hot sauce and comes from the Sumatra and Malay Peninsula regions in Malaysia.</lex>
       <lex comment="good" lid="Id3">The dish Asam pedas comes from the region of Sumatra and the Malay Peninsula. Malaysia and the main ingredients are fish cooked in sour and hot sauce.</lex>
     </entry>
@@ -180,7 +180,7 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
         <mtriple>Ayam_penyet | mainIngredients | "Squeezed" or "smashed" fried chicken served with sambal</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam penyet is made from squeezed or squashed chicken served with sambal and is a popular dish in Java, Malaysia.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is made from squeezed or squashed chicken served with sambla and is a popular dish in Java, Malaysia.</lex>
       <lex comment="good" lid="Id2">Ayam penyet's main ingredients are squeezed or smashed fried chicken served with sambal. It is a popular dish in Malaysia and also found in Java.</lex>
       <lex comment="good" lid="Id3">Ayam penyet originates from Malaysia and Java. The main ingredients are squeezed or smashed fried chicken served with sambal.</lex>
     </entry>
@@ -209,7 +209,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">One of the ethnic groups in the United States are native Americans, the country is also the home of the dish bacon explosion and has Wasington D.C. as its capital city.</lex>
+      <lex comment="good" lid="Id1">One of the ethnic groups in the United States are native Americans, the country is also the home of the dish bacon explosion and has Wasington D.C. as it's capitol city.</lex>
       <lex comment="good" lid="Id2">Bacon Explosion originated in the United States, where the capital is Washington DC and Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Bacon Explosion comes from the United States where Washington D.C. is the capital and Native Americans are an ethnic group.</lex>
     </entry>
@@ -430,7 +430,7 @@
         <mtriple>Bhajji | mainIngredients | "Gram flour, vegetables"</mtriple>
         <mtriple>Bhajji | ingredient | Gram_flour</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Bhajji originates from India, its main ingredients are gram flour and vegetables.</lex>
+      <lex comment="good" lid="Id1">Bhajji originates from India, it's main ingredients are gram flour and vegetables.</lex>
       <lex comment="good" lid="Id2">The key ingredients of a Bhajji from India are gram flour and vegetables.</lex>
       <lex comment="good" lid="Id3">The main ingredients in Bhajji, which originates from Indiam are gram flour and vegetables.</lex>
     </entry>
@@ -584,7 +584,7 @@
         <mtriple>Ayam_penyet | region | Singapore</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">From the Singapore region, Ayam penyet, is a food found in Java where an ethnic group is the Baduy.</lex>
+      <lex comment="good" lid="Id1">From the Singapore region, Ayam penyet, is a food found in Java where an ethic group is the Baduy.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a dish from the region of Singapore and is also found in Java where the Baduy are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Ayam penyet is from Singapore and also Java, where the Baduy are an ethnic group.</lex>
     </entry>

@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in London, which is currently led by the European Parliament.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in London, which is led via the European Parliament.</lex>
-      <lex comment="good" lid="Id3">20 Fenchurch Street is located in London which is led by the European Parliament.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street is located in London which is lead via the European Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -263,7 +263,7 @@
         <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California has a reference number in the National Register of Historic Places of: 87000823.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and its reference number is 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and it's reference number is 87000823 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id3">"87000823" is Asilomar Conference Grounds' reference number in the National Register of Historic Places, and it is located on Asilomar Blvd, Pacific Grove, California.</lex>
     </entry>
     <entry category="Building" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -306,8 +306,8 @@
         <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel was the leader of Gujurat where Amdavad ni Gufa is located.</lex>
-      <lex comment="good" lid="Id2">Amdavad Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
-      <lex comment="good" lid="Id3">Amdavad ni Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id2">Amdavad Gufa is located in Gujarat and it's leader is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id3">Amdavad ni Gufa is located in Gujarat and it's leader is Anandiben Patel.</lex>
     </entry>
     </entries>
 </benchmark>

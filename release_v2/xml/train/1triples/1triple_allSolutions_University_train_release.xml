@@ -217,7 +217,7 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id4">Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id5">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id5">Acharya Institute of Technology is affilaited with Visvesvaraya Technological University.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -297,7 +297,7 @@
       <lex comment="good" lid="Id1">The number of post graduate students at the Acharya Institute of Technology is about 700.</lex>
       <lex comment="good" lid="Id2">The number of postgraduate students in Acharya Institute of Technology is ~700.</lex>
       <lex comment="good" lid="Id3">There are around 700 postgraduate students at the Acharya Institute of Technology.</lex>
-      <lex comment="good" lid="Id4">There are about 700 postgraduate students at the Acharya Institute of Technology.</lex>
+      <lex comment="toFix" lid="Id4">There are about 700 post graduate students at the Acharya Institute of Technology.</lex>
       <lex comment="good" lid="Id5">Acharya Institute of Technology has 700 postgraduate students.</lex>
       <lex comment="good" lid="Id6">700 students are enrolled in a post-graduate program at Acharya Institute of Technology.</lex>
     </entry>
@@ -447,7 +447,7 @@
         <mtriple>European_University_Association | headquarters | Brussels</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The headquarters of the European University Association is in Brussels.</lex>
-      <lex comment="good" lid="Id2">The European University Association headquarter is in Brussels.</lex>
+      <lex comment="good" lid="Id2">The European University Associatian headquarter is in Brussels.</lex>
     </entry>
     <entry category="University" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -478,7 +478,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Karnataka neighbors Telangana to its northeast.</lex>
       <lex comment="good" lid="Id2">Karnataka has to its northeast Telangana.</lex>
-      <lex comment="good" lid="Id3">To the northeast of Karnataka is Telangana.</lex>
+      <lex comment="good" lid="Id3">To the northeast of Karnataka is Telagana.</lex>
     </entry>
     <entry category="University" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -549,8 +549,8 @@
         <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Romania is known as the Prime Minister.</lex>
-      <lex comment="good" lid="Id2">Romania's leader is called the Prime Minister of Romania.</lex>
-      <lex comment="good" lid="Id3">The title of the leader of Romania is "Prime Minister".</lex>
+      <lex comment="toFix" lid="Id2">Romania's leader is call the Prime Minister of Romania.</lex>
+      <lex comment="toFix" lid="Id3">The title of the leader of Romania is "Prime Minister".</lex>
     </entry>
     <entry category="University" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -674,7 +674,7 @@
       <modifiedtripleset>
         <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Visvesvaraya Technological University is in the city of Belgaum.</lex>
+      <lex comment="toFix" lid="Id1">The Visvesvaraya Technologiccal University is in the city of Belgaum.</lex>
       <lex comment="good" lid="Id2">Visvesvaraya Technological University is in the city of Belgaum.</lex>
       <lex comment="good" lid="Id3">Visvesvaraya Technological University is located in Belgaum.</lex>
     </entry>

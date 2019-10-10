@@ -10,9 +10,9 @@
         <mtriple>Aarhus | leaderName | Jacob_Bundsgaard</mtriple>
         <mtriple>Aarhus_Airport | cityServed | Aarhus</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus whose leader is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id1">Aarhus airport serves the city of Aarhus who's leader is Jacob Bundsgaard.</lex>
       <lex comment="good" lid="Id2">Aarhus airport serves the city of Aarhus where Jacob Bundsgaard is a leader.</lex>
-      <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, its leader is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id3">Aarhus airport serves the city of Aarhus, it's leader is Jacob Bundsgaard.</lex>
     </entry>
     <entry category="Airport" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -367,8 +367,8 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Madrid | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, in Spain.</lex>
-      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, Spain.</lex>
+      <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, in Spain.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, Spain.</lex>
       <lex comment="good" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is in Madrid, Spain.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -878,7 +878,7 @@
         <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayLength | 3078.48</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad Airbase is located in Al Anbar Province, Iraq, its runway is 3078.48 long.</lex>
+      <lex comment="good" lid="Id1">Al Asad Airbase is located in Al Anbar Province, Iraq, it's runway is 3078.48 long.</lex>
       <lex comment="good" lid="Id2">Located at Al Anbar Province, in Iraq, Al Asad Airbase has a runway with the length of 3078.48 metres.</lex>
       <lex comment="good" lid="Id3">Al Asad airbase is located at Al Anbar Province, Iraq and has a runway length of 3078.48.</lex>
     </entry>
@@ -1370,7 +1370,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allama Iqbal International Airport has a runway length of 3310.0 and is found in Punjab, Pakistan.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International Airport is located in Punjab Pakistan; its runway length is 3,310.</lex>
-      <lex comment="good" lid="Id3">Allama Iqbal International Airport located in Punjab, Pakistan has a runway length of 3310.0.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International Airport located in Punjab, Pakistan has a runway length of 3310.0..</lex>
     </entry>
     <entry category="Airport" eid="Id94" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1401,7 +1401,7 @@
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
         <mtriple>Alpena_County_Regional_Airport | owner | Alpena_County,_Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aplena County Regional Airport is elevated 210 metres above sea level and is owned by Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id1">The Aplena County Regional Airport is elevated 210 metres above sea level and is owned by Alpena Country, Michigan.</lex>
       <lex comment="good" lid="Id2">Aplena County Regional Airport, which is 210 metres above sea level is owned by Alpena County, Michigan.</lex>
       <lex comment="good" lid="Id3">Alpena County, Michigan is the owner of the Alpena County Regional Airport, which has an elevation above sea level of 210 metres.</lex>
     </entry>
@@ -1433,7 +1433,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpena County Regional Airport is found in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
-      <lex comment="good" lid="Id3">Alpena County Regional Airport is in Maple Ridge Township, Alpena County, Michigan in the U.S.A.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is in Maple Ridge Township, Alpena County, Michigan in the U.S.A..</lex>
     </entry>
     <entry category="Airport" eid="Id98" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1710,7 +1710,7 @@
         <mtriple>Andrews_County_Airport | location | Texas</mtriple>
         <mtriple>Texas | demonym | Tejano</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County Airport is located in Texas, whose inhabitants are called Tejano.</lex>
+      <lex comment="good" lid="Id1">Andrews County Airport is located in Texas, who's inhabitants are called Tejano.</lex>
       <lex comment="good" lid="Id2">Andrews County Airport is located in Texas where tejano is the demonym used.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport is located in Texas where the demonym is Tejano.</lex>
     </entry>
@@ -2099,7 +2099,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport is at an elevation of 280 metres above sea level and can be found in Greenville, Wisconsin.</lex>
-      <lex comment="good" lid="Id2">The Appleton International Airport is in Greenville, Wisconsin and is 280 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">The Appleton International Airport is in Greenville, Wisconsin and is 280 metres above sea level,.</lex>
       <lex comment="good" lid="Id3">The Appleton International Airport in Greenville, Wisconsin is 280 metres above sea leve.</lex>
     </entry>
     <entry category="Airport" eid="Id144" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2572,7 +2572,7 @@
         <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
-      <lex comment="good" lid="Id2">Atlantic City International Airport owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport owned by South Jersey Transportation Authority who's chief is Stephen Dilts.</lex>
     </entry>
     <entry category="Airport" eid="Id176" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

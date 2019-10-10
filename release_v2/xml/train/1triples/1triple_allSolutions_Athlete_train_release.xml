@@ -240,7 +240,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt's is in the youth club SV Weder Bremen.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt played for the SV Werder Bremen youth team.</lex>
-      <lex comment="good" lid="Id3">Aaron Hunt belongs to the youth club SV Werder Bremen.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt belongs to the youthclub SV Werder Bremen.</lex>
     </entry>
     <entry category="Athlete" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -348,7 +348,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In his youth, Abel Hernández played for Peñarol.</lex>
       <lex comment="good" lid="Id2">Abel Hernández was a member of youth club Peñarol.</lex>
-      <lex comment="good" lid="Id3">Abel Hernandez is a member of Penarol's youth club.</lex>
+      <lex comment="good" lid="Id3">Abel Hernandez is a member of Penarol's youthclub.</lex>
     </entry>
     <entry category="Athlete" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -689,8 +689,8 @@
         <mtriple>Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams' birthplace was Point Fortin, Trinidad and Tobago.</lex>
-      <lex comment="good" lid="Id2">Akeem Adams was born in Point Fortin, Trinidad and Tobago.</lex>
-      <lex comment="good" lid="Id3">Akeem Adams was born in Point Fortin, in Trinidad and Tobago.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams was born in Point Fortin, Trindad and Tobago.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams was born in Point Fortin,Trinidad and Tobago.</lex>
     </entry>
     <entry category="Athlete" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -832,7 +832,7 @@
         <mtriple>Akeem_Ayers | birthPlace | Raleigh,_North_Carolina</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers birth place is Raleigh, North Carolina.</lex>
-      <lex comment="good" lid="Id2">Akeem Ayers was born in Raleigh, North Carolina.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers was born in Raleigh,North Carolina.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers was born in Raleigh North Carolina.</lex>
     </entry>
     <entry category="Athlete" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
@@ -1411,7 +1411,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Martin_(footballer) | birthDate | 1989-01-01</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Martin (footballer) was born on 01/01/1989.</lex>
+      <lex comment="good" lid="Id1">Alan Martin(footballer) was born on 01/01/1989.</lex>
       <lex comment="good" lid="Id2">Footballer, Alan Martin was born on January 1st 1989.</lex>
       <lex comment="good" lid="Id3">Alan Martin (footballer) was born on the 1st January 1989.</lex>
     </entry>
@@ -2156,7 +2156,7 @@
         <mtriple>Alex_Plante | club | Anyang_Halla</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante has played for the club Anyang Halla.</lex>
-      <lex comment="good" lid="Id2">Alex Plante's club is called Anyang Halla.</lex>
+      <lex comment="good" lid="Id2">Alex Plante' s club is called Anyang Halla.</lex>
     </entry>
     <entry category="Athlete" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2192,6 +2192,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Tyus was born in St Louis.</lex>
       <lex comment="good" lid="Id2">Alex Tyus was born in St. Louis.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus was born is St.Louis.</lex>
     </entry>
     <entry category="Athlete" eid="Id189" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2658,7 +2659,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of Hamilton Academical F.C. is located in Hamilton, South Lanarkshire.</lex>
       <lex comment="good" lid="Id2">Hamilton Academical F.C. play in Hamilton, South Lanarkshire.</lex>
-      <lex comment="good" lid="Id3">The home of the Hamilton Academical F.C. is Hamilton, South Lanarkshire.</lex>
+      <lex comment="good" lid="Id3">The home of the Hamilton Academical F.C. is Hamilton,South Lanarkshire.</lex>
     </entry>
     <entry category="Athlete" eid="Id233" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3124,8 +3125,8 @@
         <mtriple>St._Louis_Rams | coach | Jeff_Fisher</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jeff Fisher is the coach of the St Louis Rams.</lex>
-      <lex comment="good" lid="Id2">Jeff Fisher is a coach for the St. Louis Rams.</lex>
-      <lex comment="good" lid="Id3">Jeff Fisher is a coach of the St. Louis Rams.</lex>
+      <lex comment="toFix" lid="Id2">Jeff Fisher is coach for the St. Louis Rams.</lex>
+      <lex comment="toFix" lid="Id3">Jeff Fisher is coach of the St. Louis Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id275" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3134,9 +3135,9 @@
       <modifiedtripleset>
         <mtriple>St._Louis_Rams | coach | Joe_Vitt</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Joe Vitt is the coach for the St. Louis Rams.</lex>
+      <lex comment="toFix" lid="Id1">Joe Vitt is coach for the St. Louis Rams.</lex>
       <lex comment="good" lid="Id2">Joe Vitt is the coach of the St. Louis Rams.</lex>
-      <lex comment="good" lid="Id3">Joe Vitt is a coach of the St. Louis Rams.</lex>
+      <lex comment="toFix" lid="Id3">Joe Vitt is coach of the St. Louis Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id276" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

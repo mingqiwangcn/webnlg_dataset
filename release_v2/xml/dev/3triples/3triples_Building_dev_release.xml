@@ -199,8 +199,8 @@
         <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall which is 42 metres high and has a floor area of 140000.0 (square metres).</lex>
-      <lex comment="good" lid="Id2">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall, which has a floor area of 140000.0 square metres. It is 42 m high.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall, which houses the Government of Addis Ababa, is 42 m high and has a floor area of 140000.0 square metres.</lex>
+      <lex comment="good" lid="Id2">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall. which has a floor area of 140000.0 square metres. It is 42 m high.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall, which houses the Government of Addis Ababa, is 42 m high and has a floor area of140000.0 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -406,7 +406,7 @@
         <mtriple>Asilomar_Conference_Grounds | added to the National Register of Historic Places | "1987-02-27"</mtriple>
         <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987. Its reference number in the National Register of Historic Places is 87000823.</lex>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987. Its reference number in the National Register of Historic Places is 87000823,.</lex>
       <lex comment="good" lid="Id2">The Asilomar Conference Grounds of Pacific Grove in California was added to the National Register of Historic Places on 27th of February in 1987, where the reference number for the National register was 87000823.</lex>
       <lex comment="good" lid="Id3">Asilomar Conference Grounds, Pacific Grove, California, was added to the National Register of Historic Places on February the 27nd 1987 with a reference number of 87000823.</lex>
     </entry>
@@ -421,8 +421,8 @@
         <mtriple>Asser_Levy_Public_Baths | ReferenceNumber in the National Register of Historic Places | "80002709"</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 1980-04-23, with the number 80002709.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths are located in Asser Levy Place, East 23rd Street and were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.</lex>
+      <lex comment="good" lid="Id1">The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street and were added to the National Register of Historic Places on 1980-04-23, with the number 80002709.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street and were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709 .</lex>
     </entry>
     <entry category="Building" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

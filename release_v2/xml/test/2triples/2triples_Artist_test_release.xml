@@ -129,7 +129,7 @@
         <mtriple>Aleksandra_Kovač | genre | Pop_music</mtriple>
         <mtriple>Aleksandra_Kovač | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aleksandra Kovac has been a solo singer, and a performer in the pop music genre.</lex>
+      <lex comment="good" lid="Id1">Aleksandra Kovac has been a solo singer , and a performer in the pop music genre.</lex>
       <lex comment="good" lid="Id2">With a background in solo singing, Aleksandra Kovač, belongs to the musical genre of Pop.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovač is a solo pop musician singer.</lex>
     </entry>
@@ -257,7 +257,7 @@
         <mtriple>Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell is a jazz musician who sings and also plays the bodhran, percussion and the autoharp.</lex>
-      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music, she plays the bodhran, percussion, and autoharp in addition to singing.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs jazz music, she plays the bodhran, perscussion, and autoharp in addition to singing.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performs jazz music and is a singer and also plays the bodhran, percussion and autoharp.</lex>
     </entry>
     <entry category="Artist" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">

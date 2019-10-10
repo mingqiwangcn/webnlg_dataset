@@ -576,7 +576,7 @@
         <mtriple>Cleveland | country | United_States</mtriple>
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">200 Public square is in Cleveland, United States and the governing body is Cleveland City Council.</lex>
+      <lex comment="good" lid="Id1">200 Public square is in Cleveland,United States and the governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">Cleveland City Council governs Cleveland in the United States where 200 Public Square is located.</lex>
     </entry>
     <entry category="Building" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -732,7 +732,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 34 floors at 20 Fenchurch Street which is located in London, the leader of which is Boris Johnson.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street which is located in London (the leader of which is Boris Johnson) has 34 floors.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street which is located in London( the leader of which is Boris Johnson) has 34 floors.</lex>
       <lex comment="good" lid="Id3">Boris Johnson is a leader in London where 20 Fenchurch Street with 34 floors is located.</lex>
     </entry>
     <entry category="Building" eid="Id37" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -747,7 +747,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in London, which is led by Boris Johnson. London is led by the European Parliament.</lex>
-      <lex comment="good" lid="Id2">20 Fenchurch Street is located in London. London is led via the European Parliament and Boris Johnson is its leader.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch Street is located in London. London is lead via the European Parliament and Boris Johnson is its leader.</lex>
     </entry>
     <entry category="Building" eid="Id38" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -883,7 +883,7 @@
         <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors, its construction began in January 2014 is located in Buffalo, New York.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue has 12 floors, it's construction began in January 2014 is located in Buffalo, New York.</lex>
       <lex comment="good" lid="Id2">January 2014 was the start date of building 250 Delaware Avenue which has 12 floors in Buffalo, New York.</lex>
       <lex comment="good" lid="Id3">The 12 floor construction project of 250 Delaware Avenue in Buffalo, New York, is set to began in January 2014.</lex>
     </entry>
@@ -1020,7 +1020,7 @@
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, U.S., and Susana Mendoza is the leader.</lex>
-      <lex comment="good" lid="Id2">Susana Mendoza is the leader of Chicago (United States), where 300 North LaSalle is located.</lex>
+      <lex comment="good" lid="Id2">Susana Mendoza is the leader of Chicago ( United States), where 300 North LaSalle is located.</lex>
       <lex comment="good" lid="Id3">Susana Mendoza is a leader in Chicago, US. In this city we can find 300 North LaSalle.</lex>
     </entry>
     <entry category="Building" eid="Id53" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1065,7 +1065,7 @@
         <mtriple>Chicago | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, Dupage County, Illinois, U.S.</lex>
-      <lex comment="good" lid="Id2">Located in the United States is 300 North LaSalle, a part of the DuPage County in Illinois.</lex>
+      <lex comment="good" lid="Id2">Located in the United States is 300 North LaSelle, a part of the DuPage Country in Illinois.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is in Chicago in the DuPage County of Illinois within the United States.</lex>
     </entry>
     <entry category="Building" eid="Id56" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1079,7 +1079,7 @@
         <mtriple>Chicago | isPartOf | DuPage_County,_Illinois</mtriple>
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">300 North LaSalle is in Chicago, whose leader is Susana Mendoza, and is a part of DuPage County Illinois.</lex>
+      <lex comment="good" lid="Id1">300 North LaSalle is in Chicago, who's leader is Susana Mendoza, and is a part of DuPage County Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is in Chicago, (part of DuPage County Illinois), which is led by Susana Mendoza.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is located in Chicago, DuPage County, Illinois where the leader is Susana Mendoza.</lex>
     </entry>
@@ -1523,7 +1523,7 @@
         <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is located in Denmark and is managed by Marriott International. Marriott International was founded in Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is located in Denmark,Marriott International was founded in Washington, D.C.</lex>
       <lex comment="good" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen in Denmark is the Marriott International Hotel. Marriott International was founded in Washington DC.</lex>
       <lex comment="good" lid="Id3">Marriott International, founded in Washington, D.C., is the tenant of the AC Hotel Bella Sky in Copenhagen, Denmark.</lex>
     </entry>
@@ -1784,7 +1784,7 @@
         <mtriple>Adare_Manor | location | County_Limerick</mtriple>
         <mtriple>County_Limerick | isPartOf | Munster</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adare Manor can be found in Adare, County Limerick, Munster.</lex>
+      <lex comment="good" lid="Id1">Adare Manor can be found in Adare,County Limerick, Munster.</lex>
       <lex comment="good" lid="Id2">Adare Manor is located in Adare, County Limerick, Munster.</lex>
     </entry>
     <entry category="Building" eid="Id96" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2005,7 +2005,7 @@
         <mtriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</mtriple>
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka, the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in the country of Sri Lanka, the leader is Ranil Wickremesinghe and the currency is the Ski Lankan rupee.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka where the leader is Ranil Wickremesinghe and the currency is the Sri Lankan rupee.</lex>
       </entry>
     <entry category="Building" eid="Id109" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2248,8 +2248,8 @@
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Mason School of Business currently tenant Alan B Miller Hall which was completed on 1 June 2009 in the United States.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall was completed on June 1st, 2009 and has a tenant called the Mason School of Business, which is based in the U.S.</lex>
-      <lex comment="good" lid="Id3">The Alan B. Miller Hall was completed on 1st June 2009 and currently hosts the US Mason School of Business.</lex>
+      <lex comment="good" lid="Id2">Alan B. Miller Hall in the U.S. was completed on June 1st, 2009 and has a tenant called the The Mason School of Business.</lex>
+      <lex comment="good" lid="Id3">The Alan B. Millar Hall was completed on 1st June 2009 and currently hosts the US Mason School of Business.</lex>
     </entry>
     <entry category="Building" eid="Id122" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2634,7 +2634,7 @@
         <mtriple>Ampara_Hospital | region | Ampara_District</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is located in Ampara District, Eastern Province, Sri Lanka.</lex>
-      <lex comment="good" lid="Id2">Ampara Hospital is located in Ampara District in the Eastern Province of Sri Lanka.</lex>
+      <lex comment="good" lid="Id2">Ampara Hospital is located in Ampara District in the Easter Province of Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2652,7 +2652,7 @@
         <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin Fernando is the leader of the Eastern Province, Sri Lanka, where Ampara Hospital is located.</lex>
+      <lex comment="good" lid="Id1">Austin Fernando is the leader of the Eastern Provice, Sri Lanka, where Ampara Hospital is located.</lex>
       <lex comment="good" lid="Id2">The Ampara Hospital is situated in the Eastern Province state of Sri Lanka, whose leader is Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id145" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2687,7 +2687,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ampara Hospital is located in Sri Lanka, which is led by Ranil Wickremesinghe and its capital is Sri Jayawardenepura.</lex>
-      <lex comment="good" lid="Id2">Sri Lanka's capital is Sri Jayawardenepura Kotte; its leader is Ranil Wickremesinghe and it houses Ampara Hospital.</lex>
+      <lex comment="good" lid="Id2">Sri Lanka's capital is Sri Jayawardenepura Kotte; it's leader is Ranil Wickremesinghe and it houses Ampara Hospital.</lex>
       </entry>
     <entry category="Building" eid="Id147" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2730,7 +2730,7 @@
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | ReferenceNumber in the National Register of Historic Places | "88002539"</mtriple>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which was was built in 1911 and has the reference number 88002539 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Texas, which was was built in 1911 and has the reference number 88002539 in the National Register of Historic Places..</lex>
       <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House is located in Asherton, Texas and was built in 1911. It holds the Reference Number 88002539 in the National Register of Historic Places.</lex>
       <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House is located in Asherton, Texas. It was constructed in 1911. It has the reference number 88002539 in the National Register of Historic Places.</lex>
     </entry>
@@ -2801,7 +2801,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asher and Mary Isabelle Richardson House is located in Asherton, Dimmit County, Texas. United States.</lex>
       <lex comment="good" lid="Id2">The Asher and Mary Isabelle Richardson House is located in Asherton, Texas, U.S. and is part of Dimmit County, Texas.</lex>
-      <lex comment="good" lid="Id3">Asherton, Texas is in Dimmit County, Texas in the United States. Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
+      <lex comment="good" lid="Id3">Asherton , Texas is in Dimmit County, Texas in the United States. Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
     </entry>
     <entry category="Building" eid="Id152" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2836,7 +2836,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Californian born Julia Morgan designed the Asilomar Conference Grounds and other significant buildings including Asilomar State Beach.</lex>
       <lex comment="good" lid="Id2">Julian Morgan, born in California, designed the significant Asilomar State Beach and the Asilomar Conference Grounds.</lex>
-      <lex comment="good" lid="Id3">Julia Morgan, born in California, was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan,born in California, was the architect of the grounds of Asilomar Conference and the Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id154" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3006,8 +3006,8 @@
         <mtriple>Asilomar_Conference_Grounds | ReferenceNumber in the National Register of Historic Places | "87000823"</mtriple>
         <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Asilomar Conference Grounds, constructed in 1913 is located in Pacific Grove, California and has the reference number 87000823 in the National Register of Historic Places.</lex>
-      <lex comment="good" lid="Id2">Asilomar Conference Grounds in Pacific Grove, California, reference number 87000823 in the National Register of Historic Places, was constructed in 1913.</lex>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds , constructed in 1913 is located in Pacific Grove, California and has the reference number 87000823 in the the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds in Pacific Grove, California, reference number 87000823 in the National Register of Historic Places , was constructed in 1913.</lex>
     </entry>
     <entry category="Building" eid="Id165" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3055,7 +3055,7 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths was built in 1904 and located on Asser Levy Place &amp; East 23rd Street, was added to The National Register of Historic Places April 23, 1980.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place , East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 in Asser Levy Place on East 23rd Street, were added to the National Register of historic Places on 1980-04-23.</lex>
     </entry>
     <entry category="Building" eid="Id168" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3247,7 +3247,7 @@
         <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Manhattan is part of New York City, which was part of New Netherland, and is the location of Asser Levy Public Baths.</lex>
-      <lex comment="good" lid="Id2">The Asser Levy Public Baths are in New York City, Manhattan (a part of New Netherland).</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths are in New York City, Manhattan ( a part of New Netherland).</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths in Manhattan, New York City are part of New Netherland.</lex>
     </entry>
     <entry category="Building" eid="Id180" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3290,7 +3290,7 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect Jhon Madin who was born in birmingham where the leader is the conservative party (UK).</lex>
+      <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect Jhon Madin who was born in birgmingham where the leader is the conservative party (UK).</lex>
       <lex comment="good" lid="Id2">Birmingham, led by the Conservative Party, was the birthplace of John Madin who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id183" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -3363,8 +3363,8 @@
         <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Mulatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id1">Malatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Malatu Teshome.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall is located in the city of the same name in Ethiopia, a leader of which is Mulatu Teshome.</lex>
     </entry>
     <entry category="Building" eid="Id187" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -3384,8 +3384,8 @@
         <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa in Ethiopia.</lex>
-      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Ethiopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Mulatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall is located in Ethopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Malatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
     </entry>
     <entry category="Building" eid="Id188" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

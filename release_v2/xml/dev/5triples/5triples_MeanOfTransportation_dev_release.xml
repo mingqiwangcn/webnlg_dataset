@@ -35,7 +35,7 @@
         <mtriple>ALCO_RS-3 | engine | V12_engine</mtriple>
         <mtriple>ALCO_RS-3 | buildDate | "May 1950 - August 1956"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and its length is 17068.8 millimetres.</lex>
+      <lex comment="good" lid="Id1">The ALCO RS-3, produced between May 1950 and August 1956 by the American Locomotive Company, has 12 cylinders and a V12 engine and it's length is 17068.8 millimetres.</lex>
       <lex comment="good" lid="Id2">The ALCO RS-3, built by the American Locomotive Company, has a V12 cylinder engine and is 17068.8mm long. It was produced from May 1950 to August 1956.</lex>
       <lex comment="good" lid="Id3">The ALCO RS-3 was produced from May 1950 to August 1956 by the American Locomotive Company. It has a V12, 12 cylinder engine and is 17068.8mm long.</lex>
     </entry>
@@ -56,7 +56,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador (also known as the American Motors Matador) is assembled in Thames, New Zealand. Classified as a mid-size car, it features a wagon style body and an AMC V8 engine.</lex>
       <lex comment="good" lid="Id2">The AMC Matador, also known as American Motors Matador, was assembled in Thames, New Zealand. The AMC Matador is a mid-size station wagon with a V8 engine type.</lex>
-      <lex comment="good" lid="Id3">The AMC Matador aka the American Motors Matador, is assembled in Thames, New Zealand, has a v8 engine, and is classified as a mid size car.</lex>
+      <lex comment="good" lid="Id3">The AMC Matador aka the American Motors Matador, is assemebled in Thames, New Zealand, has a v8 engine, and is classified as a mid size car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -146,7 +146,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 had its first voyage August 11, 2005 and its last flight on December 18, 2009. It was manufactured by Airbus Defence and Space and launched from the Guiana Space Centre. Its diameter is 5.4 metres.</lex>
       <lex comment="good" lid="Id2">The Airbus Defence and Space manufactured the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the final flight on 18 December 2009.</lex>
-      <lex comment="good" lid="Id3">The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It was launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009.</lex>
+      <lex comment="good" lid="Id3">The Airbus Defence and Space manufactures the Ariane 5 which has a diameter of 5.4 metres. It launched from the Guiana Space Centre, making its maiden flight on 11 August 2005 and the last flight on December 18 2009.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -181,8 +181,8 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom governed by Elizabeth II. The next model of that vehicle was the Aston Martin Virage, which is related to Aston Martin DBS. Aston Martin is the manufacturer of the Aston Martin DBS.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom, where the ruler is Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is assembled in the United Kingdom., the Aston Mastin DBS is the manufacturer of the Aston Martin,.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin V8 is assembled in the United Kingdom, where the ruler is, Queen Elizabeth II. The Aston Martin V8 was succeeded by the Aston Martin Virage which along with Aston Martin DBS (Aston Martin manufatured) are related types of transportation.</lex>
       <lex comment="good" lid="Id3">Aston Martin manufactures the Aston Martin DBS which is related to the Aston Martin Virage. The latter car succeeded the Aston Martin V8 which is assembled in the United Kingdom which is led by Elizabeth II.</lex>
       <lex comment="good" lid="Id4">Aston Mastin DBS, made by Aston Martin, is related to the Aston Martin Virage, which succeeded the Aston Martin V8. The V8 was assembled in the, Elizabeth II led, United Kingdom.</lex>
     </entry>
@@ -201,7 +201,7 @@
         <mtriple>Atlas_II | diameter | 3.04 m</mtriple>
         <mtriple>Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">From the United States the Atlas II (3.04 m diameter) was sent from Vandenberg Air Force Base and Spaceport Florida Launch Complex 36. March 16, 1998 was its final lift off.</lex>
+      <lex comment="good" lid="Id1">From the United States the Atlas II (3.04 m diameter)was sent from Vandenberg Air Force Base and Spaceport Florida Launch Complex 36. March 16, 1998 was its final lift off.</lex>
       <lex comment="good" lid="Id2">The Atlas II is from the United States and launched from the Vandenberg Air Force Base and the Spaceport Florida Launch Complex 36. It is 3.04 m in diameter and took its final flight on 16 March 1998.</lex>
       <lex comment="good" lid="Id3">The Atlas II, from the united States, was launched at the Spaceport Florida Launch Complex 36 and Vandenberg Air Force Base. 3.04m in diameter, its final flight was March 16, 1998.</lex>
     </entry>
@@ -266,7 +266,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carnival Corporation &amp; plc is the parent company of Costa Crociere in Genoa, who own the AIDAstella. AIDAstella was built by Meyer Werft and is operated by AIDA Cruises.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. Its owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella, which was built by Meyer Werft, is operated by AIDA Cruises. It's owner are Costa Crociere who are located in Genoa and a subsidiary of Carnival Corporation &amp; Plc.</lex>
       <lex comment="good" lid="Id3">Meyer Werft built the AIDAstella which is operated by the AIDA Cruise Line. It is owned by Costa Crociere who are located in Genoa and have Carnival Corporation &amp; plc as their parent company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id14" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -285,7 +285,7 @@
         <mtriple>Mid-Atlantic_Regional_Spaceport_Launch_Pad_0 | associatedRocket | Minotaur_IV</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Minotaur IV rocket and the Antares rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0 . The latter was similar to the Delta II from the United States that launched at Cape Canaveral Air Force Station.</lex>
-      <lex comment="good" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV and is also the launch site of the Antares rocket. This latter rocket is comparable to the United states Delta II which launched from Cape Canaveral Air Force Station.</lex>
+      <lex comment="good" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the rocket, Minotaur IV and is also the launchsite of the Antares rocket. This latter rocket is comparable to the United states Delta II which launched from Cape Canaveral Air Force Station.</lex>
       <lex comment="good" lid="Id3">Both the Antares rocket and the Minotaur IV rocket were launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, while the Delta II (United States) was launched at Cape Canaveral Air Force Station; Delta II is comparable to Antares.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

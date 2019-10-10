@@ -75,7 +75,7 @@
         <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
         <mtriple>Netherlands | leaderName | Mark_Rutte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink attended the Erasmus University Rotterdam which is affiliated with the Association of MBAs. He is a national of the Netherlands which is led by Mark Rutte and has the euro as its currency.</lex>
+      <lex comment="good" lid="Id1">Ab Klink attended the Erasmus University Rotterdam which is affiliated with the Association of MBAs. He is a national of the Netherlands which is led by Mark Rutte and has the euro as it's currency,.</lex>
       <lex comment="good" lid="Id2">Ab Klink is a national of the Netherlands, a country that uses the Euro for currency and is ked by Mark Rutte. Erasmus University Rotterdam, affiliated with the Association of MBA's, is Klink's alma mater.</lex>
       <lex comment="good" lid="Id3">Ab Klink of Netherlands was a student at Erasmus University in Rotterdam which is affiliated with the Association of MBAs. Netherlands uses the Euro as its currency.</lex>
     </entry>
@@ -222,7 +222,7 @@
         <mtriple>Abdul_Taib_Mahmud | birthDate | 1936-05-21</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud was born in the Kingdom of Sarawak on 1936-05-21. Abdul Taib Mahmud; lives in Kuching, represented Asajaya and is a member of the party, Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id2">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud was born 05/21/1936 in the Kingdom of Sarawak and currently resides in Kuching. He is a representative of the Asajaya region.</lex>
+      <lex comment="good" lid="Id2">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud was born 05/21/1936 in the Kingdom of Sarawak and currently resides in Kuching. He is a representative of the Asajaya region..</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud's date of birth is 1936-05-21 and his birthplace was Kingdom of Sarawak. Abdul Taib Mahmud; resides in Kuching, represented Asajaya and his party is, Parti Pesaka Bumiputera Bersatu.</lex>
     </entry>
     <entry category="Politician" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -260,7 +260,7 @@
         <mtriple>Abdul_Taib_Mahmud | successor | Sulaiman_Abdul_Rahman_Taib</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud was born in the Kingdom of Sarawak and his Alma mater is the University of Adelaide. Abdul Taib Mahmud; resides in Sarawak, was succeded by Sulaiman Abdul Rahman Taib and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id2">Abdul Taib Mahmud was born in the Kingdom of Sarawak where he now lives. He attended the University of Adelaide and is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id2">Abdul Taid Mahmud was born in the Kingdom of Sarawak where he now lives. He attended the University of Adelaide and is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Sulaiman Abdul Rahman Taib.</lex>
     </entry>
     <entry category="Politician" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -362,7 +362,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud lives in Kuching and was born in the Kingdom of Sarawak. He went to the University of Adelaide, belonged to the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud of the Parti Pesaka Bumiputera Bersatu, was suceeded by Adenan Satem. He was born in the kingdom of Sarawak and resides in Kuching.</lex>
-      <lex comment="good" lid="Id3">The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his alma mater is the University of Adelaide. Abdul Taib Mahmud, lives in Kuching, belongs to the Parti Pesaka Bumiputera Bersatu party and was succeeded by, Adenan Satem.</lex>
+      <lex comment="good" lid="Id3">The birth place of Abdul Taid Mahmud was the Kingdom of Sarawak and his alma mater is the University of Adelaide. Abdul Taib Mahmud, lives in Kuching, belongs to the Parti Pesaka Bumiputera Bersatu party and was succeeded by, Adenan Satem.</lex>
     </entry>
     <entry category="Politician" eid="Id18" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -398,9 +398,9 @@
         <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
         <mtriple>Adenan_Satem | almaMater | University_of_Adelaide</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abdul Taib Mahmud, who was born in the Kingdom of Sarawak and lives in Kuching, belongs to the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who studied at the University of Adelaide.</lex>
+      <lex comment="good" lid="Id1">Abdul Taid Mahmud, who was born in the Kingdom of Sarawak and lives in Kuching, belongs to the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who studied at the University of Adelaide.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud, born in the Kingdom of Sarawak and living in Kuching, is a member of the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem, who attended the University of Adelaide.</lex>
-      <lex comment="good" lid="Id3">The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak. He lives in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud successor was Adenan Satem, who attended the University of Adelaide.</lex>
+      <lex comment="good" lid="Id3">The birth place of Abdul Taid Mahmud was the Kingdom of Sarawak. He lives in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud successor was Adenan Satem, who attended the University of Adelaide.</lex>
     </entry>
     <entry category="Politician" eid="Id20" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -475,7 +475,7 @@
         <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Air_Force</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Olusegun Obasanjo was the succesor to Abdulsalami Abubakar, who, was a member of the Nigerian Air Force, in which Sadique Abubakar is a commander. Abdulsalami Abubakar was in office while Mike Akhigbe was Vice President. Oladipo Diya, was Mike Akhigbe's predecessor.</lex>
-      <lex comment="good" lid="Id2">Abdulsalami Abubakar was in the Nigerian air force and was in office when Mike Akhigbe was vice president. His successor was Olusegun Obasanjo and Sadique Abubakar was a commander. Mike Akhigbe was preceded by Oladipo Diya.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar was in the Nigerian air force and was in office when Mike Akhigbe was vice president. His successor was Olusegun Obasanjo and Sadique Abubakar was a commander. Mike Akhigbe was preceeded by Oladipo Diya.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar was in office during the Vice Presidency of Mike Akhigbe, who had succeeded Oladipo Diya. Abubakar had served in the Nigerian Air Force where Sadique Abubakar was the commander, and his successor was Olusegun Obasanjo.</lex>
     </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -651,7 +651,7 @@
         <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W. Sibal was born in Ridgewood, Queens and was a member of the U.S. Republican party. He was a member of the Connecticut Senate from the 26th District and his successor was, Marjorie Farmer. Abner W. Sibal died in Alexandria, Virginia.</lex>
-      <lex comment="good" lid="Id2">Connecticut Senate's 26th District Republican member Abner W. Sibal was succeeded by Majorie Farmer. Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id2">Connecticut Senate's 26th District Republican member Abner W. Sibal was succeeded by Majorie Farmer. Sibal was born in Ridgewood, Queens and died in Alexandria , Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id30" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -668,8 +668,8 @@
         <mtriple>Abraham_A._Ribicoff | birthPlace | United_States</mtriple>
         <mtriple>Abraham_A._Ribicoff | spouse | "Ruth Ribicoff"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the U.S. one of the nationals of which, was Abraham A. Ribicoff. He was born in the United States, was married to Ruth Ribicoff and died in New York City.</lex>
-      <lex comment="good" lid="Id2">One of the ethnic groups in the United States are the Native Americans. It was in this country that Abraham A Ribicoff was born and became a US National. He was married to Ruth Ribicoff and died in New York City.</lex>
+      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the U.S. one of the nationals of which, was Abraham A. Ribicoff. He, was born in the United States, was married to Ruth Ribicoff and died in New York City.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups in the United States are the Native Americans. It was in this country that Abraham A Ribicoff was born and became a US National He was married to Ruth Ribicoff and died in New York City.</lex>
       <lex comment="good" lid="Id3">American Abraham A. Ribicoff was married to Ruth Ribicoff and he died in New York City. One of the country's ethnic groups is Native Americans.</lex>
     </entry>
     <entry category="Politician" eid="Id31" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -791,7 +791,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Abraham A. Ribicoff was a member of the Democratic Party in the United States. He was the Governor of Connecticut and died in New York City.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in the U.S and was a United States national. He was a member of the United States Democratic party and served as the governor of Connecticut before he died in New York city.</lex>
-      <lex comment="good" lid="Id3">An American National, Abraham A Ribicoff, was born in the United States. Abraham A. Ribicoff was a member of the Democratic Party in the United States and worked as Governor of Connecticut.</lex>
+      <lex comment="good" lid="Id3">An American National, Abraham A Ribicoff, was born in the United States.A braham A. Ribicoff was a member of the Democratic Party in the United States and worked as Governor of Connecticut.</lex>
     </entry>
     <entry category="Politician" eid="Id37" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -810,7 +810,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Casey Ribicoff was the wife of Abraham A Ribicoff, who was born in the US and died in New York City. The US is home to an ethnic group called African Americans.</lex>
       <lex comment="good" lid="Id2">The United States is the birthplace of Abraham A. Ribicoff, a Uniyed States national, whose spouse was Casey Ribicoff. Abraham A. Ribicoff died in New York City, New York, in the United States, where one of the ethnic groups is, African Americans.</lex>
-      <lex comment="good" lid="Id3">Abraham A Ribicoff, a United States national, was born in the U.S. where, African Americans are one of the ethnic groups. Married to Casey Ribicoff, Abraham A. Ribicoff, died in New York City, New York, U.S.</lex>
+      <lex comment="good" lid="Id3">Abraham A Ribicoff, a United States national, was borni n the U.S. where, African Americans are one oft he ethnic groups. Married to Casey Ribicoff, Abraham A. Ribicoff, died in New York City, New York, U.S.</lex>
     </entry>
     <entry category="Politician" eid="Id38" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -959,7 +959,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Chicago, Casey Ribicoff, was Abraham A. Ribcoff's wife. U.S. national, Abraham A Ribicoff died in New York City, in the United States, the country where one of the ethnic groups is, Native Americans.</lex>
       <lex comment="good" lid="Id2">Born in Chicago, Casey Ribicoff was Abraham A. Ribcoff's wife. An American, Abraham A Ribicoff died in New York City, in a country where Native Americans are one of the ethnic groups there.</lex>
-      <lex comment="good" lid="Id3">Born in Chicago, Casey Ribicoff was Abraham A. Ribcoff's wife. American Abraham A Ribicoff died in New York City, in the United States, where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">Born in Chicago, Casey Ribicoff was Abraham A. Ribcoff's wife. American Abraham A Ribicoff died in New York City, in the United States. where Native Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="Politician" eid="Id46" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1289,7 +1289,7 @@
         <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Athens born Prime Minister Antonis Samaras was in office along with Prime Minister Konstantinos Mitsotakis. Greece born Adonis Georgiadis was in office during Samaras' leadership. Georgiadis' successor was Makis Voridis.</lex>
-      <lex comment="good" lid="Id2">Antonis Samaras was born in Athens and was in office while Konstantinos Mitsotakis was Prime Minister. When Samaras himself was Prime Minister, Greek born Adonis Georgiadis was in office before being succeeded by Makis Voridis.</lex>
+      <lex comment="good" lid="Id2">Antonis Samaras was born in Athens and was in office while Konstantinos Mitsotakis was Prime Minister.When Samaras himself waas Prime Minister, Greek born Adonis Georgiadis was in office before being succeeded by Makis Voridis.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis, born in Greece, worked during Prime Minister Konstantinos Mitsotakis and Antonis Samaras' (born: Athens) leaderships. Adonis Georgiadis' successor was Makis Voridis.</lex>
     </entry>
     <entry category="Politician" eid="Id62" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1527,7 +1527,7 @@
         <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
         <mtriple>William_M._O._Dawson | deathPlace | Charleston,_West_Virginia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cleveland born, Albert B. White, died in Parkersburg, West Virginia, in the United States. The successor to Albert B. White was William M.O. Dawson, who died in Charleston, West Virginia.</lex>
+      <lex comment="good" lid="Id1">Clevelnad born, Albert B. White, died in Parkersburg, West Virginia, in the United States. The successor to Albert B. White was William M.O. Dawson, who died in Charleston, West Virginia.</lex>
       <lex comment="good" lid="Id2">Born in Cleveland, Albert B White, who died at Parkersburg, West Virginia, was succeeded by William M. O. Dawson. William M. O. Dawson died in Charleston, West Virginia.</lex>
       <lex comment="good" lid="Id3">Albert B. White, born in the United States in Cleveland and died in Parkersburg, West Virginia. He was succeeded by William M.O. Dawson, who dies in Charelston, West Virginia.</lex>
     </entry>
@@ -1718,7 +1718,7 @@
         <mtriple>Albert_B._White | activeYearsStartDate | 1901-03-04</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B White, who was the husband of Agnes Ward White, was born in Cleveland. His career stretched from 4 March 1901 to 4 March 1905 and his successor was William M O Dawson.</lex>
-      <lex comment="good" lid="Id2">Born in Cleveland, Albert B. White was married to Agnes Ward White. He started his career on March 4, 1901 and finished it on March 4th 1905. Albert B White was succeeded by William M O Dawson.</lex>
+      <lex comment="good" lid="Id2">Born in Cleveland, Albert B. White was married to Agnes Ward White, He started his career on March 4, 1901 and finished it on March 4th 1905. Albert B White was succeeded by William M O Dawson.</lex>
       <lex comment="good" lid="Id3">Albert N White was the husband of Agnes Ward White and was born in Cleveland. His career began on 4 March 1901 and ended on 4 March 1905 when he was succeeded by William M O Dawson.</lex>
     </entry>
     <entry category="Politician" eid="Id81" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2062,7 +2062,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate and was in office while Juan Peron was President. Teisaire was a member of the Justicialist Party and was succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire was born in Mendoza, Argentina. He was a member of the Justicialist party and was the provisional president of the Argentine senate. He was in office whilst Juan Peron was president, and succeeded by Isaac Rojas.</lex>
-      <lex comment="good" lid="Id3">Isaac Rojas was the successor to Alberto Teisaire who was born in Mendoza in Argentina. He worked as a Provisional President of the Argentine Senate. Alberto Teisaire was a member of the Justicialist Party and was in office while Juan Peron was President.</lex>
+      <lex comment="good" lid="Id3">Isaac Rojas was the successor to Alberto Teisaire who was born in Mendoza in Agentina. He and worked as a Provisional President of the Argentine Senate. Alberto Teisaire, was a member of the Justicialist Party and was in office while Juan Peron was President.</lex>
     </entry>
     <entry category="Politician" eid="Id98" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2086,7 +2086,7 @@
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
         <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Argentina, on 1891-05-20. A Rear Admiral by profession, Alberto Teisaire, worked as the Provisional President of the Argentine Senate. Isaac Rojas was the successor to Alberto Teisaire.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Agentina, on 1891-05-20. A Rear Admiral by profession, Alberto Teisaire, worked as the Provisional President of the Argentine Senate. Isaac Rojas was the successor to Alberto Teisaire.</lex>
       <lex comment="good" lid="Id2">Born on 1891-05-20, born in Mendoza, Argentina, Alberto Teisaire, was a Rear Admiral by profession. He worked as the Provisional President of the Argentine Senate and his successor was Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was born in Mendoza, Argentina on 20 May 1891. He was a Rear Admiral and worked as the Provisional President of the Argentine Senate before being succeeded by Isaac Rojas.</lex>
     </entry>
@@ -2260,7 +2260,7 @@
         <mtriple>Alvah_Sabin | state | Vermont</mtriple>
         <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Vermont's 3rd Congressional District representative Alvah Sabin was born in Vermont (largest city: Burlington) and died in Sycamore, Illinois. He retired 03/03/1857.</lex>
+      <lex comment="toFix" lid="Id1">Vermont's 3rd Congressional District representative was born in Vermont (largest city: Burlington) and died in Sycamore, Illinois. He retired 03/03/1857.</lex>
       <lex comment="good" lid="Id2">Vermont native Alvah Sabin represented the State's 3rd Congressional District and he died in Sycamore, Illinois after ending his career on March 3rd, 1857. Vermont's largest city is Burlington.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin represented Vermont's 3rd Congressional District and his career ended on March 3rd 1857. He was from Vermont, where the largest city is Burlington and he died in Sycamore, Illinois.</lex>
     </entry>
@@ -2280,7 +2280,7 @@
         <mtriple>Sycamore,_Illinois | region | DeKalb_County,_Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Vermont's Alvah Sabin died in Sycamor, DeKalb County, Illinoi. He retired 03/03/1857. The largest city in Vermont is Burlington.s.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin was from Vermont, the largest city of which is Burlington. Alvah Sabin ended his career on 1857-03-03 and died in Sycamore, part of Dekalb County, Illinois.</lex>
+      <lex comment="good" lid="Id2">Alvah Sabin was from Vermont, the largest city of which is Burlington.Alvah Sabin ended his career on 1857-03-03 and died in Sycamore, part of Dekalb County, Illinois.</lex>
       </entry>
     <entry category="Politician" eid="Id107" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2428,7 +2428,7 @@
         <mtriple>Whig_Party_(United_States) | leaderName | Henry_Clay</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Henry Clay was the leader of the Whig Party of the U.S. Alvah Sabin is from Vermont and he represented their 3rd Congressional District. He also belongs to the Whig Party. Burlington is Vermont's largest city.</lex>
-      <lex comment="good" lid="Id2">Alvah Sabin was from Vermont, where the largest city is Burlington. Alvah Sabin represented Vermont's 3rd Congressional District and a member of the Whig Party (led by Henry Clay) of the United States.</lex>
+      <lex comment="good" lid="Id2">Alvah Sabin was from Vermont ,where the largest city is Burlington. Alvah Sabin represented Vermont's 3rd Congressional District and a member of the Whig Party (led by Henry Clay) of the United States.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin was from Vermont where the largest city is Burlington. He was a member of the United States Whig Party led by Henry Clay and represented Vermont's 3rd Congressional District.</lex>
     </entry>
     <entry category="Politician" eid="Id113" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2593,7 +2593,7 @@
         <mtriple>Alfred_Moore_Scales | battles | Siege_of_Petersburg</mtriple>
         <mtriple>Siege_of_Petersburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred Moore Scales who came from the U.S., where African Americans are an ethnic group, was at the Siege of Petersburg which was part of the American Civil War conflict. Jefferson Davis was a commander in the American Civil War.</lex>
+      <lex comment="good" lid="Id1">Alfred Moore Scales who came from the U.S., where African Americans are an ethnic group , was at the Siege of Petersburg which was part of the American Civil War conflict. Jefferson Davis was a commander in the American Civil War.</lex>
       <lex comment="good" lid="Id2">African Americans are an ethnic group from the United States, where Alfred Moore Scales lived. Alfred Moore Scales took part in the Siege of Petersburg which occurred during the American Civil War. The conflict, during which, one of the commanders was Jefferson Davis.</lex>
       <lex comment="good" lid="Id3">American Alfred Moore Scales fought in the Siege of Petersburg during the American Civil War. Jefferson Davis was a commander of the war and one of the country's many ethnic groups is African Americans.</lex>
     </entry>
@@ -2715,7 +2715,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria and died in Styria. Austrian German is spoken in the country which is led by Doris Bures.</lex>
-      <lex comment="good" lid="Id2">Imst, Austrian born Alfons Gorbach died in Styria. Doris Bures leads Austrian German speaking Austria.</lex>
+      <lex comment="good" lid="Id2">Imst, Austrian born Alfons Gorbach died in Styria. Doris Bules leads Austrian German speaking Austria.</lex>
       <lex comment="good" lid="Id3">Doris Bures is a leader in Austria, where Austrian German is spoken. Alfons Gorbach was born in, Imst, in Austria and died in Styria.</lex>
     </entry>
     <entry category="Politician" eid="Id127" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2778,7 +2778,7 @@
         <mtriple>Austria | language | Austrian_German</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Doris Bures is the leader of Austria, where Austrian German is the language. Alfons Gorbach was born in Austria, in the County of Tyrol and died in Graz.</lex>
+      <lex comment="good" lid="Id1">Doris Bures is the leader of Austria, where Austrian German is the language. Alfons Gorbach ,was born in Austria, in the County of Tyrol and died in Graz.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in the County of Tyrol in Austria and died in Graz. Austrian German is the language spoken in Austria and the leader there is Doris Bures.</lex>
     </entry>
     <entry category="Politician" eid="Id130" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
@@ -2856,7 +2856,7 @@
         <mtriple>William_M._O._Dawson | deathPlace | Charleston,_West_Virginia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B White was born in Cleveland, USA and died in Parkersburg, West Virginia. He was succeeded by William M O Dawson, who died in Charleston, West Virginia.</lex>
-      <lex comment="good" lid="Id2">Albert B White was born in Cleveland, U.S. and died in Parkersburg, West Virginia. His successor, William M. O. Dawson, died in Charleston, West Virginia.</lex>
+      <lex comment="good" lid="Id2">Albert B White was born in Cleveland, U.S. and died in Parkersburg, West Virginia.. His successor, William M. O. Dawson, died in Charleston, West Virginia.</lex>
       <lex comment="good" lid="Id3">Albert B White was born in Cleveland in the United States and died in Parkersburg, West Virginia. He was succeeded by William M O Dawson, who died in Charleston, West Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id133" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -2881,8 +2881,8 @@
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
         <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, was in office while Juan Peron, a member of the Labour Party in Argentina, was President. Alberto Teisaire worked as a Provisional President of the Argentine Senate and Isaac Rojas was his the successor.</lex>
-      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza in Argentina, worked as the Provisional President of the Argentine Senate. He was in office while Juan Peron, a member of the Labour Party, was President. Teisaire was succeeded by Isaac Rojas.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Agentina, was in office while Juan Peron, a member of the Labour Party in Argentina, was President. Alberto Teisaire worked as a Provisional President of the Argentine Senate and Isaac Rojas was his the successor.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza in Agentina, worked as the Provisional President of the Argentine Senate. He was in office while Juan Peron, a member of the Labour Party, was President. Teisaire was succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire, who was born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate while Labour Party member Juan Perón was President. Teisaire was succeeded in office by Isaac Rojas.</lex>
     </entry>
     <entry category="Politician" eid="Id134" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2945,7 +2945,7 @@
         <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
         <mtriple>Netherlands | leaderName | Mark_Rutte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ab Klink was born on 2 November 1958 in Stellandam. He is a national of the Netherlands which is led by Mark Rutte and has the euro as its currency.</lex>
+      <lex comment="good" lid="Id1">Ab Klink was born on 2 November 1958 in Stellandam. He is a national of the Netherlands which is led by Mark Rutte and has the euro as it's currency.</lex>
       <lex comment="good" lid="Id2">Ab Klink was born in Stellendam, in 1958-11-02. Ab Klink is from the Netherlands, where the currency is the Euro and where the leader is, Mark Rutte.</lex>
       <lex comment="good" lid="Id3">Stellendam, Netherlands born Ab Klink date of birth was 11/02/1958. The Netherlands leader is Mark Rutte and uses the Euro.</lex>
     </entry>
@@ -3034,7 +3034,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al-Amin Daggash was succeeded by Abdulsalami Abubakar, who was in office while Mike Akhigbe (predecessor Oladipo Diya) was the Vice President. Abdulsalami Abubakar was a member of the Nigerian Air Force, where Sadique Abubakar was a commander.</lex>
       <lex comment="good" lid="Id2">Sadique Abubakar was commander of the Nigerian Air Force, of which, Abdulsalami Abubakar was a member. Succeeded by Al-Amin Daggash, Abdulsalami Abubakar, was in office whilst Mike Akhigbe was Vice President.</lex>
-      <lex comment="good" lid="Id3">Abdulsalami Abubakar served in the Nigerian Air Force which has Sadique Abubakar as commander. He was in office during the Vice Presidency of Mike Akhigbe who had succeeded Oladipo Diya. Abubakar was himself succeeded by Al-Amin Daggash.</lex>
+      <lex comment="good" lid="Id3">Abdulsalami Abubakar served in the Nigerian Air Force which has Sadique Abubakar as commander. He was in office during the Vice Presidency of Mike Akhigbe who had succeeded Oladipo Diya. Abubakar was himself succeeded by Al-Amin Daggash,.</lex>
     </entry>
     <entry category="Politician" eid="Id141" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

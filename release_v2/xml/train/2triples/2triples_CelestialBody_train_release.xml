@@ -64,7 +64,7 @@
         <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
         <mtriple>(15788)_1993_SB | discoverer | Alan_Fitzsimmons</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Fitzsimmons discovered (15788) 1993 SB which has an epoch of 6th March 2006.</lex>
+      <lex comment="good" lid="Id1">Alan Ftizsimmons discovered 1993 SB which has an epoch of 6th March 2006.</lex>
       <lex comment="good" lid="Id2">(15788) 1993 SB has an epoch date of March 6th 2006 and was discovered by Alan Fitzsimmons.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -115,7 +115,7 @@
         <mtriple>(19255)_1994_VK8 | temperature | 43.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(19255) 1994 VK8 has an apoapsis of 6603633000.0 km and the temperature is 43 kelvins.</lex>
-      <lex comment="good" lid="Id2">(19255) 1994 VK8 has an apoapsis of 6603633000.0 km and a temperature of 43 kelvins.</lex>
+      <lex comment="good" lid="Id2">1994 VK8 has an apoapsis of 6603633000.0 km and a temeprature of 43 kelvins.</lex>
       <lex comment="good" lid="Id3">(19255) 1994 VK8 has an apoapsis of 6603633000.0 km and a temperature of 43.0 kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -216,9 +216,9 @@
         <mtriple>(29075)_1950_DA | epoch | 2011-Aug-27</mtriple>
         <mtriple>(29075)_1950_DA | orbitalPeriod | 69862200.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The celestial body known as (29075) 1950 DA has an orbital period of 69862200 and its epoch is on the 27th of August 2011.</lex>
-      <lex comment="good" lid="Id2">(29075) 1950 DA has the epoch date of 27 August 2011 and an orbital period of 69862200.0.</lex>
-      <lex comment="good" lid="Id3">(29075) 1950 DA has an epoch date of August 27th 2011 and an orbital period of 69862200.0.</lex>
+      <lex comment="good" lid="Id1">The celestial body known as (29075) 1950 DA has an orbital period of 69862200 and its epoch is on the 27th of August 2010.</lex>
+      <lex comment="good" lid="Id2">29075 1950 DA has the epoch date of 27 August 2011 and an orbital period of 69862200.0.</lex>
+      <lex comment="good" lid="Id3">1950 DA has an epoch date of August 27th 2011 and an orbital period of 69862200.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -245,7 +245,7 @@
         <mtriple>(29075)_1950_DA | epoch | 2011-Aug-27</mtriple>
         <mtriple>(29075)_1950_DA | rotationPeriod | 7637.76</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch for (29075) 1950 DA is on the 27th of August 2011 and has a rotation period of 7637.76.</lex>
+      <lex comment="good" lid="Id1">The epoch for (29075) 1950 DA is on the 27th of August 2010 and has a rotation period of 7637.76.</lex>
       <lex comment="good" lid="Id2">(29075) 1950 DA has an epoch date of 27th August 2011 and its rotation period is 7637.76.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -261,7 +261,7 @@
         <mtriple>(29075)_1950_DA | orbitalPeriod | 69862200.0</mtriple>
         <mtriple>(29075)_1950_DA | mass | 4.0 (kilograms)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">(29075) 1950 DA has a mass of 4.0 kilograms and an orbital period of 69862200.0.</lex>
+      <lex comment="good" lid="Id1">1950 DA has a mass of 4.0 kilograms and an orbital period of 69862200.0.</lex>
       <lex comment="good" lid="Id2">The celestial body known as (29075) 1950 DA has an orbital period of 69862200 and a mass of 4.0 kgs.</lex>
       <lex comment="good" lid="Id3">The celestial body known as (29075) 1950 DA has an orbital period of 69862200 and has a mass of 4.0 kilograms.</lex>
     </entry>
@@ -329,7 +329,7 @@
         <mtriple>(410777)_2009_FD | discoverer | Spacewatch</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">410777 2009 FD was discovered by Spacewatch and its epoch date is 27 June 2015.</lex>
-      <lex comment="good" lid="Id2">The epoch date of 410777 2009 FD is 27 June 2015, and it was discovered by Spacewatch.</lex>
+      <lex comment="toFix" lid="Id2">The epoch date of 410777 2009 FD is 27 June 2015 it was discovered by Spacewatch.</lex>
       <lex comment="good" lid="Id3">(410777) 2009 FD has an epoch date of 27th June 2015 and was discovered by Spacewatch.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -355,7 +355,7 @@
         <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a mean temperature of 358.0 kelvins.</lex>
-      <lex comment="good" lid="Id2">(410777) 2009 FD has a mean temperature of 258 Kelvins and an apoapsis of 259776702.47055 kilometers.</lex>
+      <lex comment="good" lid="Id2">2009 FD has a mean temperature of 258 Kelvins and an apoapsis of 259776702.47055 kilometers.</lex>
       <lex comment="good" lid="Id3">The apoapsis of (410777) 2009 FD is 259776702.47055 kilometers and it has a mean temperature of 258.0 kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -642,7 +642,7 @@
         <mtriple>1000_Piazzia | epoch | 2015-06-27</mtriple>
         <mtriple>1000_Piazzia | orbitalPeriod | 488160.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch of the dark asteroid, 1000 Piazzia, is 27th June 2015 and it has an orbital period of 488160.0.</lex>
+      <lex comment="good" lid="Id1">The epoch of the dark asteroid, 1000 Piazza, is 27th June 2015 and it has an orbital period of 488160.0.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 1000 Piazzia has an orbital period of 488160 and its epoch is 27 June 2015.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -710,7 +710,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A911 MD is the former name of 1001 Gaussia which has an epoch date of 31 July 2016.</lex>
       <lex comment="good" lid="Id2">The celestial body known as 1001 Gaussia was formerly called A911 MD, its epoch date is 2015-06-27.</lex>
-      <lex comment="good" lid="Id3">The epoch of 1001 Gaussia, previously known as A911 MD, is 2015-06-27.</lex>
+      <lex comment="toFix" lid="Id3">1001 Gaussia's previously known as A911 MD epoch date is 2015-06-27.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id42" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -783,7 +783,7 @@
         <mtriple>1001_Gaussia | maximumTemperature | 165.0 (kelvins)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1001 Gaussia has a mean temperature of 154 kelvins and a maximum temperature of 165 kelvins.</lex>
-      <lex comment="good" lid="Id2">1001 Gaussia has a mean temperature of 154.0 kelvins, its maximum temperature is 165 Kelvins.</lex>
+      <lex comment="good" lid="Id2">1001 Gaussia has a mean temperature of 154.0 kelvins, it's maximum temperature is 165 Kelvins.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -845,7 +845,7 @@
         <mtriple>101_Helena | discoverer | James_Craig_Watson</mtriple>
         <mtriple>James_Craig_Watson | deathPlace | Madison,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">James Craig Watson, who discovered 101 Helena, died in Madison, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">James Craig Watson, who discovered 101 Hygiea, died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id2">James Craig Watson who discovered the 101 Helena died in Madison, Wisconsin.</lex>
       <lex comment="good" lid="Id3">James Craig Watson, who died in Madison, Wisconsin, was the discoverer of 101 Helena.</lex>
     </entry>
@@ -1045,7 +1045,7 @@
         <mtriple>Walter_Baade | doctoralStudent | Halton_Arp</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Halton Arp was the doctoral student of Walter Baade who discovered 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade, whose doctoral student was Halton Arp.</lex>
+      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade,whose doctoral student was Halton Arp.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id63" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1350,7 +1350,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1089 Tama had the former name of "A894 VA; A904 VD;" and has an epoch date of 26 November 2005.</lex>
       <lex comment="good" lid="Id2">The epoch date of 1089 Tama formerly called "A894 VA; A904 VD is 26 November 2005.</lex>
-      <lex comment="good" lid="Id3">1089 Tama was formerly called "A894 VA; A904 VD", its epoch date is 2005-11-26.</lex>
+      <lex comment="good" lid="Id3">1089 Tama was formerly called "A894 VA; A904 VD, it's epoch date is 2005-11-26.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1365,7 +1365,7 @@
         <mtriple>1089_Tama | epoch | 2005-11-26</mtriple>
         <mtriple>1089_Tama | orbitalPeriod | 1202.846 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1089 Tama has an orbital period of 1202.846 days; its epoch date is the 26th of November 2005.</lex>
+      <lex comment="toFix" lid="Id1">1089 Tama has an orbital period of 1202.846 days, it's epoch date is the 26th of November 2005.</lex>
       <lex comment="good" lid="Id2">1089 Tama has an orbital period of 1202.846 days and its epoch date is 26 November 2005.</lex>
       <lex comment="good" lid="Id3">1089 Tama has an orbital period of 1202.846 days and the epoch of 2005-11-26.</lex>
     </entry>
@@ -1465,7 +1465,7 @@
         <mtriple>1097_Vicia | epoch | 2006-12-31</mtriple>
         <mtriple>1097_Vicia | formerName | "1928 PC"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch of 1097 Vicia (former name "1928 PC") is on 31 December 2016.</lex>
+      <lex comment="good" lid="Id1">The epoch of 1097 Vicia (former name "1928 PC") is on 13 January 2016.</lex>
       </entry>
     <entry category="CelestialBody" eid="Id89" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

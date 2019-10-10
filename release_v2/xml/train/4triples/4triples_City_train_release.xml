@@ -86,7 +86,7 @@
         <mtriple>Texas | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is the capital city of Texas, United States. Abilene is part of Texas where English is a language spoken.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Texas in the United States. English is a language spoken in Texas.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas in the United States.English is a language spoken in Texas.</lex>
       <lex comment="good" lid="Id3">Abilene is part of Texas, the capital of which is Austin. English is spoken in Texas, which is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -120,7 +120,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene, Texas is located in the United States and Spanish is spoken there. Washington, D.C. is the capital of the U.S.</lex>
-      <lex comment="good" lid="Id2">Albilene is located in Texas, in the United States, whose capital is Washington D.C. One of the languages spoken in Texas is Spanish.</lex>
+      <lex comment="good" lid="Id2">Albilene is located in Texas, in the United States,whose capital is Washington D.C.One of the languages spoken in Texas is Spanish.</lex>
       <lex comment="good" lid="Id3">The capital of the United States is Washington DC. Texas is one of the country's states, uses the Spanish language and is the location of Abilene.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -170,7 +170,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is part of Texas in the United States. English is spoken in the US and the capital city is Washington DC.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Texas within the United States. Washington D.C. is the capital of the country and English is the official language.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas within the United States.Washington D.C. is the capital of the country and English is the official language.</lex>
     </entry>
     <entry category="City" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -279,7 +279,7 @@
         <mtriple>Albany,_Georgia | areaTotal | 144.7 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is in Georgia in the United States. It has a total area of 144.7 sq. km.</lex>
-      <lex comment="good" lid="Id2">Albany is part of the state of Georgia in the United States. The total area of Albany, Georgia is 144.7 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Albany is part of the state of Georgia in the United States.The total area of Albany, Georgia is 144.7 square kilometres.</lex>
       <lex comment="good" lid="Id3">Albany is located in the US state of Georgia and has an area of 144.7 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -367,7 +367,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is a city in Dougherty County, Georgia in the United States. One ethnic group in the U.S. are African Americans and English is the language spoken in that country.</lex>
       <lex comment="good" lid="Id2">Albany is part of Dougherty County in Georgia. It is located in the United States which has the African Americans among its ethnic groups and uses the English language.</lex>
-      <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia in the United States. English is the official language of the United States and African Americans are an ethnic group of the country.</lex>
+      <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia in the United States.English is the official language of the United States and African Americans are an ethnic group of the country.</lex>
     </entry>
     <entry category="City" eid="Id14" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -432,7 +432,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albany is located in the US state of Georgia where English is the spoken language. African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id1">Albany is located in the US state of Georgia where English is the spoken language.African Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id2">Albany is part of the state of Georgia in the United States. The US is home to African Americans and English is the language spoken there.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -624,7 +624,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque (led by the Albuquerque City Council), is part of Bernalillo County, New Mexico, in the United States, where English is spoken.</lex>
       <lex comment="good" lid="Id2">English is the language used in the United States which is where Albuquerque is located. It forms part of Bernalillo County in New Mexico and is led by the Albuquerque City Council.</lex>
-      <lex comment="good" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, which is part of Bernalillo County, United States. English is the language spoken in the United States.</lex>
+      <lex comment="good" lid="Id3">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico , which is part of Bernalillo County, United States. English is the language spoken in the United States.</lex>
     </entry>
     <entry category="City" eid="Id25" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -656,7 +656,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is part of Bernalillo County in the United States. The president is the leader of the United States.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is part of Bernalillo County in the United States.The president is the leader of the United States.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico, is part of Bernalillo County, United States. English is the language of the United States and the leader is the president.</lex>
       <lex comment="good" lid="Id3">The President of the United States is leader of the US, a country which uses the English language. It is the location of Albuquerque, part of Bernalillo County in New Mexico.</lex>
     </entry>
@@ -710,7 +710,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque in New Mexico has 1142.3 inhabitants per square kilometre. It covers a total area of 490.9 sq km of which 486.2 sq km is land.</lex>
       <lex comment="good" lid="Id2">The total area of Albuquerque, New Mexico is 490.9 square kilometres. The population density of Albuquerque is 1142.3 inhabitants per sq km. and it has an area of land of 486.2 square kilometers.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 square kilometers and its population density is 1142.3 people/sq km. The total area of Albuquerque is 490.9 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 square kilometers and its population density is 1142.3 people/sq km.The total area of Albuquerque is 490.9 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -916,7 +916,7 @@
         <mtriple>Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta in Georgia has a total area of 55.4 square kilometres and is located at 346.0 above sea level. It has area codes 770, 404, and 678 and a population density of 992.6 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id2">Alpharetta in Georgia has a total area of 55.4 square kilometres and elevated 346.0 metres above sea level. Alpharetta, Georgia has area codes 770, 404, and 678 and its population density is 992.6 inhabitants per square kilometres.</lex>
+      <lex comment="good" lid="Id2">Alpharetta in Georgia has a total area of 55.4 square kilometres and elevated 346.0 metres above sea level.Alpharetta, Georgia has area codes 770, 404, and 678 and its population density is 992.6 inhabitants per square kilometres.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Georgia is 55.4 square kilometres in size, is 346 above sea level, has a population density of 992.6 people per square kilometres and uses area codes 770, 404 and 678.</lex>
     </entry>
     <entry category="City" eid="Id32" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -938,7 +938,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Fulton County is the location of Alpharetta, Georgia, in the United States. Atlanta is the largest city in Fulton County.</lex>
+      <lex comment="good" lid="Id1">Fulton County is the location of Alpharetta,Georgia, in the United States. Atlanta is the largest city in Fulton County.</lex>
       <lex comment="good" lid="Id2">Alpharetta, is in the state of Georgia, in the United States. Alpharetta is part of Fulton County, the largest city of which is Atlanta.</lex>
     </entry>
     <entry category="City" eid="Id33" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -973,7 +973,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, Georgia is in the United States where Washington D.C. is the capital and African Americans are one of several ethnic groups.</lex>
       <lex comment="good" lid="Id2">One of the ethnic groups in the United States, where the capital city is Washington DC, are the African Americans. Alpharetta in the state of Georgia is located in the country.</lex>
-      <lex comment="good" lid="Id3">Alpharetta, is located in Georgia, in the United States (capital city: Washington D.C.). African Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id3">Alpharetta, is located in Georgia, in the United States(capital city:Washington D.C.).African Americans are an ethnic group within the United States.</lex>
     </entry>
     <entry category="City" eid="Id35" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -989,8 +989,8 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups found in the United States of American, where the capital city is Washington DC, are the Native Americans. The country is the location of Alpharetta, part of Fulton County in Georgia.</lex>
-      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County in Georgia, United States. Washington D.C. is the capital of the country and Native Americans are one of the ethnic groups there.</lex>
-      <lex comment="good" lid="Id3">Alpharetta is part of Fulton County, Georgia in the United States. The country's capital is Washington D.C. and Native Americans are an ethnic group there.</lex>
+      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County in Georgia,United States.Washington D.C. is the capital of the country and Native Americans are one of the ethnic groups there.</lex>
+      <lex comment="good" lid="Id3">Alpharetta is part of Fulton County,Georgia in the United States.The country's capital is Washington D.C. and Native Americans are an ethnic group there.</lex>
     </entry>
     <entry category="City" eid="Id36" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1027,7 +1027,7 @@
         <mtriple>Amarillo,_Texas | areaTotal | 233.9 (square kilometres)</mtriple>
         <mtriple>Amarillo,_Texas | populationDensity | 746.0 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo, Randall County, Texas is elevated 1099 metres above sea level. The Area of Amarillo, Texas is 233.9 (square kilometers) and its population density is 746 people/sq km.</lex>
+      <lex comment="good" lid="Id1">Amarillo,Randall County,Texas is elevated 1099 metres above sea level.The Area of Amarillo, Texas is 233.9 (square kilometers) and its population density is 746 people/sq km.</lex>
       <lex comment="good" lid="Id2">Amarillo is located in Randall County, Texas and lies 1099.0 above sea level. It covers a total area of 233.9 sq km and has a population density of 746 per sq km.</lex>
       <lex comment="good" lid="Id3">At 1099 metres above sea level, Amarillo, Texas is part of Randall County, Texas. Amarillo has a total area of 233.9 square kilometres, and a population density of 746 inhabitants per square kilometre.</lex>
     </entry>
@@ -1194,7 +1194,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo, Potter County is in Texas, United States. Austin is the capital of Texas.</lex>
       <lex comment="good" lid="Id2">Amarillo, Potter County and Austin, Texas are all in the United States.</lex>
-      <lex comment="good" lid="Id3">Amarillo is part of Potter County in Texas whose capital city is Austin. The state is located in the United States.</lex>
+      <lex comment="good" lid="Id3">Amarillo is part of Potter County in Texas whose capital city is Austin.The state is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id45" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1209,7 +1209,7 @@
         <mtriple>Texas | country | United_States</mtriple>
         <mtriple>Texas | capital | Austin,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas, United States. Austin is the capital city of Texas.</lex>
+      <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas,United States.Austin is the capital city of Texas.</lex>
       <lex comment="good" lid="Id2">Austin is the capital city of Texas in the United States. Amarillo is also found in Texas, being part of Potter County.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County in Texas. The capital of Texas, which is found in the US, is Austin.</lex>
     </entry>
@@ -1228,7 +1228,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of Potter County, Texas, in the United States, where Washington, D.C. is the capital.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County, Texas, in the United States, where Washington D.C. is the capital.</lex>
-      <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas in the United States. Washington, D.C. is the capital of the U.S.</lex>
+      <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas in the United States.Washington, D.C. is the capital of the U.S.</lex>
     </entry>
     <entry category="City" eid="Id47" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1243,7 +1243,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas, United States. The capital city of the country is Washington D.C.</lex>
+      <lex comment="good" lid="Id1">Amarillo is part of Potter County in Texas,United States.The capital city of the country is Washington D.C.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County in the state of Texas. The state is located within the United States which has the capital city of Washington DC.</lex>
       <lex comment="good" lid="Id3">Amarillo is part of Potter County, Texas. It is located in the United States where the capital of the country is Washington DC.</lex>
     </entry>
@@ -1392,7 +1392,7 @@
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spanish is spoken in the United States House of Representatives which leads Anaheim, California.</lex>
-      <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, California (U.S.), where Spanish is spoken.</lex>
+      <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, California(U.S.) , where Spanish is spoken.</lex>
       <lex comment="good" lid="Id3">The United States House of Representatives is located within the United States and leads Anaheim, California. Spanish is spoken in California.</lex>
     </entry>
     <entry category="City" eid="Id55" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1427,7 +1427,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With a total area of 131.6 square kilometres, Anaheim is a city in Orange County (California), and is led by the California State Assembly.</lex>
       <lex comment="good" lid="Id2">Anaheim, California in Orange County is led by the California State Assembly in the U.S. and is 131.6 square kilometres large.</lex>
-      <lex comment="good" lid="Id3">Anaheim, California is part of Orange County, California in the United States. Its total area is 131.6 square kilometres and is led by the California State Assembly.</lex>
+      <lex comment="good" lid="Id3">Anaheim, California is part of Orange County, California in the United States.Its total area is 131.6 square kilometres and is led by the California State Assembly.</lex>
     </entry>
     <entry category="City" eid="Id57" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1461,7 +1461,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by the California state Assembly, Anaheim, is a city in Orange County, which is part of the greater Los Angeles area, California, in the United States.</lex>
       <lex comment="good" lid="Id2">Anaheim is a city in Orange County, California and Orange County California is part of the greater Los Angeles area and Anaheim, California is led by the California State Assembly.</lex>
-      <lex comment="good" lid="Id3">Anaheim, Orange County in California is part of the Greater Los Angeles area within the United States. Anaheim is led by the California State Assembly.</lex>
+      <lex comment="good" lid="Id3">Anaheim.Orange County in California is part of the Greater Los Angeles area within the United States.Anaheim is led by the California State Assembly.</lex>
     </entry>
     <entry category="City" eid="Id59" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1510,7 +1510,7 @@
         <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States House of Representatives leads Anaheim, California within the United States. Anaheim, California is part of Orange County, California and English is the official language of the country.</lex>
+      <lex comment="good" lid="Id1">The United States House of Representatives leads Anaheim, California within the United States.Anaheim, California is part of Orange County, California and English is the official language of the country.</lex>
       <lex comment="good" lid="Id2">Anaheim is found in Orange County, California, United States and is led by the US based United States House of Representatives.</lex>
     </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -1526,7 +1526,7 @@
         <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly which is part of the State Legislature. Anaheim is located within the United States and its total area is 131.6 square kilometres.</lex>
+      <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly which is part of the State Legislature.Anaheim is located within the United States and its total area is 131.6 square kilometres.</lex>
       <lex comment="good" lid="Id2">With a total area of 131.6 square kilometres, Anaheim, California (United States), is led by the California State Assembly, which is part of the California State Legislature.</lex>
       <lex comment="good" lid="Id3">With a total area of 131.6 square kilometres, Anaheim, California (U.S.), is led by the California State Assembly, which is part of the California State Legislature.</lex>
     </entry>
@@ -1543,7 +1543,7 @@
         <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The California State Senate leads Anaheim, California which is part of the State Legislature. The total area of Anaheim is 131.6 sq km and it is located in the United States.</lex>
+      <lex comment="good" lid="Id1">The California State Senate leads Anaheim, California which is part of the State Legislature.The total area of Anaheim is 131.6 sq km and it is located in the United States.</lex>
       <lex comment="good" lid="Id2">Anaheim, California in the U.S. has a total area of 131.6 square kilometres. Anaheim is led by the California State Senate which is part of the California State Legislature.</lex>
       <lex comment="good" lid="Id3">With a total area of 131.6 square metres, Anaheim, California (United States), is led by the California State Senate, which is part of the California State Legislature.</lex>
     </entry>
@@ -1584,7 +1584,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | "Adams, Fall Creek, Lafayette, Richland, Union"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union, and is located at 268.0 above sea level. The population density of Anderson, Indiana, is 523.9 (inhabitants per square kilometre) and the area is 107.43 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union and elevated 268.0 meters above sea level. The town has an area of 107.43 square kilometres and its population density is 523.9 inhabitants/sq km.</lex>
+      <lex comment="good" lid="Id2">Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union and elevated 268.0 meters above sea level.The town has an area of 107.43 square kilometres and its population density is 523.9 inhabitants/sq km.</lex>
       <lex comment="good" lid="Id3">Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union. It has a population density of 523.9 (inhabitants per square kilometre), a total area of 107.43 sq. km. and located 268.0 above sea level.</lex>
     </entry>
     <entry category="City" eid="Id66" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1740,8 +1740,8 @@
         <mtriple>Angola,_Indiana | isPartOf | Pleasant_Township,_Steuben_County,_Indiana</mtriple>
         <mtriple>Angola,_Indiana | areaTotal | 16.55 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angola, Indiana is part of Pleasant Township, which is in Steuben County in the United States. It has a total area of 16.55 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Angola, is part of Pleasant Township, which is in Steuben County, Indiana. The town is part of the United States and its total area is 16.55 square kilometres.</lex>
+      <lex comment="good" lid="Id1">Angola, Indiana is part of Pleasant Township, which is in Steuben County in the United States.It has a total area of 16.55 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Angola, is part of Pleasant Township, which is in Steuben County,Indiana.The town is part of the United States and its total area is 16.55 square kilometres.</lex>
       <lex comment="good" lid="Id3">Angola, Indiana, is part of Steuben County, United States. Angola is in Pleasant Township which is part of Steuben County, and has a total area of 16.55 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id71" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1758,7 +1758,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Indiana, part of Steuben County, is in the United States, where the inhabitants are called Americans, and where Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Angola is part of Steuben County, Indiana, United States. The inhabitants of the United States are known as Americans and Asian Americans.</lex>
+      <lex comment="good" lid="Id2">Angola is part of Steuben County. Indiana, United States, The inhabitants of the United States are known as Americans and Asian Americans.</lex>
       <lex comment="good" lid="Id3">Angola, Indiana is part of Steuben County, Indiana, United States. Americans are the people occupying the U.S, of which one of the ethnic groups is Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id72" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1909,7 +1909,7 @@
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by a mayor, Ann Arbor (Michigan), has a total area of 74.33 square kilometres, a population density of 1580.7 inhabitants per sq km, and the area code 734.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor, Michigan is led by a Mayor and its area code is 734. The town's total area is 74.33 square kilometres and it has a population density of 1580.7 inhabitants/sq km.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor,Michigan is led by a Mayor and its area code is 734.The town's total area is 74.33 square kilometres and it has a population density of 1580.7 inhabitants/sq km.</lex>
     </entry>
     <entry category="City" eid="Id77" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2178,8 +2178,8 @@
         <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlanta is part of DeKalb County in Georgia and covers an area of 344.9(total area:347.1) square kilometres. The city's population density is 1299 inhabitants per square kilometres.</lex>
-      <lex comment="good" lid="Id2">Most of Atlanta is part of DeKalb County in Georgia and covers 344.9 square kilometres. The population density of Atlanta is 1299.0 inhabitants per square kilometre and its total area is 347.1 sq km.</lex>
+      <lex comment="good" lid="Id1">Atlanta is part of DeKalb County in Georgia and covers an area of 344.9(total area:347.1) square kilometres.The city's population density is 1299 inhabitants per square kilometres.</lex>
+      <lex comment="good" lid="Id2">Most of Atlanta is part of DeKalb County in Georgia and covers 344.9 square kilometres.The population density of Atlanta is 1299.0 inhabitants per square kilometre and its total area is 347.1 sq km.</lex>
       <lex comment="good" lid="Id3">Part of DeKalb County (Georgia), Atlanta, has a total area of 347.1 square kilometres, and covers 344.9 square kilometres. The population density of Atlanta is 1299.0 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2214,8 +2214,8 @@
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta covers 344.9 square kilometres and its population density is 1299.0 inhabitants per square kilometre. The total area of Atlanta is 347.1 square kilometres and it is part of Fulton County, Georgia.</lex>
-      <lex comment="good" lid="Id2">Atlanta is a part of Fulton County in Georgia and covers an area of 344.9 square kilometres. The total area of Atlanta is 347.1 (square kilometres) and its population density is 1299.0 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id3">Atlanta is part of Fulton County in Georgia and covers 344.9 square kilometres. The population density of Atlanta is 1299.0 inhabitants/sq km and its total area is 347.1 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Atlanta is a part of Fulton County in Georgia and covers an area of 344.9 square kilometres.The total area of Atlanta is 347.1 (square kilometres) and its population density is 1299.0 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3">Atlanta is part of Fulton County in Georgia and covers 344.9 square kilometres.The population density of Atlanta is 1299.0 inhabitants/sq km and its total area is 347.1 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id87" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2247,7 +2247,7 @@
         <mtriple>DeKalb_County,_Georgia | country | United_States</mtriple>
         <mtriple>Atlanta | isPartOf | Georgia_(U.S._state)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia, United States. Dunwoody is the largest city in DeKalb County, Georgia.</lex>
+      <lex comment="good" lid="Id1">Most of Atlanta is part of DeKalb County in Georgia,United States.Dunwoody is the largest city in DeKalb County, Georgia.</lex>
       <lex comment="good" lid="Id2">In DeKalb County Georgia in the U.S. you will find Atlanta and Dunwoody which is the largest city in the county.</lex>
       <lex comment="good" lid="Id3">Most of Atlanta is part of DeKalb County, in Georgia, in the United States. Dunwoody is the largest city in DeKalb County.</lex>
     </entry>
@@ -2287,7 +2287,7 @@
         <mtriple>DeKalb_County,_Georgia | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta is part of Fulton County, but most of it lies in DeKalb County, both of Georgia, United States. The capital of DeKalb County is Dunwoody.</lex>
-      <lex comment="good" lid="Id2">Atlanta is part of DeKalb and Fulton County in Georgia, United States. Dunwoody is the largest city in DeKalb County.</lex>
+      <lex comment="good" lid="Id2">Atlanta is part of DeKalb and Fulton County in Georgia,United States.Dunwoody is the largest city in DeKalb County.</lex>
       <lex comment="good" lid="Id3">Atlanta is part of DeKalb County and Fulton County in Georgia, United States. Dunwoody is the largest city in DeKalb County, Georgia.</lex>
     </entry>
     <entry category="City" eid="Id91" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2304,7 +2304,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City, New York City, Trenton, New Jersey can all be found in the United States.</lex>
-      <lex comment="good" lid="Id2">Atlantic City is located in New Jersey, whose capital is Trenton. The state is part of the United States where New York City is the largest city.</lex>
+      <lex comment="good" lid="Id2">Atlantic City is located in New Jersey,whose capital is Trenton.The state is part of the United States where New York City is the largest city.</lex>
       <lex comment="good" lid="Id3">Atlantic City is in New Jersey, United States. The capital of New Jersey is Trenton. The largest city in United States is New York City.</lex>
     </entry>
     <entry category="City" eid="Id92" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2320,8 +2320,8 @@
         <mtriple>New_Jersey | capital | Trenton,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City, New Jersey is located in the United States. Trenton is the state's capital and Newark is its largest city.</lex>
-      <lex comment="good" lid="Id2">New Jersey's, part of the United States, capital is Trenton but its largest city is Newark and it also is where Atlantic City is.</lex>
+      <lex comment="good" lid="Id1">Atlantic City,New Jersey is located in the United States.Trenton is the state's capital and Newark is its largest city.</lex>
+      <lex comment="good" lid="Id2">New Jersey's, part of the United States, capital is Trenton but it's largest city is Newark and it also is where Atlantic City is.</lex>
       <lex comment="good" lid="Id3">Atlantic City, New Jersey, is in the United States. New Jersey's largest city is Newark and its capital is Trenton.</lex>
     </entry>
     <entry category="City" eid="Id93" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2337,7 +2337,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
         <mtriple>United_States | largestCity | New_York_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City, New Jersey, is located within the United States, whose capital is Washington D.C. The largest city of the country is New York City.</lex>
+      <lex comment="good" lid="Id1">Atlantic City, New Jersey, is located within the United States,whose capital is Washington D.C.The largest city of the country is New York City.</lex>
       <lex comment="good" lid="Id2">Atlantic City is in Atlantic County, New Jersey in the U.S. whose capital is Washington D.C. New York is the largest city in the U.S.</lex>
       <lex comment="good" lid="Id3">Atlantic City in Atlantic County, New Jersey, is part of the U.S.A. where Washington, D.C. is the capital and New York is the largest city in the nation.</lex>
     </entry>
@@ -2373,7 +2373,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City is part of New Jersey, United States. The capital of the US is Washington DC and the largest city in the country is New York City.</lex>
       <lex comment="good" lid="Id2">Although the largest city in the United States is New York City, the capital is Washington DC. The country is also the location of Atlantic City which is part of New Jersey.</lex>
-      <lex comment="good" lid="Id3">Atlantic City, New Jersey, is located within the United States, whose capital city is Washington D.C. The biggest city in the U.S. is New York City.</lex>
+      <lex comment="good" lid="Id3">Atlantic City, New Jersey, is located within the United States,whose capital city is Washington D.C.The biggest city in the U.S. is New York City.</lex>
     </entry>
     <entry category="City" eid="Id96" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2438,7 +2438,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City, in New Jersey, has a population density of 1421.2 inhabitants per square kilometre and a total area of 44.125 sq. km. It has an area code of 609 and the Clerk leads this city.</lex>
       <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J and its total area is 44.125 square kilometres. The area code of the city is 609 and it has 1421.2 inhabitants/square kilometre population density.</lex>
-      <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey which has a total area of 44.125 square kilometres. The area code of the city is 609 and it has a 1421.2 people/sq km population density.</lex>
+      <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey which has a total area of 44.125 square kilometres.The area code of the city is 609 and it has a 1421.2 people/sq km population density.</lex>
     </entry>
     <entry category="City" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2483,7 +2483,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica is part of Fountain County in the state of Indiana. The state is located in the United States and has the capital of Indianapolis.</lex>
       <lex comment="good" lid="Id2">Attica, is in Fountain County, Indiana (United States), where the state's capital, is Indianapolis.</lex>
-      <lex comment="good" lid="Id3">Attica is part of Fountain County, Indiana. The state's capital is Indianapolis and it is located in the United States.</lex>
+      <lex comment="good" lid="Id3">Attica is part of Fountain County,Indiana.The state's capital is Indianapolis and it is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id99" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2521,7 +2521,7 @@
         <mtriple>Fountain_County,_Indiana | country | United_States</mtriple>
         <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica is part of Fountain County, Indiana in the United States. The state capital of Indiana is Indianapolis.</lex>
+      <lex comment="good" lid="Id1">Attica is part of Fountain County,Indiana in the United States.The state capital of Indiana is Indianapolis.</lex>
       <lex comment="good" lid="Id2">Attica, in Fountain County, is located in the United States in the state of Indiana. The state capital is Indianapolis.</lex>
       <lex comment="good" lid="Id3">Attica of Fountain County Indiana, where Indianapolis is the capital, is in the U.S.</lex>
     </entry>
@@ -2545,7 +2545,7 @@
         <mtriple>Attica,_Indiana | isPartOf | Fountain_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica is in Fountain County, Indiana in the U.S. The capital of the U.S. is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2">Attica is part of Fountain County, Indiana in the United States. The capital city of the United States is Washington DC.</lex>
+      <lex comment="good" lid="Id2">Attica is part of Fountain County,Indiana in the United States.The capital city of the United States is Washington DC.</lex>
       <lex comment="good" lid="Id3">Attica, Fountain County Indiana, is in the U.S. which has Washington D.C. as its capital.</lex>
     </entry>
     <entry category="City" eid="Id102" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2563,7 +2563,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica, Indiana is part of Logan Township, Fountain County, Indiana in the U.S.The capital of the United States is Washington DC.</lex>
       <lex comment="good" lid="Id2">Washington DC is the capital of the US where Attica is located. The city is part of Logan Township, Fountain County in the state of Indiana.</lex>
-      <lex comment="good" lid="Id3">Attica is a city in Logan Township which is a part of Fountain County in Indiana. The state is located in the United States.</lex>
+      <lex comment="good" lid="Id3">Attica is a city in Logan Township which is a part of Fountain County in Indiana.The state is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id103" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2619,7 +2619,7 @@
         <mtriple>Attica,_Indiana | areaTotal | 4.14 (square kilometres)</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica is part of the state of Indiana in the United States. It has a 4.14. square kilometres of total area and its population density is 783.1 inhabitants/sq km.</lex>
+      <lex comment="good" lid="Id1">Attica is part of the state of Indiana in the United States.It has a 4.14. square kilometres of total area and its population density is 783.1 inhabitants/sq km.</lex>
       <lex comment="good" lid="Id2">Attica, Indiana is part of the U.S. The population density of Attica Indiana is 783.1 (inhabitants per square kilometre) and its area is 4.14 sq. km.</lex>
       <lex comment="good" lid="Id3">Part of the United States, Attica (Indiana), has an area of 4.14 square kilometres, and a population density of 783.1 inhabitants per square kilometre.</lex>
     </entry>
@@ -2760,7 +2760,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama, United States, where one of the ethnic groups is the African Americans. Lee County is situated within the state of Alabama.</lex>
       <lex comment="good" lid="Id2">Auburn, Alabama is part of Lee County situated in the U.S. One ethnic group in the U.S. is known as African Americans.</lex>
-      <lex comment="good" lid="Id3">Auburn, Alabama is part of Lee County in the United States. African Americans are an ethnic group within the United States.</lex>
+      <lex comment="good" lid="Id3">Auburn, Alabama is part of Lee County in the United States.African Americans are an ethnic group within the United States.</lex>
     </entry>
     <entry category="City" eid="Id110" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2809,7 +2809,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington DC is the capital of the United States where Auburn is part of Lee County which is in the state of Alabama.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of Lee County in Alabama, United States. The country's capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of Lee County in Alabama,United States.The country's capital is Washington D.C.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama, U.S. The U.S. capital is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id113" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
@@ -2913,7 +2913,7 @@
         <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, located in King County, Washington (state), USA, has a total area of 77.41 square kilometres.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of King County, Washington in the U.S. Auburn (Washington) has a total area of 77.41 square kilometres.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of King County,Washington in the U.S.Auburn (Washington) has a total area of 77.4 square kilometres.</lex>
       <lex comment="good" lid="Id3">Auburn is located in King County, part of the state of Washington. It covers a total area of 77.4 sq km within the United States.</lex>
     </entry>
     <entry category="City" eid="Id117" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2952,8 +2952,8 @@
         <mtriple>Auburn,_Washington | country | United_States</mtriple>
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Auburn is part of Pierce and King counties in Washington state. The state belongs to the United States whose capital is Washington D.C.</lex>
-      <lex comment="good" lid="Id2">Auburn is part of Pierce and King Counties in Washington state. The state is part of the United States.</lex>
+      <lex comment="good" lid="Id1">Auburn is part of Pierce and King counties in Washington state.The state is belong to the United States whose capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of Pierce and King Counties in Washington state.The state is part of the United States.</lex>
     </entry>
     <entry category="City" eid="Id119" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3110,7 +3110,7 @@
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin, Texas, is part of Hays County, Texas, the largest city of which is San Marcos. Austin is part of Williamson County, of which Georgetown is the county seat.</lex>
-      <lex comment="good" lid="Id2">Austin, Texas is part of Williamson County, which has the county seat of Georgetown. It is also included in Hays County where the largest city is San Marcos.</lex>
+      <lex comment="good" lid="Id2">Austin, Texas is part of Williamson County, which has the county seat of Georgetown It is also included in Hays County where the largest city is San Marcos.</lex>
     </entry>
     <entry category="City" eid="Id126" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3125,7 +3125,7 @@
         <mtriple>Austin,_Texas | isPartOf | Williamson_County,_Texas</mtriple>
         <mtriple>Williamson_County,_Texas | countySeat | Georgetown,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Austin, part of Williamson County, is in Hays County, Texas, where the largest city is Round Rock. Georgetown is the county seat of Williamson County, Texas.</lex>
+      <lex comment="good" lid="Id1">Austin, part of Williamson County, is in Hays County, Texas. where the largest city is Round Rock. Georgetown is the county seat of Williamson County, Texas.</lex>
       <lex comment="good" lid="Id2">Round Rock is the largest city in Williamson County, Texas, while the county seat is Georgetown. Austin is also part of Williamson County and is additionally partly located in Hays County, Texas.</lex>
       <lex comment="good" lid="Id3">Round Rock is the largest city in Williamson County, of which Austin is a part of, in Texas. Georgetown is the county seat of Williamson County, Texas.</lex>
     </entry>
@@ -3176,7 +3176,7 @@
         <mtriple>California_State_Assembly | location | California_State_Capitol</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, California is led by the California State Assembly located in the California State Capitol. Chinese is spoken in some parts of that state.</lex>
-      <lex comment="good" lid="Id2">The California State Assembly is located in California State Capitol. It is a governing body of Anaheim, California, where Chinese language is also spoken.</lex>
+      <lex comment="toFix" lid="Id2">The California State Assembly is located in Anaheim, California, where Chinese language is also spoken.</lex>
       <lex comment="good" lid="Id3">Anaheim is part of California and led by the California State Assembly located at the California State Capitol. Chinese is a language spoken in California.</lex>
     </entry>
     <entry category="City" eid="Id130" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -3270,8 +3270,8 @@
         <mtriple>California | language | English_language</mtriple>
         <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch and San Francisco Bay area are parts of Contra Costa County in California. The English language is spoken in California.</lex>
-      <lex comment="good" lid="Id2">Antioch and the the San Francisco Bay area are part of Contra Costa County in California. The English language is spoken in California.</lex>
+      <lex comment="good" lid="Id1">Antioch and San Francisco Bay area are parts of Contra Costa County in California.The English language is spoken in California.</lex>
+      <lex comment="good" lid="Id2">Antioch and the the San Francisco Bay area are part of Contra Costa County in California.The English language is spoken in California.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County, which is turn, is is part of the San Francisco Bay area, in, English Speaking, California.</lex>
     </entry>
     <entry category="City" eid="Id135" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -3304,7 +3304,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
         <mtriple>Fulton_County,_Georgia | countySeat | Atlanta</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County, in Georgia and the county seat is Atlanta. The State is part of the United States of America.</lex>
+      <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County, in Georgia and the county seat is Atlanta.The State is part of the United States of America.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia, in the United States. And, Atlanta is the county seat of Fulton County, Georgia.</lex>
       <lex comment="good" lid="Id3">The county of fulton georgia is in atlanta and alpharetta belongs to the county.</lex>
     </entry>
@@ -3351,7 +3351,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County, in Georgia in the U.S. Atlanta is the biggest city in Fulton County.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County in the U.S. state of Georgia. Atlanta is the largest city of Fulton County.</lex>
-      <lex comment="good" lid="Id3">Alpharetta, Fulton County is part of the state of Georgia in the United States. Atlanta is the largest city in Fulton County, Georgia.</lex>
+      <lex comment="good" lid="Id3">Alpharetta,Fulton County is part of the state of Georgia in the United States.Atlanta is the largest city in Fulton County, Georgia.</lex>
     </entry>
     <entry category="City" eid="Id139" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3390,7 +3390,7 @@
         <mtriple>Alexandria,_Indiana | isPartOf | Monroe_Township,_Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria is part of the Monroe Township which is in Madison County, in Indiana (United States). The Capital of Indiana is Indianapolis.</lex>
-      <lex comment="good" lid="Id2">Alexandria, Indiana is part of Monroe Township, in Madison County. Indiana's capital is Indianapolis and it is located in the United States.</lex>
+      <lex comment="good" lid="Id2">Alexandria, Indiana is part of Monroe Township, in Madison County.Indiana's capital is Indianapolis and it is located in the United States.</lex>
       <lex comment="good" lid="Id3">Alexandria is part of the Monroe Township, Madison County, Indiana (capital Indianapolis), in the United States.</lex>
     </entry>
     <entry category="City" eid="Id141" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -3526,7 +3526,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana is part of Fall Creek Township, Madison County, Indiana in the U.S. Indianapolis is the capital of Indiana.</lex>
-      <lex comment="good" lid="Id2">Anderson, Indiana is part of Fall Creek Township, Madison County, Indiana in the United States. Indianapolis is the capital of Indiana state.</lex>
+      <lex comment="good" lid="Id2">Anderson, Indiana is part of Fall Creek Township, Madison County, Indiana in the United States.Indianapolis is the capital of Indiana state.</lex>
       <lex comment="good" lid="Id3">Anderson is part of Fall Creek Township in Madison County. It is located in Indiana, US, which has the state capital known as Indianapolis.</lex>
     </entry>
     <entry category="City" eid="Id148" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -3588,7 +3588,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson and Indianapolis are cities in the United States. Indianapolis is the capital; Anderson is situated in Madison County.</lex>
-      <lex comment="good" lid="Id2">Anderson is part of Madison County, Indiana in the United States. Indianapolis is the capital of Indiana.</lex>
+      <lex comment="good" lid="Id2">Anderson is part of Madison County, Indiana in the United States.Indianapolis is the capital of Indiana.</lex>
       <lex comment="good" lid="Id3">The city of Anderson in Madison County is in Indiana. Indianapolis is the capital of Indiana, which is in the United States.</lex>
     </entry>
     <entry category="City" eid="Id151" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -3622,7 +3622,7 @@
         <mtriple>Monroe_Township,_Madison_County,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria in the United States is part of Monroe Township, Madison County. It is located in Indiana where the capital is known as Indianapolis.</lex>
-      <lex comment="good" lid="Id2">Alexandria is part of Monroe township, Madison County, Indiana. The town is located in the United States.</lex>
+      <lex comment="good" lid="Id2">Alexandria is part of Monroe township, Madison County, Indiana.The town is located in the United States.</lex>
       <lex comment="good" lid="Id3">Indianapolis is the capital of Indiana in the United States. The town of Alexandria is located in Monroe Township, Madison County, which is also in Indiana.</lex>
     </entry>
     <entry category="City" eid="Id153" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3638,8 +3638,8 @@
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan</mtriple>
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in Michigan. The state is located within the United States and its largest city is Detroit.</lex>
-      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan. The state is part of the United States. The largest city in Michigan is Detroit.</lex>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County in Michigan.The state is located within the United States and its largest city is Detroit.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan.The state is part of the United States.</lex>
     </entry>
     <entry category="City" eid="Id154" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3689,7 +3689,7 @@
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington is part of the state of Texas, whose largest city is Houston. Arlington is part of Tarrant County, the county seat of which is Fort Worth.</lex>
-      <lex comment="good" lid="Id2">In Texas, the largest city is Houston and Arlington (part of Tarrant County), is part of the state. The county seat of Tarrant County in Texas is Fort Worth.</lex>
+      <lex comment="good" lid="Id2">In Texas, the largest city is Houston and Arlington(part of Tarrant County), is part of the state. The county seat of Tarrant County in Texas is Fort Worth.</lex>
       <lex comment="good" lid="Id3">Arlington is located in Tarrant County, Texas. The county seat of Tarrant County is Fort Worth, and the largest city in Texas is Houston.</lex>
     </entry>
     <entry category="City" eid="Id157" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3739,7 +3739,7 @@
         <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arlington is located in Tarrant County, Texas whose largest city is Fort Worth. Houston is the largest city in Texas.</lex>
+      <lex comment="good" lid="Id1">Arlington is located in Tarrant County,Texas whose largest city is Fort Worth.Houston is the largest city in Texas.</lex>
       <lex comment="good" lid="Id2">Houston is the largest city in Texas, where the capital is Forth Worth. Tarrant County is the location of Fort Worth and is also where you will find Arlington.</lex>
       <lex comment="good" lid="Id3">Arlington is part of Tarrant County in the state of Texas. Although Fort Worth is the largest city in Tarrant County, Houston is the largest in Texas.</lex>
     </entry>
@@ -3774,7 +3774,7 @@
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is the capital of Texas while Houston is its largest city. Texas also includes Arlington, Tarrant County.</lex>
-      <lex comment="good" lid="Id2">Arlington, Tarrant County, is located in Texas whose capital is Austin. Houston is the largest city in Texas.</lex>
+      <lex comment="good" lid="Id2">Arlington, Tarrant County, is located in Texas whose capital is Austin.Houston is the largest city in Texas.</lex>
       <lex comment="good" lid="Id3">Arlington is located at Tarrant County, Texas. The states capital is Austin and the largest city is Houston.</lex>
     </entry>
     <entry category="City" eid="Id162" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3791,7 +3791,7 @@
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin and Arlington (capital) are both part of Texas and the United States, as is its largest city, Houston.</lex>
-      <lex comment="good" lid="Id2">Arlington is part of Texas in the United States. The capital city of the states is Austin and its largest city is Houston.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Texas in the United States.The capital city of the states is Austin and its largest city is Houston.</lex>
       <lex comment="good" lid="Id3">Arlington is part of the state of Texas in the U.S. whose largest city is Houston. The capital city of Texas is Austin.</lex>
     </entry>
     <entry category="City" eid="Id163" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3859,7 +3859,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is part of Jones County, Texas, the United States. The capital of the United States is Washington DC and they speak English.</lex>
-      <lex comment="good" lid="Id2">Abilene is part of Jones County, Texas in the United States. The capital city of the U.S. is Washington D.C. and English is its official language.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Jones County,Texas in the United States.The capital city of the U.S. is Washington D.C. and English is its official language.</lex>
       <lex comment="good" lid="Id3">Abilene is part of Jones County, Texas in the United States of America. The capital of the U.S is Washington D.C. and the main language spoken is English.</lex>
     </entry>
     <entry category="City" eid="Id167" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3877,7 +3877,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In the United States, Washington, D.C. is the capital and English is spoken. It is also the country where Abilene (Texas) is located.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is located in the United States, where English is spoken and the capital is Washington D.C.</lex>
-      <lex comment="good" lid="Id3">Abilene, Texas is located in Taylor County, Texas in the United States. The capital of the U.S. is Washington, D.C and English is its official language.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas is located in Taylor County, Texas in the United States.The capital of the U.S. is Washington, D.C and English is its official language.</lex>
     </entry>
     <entry category="City" eid="Id168" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3892,7 +3892,7 @@
         <mtriple>Taylor_County,_Texas | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene is part of Taylor County in Texas, United States. The capital of the U.S. is Washington DC and English is its official language.</lex>
+      <lex comment="good" lid="Id1">Abilene is part of Taylor County in Texas,United States.The capital of the U.S. is Washington DC and English is its official language.</lex>
       <lex comment="good" lid="Id2">Taylor County in Texas is the location of Abilene. It is located in the United States where the capital city is Washington DC and the English language is spoken.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas is located in Taylor County, Texas in the U.S. The capital of the U.S. is Washington, D.C. where English is the spoken language.</lex>
     </entry>
@@ -3960,7 +3960,7 @@
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Washington DC is the capital of the United States, which is home to Albany, a city in Oregon. Within the US there is an ethnic group called African Americans.</lex>
+      <lex comment="good" lid="Id1">Washington DC is the capital of the United States, which is home to Albany, a city in Oregon. Within the US there is an ethic group called African Americans.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is located within the United States, the capital of which is Washington, D.C. One of the ethnic groups in the United States are the African Americans.</lex>
       <lex comment="good" lid="Id3">In the U.S. where Washington D.C. is the capital, we will find African Americans and also the city of Albany in Oregon.</lex>
     </entry>
@@ -4114,7 +4114,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron is a part of Summit County, Ohio, U.S. The inhabitants of the United States are known as Americans and one of the ethnic groups are the African Americans.</lex>
       <lex comment="good" lid="Id2">An ethnic group in the U.S. are African Americans and people who live there are known as Americans. Akron, Summit County, is in Ohio in the U.S.</lex>
-      <lex comment="good" lid="Id3">Akron is located in Summit County, Ohio, U.S. African Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id3">Akron is located in Summit County, Ohio,U.S.African Americans are an ethnic group in the United States.</lex>
     </entry>
     <entry category="City" eid="Id181" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4163,7 +4163,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">People who live in the US are called Americans and these include the ethnic group of Asian Americans. The United States is where you will find Angola, part of Pleasant Township in Steuben County, Indiana.</lex>
       <lex comment="good" lid="Id2">The Americans are the inhabitants of the United States and include the ethnic group of Asian Americans. The country is the location of Angola in Pleasant Township, part of Steuben County in Indiana.</lex>
-      <lex comment="good" lid="Id3">Angola is located in Pleasant Township which is part of Steuben County, Indiana in the United States. The Asian Americans are an ethnic group of the United States.</lex>
+      <lex comment="good" lid="Id3">Angola is located in Pleasant Township which is part of Steuben County,Indiana in the United States.The Asian Americans are an ethnic group of the United States.</lex>
     </entry>
     <entry category="City" eid="Id184" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4179,7 +4179,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, part of Pleasant Township, is in Steuben County, Illinois, USA. Americans, of which Native Americans are an ethnic group, live in the USA.</lex>
-      <lex comment="good" lid="Id2">Angola, Indiana is part of Pleasant Township, Steuben County in the U.S. Native Americans are an ethnic group in the United States.</lex>
+      <lex comment="good" lid="Id2">Angola, Indiana is part of Pleasant Township,Steuben County in the U.S. Native Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id3">The Native Americans are an ethnic group within the United States where the inhabitants are known as Americans. The country is the location of Angola, Pleasant Township, which is part of Steuben County in Indiana.</lex>
     </entry>
     <entry category="City" eid="Id185" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -4264,7 +4264,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico, United States and is led by Richard J. Berry. African Americans are an ethnic group within the United States.</lex>
-      <lex comment="good" lid="Id2">Albuquerque in New Mexico is led by the Albuquerque City Council whose leader is Richard J. Berry. The city is located in the United States where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Albuquerque in New Mexico is led by the Albuquerque City Council whose leader is Richard J. Berry.The city is located in the United States where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Albuquerque, New Mexico, is located in the United States, where African Americans are an ethnic group. Albuquerque City Council govern the area and Richard J Berry is the leader of that organisation.</lex>
     </entry>
     <entry category="City" eid="Id190" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -4316,7 +4316,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, a city in Indiana, is in the United States. The same English speaking country, where African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is in the United States, a country whose language is English. One of the ethnic groups within the U.S. are African Americans.</lex>
-      <lex comment="good" lid="Id3">Angola, part of the state of Indiana, is in the United States. English is the language spoken in the U.S., and African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id3">Angola, part of the state of Indiana, is in the United States. English is the language spoken in the U.S., and African Americans are one of the ethic groups.</lex>
     </entry>
     <entry category="City" eid="Id193" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4365,7 +4365,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico is located in the United States and led by the Mayor of Albuquerque. Barack Obama is the leader of the United States and African Americans are one of the ethnic groups in the country.</lex>
+      <lex comment="good" lid="Id1">Albuquerque,New Mexico is located in the United States and led by the Mayor of Albuquerque.Barack Obama is the leader of the United States and African Americans are one of the ethnic groups in the country.</lex>
       <lex comment="good" lid="Id2">Albuquerque in New Mexico, United States, is led by the Mayor of Albuquerque. Barack Obama is the leader of the United States and some other African Americans live there too.</lex>
       <lex comment="good" lid="Id3">The leader of the United States was Barack Obama. The leader of Albuquerque, New Mexico, which is located in the United States, is the Mayor. African Americans are among the ethnic groups in the U.S.</lex>
     </entry>
@@ -4417,7 +4417,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is a city in Oregon (capital Salem), in the United States, where Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Albany is part of Oregon, whose capital is Salem, in the U.S. Asian Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">Albany is a city in Oregon (state capital: Salem) within the United States. Asian Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3">Albany is a city in Oregon(state capital:Salem)within the United States. Asian Americans are an ethnic group in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id199" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4432,7 +4432,7 @@
         <mtriple>New_Mexico_Senate | leader | John_Sánchez</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico is located in the United States and Asian Americans are an ethnic group there. John Sánchez, is one of the leaders, in the New Mexico Senate which is leading the state.</lex>
+      <lex comment="good" lid="Id1">Albuquerque,New Mexico is located in the United States and Asian Americans are an ethnic group there.John Sánchez, is one of the leaders, in the New Mexico Senate which is leading the state.</lex>
       <lex comment="good" lid="Id2">Albuquerque is in New Mexico, in the United States, where one of the ethnic groups is Asian Americans. The New Mexico Senate leads Albuquerque and John Sánchez is one of the leaders.</lex>
       <lex comment="good" lid="Id3">Albuquerque, New Mexico is in the United States, where Asian Americans are an ethnic group. Albuquerque, New Mexico is led by the New Mexico Senate, where John Sánchez is one of the leaders.</lex>
     </entry>
@@ -4467,8 +4467,8 @@
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asian Americans are an ethnic group of the United States which has the capital city of Washington DC. Akron is located within the country in Summit County, Ohio.</lex>
-      <lex comment="good" lid="Id2">The Asian Americans are an ethnic group in the United States which has the capital of Washington DC. The country is the location of Akron which is in Summit County, Ohio.</lex>
-      <lex comment="good" lid="Id3">Akron, Summit County, Ohio is located within the United States, whose capital is Washington D.C. Asian Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id2">The Asian Americans are an ethnic group in the United States which has the capital of Washington DC. The country is the location of Akron which is in Summit County, Ohio,.</lex>
+      <lex comment="good" lid="Id3">Akron,Summit County,Ohio is located within the United States,whose capital is Washington D.C.Asian Americans are an ethnic group in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id202" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4502,7 +4502,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is part of Oregon in the United States. The US is home to an ethnic group called Asian Americans and its capital city is Washington DC.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is located within the United States, where Asian Americans are one of the ethnic groups, and where the capital is Washington, D.C.</lex>
-      <lex comment="good" lid="Id3">Albany is a city in Oregon, United States. The country's capital city is Washington D.C and Asian Americans are an ethnic group there.</lex>
+      <lex comment="good" lid="Id3">Albany is a city in Oregon,United States.The country's capital city is Washington D.C and Asian Americans are an ethnic group there.</lex>
     </entry>
     <entry category="City" eid="Id204" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4599,7 +4599,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is located within the United States where English is the official language. Albuquerque in New Mexico is led by the Albuquerque City Council.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is located within the United States where English is the official language.Albuquerque in New Mexico is led by the Albuquerque City Council.</lex>
       <lex comment="good" lid="Id2">The Albuquerque City Council has a leadership role in Albuquerque, New Mexico which is located in the English speaking country of the United States.</lex>
       </entry>
     <entry category="City" eid="Id210" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -4616,8 +4616,8 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States House of Representatives leads Albuquerque, New Mexico and English is spoken in the county.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, New Mexico is located in the United States and is led by the United States House of Representatives. English is the language spoken in the United States.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico is located in the United States, where English is the language spoken. The leader of Albuquerque is the United States House of Representatives.</lex>
+      <lex comment="good" lid="Id2">Albuquerque,New Mexico is located in the United States and is led by the United States House of Representatives.English is the language spoken in the United States.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico is located in the United States,where English is the language spoken.The leader of Albuquerque is the United States House of Representatives.</lex>
     </entry>
     <entry category="City" eid="Id211" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4733,7 +4733,7 @@
         <mtriple>Antioch,_California | isPartOf | California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Antioch is located in California whose leader is the United States House of Representatives part of the United States Congress. Vietnamese is one of the languages spoken in California.</lex>
-      <lex comment="good" lid="Id2">The city of Antioch is located within California and is led by the United States House of Representatives-which is part of the United States Congress. Vietnamese is one of the languages spoken in California state.</lex>
+      <lex comment="good" lid="Id2">The city of Antioch is located within California and is led by the United States House of Representatives-which is part of the United States Congress.Vietnamese is one of the languages spoken in California state.</lex>
       <lex comment="good" lid="Id3">Antioch in California, (the state where Vietnamese is sometimes spoken), is led by the United States House of Representatives which is part of the United States Congress.</lex>
     </entry>
     <entry category="City" eid="Id218" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

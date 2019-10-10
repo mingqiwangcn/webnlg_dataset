@@ -31,7 +31,7 @@
         <mtriple>Airman_(comicsCharacter) | alternativeName | "Drake Stevens"</mtriple>
         <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic book character Airman, AKA Drake Stevens, was created by Harry Sahle.</lex>
+      <lex comment="good" lid="Id1">The comic book character Airman, AKA Drake Stephens, was created by Harry Sahle.</lex>
       <lex comment="good" lid="Id2">Drake Stevens is known as the comic character Airman, which was created by Harry Sahle.</lex>
       <lex comment="good" lid="Id3">The comic character Airman, who has the alternative name Drake Stevens, was created by Harry Sahle.</lex>
     </entry>
@@ -101,7 +101,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paul Kupperberg is the creator of the comic character Arion, sometimes known as Ahri'ahn.</lex>
       <lex comment="good" lid="Id2">Created by Paul Kupperberg, the book character Arion is also known as Ahri'ahn.</lex>
-      <lex comment="good" lid="Id3">Paul Kupperberg is the creator of the comic character Arion, otherwise known as Ahri'ahn.</lex>
+      <lex comment="good" lid="Id3">Paul Kupperberg is the creator of the comic character Arion , otherwise known as Ahri'ahn.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -199,7 +199,7 @@
         <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The creator of Asterix, a comics character, is René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id1">The creator of Asterix , a comics character, is René Goscinny, who is French.</lex>
       <lex comment="good" lid="Id2">Asterix was created by Rene Goscinny, who is a frenchman.</lex>
       <lex comment="good" lid="Id3">Rene Goscinny is a French national and also the creator of the comic character Asterix.</lex>
     </entry>
@@ -250,7 +250,7 @@
         <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
         <mtriple>Dick_Dillin | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dick Dillin is an American who created the fictional character, Aurakles.</lex>
+      <lex comment="good" lid="Id1">Dick Dillian is an american who created the fictional character, Aurakles.</lex>
       <lex comment="good" lid="Id2">Aurakles is a fictional character created by American national Dick Dillin.</lex>
       <lex comment="good" lid="Id3">Dick Dillin, the creator of Aurakles, is from the US.</lex>
     </entry>
@@ -268,7 +268,7 @@
         <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic book character Auron was created by Karl Kesel and Marv Wolfman.</lex>
-      <lex comment="good" lid="Id2">The character Auron, was created by Kark Kesel and Marv Worlfman.</lex>
+      <lex comment="good" lid="Id2">The character Auron, was created by Kark Kesel and Marv Worlfman,.</lex>
       <lex comment="good" lid="Id3">The creators of Auron (comics character) are Karl Kesel and Marv Wolfman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -507,7 +507,7 @@
         <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Jill Shilling stared in Bananaman, broadcasted by STV.</lex>
-      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman, broadcasted by STV.</lex>
+      <lex comment="good" lid="Id2">Jill Shilling starred in Bananaman, broadcasted by STV,.</lex>
       <lex comment="good" lid="Id3">Bananaman which stars Jill Shilling is broadcasted by STV.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -545,7 +545,7 @@
         <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buxton is the birthplace of Tim Brooke-Taylor, who starred in Bananaman.</lex>
-      <lex comment="good" lid="Id2">Tim Brooke-Tayler, born in Buxton, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2">Tim Brooke-Tayler, born in Buxton, starred in bananaman.</lex>
       <lex comment="good" lid="Id3">Born in Buxton, Tim Brooke-Taylor, starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -572,7 +572,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in the UK and starred in Bananaman.</lex>
       <lex comment="good" lid="Id2">Born in the United Kingdom, Tim Brooke-Taylor, starred in Bananaman.</lex>
-      <lex comment="good" lid="Id3">Tim Brooke-Taylor, originally from the U.K, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor , originally from the U.K, starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -698,7 +698,7 @@
         <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
         <mtriple>Ben_Urich | fullName | "Benjamin Urich"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The character Ben Urich (Benjamin Urich) was created by Gene Colan.</lex>
+      <lex comment="good" lid="Id1">The character Ben Urich ( Benjamin Urich ) was created by Gene Colan.</lex>
       <lex comment="good" lid="Id2">Ben Urich's full name is actually Benjamin Urich, the character was created by Gene Colan.</lex>
       <lex comment="good" lid="Id3">Ben Urich, full name Benjamin Urich, was created by Gene Colan.</lex>
     </entry>
@@ -732,7 +732,7 @@
         <mtriple>Bibbo_Bibbowski | fullName | "Bo Bibbowski"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bo Bibbowski (full name Bibbo Bibbowski) was created by Jerry Ordway.</lex>
-      <lex comment="good" lid="Id2">Bo Bibbowski, otherwise known as Bibbo, was created by Jerry Ordway.</lex>
+      <lex comment="good" lid="Id2">Bo Bibbowski , otherwise known as Bibbo, was created by Jerry Ordway.</lex>
       <lex comment="good" lid="Id3">Bo Bibbowski is often called Bibbo and was created by Jerry Ordway.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id51" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1008,7 +1008,7 @@
         <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dane Whitman, aka the Black Knight was created by John Buscema.</lex>
-      <lex comment="good" lid="Id2">The Black Knight (also known as Dane Whitman) was created in the comics genre by John Buscema.</lex>
+      <lex comment="good" lid="Id2">The Black Knight, ( also known as Dane Whitman ), was created in the comics genre by John Buscema.</lex>
       <lex comment="good" lid="Id3">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight, which was created by John Buscema.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id68" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1024,7 +1024,7 @@
         <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
         <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The comic book character Dane Whitman (otherwise known as the Black Knight) was created by both Roy Thomas and John Buscema.</lex>
+      <lex comment="good" lid="Id1">The comic book character Dane Whitman ( otherwise known as the Black Knight ), was created by both Roy Thomas and John Buscema.</lex>
       <lex comment="good" lid="Id2">Dane Whitman, from the Black Knight was created by John Buscema and Roy Thomas.</lex>
       <lex comment="good" lid="Id3">Dane Whitman, aka Black Night was created by John Buscema and Roy Thomas.</lex>
     </entry>

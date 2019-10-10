@@ -103,7 +103,7 @@
         <mtriple>Alfa_Romeo_164 | assembly | Milan</mtriple>
         <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alfa Romeo 164, which is assembled in Milan, is a related means of transportation to Saab 9000, in that they are both cars.</lex>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164, which is assembled in Milan, is a related means of transportation to Saab 9000 , in that they are both cars.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164, assembled in Milan, is a similar means of transport to the Saab 9000.</lex>
       <lex comment="good" lid="Id3">As they are both cars, the Saab 9000 and the Alfa Romeo 164 are related means of transport. The latter has an assembly line in Milan.</lex>
     </entry>
@@ -159,9 +159,9 @@
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
         <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has a straight-six engine and an impressive transmission, possessing a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a straight-six engine and an impressive transmission.</lex>
       <lex comment="good" lid="Id2">Alvis Speed 25 has a straight-six engine and has a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id3">Alvis Speed 25 has a straight-six engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">Alvis Speed 25 has a straight-six engine and it's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

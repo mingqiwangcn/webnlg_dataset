@@ -507,7 +507,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAstella has a top speed of 38.892.</lex>
       <lex comment="good" lid="Id2">The top speed of an AIDAstella is 38.892.</lex>
-      <lex comment="good" lid="Id3">The AIDAstella's top speed is 38.892 km/h.</lex>
+      <lex comment="good" lid="Id3">The AIDstella's top speed is 38.892 km/h.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id47" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -756,7 +756,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AMC Matador was assembled in Thames, New Zealand.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Thames, New Zealand.</lex>
-      <lex comment="good" lid="Id3">AMC Matador is assembled in Thames, New Zealand.</lex>
+      <lex comment="good" lid="Id3">AMC Matador is assembled in Thames,New Zealand.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1269,7 +1269,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Icebreaker, Aleksey Chirikov's ship beam is 21.2.</lex>
       <lex comment="good" lid="Id2">The icebreaker, Aleksey Chirikov has a ship beam of 21.2 m.</lex>
-      <lex comment="good" lid="Id3">The Aleksey Chirikov (icebreaker) has a 21.2 m long ship beam.</lex>
+      <lex comment="good" lid="Id3">The Aleksey Chirikov (icebreaker) has a 21.2 m long shipbeam.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1594,7 +1594,7 @@
       <modifiedtripleset>
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25's transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id148" shape="(X (X))" shape_type="NA" size="1">
@@ -2013,7 +2013,7 @@
         <mtriple>Ariane_5 | manufacturer | "ESA and Arianespace"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was made by ESA and Arianespace.</lex>
-      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arianespace.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was manufactured at the ESA and Arinanespace.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2801,7 +2801,7 @@
         <mtriple>Guiana_Space_Centre | location | Kourou,_French_Guiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre is located in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id2">The Guiana Space Centre is located in Kourou,French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id256" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2854,6 +2854,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Humphrys, Tennant and Dykes are located in London.</lex>
       <lex comment="good" lid="Id2">Humphrys, Tennant and Dykes is located in London.</lex>
+      <lex comment="good" lid="Id3">Humphrys,Tennant and Dykes is located in London.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3246,7 +3247,7 @@
       <modifiedtripleset>
         <mtriple>Yuzhnoye_Design_Office | location | Dnipropetrovsk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Yuzhnoye Design Office is located in Dnipropetrovsk.</lex>
+      <lex comment="good" lid="Id1">The Yuzhnoye Design Office is located in Dnipropetrosvsk.</lex>
       <lex comment="good" lid="Id2">The Yuzhnoye Design Office is in Dnipropetrovsk.</lex>
       <lex comment="good" lid="Id3">The Yuzhnoye Design Office is located in Dnipropetrovsk.</lex>
     </entry>

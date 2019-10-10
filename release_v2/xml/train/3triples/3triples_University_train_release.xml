@@ -43,7 +43,7 @@
         <mtriple>1_Decembrie_1918_University | latinName | "Universitas Apulensis"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The nickname of the 1 Decembrie 1918 University is Uab. The latin name is "Universitas Apulensis" and the rector is Breaz Valer Daniel.</lex>
-      <lex comment="good" lid="Id2">1 Decembrie 1918 University is known informally as Uab and the latin name is Universitas Apulensis. The rector is Breaz Valer Daniel.</lex>
+      <lex comment="good" lid="Id2">1 Decembrie 1918 University is known informally as Uab and the latin name is Universitas Apulensis. The recor is Breaz Valer Daniel.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -180,7 +180,7 @@
         <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Switzerland's legislature is the Federal Assembly.</lex>
-      <lex comment="good" lid="Id2">The Federal Assembly is the legislature of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
+      <lex comment="good" lid="Id2">The Federal Assembly is the legislature of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio,.</lex>
       <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is located in Medrisio, Switzerland which has a ferderal assembly.</lex>
     </entry>
     <entry category="University" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -239,7 +239,7 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Federal Chancellor of Switzerland is called Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
-      <lex comment="good" lid="Id2">Switzerland's leader is Federal Chancellor Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="good" lid="Id2">Switzerland's leader is Federal Chancellor Johann Schneider-Ammann . The country is the location of the Accademia di Architettura di Mendrisio,.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader Johann Schneider-Ammann is officially known as the Federal Chancellor.</lex>
     </entry>
     <entry category="University" eid="Id17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -299,7 +299,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio and its dean is Mario Botta. The neighbouring municipality of Mendrisio is Meride.</lex>
-      <lex comment="good" lid="Id2">The Dean of the Accademia di Architettura di Mendrisio is Mario Botta. It is located in the city of Mendrisio, a neighbouring municipality of Meride.</lex>
+      <lex comment="good" lid="Id2">The Dean of the Accademia di Architettura di Mendrisio is Mario Botta. It is located in the city of Mendrisio , a neighbouring municipality of Meride.</lex>
       <lex comment="good" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta. A neighbouring municipality to Mendrisio is Meride.</lex>
     </entry>
     <entry category="University" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -334,7 +334,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio. Its dean is called Mario Botta and it has 600 students.</lex>
-      <lex comment="good" lid="Id2">There are 600 students at the Accademia di Architettura di Mendrisio which has Mario Botta as Dean and is situated in the city of Mendrisio.</lex>
+      <lex comment="good" lid="Id2">There are 600 students at the Accademia di Architettura di Mendrisio which has Mario Botta as Dean and is situated in the city of Mendrisio,.</lex>
       <lex comment="good" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta and it has 600 students.</lex>
     </entry>
     <entry category="University" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -364,7 +364,7 @@
         <mtriple>Acharya_Institute_of_Technology | country | "India"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology has an academic staff of 500. It is located in India and its motto is "Nurturing Excellence".</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology in India has an academic staff of approximately 500. Its motto is "Nurturing Excellence".</lex>
+      <lex comment="toFix" lid="Id2">The Acharya Institute of Technology in India was an academic staff of ~500. Its motto is "Nurturing Excellence.".</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in India has a staff of about 500, the university's motto is "Nurturing Excellence".</lex>
     </entry>
     <entry category="University" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -423,7 +423,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It's affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University. Its campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University it's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
     </entry>
     <entry category="University" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -495,7 +495,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Karnataka, India and it was established in 2000.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology was established in the state of Karnataka, India, in 2000.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology was established in the state of Karnataka , India, in 2000.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology was established in 2000 in Karnataka, India.</lex>
     </entry>
     <entry category="University" eid="Id34" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -639,7 +639,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996. It is located in Mendrisio, which has Meride as its neighbouring municipality as Meride.</lex>
-      <lex comment="good" lid="Id2">The .Accademia di Architettura di Mendrisio was established in 1996 within the city of Mendrisio, a neighbouring municipality to Meride .</lex>
+      <lex comment="good" lid="Id2">The .Accademia di Architettura di Mendrisio was established in 1996 within the city of Mendrisio , a neighbouring municipality to Meride .</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio was established in 1996. It is situated in Mendrisio, which is near to Meride.</lex>
     </entry>
     <entry category="University" eid="Id44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

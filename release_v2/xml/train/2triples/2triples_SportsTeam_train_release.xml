@@ -11,7 +11,7 @@
         <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pete Stoger is manager of 1. FC Koln and plays for the Austria national football team.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and plays for the Austria national football team.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and plays for the Austria national football team.</lex>
       <lex comment="good" lid="Id3">Peter Stöger is manager of 1. FC Köln and plays for the Austria National Football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -25,7 +25,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is at the FK Austria Wien club and manages 1 FC Koln.</lex>
       <lex comment="good" lid="Id2">The manager of 1. FC Koln is Peter Stoger who plays for FK Austria Wien.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln as well as being a member of the FK Austria Wien soccer club.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin as well as being a member of the FK Austria Wien soccer club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -38,7 +38,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger is manager of 1. FC Köln and plays for LASK Linz.</lex>
       <lex comment="good" lid="Id2">The manager of 1. FC Koln is Peter Stoger, who plays for LASK Linz.</lex>
-      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Koln and played for the club LASK Linz.</lex>
+      <lex comment="good" lid="Id3">Peter Stoger is the manager of FC Kolin and played for the club LASK Linz.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -169,9 +169,9 @@
         <mtriple>A.C._Cesena | ground | Cesena</mtriple>
         <mtriple>A.C._Cesena | league | Serie_B</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesena ground is in Cesena, the team is in the Serie B league.</lex>
+      <lex comment="good" lid="Id1">A&gt;C Cesena ground is in Cesena, the team is in the Serie B league.</lex>
       <lex comment="good" lid="Id2">A.C. Cesena, in the Serie B league, ground is in Cesena.</lex>
-      <lex comment="good" lid="Id3">AC Cesena play in Serie B and their ground is in Cesena.</lex>
+      <lex comment="good" lid="Id3">AC Cesana play in Serie B and their ground is in Cesena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -197,7 +197,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Cesena, whose ground is located in Italy, are in the Serie B league.</lex>
       <lex comment="good" lid="Id2">A.C. Cesena's ground is located in Italy and they are in the Serie B league.</lex>
-      <lex comment="good" lid="Id3">A. C. Cesena, whose ground is located in Italy, plays in Serie B.</lex>
+      <lex comment="good" lid="Id3">A. C. Cesana, whose ground is located in Italy, plays in Serie B.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -237,7 +237,7 @@
         <mtriple>A.C._Cesena | league | Serie_B</mtriple>
         <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.C. Cesena's ground is the Stadio Dino Manuzzi and they play in Serie B.</lex>
+      <lex comment="good" lid="Id1">A.C. Cesana's ground is the Stadio Dino Manuzzi and they play in Serie B.</lex>
       <lex comment="good" lid="Id2">AC Cesena, who are in the Serie B league, have their grounds at the Stadio Dino Manuzzi.</lex>
       <lex comment="good" lid="Id3">A.C. Cesena's ground is Stadio Dino Manuzzi, he played in Serie B.</lex>
     </entry>
@@ -402,7 +402,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio Chievo Verona is managed by Rolando Maran, who is in the Unione Triestina 2012 S.S.D. club.</lex>
       <lex comment="good" lid="Id2">The manager of A.C. Chievo Verona is Rolando Maran, who played for Unione Triestina 2012 S.S.D.</lex>
-      <lex comment="good" lid="Id3">Associazione Calcio Chievo Verona is managed by Rolando Maran who plays for Unione Triestina 2012 SSD.</lex>
+      <lex comment="good" lid="Id3">Associazione Calcio ChievoVerona is managed by Rolando Maran who plays for Unione Triestina 2012 SSD.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -444,7 +444,7 @@
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Associazione Calcio Lumezzane SpA (abbreviated to A.C. Lumezzane) has 4150 members.</lex>
-      <lex comment="good" lid="Id2">The full name of A.C. Lumezzane, which has 4150 members, is Associazione Calcio Lumezzane SpA.</lex>
+      <lex comment="good" lid="Id2">The fullname of A.C. Lumezzane, which has 4150 members, is Associazione Calcio Lumezzane SpA.</lex>
       <lex comment="good" lid="Id3">The "Associazione Calcio Lumezzane SpA" is the complete name of the A.C. Lumezzane. It has 4150 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -476,7 +476,7 @@
         <mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Michele Marcolini's club is A.C. Chievo Verona and he manages the A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id1">Michele Marcolini's club is A.C&gt; Chievo Verona and he manages the A.C. Lumezzane.</lex>
       <lex comment="good" lid="Id2">A.C Chievo Verona, is the club of Michele Marcolini, who has been the manager of AC Lumezzane.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini, manager of AC Lumezzane, plays for A.C. Chievo Verona.</lex>
     </entry>
@@ -636,7 +636,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.D. Isidro Metapán's ground is in Metapán and the club has 10000 members.</lex>
       <lex comment="good" lid="Id2">10000 members to date, AD Isidro Metapan's ground is in Metapan.</lex>
-      <lex comment="good" lid="Id3">A.D. Isidro Metapán is playing in its ground at Metapán and has 10000 members.</lex>
+      <lex comment="good" lid="Id3">A.D. Isidro Metapán is playing in it's ground at Metapán and has 10000 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id45" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -649,7 +649,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.D. Isidro Metapan play in the Salvadoran Primera Division at its ground at Metapan.</lex>
       <lex comment="good" lid="Id2">A.D. Isidro Metapan play in the Salvadoran Primera Division and their ground is in Metapán.</lex>
-      <lex comment="good" lid="Id3">A.D. Isidro Metapán is in the Salvadoran Primera División league, he is playing in its ground at Metapán.</lex>
+      <lex comment="good" lid="Id3">A.D. Isidro Metapán is in the Salvadoran Primera División league, he is playing in it's ground at Metapán.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id46" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -919,7 +919,7 @@
         <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Start Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C.</lex>
+      <lex comment="good" lid="Id1">Start Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C..</lex>
       <lex comment="good" lid="Id2">Stuart Parker, who once managed AFC Blackpool, plays for Blackpool F.C.</lex>
       <lex comment="good" lid="Id3">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Blackpool F.C.</lex>
     </entry>
@@ -1200,7 +1200,7 @@
         <mtriple>A.S._Gubbio_1910 | season | 2014–15_Lega_Pro</mtriple>
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.S. Gubbio 1910 has 5300 members and was a part of the 2014–15 Lega Pro season.</lex>
+      <lex comment="good" lid="Id1">A.S. Gubbio 1910 has 5300 menbers and was a part of the 2014–15 Lega Pro season.</lex>
       <lex comment="good" lid="Id2">A.S. Gubbio 1910 hs 5300 members and were in the Lega Pro in the 2014-15 season.</lex>
       <lex comment="good" lid="Id3">A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season, it has 5300 members.</lex>
     </entry>
@@ -1261,7 +1261,7 @@
         <mtriple>A.S._Livorno_Calcio | league | Serie_B</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Livorno club plays in Serie B and their home ground is the Stadio Armando Picchi.</lex>
-      <lex comment="good" lid="Id2">A S Livorno Calcio's home ground is the Stadio Armando Picchi, and the league they play in is Serie B.</lex>
+      <lex comment="good" lid="Id2">A S Livorno Calcio's home ground is the Stadio Armando Picchi, and the legue they play in is Serie B.</lex>
       <lex comment="good" lid="Id3">A.S. Livorno Calcio has the ground Stadio Armando Picchi and play in Serie B.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1592,7 +1592,7 @@
         <mtriple>Frank_de_Boer | club | Al-Shamal_Sports_Club</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of AFC Ajax is Frank de Boer, who played for Al-Shamal Sports Club.</lex>
-      <lex comment="good" lid="Id2">Frank de Boer, played for Al-Shamal Sports Club and is the manager of AFC Ajax.</lex>
+      <lex comment="good" lid="Id2">Frank de Boer, played for Al-Shamal Sports Club and is the managerof AFC Ajax.</lex>
       <lex comment="good" lid="Id3">Frank de Boer manages the AFC Ajax team and plays for Al-Shamal Sports Club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id111" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1711,7 +1711,7 @@
         <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, which is owned by AFC Ajax N.V.</lex>
-      <lex comment="good" lid="Id2">AFC Ajax (amateurs) ground is Sportpark De Toekomst which is owned by AFC Ajax N.V.</lex>
+      <lex comment="good" lid="Id2">AFC Ajax (amateurs) ground is Sportpark De Toekomst which is owned by AFC Ajax N.V..</lex>
       <lex comment="good" lid="Id3">Sportpark De Toekomst belongs to amateur AFC Ajax.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id119" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1941,7 +1941,7 @@
         <mtriple>AZ_Alkmaar | manager | John_van_den_Brom</mtriple>
         <mtriple>John_van_den_Brom | club | Vitesse_Arnhem</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">John van den Brom, who managed AZ Alkmaar, plays for Vitesse Arnhem.</lex>
+      <lex comment="good" lid="Id1">John van den Brom , who managed AZ Alkmaar, plays for Vitesse Arnhem.</lex>
       <lex comment="good" lid="Id2">John van den Brom, who plays for Vitesse Arnhem, is the manager of AZ Alkmaar.</lex>
       <lex comment="good" lid="Id3">John van den Brom, manager of AZ Alkmaar, is in Vitesse Arnhem.</lex>
     </entry>
@@ -2170,7 +2170,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron Summit Assault's ground is St. Vincent-St. Mary High School in the United States.</lex>
       <lex comment="good" lid="Id2">St Vincent-St Mary High School is the ground of Akron Summit Assault and is located in United States.</lex>
-      <lex comment="good" lid="Id3">St. Vincent-St. Mary High School in the United States is the ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id3">St. Vincent-St.Mary High School in the United States is the ground of Akron Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id151" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2385,8 +2385,8 @@
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger's club is the FC Admira Wacker Mödling and he is the manager of 1. FC Koln.</lex>
-      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and his club is FC Admira Wacker Modling.</lex>
-      <lex comment="good" lid="Id3">The manager of 1.FC Koln is Peter Stoger, whose club is FC Admira Wacker Modling.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Kolin and his club is FC Admira Wacker Modling.</lex>
+      <lex comment="good" lid="Id3">The manager of 1.FC Koln is Peter Stoger, who's club is FC Admira Wacker Modling.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id167" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

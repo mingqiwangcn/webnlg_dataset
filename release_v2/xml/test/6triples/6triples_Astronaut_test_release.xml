@@ -41,7 +41,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and died in California. He was a crew member of Apollo 14 which is operated by NASA. He was awarded the Distinguished Service Medal in the US Navy, which is higher than the Dept of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and died in California. He was a crew member of the Apollo 14, which was operated by NASA. The United States Navy awarded the Distinguished Service Medal to Alan Shepard, which ranks higher than Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, died in California and was a crew member of Apollo 14 operated by NASA, was awarded the United States Navy Distinguished Service Medal. The Distinguished Service Medal is higher than the Department Of Commerce Gold Medal.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, died in California and was a crewmember of Apollo 14 operated by NASA, was awarded the United States Navy Distinguished Service Medal. The Distinguished Service Medal is higher than the Department Of Commerce Gold Medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -141,7 +141,7 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born on January 20, 1930 in Glen Ridge, New Jersey. He graduated from MIT with a Sc. D in 1963, in the same year when he was selected by NASA. Buzz was a member of the Apollo 11 crew as a fighter pilot.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born on January 20, 1930 in Glen Ridge, New Jersey.He graduated from MIT with a Sc. D in 1963, in the same year when he was selected by NASA.Buzz was a member of the Apollo 11 crew as a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id8" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -180,8 +180,8 @@
         <mtriple>William_Anders | was a crew member of | Apollo_8</mtriple>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders is a US citizen, who was born in British Hong Kong and graduated from AFIT, M.S. in 1962. He is a retired fighter pilot, retiring on 1.09.1969. He was a crew member on Apollo 8.</lex>
-      <lex comment="good" lid="Id2">American William Anders was born in in British Hong Kong, was a fighter pilot, graduated from AFIT, M.S. in 1962, was a member of Apollo 8's crew and retired on 1st September 1969.</lex>
+      <lex comment="good" lid="Id1">William Anders is a US citizen, who was born in British Hong Kong and graduated from AFIT, M.S. in 1962. He is a retired test pilot, retiring on 1.09.1969. He was a crew member on Apollo 8.</lex>
+      <lex comment="good" lid="Id2">American William Anders was born in in British Hong Kong, was a test pilot, graduated from AFIT, M.S. in 1962, was a member of Apollo 8's crew and retired on 1st September 1969.</lex>
       <lex comment="good" lid="Id3">William Anders is an American fighter pilot who was born in British Hong Kong. He graduated, with an M.S., from AFIT in 1962. He served as a crew member on Apollo 8. He retired on 1969-09-01.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">

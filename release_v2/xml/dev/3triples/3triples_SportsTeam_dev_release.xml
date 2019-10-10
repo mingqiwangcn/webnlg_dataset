@@ -72,8 +72,8 @@
         <mtriple>A.D._Isidro_Metapán | fullname | "Isidro Metapán"</mtriple>
         <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.D. Isidro Metapán are based at the Estadio Jorge Calero Suárez ground. Its full name is Isidro Metapan and it has 10000 members.</lex>
-      <lex comment="good" lid="Id2">A.D. Isidro Metapan (full name, Isidro Metapan) has 10000 members and play their home games at the Estadio Jorge Calero Suarez stadium.</lex>
+      <lex comment="toFix" lid="Id1">A.D. Isidro Metapán are at Estadio Jorge Calero Suárez whose full name is Isidro Metapan and has 10000 members.</lex>
+      <lex comment="good" lid="Id2">A.D. Isidro Metapan, (full name, Isidro Metapan), has 10000 members and play their home games at the Estadio Jorge Caler0 Suarez stadium.</lex>
       <lex comment="good" lid="Id3">Isidro Metapan (A.D. Isidro Metapan) has 10000 members and are at Estadio Jorge Calero Suarez.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -226,7 +226,7 @@
         <mtriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</mtriple>
         <mtriple>AFC_Ajax_(amateurs) | season | 2014</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax (amateurs) has 5000 members; they play in the Hoofdklasse league and competed in the 2014 season.</lex>
+      <lex comment="toFix" lid="Id1">AFC Ajax (amateurs) has 5000 members play in the Hoofdklasse league and competed in the 2014 season.</lex>
       <lex comment="good" lid="Id2">AFC Ajax (Amateurs) competed in the 2014 season, they play in the Hoofdklasse league and the main team have 5000 members.</lex>
       <lex comment="good" lid="Id3">AFC Ajax, who played in the 2014 season, have 5000 members and play in the Hoofdklasse league.</lex>
     </entry>
@@ -241,7 +241,7 @@
         <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena, and are in the Azerbaijan Premier League, whose championships name is the Qarabag FK.</lex>
+      <lex comment="good" lid="Id1">AZAL PFK play their home matches at the AZAL Arena, and are in the Azerbaijan Premier League, who's championships name is the Qarabag FK.</lex>
       <lex comment="good" lid="Id2">AZAL Arena is the ground of AZAL PFK and competes in The Azerbaijan Premier League, which champions are Qarabag FK.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -366,7 +366,7 @@
         <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground for AEK Athens FC is the Olympic Stadium (Athens) in Athens whose mayor is Giorgos Kaminis.</lex>
-      <lex comment="good" lid="Id2">Home ground of AEK Athens FC, the Olympic Stadium is located in Athens, whose mayor is Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id2">Home ground of AEK Athens FC, the Olympic Stadium is located in Athens, who's mayor is Giorgos Kaminis.</lex>
       <lex comment="good" lid="Id3">The Olympic Stadium in Athens is the home ground of AEK Athens FC. The mayor of Athens is Giorgos Kaminis.</lex>
     </entry>
     </entries>

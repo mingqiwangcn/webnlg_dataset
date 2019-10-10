@@ -8,7 +8,7 @@
       <modifiedtripleset>
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Peter Stoger is the manager of FC Koln.</lex>
+      <lex comment="good" lid="Id1">Peter Stoger is the manager of FC Kolin.</lex>
       <lex comment="good" lid="Id2">Peter Stöger is manager of 1. FC Köln.</lex>
       <lex comment="good" lid="Id3">The manager of 1. FC Koln is Peter Stoger.</lex>
     </entry>
@@ -40,7 +40,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.D. Isidro Metapan's full name is "Asociación Deportiva".</lex>
       <lex comment="good" lid="Id2">A.D. Isidro Metapán's full name is Asociación Deportiva.</lex>
-      <lex comment="good" lid="Id3">The full name of A.D. Isidro Metapan is Asociacion Deportiva.</lex>
+      <lex comment="good" lid="Id3">The fullname of A.D. Isidro Metapan is Asociacion Deportiva.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -51,7 +51,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis's full name is A.E Dimitra Efxeinoupolis.</lex>
       <lex comment="good" lid="Id2">"A.E Dimitra Efxeinoupolis" is the full name of A.E Dimitra Efxeinoupolis.</lex>
-      <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis has the full name A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis has the fullname A.E Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -140,7 +140,7 @@
       <modifiedtripleset>
         <mtriple>AFC_Ajax_(amateurs) | nickname | "Joden , Godenzonen"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AFC Ajax (amateurs) have the nickname "Joden, Godenzonen".</lex>
+      <lex comment="good" lid="Id1">AFC Ajax (amateurs) have the nickname "Joden , Godenzonen".</lex>
       <lex comment="good" lid="Id2">The AFC Ajax team's nickname is Joden, Godenzonen.</lex>
       <lex comment="good" lid="Id3">AFC Ajax (amateurs) nickname is Joden, Godenzonen.</lex>
     </entry>

@@ -42,7 +42,7 @@
         <mtriple>Tirstrup | country | Denmark</mtriple>
         <mtriple>Denmark | language | German_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Tirstrup is located in Denmark, where people speak German. Aarhus Airport serves Tirstrup.</lex>
+      <lex comment="good" lid="Id1">Tirstrup is located in Denamrk, where people speak German. Aarhus Airport serves Tirstrup.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport is located in Tirstrup, Denmark where the German language is spoken.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in Tirstrup, Denmark. German is the language spoken in that country.</lex>
     </entry>
@@ -98,7 +98,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is located in Tirstrup, in Denmark, where the leader is Margrethe II of Denmark.</lex>
       <lex comment="good" lid="Id2">Tirstrup is located in Denmark, where Margrethe II is leader. The Aarhus airport is located here.</lex>
-      <lex comment="good" lid="Id3">Aarhus Airport is in Tirstrup which is in Denmark, whose Queen id Margrethe II.</lex>
+      <lex comment="good" lid="Id3">Aarhus Aiport is in Tirstruo which is in Denmark, whose Queen id Margrethe II.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -131,7 +131,7 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
         <mtriple>Tirstrup | isPartOf | Denmark</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport is in Tirstrup, Denmark which is part of the Central Denmark Region.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport is in Tirstrup,Denmark which is part of the Central Denmark Region.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport is located in Tirstrup which is part of the Central Denmark region.</lex>
       <lex comment="good" lid="Id3">The location of Aarhus Airport is in Tirstrup which is in the central Denmark region of Denmark.</lex>
     </entry>
@@ -210,7 +210,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport has a runway length of 2777.0 metres and is operated by Aarhus Lufthavn A/S. The name of the runway is 10L/28R.</lex>
       <lex comment="good" lid="Id2">Aarhus airport is operated by Aarhus Lufthaven A/S. Its runway name is 10L/28R and its length is 2777 metres.</lex>
-      <lex comment="good" lid="Id3">The Aarhus Airport is run by the Aarhus Lufthavn A/S organization. The runway (whose name is 10L/28R) is 2777 feet in length.</lex>
+      <lex comment="good" lid="Id3">The Aarhus Airport is run by the Aarhus Lufthavn A/S organization. The runway(whose name is 10L/28R) is 2777 feet in length.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -416,7 +416,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Madrid | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">At an elevation of 610 metres above seal level, Adolfo Suarez Madrid-Barajas Airport is located in Madrid, in Spain.</lex>
+      <lex comment="good" lid="Id1">At an elevation of 610 metres above seal level, Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, in Spain.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is in Madrid, Spain and it is elevated 610 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport located in Madrid, Spain is elevated 610 meters above sea level.</lex>
     </entry>
@@ -559,7 +559,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The runway length at Adolfo Suarez Madrid-Barajas airport in Madrid is 3500m and named 14L/32R.</lex>
+      <lex comment="good" lid="Id1">The runway length at Adolfo Suarez Madrid-Barajas airport iin Madrid is 3500m and named 14L/32R.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is located in Madrid and its runway called 14L/32R and is 3500 metres long.</lex>
       </entry>
     <entry category="Airport" eid="Id33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -658,7 +658,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International Airport serves Curitiba, which is part of the State of Parana and led by the Democratic Labour Party of Brazil.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International airport serves the city of Curitiba which is part of Parana State and led by the Democratic Labour Party of Brazil.</lex>
-      <lex comment="good" lid="Id3">Afonso Pena International Airport serves the city of Curitiba, Parana state, where the local leader party is the Democratic Labour Party (Brazil).</lex>
+      <lex comment="good" lid="Id3">Afonso Pena International Airport serves the city of Curitiba,Parana state,where the local leader party is the Democratic Labour Party(Brazil).</lex>
     </entry>
     <entry category="Airport" eid="Id38" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -681,7 +681,7 @@
         <mtriple>Curitiba | leaderName | Democratic_Labour_Party_(Brazil)</mtriple>
         <mtriple>Curitiba | isPartOf | South_Region,_Brazil</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Curitiba is part of the South Region, Brazil, is led by the Democratic Labour Party (Brazil) and is served by Afonso Pena International airport.</lex>
+      <lex comment="good" lid="Id1">Curitiba is part of the South Region, Brazil, is led by the Democratic Labour Party (Brazil) and is served by Afonso Pena International airport,.</lex>
     </entry>
     <entry category="Airport" eid="Id39" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -724,7 +724,7 @@
         <mtriple>Afonso_Pena_International_Airport | runwayName | "11/29"</mtriple>
         <mtriple>Afonso_Pena_International_Airport | runwayLength | 1800.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Located at Sao Jose dos Pinhais, Afonso Pena International Airport has the runway name 11/29, and a runway length of 1800.0 metres.</lex>
+      <lex comment="good" lid="Id1">Located at Sao Jose dos Pinhais, Afonso Pena International Airport has the runway name 11/29, and a runwiay length of 1800.0 metres.</lex>
       <lex comment="good" lid="Id2">São José dos Pinhais is where Afonso Pena International Airport is located, This airport has a runway named 11/29, as well as a runway that is 1800 meters long.</lex>
       <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais and has a runway length of 1800.0 with the name 11/29.</lex>
     </entry>
@@ -833,7 +833,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra Airport with an elevation of 167.94 meters above sea level is in Uttar Pradesh which is part of Bundelkhand.</lex>
       <lex comment="good" lid="Id2">With an elevation of 167.94 metres above sea level, Agra Airport is located in Uttar Pradesh which is part of Bundelkhand.</lex>
-      <lex comment="good" lid="Id3">Uttar Pradesh is part of Bundelkhand and is the location of Agra airport at 167.94 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">Uttar Pradesh is part of Bundelkhand and is the location of Agra airport at 167.94 metres above sea level,.</lex>
     </entry>
     <entry category="Airport" eid="Id46" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1134,7 +1134,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. An aircraft there is the General Dynamics F-16 Fighting Falcon. The United States Air Force fought in the United States bombing of Libya in 1986.</lex>
-      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter. The 1986 United States bombing of Lybia was carried out by the US Air Force.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter.The 1986 United States bombing of Lybia was carried out by the US Air Force.</lex>
     </entry>
     <entry category="Airport" eid="Id61" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1191,7 +1191,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which uses an aircraft fighter called the McDonnell Douglas F-15 Eagle and which was involved in Operation Enduring Freedom.</lex>
-      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase, and using McDonnell Douglas F-15 Eagle aircraft fighters, and fought the battles during "The Operation Enduring Freedom".</lex>
+      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase,and using McDonnell Douglas F-15 Eagle aircraft fighters,and fought the battles during "The Operation Enduring Freedom".</lex>
     </entry>
     <entry category="Airport" eid="Id65" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1204,7 +1204,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircraft fighter called McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircarft fighter called McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id2">The USAF, the operating organization for Al Asad airbase, was involved in the Invasion of Panama and has the aircraft fighter McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id3">The United States Air Force operates Al Asad airbase. They were involved in the US invasion of Panama and deploy the McDonnel Douglas F15 Eagle fighter aircraft.</lex>
     </entry>
@@ -1219,8 +1219,8 @@
         <mtriple>United_States_Air_Force | battles | Invasion_of_Grenada</mtriple>
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. They were involved in the Invasion of Grenada and deploy the aircraft fighter known as the General Dynamics F16 Fighting Falcon.</lex>
-      <lex comment="good" lid="Id2">The USAF, veterans of the invasion of Grenada, operates Al Asad Airbase and possesses an aircraft fighter called General Dynamics F16 Fighting Falcon.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. They were involved in the Invasion of Grenada and deploy the aircraft fighter known as The General Dynamics F16 Fighting Falcon.</lex>
+      <lex comment="good" lid="Id2">The USAF, veterans of the invasion of Grenada with F16 fighting flacons operates Al Asad Airbase.</lex>
     </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1494,7 +1494,7 @@
         <mtriple>Allama_Iqbal_International_Airport | runwayLength | 2900.0</mtriple>
         <mtriple>Allama_Iqbal_International_Airport | runwayName | "18L/36R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Located in Pakistan, Allama Iqbal International Airport has a runway length of 2900 metres and a runway name, 18L/36R.</lex>
+      <lex comment="good" lid="Id1">Located in Pakistan, Allama Iqbal International Airport has a runway length of 2900 metres and a runway name,18L/36R.</lex>
       <lex comment="good" lid="Id2">Located in Pakistan, Allama Iqbal International airport, has a runway that is called 18L/36R and is 2900.0 metres long.</lex>
       <lex comment="good" lid="Id3">The Allama Iqbal International Airport is located in Pakistan and has a runway name of "18L/36R" and a length of 2900.0.</lex>
     </entry>
@@ -1637,7 +1637,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway length of Alpena County Regional Airport is 1,533 and it is located at Maple Ridge Township, Alpena County, Michigan, United States.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport has a runway length of 1,533 and is found in Maple Ridge Township, Alpena County, Michigan in the U.S.A.</lex>
-      <lex comment="good" lid="Id3">The location of Alpena County Regional Airport is Maple Ridge Township, Alpena County, Michigan, United States and it has a 1533 meters runway.</lex>
+      <lex comment="good" lid="Id3">The location of Alpena County Regional Airport is Maple Ridge Township, Alpena County, Michigan,United States and it has a 1533 meters runway.</lex>
     </entry>
     <entry category="Airport" eid="Id91" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1958,7 +1958,7 @@
         <mtriple>Texas | language | English_language</mtriple>
         <mtriple>Texas | demonym | Tejano</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County airport is located in Texas (which speaks English) but uses Tejano as their demonym.</lex>
+      <lex comment="good" lid="Id1">Andrews County airport is located in Texas( which speaks English )but uses Tejano as their demonym.</lex>
       </entry>
     <entry category="Airport" eid="Id109" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2123,7 +2123,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola International Airport is located in Icolo e Bengo, Angolo, Luanda Province.</lex>
       <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, Luanda province, Angola.</lex>
-      <lex comment="good" lid="Id3">Angola International airport is located in Icolo e Bengo, Luanda Province in Angola.</lex>
+      <lex comment="good" lid="Id3">Angola International airport is located in Icolo e Bengo,Luanda Province in Angola.</lex>
     </entry>
     <entry category="Airport" eid="Id117" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2232,7 +2232,7 @@
         <mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
         <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antwerp International Airport, Antwerp is operated by the Flemish Government and is 12.0 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">The Antwerp International Airport, Antwerp is operated by the Flemish Government and is 12.0 meteres above sea level.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish government and serves Antwerp city. It is 12 m above sea level.</lex>
       <lex comment="good" lid="Id3">Antwerp international airport, serving Antwerp, with an elevation of 12 meters is operated by the Flemish government.</lex>
     </entry>
@@ -2288,7 +2288,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Flemish Department of Mobility and Public Works operates the Antwerp International Airport, which is 12m a.s.l. and is run by the Flemish Region.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish department of mobility and public works and owned by the Flemish Region. It is 12.0 metres above sea level.</lex>
-      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region, operated by the Flemish department of Mobility and public works, and has an elevation of 12 meters.</lex>
+      <lex comment="good" lid="Id3">Antwerp International Airport is owned by the Flemish Region, operated by the Flemish department of Mobility and public works, and has an elevelation of 12 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id127" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2366,7 +2366,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International airport, which is located in Greenville, Wisconsin is located at 280 metres above sea level and a runway length of 1982.</lex>
-      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin, 280 metres above sea level and its runway is 1.982 km long.</lex>
+      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin,280 metres above sealevel and its runway is 1.982 km long.</lex>
     </entry>
     <entry category="Airport" eid="Id130" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2501,7 +2501,7 @@
         <mtriple>Ardmore_Airport_(New_Zealand) | elevationAboveTheSeaLevel_(in_metres) | 34.0</mtriple>
         <mtriple>Ardmore_Airport_(New_Zealand) | runwayLength | 518.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 3rd runway at Ardmore Airport in New Zealand (which is 34 meters above sea level) is made of Poaceae and has a length of 518.0.</lex>
+      <lex comment="good" lid="Id1">The 3rd runway at Ardmore Airport in New Zealand (which is 34 meters above sea level ) is made of Poaceae and has a length of 518.0.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) is 34 metres above sea level, a runway length of 518, and a 3rd runway surfaced with poaceae.</lex>
       <lex comment="good" lid="Id3">The 3rd runway at Ardmore Airport (New Zealand) is made of Poaceae. It is 34 m above sea level and its length is 518 feet.</lex>
     </entry>
@@ -3111,7 +3111,7 @@
         <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township (a township in Atlantic County), New Jersey, United States.</lex>
+      <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township (a township in Atlantic County) , New Jersey, United States.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township which is in New Jersey.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, Atlantic County, New Jersey.</lex>
     </entry>
@@ -3128,7 +3128,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra Airport is operated by the Indian Air Force which uses HAL Light Combat Helicopter (aircraft helicopter) and the Boeing C-17 Globemaster III (a transport aircraft).</lex>
       <lex comment="good" lid="Id2">The operating organization for Agra Airport is the Indian Air Force who deploy the HAL Light Combat Helicopter and the Boeing C17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Beoing C-17 Globemaster III.</lex>
+      <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Beoing C-17 globemaster III.</lex>
     </entry>
     <entry category="Airport" eid="Id167" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3148,7 +3148,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International airport is located 911 metres above sea level and operated by Infraero located in Brasilia.</lex>
       <lex comment="good" lid="Id2">At 911.0 metres above sea level, Afonso Pena International Airport is operated by Infraero which is in Brasilia.</lex>
-      <lex comment="good" lid="Id3">Infraero, in Brasilia, is served by Afonso Pena Airport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
+      <lex comment="good" lid="Id3">Infraero, in Brasilia, is served by Afonso Pena Aiport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
     </entry>
     <entry category="Airport" eid="Id168" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -3444,9 +3444,9 @@
         <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes which is led by the Peoples Party and is part of the community of Madrid.</lex>
+      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is located n San Sebastián de los Reyes which is led by the Peoples Party and is part of the community of Madrid.</lex>
       <lex comment="good" lid="Id2">The People's Party is the lead party of San Sebastian de los Reyes, Spain which is part of the Community of Madrid. The Adolfo Suárez Madrid–Barajas Airport is found there.</lex>
-      <lex comment="good" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes, Madrid, where the People's Party is the leading political organization.</lex>
+      <lex comment="good" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes,Madrid,where the People's Party is the leading political organization.</lex>
     </entry>
     <entry category="Airport" eid="Id183" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
