@@ -98,7 +98,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is located in Tirstrup, in Denmark, where the leader is Margrethe II of Denmark.</lex>
       <lex comment="good" lid="Id2">Tirstrup is located in Denmark, where Margrethe II is leader. The Aarhus airport is located here.</lex>
-      <lex comment="good" lid="Id3">Aarhus Aiport is in Tirstrup which is in Denmark, whose Queen id Margrethe II.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is in Tirstrup which is in Denmark, whose Queen id Margrethe II.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -416,7 +416,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Madrid | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">At an elevation of 610 metres above seal level, Adolfo Suarez Madrid-Barajas Aiport is located in Madrid, in Spain.</lex>
+      <lex comment="good" lid="Id1">At an elevation of 610 metres above seal level, Adolfo Suarez Madrid-Barajas Airport is located in Madrid, in Spain.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is in Madrid, Spain and it is elevated 610 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport located in Madrid, Spain is elevated 610 meters above sea level.</lex>
     </entry>
@@ -3148,7 +3148,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International airport is located 911 metres above sea level and operated by Infraero located in Brasilia.</lex>
       <lex comment="good" lid="Id2">At 911.0 metres above sea level, Afonso Pena International Airport is operated by Infraero which is in Brasilia.</lex>
-      <lex comment="good" lid="Id3">Infraero, in Brasilia, is served by Afonso Pena Aiport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
+      <lex comment="good" lid="Id3">Infraero, in Brasilia, is served by Afonso Pena Airport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
     </entry>
     <entry category="Airport" eid="Id168" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
