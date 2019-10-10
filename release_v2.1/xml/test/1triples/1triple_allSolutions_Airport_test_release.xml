@@ -145,7 +145,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport is 973 metres above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="Andrews County Airport">Andrews airport's is 973.0 above sea level.</lex>
+      <lex comment="good" lid="Id2" error_1="Andrews County Airport">Andrews County airport is 973.0 above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

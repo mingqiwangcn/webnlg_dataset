@@ -230,7 +230,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capitol city is Washington.</lex>
+      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

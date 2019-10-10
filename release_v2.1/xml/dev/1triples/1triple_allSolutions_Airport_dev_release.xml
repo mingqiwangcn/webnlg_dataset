@@ -62,7 +62,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.</lex>
       <lex comment="good" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.</lex>
-      <lex comment="good" lid="Id3" error_1="Adolfo Suarez Madrid-Barajas Airport">14L/32R is the runway name of Adofo Suárez Madrid-Barajas Airport.</lex>
+      <lex comment="good" lid="Id3" error_1="Adolfo Suarez Madrid-Barajas Airport">14L/32R is the runway name of Adolfo Suárez Madrid-Barajas Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -162,7 +162,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amsterdam Airport Schiphol serves the city of Amsterdam.</lex>
       <lex comment="good" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam.</lex>
-      <lex comment="good" lid="Id3" error_1="Amsterdam Airport Schiphol">Amsterdam Airport Schuphol serves Amsterdam.</lex>
+      <lex comment="good" lid="Id3" error_1="Amsterdam Airport Schiphol">Amsterdam Airport Schiphol serves Amsterdam.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

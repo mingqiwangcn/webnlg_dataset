@@ -264,7 +264,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus airport, which serves Aarhus in Denmark, is located 25 metres above sea level and is operated by the Aktieselkab organisation. The runway name at Aarhus Airport is "10R/28L" and is 2776.0 long.</lex>
+      <lex comment="good" lid="Id1">Aarhus airport, which serves Aarhus in Denmark, is located 25 metres above sea level and is operated by the Aktieselskab organisation. The runway name at Aarhus Airport is "10R/28L" and is 2776.0 long.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport, which serves the city of Aarhus in Denmark, has a runway length of 2,776 and is named 10R/28L. Aktieselskab operates the airport which is 25 metres above sea level.</lex>
       <lex comment="good" lid="Id3">The Aarhus Airport is located in Aarhus, Denmark and is operated by Aktielskab. It is situated 25.0 meters above sea level. The airport has a runway called 10R/28L which is 2776.0 meters long.</lex>
     </entry>
@@ -398,7 +398,7 @@
         <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene, part of Taylor County, Texas is part of Texas and is served by Abilene regional airport. The airport has a runway length of 1121.0.</lex>
+      <lex comment="good" lid="Id1">Abilene, part of Taylor County, Texas, US is part of Texas and is served by Abilene regional airport. The airport has a runway length of 1121.0.</lex>
       <lex comment="good" lid="Id2">With a runway length of 1121.0, Abilene regional airport serves Abilene part of Taylor County, Texas, in the United States.</lex>
       <lex comment="good" lid="Id3">Abilene, Taylor County, Texas, United States is served by the Abilene regional airport. The runway length of the airport is 1,121.</lex>
     </entry>
@@ -2654,8 +2654,8 @@
         <mtriple>Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Texas, in the United States, is the location of Andrews County Airport. The demonym for the inhabitants of Texas is Tejano, the largest city is Houston and the capital is Austin.</lex>
-      <lex comment="good" lid="Id2">The capitol of Texas (United States) is Austin but the largest city is Houston. The Andrews County Airport is also in Texas. The people who live there have the demonym of Tejano.</lex>
-      <lex comment="good" lid="Id3">Texas maintains the capital as Austin and is the home of Houston (the largest city in TX.) and the Andrews County Airport. Tejanos are people of Texas.</lex>
+      <lex comment="good" lid="Id2">The capital of Texas (United States) is Austin but the largest city is Houston. The Andrews County Airport is also in Texas. The people who live there have the demonym of Tejano.</lex>
+      <lex comment="good" lid="Id3">Texas, US, maintains the capital as Austin and is the home of Houston (the largest city in TX.) and the Andrews County Airport. Tejanos are people of Texas.</lex>
     </entry>
     <entry category="Airport" eid="Id117" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3089,7 +3089,7 @@
         <mtriple>Greenville,_Wisconsin | country | United_States</mtriple>
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Appleton International Airport, which serves the city of Appleton, is found in Greenville, Wisconsin. Greenville is part of Ellington in the state while Appleton is part of Little Chute, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport, which serves the city of Appleton, is found in Greenville, Wisconsin, U.S.A. Greenville is part of Ellington in the state while Appleton is part of Little Chute, Wisconsin.</lex>
       <lex comment="good" lid="Id2">Appleton international Airport is located in Greenville, Wisconsin, United States and serves the city of Appleton. Greenville is part of Ellington, Wisconsin. Little Chute is part of Appleton, Wisconsin.</lex>
       <lex comment="good" lid="Id3">Appleton International Airport, serving the city of Appleton, can be found in Greenville, Wisconsin, USA. Little Chute, Wisconsin is part of Appleton and Greenville is part of Ellington, Wisconsin.</lex>
     </entry>
@@ -4088,7 +4088,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Atlantic County, New Jersey">Atlantic City International Airport in Egg Harbor Township, New Jersey is in the U.S.A. The airport has a runway that is 1,873 long.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey">The Egg Harbor Township in New Jersey is located in Atlantic City, New Jersey. It is served by Atlantic City International Airport which has a runway length of 1873.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey">The Egg Harbor Township in New Jersey is located in Atlantic City, New Jersey, USA. It is served by Atlantic City International Airport which has a runway length of 1873.</lex>
     </entry>
     <entry category="Airport" eid="Id175" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4169,7 +4169,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Saranac Lake, New York is part of Harrietstown, New York in the United States and it is served by Adirondack Regional Airport. This airport also serves the city of Lake Placid, New York.</lex>
-      <lex comment="good" lid="Id2">Adirondack Regional Airport serves Lake Placid, New York, and also Saranac Lake (part of Harrietstown), New York.</lex>
+      <lex comment="good" lid="Id2">Adirondack Regional Airport serves Lake Placid, New York, and also Saranac Lake (part of Harrietstown), New York, USA.</lex>
       <lex comment="good" lid="Id3" error_1="Harrietstown, New York" error_2="Lake Placid, New York">Saranac Lake and Harrietsown, are parts of New York which is located in the United States. Adirondack Regional Airport serves both the city of Saranac Lake and Lake Plaid, N.Y.</lex>
     </entry>
     <entry category="Airport" eid="Id179" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
@@ -4221,7 +4221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A part of both Harrietstown and Essex county, in New York (United States), the the city of Saranac Lake is served by Adirondack Regional Airport. the same airport also serves the city of Lake Placid, New York.</lex>
       <lex comment="good" lid="Id2">Saranac Lake is part of Harrietstown and part of Essex County, in New York, United States. Adirondack Regional Airport serves both the city of Saranac Lake and the city of Lake Placid, New York.</lex>
-      <lex comment="good" lid="Id3" error_1="Harrietstown, New York">Adirondack Regional Airport serves the city of Saranac Lake and Lake Placid both in New York. Saranac Lake is part of Essex County where you will also find Harriestown.</lex>
+      <lex comment="good" lid="Id3" error_1="Harrietstown, New York">Adirondack Regional Airport serves the city of Saranac Lake and Lake Placid both in New York. Saranac Lake is part of Essex County where you will also find Harrietstown. Harrietstown, NY is in the US.</lex>
     </entry>
     <entry category="Airport" eid="Id181" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4604,7 +4604,7 @@
         <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is elevated 610 metres above sea level in San Sebastian de los Reyes, part of the Community of Madrid in Spain. It has a runway length of 3500.0.</lex>
-      <lex comment="good" lid="Id2">Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes in the community of Madrid in Spain. Its airport is 610 m above sea level and the runway is 3500 m long.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes in the community of Madrid in Spain. Its airport is 610 m above sea level and the runway is 3500 m long.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes, Spain. San Sebastian de los Reyes is part of the Community of Madrid and it is elevated 610 meters above sea level. It has a runway which measures a length of 3500.0.</lex>
     </entry>
     <entry category="Airport" eid="Id194" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

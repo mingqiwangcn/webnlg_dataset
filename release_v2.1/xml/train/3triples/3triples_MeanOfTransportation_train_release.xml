@@ -926,7 +926,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALV X-1 comes from the US where African Americans are an ethnic group and Washington DC is the capital.</lex>
       <lex comment="good" lid="Id2">ALV X-1 originated in the United States, whose capital city is Washington DC, and whose ethnic groups include African Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="African Americans">ALV X-1 came from the U.S. whose capitol is located in Washington, D.C. An ethnic group in that country are African American in origin.</lex>
+      <lex comment="good" lid="Id3" error_1="African Americans">ALV X-1 came from the U.S. whose capital is located in Washington, D.C. An ethnic group in that country are African American in origin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id57" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

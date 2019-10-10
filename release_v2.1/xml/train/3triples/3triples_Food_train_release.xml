@@ -565,7 +565,7 @@
         <mtriple>Italy | leaderName | Pietro_Grasso</mtriple>
         <mtriple>Italy | capital | Rome</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The sauce called arrabbiata can be found in Italy where Pietro Grasso is the leader and Rome is the capitol city.</lex>
+      <lex comment="good" lid="Id1">The sauce called arrabbiata can be found in Italy where Pietro Grasso is the leader and Rome is the capital city.</lex>
       <lex comment="good" lid="Id2">Arrabbiata sauce comes from Italy where the leader is Pietro Grasso and Rome is the capital city.</lex>
       <lex comment="good" lid="Id3">Arrabbiata sauce is from Italy which has the capital city of Rome and is led by Pietro Grasso.</lex>
     </entry>
@@ -941,7 +941,7 @@
         <mtriple>Malaysia | capital | Kuala_Lumpur</mtriple>
         <mtriple>Malaysia | leaderName | Najib_Razak</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Malaysia is Najib Razak and the city of Kuala Lumpur is the capitol, it's also where the dish asam pedas is found.</lex>
+      <lex comment="good" lid="Id1">The leader of Malaysia is Najib Razak and the city of Kuala Lumpur is the capital, it's also where the dish asam pedas is found.</lex>
       <lex comment="good" lid="Id2">Asam pedas is a dish from Malaysia that has the capital city of Kuala Lumpur and is led by Najib Razak.</lex>
       <lex comment="good" lid="Id3">Asam pedas is a food found in Malaysia where the capital is Kuala Lumpur and a leader is Najib Razak.</lex>
     </entry>
@@ -1551,7 +1551,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The capitol of the United States is Washington D.C. One of the ethnic groups are African Americans and it is also home to the bacon explosion.</lex>
+      <lex comment="good" lid="Id1">The capital of the United States is Washington D.C. One of the ethnic groups are African Americans and it is also home to the bacon explosion.</lex>
       <lex comment="good" lid="Id2">The Bacon Explosion is from the United States where African Americans are one of the ethnic groups and the capital is Washington D.C.</lex>
     </entry>
     <entry category="Food" eid="Id101" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

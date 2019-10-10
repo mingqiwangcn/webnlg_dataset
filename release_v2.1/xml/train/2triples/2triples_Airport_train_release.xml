@@ -98,7 +98,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport is operated by the Aktieselkab organisation and the runway name is 10L/28R.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport is operated by the Aktieselskab organisation and the runway name is 10L/28R.</lex>
       <lex comment="good" lid="Id2">Aktieselskab operates Aarhus Airport which has the runway known as 10L/28R.</lex>
       <lex comment="good" lid="Id3">Aktieselskab operates Aarhus Airport, and its runway is called 10L/28R.</lex>
     </entry>
@@ -136,9 +136,9 @@
         <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport, operated by Aktieselkab, has a runway length of 2776.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport, operated by Aktieselskab, has a runway length of 2776.</lex>
       <lex comment="good" lid="Id2">Aktieselskab is the operating organisation for Aarhus Airport which has a runway length of 2776.0 metres.</lex>
-      <lex comment="good" lid="Id3">The Aktieselkab organisation operates Aarhus Airport, which has a runway length of 2776.0.</lex>
+      <lex comment="good" lid="Id3">The Aktieselskab organisation operates Aarhus Airport, which has a runway length of 2776.0.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -149,7 +149,7 @@
         <mtriple>Aarhus_Airport | runwayLength | 2777.0</mtriple>
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport is operated by the Aktieselkab organisation and has a runway length of 2777.0 meters.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport is operated by the Aktieselskab organisation and has a runway length of 2777.0 meters.</lex>
       <lex comment="good" lid="Id2">Aktieselskab is the operating organisation for Aarhus Airport which has a runway with the length of 2777.0 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -455,7 +455,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
         <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adolfo Suarez Madrid- Barajas airport is located at San Sebastian de los Reyes, in Spain.</lex>
+      <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes, in Spain.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes, Spain.</lex>
       <lex comment="good" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes, Spain.</lex>
     </entry>

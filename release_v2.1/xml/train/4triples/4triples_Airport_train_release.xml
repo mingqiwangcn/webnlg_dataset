@@ -190,7 +190,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aktieselskab operates Aarhus Airport which has an elevation of 25 metres above seal level. It also has a runway length of 2776.0 metres and a runway name, 10R/28L.</lex>
-      <lex comment="good" lid="Id2">Operated by the Aktieselkab organisation, Aarhus Airport is 25.0 metres above the sea level. It has a runway length of 2776.0 and 10R/28L is the runway name.</lex>
+      <lex comment="good" lid="Id2">Operated by the Aktieselskab organisation, Aarhus Airport is 25.0 metres above the sea level. It has a runway length of 2776.0 and 10R/28L is the runway name.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -229,7 +229,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aktieselskab is the operating organisation for Aarhus Airport which is 25 metres above sea level. The runway name is 10L/28R and has a length of 2777.0.</lex>
-      <lex comment="good" lid="Id2">Aarhus Airport is operated by the Aktieselkab organisation. Its runway name is 10L/28R, is 25 meters above sea level, and 2777 meters long.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport is operated by the Aktieselskab organisation. Its runway name is 10L/28R, is 25 meters above sea level, and 2777 meters long.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is 25 meters above sea level with a runway length of 2777 and named 10L/28R. It is operated by Aktieselskab .</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3882,7 +3882,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional airport serves the cities of both Lake Placid and Saranac Lake (Harrietstown) New York, United States.</lex>
-      <lex comment="good" lid="Id2">Lake Placid and Saranac Lake (part of Harrietstown, New York) are served by Adirondack Regional Airport.</lex>
+      <lex comment="good" lid="Id2">Lake Placid and Saranac Lake (part of Harrietstown, New York, USA) are served by Adirondack Regional Airport.</lex>
       <lex comment="good" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York, United States. The airport also serves the city of Lake Placid, N.Y.</lex>
     </entry>
     <entry category="Airport" eid="Id181" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -3906,7 +3906,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown in New York, in the United States.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, Harrietstown, New York, United States.</lex>
-      <lex comment="good" lid="Id3">Adirondack Regional Airport serves Saranac Lakewhich is in Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id3">Adirondack Regional Airport serves Saranac Lake which is in Harrietstown, New York, US.</lex>
     </entry>
     <entry category="Airport" eid="Id182" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3928,7 +3928,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake, New York part of Harrietstown and Essex County, New York, U.S.</lex>
-      <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown and Essex County, New York.</lex>
+      <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown and Essex County, New York, USA.</lex>
       <lex comment="good" lid="Id3">Adirondack Regional Airport serves Harrietstown, Essex County and Saranac Lake, New York (United States).</lex>
     </entry>
     <entry category="Airport" eid="Id183" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -4127,7 +4127,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Madrid | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Madrid is a city in Spain, in which the Adolfo Suarez Maadrid-Barajas airport is located. The leading part in Madrid is called Ahora Madrid.</lex>
+      <lex comment="good" lid="Id1">Madrid is a city in Spain, in which the Adolfo Suarez Madrid-Barajas airport is located. The leading part in Madrid is called Ahora Madrid.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, part of the community of Madrid in Spain where the leading party is Ahora Madrid.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, part of the community of Madrid in Spain where the leader party is Ahora Madrid.</lex>
     </entry>
@@ -4343,7 +4343,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
         <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">San Sebastian de los Reyes is part of the Community of Madrid, in Spain. It is where the Adolfo Suarez Madrid- Barajas airport is located and is led by the People's Party.</lex>
+      <lex comment="good" lid="Id1">San Sebastian de los Reyes is part of the Community of Madrid, in Spain. It is where the Adolfo Suarez Madrid-Barajas airport is located and is led by the People's Party.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes, in Spain. The People's Party is the lead party of San Sebastian de los Reyes and area considered to be part of the Community of Madrid.</lex>
       <lex comment="good" lid="Id3">The People's Party is the lead party of San Sebastian de los Reyes (Spain) which is part of the Community of Madrid and is where Adolfo Suárez Madrid–Barajas Airport is found.</lex>
     </entry>

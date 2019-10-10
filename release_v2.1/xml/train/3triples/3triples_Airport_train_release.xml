@@ -179,7 +179,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aarhus Airport, which is operated by the Aktieselkab organisation, has a runway that's 2,776 long and is named 10L/28R.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport, which is operated by the Aktieselskab organisation, has a runway that's 2,776 long and is named 10L/28R.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport, operated by Aktieselskab has a runway length of 2776.0 and a name of 10L/28R.</lex>
     </entry>
     <entry category="Airport" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -193,9 +193,9 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Operated by the Aktieselkab organisation, Aarhus Airport, has a runway length of 2776.0 metres and a runway named 10R/28L.</lex>
+      <lex comment="good" lid="Id1">Operated by the Aktieselskab organisation, Aarhus Airport, has a runway length of 2776.0 metres and a runway named 10R/28L.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport is operated by Aktieselskab; its runway name is 10R/28L and its runway length is 2776.</lex>
-      <lex comment="good" lid="Id3">Aarhus Airport is operated by the Aktieselkab organisation. Its runway's name is 10R/28L and is 2776.0 feet in length.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is operated by the Aktieselskab organisation. Its runway's name is 10R/28L and is 2776.0 feet in length.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -237,7 +237,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Operated by the Aktieselkab organisation, Aarhus airport has a runway that is 2777.0 metres long. It also has a runway with the name 10L/28R.</lex>
+      <lex comment="good" lid="Id1">Operated by the Aktieselskab organisation, Aarhus airport has a runway that is 2777.0 metres long. It also has a runway with the name 10L/28R.</lex>
       <lex comment="good" lid="Id2">Aktieselskab operates Aarhus Airport which has a runway that is 2777.0 meters long and the runway name 10L/28R.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport, operated by Aktieselskab, has a runway length of 2777.0 and the runway name is 10L/28R.</lex>
     </entry>
@@ -252,7 +252,7 @@
         <mtriple>Aarhus_Airport | operatingOrganisation | Aktieselskab</mtriple>
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 10R/28L runway which is 2777.0 meters long is located in Aarhus Airport which is operated by the Aktieselkab organisation.</lex>
+      <lex comment="good" lid="Id1">The 10R/28L runway which is 2777.0 meters long is located in Aarhus Airport which is operated by the Aktieselskab organisation.</lex>
       <lex comment="good" lid="Id2">The 10R/28L runway at Aarhus airport is 2777.0 in length, which is run by the operating organization of Aktieselskab.</lex>
       <lex comment="good" lid="Id3">Aktieselskab is the operating organisation for Aarhus Airport where the runway length is 2777.0 and the runway name is 10R/28L.</lex>
     </entry>
@@ -573,7 +573,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The 14L/32R runway in Adofo Suarez Madrid-Barajas Airport located in Madrid, has a length of 4349.0.</lex>
+      <lex comment="good" lid="Id1">The 14L/32R runway in Adolfo Suarez Madrid-Barajas Airport located in Madrid, has a length of 4349.0.</lex>
       <lex comment="good" lid="Id2">The 14L/32R runway in Adolfo Suarez Madrid - Barajas Airport, Madrid has a length of 4349.0.</lex>
       <lex comment="good" lid="Id3">Adolfo Suárez Madrid–Barajas Airport which is located in Madrid has a runway name of 14L/32R which has a length of 4349.0.</lex>
     </entry>
@@ -604,7 +604,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway name of Adolfo Suarez Madrid-Barajas Airport at San Sebastian de los Reyes is 18L/36R and it is 4349 metres long.</lex>
-      <lex comment="good" lid="Id2">Asolfo Suarez Madrid-Barajas Airpoty is found in San Sebastián de Los Reyes and has a runway named 18L/36R which is 4349 meters long.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is found in San Sebastián de Los Reyes and has a runway named 18L/36R which is 4349 meters long.</lex>
     </entry>
     <entry category="Airport" eid="Id36" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1331,7 +1331,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suárez Madrid Barajas Airport is found in Alcobendas which is part of the community of Madrid. The leader party at Alcobendas is the Peoples Party (Spain).</lex>
-      <lex comment="good" lid="Id2" error_1="People's Party (Spain)">Adolfo Suarez Madrid- Barajas airport is located in Alcobendas, Madrid. The leading party is the People Party (Spain).</lex>
+      <lex comment="good" lid="Id2" error_1="People's Party (Spain)">Adolfo Suarez Madrid-Barajas airport is located in Alcobendas, Madrid. The leading party is the People Party (Spain).</lex>
       <lex comment="good" lid="Id3">Alcobendas is part of Community of Madrid whose leader party at Alcobendas is the Peoples Party (Spain). The Adolfo Suárez Madrid–Barajas Airport is located there.</lex>
     </entry>
     <entry category="Airport" eid="Id74" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2410,7 +2410,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International Airport can be found in Greenville, Wisconsin which is part of Ellington, Wisconsin, in the United States.</lex>
       <lex comment="good" lid="Id2">Appleton International Airport can be found in Greenville, Ellington, Wisconsin, United States.</lex>
-      <lex comment="good" lid="Id3">Appleton International Airport can be found in Greenville, Wisconsin which is part of Ellington in the state.</lex>
+      <lex comment="good" lid="Id3">Appleton International Airport can be found in Greenville, Wisconsin, US which is part of Ellington in the state.</lex>
     </entry>
     <entry category="Airport" eid="Id132" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3430,7 +3430,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
         <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Adolfo Suarez Madrid- Barajas airport is located in San Sebastian de los Reyes which is in Madrid, Spain.</lex>
+      <lex comment="good" lid="Id1">The Adolfo Suarez Madrid-Barajas airport is located in San Sebastian de los Reyes which is in Madrid, Spain.</lex>
       <lex comment="good" lid="Id2">San Sebastian de los Reyes, part of the Madrid Community, Spain is host to the Adolfo Suarez Madrid-Barajas airport.</lex>
     </entry>
     <entry category="Airport" eid="Id182" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3523,9 +3523,9 @@
         <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adirondack Regional Airport is located in Saranac Lake Harrietstown, New York United States.</lex>
+      <lex comment="good" lid="Id1">Adirondack Regional Airport is located in Saranac Lake Harrietstown, New York, United States.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown, New York, in the United States.</lex>
-      <lex comment="good" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York, USA.</lex>
     </entry>
     <entry category="Airport" eid="Id187" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
