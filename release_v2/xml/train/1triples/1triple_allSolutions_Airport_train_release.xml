@@ -102,7 +102,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway name at Aarhus Airport is "10R/28L".</lex>
-      <lex comment="good" lid="Id2">10R/28L is the runway name at Aarhus airport.</lex>
+      <lex comment="good" lid="Id2">10R/28L is the runway name at Aarhus airport,.</lex>
       <lex comment="good" lid="Id3">The runway name of Aarhus Airport is 10R/28L.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
@@ -139,8 +139,9 @@
       <modifiedtripleset>
         <mtriple>Abilene,_Texas | isPartOf | Taylor_County,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abilene, Texas is part of Taylor County, Texas.</lex>
+      <lex comment="good" lid="Id1">Abilene, Texas is part of Taylor County,Texas.</lex>
       <lex comment="good" lid="Id2">Abilene is a part of Taylor County, Texas.</lex>
+      <lex comment="good" lid="Id3">Abilene, Texas is part of Taylor County, Texas.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -313,7 +314,7 @@
       <modifiedtripleset>
         <mtriple>Adirondack_Regional_Airport | locationIdentifier | "SLK"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adirondack Regional Airport location identifier is SLK.</lex>
+      <lex comment="good" lid="Id1">Adirondack Regional Airport location idenitifier is SLK.</lex>
       <lex comment="good" lid="Id2">SLK is the I.D. of the Adirondack Regional Airport.</lex>
       <lex comment="good" lid="Id3">The Adirondack Regional Airport location identifier is SLK.</lex>
     </entry>
@@ -368,7 +369,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suárez Madrid–Barajas Airport is found in Madrid.</lex>
       <lex comment="good" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport is in Madrid.</lex>
-      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport is located in Madrid.</lex>
+      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Aiport is located in Madrid.</lex>
     </entry>
     <entry category="Airport" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -648,7 +649,7 @@
       <modifiedtripleset>
         <mtriple>Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">ORAA is the ICAO location identifier of Al Asad Airbase.</lex>
+      <lex comment="good" lid="Id1">ORAA is the ICAO location identifier of Al Asad Airbase,.</lex>
       <lex comment="good" lid="Id2">The ICAO Location Identifier of Al Asad Airbase is ORAA.</lex>
     </entry>
     <entry category="Airport" eid="Id62" shape="(X (X))" shape_type="NA" size="1">
@@ -1065,7 +1066,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location identifier of Alpena County Regional airport is APN.</lex>
       <lex comment="good" lid="Id2">The Alpena County Regional Airport's location id is "APN".</lex>
-      <lex comment="good" lid="Id3">The location identifier of Alpena County Regional Airport is APN.</lex>
+      <lex comment="good" lid="Id3">The loaction identifier of Alpena County Regional Airport is APN.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1074,7 +1075,7 @@
       <modifiedtripleset>
         <mtriple>Alpena_County_Regional_Airport | owner | Alpena_County,_Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alpena County Regional Airport owner is Alpena County, Michigan.</lex>
+      <lex comment="good" lid="Id1">Alpena Country Regional Airport owner is Alpena Country, Michigan.</lex>
       <lex comment="good" lid="Id2">Alpena County, Michigan is the owner of the Alpena County Regional Airport.</lex>
       <lex comment="good" lid="Id3">The owner of Alpena County Regional Airport is Alpena County, Michigan.</lex>
     </entry>
@@ -1119,7 +1120,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The length of the first runway at Amsterdam Airport Schiphol is 3800 metres.</lex>
       <lex comment="good" lid="Id2">The length of the 1st runway at Amsterdam airport Schiphol is 3800 metres.</lex>
-      <lex comment="good" lid="Id3">The length of the first runway at Amsterdam Airport Schiphol is 3800 meters.</lex>
+      <lex comment="good" lid="Id3">The length of the first runway at Amsterdam Aiport Schiphol is 3800 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1302,7 +1303,7 @@
       <modifiedtripleset>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "18R/36L 'Polderbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">18R/36L Polderbaan is the runway name at Amsterdam Airport Schiphol.</lex>
+      <lex comment="good" lid="Id1">18R/36L Plderbaan is the runway name at Amsterdam Airport Schiphol.</lex>
       <lex comment="good" lid="Id2">The runway at Amsterdam Sciphol Airport is called 18R/36L Polderbaan.</lex>
       <lex comment="good" lid="Id3">The runway name of Amsterdam Airport Schiphol is 18R/36L Polderbaan.</lex>
     </entry>
@@ -1365,7 +1366,7 @@
       <modifiedtripleset>
         <mtriple>Andrews_County_Airport | locationIdentifier | "E11"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County Airport location identifier is E11.</lex>
+      <lex comment="good" lid="Id1">Andrews Country Airport location identifier is E11.</lex>
       <lex comment="good" lid="Id2">E11 is the location identifier of Andrews County Airport.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport is located in E11.</lex>
     </entry>
@@ -1408,7 +1409,7 @@
       <modifiedtripleset>
         <mtriple>Andrews_County_Airport | runwayName | "16/34"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Andrews County Airport's runway name is 16/34.</lex>
+      <lex comment="good" lid="Id1">Andrews Country Airport's runway name is 16/34.</lex>
       <lex comment="good" lid="Id2">16/34 is the runway name of Andrews County Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
@@ -2111,7 +2112,7 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey.</lex>
-      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport.</lex>
+      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport,.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
@@ -2342,7 +2343,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Egg Harbor Township is a township in Atlantic County, New Jersey, United States.</lex>
-      <lex comment="good" lid="Id2">The Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey.</lex>
+      <lex comment="good" lid="Id2">The Egg Harbor Township,New Jersey is a part of Atlantic County, New Jersey.</lex>
       <lex comment="good" lid="Id3">Egg Harbor Township, New Jersey, is part of Atlantic County, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id218" shape="(X (X))" shape_type="NA" size="1">
