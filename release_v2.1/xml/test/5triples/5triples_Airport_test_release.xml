@@ -83,7 +83,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas Airport, operated by ENAIRE, is located in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. It is located 610 metres above sea level and has a runway name of 14L/32R which is 4100.0 in length.</lex>
-      <lex comment="good" lid="Id2" error_1="14L/32R">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas at an elevation of 610.0 metres above sea level. It is operated by ENAIRE and has a runway name of 14L/36R with a length of 4100.0.</lex>
+      <lex comment="good" lid="Id2" error_1="14L/32R">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas at an elevation of 610.0 metres above sea level. It is operated by ENAIRE and has a runway name of 14L/32R with a length of 4100.0.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport, which is operated by ENAIRE, is located in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. The airport is 610 metres above sea level, and has a runway length of 4,100 which is named 14L/32R.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -173,7 +173,7 @@
         <mtriple>Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3992.88" error_2="Al Asad Airbase">Al Asad air base has a runway name of 08/26 which is 3992.8 in length. It is situated in the Al Anbar Province of Iraq, is operated by the United States Air Force and has the ICAO location identifier ORAA.</lex>
+      <lex comment="good" lid="Id1" error_1="3992.88" error_2="Al Asad Airbase">Al Asad air base has a runway name of 08/26 which is 3992.88 in length. It is situated in the Al Anbar Province of Iraq, is operated by the United States Air Force and has the ICAO location identifier ORAA.</lex>
       <lex comment="good" lid="Id2">The United States Airport operates the Al Asad airbase which is located in the Al Anbar Province, Iraq. The ICAO location identifier of Al Asad Airbase is ORAA and the length is 3992.88m and the runway is known as 08/26.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is located in Al Anbar Province, Iraq and is operated by the United States Air Force. ORAA is the ICAO location of the airbase. Its runway, named "08/26", measures a length of 3992.88.</lex>
     </entry>
@@ -311,7 +311,7 @@
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
         <mtriple>Alpena_County_Regional_Airport | runwayName | "7/25"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Maple Ridge Township, Alpena County, Michigan">Serving the city of Aplena and located in Ridge Township, Alpena County, Michigan, is Alpena County Regional Airport. It is 210 metres above sea level, has a runway with the name 7/25 and a runway that is 1533.0 long.</lex>
+      <lex comment="good" lid="Id1" error_1="Maple Ridge Township, Alpena County, Michigan">Serving the city of Alpena and located in Maple Ridge Township, Alpena County, Michigan, is Alpena County Regional Airport. It is 210 metres above sea level, has a runway with the name 7/25 and a runway that is 1533.0 long.</lex>
       <lex comment="good" lid="Id2">The city of Alpena in Michigan is served by Alpena County Regional Airport which is located 210 metres above sea level in Maple Ridge Township, Alpena County, Michigan. The runway name is 7/25 and it has a length of 1533.0.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -376,7 +376,7 @@
         <mtriple>Alpena_County_Regional_Airport | cityServed | Alpena,_Michigan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpena County Regional Airport serving Alpena, Michigan, is located in Wilson Township, Alpena County, USA. The airport is 210 metres above sea level and has a runway length of 1533.0.</lex>
-      <lex comment="good" lid="Id2">Aplena County Regional Airport, serving Alpena, Michigan is found in Wilson Township, Aplena County, Michigan in the USA. This airport is elevated 210 meters above sea level and it has a runway measuring 1533.0 in length.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport, serving Alpena, Michigan is found in Wilson Township, Alpena County, Michigan in the USA. This airport is elevated 210 meters above sea level and it has a runway measuring 1533.0 in length.</lex>
       <lex comment="good" lid="Id3">210 metres above sea level in the Wilson Township, Alpena County, Michigan U.S.A, there is an airport called Alpena County Regional Airport. It serves the citizens of Alpena Michigan. It has a runway that stretches 1533.0 in length.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -519,7 +519,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ICAO location identifier for Atlantic City International Airport is KACY. It is located at Egg Harbor Township, Atlantic County, New Jersey in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States. The Airport's ICAO location identifier is KACY.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey">Atlantic City International Airport is located in Egg Harbor Township, Atlantic County, New Jersey in the United States. The Airport's ICAO location identifier is KACY.</lex>
     </entry>
     <entry category="Airport" eid="Id21" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -594,7 +594,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Madrid (Spain) which is part of the community of Madrid, is where ENAIRE is located. ENAIRE operates Adolfo Suarez Madrid-Barajas Airport which is in Alcobendas.</lex>
-      <lex comment="good" lid="Id2" error_1="Adolfo Suarez Madrid-Barajas Airport" error_2="Community of Madrid">The Adolfo Suárez Madrid Barajas Airport is found in Alcobendas and is operated by ENAIRE. ENAIRE is found in Madrid, Spain.</lex>
+      <lex comment="good" lid="Id2" error_1="Adolfo Suarez Madrid-Barajas Airport" error_2="Community of Madrid">The Adolfo Suárez Madrid Barajas Airport is found in Alcobendas and is operated by ENAIRE. ENAIRE is found in Madrid, Community of Madrid, Spain.</lex>
       <lex comment="good" lid="Id3">Madrid is part of the community of Madrid in Spain. ENAIRE is in Alcobendas, Madrid and operates the Adolfo Suarez Madrid-Barajas airport.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
@@ -612,8 +612,8 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Saranac Lake is found in Harrietstown, New York. Adirondack Regional Airport serves Saranac Lake and Lake Placid city of New York.</lex>
-      <lex comment="good" lid="Id2">Adirondack Regional Airport serves the cities of Saranac Lake and Lake Placid, New York in the United States.aranac Lake, New York is part of Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Saranac Lake is found in Harrietstown, New York. Adirondack Regional Airport serves Saranac Lake and Lake Placid city of New York in the US.</lex>
+      <lex comment="good" lid="Id2">Adirondack Regional Airport serves the cities of Saranac Lake and Lake Placid, New York in the United States. Saranac Lake, New York is part of Harrietstown, New York.</lex>
     </entry>
   </entries>
 </benchmark>
