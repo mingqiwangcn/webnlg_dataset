@@ -425,8 +425,8 @@
         <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
         <mtriple>Andra_(singer) | occupation | "singer, Reality television judge"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Campia Turzii">Andra was born in Campia Turzii in 1986. She is a Dance-pop music singer and makes a living as a singer and reality television judge.</lex>
-      <lex comment="good" lid="Id2" error_1="Campia Turzii">Andra is a dance-pop singer who was born in Campia Turzii in 1986. She began her career as a solo singer and makes her living as a singer and reality television judge.</lex>
+      <lex comment="good" lid="Id1">Andra was born in Campia Turzii in 1986. She is a Dance-pop music singer and makes a living as a singer and reality television judge.</lex>
+      <lex comment="good" lid="Id2">Andra is a dance-pop singer who was born in Campia Turzii in 1986. She began her career as a solo singer and makes her living as a singer and reality television judge.</lex>
       <lex comment="good" lid="Id3" error_1="Dance-pop" error_2="singer, Reality television judge">Andra, a dance pop singer and a solo singer, was born in Campia Turzii in 1986. She makes her living as a singer and a reality tv judge.</lex>
     </entry>
     <entry category="Artist" eid="Id20" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">

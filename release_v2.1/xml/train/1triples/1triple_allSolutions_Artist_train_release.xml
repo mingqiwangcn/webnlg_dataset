@@ -1429,7 +1429,7 @@
       <modifiedtripleset>
         <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Yamandu Palacios">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
+      <lex comment="good" lid="Id1">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
     </entry>
     <entry category="Artist" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
@@ -1503,7 +1503,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa is signed with the record label Odeon Records.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa was signed to Odeon Records.</lex>
-      <lex comment="good" lid="Id3" error_1="Alfredo Zitarrosa">Alfredo Zitarrosa's recording label is Odeon Records.</lex>
+      <lex comment="good" lid="Id3">Alfredo Zitarrosa's recording label is Odeon Records.</lex>
     </entry>
     <entry category="Artist" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2325,7 +2325,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with Mark Sixma.</lex>
-      <lex comment="good" lid="Id2" error_1="Mark Sixma">Musicians, Andrew Rayel and Mark Sixma, are associates.</lex>
+      <lex comment="good" lid="Id2">Musicians, Andrew Rayel and Mark Sixma, are associates.</lex>
     </entry>
     <entry category="Artist" eid="Id204" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2986,8 +2986,8 @@
       <modifiedtripleset>
         <mtriple>Suburban_Legends | genre | Pop_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Suburban Legends">Suburban Legends' genre is pop music.</lex>
-      <lex comment="good" lid="Id2" error_1="Suburban Legends">Suburban Legends perform pop music.</lex>
+      <lex comment="good" lid="Id1">Suburban Legends' genre is pop music.</lex>
+      <lex comment="good" lid="Id2">Suburban Legends perform pop music.</lex>
       <lex comment="good" lid="Id3">The Suburban Legends is a pop music band.</lex>
     </entry>
     <entry category="Artist" eid="Id261" shape="(X (X))" shape_type="NA" size="1">
@@ -2997,7 +2997,7 @@
       <modifiedtripleset>
         <mtriple>Suburban_Legends | genre | Rock_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Suburban Legends">The band Suburban Legends' genre is Rock music.</lex>
+      <lex comment="good" lid="Id1">The band Suburban Legends' genre is Rock music.</lex>
       <lex comment="good" lid="Id2">Suburban Legends performs rock music.</lex>
       <lex comment="good" lid="Id3">The band Suburban Legends play rock music.</lex>
     </entry>

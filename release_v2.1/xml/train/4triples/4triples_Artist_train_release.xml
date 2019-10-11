@@ -3694,7 +3694,7 @@
         <mtriple>Andra_(singer) | birthPlace | Câmpia_Turzii</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Solo Dance-pop singer Andra, was born in Câmpia, Turzii.</lex>
-      <lex comment="good" lid="Id2">Dance pop singer Andra was born in Alfredo Zitarrosa.</lex>
+      <lex comment="good" lid="Id2" error_1="Campia Turzii">Dance pop singer Andra was born in Alfredo Zitarrosa.</lex>
       <lex comment="good" lid="Id3">The singer Andra is a solo singer with a genre of Dance-pop music. She was born in Câmpia, Turzii.</lex>
     </entry>
     <entry category="Artist" eid="Id172" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3820,7 +3820,7 @@
         <mtriple>Andra_(singer) | occupation | "singer, Reality television judge"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The solo artist Andra, who was born in Câmpia, Turzii, performs rhythm and blues music and has worked as a singer and a reality TV judge.</lex>
-      <lex comment="good" lid="Id2">Rhythm and blues singer Andra has also featured as a reality TV judge. She was born in born in Campia Turzi.</lex>
+      <lex comment="good" lid="Id2" error_1="Campia Turzii">Rhythm and blues singer Andra has also featured as a reality TV judge. She was born in born in Campia Turzi.</lex>
       <lex comment="good" lid="Id3">Born in Câmpia Turzii, Andra began her career as a solo singer. A performer of rhythm and blues music, she is a singer and reality tv judge.</lex>
     </entry>
     <entry category="Artist" eid="Id178" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
