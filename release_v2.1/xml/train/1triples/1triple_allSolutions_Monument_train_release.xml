@@ -429,7 +429,7 @@
       <lex comment="good" lid="Id1">Ahmet Davutoglu is a leader of Turkey.</lex>
       <lex comment="good" lid="Id2">Ahmet Davutoglu is the leader of Turkey.</lex>
       <lex comment="good" lid="Id3">Leader of Turkey is Ahmet Davutoglu.</lex>
-      <lex comment="good" lid="Id4">Ahmet_Davutoğlu is Turkey's leader.</lex>
+      <lex comment="good" lid="Id4">Ahmet Davutoğlu is Turkey's leader.</lex>
       <lex comment="good" lid="Id5">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id6" error_1="Turkey">Ahmet Davutoglu is the Turkish leader.</lex>
     </entry>
