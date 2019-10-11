@@ -124,7 +124,7 @@
         <mtriple>Aarhus_Airport | runwayLength | 2776.0</mtriple>
         <mtriple>Aarhus_Airport | operatingOrganisation | "Aarhus Lufthavn A/S"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aarhus Lufthavn A/S">Aarhus Airport is operated by Aarhus Lufthavn A/S and the length of the runway is 2776.0.</lex>
+      <lex comment="good" lid="Id1">Aarhus Airport is operated by Aarhus Lufthavn A/S and the length of the runway is 2776.0.</lex>
       <lex comment="good" lid="Id2">Aarhus Lufthavn A/S is the operation organisation of Aarhus Airport which has a runway with the length of 2776.0 metres.</lex>
     </entry>
     <entry category="Airport" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -167,7 +167,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">546m above sea level, the length of the 1st runway at Abilene Regional airport is 3678 feet.</lex>
       <lex comment="good" lid="Id2">The Abilene Regional Airport is 546 metres above sea level and the 1st runway is 3678 feet.</lex>
-      <lex comment="good" lid="Id3" error_1="Abilene Regional Airport">Abilene Regional Airport is 546 metres above sea level and the length of the first runway is 3678 feet.</lex>
+      <lex comment="good" lid="Id3">Abilene Regional Airport is 546 metres above sea level and the length of the first runway is 3678 feet.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -499,7 +499,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The runway length of Adolfo Suárez Madrid–Barajas Airport which is located at San Sebastian de los Reyes, is 4,349.</lex>
-      <lex comment="good" lid="Id2" error_1="San Sebastian de los Reyes">Adolfo Suarez Madrid-Barajas Airport is located in San Sebastian de los Reyes and its runway is 4349 metres long.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in San Sebastian de los Reyes and its runway is 4349 metres long.</lex>
     </entry>
     <entry category="Airport" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -556,7 +556,7 @@
         <mtriple>Afonso_Pena_International_Airport | elevationAboveTheSeaLevel_(in_feet) | 2988</mtriple>
         <mtriple>Afonso_Pena_International_Airport | location | São_José_dos_Pinhais</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Afonso Pena International Airport">Afonso Pena International Airport in São José dos Pinhais, is 2988 feet above sea level.</lex>
+      <lex comment="good" lid="Id1">Afonso Pena International Airport in São José dos Pinhais, is 2988 feet above sea level.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport, located in Sao Jose dos Pinhais, is elevated 2988 feet above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1130,7 +1130,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The surface of the 1st runway at Alderney airport is made from poaceae, which belongs to the order of Commelinids.</lex>
       <lex comment="good" lid="Id2">The 1st runway at Alderney Airport is made from Poaceae which belongs to the order of Commelinids.</lex>
-      <lex comment="good" lid="Id3" error_1="Commelinids">The surface of the 1st runway at Alderney airport is made from poaceae, Poaceae is the order of Commelinids.</lex>
+      <lex comment="good" lid="Id3">The surface of the 1st runway at Alderney airport is made from poaceae, Poaceae is the order of Commelinids.</lex>
     </entry>
     <entry category="Airport" eid="Id77" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1385,8 +1385,8 @@
         <mtriple>Alpena_County_Regional_Airport | 1st_runway_LengthFeet | 9001</mtriple>
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alpena County Regional Airport">Alpena County Regional Airport is elevated 210 metres above sea level and its first runway has a length of 9,001 feet.</lex>
-      <lex comment="good" lid="Id2" error_1="Alpena County Regional Airport">Alpena County Regional Airport is 210m above sea level, its first runway is 9001 feet long.</lex>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport is elevated 210 metres above sea level and its first runway has a length of 9,001 feet.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport is 210m above sea level, its first runway is 9001 feet long.</lex>
     </entry>
     <entry category="Airport" eid="Id95" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1477,7 +1477,7 @@
         <mtriple>Alpena_County_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 210</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location identifier of Alpena County Regional airport is APN and is 210m a.s.l.</lex>
-      <lex comment="good" lid="Id2" error_1="APN" error_2="Alpena County Regional Airport">Alpena County Regional Airport (APN) is 210 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Alpena County Regional Airport (APN) is 210 metres above sea level.</lex>
       <lex comment="good" lid="Id3">The Alpena County Regional Airport's location id is "APN", and it is elevated 210 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1601,8 +1601,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Amsterdam Airport Schiphol">Schiphol, the Amsterdam Airport, whose runway is 3800 feet, serves Amsterdam.</lex>
-      <lex comment="good" lid="Id2" error_1="Amsterdam Airport Schiphol">Amsterdam Airport Schiphol serves Amsterdam and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id1">Schiphol, the Amsterdam Airport, whose runway is 3800 feet, serves Amsterdam.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol serves Amsterdam and has a runway length of 3800.0.</lex>
       <lex comment="good" lid="Id3">Amsterdam Airport Schiphol's runway length is 3800.0 and it serves Amsterdam.</lex>
     </entry>
     <entry category="Airport" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1930,7 +1930,7 @@
         <mtriple>Antwerp_International_Airport | owner | Flemish_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antwerp International Airport, which is owned by the Flemish Region, is operated by the Flemish Government.</lex>
-      <lex comment="good" lid="Id2" error_1="Flemish Region">Antwerp International Airport is operated by the Flemish government and is owned by the Flemish region.</lex>
+      <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish government and is owned by the Flemish region.</lex>
       <lex comment="good" lid="Id3">The owner of Antwerp International Airport is the Flemish Region and the operating organisation is the Flemish government.</lex>
     </entry>
     <entry category="Airport" eid="Id133" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2471,7 +2471,7 @@
         <mtriple>Athens_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 94</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Athens International Airport is located in Spata and is 94 metres above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="Spata">Athens International Airport, which is 94 metres above sea level, is in Spata.</lex>
+      <lex comment="good" lid="Id2">Athens International Airport, which is 94 metres above sea level, is in Spata.</lex>
       <lex comment="good" lid="Id3">Athens International Airport is located in Spata, at 94 m above the sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2504,7 +2504,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township which is part of Atlantic County, New Jersey.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic County, New Jersey, United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Egg Harbor Township, New Jersey">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic County, New Jersey, United States.</lex>
       <lex comment="good" lid="Id3" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
     </entry>
     <entry category="Airport" eid="Id171" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2518,7 +2518,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23.0 metres above sea level.</lex>
       <lex comment="good" lid="Id2">The Atlantic City International Airport is run by the Port Authority of New York and New Jersey and is 23 m above sea level.</lex>
-      <lex comment="good" lid="Id3" error_1="Port Authority of New York and New Jersey">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York and New Jersey.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York and New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id172" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2610,7 +2610,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, its runway length is 1,873.</lex>
       <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, where the runway length is 1873.</lex>
-      <lex comment="good" lid="Id3" error_1="Port Authority of New York and New Jersey">Atlantic City International Airport, run by the Port Authority of New York and New Jersey, has a runway length of 1,873.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport, run by the Port Authority of New York and New Jersey, has a runway length of 1,873.</lex>
     </entry>
     <entry category="Airport" eid="Id178" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2647,7 +2647,7 @@
         <mtriple>Flemish_Government | jurisdiction | Flemish_Region</mtriple>
         <mtriple>Antwerp_International_Airport | operatingOrganisation | Flemish_Government</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Flemish Region">Antwerp international airport is operated by the Flemish government which has full jurisdiction of the Flemish region.</lex>
+      <lex comment="good" lid="Id1">Antwerp international airport is operated by the Flemish government which has full jurisdiction of the Flemish region.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport is operated by the Flemish government, which has jurisdiction over the Flemish Region.</lex>
       <lex comment="good" lid="Id3">The operating organisation of Antwerp International airport is the Flemish government who have jurisdiction of the Flemish Region.</lex>
     </entry>

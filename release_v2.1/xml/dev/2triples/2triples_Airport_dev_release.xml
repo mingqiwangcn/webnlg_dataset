@@ -39,7 +39,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayLength | 3500.0</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="San Sebastian de los Reyes">The Adolfo Suárez Madrid–Barajas Airport located at San Sebastian de los Reyes has a runway length of 3500.</lex>
+      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport located at San Sebastian de los Reyes has a runway length of 3500.</lex>
       <lex comment="good" lid="Id2">The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes and has a runway length of 3500.0 metres.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes and has a runway length of 3500.</lex>
     </entry>

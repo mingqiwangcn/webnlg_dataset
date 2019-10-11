@@ -209,7 +209,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10L/28R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport has a runway length of 2777.0 metres and is operated by Aarhus Lufthavn A/S. The name of the runway is 10L/28R.</lex>
-      <lex comment="good" lid="Id2" error_1="Aarhus Lufthavn A/S">Aarhus airport is operated by Aarhus Lufthavn A/S. Its runway name is 10L/28R and its length is 2777 metres.</lex>
+      <lex comment="good" lid="Id2">Aarhus airport is operated by Aarhus Lufthavn A/S. Its runway name is 10L/28R and its length is 2777 metres.</lex>
       <lex comment="good" lid="Id3">The Aarhus Airport is run by the Aarhus Lufthavn A/S organization. The runway (whose name is 10L/28R) is 2777 feet in length.</lex>
     </entry>
     <entry category="Airport" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -224,7 +224,7 @@
         <mtriple>Aarhus_Airport | runwayName | "10R/28L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport, with a runway name of 10R/28L, and a length of 2777.0. is operated by Aarhus Lufthavn A/S.</lex>
-      <lex comment="good" lid="Id2" error_1="Aarhus Lufthavn A/S">Aarhus Airport, operated by Aarhus Lufthavn A/S, has a runway length of 2777.0 with a name of 10R/28L.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport, operated by Aarhus Lufthavn A/S, has a runway length of 2777.0 with a name of 10R/28L.</lex>
     </entry>
     <entry category="Airport" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -945,7 +945,7 @@
         <mtriple>Uttar_Pradesh | leaderName | Ram_Naik</mtriple>
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Uttar Pradesh">Agra Airport is in Uttar Pradesh, Bundelkhand, whose leader is Ram Naik.</lex>
+      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh, Bundelkhand, whose leader is Ram Naik.</lex>
       <lex comment="good" lid="Id2">Uttar Pradesh, which is part of Bundelkhand, is led by Ram Naik and is the location of Agra Airport.</lex>
       <lex comment="good" lid="Id3">Agra Airport is located in Uttar Pradesh which is part of Bundelkhand. The leader there is Ram Naik.</lex>
     </entry>
@@ -1134,7 +1134,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. An aircraft there is the General Dynamics F-16 Fighting Falcon. The United States Air Force fought in the United States bombing of Libya in 1986.</lex>
-      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya" error_2="General Dynamics F-16 Fighting Falcon">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter. The 1986 United States bombing of Libya was carried out by the US Air Force.</lex>
+      <lex comment="good" lid="Id2" error_1="General Dynamics F-16 Fighting Falcon">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter. The 1986 United States bombing of Libya was carried out by the US Air Force.</lex>
     </entry>
     <entry category="Airport" eid="Id61" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1149,7 +1149,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which uses General Dynamics F-16 Fighting Falcon (an aircraft fighter) and was part of Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">The USAF operates Al Asad Airbase where General Dynamics F-16 Fighting Falcon aircraft fighters can be found. The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
-      <lex comment="good" lid="Id3" error_1="Operation Enduring Freedom">The US Air Force is the operating organisation for Al Asad airbase, where the general Dynamics F-16 Fighting Falcon was involved in Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id3">The US Air Force is the operating organisation for Al Asad airbase, where the general Dynamics F-16 Fighting Falcon was involved in Operation Enduring Freedom.</lex>
     </entry>
     <entry category="Airport" eid="Id62" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1206,7 +1206,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircraft fighter called McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id2" error_1="United States invasion of Panama">The USAF, the operating organization for Al Asad airbase, was involved in the Invasion of Panama and has the aircraft fighter McDonnell Douglas F-15 Eagle.</lex>
-      <lex comment="good" lid="Id3" error_1="McDonnell Douglas F-15 Eagle">The United States Air Force operates Al Asad airbase. They were involved in the US invasion of Panama and deploy the McDonnell Douglas F15 Eagle fighter aircraft.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force operates Al Asad airbase. They were involved in the US invasion of Panama and deploy the McDonnell Douglas F15 Eagle fighter aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id66" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1331,7 +1331,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Alcobendas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suárez Madrid Barajas Airport is found in Alcobendas which is part of the community of Madrid. The leader party at Alcobendas is the People's Party (Spain).</lex>
-      <lex comment="good" lid="Id2" error_1="People's Party (Spain)">Adolfo Suarez Madrid-Barajas airport is located in Alcobendas, Madrid. The leading party is the People's Party (Spain).</lex>
+      <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located in Alcobendas, Madrid. The leading party is the People's Party (Spain).</lex>
       <lex comment="good" lid="Id3">Alcobendas is part of Community of Madrid whose leader party at Alcobendas is the People's Party (Spain). The Adolfo Suárez Madrid–Barajas Airport is located there.</lex>
     </entry>
     <entry category="Airport" eid="Id74" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1460,7 +1460,7 @@
         <mtriple>Alderney_Airport | cityServed | Alderney</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alderney is served by Alderney Airport which has a runway length of 733.0 metres. Additionally, its 1st runway has an asphalt surface.</lex>
-      <lex comment="good" lid="Id2" error_1="733.0">Alderney Airport serves Laderney. Its runway has length of 733.0 and is made of asphalt.</lex>
+      <lex comment="good" lid="Id2">Alderney Airport serves Laderney. Its runway has length of 733.0 and is made of asphalt.</lex>
       <lex comment="good" lid="Id3">Alderney is served by Alderney airport which has a runway made of asphalt that is 733.0 in length.</lex>
     </entry>
     <entry category="Airport" eid="Id81" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1511,7 +1511,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 18L/36R runway in Allama Iqbal International airport in Pakistan, has a length of 3310.0.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International airport is located in Pakistan, and has a runway length of 3310.0. The runway name is 18L/36R.</lex>
-      <lex comment="good" lid="Id3" error_1="Allama Iqbal International Airport">Allama Iqbal International Airport is located in Pakistan has a runway length of 3310.0 and a name of 18L/36R.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Pakistan has a runway length of 3310.0 and a name of 18L/36R.</lex>
     </entry>
     <entry category="Airport" eid="Id84" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1559,7 +1559,7 @@
         <mtriple>Allama_Iqbal_International_Airport | location | Punjab,_Pakistan</mtriple>
         <mtriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Allama Iqbal International Airport">The Pakistan Civil Aviation Authority runs Allama Iqbal International Airport in Punjab Pakistan which is led by the Provincial Assembly of the Punjab.</lex>
+      <lex comment="good" lid="Id1">The Pakistan Civil Aviation Authority runs Allama Iqbal International Airport in Punjab Pakistan which is led by the Provincial Assembly of the Punjab.</lex>
     </entry>
     <entry category="Airport" eid="Id87" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1715,7 +1715,7 @@
         <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
         <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Wilson Township, Alpena County, Michigan">Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan in the United States. It has a runway length of 1533.0.</lex>
+      <lex comment="good" lid="Id1">Alpena County Regional Airport is located in Wilson Township, Alpena County, Michigan in the United States. It has a runway length of 1533.0.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport, located in Wilson Township, Alpena County Michigan, USA and has a length of 1533.0.</lex>
     </entry>
     <entry category="Airport" eid="Id95" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1750,7 +1750,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amsterdam Airport Schiphol which serves the city of Amsterdam has a runway length of 2014.0 and is -3.3528 above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="-3.3528" error_2="Amsterdam Airport Schiphol">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 2,014 long and serves Amsterdam.</lex>
+      <lex comment="good" lid="Id2" error_1="-3.3528">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 2,014 long and serves Amsterdam.</lex>
     </entry>
     <entry category="Airport" eid="Id97" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1850,7 +1850,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Texas, Andrews County Airport is 973.0 above sea level and has a runway length of 8.0.</lex>
-      <lex comment="good" lid="Id2" error_1="973.0">Andrews County Airport, Texas is 973 metres above sea level and has a runway length of 8.0.</lex>
+      <lex comment="good" lid="Id2">Andrews County Airport, Texas is 973 metres above sea level and has a runway length of 8.0.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport in Texas has a runway length of only 8.0 and is 973 above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id102" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1914,7 +1914,7 @@
         <mtriple>Texas | demonym | Texan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With its capital of Austin, Andrews County Airport is located in Texas where there are Texans.</lex>
-      <lex comment="good" lid="Id2" error_1="Andrews County Airport">In Texas, people are called Texans and the capital of Texas is Austin. Andrews County Airport is located in Texas.</lex>
+      <lex comment="good" lid="Id2">In Texas, people are called Texans and the capital of Texas is Austin. Andrews County Airport is located in Texas.</lex>
       <lex comment="good" lid="Id3">Andrews County Airport can be found in Texas where the residents are known as Texans and the state's capital is Austin.</lex>
     </entry>
     <entry category="Airport" eid="Id106" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2248,7 +2248,7 @@
         <mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antwerp International Airport serves Antwerp. It is owned by the Flemish Region and operated by the Flemish Government.</lex>
-      <lex comment="good" lid="Id2" error_1="Flemish Region">The Antwerp International Airport is operated by the Flemish Government and owned by the Flemish Region. It serves the city of Antwerp.</lex>
+      <lex comment="good" lid="Id2">The Antwerp International Airport is operated by the Flemish Government and owned by the Flemish Region. It serves the city of Antwerp.</lex>
     </entry>
     <entry category="Airport" eid="Id125" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2336,7 +2336,7 @@
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
         <mtriple>Appleton,_Wisconsin | isPartOf | Grand_Chute,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Little Chute, Wisconsin">Appleton, Wisconsin is part of Grand and Little Chute, Wisconsin; it is served by Appleton International Airport.</lex>
+      <lex comment="good" lid="Id1">Appleton, Wisconsin is part of Grand and Little Chute, Wisconsin; it is served by Appleton International Airport.</lex>
       <lex comment="good" lid="Id2">Little Chute is part of Appleton which is served by Appleton International Airport. Appleton is part of Grand Chute, Wisconsin.</lex>
     </entry>
     <entry category="Airport" eid="Id129" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2394,7 +2394,7 @@
         <mtriple>Appleton_International_Airport | runwayLength | 2439.0</mtriple>
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2439.0">Appleton International Airport located in Greenville, Wisconsin, has an elevation of 280 meters above sea level as well as a runway length of 2,439.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport located in Greenville, Wisconsin, has an elevation of 280 meters above sea level as well as a runway length of 2,439.</lex>
       <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin. The runway length is 2439 and the elevation is 280 metres above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id131" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2467,7 +2467,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
         <mtriple>Appleton_International_Airport | operatingOrganisation | Outagamie_County,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Outagamie County, Wisconsin">Appleton International Airport is elevated 280 metres above sea level and has a runway length of 1982.0. It is operated by an organisation in Outagamie County, Wisconsin.</lex>
+      <lex comment="good" lid="Id1">Appleton International Airport is elevated 280 metres above sea level and has a runway length of 1982.0. It is operated by an organisation in Outagamie County, Wisconsin.</lex>
       <lex comment="good" lid="Id2">The operators of Appleton International Airport, which has a runway length of 1,982 and is 280 metres above sea level, are in Outagamie County, Wisconsin.</lex>
       <lex comment="good" lid="Id3">Appleton International Airport, which is 280 metres above sea level and has a runway that's 1,982 long, is operated by Outagamie County in Wisconsin.</lex>
     </entry>
@@ -2719,7 +2719,7 @@
         <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines (Turkmenabat airport is their hub), the headquarters of which are located Turkmenistan.</lex>
-      <lex comment="good" lid="Id2" error_1="Turkmenabat Airport">Ashgabat International Airport is operated by Turkmenistan Airlines, whose headquarters are in Turkmenistan. The hub airport of Turkmenistan Airlines is the Turkmenabat Airport.</lex>
+      <lex comment="good" lid="Id2">Ashgabat International Airport is operated by Turkmenistan Airlines, whose headquarters are in Turkmenistan. The hub airport of Turkmenistan Airlines is the Turkmenabat Airport.</lex>
       <lex comment="good" lid="Id3" error_1="Ashgabat International Airport">Turkmenistan Airlines headquarter in Turkmenistan and operate the Ashgabat Airport; their hub airport is the Turkmenabat Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id148" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2866,8 +2866,8 @@
         <mtriple>Athens_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 94</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Athens is served by the Athens International Airport located in Spata at 94 metres above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="Spata">Athens International Airport is in Spata, serves the city of Athens, and is 94 metres above sea level.</lex>
-      <lex comment="good" lid="Id3" error_1="Spata">The Athens International Airport, which is 94 metres above sea level, is found in Spata and serves the city of Athens.</lex>
+      <lex comment="good" lid="Id2">Athens International Airport is in Spata, serves the city of Athens, and is 94 metres above sea level.</lex>
+      <lex comment="good" lid="Id3">The Athens International Airport, which is 94 metres above sea level, is found in Spata and serves the city of Athens.</lex>
     </entry>
     <entry category="Airport" eid="Id154" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2965,7 +2965,7 @@
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey which serves New York and is headquartered at the Four World Trade Center.</lex>
-      <lex comment="good" lid="Id2" error_1="Four World Trade Center" error_2="Port Authority of New York and New Jersey">The Port Authority of New York and New Jersey serves New York and operates the Atlantic City International Airport from the Four World Trade Centre.</lex>
+      <lex comment="good" lid="Id2" error_1="Four World Trade Center">The Port Authority of New York and New Jersey serves New York and operates the Atlantic City International Airport from the Four World Trade Centre.</lex>
     </entry>
     <entry category="Airport" eid="Id159" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3112,7 +3112,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township (a township in Atlantic County), New Jersey, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey">Atlantic City International Airport is located in Egg Harbor Township which is in Atlantic County, in New Jersey.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is located in Egg Harbor Township which is in Atlantic County, in New Jersey.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, Atlantic County, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id166" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3128,7 +3128,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra Airport is operated by the Indian Air Force which uses HAL Light Combat Helicopter (aircraft helicopter) and the Boeing C-17 Globemaster III (a transport aircraft).</lex>
       <lex comment="good" lid="Id2">The operating organization for Agra Airport is the Indian Air Force who deploy the HAL Light Combat Helicopter and the Boeing C17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id3" error_1="Boeing C-17 Globemaster III">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Boeing C-17 Globemaster III.</lex>
+      <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Boeing C-17 Globemaster III.</lex>
     </entry>
     <entry category="Airport" eid="Id167" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3288,7 +3288,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mamnoon Hussain is the leader of Pakistan, where the city of Lahore, served by Allama Iqbal International Airport, is located.</lex>
       <lex comment="good" lid="Id2">The city of Lahore is served by Allama Iqbal International airport, which is located in Pakistan and led by Mamnoon Hussain.</lex>
-      <lex comment="good" lid="Id3" error_1="Lahore">Lahore, located in Pakistan and led by Mamnoon Hussain, is the home of the Allama Iqbal International Airport.</lex>
+      <lex comment="good" lid="Id3">Lahore, located in Pakistan and led by Mamnoon Hussain, is the home of the Allama Iqbal International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id174" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -3444,7 +3444,7 @@
         <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="People's Party (Spain)">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes which is led by the People's Party and is part of the community of Madrid.</lex>
+      <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes which is led by the People's Party and is part of the community of Madrid.</lex>
       <lex comment="good" lid="Id2">The People's Party is the lead party of San Sebastian de los Reyes, Spain which is part of the Community of Madrid. The Adolfo Suárez Madrid–Barajas Airport is found there.</lex>
       <lex comment="good" lid="Id3">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes, Madrid, where the People's Party is the leading political organization.</lex>
     </entry>
@@ -3464,7 +3464,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
         <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Harrietstown, New York">Saranac Lake, New York, part of Harrietstown, New York, United States, is served by Adirondack Regional Airport.</lex>
+      <lex comment="good" lid="Id1">Saranac Lake, New York, part of Harrietstown, New York, United States, is served by Adirondack Regional Airport.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, Harrietstown, New York, United States.</lex>
       <lex comment="good" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York, in the United States.</lex>
     </entry>
@@ -3544,7 +3544,7 @@
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adirondack Regional Airport serves the city of Saranac Lake which is part of Essex County, New York, in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Adirondack Regional Airport">Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York, the United States.</lex>
+      <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York, the United States.</lex>
       <lex comment="good" lid="Id3">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Essex County in the U.S.A.</lex>
     </entry>
   </entries>

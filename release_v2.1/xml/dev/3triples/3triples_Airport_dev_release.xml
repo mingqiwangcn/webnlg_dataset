@@ -71,7 +71,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adolfo Suarez Madrid-Barajas Airport">The 14L/32R runway of the Adolfo Suarez Madrid-Barajas Airport in Madrid has a length of 4100.0.</lex>
+      <lex comment="good" lid="Id1">The 14L/32R runway of the Adolfo Suarez Madrid-Barajas Airport in Madrid has a length of 4100.0.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is in Madrid; its runway name is 14L/32R and its runway length is 4100.</lex>
       <lex comment="good" lid="Id3">The Adolfo Suarez Madrid-Barajas Airport is in Madrid. Its runway, called 14L/32R has length of 4100.</lex>
     </entry>
@@ -281,7 +281,7 @@
         <mtriple>Antwerp_International_Airport | owner | Flemish_Region</mtriple>
         <mtriple>Antwerp_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 12.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Flemish Region">Antwerp International Airport which has an elevation of 12.0 metres above sea level is owned and operated by the Flemish region and Flemish government respectively.</lex>
+      <lex comment="good" lid="Id1">Antwerp International Airport which has an elevation of 12.0 metres above sea level is owned and operated by the Flemish region and Flemish government respectively.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport which is 12 meters above sea level is owned by Flemish Region and operated by the Flemish government.</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -295,7 +295,7 @@
         <mtriple>Antwerp_International_Airport | operatingOrganisation | "Flemish department of Mobility and Public Works"</mtriple>
         <mtriple>Antwerp_International_Airport | cityServed | Antwerp</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Flemish Region">The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport that serves the city of Antwerp. The owner of the airport is the Flemish Region.</lex>
+      <lex comment="good" lid="Id1">The Flemish department of Mobility and Public Works is the operating organisation of Antwerp International Airport that serves the city of Antwerp. The owner of the airport is the Flemish Region.</lex>
       <lex comment="good" lid="Id2">Antwerp International Airport serves the city of Antwerp, is in the Flemish region and is operated by the Flemish department of mobility and public works.</lex>
       <lex comment="good" lid="Id3">Antwerp International Airport serves Antwerp. It is owned by the Flemish Region and operated by the Flemish department of Mobility and Public Works.</lex>
     </entry>

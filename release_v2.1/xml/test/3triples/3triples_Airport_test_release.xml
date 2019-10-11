@@ -177,7 +177,7 @@
         <mtriple>Allama_Iqbal_International_Airport | runwayLength | 2900.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allama Iqbal International Airport in Punjab, Pakistan has a runway known as 18L/36R with a length of 2900.0.</lex>
-      <lex comment="good" lid="Id2" error_1="18L/36R">Allama Iqbal International Airport, whose runway name is 18L/36R is located in Punjab, Pakistan. Its length is 2900.</lex>
+      <lex comment="good" lid="Id2">Allama Iqbal International Airport, whose runway name is 18L/36R is located in Punjab, Pakistan. Its length is 2900.</lex>
       <lex comment="good" lid="Id3">Allama Iqbal International Airport is located in Punjab, Pakistan, with the runway's name is 18L/36R, and the length is 29000.0.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -382,7 +382,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
         <mtriple>Madrid | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adolfo Suarez Madrid-Barajas Airport">The leader party in Madrid Spain (in which the Adolfo Suarez Madrid-Barajas Airport is located) is called Ahora Madrid.</lex>
+      <lex comment="good" lid="Id1">The leader party in Madrid Spain (in which the Adolfo Suarez Madrid-Barajas Airport is located) is called Ahora Madrid.</lex>
       <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport is found in Madrid, Spain where the leading party is Ahora Madrid.</lex>
       <lex comment="good" lid="Id3">Ahora Madrid is the leading party of Madrid, Spain. Adolfo Suárez Madrid–Barajas Airport is found in Madrid.</lex>
     </entry>

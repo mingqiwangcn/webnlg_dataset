@@ -54,7 +54,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE and can be found in Madrid. The airport is situated 610.0 meters above sea level and has a 4,349 kilometers long runway whose name is 14L/32R.</lex>
-      <lex comment="good" lid="Id2" error_1="Adolfo Suarez Madrid-Barajas Airport">Adolfo Suárez Madrid-Barajas Airport, which lies 610 metres above sea level, is located in Madrid and operated by ENAIRE. The airport's runway, named 14L/32R, has a length of 4349.0.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suárez Madrid-Barajas Airport, which lies 610 metres above sea level, is located in Madrid and operated by ENAIRE. The airport's runway, named 14L/32R, has a length of 4349.0.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -78,7 +78,7 @@
         <mtriple>Uttar_Pradesh | leaderName | Ram_Naik</mtriple>
         <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Awadh">Agra Airport is in Uttar Pradesh, which is part of Bundelkhand and Awadh. Its ICAO location identifier is VIAG. The leader of Uttar Pradesh is Ram Naik.</lex>
+      <lex comment="good" lid="Id1">Agra Airport is in Uttar Pradesh, which is part of Bundelkhand and Awadh. Its ICAO location identifier is VIAG. The leader of Uttar Pradesh is Ram Naik.</lex>
       <lex comment="good" lid="Id2">Agra Airport is located in Uttar Pradesh. Uttar Pradesh is part of both Awadh ad Bundelkhand. The Airport's ICAO location identifier is "VIAG". The leader of Uttar Pradesh is called Ram Naik.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -134,7 +134,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
         <mtriple>United_States_Air_Force | battles | Korean_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="McDonnell Douglas F-15 Eagle">The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force has fought in the Korean War. It is the operating organisation for Al Asad airbase. It has a Boeing C-17 Globemaster III transport aircraft and additionally, the Lockheed AC-130 can be found on USAF aircraft carriers. McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
       <lex comment="good" lid="Id2">The United States Air Force, which fought battles in the Korean war, is the operating organisation for Al Asad airbase. The US Airforce has a Boeing C-17 Globemaster III transport aircraft, an aircraft fighter called the McDonnell Douglas F-15 Eagle and an attack aircraft named The Lockheed AC-130.</lex>
     </entry>
     <entry category="Airport" eid="Id8" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -159,8 +159,8 @@
         <mtriple>United_States_Air_Force | battles | Korean_War</mtriple>
         <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Invasion of Grenada">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenada involved the United States Air Force which currently operates the Al Asad Airbase.</lex>
-      <lex comment="good" lid="Id2" error_1="Invasion of Grenada" error_2="Lockheed C-130 Hercules">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers are Lockheed AC-130 which is an attack aircraft and the Lockheed C-130 Hercules which is a transport plane.</lex>
+      <lex comment="good" lid="Id1">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenada involved the United States Air Force which currently operates the Al Asad Airbase.</lex>
+      <lex comment="good" lid="Id2" error_1="Invasion of Grenada">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers are Lockheed AC-130 which is an attack aircraft and the Lockheed C-130 Hercules which is a transport plane.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack aircraft and Lockheed C-130 Hercules transport aircraft. The USAF participated in the Korean War and the Invasion of Grenada.</lex>
     </entry>
     <entry category="Airport" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -364,7 +364,7 @@
         <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
         <mtriple>Angola_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 159</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Luanda Province">Angola International Airport is located in Ícolo e Bengo, Luanda Province, Angola. The runway is 4000ft long and is 159m a.s.l.</lex>
+      <lex comment="good" lid="Id1">Angola International Airport is located in Ícolo e Bengo, Luanda Province, Angola. The runway is 4000ft long and is 159m a.s.l.</lex>
       <lex comment="good" lid="Id2">Angola International airport is located in Icolo e Bengo, which is a part of Luanda Province, located in Angola. The airport is 159 meters above sea level and its runway has a length of 4000.0.</lex>
       <lex comment="good" lid="Id3">Angola International Airport is located in Icolo e Bengo, which is located in the Luanda Province, Angola. The airport is situated 159 meters above sea level and it has a runway that measures a length of 4000.0.</lex>
     </entry>
@@ -460,7 +460,7 @@
         <mtriple>Ardmore_Airport_(New_Zealand) | elevationAboveTheSeaLevel_(in_metres) | 34.0</mtriple>
         <mtriple>Ardmore_Airport_(New_Zealand) | runwayName | "03R/21L"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Civil Aviation Authority of New Zealand">Ardmore Airport in New Zealand is operated by the Civil Aviation Authority of New Zealand and is 34 metres above sea level. It has a runway named 03R/21L which is 1,411 long and its third runway has a poaceae surface.</lex>
+      <lex comment="good" lid="Id1">Ardmore Airport in New Zealand is operated by the Civil Aviation Authority of New Zealand and is 34 metres above sea level. It has a runway named 03R/21L which is 1,411 long and its third runway has a poaceae surface.</lex>
       <lex comment="good" lid="Id2">Ardmore Airport (New Zealand) is operated by the Civil Aviation Authority of New Zealand. Its 3rd runway is made of Poaceae and its name is 03R/21L. It is 1411 m long and the airport is 34 m above sea level.</lex>
       <lex comment="good" lid="Id3">The Civil Aviation Authority of New Zealand is the operating organisation for Ardmore Airport, New Zealand and is situated 34 meters above sea level. The airport's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called "03R/21L".</lex>
     </entry>
