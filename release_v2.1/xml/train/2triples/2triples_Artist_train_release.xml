@@ -35,7 +35,7 @@
         <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
         <mtriple>Suburban_Legends | genre | Pop_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Suburban Legends">Pop music band Suburban Legend includes musician Aaron Bertram.</lex>
+      <lex comment="good" lid="Id1" error_1="Suburban Legends">Pop music band Suburban Legends includes musician Aaron Bertram.</lex>
       <lex comment="good" lid="Id2">Aaron Bertram plays for the Suburban Legends, which is a pop music band.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram plays pop music for the Suburban Legends band.</lex>
     </entry>
@@ -70,7 +70,7 @@
         <mtriple>Ska_punk | stylisticOrigin | Punk_rock</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ska Punk, the genre of Aaron Bertram, originates from punk rock.</lex>
-      <lex comment="good" lid="Id2" error_1="Punk rock">Ska punk, derived from punk music, is the genre of Aaron Bertram.</lex>
+      <lex comment="good" lid="Id2" error_1="Punk rock">Ska punk, derived from punk rock music, is the genre of Aaron Bertram.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram's musical genre is Ska punk, music whose origins are punk rock.</lex>
     </entry>
     <entry category="Artist" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -370,8 +370,8 @@
         <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | House_of_Low_Culture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner played with the band Twilight and performed for House of Low Culture.</lex>
-      <lex comment="good" lid="Id2">Aaron Turner, played with the band Twilight and performed for House of Low Culture.</lex>
-      <lex comment="good" lid="Id3" error_1="Aaron Turner">Aaron turned played with Twilight and House of Low Culture.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner played with the band Twilight and performed with House of Low Culture.</lex>
+      <lex comment="good" lid="Id3" error_1="Aaron Turner">Aaron Turner played with Twilight and House of Low Culture.</lex>
     </entry>
     <entry category="Artist" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -474,7 +474,7 @@
         <mtriple>Aaron_Turner | genre | Progressive_metal</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner played with the band Twilight and he plays progressive metal music.</lex>
-      <lex comment="good" lid="Id2" error_1="Progressive metal">Aaron Turner played with the band Twilight and performs Metal music.</lex>
+      <lex comment="good" lid="Id2" error_1="Progressive metal">Aaron Turner played with the band Twilight and performs progressive metal music.</lex>
       <lex comment="good" lid="Id3">Twilight's Aaron Turner is a Progressive Metal artist.</lex>
     </entry>
     <entry category="Artist" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -608,7 +608,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abradab was born in Poland on November 12th 1978.</lex>
       <lex comment="good" lid="Id2">Abradab was born on November 12, 1978 in Poland.</lex>
-      <lex comment="good" lid="Id3" error_1="Abradab">Adrabad was born in Poland on November 12th 1978.</lex>
+      <lex comment="good" lid="Id3" error_1="Abradab">Adradab was born in Poland on November 12th 1978.</lex>
     </entry>
     <entry category="Artist" eid="Id45" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1802,7 +1802,7 @@
         <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
         <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Manchester">Alfred Garth Jones was born in Machester, England.</lex>
+      <lex comment="good" lid="Id1" error_1="Manchester">Alfred Garth Jones was born in Manchester, England.</lex>
       <lex comment="good" lid="Id2">The birthplace of Alfred Garth Jones is Manchester, England.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England.</lex>
     </entry>
@@ -1841,7 +1841,7 @@
         <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
         <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alfred Garth Jones">Alfrend Garth Jones was born in Manchester and died in Sidcup.</lex>
+      <lex comment="good" lid="Id1" error_1="Alfred Garth Jones">Alfred Garth Jones was born in Manchester and died in Sidcup.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones, born in Manchester, died in Sidcup.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester and died in Sidcup.</lex>
     </entry>
@@ -1941,9 +1941,9 @@
         <mtriple>Alfred_Garth_Jones | professionalField | Illustration</mtriple>
         <mtriple>Alfred_Garth_Jones | birthPlace | Manchester</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Illustration">Alfred Garth Jones was born in Manchester and makes a living as an Illustrator.</lex>
+      <lex comment="good" lid="Id1" error_1="Illustration">Alfred Garth Jones was born in Manchester and makes a living as an illustrator.</lex>
       <lex comment="good" lid="Id2" error_1="Illustration">The birthplace of Alfred Garth Jones is Manchester and he makes a living as an illustrator.</lex>
-      <lex comment="good" lid="Id3" error_1="Illustration">Born in Manchester, Alfred Garth Jones, was a professional Illustrator.</lex>
+      <lex comment="good" lid="Id3" error_1="Illustration">Born in Manchester, Alfred Garth Jones, was a professional illustrator.</lex>
     </entry>
     <entry category="Artist" eid="Id132" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2076,7 +2076,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell is an artist for the bands Mellow Candle and Plastik Mak.</lex>
       <lex comment="good" lid="Id2">Alison O’Donnell was in the band Mellow Candle and is associated with the Plastik Mak.</lex>
-      <lex comment="good" lid="Id3" error_1="Plastik Mak">Alison O'Donnell is associated with Plastic Mak and plays with Mellow Candle.</lex>
+      <lex comment="good" lid="Id3" error_1="Plastik Mak">Alison O'Donnell is associated with Plastik Mak and plays with Mellow Candle.</lex>
     </entry>
     <entry category="Artist" eid="Id142" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2180,7 +2180,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell is a folk rock musician signed to Deram Records.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell is signed with the record label Deram Records and performs folk rock music.</lex>
-      <lex comment="good" lid="Id3" error_1="Folk rock">Folk musician Alison O'Donnell is signed with Deram Records.</lex>
+      <lex comment="good" lid="Id3" error_1="Folk rock">Folk rock musician Alison O'Donnell is signed with Deram Records.</lex>
     </entry>
     <entry category="Artist" eid="Id150" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2294,7 +2294,7 @@
         <mtriple>Alison_O'Donnell | instrument | Autoharp</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell is a Psychedelic folk musician and can play the autoharp.</lex>
-      <lex comment="good" lid="Id2" error_1="Psychedelic folk">Alison O'Donnell plays Psychadelic folk music on the autoharp.</lex>
+      <lex comment="good" lid="Id2" error_1="Psychedelic folk">Alison O'Donnell plays Psychedelic folk music on the autoharp.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performs Psychedelic folk music and can play the autoharp.</lex>
     </entry>
     <entry category="Artist" eid="Id159" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2349,7 +2349,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest started his career in 2005 and uses the Hip Hop genre.</lex>
       <lex comment="good" lid="Id2">Allen Forrest became active in 2005 and his musical genre is hip hop.</lex>
-      <lex comment="good" lid="Id3" error_1="Allen Forrest">Allen Forest first starting performing hip hop music in 2005.</lex>
+      <lex comment="good" lid="Id3" error_1="Allen Forrest">Allen Forrest first starting performing hip hop music in 2005.</lex>
     </entry>
     <entry category="Artist" eid="Id163" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2431,7 +2431,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest's genre of music is Rhythm and Blues a derivative of which, is Funk.</lex>
       <lex comment="good" lid="Id2">Allen Forrest performs rhythm and blues music which has funk as a derivative.</lex>
-      <lex comment="good" lid="Id3" error_1="Allen Forrest">Allen Forest plays Rhythm and Blues, of which Funk is a derivative.</lex>
+      <lex comment="good" lid="Id3" error_1="Allen Forrest">Allen Forrest plays Rhythm and Blues, of which Funk is a derivative.</lex>
     </entry>
     <entry category="Artist" eid="Id169" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2656,7 +2656,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne, an exponent of Rock music, is signed to the record label Alligator Records.</lex>
       <lex comment="good" lid="Id2">Rock artist Anders Osborne performs under the record label Alligator Records.</lex>
-      <lex comment="good" lid="Id3" error_1="Anders Osborne">Anders Osborn is signed to Alligator Records, a rock music exponent.</lex>
+      <lex comment="good" lid="Id3" error_1="Anders Osborne">Anders Osborne is signed to Alligator Records, a rock music exponent.</lex>
     </entry>
     <entry category="Artist" eid="Id186" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2783,7 +2783,7 @@
         <mtriple>Andra_(singer) | genre | Rhythm_and_blues</mtriple>
         <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Disco">Andra performs rhythm and blues music, a derivative of which is, rhythm and blues.</lex>
+      <lex comment="good" lid="Id1" error_1="Disco">Andra performs rhythm and blues music, a derivative of which is disco.</lex>
       <lex comment="good" lid="Id2">Rhythm and blues was the base of disco and the genre of singer Andra.</lex>
       <lex comment="good" lid="Id3">Rhythm and blues is the genre of artist Andra and is also the origin of disco.</lex>
     </entry>
@@ -2871,7 +2871,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jwaydan_Moyine</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Bobina</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Andrew Rayel">Anrew Rayel is musically associated with Jwaydan Moyine and Bobina.</lex>
+      <lex comment="good" lid="Id1" error_1="Andrew Rayel">Andrew Rayel is musically associated with Jwaydan Moyine and Bobina.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel is associated with musicians Jwaydan Moyine and Bobina.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel is musically associated with Jwaydan Moyine and Bobina.</lex>
     </entry>
@@ -2889,7 +2889,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with the musical artists Jwaydan Moyine and Jonathan Mendelsohn.</lex>
-      <lex comment="good" lid="Id2" error_1="Jonathan Mendelsohn">Andrew Rayel is musically connected to Jwaydan Moyine and Jonathan Medelsohn.</lex>
+      <lex comment="good" lid="Id2" error_1="Jonathan Mendelsohn">Andrew Rayel is musically connected to Jwaydan Moyine and Jonathan Mendelsohn.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel is associated with the musicians Jwaydan Moyine and Jonathan Mendelsohn.</lex>
     </entry>
     <entry category="Artist" eid="Id202" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2906,8 +2906,8 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with Jwaydan Moyine and Mark Sixma.</lex>
-      <lex comment="good" lid="Id2" error_1="Mark Sixma">Andrew Rayel, associated with the musician Jwaydan Moyine, has also worked with Mark Sima.</lex>
-      <lex comment="good" lid="Id3" error_1="Mark Sixma">Andrew Rayel is associated with the musicians Jwaydan Moyine and Mark Sima.</lex>
+      <lex comment="good" lid="Id2" error_1="Mark Sixma">Andrew Rayel, associated with the musician Jwaydan Moyine, has also worked with Mark Sixma.</lex>
+      <lex comment="good" lid="Id3" error_1="Mark Sixma">Andrew Rayel is associated with the musicians Jwaydan Moyine and Mark Sixma.</lex>
     </entry>
     <entry category="Artist" eid="Id203" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2936,7 +2936,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with Mark Sixma and Armin van Buuren.</lex>
-      <lex comment="good" lid="Id2" error_1="Mark Sixma">Andrew Rayel is associated with the musical artist Armin van Buuren and with Mark Sima.</lex>
+      <lex comment="good" lid="Id2" error_1="Mark Sixma">Andrew Rayel is associated with the musical artist Armin van Buuren and with Mark Sixma.</lex>
     </entry>
     <entry category="Artist" eid="Id205" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
