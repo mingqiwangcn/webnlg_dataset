@@ -193,7 +193,7 @@
         <mtriple>Agustín_Barboza | birthPlace | Asunción</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agustín Barboza, a Guarania music solo singer, was born in Asunción, Paraguay.</lex>
-      <lex comment="good" lid="Id2" error_1="Guarania (music)">Guarania singer Agustin Barboza was born in Asuncion, Paraguay.</lex>
+      <lex comment="good" lid="Id2">Guarania singer Agustin Barboza was born in Asuncion, Paraguay.</lex>
       <lex comment="good" lid="Id3">Guarania genre solo singer Agustín Barboza was born in Asunción, Paraguay.</lex>
     </entry>
     <entry category="Artist" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -429,7 +429,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell, who performs jazz, once was signed to Deram Records and another time to Fruits de Mer Records. London is the home to Deram Records.</lex>
       <lex comment="good" lid="Id2">Previously signed to the record label Fruits de Mer Records, jazz musician, Alison O'Donnell is signed with the London based, record label, Deram Records.</lex>
-      <lex comment="good" lid="Id3" error_1="Fruits de Mer Records">Alison O'Donnell, who performs jazz music, was once signed to Fruits de Mer Records and is now signed to London based Deram Records.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell, who performs jazz music, was once signed to Fruits de Mer Records and is now signed to London based Deram Records.</lex>
     </entry>
     <entry category="Artist" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -475,7 +475,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne, whose genre is rock music, is associated with Voice of the Wetlands All-Stars. He is also associated with Tab Benoit and the musical artist Billy Iuso.</lex>
       <lex comment="good" lid="Id2">Rock performer Anders Osborne worked with Tab Benoit. He's associated with musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
-      <lex comment="good" lid="Id3" error_1="Voice of the Wetlands All-Stars">Exponent of rock music Anders Osborne, who has worked with Tab Benoit is associated with the musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
+      <lex comment="good" lid="Id3">Exponent of rock music Anders Osborne, who has worked with Tab Benoit is associated with the musical artist Billy Iuso and the Voice of the Wetlands All-Stars.</lex>
     </entry>
     <entry category="Artist" eid="Id23" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -583,7 +583,7 @@
         <mtriple>Agustín_Barboza | deathPlace | Paraguay</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agustin Barboza died in Asuncion, part of Gran Asunción, in Paraguay, the country led by Juan Afara.</lex>
-      <lex comment="good" lid="Id2" error_1="Juan Afara">Agustin Barboza was born in Paraguay which is led by Juan Afara. He died in Asuncion which is part of Gran Asuncion.</lex>
+      <lex comment="good" lid="Id2">Agustin Barboza was born in Paraguay which is led by Juan Afara. He died in Asuncion which is part of Gran Asuncion.</lex>
       <lex comment="good" lid="Id3">Agustin Barboza was born in Paraguay and died in Asuncion, part of Gran Asunción, The leader of Paraguay is Juan Afara.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -624,7 +624,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, Greater Manchester, England. The Labour Party is in the majority in Manchester.</lex>
       <lex comment="good" lid="Id2">The birthplace of Alfred Garth Jones is Manchester, (part of Greater Manchester), England. In Manchester the Labour Party is in the majority.</lex>
-      <lex comment="good" lid="Id3" error_1="Greater Manchester">Alfred Garth Jones was born in Manchester, Greater Manchester, England, where the majority is the Labour Party.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, Greater Manchester, England, where the majority is the Labour Party.</lex>
     </entry>
     <entry category="Artist" eid="Id30" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>

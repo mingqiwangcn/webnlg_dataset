@@ -250,7 +250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in 1872 in Manchester, England in the U.K. He died in London.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester, England in the United Kingdom in 1872. He died in London.</lex>
-      <lex comment="good" lid="Id3" error_1="United Kingdom">Alfred Garth Jones was born in Manchester, England, UK in 1872. He passed away in London.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England, UK in 1872. He passed away in London.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -313,7 +313,7 @@
         <mtriple>Alison_O'Donnell | recordLabel | Stanyan_Records</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell plays jazz music, where Funk is a derivative and has sign for Stanyan Records label as well as Deram records based in London.</lex>
-      <lex comment="good" lid="Id2" error_1="Alison O'Donnell">Funk is derived from jazz music as performed by Alison O'Donnell. She is signed with the record label Stanyan Records and also Deram Records which is based in London.</lex>
+      <lex comment="good" lid="Id2">Funk is derived from jazz music as performed by Alison O'Donnell. She is signed with the record label Stanyan Records and also Deram Records which is based in London.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell performs jazz music, of which funk is a derivative. She was signed to Deram Records in London but is now signed to Stanyan Records.</lex>
     </entry>
     <entry category="Artist" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -406,7 +406,7 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
         <mtriple>Anders_Osborne | activeYearsStartYear | 1989</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Blues">Anders Osborne musical career began in 1989. His career began in the blues genre. He has been associated with the band, Galactic as well as Tab Benoit. Osborne also has ties to fellow musician Billy Iuso.</lex>
+      <lex comment="good" lid="Id1">Anders Osborne musical career began in 1989. His career began in the blues genre. He has been associated with the band, Galactic as well as Tab Benoit. Osborne also has ties to fellow musician Billy Iuso.</lex>
       <lex comment="good" lid="Id2">Anders Osborne began his Blues musical career in 1989 and has worked with Galactic, Tab Benoit and Billy Iuso.</lex>
       <lex comment="good" lid="Id3">Blues artist Anders Osborne began in 1989 and is associated with artists Tab Benoit, Galactic and Billy Iuso.</lex>
     </entry>

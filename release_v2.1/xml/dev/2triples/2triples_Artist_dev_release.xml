@@ -392,7 +392,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is associated with both musical artist Jonathan Mendelsohn and Mark Sixma.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel has worked musically with Jonathan Mendelsohn and Mark Sixma.</lex>
-      <lex comment="good" lid="Id3" error_1="Mark Sixma">Andrew Rayel is associated with Jonathan Mendelsohn and Mark Sixma.</lex>
+      <lex comment="good" lid="Id3">Andrew Rayel is associated with Jonathan Mendelsohn and Mark Sixma.</lex>
     </entry>
     <entry category="Artist" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -403,9 +403,9 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mark Sixma">Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sixma are associates.</lex>
+      <lex comment="good" lid="Id1">Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sixma are associates.</lex>
       <lex comment="good" lid="Id2">The musicians Andrew Rayel and Christian Burns are associates and they worked with Mark Sixma.</lex>
-      <lex comment="good" lid="Id3" error_1="Mark Sixma">Musicians, Andrew Rayel, Christian Burns and Mark Sixma, are associates.</lex>
+      <lex comment="good" lid="Id3">Musicians, Andrew Rayel, Christian Burns and Mark Sixma, are associates.</lex>
     </entry>
     <entry category="Artist" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

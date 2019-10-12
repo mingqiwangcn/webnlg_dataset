@@ -472,7 +472,7 @@
         <mtriple>Aaron_Turner | genre | Black_metal</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner, who performs black metal music, is a musician in the Lotus Eaters band and once played for Old Man Gloom.</lex>
-      <lex comment="good" lid="Id2" error_1="Lotus Eaters (band)">Aaron Turner is a Black metal musician who played for Old Man Gloom and currently member of the Lotus Eaters band.</lex>
+      <lex comment="good" lid="Id2">Aaron Turner is a Black metal musician who played for Old Man Gloom and currently member of the Lotus Eaters band.</lex>
       <lex comment="good" lid="Id3">Aaron Turner played for Old Man Gloom and the Lotus Eaters band. Mr. Turner plays Black Metal music.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -676,7 +676,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abradab; started performing in 1994, played with the band Kaliber 44 and is associated with Magik (rapper).</lex>
       <lex comment="good" lid="Id2">Abradab started performing in 1994 and is an artist for the band Kaliber 44. He is musically associated with the rapper Magik.</lex>
-      <lex comment="good" lid="Id3" error_1="Magik (rapper)">Abradab, who played with the band Kaliber 44 and is associated with the rapper Magik, started performing in 1994.</lex>
+      <lex comment="good" lid="Id3">Abradab, who played with the band Kaliber 44 and is associated with the rapper Magik, started performing in 1994.</lex>
     </entry>
     <entry category="Artist" eid="Id41" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -921,7 +921,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stockholm born Ace Wilder is a solo singer signed with EMI Records.</lex>
       <lex comment="good" lid="Id2">Solo singer Ace Wilder was born in Stockholm and records for EMI records.</lex>
-      <lex comment="good" lid="Id3" error_1="Stockholm">Born in Stockholm, Ace Wilder, is signed to the record label EMI Records and has a musical background as a solo singer.</lex>
+      <lex comment="good" lid="Id3">Born in Stockholm, Ace Wilder, is signed to the record label EMI Records and has a musical background as a solo singer.</lex>
     </entry>
     <entry category="Artist" eid="Id54" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -955,8 +955,8 @@
         <mtriple>Hip_hop_music | derivative | Drum_and_bass</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hip Hop music, which includes Gangsta Rap, utilizes drum and bass. It is the genre of Ace Wilder.</lex>
-      <lex comment="good" lid="Id2" error_1="Drum and bass">Ace Wilder is an exponent of Hip hop music, the sub genre of which, is Gangsta rap. Also connected to hip hop, is Drum and bass, which is a derivative of Hip hop music.</lex>
-      <lex comment="good" lid="Id3" error_1="Ace Wilder">Hip hop music has a sub genre called Gangsta rap, which is Ace Wilder's genre and Drum and bass is one of its derivative.</lex>
+      <lex comment="good" lid="Id2">Ace Wilder is an exponent of Hip hop music, the sub genre of which, is Gangsta rap. Also connected to hip hop, is Drum and bass, which is a derivative of Hip hop music.</lex>
+      <lex comment="good" lid="Id3">Hip hop music has a sub genre called Gangsta rap, which is Ace Wilder's genre and Drum and bass is one of its derivative.</lex>
     </entry>
     <entry category="Artist" eid="Id56" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1106,7 +1106,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agustin Barboza was born in Paraguay and died in Asuncion, Gran Asunción.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza was born in Paraguay and died in Asuncion (part of Gran Asuncion).</lex>
-      <lex comment="good" lid="Id3" error_1="Gran Asuncion">Agustin Barboza, born in Paraguay, died in Asunción, which is part of Gran Asunción.</lex>
+      <lex comment="good" lid="Id3">Agustin Barboza, born in Paraguay, died in Asunción, which is part of Gran Asunción.</lex>
     </entry>
     <entry category="Artist" eid="Id63" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1151,7 +1151,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Juan Afara is the leader of Paraguay, the country where Agustin Barboza was born. Agustin Barboza died in Asuncion.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza died in Asuncion, in Paraguay which is led by Juan Afara.</lex>
-      <lex comment="good" lid="Id3" error_1="Agustin Barboza">Agustín Barboza died in Asuncion, which is part of the country of Paraguay, where the leader is Juan Afara.</lex>
+      <lex comment="good" lid="Id3">Agustín Barboza died in Asuncion, which is part of the country of Paraguay, where the leader is Juan Afara.</lex>
     </entry>
     <entry category="Artist" eid="Id65" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1270,7 +1270,7 @@
         <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
         <mtriple>Rhythm_and_blues | derivative | Disco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rhythm and blues">Rhythm and Blues derived from disco music and is the genre of Ahmet Ertegun who comes from Washington D.C.</lex>
+      <lex comment="good" lid="Id1">Rhythm and Blues derived from disco music and is the genre of Ahmet Ertegun who comes from Washington D.C.</lex>
       <lex comment="good" lid="Id2">The musical genre of Ahmet Ertegun, originally from Washington DC, is rhythm and blues, from which disco is derived.</lex>
       <lex comment="good" lid="Id3">Ahmet Ertegun, from Washington, D.C., plays rhythm and blues music. Disco comes from rhythm and blues.</lex>
     </entry>
@@ -1955,7 +1955,7 @@
         <mtriple>Aleksandra_Kovač | genre | Soul_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovač', whose genre is soul music, is in same band with Kornelije Kovač and is associated with the musical artist Bebi Dol.</lex>
-      <lex comment="good" lid="Id2" error_1="Bebi Dol">Aleksandra Kovač performs soul music and is associated with the musical artist Bebi Dol and Kornelije Kovac.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovač performs soul music and is associated with the musical artist Bebi Dol and Kornelije Kovac.</lex>
       <lex comment="good" lid="Id3">Soul musician Aleksandra Kovač has previously worked with the musical artists Bebi Dol and Kornelije Kovač.</lex>
     </entry>
     <entry category="Artist" eid="Id108" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2030,7 +2030,7 @@
         <mtriple>Pop_music | musicFusionGenre | Disco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovac has the musical genre of pop music and is associated with fellow musical artist Kristina Kovač. Disco is considered to be a fusion genre since it contain elements of other genres such as pop music.</lex>
-      <lex comment="good" lid="Id2" error_1="Aleksandra Kovac">Aleksandra Kovac is musically involved with Kristina Kovac and plays pop music whose fusion is the disco.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac is musically involved with Kristina Kovac and plays pop music whose fusion is the disco.</lex>
       <lex comment="good" lid="Id3">Aleksandra Kovac (an associate of the musician Kristina Kovac), is a pop music artiste and disco is a fusion genre.</lex>
     </entry>
     <entry category="Artist" eid="Id112" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2065,7 +2065,7 @@
         <mtriple>Aleksandra_Kovač | associatedBand/associatedMusicalArtist | Kristina_Kovač</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandra Kovacs plays rhythm and blues music. She is associated with the musical artist Bebi Dol and Kristina Kovac.</lex>
-      <lex comment="good" lid="Id2" error_1="Bebi Dol">Aleksandra Kovac, who is associated with Bebi Dol and Kristina Kovac, is an exponent of Rhythm and blues.</lex>
+      <lex comment="good" lid="Id2">Aleksandra Kovac, who is associated with Bebi Dol and Kristina Kovac, is an exponent of Rhythm and blues.</lex>
       <lex comment="good" lid="Id3">Musical Artist, Aleksandra Kovač is associated with fellow musical artists Bebi Dol and Kristina Kovač. The musical genre of Aleksandra Kovac is rhythm and blues.</lex>
     </entry>
     <entry category="Artist" eid="Id114" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2140,7 +2140,7 @@
         <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Day, whose genre is Acoustic music, plays with the band Chameleon Circuit and is associated with the musical artist, Charlie McDonnell.</lex>
-      <lex comment="good" lid="Id2" error_1="Chameleon Circuit (band)">Alex Day plays with the Chameleon Circuit band, associated with musical artist Charlie McDonnell and plays acoustic music.</lex>
+      <lex comment="good" lid="Id2">Alex Day plays with the Chameleon Circuit band, associated with musical artist Charlie McDonnell and plays acoustic music.</lex>
     </entry>
     <entry category="Artist" eid="Id118" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2159,7 +2159,7 @@
         <mtriple>Alex_Day | associatedBand/associatedMusicalArtist | Charlie_McDonnell</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Day performs electronic music, plays with the band Chameleon Circuit and is associated with the musical artist, Charlie McDonnell.</lex>
-      <lex comment="good" lid="Id2" error_1="Charlie McDonnell">Electronic musician Alex Day is part of Chameleon Circuit and associated with artist, Charlie McDonnell.</lex>
+      <lex comment="good" lid="Id2">Electronic musician Alex Day is part of Chameleon Circuit and associated with artist, Charlie McDonnell.</lex>
       <lex comment="good" lid="Id3">Alex Day, whose musical genre is Electronic music, plays with the band Chameleon Circuit and is associated with the musical artist Charlie McDonnell.</lex>
     </entry>
     <entry category="Artist" eid="Id119" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2462,7 +2462,7 @@
         <mtriple>Alfred_Garth_Jones | deathPlace | Sidcup</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones is from Manchester, UK, and died in Sidcup.</lex>
-      <lex comment="good" lid="Id2" error_1="Alfred Garth Jones">Alfred Garth Jones was born in Manchester in the U.K. He died in Sidcup.</lex>
+      <lex comment="good" lid="Id2">Alfred Garth Jones was born in Manchester in the U.K. He died in Sidcup.</lex>
       <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester in the United Kingdom and died in Sidcup.</lex>
     </entry>
     <entry category="Artist" eid="Id136" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2610,8 +2610,8 @@
         <mtriple>Alison_O'Donnell | genre | Folk_rock</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Folk rock musician Alison O’Donnell was in the Mellow Candle and Flibbertigibbet bands.</lex>
-      <lex comment="good" lid="Id2" error_1="Flibbertigibbet">Alison O'Donnell performs in the folk rock genre and was part of the Flibbertigibbet band and the Mellow Candle band.</lex>
-      <lex comment="good" lid="Id3" error_1="Alison O'Donnell">Alison O'Donnell is an artist for the band Mellow Candle and was a member of the Flibbertigibbet band. Her genre of music is folk rock.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell performs in the folk rock genre and was part of the Flibbertigibbet band and the Mellow Candle band.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell is an artist for the band Mellow Candle and was a member of the Flibbertigibbet band. Her genre of music is folk rock.</lex>
     </entry>
     <entry category="Artist" eid="Id145" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2735,7 +2735,7 @@
         <mtriple>Alison_O'Donnell | recordLabel | Fruits_de_Mer_Records</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell plays jazz music and is signed to the record label of Floating World Records. Alison O'Donnell was once signed to the record label Fruits de Mer Records.</lex>
-      <lex comment="good" lid="Id2" error_1="Fruits de Mer Records">Jazz music performer Alison O'Donnell was previously signed to Fruits de Mer Records and is now with Floating World Records.</lex>
+      <lex comment="good" lid="Id2">Jazz music performer Alison O'Donnell was previously signed to Fruits de Mer Records and is now with Floating World Records.</lex>
       <lex comment="good" lid="Id3">Alison O'Donnell, who performs jazz music is attached to the record label Fruits de Mer Records and she is signed to the Floating World Records label.</lex>
     </entry>
     <entry category="Artist" eid="Id153" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3009,7 +3009,7 @@
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest is a solo singer, was born in Fort Campbell, KY and raised in Dothan, AL and plays rhythm and blues.</lex>
-      <lex comment="good" lid="Id2" error_1="Rhythm and blues">Allen Forrest, a solo singer who performs rhythm and blues music. He was born in Fort Campbell, Kentucky but was raised in Dothan, Alabama.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest, a solo singer who performs rhythm and blues music. He was born in Fort Campbell, Kentucky but was raised in Dothan, Alabama.</lex>
       <lex comment="good" lid="Id3">Athough Allen Forrest was originally a solo singer, he performs rhythm and blues music and was born in Fort Campbell, KY and was raised in Dothan, AL.</lex>
     </entry>
     <entry category="Artist" eid="Id171" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3143,8 +3143,8 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Galactic</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne is associated with the musical artists Billy Iuso and Tab Benoit. He is also associated with the band, Galactic.</lex>
-      <lex comment="good" lid="Id2" error_1="Billy Iuso">Anders Osborne has played with Galactic and associated with artists Tab Benoit and Billy Iuso.</lex>
-      <lex comment="good" lid="Id3" error_1="Billy Iuso">Anders Osborne is associated with artists Billy Iuso and Tab Benoit as well as the band Galactic.</lex>
+      <lex comment="good" lid="Id2">Anders Osborne has played with Galactic and associated with artists Tab Benoit and Billy Iuso.</lex>
+      <lex comment="good" lid="Id3">Anders Osborne is associated with artists Billy Iuso and Tab Benoit as well as the band Galactic.</lex>
     </entry>
     <entry category="Artist" eid="Id179" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3218,7 +3218,7 @@
         <mtriple>Anders_Osborne | recordLabel | Rabadash_Records</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne is signed to the record labels Alligator and Rabadash Records whose are associated with Blues.</lex>
-      <lex comment="good" lid="Id2" error_1="Rabadash Records">Alligator Records is the recording label of Anders Osborne whose music is blues. Rabadash Records is another one of his recording labels.</lex>
+      <lex comment="good" lid="Id2">Alligator Records is the recording label of Anders Osborne whose music is blues. Rabadash Records is another one of his recording labels.</lex>
       <lex comment="good" lid="Id3">Anders Osborne is signed to the Rabadash Records label and the record label Alligator Records which is associated with the Blues.</lex>
     </entry>
     <entry category="Artist" eid="Id184" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -3502,7 +3502,7 @@
         <mtriple>Andra_(singer) | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Solo singer, Andra uses the genre, Rhythm and blues, of which, Funk is a derivative.</lex>
-      <lex comment="good" lid="Id2" error_1="Rhythm and blues">Andra is a Rhythm and Blues musician and singer soloist. R &amp; B is the origin of Funk.</lex>
+      <lex comment="good" lid="Id2">Andra is a Rhythm and Blues musician and singer soloist. R &amp; B is the origin of Funk.</lex>
       <lex comment="good" lid="Id3">The solo singer Andra's genre is Rhythm and blues, of which Funk is a derivative.</lex>
     </entry>
     <entry category="Artist" eid="Id200" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3596,7 +3596,7 @@
         <mtriple>Christian_Burns | genre | Pop_music</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Andrew Rayel">Associated with the musical artist Armin van Buuren, musician Andrew Rayel, is associated with Christian Burns, who performs pop music.</lex>
+      <lex comment="good" lid="Id1">Associated with the musical artist Armin van Buuren, musician Andrew Rayel, is associated with Christian Burns, who performs pop music.</lex>
       <lex comment="good" lid="Id2">Musical artist Armin van Buuren is associated with Andrew Rayel who in turn, is associated with pop musician, Christian Burns.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel is associated with Armin van Buuren and pop music singer, Christian Burns.</lex>
     </entry>
@@ -3612,7 +3612,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Armin_van_Buuren</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Trance musician Andrew Rayel has worked with Christian Burns and Armin van Buuren.</lex>
-      <lex comment="good" lid="Id2" error_1="Andrew Rayel">Andrew Rayel is associated with Christian Burns and the musical artist Armin van Buuren. He performs Trance music.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel is associated with Christian Burns and the musical artist Armin van Buuren. He performs Trance music.</lex>
       <lex comment="good" lid="Id3">The musicians Andrew Rayel and Christian Burns are associates. Andrew Rayel has performed the genre of Trance music and is associated with Armin van Buuren.</lex>
     </entry>
     <entry category="Artist" eid="Id205" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3661,7 +3661,7 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn</mtriple>
         <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jonathan Mendelsohn">Andrew Rayel (a Trance artist) is associated with musicians Jonathan Mendelsohn and Jwaydan Moyine.</lex>
+      <lex comment="good" lid="Id1">Andrew Rayel (a Trance artist) is associated with musicians Jonathan Mendelsohn and Jwaydan Moyine.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel has performed the genre of Trance music and is associated with the musician Jwaydan Moyine and with the musical artist Jonathan Mendelsohn.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel, who plays trance music, is associated with musicians Jwaydan Moyine and Jonathan Mendelsohn.</lex>
     </entry>
@@ -3712,7 +3712,7 @@
         <mtriple>Andrew_Rayel | genre | Trance_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel has performed the genre of Trance music and is associated with Mark Sixma and Christian Burns.</lex>
-      <lex comment="good" lid="Id2" error_1="Mark Sixma">Andrew Rayel plays Trance music and is associated with Mark Sixma and Christian Burns.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel plays Trance music and is associated with Mark Sixma and Christian Burns.</lex>
       <lex comment="good" lid="Id3">The musical genre of Andrew Rayel is trance music. Andrew Rayel is associated with Mark Sixma and Christian Burns.</lex>
     </entry>
     <entry category="Artist" eid="Id211" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -4219,9 +4219,9 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
         <mtriple>Alfred_Garth_Jones | nationality | United_Kingdom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="British people">Alfred Garth Jones comes from the U.K. and is British. Elizabeth II is queen of the UK where British people live.</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones comes from the U.K. and is British. Elizabeth II is queen of the UK where British people live.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones was born in the United Kingdom which is led by Elizabeth II. People from the United Kingdom are called British people.</lex>
-      <lex comment="good" lid="Id3" error_1="Alfred Garth Jones">Alfred Garth Jones is from the UK, where Elizabeth II is queen, and people are British.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones is from the UK, where Elizabeth II is queen, and people are British.</lex>
     </entry>
     <entry category="Artist" eid="Id239" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
