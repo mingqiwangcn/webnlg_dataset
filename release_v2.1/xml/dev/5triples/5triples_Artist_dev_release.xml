@@ -104,8 +104,8 @@
         <mtriple>Black_metal | musicFusionGenre | Death_metal</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner is an electric guitar player for the black metal genre who has performed for House of Low Culture and Mamiffer. Death metal is a musical fusion of black metal.</lex>
-      <lex comment="good" lid="Id2" error_1="Aaron Turner" error_2="Electric guitar">Aaraon Turner is a black metal musician that plays guitar and who performs with Mamiffer and has performed for the House of Low Culture and death metal is a musical fusion of black metal.</lex>
-      <lex comment="good" lid="Id3" error_1="Electric guitar">Black metal guitar player Aaron Turner performs for Mamiffer and House of Low Culture. Death metal is a fusion of black metal.</lex>
+      <lex comment="good" lid="Id2" error_1="Aaron Turner" error_2="Electric guitar">Aaron Turner is a black metal musician that plays electric guitar and who performs with Mamiffer and has performed for the House of Low Culture and death metal is a musical fusion of black metal.</lex>
+      <lex comment="good" lid="Id3" error_1="Electric guitar">Black metal electric guitar player Aaron Turner performs for Mamiffer and House of Low Culture. Death metal is a fusion of black metal.</lex>
     </entry>
     <entry category="Artist" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -149,7 +149,7 @@
         <mtriple>Aaron_Turner | activeYearsStartYear | 1995</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Turner was born in Massachusetts and started performing in 1995. He formerly played with the band Twilight and is now in the Lotus Eaters. He is is closely associated with the sludge metal genre.</lex>
-      <lex comment="good" lid="Id2" error_1="Lotus Eaters (band)">Aaron Turner is from Massachusetts. He is a musician who loves Sludge metal and played with the band Twilight as well as the Lotus Eater's Band, in 1995.</lex>
+      <lex comment="good" lid="Id2" error_1="Lotus Eaters (band)">Aaron Turner is from Massachusetts. He is a musician who loves Sludge metal and played with the band Twilight as well as the Lotus Eaters Band, in 1995.</lex>
       <lex comment="good" lid="Id3">Massachusetts born Sludge metal musician, Aaron Turner, began performing in 1995. He has played with Twilight and has been with the Lotus Eaters band.</lex>
     </entry>
     <entry category="Artist" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -189,7 +189,7 @@
         <mtriple>Abradab | origin | Poland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musician Abradab originates from Katowice, Poland, and he started performing in 1994. He played with the band Kaliber 44 and is associated with the rapper Magik.</lex>
-      <lex comment="good" lid="Id2" error_1="Kaliber 44">Abradab came from Katowice, Poland and started peforming in 1994. He played with Kaliber and is associated with the rapper Magik.</lex>
+      <lex comment="good" lid="Id2" error_1="Kaliber 44">Abradab came from Katowice, Poland and started peforming in 1994. He played with Kaliber 44 and is associated with the rapper Magik.</lex>
       <lex comment="good" lid="Id3">Katowice, Poland born Abradab began performing in 1994 and is associated with Magik and Kaliber 44.</lex>
     </entry>
     <entry category="Artist" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -358,7 +358,7 @@
         <mtriple>Alan_Frew | origin | Newmarket,_Ontario</mtriple>
         <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Frew, who is from Newmarket, Ontario, (Canada, was born in Coatbridge. He is a musician and solo singer.</lex>
+      <lex comment="good" lid="Id1">Alan Frew, who is from Newmarket, Ontario, Canada, was born in Coatbridge. He is a musician and solo singer.</lex>
       <lex comment="good" lid="Id2">Alan Frew is from Coatbridge, Newmarket, Ontario, Canada and he is a musician and solo singer.</lex>
       <lex comment="good" lid="Id3" error_1="Musician">Singer Alan Frew was born in Coatbridge but is from Newmarket, Ontario, Canada.</lex>
     </entry>
@@ -416,7 +416,7 @@
         <mtriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa performs Zamba music and has a background as a solo singer. He was signed to the RCA Records label, and has been associated with the musicians Ciro Pérez and Héctor Numa Moraes.</lex>
-      <lex comment="good" lid="Id2" error_1="Alfredo Zitarrosa" error_2="Zamba (artform)">Alfredo Zitarros, Ciro Perez and Hector Numa Moraes are all musicians contacted to the RCA Records Label. Alfredo's background is solo singing, Zambra an art form.</lex>
+      <lex comment="good" lid="Id2" error_1="Alfredo Zitarrosa" error_2="Zamba (artform)">Alfredo Zitarrosa recorded his songs with the RCA Records Label. Alfredo's background is solo singing in the zamba style. Ciro Perez and Hector Numa Moraes are musicians associated with Alfredo Zitarrosa.</lex>
       <lex comment="good" lid="Id3">Alfredo Zitarrosa is a Zamba solo singer associated with Ciro Perez and Hector Numa Moraes. He is signed to RCA records.</lex>
     </entry>
     <entry category="Artist" eid="Id16" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -434,8 +434,8 @@
         <mtriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</mtriple>
         <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Flibbertigibbet" error_2="Folk music of Ireland" error_3="Static Caravan Recordings">Alison O'Donnell began her music career in 1963. She has been a member of Flibberigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.</lex>
-      <lex comment="good" lid="Id2" error_1="Folk music of Ireland" error_2="Mellow Candle">Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellw Candle. She became active in 1963 and is signed to Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id1" error_1="Flibbertigibbet" error_2="Folk music of Ireland" error_3="Static Caravan Recordings">Alison O'Donnell began her music career in 1963. She has been a member of Flibbertigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.</lex>
+      <lex comment="good" lid="Id2" error_1="Folk music of Ireland" error_2="Mellow Candle">Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle. She became active in 1963 and is signed to Static Caravan Recordings.</lex>
     </entry>
     <entry category="Artist" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -459,8 +459,8 @@
         <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars</mtriple>
         <mtriple>Anders_Osborne | activeYearsStartYear | 1989</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tab Benoit">Anders Osborne's musical career began in 1989. His genre is Rhythm and blues and he is associated with the musical artist Billy Iuso. Anders Osborne is also associated with the band, Voice of the Wetlands All-Stars.</lex>
-      <lex comment="good" lid="Id2" error_1="Billy Iuso" error_2="Rhythm and blues">Anders Osborne started his musical performing in 1989, where he met musical artists Tab Benoit and Billy Laso, with the band Voice of the Wetlands All-Stars.</lex>
+      <lex comment="good" lid="Id1" error_1="Tab Benoit">Anders Osborne's musical career began in 1989. His genre is Rhythm and blues and he is associated with the musical artists Billy Iuso and Tab Benoit. Anders Osborne is also associated with the band, Voice of the Wetlands All-Stars.</lex>
+      <lex comment="good" lid="Id2" error_1="Billy Iuso" error_2="Rhythm and blues">Anders Osborne started his musical performing in 1989, where he met musical artists Tab Benoit and Billy Iuso, with the band Voice of the Wetlands All-Stars. A. Osborne performs in the rhythm and blues style.</lex>
       <lex comment="good" lid="Id3">Anders Osborne started performing in 1989. His genre is rhythm and blues. He has worked with Tab Benoit and is associated with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars.</lex>
     </entry>
     <entry category="Artist" eid="Id18" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -536,7 +536,7 @@
         <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel, who was born in Chisinau, Moldova, started his career in 2009 and his musical genre is trance music. He is associated with Christian Burns and Armin van Buuren.</lex>
-      <lex comment="good" lid="Id2" error_1="Chisinau, Moldova">Andrew Rayel was born in Chisinau Moldova. He's an associate of Armin van Buuren and Christian Burns. Mr Rayel's musical genre is Trance which he started in 2009.</lex>
+      <lex comment="good" lid="Id2" error_1="Chisinau, Moldova">Andrew Rayel was born in Chisinau, Moldova. He's an associate of Armin van Buuren and Christian Burns. Mr Rayel's musical genre is Trance which he started in 2009.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel was born in Chisinau, Moldova. He began his musical career in 2009 and has performed the genre of Trance music. He is associated with the musical artist Armin van Buuren and with Christian Burns.</lex>
     </entry>
     <entry category="Artist" eid="Id22" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -639,7 +639,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Paraguay is called Juan Afara, and one ethnic group is the Mestizo people. Agustin Barboza was born in Paraguay and died in Asunción, a part of Gran Asunción.</lex>
       <lex comment="good" lid="Id2">Agustin Barboza was born in Paraguay and died in Asuncion which is part of Gran Asunción. Juan Afara is the country's leader and the Mestizo are among the ethnic groups in Paraguay.</lex>
-      <lex comment="good" lid="Id3" error_1="Gran Asuncion">Agustin Barboza was born in Paraguay, led by Juan Afara. The Mestizo ethnic group is one of the ethnic groups in Paraguay. Agustin died in Asuncion.</lex>
+      <lex comment="good" lid="Id3" error_1="Gran Asuncion">Agustin Barboza was born in Paraguay, led by Juan Afara. The Mestizo ethnic group is one of the ethnic groups in Paraguay. Agustin died in Asuncion, Gran Asunción.</lex>
     </entry>
     <entry category="Artist" eid="Id27" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

@@ -66,7 +66,7 @@
         <mtriple>Abradab | associatedBand/associatedMusicalArtist | Kaliber_44</mtriple>
         <mtriple>Abradab | birthDate | 1978-11-12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Magik (rapper)">Abradab who was born on November 12th 1978 is an artist for the band Kaliber 44 and he is with rapper associated with Magri.</lex>
+      <lex comment="good" lid="Id1" error_1="Magik (rapper)">Abradab who was born on November 12th 1978 is an artist for the band Kaliber 44 and he is associated with rapper Magik.</lex>
       <lex comment="good" lid="Id2">Born on 12th November, 1978, Abradab, played with the band Kaliber 44 and is associated with the rapper, Magik.</lex>
       <lex comment="good" lid="Id3">Abradab, born 11/12/1978, is a member of Kaliber 44 and is associated with rap artist, Magik.</lex>
     </entry>
@@ -254,9 +254,9 @@
         <mtriple>Alfred_Garth_Jones | birthPlace | England</mtriple>
         <mtriple>Alfred_Garth_Jones | nationality | United_Kingdom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="England">Alfred Garth Jones was born in London in the United Kingdom. He died in London.</lex>
+      <lex comment="good" lid="Id1" error_1="England">Alfred Garth Jones was born in England in the United Kingdom. He died in London.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones, born in England in the U.K., died in London.</lex>
-      <lex comment="good" lid="Id3" error_1="United Kingdom">Alfred Garth Jones was born in England and died in London.</lex>
+      <lex comment="good" lid="Id3" error_1="United Kingdom">British Alfred Garth Jones was born in England and died in London.</lex>
     </entry>
     <entry category="Artist" eid="Id16" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

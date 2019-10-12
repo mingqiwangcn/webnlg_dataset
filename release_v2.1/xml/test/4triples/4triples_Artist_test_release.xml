@@ -129,7 +129,7 @@
         <mtriple>Ahmet_Ertegun | background | "non_performing_personnel"</mtriple>
         <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States" error_2="Washington, D.C.">Rhythm and blues performer Ahmet Ertegun was born in Washington D.C. He is considered non-performing personnel.</lex>
+      <lex comment="good" lid="Id1" error_1="United States" error_2="Washington, D.C.">Rhythm and blues performer Ahmet Ertegun was born in Washington D.C., US. He is considered non-performing personnel.</lex>
       <lex comment="good" lid="Id2" error_1="Washington, D.C.">Ahmet Ertegun originates from Washington D.C., United States. He started out as a non performing personnel in the rhythm and blues.</lex>
       <lex comment="good" lid="Id3" error_1="non performing personnel">Ahmet Ertegun from Washington, D.C., U.S. plays rhythm and blues music. His background is as a non-performing person.</lex>
     </entry>
