@@ -178,10 +178,10 @@
         <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard went to school at NWC and graduated with an MA in 1957, was born in New Hampshire and retired 1st of August 1974.</lex>
-      <lex comment="good" lid="Id2" error_1="Alan Shepard">Alan Shepherd, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard graduated from NWS in 1957,which born in New Hampshire and died on 1974-08-01.</lex>
+      <lex comment="good" lid="Id2" error_1="Alan Shepard">Alan Shepard, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard graduated from NWC in 1957 with a master of arts. He was born in New Hampshire and died on 1974-08-01.</lex>
       <lex comment="good" lid="Id4">Alan Shepard was born in New Hampshire and got his M.A. in 1957 at NWC and retired on August 1st, 1974.</lex>
-      <lex comment="good" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC, retired on August 1, 1974.</lex>
+      <lex comment="good" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC with an M.A. degree, retired on August 1, 1974.</lex>
     </entry>
     <entry category="Astronaut" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -194,7 +194,7 @@
         <mtriple>Alan_Shepard | deathPlace | California</mtriple>
         <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alan Shepard">Alan Shepherd was born in New Hampshire, graduated from NWC in 1957, and died in California.</lex>
+      <lex comment="good" lid="Id1" error_1="Alan Shepard">Alan Shepherd was born in New Hampshire, graduated from NWC in 1957 with an M.A., and died in California.</lex>
       <lex comment="good" lid="Id2" error_1="Alan Shepard">Alan Shepherd who died in California, was born in New Hampshire and graduated from NWC with an MA in 1957.</lex>
     </entry>
     <entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -208,7 +208,7 @@
         <mtriple>Alan_Shepard | deathPlace | California</mtriple>
         <mtriple>Alan_Shepard | deathDate | "1998-07-21"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard, who graduated from NWC with a M.A. in 1957, died on July 21st 1998 in California.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard, who graduated from NWC with an M.A. in 1957, died on July 21st 1998 in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard graduated from NWC, M.A. in 1957, he died in California on 1998-07-21.</lex>
       <lex comment="good" lid="Id3">Alan Shepard (died on 1998-07-21 in California) graduated from NWC in 1957.</lex>
       <lex comment="good" lid="Id4">Alan Shepard, who attended NWC, M.A. in 1957, died in California on July 21, 1998.</lex>
@@ -851,9 +851,9 @@
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders, who graduated, with an M.S., from AFIT in 1962 and served as a crew member on Apollo 8, retired 1969-09-01.</lex>
-      <lex comment="good" lid="Id2">William Anders retired on the 1st of September 1969, was a member of the Apollo 8 crew and in 1962 received a M.S. from his alma Mater, AFIT.</lex>
+      <lex comment="good" lid="Id2">William Anders retired on the 1st of September 1969, was a member of the Apollo 8 crew and in 1962 received an M.S. from his alma Mater, AFIT.</lex>
       <lex comment="good" lid="Id3">William Anders, who graduated from AFIT, M.S. in 1962 and crewed Apollo 8, retired on September 1, 1969.</lex>
-      <lex comment="good" lid="Id4">William Anders graduated with a M.S. in 1962 from AFIT, became a member of the Apollo 8 team and retired on September 1st, 1969.</lex>
+      <lex comment="good" lid="Id4">William Anders graduated with an M.S. in 1962 from AFIT, became a member of the Apollo 8 team and retired on September 1st, 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id57" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -944,7 +944,7 @@
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders, born in British Hong Kong graduated with an MS from AFIT in 1962 and was chosen by NASA in 1963.</lex>
-      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong, graduated from AFIT in 1962, and joined NASA in 1963.</lex>
+      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong, graduated from AFIT in 1962 with a master of science, and joined NASA in 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id63" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

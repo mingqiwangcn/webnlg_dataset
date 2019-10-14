@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean, who was born in Wheeler, Texas, graduated from the University of Texas with a B.S. in 1955 and in 1963 NASA picked him as part of the Apollo 12 space program.</lex>
       <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas. He attended the University of Texas in Austin and obtained a B.S. in 1955. He was selected by NASA in 1963 and was a crew member on Apollo 12.</lex>
-      <lex comment="good" lid="Id3">Alan Bean who was born in 1963 in Wheeler, Texas, graduated in 1955 and went on to become a crew member of Apollo 12.</lex>
+      <lex comment="good" lid="Id3">Alan Bean who was born in 1963 in Wheeler, Texas, graduated in 1955 from the University of Texas with a B.S. and went on to become a crew member of Apollo 12.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -47,7 +47,7 @@
         <mtriple>Alan_Bean | was a crew member of | Apollo_12</mtriple>
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean is a citizen of the United State and graduated from UT Austin in 1955. He was a crew member of Apollo 12 and is currently retired.</lex>
+      <lex comment="good" lid="Id1">Alan Bean is a citizen of the United States and graduated from UT Austin in 1955 with a B.Sc. He was a crew member of Apollo 12 and is currently retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean, who has now retired, is a United States citizen who graduated from UT Austin, BS in 1955 and served as a crew member of Apollo 12.</lex>
       <lex comment="good" lid="Id3">Alan Bean was a United States national. His Alma mater was UT Austin and he graduated with a B.S. in 1955. He was a crew member of Apollo 12. He is now retired.</lex>
     </entry>
@@ -273,7 +273,7 @@
         <mtriple>Alan_Shepard | was selected by NASA | 1959</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and obtained a MA in 1957 from NWC. he was selected by NASA in 1959 and became a test pilot.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with a M.A. in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. His Alma mater was NWC and he graduated with an M.A. in 1957. He worked as a test pilot and he was selected by NASA in 1959.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -305,7 +305,7 @@
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard graduated with an M.A. from NWC in 1957 and later received the Distinguished Service Medal from the U.S. Navy, an award that is higher than the Department of Commerce Gold Medal, retired on August 1st, 1974.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard graduated from NWS MA in 1957. He retired on 1 August 1974 having been awarded both the Distinguished Service Medal (US Navy) and the Department of Commerce Gold Medal.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard graduated from NWC with an MA in 1957. He retired on 1 August 1974 having been awarded both the Distinguished Service Medal (US Navy) and the Department of Commerce Gold Medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id20" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -369,8 +369,8 @@
         <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard who was selected by NASA in 1959 is sadly now deceased. He was born in New Hampshire on 18th November 1923.</lex>
-      <lex comment="good" lid="Id2">The now deceased Alan Shepard was born in New Hampshire on November 18,1923. He was selected by NASA in 1959.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire on 11/18/1923 and was selected by NASA in 1959.</lex>
+      <lex comment="good" lid="Id2">The now deceased Alan Shepard was born in New Hampshire on November 18, 1923. He was selected by NASA in 1959.</lex>
+      <lex comment="good" lid="Id3">The late Alan Shepard was born in New Hampshire on 11/18/1923 and was selected by NASA in 1959.</lex>
     </entry>
     <entry category="Astronaut" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1130,8 +1130,8 @@
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">American William Anders was born in British Hong Kong. graduated with an M.S. from AFIT in 1962 and retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders who was born in Hong Kong before becoming a resident of the United States. He graduated in 1962 and retired in 1969.</lex>
+      <lex comment="good" lid="Id1">American William Anders was born in British Hong Kong. He graduated with an M.S. from AFIT in 1962 and retired on September 1st, 1969.</lex>
+      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders who was born in Hong Kong before becoming a resident of the United States. He graduated from AFIT in 1962 with a master of science and retired in 1969.</lex>
       <lex comment="good" lid="Id3">William Anders was a United States citizen who was born in British Hong Kong. He graduated from AFIT, MS in 1962 and retired 1969.09.01.</lex>
     </entry>
     <entry category="Astronaut" eid="Id72" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1148,8 +1148,8 @@
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and served as a fighter pilot after graduating from AFIT, M.S. in 1962. He retired on 1 September 1969.</lex>
-      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong. His Alma mater was AFIT and he graduated in 1962 with a M.S. He retired from his career as a fighter pilot on September 1, 1969.</lex>
-      <lex comment="good" lid="Id3">William Anders was born in British Hong Kong. He graduated from AFIT with a M.S. in 1962 and became a fighter pilot. He retired on 09/01/1969.</lex>
+      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong. His Alma mater was AFIT and he graduated in 1962 with an M.S. He retired from his career as a fighter pilot on September 1, 1969.</lex>
+      <lex comment="good" lid="Id3">William Anders was born in British Hong Kong. He graduated from AFIT with an M.S. in 1962 and became a fighter pilot. He retired on 09/01/1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id73" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

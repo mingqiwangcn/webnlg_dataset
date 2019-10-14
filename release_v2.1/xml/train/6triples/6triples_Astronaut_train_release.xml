@@ -60,7 +60,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American test pilot Alan Bean was born in Wheeler, Texas. He graduated from UT Austin with a B.S. in 1955. He served as a crew member of Apollo 12 and spent a total of 100305 minutes in space.</lex>
       <lex comment="good" lid="Id2">American Alan Bean was born in Wheeler, Texas. He performs as a test pilot, graduated from UT Austin in 1955 with a B.S. was a part of the crew of Apollo 12 and his time in space was 100305.0 minutes.</lex>
-      <lex comment="good" lid="Id3">Alan Bean is originally from Wheeler in Texas and graduated from UT Austin in 1955 with a B.S. He then went on to become a test pilot and became a member of the Apollo 12 crew where he spent 100305.0 minutes in space.</lex>
+      <lex comment="good" lid="Id3">Alan Bean is originally from Wheeler in Texas, US and graduated from UT Austin in 1955 with a B.S. He then went on to become a test pilot and became a member of the Apollo 12 crew where he spent 100305.0 minutes in space.</lex>
     </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -181,7 +181,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was a United States test pilot and member of Apollo 12. He was born in Wheeler, Texas. He was selected by NASA in 1963 and is now retired.</lex>
-      <lex comment="good" lid="Id2">Alan Bean is originally from Wheeler in Texas and went on to become a test pilot. He joined NASA in 1963 and became a member of Apollo 12 before he retired.</lex>
+      <lex comment="good" lid="Id2">American Alan Bean is originally from Wheeler in Texas and went on to become a test pilot. He joined NASA in 1963 and became a member of Apollo 12 before he retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -201,7 +201,7 @@
         <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Test pilot Alan Bean was part of the Apollo 12 mission and spent 100305.0 minutes in space. Bean was born in Wheeler, Texas on March 15th, 1932 and in 1955 graduated from the University of Texas in Austin with a Bachelor of Science degree.</lex>
-      <lex comment="good" lid="Id2">Alan Bean was born in Wheeler Texas in 1932 and graduated from UT Austin in 1955. He was a test pilot and a crew member of Apollo 12 and spent 100305 minutes in space.</lex>
+      <lex comment="good" lid="Id2">Alan Bean was born in Wheeler Texas in 1932 and graduated from UT Austin in 1955 with a B.S. He was a test pilot and a crew member of Apollo 12 and spent 100305 minutes in space.</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -221,7 +221,7 @@
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler Texas and is from the United States. He earned a BSc from the University of Texas at Austin in 1955. He was a test pilot and a member of Apollo 12, which is operated by NASA.</lex>
-      <lex comment="good" lid="Id2">Alan Bean was an American, born in Wheeler Texas. He graduated from UT Austin in 1955 and because a test pilot. He was a crew member aboard Apollo 12, operated by NASA.</lex>
+      <lex comment="good" lid="Id2">Alan Bean was an American, born in Wheeler Texas. He graduated from UT Austin in 1955 with a Bachelor of Science and became a test pilot. He was a crew member aboard Apollo 12, operated by NASA.</lex>
       <lex comment="good" lid="Id3">Alan Bean, an American was born in Wheeler Texas and graduated from UT Austin in 1955 with a BSc. He was a test pilot and a crew member on NASA's Apollo 12.</lex>
     </entry>
     <entry category="Astronaut" eid="Id12" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
@@ -262,8 +262,8 @@
         <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on 18th November 1923, graduated from NWC with a M.A. in 1957, retired on 1st August 1974 and died in California. He was awarded the Distinguished Service Medal by The United States Navy.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire on Nov 18, 1923, retired on August 1st, 1974 and died in California. He was graduated from NWC in 1957 with a M.A. and was awarded the Distinguished Service Medal by The United States Navy.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on 18th November 1923, graduated from NWC with an M.A. in 1957, retired on 1st August 1974 and died in California. He was awarded the Distinguished Service Medal by The United States Navy.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire on Nov 18, 1923, retired on August 1st, 1974 and died in California. He was graduated from NWC in 1957 with an M.A. and was awarded the Distinguished Service Medal by The United States Navy.</lex>
       <lex comment="good" lid="Id3">Alan Shepard (born on Nov 18, 1923 in New Hampshire) graduated from NWC, M.A. in 1957 and been awarded the Distinguished Service Medal by the United States Navy. He retired 1st of August 1974 and has died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -283,7 +283,7 @@
         <mtriple>Alan_Shepard | nationality | United_States</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard is an American who was born in New Hampshire. He graduated from NWC with a M.A. in 1957 and was awarded the Distinguished Service Medal by the United States Navy. On the 21st of July, 1998 he passed away in California.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard is an American who was born in New Hampshire. He graduated from NWC with an M.A. in 1957 and was awarded the Distinguished Service Medal by the United States Navy. On the 21st of July, 1998 he passed away in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard is an American who graduated from NWC, M.A. in 1957. He was awarded the United States Navy Distinguished Service Medal. He was born in New Hampshire and died in California on 1998-07-21.</lex>
     </entry>
     <entry category="Astronaut" eid="Id15" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -305,7 +305,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born on November 18, 1923, in New Hampshire, and died on July 21, 1998, in California. He graduated in 1957 with an M.A. from NWC, and joined NASA in 1959.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born 1923-11-18 in New Hampshire. He died on 1998-07-21 in California. He graduated from NWC in 1957 with M.A. and was chosen by NASA in 1959.</lex>
-      <lex comment="good" lid="Id3" error_1="California">Alan Shepard (born on 1923-11-18 in New Hampshire) went to school at NWC and graduated with an MA in 1957 and two years after in 1959 he was selected from NASA.Alan died on the 21st of July, 1998.</lex>
+      <lex comment="good" lid="Id3" error_1="California">Alan Shepard (born on 1923-11-18 in New Hampshire) went to school at NWC and graduated with an MA in 1957 and two years after in 1959 he was selected from NASA. Alan died on the 21st of July, 1998.</lex>
     </entry>
     <entry category="Astronaut" eid="Id16" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -326,7 +326,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Alan Shepard was a test pilot who was born in New Hampshire on November 18th, 1923. and died in California. In 1957 he graduated from NWC with an MA.</lex>
       <lex comment="good" lid="Id2">Alan Shepard (American nationality) was born on the 18th November 1923 in New Hampshire. He graduated from NWC in 1957 with a MA. He was a test pilot and died in California.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire on 18th November 1923. He graduated with a M.A. in 1957 from NWC and went on to become a test pilot. Alan Shepard died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire on 18th November 1923. He graduated with an M.A. in 1957 from NWC and went on to become a test pilot. Alan Shepard died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id17" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -346,7 +346,7 @@
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and died in California. He went to school at NWC and graduated with an MA in 1957, served as a Test pilot and was a crew member of the Apollo 14, which was operated by NASA. The United States Navy awarded the Distinguished Service Medal to Alan Shepard, which ranks higher than Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id2">Test pilot Alan Shepard was born in New Hampshire, graduated from NWC with a M.A. in 1957 and died in California. He was awarded the Distinguished Service Medal from the U.S. Navy and this is a medal that is higher than the Department of Commerce Gold Medal.</lex>
+      <lex comment="good" lid="Id2">Test pilot Alan Shepard was born in New Hampshire, graduated from NWC with an M.A. in 1957 and died in California. He was awarded the Distinguished Service Medal from the U.S. Navy and this is a medal that is higher than the Department of Commerce Gold Medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id18" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -385,7 +385,7 @@
         <mtriple>Alan_Shepard | nationality | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Alan Shepard" error_2="California">Alan Shepherd born in New Hampshire, United States, graduated from NWC in 1957 with an M.A. He served as a crew member on Apollo 14 and retired on 01/08/1974.</lex>
-      <lex comment="good" lid="Id2">American Alan Shepard was born in New Hampshire and died in California. He graduated from NWC with a M.A. in 1957, was on the crew for Apollo 14 and retired on 1974-08-01.</lex>
+      <lex comment="good" lid="Id2">American Alan Shepard was born in New Hampshire and died in California. He graduated from NWC with an M.A. in 1957, was on the crew for Apollo 14 and retired on 1974-08-01.</lex>
       <lex comment="good" lid="Id3">Alan Shepard who is originally from New Hampshire (USA) graduated with an MA from NWC in 1957. He then went on to become a member of Apollo 14's crew before retiring on the 1st of August, 1974. Alan Shepard died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id20" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -427,7 +427,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and died in California. He went school at NWC and graduated with an MA in 1957, was a test pilot and was a crew member aboard Apollo 14 which was operated by NASA.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and died in California. He graduated from NWC, M.A. in 1957, was a test pilot and crew member of the Apollo 14, which was operated by NASA.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard (born in New Hampshire) graduated from NWC with a M.A. in 1957. Alan was a crew member of Apollo 14 where he served as a Test pilot at the Apollo 14.Alan died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard (born in New Hampshire) graduated from NWC with an M.A. in 1957. Alan was a crew member of the NASA-operated Apollo 14 where he served as a test pilot. Alan died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id22" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -448,7 +448,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Apollo 14 crew member Alan Shepard was awarded the Distinguished Service Medal by the U.S. Navy, an award that ranks higher than the Department of Commerce Gold Medal. Shepard was born in New Hampshire, graduated from N.W.C. with an M.A. in 1957 and in 1974 on August 1st, he retired.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. He graduated from NWC, M.A. in 1957, was a member of the Apollo 14 crew and retired on 1st August 1974. He was awarded the Distinguished Service Medal by the United States Navy, which is higher than the Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id3" error_1="Department of Commerce Gold Medal">Alan Shepard who is originally from New Hampshire graduated with a M.A. from NWC in 1957. He then went on to become a member of the Apollo 14 mission and earned a distinguished service medal from the United States Navy. Alan Shepard retired in 1974.</lex>
+      <lex comment="good" lid="Id3" error_1="Department of Commerce Gold Medal">Alan Shepard who is originally from New Hampshire graduated with an M.A. from NWC in 1957. He then went on to become a member of the Apollo 14 mission and earned a distinguished service medal from the United States Navy. Alan Shepard retired in 1974.</lex>
     </entry>
     <entry category="Astronaut" eid="Id23" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -507,7 +507,7 @@
         <mtriple>Alan_Shepard | was selected by NASA | 1959</mtriple>
         <mtriple>Alan_Shepard | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, and died in California. He was selected by NASA in 1959, after graduating from NWC with a M.A. in 1957.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, and died in California. He was selected by NASA in 1959, after graduating from NWC with an M.A. in 1957.</lex>
     </entry>
     <entry category="Astronaut" eid="Id26" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -526,7 +526,7 @@
         <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
         <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on the 18th of November, 1923. He graduated with a M.A. from NWC in 1957, and became a test pilot. He passed away in California.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on the 18th of November, 1923. He graduated with an M.A. from NWC in 1957, and became a test pilot. He passed away in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire on November 18th, 1923. After graduating from NWC with a MA in 1957, and working as a test pilot, he died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id27" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -625,7 +625,7 @@
         <mtriple>Apollo_12 | commander | David_Scott</mtriple>
         <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean joined NASA in 1963 where he became a member of the Apollo 12 mission along with Alfred Worden as back up pilot and David Scott as commander.</lex>
+      <lex comment="good" lid="Id1">American Alan Bean joined NASA in 1963 where he became a member of the Apollo 12 mission along with Alfred Worden as backup pilot and David Scott as commander.</lex>
       <lex comment="good" lid="Id2">Alan Bean was an American astronaut selected by NASA in 1963 as a crew member for the Apollo 12 mission. Apollo 12 was commanded by David Scott, and Alfred Worden was a backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id32" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -666,8 +666,8 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Retired">Alan Bean was part of NASA's Apollo 12 crew which has Alfred Worden as its backup pilot and was commanded by David Scott. Bean graduated from the University of Texas in Austin in 1955.</lex>
-      <lex comment="good" lid="Id2">The Apollo 12 mission was operated by NASA. Alan Bean, who graduated from UT Austin, was a crew member and is now retired. David Scott commanded the mission and the backup pilot was Alfred Worden.</lex>
+      <lex comment="good" lid="Id1" error_1="Retired">Alan Bean was part of NASA's Apollo 12 crew which has Alfred Worden as its backup pilot and was commanded by David Scott. Bean graduated from the University of Texas in Austin in 1955 with a Bachelor of Science degree.</lex>
+      <lex comment="good" lid="Id2">The Apollo 12 mission was operated by NASA. Alan Bean, who graduated from UT Austin in 1955 with a B.Sc., was a crew member and is now retired. David Scott commanded the mission and the backup pilot was Alfred Worden.</lex>
       <lex comment="good" lid="Id3">Apollo 12 was a NASA operated mission commanded by David Scott. Alan Bean, who graduated from UT Austin in 1955 with a Bachelor of Science degree, served as a crew member but is now retired. Alfred Worden served as backup pilot of Apollo 12.</lex>
     </entry>
     <entry category="Astronaut" eid="Id34" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -729,7 +729,7 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">NASA's Apollo 8 had three crew members who included Frank Borman, Buzz Aldrin as the backup pilot and William Anders. Anders was born in British Hong Kong which has Chris Patten as its representative.</lex>
-      <lex comment="good" lid="Id2">Apollo 8 had three crew members in the form of backup pilot Buzz Aldrin, Frank Borman and William Anders. Anders was born in British Hong Kong where Chris Patten served as a representative.</lex>
+      <lex comment="good" lid="Id2">Apollo 8 operated by NASA had three crew members in the form of backup pilot Buzz Aldrin, Frank Borman and William Anders. Anders was born in British Hong Kong where Chris Patten served as a representative.</lex>
     </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -873,7 +873,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey in the United States. He went to work for NASA in 1963. He graduated from MIT in 1963 with a doctorate in Science. He was a member of Apollo 11 which was organized by NASA.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge, New Jersey and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. Buzz Aldrin went on to work for NASA in 1963 where he became a member of the Apollo 11's crew.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge, New Jersey, U.S.A., and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. Buzz Aldrin went on to work for NASA in 1963 where he became a member of the Apollo 11's crew.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin is originally from Glen Ridge, New Jersey and graduated from MIT with a Sc.D in 1963. Buzz then went on to join NASA in 1963 and became a crew member of Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id44" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
@@ -934,8 +934,8 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was an American born in Glen Ridge, Essex County, New Jersey. He was a member of Apollo 11's crew. William Anders was an Apollo 11 backup pilot. Joe Biden is a US leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Joe Biden">Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot.</lex>
-      <lex comment="good" lid="Id3">Born in Glen Ridge NewJersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders. Joe Biden was the American leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Joe Biden">Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot. B. Aldrin was a US national, where one of the leaders is Joe Biden.</lex>
+      <lex comment="good" lid="Id3">Born in Glen Ridge, New Jersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders. Joe Biden was the American leader.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1564,8 +1564,8 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Apollo 8 is operated by Nasa, its commander was Frank Borman, its backup pilot was Buzz Aldrin and it was crewed by William Anders. William Anders graduated from AFIT in 1962 with an M.S. and retired Sept 1st 1969.</lex>
-      <lex comment="good" lid="Id2">In 1962, William Anders graduated with a M.S. from his alma Mater, AFIT. He became a crew member on Apollo 8, a NASA operated mission. His commander on Apollo 8 was Frank Borman, and the mission's backup pilot was Buzz Aldrin. William Anders retired on the 1st of September, 1969.</lex>
-      <lex comment="good" lid="Id3">William Anders graduated with a M.S. from AFIT in 1962. He then went on to work for NASA and became a crew member on Apollo 8 along with Buzz Aldrin as backup pilot and Frank Borman as the commander. William Anders then retired in 1969.</lex>
+      <lex comment="good" lid="Id2">In 1962, William Anders graduated with an M.S. from his alma Mater, AFIT. He became a crew member on Apollo 8, a NASA operated mission. His commander on Apollo 8 was Frank Borman, and the mission's backup pilot was Buzz Aldrin. William Anders retired on the 1st of September, 1969.</lex>
+      <lex comment="good" lid="Id3">William Anders graduated with an M.S. from AFIT in 1962. He then went on to work for NASA and became a crew member on Apollo 8 along with Buzz Aldrin as backup pilot and Frank Borman as the commander. William Anders then retired in 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id78" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1584,8 +1584,8 @@
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Fighter pilot">American figher pilot William Anders was born in British Hong Kong on the 17th of October, 1933. He received a M.S. from his alma Mater, AFIT, in 1962. He retired on the 1st of September, 1969.</lex>
-      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong on October 17th 1933. He graduated from AFIT in 1962 with a M.S. and went on to become a fighter pilot before he retired on September 1st 1969.</lex>
+      <lex comment="good" lid="Id1" error_1="Fighter pilot">American figher pilot William Anders was born in British Hong Kong on the 17th of October, 1933. He received an M.S. from his alma Mater, AFIT, in 1962. He retired on the 1st of September, 1969.</lex>
+      <lex comment="good" lid="Id2">William Anders was born in British Hong Kong on October 17th 1933. He graduated from AFIT in 1962 with an M.S. and went on to become a fighter pilot before he retired on September 1st 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id79" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1604,9 +1604,9 @@
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William ANders was born on 1933-10-17 in British Hong Kong. He received a M.S. from his alma Mater, AFIT in 1962. He was a fighter pilot and retired on September 1st. 1969.</lex>
+      <lex comment="good" lid="Id1">William Anders was born on 1933-10-17 in British Hong Kong. He received an M.S. from his alma Mater, AFIT in 1962. He was a fighter pilot and retired on September 1st. 1969.</lex>
       <lex comment="good" lid="Id2">William Anders was born in British Hong Kong in 1933. He graduated from AFIT in 1962 with an MS and became a fighter pilot. He retired on Sept 1st 1969.</lex>
-      <lex comment="good" lid="Id3">William Anders was a fighter pilot born in British Hong Kong on October 17 1933. He received a M.S. from AFIT in 1962. He retired on 1969-09-01.</lex>
+      <lex comment="good" lid="Id3">William Anders was a fighter pilot born in British Hong Kong on October 17 1933. He received an M.S. from AFIT in 1962. He retired on 1969-09-01.</lex>
     </entry>
     <entry category="Astronaut" eid="Id80" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>

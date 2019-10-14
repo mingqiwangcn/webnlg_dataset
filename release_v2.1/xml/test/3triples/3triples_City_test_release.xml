@@ -340,7 +340,7 @@
         <mtriple>New_Jersey | capital | Trenton,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Atlantic City, New Jersey, is within the United State and the capital of that state is Trenton.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Atlantic City, New Jersey, is within the United States and the capital of that state is Trenton.</lex>
       <lex comment="good" lid="Id2">Atlantic City is part of New Jersey in the US and Trenton is New Jersey's capital.</lex>
       <lex comment="good" lid="Id3">Atlantic City, is a part of New Jersey (United States), where the state's capital is Trenton.</lex>
     </entry>

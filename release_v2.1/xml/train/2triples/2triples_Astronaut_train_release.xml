@@ -14,7 +14,7 @@
       <lex comment="good" lid="Id2">Alan Bean was born on the 15th of March 1932 and graduated from UT Austin in 1955 with a B.S.</lex>
       <lex comment="good" lid="Id3">Alan Bean was born on the 15th of March 1932 and his Alma Mater is UT Austin, B.S. 1955.</lex>
       <lex comment="good" lid="Id4">Alan Bean (born 1932-03-15)'s alma mater was UT Austin B.S. 1955.</lex>
-      <lex comment="good" lid="Id5">Alan Bean (born on 1932-03-15) graduated from UT Austin in 1955.</lex>
+      <lex comment="good" lid="Id5">Alan Bean (born on 1932-03-15) graduated from UT Austin in 1955 with a B.Sc. degree.</lex>
       <lex comment="good" lid="Id6">Alan Bean was born on March 15, 1932 and his alma mater was UT Austin BS, in 1955.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -548,8 +548,8 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born on the 17th of October 1933 and graduated from AFIT in 1962 with an M.S.</lex>
       <lex comment="good" lid="Id2">William Anders, who was born on the 17th of October 1933, graduated from AFIT, M.S. in 1962.</lex>
-      <lex comment="good" lid="Id3">William Anders was born 1933-10-17 and he received a MS from AFIT.</lex>
-      <lex comment="good" lid="Id4">William Anders (1933-10-17) graduated from AFIT, in 1962.</lex>
+      <lex comment="good" lid="Id3">William Anders was born 1933-10-17 and he received an MS from AFIT in 1962.</lex>
+      <lex comment="good" lid="Id4">William Anders (1933-10-17) graduated from AFIT with a master of science in 1962.</lex>
       <lex comment="good" lid="Id5">William Anders was born on October 17th, 1933 and his Alma Mater was AFIT, M.S. which he attended in 1962.</lex>
       <lex comment="good" lid="Id6">William Anders (born on 1933-10-17) graduated from AFIT, M.S. in 1962.</lex>
     </entry>

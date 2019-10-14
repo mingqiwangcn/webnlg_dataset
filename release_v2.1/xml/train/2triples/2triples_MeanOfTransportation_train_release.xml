@@ -736,7 +736,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ALV X-1 is from the US and Asian Americans are an ethnic group within the U.S.</lex>
-      <lex comment="good" lid="Id2">ALV X-1 comes from the United State where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">ALV X-1 comes from the United States where Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, where Asian Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id54" shape="(X (X (X)))" shape_type="chain" size="2">
