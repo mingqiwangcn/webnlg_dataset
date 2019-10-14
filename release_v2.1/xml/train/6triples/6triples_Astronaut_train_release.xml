@@ -768,9 +768,9 @@
         <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ and is from the United States. He was a fighter pilot and a member of Apollo 11. He walked in space for 52 minutes. He is now retired.</lex>
+      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ and is from the United States. He was a fighter pilot and a member of Apollo 11. He walked in space for 52 minutes. He is now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is a US national who was born in Glen Ridge, New Jersey. He was a fighter pilot and member of the Apollo 11 crew. He spent 52 minutes in space and is now retired.</lex>
-      <lex comment="good" lid="Id3">Retired American fighter pilot Buzz Aldrin, born in Glen Ridge, NJ, spent 52 minutes in space as a crew member on Apollo 11.</lex>
+      <lex comment="good" lid="Id3" error_1="Glen Ridge, New Jersey">Retired American fighter pilot Buzz Aldrin, born in Glen Ridge, NJ, spent 52 minutes in space as a crew member on Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id39" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -791,7 +791,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Buzz Aldrin was born in Glen Ridge, New Jersey on January 20th, 1930. In 1963 he graduated from MIT with a Sc. D then became a fighter pilot and later a member of the Apollo 11 crew.</lex>
       <lex comment="good" lid="Id2">American Buzz Aldrin was born on the 20th of January 1930 in Glen Ridge, New Jersey. He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science, was a fighter pilot and was a crew member of Apollo 11.</lex>
-      <lex comment="good" lid="Id3">American fighter pilot Buzz Aldrin, who was born January 20 1930 in Glen Ridge, NJ, graduated from Massachusetts Institute of Technology, Sc.D. 1963 and became a crew member of Apollo 11.</lex>
+      <lex comment="good" lid="Id3" error_1="Glen Ridge, New Jersey">American fighter pilot Buzz Aldrin, who was born January 20 1930 in Glen Ridge, NJ, graduated from Massachusetts Institute of Technology, Sc.D. 1963 and became a crew member of Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -934,7 +934,7 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was an American born in Glen Ridge, Essex County, New Jersey. He was a member of Apollo 11's crew. William Anders was an Apollo 11 backup pilot. Joe Biden is a US leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Joe Biden">Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot. B. Aldrin was a US national, where one of the leaders is Joe Biden.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge in New Jersey which is situated in the Essex County. Buzz Aldrin became a member of Apollo 11's crew along with William Anders as backup pilot. B. Aldrin was a US national, where one of the leaders is Joe Biden.</lex>
       <lex comment="good" lid="Id3">Born in Glen Ridge, New Jersey in Essex County Buzz Aldrin was a US citizen and crew member of Apollo 11 along with backup pilot William Anders. Joe Biden was the American leader.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">

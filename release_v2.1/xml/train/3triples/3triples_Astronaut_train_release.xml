@@ -178,7 +178,7 @@
         <mtriple>Alan_Shepard | dateOfRetirement | "1974-08-01"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard went to school at NWC and graduated with an MA in 1957, was born in New Hampshire and retired 1st of August 1974.</lex>
-      <lex comment="good" lid="Id2" error_1="Alan Shepard">Alan Shepard, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
       <lex comment="good" lid="Id3">Alan Shepard graduated from NWC in 1957 with a master of arts. He was born in New Hampshire and died on 1974-08-01.</lex>
       <lex comment="good" lid="Id4">Alan Shepard was born in New Hampshire and got his M.A. in 1957 at NWC and retired on August 1st, 1974.</lex>
       <lex comment="good" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC with an M.A. degree, retired on August 1, 1974.</lex>
@@ -397,7 +397,7 @@
         <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Retired American Buzz Aldrin was born in Glen Ridge, NJ.</lex>
+      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Retired American Buzz Aldrin was born in Glen Ridge, NJ.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin, now retired, is a US national, being born in Glen Ridge, New Jersey.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin, born in Glen Ridge, New Jersey, in the USA, is now retired.</lex>
     </entry>
@@ -475,7 +475,7 @@
         <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born on January 2 1930 in Glen Ridge, NJ, Buzz Aldrin was a fighter pilot.</lex>
+      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Born on January 2 1930 in Glen Ridge, NJ, Buzz Aldrin was a fighter pilot.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin, who was born in Glen Ridge, New Jersey on 20 January 1930 served as a fighter pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id32" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

@@ -1269,7 +1269,7 @@
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Elliot See" error_2="St. Louis">Elliot See was born in Dallas, US on the 23rd of July 1927. Elliot was a student at the University of Texas at Austin. Elliot served as a test pilot before passing away on the 28th of February in 1966 in St. Louis.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born in Dallas, US on the 23rd of July 1927. Elliot was a student at the University of Texas at Austin. Elliot served as a test pilot before passing away on the 28th of February in 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Test pilot Elliot See was born on the 23rd of July, 1927 in Dallas, USA. He was a student at the University of Texas at Austin. Elliot See passed away in St. Louis, on the 28th of February, 1966.</lex>
       <lex comment="good" lid="Id3">Elliot See, who is from the United States, was born in Dallas, on July 23rd, 1927. He graduated from the University of Texas at Austin, and later performed as a test pilot. Elliot See died in St. Louis on February 28th in 1966.</lex>
     </entry>
