@@ -73,8 +73,8 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas on March 15 1932. He went on to become a test pilot and is now retired.</lex>
-      <lex comment="good" lid="Id2">Alan Bean, born Mar 15, 1932. in Wheeler, Texas. was an American test pilot. He has since retired.</lex>
+      <lex comment="good" lid="Id1">American Alan Bean was born in Wheeler, Texas on March 15 1932. He went on to become a test pilot and is now retired.</lex>
+      <lex comment="good" lid="Id2">Alan Bean, born Mar 15, 1932 in Wheeler, Texas, was an American test pilot. He has since retired.</lex>
       <lex comment="good" lid="Id3" error_1="Retired">Alan Bean is a US national who was born in Wheeler, Texas on 15 March 1932. Before retiring he served as a test pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1047,7 +1047,7 @@
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See who was originally from Dallas graduated from the University of Texas at Austin. He then went on to become a test pilot and has since passed away.</lex>
+      <lex comment="good" lid="Id1">Elliot See who was originally from Dallas, US graduated from the University of Texas at Austin. He then went on to become a test pilot and has since passed away.</lex>
     </entry>
     <entry category="Astronaut" eid="Id57" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
