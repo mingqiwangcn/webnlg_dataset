@@ -1051,7 +1051,7 @@
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born on July 23, 1977 in Dallas. He attended the University of Austin and worked as a test pilot. He died on Feb 28, 1966 in St. Louis.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born on July 23, 1977 in Dallas. He attended the University of Texas at Austin and worked as a test pilot. He died on Feb 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See (23rd July 1927 - 28th February 1966) was born in Dallas. He was a student at the University of Texas at Austin. He was a test pilot and died in St Louis.</lex>
       <lex comment="good" lid="Id3">Dallas born test pilot Elliot See (born 23rd of July 1927) attended the University of Texas at Austin. He died in St Louis on 28th of February 1966.</lex>
     </entry>
@@ -1257,7 +1257,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot see was born in Dallas, Texas. He attended the University of Texas at Austin which is affiliated with the University of Texas system. The school is part of the big 12 conference and the president of the school is Gregory L. Fenves.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas, Texas. He graduated from the University of Texas at Austin, which is affiliated to the University of Texas system and will compete in the Big 12 Conference. Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3" error_1="Gregory L. Fenves">Elliot See was born in Dallas, Texas. He was a student at the University of Texas at Austin (a part of the University of Texas System), where Gregory L. Fenves was appointed as the president. They will be competing in the Big 12 Conference.</lex>
+      <lex comment="good" lid="Id3">Elliot See was born in Dallas, Texas. He was a student at the University of Texas at Austin (a part of the University of Texas System), where Gregory L. Fenves was appointed as the president. They will be competing in the Big 12 Conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id63" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
