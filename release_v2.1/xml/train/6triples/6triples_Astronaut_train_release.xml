@@ -1256,8 +1256,8 @@
         <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot see was born in Dallas, Texas. He attended the University of Texas at Austin which is affiliated with the University of Texas system. The school is part of the big 12 conference and the president of the school is Gregory L. Fenves.</lex>
-      <lex comment="good" lid="Id2">Elliot See was born in Dallas, Texas. He graduated from the University of Texas at Austin, which is affiliated to the University Of Texas system and will compete in the Big 12 Conference. Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3" error_1="Gregory L. Fenves">Elliot See was born in Dallas, Texas. He was a student at the University of Texas at Austin, where Gregory L. Fenvas was appointed as the president. They will be competing in the Big 12 Conference.</lex>
+      <lex comment="good" lid="Id2">Elliot See was born in Dallas, Texas. He graduated from the University of Texas at Austin, which is affiliated to the University of Texas system and will compete in the Big 12 Conference. Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id3" error_1="Gregory L. Fenves">Elliot See was born in Dallas, Texas. He was a student at the University of Texas at Austin (a part of the University of Texas System), where Gregory L. Fenves was appointed as the president. They will be competing in the Big 12 Conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id63" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1278,7 +1278,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born on the 23rd July 1927 in Dallas. He attended the University of Texas at Austin (affiliated to the university of Texas system). The University of Texas will compete in the Big 12 Conference. Elliot See died in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See was born on 23rd July 1927 in Dallas. He was a student at University of Texas at Austin which is affiliated to the University of Texas System. The University of Texas competed in the Big 12 Conference in Austin. Elliot died in St. Louis.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born in Dallas on the 23rd of July 1927 .He graduated from the University of Texas at Austin which is competing in the Big 12 Conference. Elliot See died in St. Louis.</lex>
+      <lex comment="good" lid="Id3">Elliot See was born in Dallas on the 23rd of July 1927. He graduated from the University of Texas at Austin which is competing in the Big 12 Conference. The University of Texas is affiliated to the University of Texas System. Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id64" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1584,8 +1584,8 @@
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Fighter pilot">American fighter pilot William Anders was born in British Hong Kong on the 17th of October, 1933. He received an M.S. from his alma Mater, AFIT, in 1962. He retired on the 1st of September, 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">US citizen William Anders was born in British Hong Kong on October 17th 1933. He graduated from AFIT in 1962 with an M.S. and went on to become a fighter pilot before he retired on September 1st 1969.</lex>
+      <lex comment="good" lid="Id1">American fighter pilot William Anders was born in British Hong Kong on the 17th of October, 1933. He received an M.S. from his alma Mater, AFIT, in 1962. He retired on the 1st of September, 1969.</lex>
+      <lex comment="good" lid="Id2">US citizen William Anders was born in British Hong Kong on October 17th 1933. He graduated from AFIT in 1962 with an M.S. and went on to become a fighter pilot before he retired on September 1st 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id79" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>

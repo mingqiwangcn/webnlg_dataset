@@ -1212,8 +1212,8 @@
         <mtriple>Elliot_See | deathDate | "1966-02-28"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See attended the University of Texas at Austin, which is affiliated to the University of Texas System and will compete in the Big 12 Conference. Elliot See died in St. Louis on February 28, 1966.</lex>
-      <lex comment="good" lid="Id2">Elliot See attended the University of Texas at Austin who are competing in the Big 12 Conference. Elliot See died on February 28, 1966 in St. Louis.</lex>
-      <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin who are competing in the Big 12 Conference. Elliot See died in St. Louis on February 28, 1966.</lex>
+      <lex comment="good" lid="Id2">Elliot See attended the University of Texas at Austin (part of the University of Texas System) who are competing in the Big 12 Conference. Elliot See died on February 28, 1966 in St. Louis.</lex>
+      <lex comment="good" lid="Id3">Elliot See graduated from the University of Texas at Austin who are competing in the Big 12 Conference. The university is affiliated to the University of Texas System. Elliot See died in St. Louis on February 28, 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id66" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
