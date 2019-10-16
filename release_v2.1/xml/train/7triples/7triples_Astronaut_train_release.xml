@@ -1293,7 +1293,7 @@
         <mtriple>Elliot_See | was selected by NASA | 1962</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas in the United States and went to the University of Texas at Austin. Elliot was selected by NASA in 1962 and served as a test pilot before passing away in St Louis.</lex>
-      <lex comment="good" lid="Id2" error_1="St. Louis">American Elliot See was born in Dallas and graduated from the University of Texas at Austin. Elliot was selected by NASA in 1962 to serve as a test pilot. Elliot died on 28th February in 1966 in St. Louis.</lex>
+      <lex comment="good" lid="Id2">American Elliot See was born in Dallas and graduated from the University of Texas at Austin. Elliot was selected by NASA in 1962 to serve as a test pilot. Elliot died on 28th February in 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See, a US national, was born in Dallas and graduated from the University of Texas at Austin. He flew as a test pilot and was selected by NASA in 1962. He died on 28 February 1966 in St Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id58" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
@@ -1383,7 +1383,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See is a United States national born on July 23rd, 1927 in Dallas and attended the University of Texas at Austin. He died on February 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See (born on July 23, 1927 in Dallas and died on February 28, 1966 in St Louis) was an American who graduated from the University of Texas at Austin.</lex>
-      <lex comment="good" lid="Id3">Elliot See was born in America in the city of Dallas on the 23rd day of July in 1927. Elliot was a student at the University of Texas at Austin. See died in St. Louis on the 28th of February in 1966.</lex>
+      <lex comment="good" lid="Id3" error_1="United States">Elliot See was born in America in the city of Dallas on the 23rd day of July in 1927. Elliot was a student at the University of Texas at Austin. See died in St. Louis on the 28th of February in 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id62" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
