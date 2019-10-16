@@ -131,7 +131,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Alan Bean">Allan Bean is a US national who was born in Wheeler, Texas. He was selected by NASA in 1963 and became a member of the Apollo 12 crew. He is retired.</lex>
-      <lex comment="good" lid="Id2">Alan Bean who was originally from Wheeler, Texas joined NASA in 1963 and became a member of Apollo 12 before he retired.</lex>
+      <lex comment="good" lid="Id2">Alan Bean who was originally from Wheeler, Texas, USA joined NASA in 1963 and became a member of Apollo 12 before he retired.</lex>
       <lex comment="good" lid="Id3">Alan Bean is a US national who was born in Wheeler, Texas. He is now retired but was a crew member hired by NASA in 1963 for the Apollo 12 mission.</lex>
     </entry>
     <entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -300,7 +300,7 @@
         <mtriple>Alan_Shepard | birthDate | "1923-11-18"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was an American astronaut, born on November 18th, 1923, in New Hampshire. Alan went to school at NWC and graduated with an MA in 1957. He died in California.</lex>
-      <lex comment="good" lid="Id2">Alan Shepard who was born on the 18th of November 1923 in New Hampshire graduated with an M.A. at NWC in 1957. Mr Shepard died in California.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard who was born on the 18th of November 1923 in New Hampshire, US, graduated with an M.A. at NWC in 1957. Mr Shepard died in California.</lex>
       <lex comment="good" lid="Id3">Alan Shepard is a US citizen who was born on 18 November 1923 in New Hampshire. He graduated from NWC with a MA in 1957 and has died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -714,7 +714,7 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Buzz Aldrin was born in Glen Ridge, New Jersey, graduated in 1963 from MIT with a Sc.D and in the same year was selected by NASA who was a crew member on Apollo 11.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin who was originally from Glen Ridge, New Jersey graduated from MIT with a Sc.D in 1963. He then went on to join NASA in 1963 and became a member of the Apollo 11 crew.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin who was originally from Glen Ridge, New Jersey, US graduated from MIT with a Sc.D in 1963. He then went on to join NASA in 1963 and became a member of the Apollo 11 crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id39" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -991,7 +991,7 @@
         <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
         <mtriple>Elliot_See | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Elliot See was born in Dallas in 1927. He was a student of the University of Texas at Austin and died in St Louis.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born in Dallas, USA, in 1927. He was a student of the University of Texas at Austin and died in St Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See died in St louis. He was a US National who was born in Dallas on 23 July 1927 and attended the University of Texas at Austin.</lex>
       <lex comment="good" lid="Id3">Elliot See was born on 23 July 1927 in Dallas. A US national, he attended the University of Texas at Austin. He died in St Louis.</lex>
     </entry>

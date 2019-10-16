@@ -99,7 +99,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Alan Bean was a test pilot who was born in Wheeler, Texas and in 1963 was picked by NASA as part of the space program.</lex>
       <lex comment="good" lid="Id2">Alan Bean is a national of the United States. He was born in Wheeler, Texas. He was a test pilot and was selected by NASA in 1963.</lex>
-      <lex comment="good" lid="Id3">Alan Bean originally from Wheeler, Texas began work for NASA in 1963 as a test pilot.</lex>
+      <lex comment="good" lid="Id3">Alan Bean, originally from Wheeler, Texas, US, began working for NASA in 1963 as a test pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -703,7 +703,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Buzz Aldrin was part of Apollo 11 along with William Anders as chosen by NASA.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin worked for NASA and became a crew member of Apollo 11 with William Anders as his back up pilot.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin, a US national, worked for NASA and became a crew member of Apollo 11 with William Anders as his back up pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id45" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

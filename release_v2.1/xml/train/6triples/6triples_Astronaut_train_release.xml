@@ -19,7 +19,7 @@
         <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">United States test pilot Alan Bean was born in Wheeler, Texas. In 1955, he graduated from UT Austin with a B.S. Chosen by NASA in 1963, he managed a total space time of 100305.0 minutes.</lex>
-      <lex comment="good" lid="Id2">Alan Bean is originally from Wheeler, Texas and graduated from UT Austin 1955 with a Bachelor of Science degree. Alan Bean joined NASA in 1963 as a test pilot and spent 100305 minutes in space.</lex>
+      <lex comment="good" lid="Id2">Alan Bean is originally from Wheeler, Texas, U.S. and graduated from UT Austin 1955 with a Bachelor of Science degree. Alan Bean joined NASA in 1963 as a test pilot and spent 100305 minutes in space.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -326,7 +326,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Alan Shepard was a test pilot who was born in New Hampshire on November 18th, 1923. and died in California. In 1957 he graduated from NWC with an MA.</lex>
       <lex comment="good" lid="Id2">Alan Shepard (American nationality) was born on the 18th November 1923 in New Hampshire. He graduated from NWC in 1957 with a MA. He was a test pilot and died in California.</lex>
-      <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire on 18th November 1923. He graduated with an M.A. in 1957 from NWC and went on to become a test pilot. Alan Shepard died in California.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard was born in New Hampshire, US on 18th November 1923. He graduated with an M.A. in 1957 from NWC and went on to become a test pilot. Alan Shepard died in California.</lex>
     </entry>
     <entry category="Astronaut" eid="Id17" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -507,7 +507,7 @@
         <mtriple>Alan_Shepard | was selected by NASA | 1959</mtriple>
         <mtriple>Alan_Shepard | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, and died in California. He was selected by NASA in 1959, after graduating from NWC with an M.A. in 1957.</lex>
+      <lex comment="good" lid="Id1">American Alan Shepard was born in New Hampshire, and died in California. He was selected by NASA in 1959, after graduating from NWC with an M.A. in 1957.</lex>
     </entry>
     <entry category="Astronaut" eid="Id26" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -810,9 +810,9 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin (born January 20th, 1930 in Glen Ridge, New Jersey), was hired by NASA in 1963. He was a crew member of Apollo 11 and is now retired.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin (born January 20th, 1930 in Glen Ridge, New Jersey, USA) was hired by NASA in 1963. He was a crew member of Apollo 11 and is now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is an American who was born in Glen Ridge, New Jersey on January 20,1930. He was selected by NASA to be part of the Apollo 11 crew in 1963. He is now retired.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin was born on January 20th 1930 in Glen Ridge, New Jersey. He Joined NASA in 1963 where he became a member of the Apollo 11 crew before he retired.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin was born on January 20th 1930 in Glen Ridge, New Jersey, USA. He joined NASA in 1963 where he became a member of the Apollo 11 crew before he retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id41" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -874,7 +874,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey in the United States. He went to work for NASA in 1963. He graduated from MIT in 1963 with a doctorate in Science. He was a member of Apollo 11 which was organized by NASA.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is originally from Glen Ridge, New Jersey, U.S.A., and graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science. Buzz Aldrin went on to work for NASA in 1963 where he became a member of the Apollo 11's crew.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin is originally from Glen Ridge, New Jersey and graduated from MIT with a Sc.D in 1963. Buzz then went on to join NASA in 1963 and became a crew member of Apollo 11.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin is originally from Glen Ridge, New Jersey, United States and graduated from MIT with a Sc.D in 1963. Buzz then went on to join NASA in 1963 and became a crew member of Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id44" shape="(X (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -954,7 +954,7 @@
         <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born January 20th, 1930 in Glen Ridge, New Jersey. Now retired, he served as a member of the Apollo 11 crew, which was operated by NASA.</lex>
+      <lex comment="good" lid="Id1">American Buzz Aldrin was born January 20th, 1930 in Glen Ridge, New Jersey. Now retired, he served as a member of the Apollo 11 crew, which was operated by NASA.</lex>
     </entry>
     <entry category="Astronaut" eid="Id48" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1094,7 +1094,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See was born in Dallas and was American. He attended the University of Texas at Austin and worked as a test pilot. He died on Feb 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See was an American born in Dallas and attended the University of Texas at Austin. He was a test pilot. He died in St Louis in 1966.</lex>
-      <lex comment="good" lid="Id3">Elliot See was originally from Dallas and graduated from the University of Texas at Austin. He worked as a test pilot and died in St. Louis on the 28th February 1966.</lex>
+      <lex comment="good" lid="Id3">Elliot See was originally from Dallas, U.S.A. and graduated from the University of Texas at Austin. He worked as a test pilot and died in St. Louis on the 28th February 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id55" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -1523,7 +1523,7 @@
         <mtriple>Elliot_See | was selected by NASA | 1962</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Test pilot Elliot See was an American who was picked by NASA as part of the space mission in 1962. See was born in Dallas and died in St. Louis.</lex>
-      <lex comment="good" lid="Id2">Elliot See is originally from Dallas and joined NASA in 1962 where he flew as a test pilot. Elliot See died in St. Louis.</lex>
+      <lex comment="good" lid="Id2">Elliot See is originally from Dallas, USA, and joined NASA in 1962 where he flew as a test pilot. Elliot See died in St. Louis.</lex>
     </entry>
     <entry category="Astronaut" eid="Id76" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1830,7 +1830,7 @@
         <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
         <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
+      <lex comment="good" lid="Id1">American William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
     </entry>
   </entries>
 </benchmark>
