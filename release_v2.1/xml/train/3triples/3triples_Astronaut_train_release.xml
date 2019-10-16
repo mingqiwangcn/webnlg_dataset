@@ -667,7 +667,7 @@
         <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The University of Texas at Austin, where Elliot See was a student and Gregory L. Fenves is president, is affiliated with the University of Texas System.</lex>
-      <lex comment="good" lid="Id2" error_1="Gregory L. Fenves">The University of Texas, the president of which is Gregory L. Fences, is affiliated with the University of Texas System, and was previously attended by Elliot See.</lex>
+      <lex comment="good" lid="Id2" error_1="Gregory L. Fenves">The University of Texas at Austin, the president of which is Gregory L. Fenves, is affiliated with the University of Texas System, and was previously attended by Elliot See.</lex>
       <lex comment="good" lid="Id3">Gregory L Fenves is the appointed president of the University of Texas at Austin (affiliated with University of Texas System) from which Elliot See graduated.</lex>
     </entry>
     <entry category="Astronaut" eid="Id45" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

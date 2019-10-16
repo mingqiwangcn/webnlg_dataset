@@ -19,7 +19,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean is an American born on March 15, 1932 in Wheeler, Texas. He was a test pilot and spent a total of 100305 minutes in space. He is now retired.</lex>
-      <lex comment="good" lid="Id2" error_1="&quot;100305.0&quot;(minutes)">Alan Bean (born 15th of March 1932 in Wheeler, Texas) served as a test pilot. He was in space for 70 days and is now retired.</lex>
+      <lex comment="good" lid="Id2" error_1="&quot;100305.0&quot;(minutes)">Alan Bean (born 15th of March 1932 in Wheeler, Texas, US) served as a test pilot. He was in space for 70 days and is now retired.</lex>
       <lex comment="good" lid="Id3">Alan Bean was an American test pilot who was born in Wheeler, Texas on Mar 15, 1932. He spent 100305.0 minutes in space. He is retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -101,7 +101,7 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born on 20th January 1930 in Glen Ridge New Jersey. He graduated from MIT in 1963 and was a member of the Apollo 11 crew, operated by NASA. The back up pilot was William Anders.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born on 20th January 1930 in Glen Ridge New Jersey. He graduated from MIT in 1963 with a Doctor of Science degree and was a member of the Apollo 11 crew, operated by NASA. The back up pilot was William Anders.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born January 20, 1930 in Glen Ridge, New Jersey. He graduated from M.I.T. with a Sc.D in 1963, and served as a crew member aboard NASA's Apollo 11, William Anders was a backup pilot on the same mission.</lex>
     </entry>
     <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
@@ -122,7 +122,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was an American born in Glen Ridge New Jersey. He was a fighter pilot and a member of the Apollo 11 crew. William Anders was the backup pilot and the mission was operated by NASA.</lex>
-      <lex comment="good" lid="Id2">Buzz Aldrin was originally from Glen Ridge, New Jersey. He worked as a fighter pilot for NASA and became a member of the Apollo 11 mission along with William Anders as backup pilot.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was originally from Glen Ridge, New Jersey, U.S. He worked as a fighter pilot for NASA and became a member of the Apollo 11 mission along with William Anders as backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -222,7 +222,7 @@
         <mtriple>William_Anders | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders, retired, was a member of NASA's Apollo 8 after graduating from AFIT in 1962 with an MS. Buzz Aldrin was a back up pilot and Frank Borman a crew member.</lex>
-      <lex comment="good" lid="Id2">William Anders who graduated from AFIT in 1962 worked for NASA and became a crew member of the Apollo 8 crew along with Frank Borman and Buzz Aldrin as backup pilot. Mr Anders is now retired.</lex>
+      <lex comment="good" lid="Id2">William Anders who graduated from AFIT in 1962 with an M.S. degree worked for NASA and became a crew member of the Apollo 8 crew along with Frank Borman and Buzz Aldrin as backup pilot. Mr Anders is now retired.</lex>
     </entry>
   </entries>
 </benchmark>

@@ -142,9 +142,9 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge New Jersey in 1930. He graduated from MIT in 1963 and was hired by NASA in the same year. He was a member of the Apollo 11 crew and is now retired.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge New Jersey on 20 January, 1930. He graduated from MIT with a Doctor of Science in 1963 and was hired by NASA in the same year. He was a member of the Apollo 11 crew and is now retired.</lex>
       <lex comment="good" lid="Id2">Retired Apollo 11 crew member Buzz Aldrin was born January 20 1930 in Glen Ridge, New Jersey. He was selected by NASA in 1963 when he graduated from MIT with a Sc. D.</lex>
-      <lex comment="good" lid="Id3">Buzz Aldrin was originally from Glen Ridge, New Jersey and graduated in 1963 from Massachusetts Institute of Technology. He then went on to join NASA in 1963 and became a member of the Apollo 11 crew before he retired.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin (born 20/01/1930) was originally from Glen Ridge, New Jersey and graduated in 1963 from Massachusetts Institute of Technology with a Sc.D. degree. He then went on to join NASA in 1963 and became a member of the Apollo 11 crew before he retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id8" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
