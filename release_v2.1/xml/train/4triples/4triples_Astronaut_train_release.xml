@@ -195,7 +195,7 @@
         <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Test pilot">Alan Bean who was born in Wheeler, Texas joined NASA as a test pilot and was a crew member of Apollo 12.</lex>
+      <lex comment="good" lid="Id1">Alan Bean who was born in Wheeler, Texas joined NASA as a test pilot and was a crew member of Apollo 12.</lex>
       <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas and became a test pilot. He was a crew member of the NASA operated Apollo 12 mission.</lex>
     </entry>
     <entry category="Astronaut" eid="Id13" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -779,7 +779,7 @@
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire on 1923-11-18. He was awarded the Distinguished Service Medal, which is ranked higher than the Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id2" error_1="Department of Commerce Gold Medal">Alan Shepard who was born in New Hampshire on 18 November, 1923 was awarded a distinguished service medal by the United States Navy. That medal has a higher rank than the Department of Commerce gold medal.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard who was born in New Hampshire on 18 November, 1923 was awarded a distinguished service medal by the United States Navy. That medal has a higher rank than the Department of Commerce gold medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id50" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1131,7 +1131,7 @@
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American William Anders was born in British Hong Kong. He graduated with an M.S. from AFIT in 1962 and retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders who was born in British Hong Kong before becoming a resident of the United States. He graduated from AFIT in 1962 with a master of science and retired in 1969.</lex>
+      <lex comment="good" lid="Id2">William Anders who was born in British Hong Kong before becoming a resident of the United States. He graduated from AFIT in 1962 with a master of science and retired in 1969.</lex>
       <lex comment="good" lid="Id3">William Anders was a United States citizen who was born in British Hong Kong. He graduated from AFIT, MS in 1962 and retired 1969.09.01.</lex>
     </entry>
     <entry category="Astronaut" eid="Id72" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1212,7 +1212,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders, a crew member of Apollo 8, was born in British Hong Kong, and was selected by NASA in 1963. He retired September 1, 1969.</lex>
       <lex comment="good" lid="Id2">William Anders (born in British Hong Kong) was a crew member of Apollo 8 and was selected by NASA in 1963. He retired on 1969-09-01.</lex>
-      <lex comment="good" lid="Id3" error_1="British Hong Kong">British Hong Kong born William Anders was a selected as a crew member of Apollo 8 by NASA in 1963 and retired 1st September 1969.</lex>
+      <lex comment="good" lid="Id3">British Hong Kong born William Anders was a selected as a crew member of Apollo 8 by NASA in 1963 and retired 1st September 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id77" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1244,7 +1244,7 @@
         <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
         <mtriple>Apollo_8 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Frank Borman">William Anders worked for NASA and became a crew member of Apollo 8 with Frank Borman and Buzz Aldrin as his back up pilot.</lex>
+      <lex comment="good" lid="Id1">William Anders worked for NASA and became a crew member of Apollo 8 with Frank Borman and Buzz Aldrin as his back up pilot.</lex>
       <lex comment="good" lid="Id2">William Anders was a crew member of the NASA operated Apollo 8 along with fellow crew member Frank Borman and backup pilot Buzz Aldrin.</lex>
     </entry>
     <entry category="Astronaut" eid="Id79" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

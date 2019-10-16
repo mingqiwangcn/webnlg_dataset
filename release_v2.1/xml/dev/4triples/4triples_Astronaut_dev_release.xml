@@ -15,7 +15,7 @@
         <mtriple>Apollo_12 | commander | David_Scott</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean (of the United States) was a crew member of NASA's Apollo 12 under the commander David Scott.</lex>
-      <lex comment="good" lid="Id2" error_1="David Scott">United States national Alan Bean was a crew member of NASA's Apollo 12 mission under commander David Scott.</lex>
+      <lex comment="good" lid="Id2">United States national Alan Bean was a crew member of NASA's Apollo 12 mission under commander David Scott.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -127,7 +127,7 @@
         <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Elliot See attended the University of Texas in Austin. He became a test pilot. He died in St. Louis on 1966-02-28.</lex>
-      <lex comment="good" lid="Id2" error_1="Test pilot">Elliot See attended the University of Texas at Austin. He was a test pilot and died in St. Louis, 28th February 1966.</lex>
+      <lex comment="good" lid="Id2">Elliot See attended the University of Texas at Austin. He was a test pilot and died in St. Louis, 28th February 1966.</lex>
     </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -175,7 +175,7 @@
         <mtriple>Apollo_8 | backup pilot | Buzz_Aldrin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The members of Apollo 8 were Buzz Aldrin who was backup pilot, commander Frank Borman and William Anders who retired on September 1st, 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="Frank Borman">William Anders served as a crew member of Apollo 8 under Commander Frank Borman and backup pilot Buzz Aldrin. He retired 1969.09.01.</lex>
+      <lex comment="good" lid="Id2">William Anders served as a crew member of Apollo 8 under Commander Frank Borman and backup pilot Buzz Aldrin. He retired 1969.09.01.</lex>
     </entry>
   </entries>
 </benchmark>

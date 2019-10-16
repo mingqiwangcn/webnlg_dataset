@@ -61,7 +61,7 @@
         <mtriple>Alan_Bean | birthName | "Alan LaVern Bean"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Apollo 12 was operated by NASA. It had many crew members, including: its backup pilot, Alfred Worden; its crew member Alan Bean (Alan LaVern Bean, retired June 1981) and David Scott, who was the commander.</lex>
-      <lex comment="good" lid="Id2" error_1="June 1981">Alan Bean, born Alan LaVern Bean was a crew member aboard NASA's Apollo 12. He retired in June 1981. David Scott commanded Apollo 12 and Alfred Worden was the backup pilot.</lex>
+      <lex comment="good" lid="Id2">Alan Bean, born Alan LaVern Bean was a crew member aboard NASA's Apollo 12. He retired in June 1981. David Scott commanded Apollo 12 and Alfred Worden was the backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -202,7 +202,7 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong and served as a crew member on Apollo 8 along with Frank Borman. NASA operated Apollo 8, where Buzz Aldrin was a back up pilot. Anders retired on Sept 1, 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders who is originally from British Hong Kong worked for NASA and became a crew member for Apollo 8 along with Buzz Aldrin and Frank Borman. He retired on September 1st 1969.</lex>
+      <lex comment="good" lid="Id2">William Anders who is originally from British Hong Kong worked for NASA and became a crew member for Apollo 8 along with Buzz Aldrin and Frank Borman. He retired on September 1st 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>

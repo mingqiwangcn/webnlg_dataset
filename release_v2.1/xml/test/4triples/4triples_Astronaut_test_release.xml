@@ -45,7 +45,7 @@
         <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders was born in British Hong Kong, where Chris Patten is a representative. William was a crew member of Apollo 8, and served along Frank Borman.</lex>
-      <lex comment="good" lid="Id2" error_1="British Hong Kong">Born in British Hong Kong, William Anders was a crew member of Apollo 8 with representative Chris Patten and Apollo 8 member Frank Borman.</lex>
+      <lex comment="good" lid="Id2">Born in British Hong Kong, William Anders was a crew member of Apollo 8 with representative Chris Patten and Apollo 8 member Frank Borman.</lex>
     </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

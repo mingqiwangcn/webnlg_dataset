@@ -172,7 +172,7 @@
       <lex comment="good" lid="Id4">Alan Shepard retired on August 1, 1974.</lex>
       <lex comment="good" lid="Id5">Alan Shepard retired on Aug 1, 1974.</lex>
       <lex comment="good" lid="Id6">Alan Shepard retired 1974-08-01.</lex>
-      <lex comment="good" lid="Id7" error_1="Alan Shepard">Alan Shepard retired on 1st August 1974.</lex>
+      <lex comment="good" lid="Id7">Alan Shepard retired on 1st August 1974.</lex>
     </entry>
     <entry category="Astronaut" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
