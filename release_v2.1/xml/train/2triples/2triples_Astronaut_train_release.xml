@@ -285,7 +285,7 @@
         <mtriple>Buzz_Aldrin | alternativeNames | "Edwin E. Aldrin, Jr."</mtriple>
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Edwin E. Aldrin, Jr.">Edwin E. Aldrin who was born on 20th January 1930, went on to be known as Buzz Aldrin.</lex>
+      <lex comment="good" lid="Id1" error_1="Edwin E. Aldrin, Jr.">Edwin E. Aldrin, Jr. who was born on 20th January 1930, went on to be known as Buzz Aldrin.</lex>
       <lex comment="good" lid="Id2">Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin and was born January 20, 1930.</lex>
       <lex comment="good" lid="Id3" error_1="Edwin E. Aldrin, Jr.">Edwin E. Aldrin Junior's nickname was Buzz Aldrin and he was born on January 20th, 1930.</lex>
     </entry>
@@ -352,7 +352,7 @@
         <mtriple>Buzz_Aldrin | birthName | "Edwin Eugene Aldrin Jr."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Legion of Merit ribbon.svg">Buzz Aldrin, real name Edwin Eugene Aldrin Jr., was awarded the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id2" error_1="Edwin Eugene Aldrin Jr." error_2="Legion of Merit ribbon.svg">Buzz Aldrin, born Edwin Eugene Aldrin, was awarded the Legion of Merit ribbon.</lex>
+      <lex comment="good" lid="Id2" error_1="Edwin Eugene Aldrin Jr." error_2="Legion of Merit ribbon.svg">Buzz Aldrin, born Edwin Eugene Aldrin Jr., was awarded the Legion of Merit ribbon.</lex>
       <lex comment="good" lid="Id3" error_1="Legion of Merit ribbon.svg">Buzz Aldrin's real name is Edwin Eugene Aldrin Jr. and he won the Legion of Merit ribbon.</lex>
     </entry>
     <entry category="Astronaut" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -581,7 +581,7 @@
       <lex comment="good" lid="Id1">The American William Anders was born in British Hong Kong.</lex>
       <lex comment="toFix" lid="Id2">William Anders, who was from the United States, was actually born in British Hong Kong.</lex>
       <lex comment="good" lid="Id3">Although William Anders was from the United States, he was actually born in British Hong Kong.</lex>
-      <lex comment="good" lid="Id4" error_1="British Hong Kong">William Anders nationality is the United States, but he was born in Hong Kong.</lex>
+      <lex comment="good" lid="Id4" error_1="British Hong Kong">William Anders nationality is the United States, but he was born in British Hong Kong.</lex>
       <lex comment="good" lid="Id5">William Anders was born in British Hong Kong but has a United States nationality.</lex>
       <lex comment="good" lid="Id6">William Anders from the United States was born in British Hong Kong.</lex>
       <lex comment="good" lid="Id7">William Anders was born in British Hong Kong and is a citizen of the United States.</lex>

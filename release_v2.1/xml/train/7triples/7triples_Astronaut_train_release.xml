@@ -133,7 +133,7 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
         <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Apollo 12">Alan Bean was born on March 15, 1932 in Wheeler, Texas and is American. He received a BSc. from U of Texas at Austin in 1955. Anders was a test pilot and began working for NASA in 1963.</lex>
+      <lex comment="good" lid="Id1" error_1="Apollo 12">Alan Bean was born on March 15, 1932 in Wheeler, Texas and is American. He received a BSc. from U of Texas at Austin in 1955. Anders was a test pilot and began working for NASA in 1963 for the Apollo 12 mission.</lex>
       <lex comment="good" lid="Id2">Alan Bean, a US National, was born in Wheeler Texas on 15 March 1932. He graduated from UT Austin with a Bachelor of Science degree in 1955 and became a test pilot before being chosen by NASA in 1963 to become a crew member on Apollo 12.</lex>
       <lex comment="good" lid="Id3">Alan Bean, a US national was born on 15 March 1932 in Wheeler, Texas. He graduated in 1955 with a BS from UT Austin, before becoming a test pilot. He was selected by NASA in 1963 and served on the crew of Apollo 12.</lex>
     </entry>
@@ -201,7 +201,7 @@
         <mtriple>Alan_Bean | timeInSpace | "100305.0"(minutes)</mtriple>
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Retired">Alan Bean is a US national who was born in Wheeler, Texas on the 15th March 1932. He was a test pilot and crew member of Apollo 12. He spent 100305 minutes in space.</lex>
+      <lex comment="good" lid="Id1" error_1="Retired">Alan Bean is a US national who was born in Wheeler, Texas on the 15th March 1932. He was a test pilot and crew member of Apollo 12. He spent 100305 minutes in space. Bean is retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean is a United States test pilot. He was born on March 15, 1932 in Wheeler, Texas. Alan Bean retired after spending 100305 minutes in space, he was also a crew member of Apollo 12.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
@@ -225,7 +225,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="&quot;100305.0&quot;(minutes)">American Alan Bean was a test pilot who was born March 15th, 1932 in Wheeler, Texas. In 1963 NASA asked him to join the Apollo 12 program where he later spent 100,305 minutes in space.</lex>
       <lex comment="good" lid="Id2">The American Alan Bean was born in Wheeler, Texas, on Mar 15, 1932. He was a test pilot, and was hired by NASA in 1963. He spent 100305 minutes in space as part of the crew of Apollo 12.</lex>
-      <lex comment="good" lid="Id3" error_1="Test pilot">Alan Bean is a US national who was born on 15 March 1932 in Wheeler, Texas. He spent a total of 100305 minutes in space as a crew member on the Apollo 12 mission after being selected by NASA in 1963.</lex>
+      <lex comment="good" lid="Id3" error_1="Test pilot">Alan Bean is a US national and a test pilot who was born on 15 March 1932 in Wheeler, Texas. He spent a total of 100305 minutes in space as a crew member on the Apollo 12 mission after being selected by NASA in 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id11" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -246,7 +246,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Test pilot">Alan Bean is an American born in Wheeler, Texas. He was on the Apollo 12 which was operated by NASA after receiving a Bachelor of Science degree at the University of Texas at Austin in 1955. Alan is now retired.</lex>
+      <lex comment="good" lid="Id1" error_1="Test pilot">Alan Bean is an American born in Wheeler, Texas. He was on the Apollo 12 which was operated by NASA after receiving a Bachelor of Science degree at the University of Texas at Austin in 1955. He worked as a test pilot. Alan is now retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean is a US national, who was born in Wheeler, Texas. He received a B.S. degree at UT at Austin in 1955. He was a test pilot and crewed the NASA operated Apollo 12. He is now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id12" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
@@ -293,7 +293,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born on March 15, 1932 in Wheeler Texas. He graduated from UT Austin with a BSc. in 1955. Bean worked as a test pilot and was part of Apollo 12, which was run by NASA. He is retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean was born in Wheeler, Texas on March 15th, 1932. He graduated from UT Austin in 1955 with a B.S. He is a retired test pilot, who was on the crew of the NASA-operated Apollo 12.</lex>
-      <lex comment="good" lid="Id3" error_1="Alan Bean">Alan Been was born on March 15, 1932 in Wheeler Texas. He graduated from UT Austin in 1955 with a B.S and became a Test Pilot. He was part of the Apollo 12 crew for NASA and is now retired.</lex>
+      <lex comment="good" lid="Id3" error_1="Alan Bean">Alan Bean was born on March 15, 1932 in Wheeler Texas. He graduated from UT Austin in 1955 with a B.S and became a Test Pilot. He was part of the Apollo 12 crew for NASA and is now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id14" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -430,7 +430,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Department of Commerce Gold Medal">Alan Shepard was born in New Hampshire and graduated from NWC with an M.A. in 1957. He worked as a test pilot and was awarded the Distinguished Service Medal by the US Navy, which is higher than the Dept of Commerce Gold Medal. Shepard retired on Aug 1, 1974 and later died in California.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire. He was a test pilot, who graduated from NWC with an M.A. in 1957. He was awarded the Distinguished Service Medal by the United States Navy, which is higher than the Department of Commerce Gold Medal. He retired on the 1st August 1974 and he died in California.</lex>
-      <lex comment="good" lid="Id3" error_1="Department of Commerce Gold Medal">Alan Shepard has died in California. He was born in New Hampshire and attended NWC, graduating in 1957 with an MA. He served as a test pilot and prior to retiring on 1 August 1974 he was awarded the Distinguished Service Medal, an award higher than the Department of Commerce medal.</lex>
+      <lex comment="good" lid="Id3" error_1="Department of Commerce Gold Medal">Alan Shepard has died in California. He was born in New Hampshire and attended NWC, graduating in 1957 with an MA. He served as a test pilot and prior to retiring on 1 August 1974 he was awarded the Distinguished Service Medal, an award higher than the Department of Commerce Gold medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id20" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -725,7 +725,7 @@
         <mtriple>Alan_Bean | was selected by NASA | 1963</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas. He was selected by NASA in 1963 and he performed as a test pilot. He was a crew member on the NASA operated Apollo 12, which was commanded by David Scott. Alfred Worden was the backup pilot of Apollo 12.</lex>
-      <lex comment="good" lid="Id2" error_1="Apollo 12" error_2="David Scott">Alan Bean was born in Wheeler, Texas. He was a test pilot and was chosen by NASA in 1963. He was a crew member of NASA operated Apollo 11. Other crew members included Alfred Worden, who was a backup pilot.</lex>
+      <lex comment="good" lid="Id2" error_1="Apollo 12" error_2="David Scott">Alan Bean was born in Wheeler, Texas. He was a test pilot and was chosen by NASA in 1963. He was a crew member of NASA operated Apollo 12. Other crew members included Alfred Worden, who was a backup pilot, and a commander David Scott.</lex>
       <lex comment="good" lid="Id3">Alan Bean was born in Wheeler, Texas and was hired by NASA in 1963 to perform as a test pilot. He served as a crew member of Apollo 12, that is operated by NASA. David Scott was the commander of Apollo 12 and Alfred Worden was a backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id33" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
@@ -952,7 +952,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin is an American born in Glen Ridge, New Jersey on Jan 20, 1930. He was a fighter pilot and a member of Apollo 11, where he spent 52 minutes in space. Aldrin is now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was an American, who was born in Glen Ridge, New Jersey on January 20th, 1930. He was a retired fighter pilot and a member of the Apollo 11 crew. He spent 52 minutes in space.</lex>
-      <lex comment="good" lid="Id3" error_1="Fighter pilot">American Buzz Aldrin was born in Glen Ridge, New Jersey in 1930-01-20. He was a crew member on Apollo 11 and spent a total of 52.0 minutes in space. He has retired now.</lex>
+      <lex comment="good" lid="Id3" error_1="Fighter pilot">American Buzz Aldrin was born in Glen Ridge, New Jersey in 1930-01-20. He was a crew member on Apollo 11 and spent a total of 52.0 minutes in space. He worked as a fighter pilot and has retired now.</lex>
     </entry>
     <entry category="Astronaut" eid="Id43" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
@@ -1067,7 +1067,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey, US on 20th January 1930. He graduated from MIT with a Sc. D. in 1963. He served as a Fighter Pilot under the Apollo 11 program organized by NASA.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is a US national born in Glen Ridge, New Jersey on 20 January 1930. After graduating from MIT, ScD in 1963 he served as a fighter pilot and became a crew member of the NASA operated Apollo 11.</lex>
-      <lex comment="good" lid="Id3" error_1="Fighter pilot">American Buzz Aldrin was born in Glen Ridge New Jersey on January 20, 1930.He graduated in 1963 from MIT with a Sc.D. He was a crew member on Apollo 11, that was operated by NASA.</lex>
+      <lex comment="good" lid="Id3" error_1="Fighter pilot">American Buzz Aldrin was born in Glen Ridge New Jersey on January 20, 1930. He graduated in 1963 from MIT with a Sc.D. He was a crew member on Apollo 11, that was operated by NASA. Aldrin worked as a fighter pliot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id48" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -1134,7 +1134,7 @@
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge in New Jersey in 1930. Buzz was a fighter pilot and a crew member of Apollo 11, where the backup pilot was William Anders and which was operated by NASA. Buzz Aldrin has since retired.</lex>
-      <lex comment="good" lid="Id2" error_1="Retired">Buzz Aldrin (born on January 20, 1930 in Glen Ridge, New Jersey) performed as a fighter pilot. He was a crew member on Apollo 11, operated by NASA. William Anders was a backup pilot on that mission.</lex>
+      <lex comment="good" lid="Id2" error_1="Retired">Buzz Aldrin (born on January 20, 1930 in Glen Ridge, New Jersey) performed as a fighter pilot. He was a crew member on Apollo 11, operated by NASA. William Anders was a backup pilot on that mission. Aldrin is currently retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin (born on January 20, 1930 in Glen Ridge, New Jersey) was, before he retired, a Fighter pilot and a crew member of Apollo 11 operated by NASA. The backup pilot was William Anders.</lex>
     </entry>
     <entry category="Astronaut" eid="Id51" shape="(X (X) (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="7">
@@ -1225,7 +1225,7 @@
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Shepard was a crew member of the NASA operated Apollo 14. He was awarded the Distinguished Service Medal by the US Navy, which ranks higher than the Department of Commerce Gold Medal. He did in California. Dianne Feinstein is a senator in California. Benitoite is a gemstone found in the same state.</lex>
-      <lex comment="good" lid="Id2" error_1="Benitoite">Alan Shepard has died in California, where Dianne Feinstein is a senator and you can find the gemstone Beintoite. He served aboard the NASA operated Apollo 14 as a crew member and was awarded the Distinguished Service Medal by the US Navy - an award higher than the Department of Commerce gold medal.</lex>
+      <lex comment="good" lid="Id2" error_1="Benitoite">Alan Shepard has died in California, where Dianne Feinstein is a senator and you can find the gemstone Benitoite. He served aboard the NASA operated Apollo 14 as a crew member and was awarded the Distinguished Service Medal by the US Navy - an award higher than the Department of Commerce gold medal.</lex>
     </entry>
     <entry category="Astronaut" eid="Id55" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
@@ -1246,7 +1246,7 @@
         <mtriple>Elliot_See | nationality | United_States</mtriple>
         <mtriple>Elliot_See | was selected by NASA | 1962</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="St. Louis">Elliot See was born on July 23rd 1927 in Dallas and is a United States National. Elliot graduated from the University of Texas at Austin and was selected by NASA in 1962. Elliot died on 28th February in 1966.</lex>
+      <lex comment="good" lid="Id1" error_1="St. Louis">Elliot See was born on July 23rd 1927 in Dallas and is a United States National. Elliot graduated from the University of Texas at Austin and was selected by NASA in 1962. Elliot died on 28th February in 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See was an American born on July 23, 1927 in Dallas. He attended the U of Texas at Austin and began working for NASA in 1962. See died on Feb 28, 1966 in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See was born in Dallas on the 23rd July 1927. He graduated from the University of Texas at Austin. He was a US national who was chosen by NASA in 1962. He died in St.Louis on 1966-02-28.</lex>
     </entry>
@@ -1677,8 +1677,8 @@
         <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
         <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Hook 'em (mascot)" error_2="Kingdom of France">Elliot See attended the University of Texas at Austin where Gregory L. Fenves is the President. The University is affiliated to the University of Texas system and they competed in the Big 12 Conference in Austin. Elliot died in St Louis which is in France.</lex>
-      <lex comment="good" lid="Id2" error_1="Kingdom of France">Elliot See graduated from the University of Texas at Austin and died in St Louis in France. The University of Texas at Austin is affiliated to the university of texas system. They competed in the Big 12 Conference and has Gregory L. Fenves as their president and The Hook'em as the mascot.</lex>
+      <lex comment="good" lid="Id1" error_1="Hook 'em (mascot)" error_2="Kingdom of France">Elliot See attended the University of Texas at Austin where Gregory L. Fenves is the President. Hook 'em is its mascot. The University is affiliated to the University of Texas system and they competed in the Big 12 Conference in Austin. Elliot died in St Louis which was in the Kingdom of France.</lex>
+      <lex comment="good" lid="Id2" error_1="Kingdom of France">Elliot See graduated from the University of Texas at Austin and died in St Louis (used to be in the Kingdom of France). The University of Texas at Austin is affiliated to the university of texas system. They competed in the Big 12 Conference and has Gregory L. Fenves as their president and The Hook'em as the mascot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id75" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
@@ -1743,7 +1743,7 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
         <mtriple>William_Anders | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Frank Borman">William Anders was born October 17th 1933 and was a member of the Apollo 8 crew operated by NASA. The backup pilot was Buzz Aldrin. William Anders retired on September 1st 1969.</lex>
+      <lex comment="good" lid="Id1" error_1="Frank Borman">William Anders was born October 17th 1933 and was a member of the Apollo 8 crew operated by NASA. The backup pilot was Buzz Aldrin, and Frank Borman also served there. William Anders retired on September 1st 1969.</lex>
       <lex comment="good" lid="Id2">The three members of NASA's Apollo 8 were Frank Borman, backup pilot Buzz Aldrin and William Anders. Anders was born October 17th, 1933 and retired more than 30 years later on September 1st, 1969.</lex>
       <lex comment="good" lid="Id3">William Anders was born 1933-10-17 and retired in 1969-09-01. He served as a crew member of Apollo 8 operated by Nasa with backup pilot Buzz Aldrin and Frank Borman as a crew member.</lex>
     </entry>
@@ -1902,7 +1902,7 @@
         <mtriple>William_Anders | almaMater | "AFIT, M.S. 1962"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">William Anders has retired. He was born 17 October 1933 in British Hong Kong and graduated from AFIT with an MS in 1962. He served as a fighter pilot and was selected by NASA in 1963.</lex>
-      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders was born on the 17th of October 1933 in Brithish Hong Kong. He graduated, with an M.S., from AFIT in 1962 and was chosen by NASA in 1936 as a Fighter pilot. He retired on 1969-09-01.</lex>
+      <lex comment="good" lid="Id2" error_1="British Hong Kong">William Anders was born on the 17th of October 1933 in British Hong Kong. He graduated, with an M.S., from AFIT in 1962 and was chosen by NASA in 1936 as a Fighter pilot. He retired on 1969-09-01.</lex>
       <lex comment="good" lid="Id3" error_1="Retired">William Anders was born in British Hong Kong on the 17th of October 1933. He graduated with an M.S. from AFIT in 1962 and was selected by NASA in 1963 serving as a fighter pilot before his retirement on the 9th of september 1969.</lex>
     </entry>
     <entry category="Astronaut" eid="Id85" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
@@ -1993,8 +1993,8 @@
         <mtriple>Apollo_8 | operator | NASA</mtriple>
         <mtriple>William_Anders | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Frank Borman" error_2="Retired">William Anders was born in British Hong Kong and served as fighter pilot on Apollo 8 with Buzz Aldrin as a backup pilot. Apollo 8 was operated by NASA.</lex>
-      <lex comment="good" lid="Id2" error_1="Retired">William Anders was born in British Hong Kong and served as a Fighter pilot crew member on Apollo 8, where Buzz Aldrin was a backup pilot. Frank Borman was a crewman aboard Apollo 8 operated by NASA.</lex>
+      <lex comment="good" lid="Id1" error_1="Frank Borman" error_2="Retired">William Anders was born in British Hong Kong and served as fighter pilot on Apollo 8 with Frank Borman and Buzz Aldrin as a backup pilot. Apollo 8 was operated by NASA. Anders is now retired.</lex>
+      <lex comment="good" lid="Id2" error_1="Retired">William Anders was born in British Hong Kong and served as a Fighter pilot crew member on Apollo 8, where Buzz Aldrin was a backup pilot. Frank Borman was a crewman aboard Apollo 8 operated by NASA. William Anders is currently retired.</lex>
       <lex comment="good" lid="Id3">William Anders was born in British Hong Kong. He is a retired fighter pilot who served on the NASA operated Apollo 8. Frank Borman was also a crew member of Apollo 8 and Buzz Aldrin was a backup pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id89" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
@@ -2018,7 +2018,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Crew members of NASA's Apollo 8 included William Anders and Frank Borman with Buzz Aldrin as backup pilot. William Anders was born in British Hong Kong, graduated from AFIT, M.S. in 1962 and was selected by NASA in 1963.</lex>
       <lex comment="good" lid="Id2">William Anders was born in British Hong Kong and graduated from AFIT in 1962 with an M.S. He joined NASA in 1963 and was a member of the crew of NASA operated Apollo 8, which also included Frank Borman and Buzz Aldrin (back up pilot).</lex>
-      <lex comment="good" lid="Id3" error_1="Buzz Aldrin" error_2="Frank Borman">William Anders was born in British Hong Kong. He graduated from AFIT in 1962 with an M.S., and was selected by NASA in 1963. He became a member of Apollo 8's crew. Apollo 8 was operated by NASA. The backup pilot on the Apollo 8 mission was Frank Aldrin.</lex>
+      <lex comment="good" lid="Id3" error_1="Buzz Aldrin" error_2="Frank Borman">William Anders was born in British Hong Kong. He graduated from AFIT in 1962 with an M.S., and was selected by NASA in 1963. He became a member of Apollo 8's crew. Apollo 8 was operated by NASA. The backup pilot on the Apollo 8 mission was Buzz Aldrin, and Frank Borman also served there.</lex>
     </entry>
     <entry category="Astronaut" eid="Id90" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
