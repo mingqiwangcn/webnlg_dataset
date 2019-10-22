@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt plays for Vfl Wolfsburg and SV Werder Bremen. He was a member of the Goslarer SC 08 youth team.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt represented the club Goslarer SC 08 at youth level and has since played for both SV Werder Bremen and Vfl Wolfsburg.</lex>
-      <lex comment="good" lid="Id3" error_1="Aaron Hunt">Aaron Hunt's club is VfL Wolfsburg but he previously played for both SV Werder Bremen and Goslarer SC 08 youth team.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt's club is VfL Wolfsburg but he previously played for both SV Werder Bremen and Goslarer SC 08 youth team.</lex>
     </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -77,7 +77,7 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad, who formerly played for Esteghlal Ahvaz FC, plays for the Iraq national football team which is managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad, who formerly played for Esteghlal Ahvaz FC, plays for the Iraq national football team which is managed by Adnan Hamad.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad is part of the Esteghlal Ahvaz F.C. in the Iraq national football team. Esteghlal Ahvaz F.C. manages Adnan Hamad.</lex>
       <lex comment="good" lid="Id3">Iraqi national football team player, Ahmad Kadhim Assad played for Esteghlal Ahvaz F.C., the manager of which, is Adnan Hamad.</lex>
     </entry>
@@ -217,7 +217,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin, born on the 1st January 1989, played for Crewe Alexandra FC. and Hamilton Academical FC.</lex>
-      <lex comment="good" lid="Id2" error_1="Crewe Alexandra F.C.">Alan Martin was born on 1 January 1989 and plays football for Hamilton Academical FC and Crewe Alexandra FC.</lex>
+      <lex comment="good" lid="Id2">Alan Martin was born on 1 January 1989 and plays football for Hamilton Academical FC and Crewe Alexandra FC.</lex>
       <lex comment="good" lid="Id3" error_1="Hamilton Academical F.C.">Footballer, Alan Martin, born 1st January 1989, used to play for Hamilton Academical F.C and now plays for Crewe Alexandra F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -424,7 +424,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Trinidad and Tobago national under-20 football team">Akeem Adams, who has represented Trinidad and Tobago at under 20 level, played for United Petrotrin FC, whose ground is Palo Seco.</lex>
-      <lex comment="good" lid="Id2" error_1="United Petrotrin F.C.">Akeem Adams, who plays for the Trinidad and Tobago national under-20 football team previously played for United Petrotrin FC whose ground is at Palo Seco.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who plays for the Trinidad and Tobago national under-20 football team previously played for United Petrotrin FC whose ground is at Palo Seco.</lex>
       <lex comment="good" lid="Id3" error_1="Trinidad and Tobago national under-20 football team">Akeem Adams played for United Petrotrin F.C., who play their home games at Palo Seco ground. He also played for the Trinidad and Tobago national under 20 team.</lex>
     </entry>
   </entries>

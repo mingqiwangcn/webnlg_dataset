@@ -167,7 +167,7 @@
         <mtriple>Hamburger_SV | league | Bundesliga</mtriple>
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Viktor Skrypnyk">Aaron Hunt has played for SV Werder Bremen who are managed by Viktor Skrypnyk along with Hamburger SV who are a member of the Bundesliga.</lex>
+      <lex comment="good" lid="Id1">Aaron Hunt has played for SV Werder Bremen who are managed by Viktor Skrypnyk along with Hamburger SV who are a member of the Bundesliga.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt has previously played for both SV Werder Bremen under their manager Viktor Skrypnyk and also Hamburger SV which is a member of the Bundesliga.</lex>
       <lex comment="good" lid="Id3">Aaron Hunt played for SV Werder Bremen whose manager is Viktor Skrypnyk. His present club is Hamburger SV that is in the Bundesliga.</lex>
     </entry>
@@ -201,8 +201,8 @@
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Vfl Wolfsburg player, Aaron Hunt, played for the club SV Werder Bremen. The manager of SV Werder Breman (which is in the Bundesliga league) is Viktor Skrypnyk.</lex>
-      <lex comment="good" lid="Id2" error_1="Viktor Skrypnyk">Aaron Hunt played for the club SV Werder Bremen which is in the Bundesliga league and managed by Viktor Skrypnyk. He now plays for the Vfl Wolfsburg.</lex>
-      <lex comment="good" lid="Id3" error_1="VfL Wolfsburg">Aaron Hunt played for the club SV Werder Bremen that is managed by Viktor Skrypnyk and competes in the Bundesliga. Mr. Hunt also participated in the VfL Wolfsburg club.</lex>
+      <lex comment="good" lid="Id2">Aaron Hunt played for the club SV Werder Bremen which is in the Bundesliga league and managed by Viktor Skrypnyk. He now plays for the Vfl Wolfsburg.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt played for the club SV Werder Bremen that is managed by Viktor Skrypnyk and competes in the Bundesliga. Mr. Hunt also participated in the VfL Wolfsburg club.</lex>
     </entry>
     <entry category="Athlete" eid="Id13" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -242,7 +242,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">VfL Wolfsburg club is associated with Aaron Hunt and is managed by Dieter Hecking. Mr. Hunt plays for the Hamburger SV club also and they compete in Bundesliga.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt's club is VfL Wolfsburg and is managed by Dieter Hecking. He once played for the Hamburger SV that is part of the Bundesliga League.</lex>
-      <lex comment="good" lid="Id3" error_1="VfL Wolfsburg">Aaron Hunt plays for VfL Wolfsburg, where his manager is Dieter Hecking. He has also played for Hamburger SV in the Bundesliga.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt plays for VfL Wolfsburg, where his manager is Dieter Hecking. He has also played for Hamburger SV in the Bundesliga.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -331,8 +331,8 @@
         <mtriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</mtriple>
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Giuseppe Iachini">Abel Hernandez's club is US Citta di Palermo which is managed by Giuseppe Iachini. He also played for Penarol and youth football at Central Espanol.</lex>
-      <lex comment="good" lid="Id2" error_1="Giuseppe Iachini">Abel Hernandez, whose club is Penarol, played youth football for Central Espanol and currently plays for US Citta di Palermo who are managed by Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id1">Abel Hernandez's club is US Citta di Palermo which is managed by Giuseppe Iachini. He also played for Penarol and youth football at Central Espanol.</lex>
+      <lex comment="good" lid="Id2">Abel Hernandez, whose club is Penarol, played youth football for Central Espanol and currently plays for US Citta di Palermo who are managed by Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez has played for the Central Espanol youth team, US Citta di Palermo and for Penarol. U.S. Città di Palermo are managed by Giuseppe Iachini.</lex>
     </entry>
     <entry category="Athlete" eid="Id20" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -365,7 +365,7 @@
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
         <mtriple>U.S._Città_di_Palermo | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Giuseppe Iachini">Abel Hernandez is a member of the Central Espanol youth team and also plays for US Citta di Palermo who play in Serie A and are managed by Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id1">Abel Hernandez is a member of the Central Espanol youth team and also plays for US Citta di Palermo who play in Serie A and are managed by Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id2">Abel Hernández played youth football for Central Español and later played for U.S. Città di Palermo, who are part of Serie A and are managed by Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez played youth football for Central Espanol, his club is US Citta di Palermo. The manager of U.S. Città di Palermo is Giuseppe Iachini which are in the Serie A League.</lex>
     </entry>
@@ -694,7 +694,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
         <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United Petrotrin F.C.">Akeem Adams belongs to United Petrotrin FC based in Palo Seco and also Ferencvarosi TC whose manager is Thomas Doll.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams belongs to United Petrotrin FC based in Palo Seco and also Ferencvarosi TC whose manager is Thomas Doll.</lex>
       <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin F.C. in Palo Seco. He now plays with the Ferencvarosi TC, managed by Thomas Doll.</lex>
       <lex comment="good" lid="Id3">Akeem Adams plays for Ferencvarosi TC where Thomas Doll is the manager, but he previously played for United Petrotrin FC at their Palo Seco ground.</lex>
     </entry>
@@ -751,7 +751,7 @@
         <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Palo Seco Velodrome">Akeem Adams is a member of the United Petrotrin F.C. club which plays at the Palo Seco Velodrome grounds. Mr. Adams club is Ferencvarosi TC which is managed by Thomas Doll.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams is a member of the United Petrotrin F.C. club which plays at the Palo Seco Velodrome grounds. Mr. Adams club is Ferencvarosi TC which is managed by Thomas Doll.</lex>
       <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club, and plays for Ferencvarosi TC. The manager of Ferencvarosi TC is Thomas Doll and they play in the Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id3">Akeem Adams plays for Ferencvarosi TC which is managed by Thomas Doll. Akeem Adams used to play for United Petrotrin F.C. which play in Palo Seco Velodrome.</lex>
     </entry>
@@ -774,7 +774,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
         <mtriple>Ferencvárosi_TC | chairman | Gábor_Kubatov</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United Petrotrin F.C.">Akeem Adams plaus for Palo Seco Velodrome based United Petrotrin FC and also Ferencvarosi TC, of which Gabor Kubatov is the manager.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams plaus for Palo Seco Velodrome based United Petrotrin FC and also Ferencvarosi TC, of which Gabor Kubatov is the manager.</lex>
       <lex comment="good" lid="Id2">Akeem Adams played for United Petrotrin F.C. which plays in Palo Seco Velodrome. He plays for Ferencvarosi TC, the chairman of which is, Gabor Kubatov.</lex>
       <lex comment="good" lid="Id3">Akeem Adams has played for Ferencvarosi TC and for United Petrotrin F.C. whose ground is the Palo Seco Velodrome. Gabor Kubatov is the chairman of Ferencvarosi TC.</lex>
     </entry>
@@ -791,7 +791,7 @@
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
         <mtriple>Akeem_Ayers | activeYearsStartYear | 2011</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2011">Akeem Ayers, who was born on July 10, 1989, formerly played for the Los Angeles Rams. He debuted for the team the Tennessee Titans in 2011.</lex>
+      <lex comment="good" lid="Id1">Akeem Ayers, who was born on July 10, 1989, formerly played for the Los Angeles Rams. He debuted for the team the Tennessee Titans in 2011.</lex>
       <lex comment="good" lid="Id2">Akeem Ayers was born July 10th, 1989 and began his career in 2011 for the Tennessee Titans. He formerly played for the Los Angeles Rams.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers was born on 10 July 1989 and began his career in 2011. His debut team was the Tennessee Titans and he has also played for Los Angeles Rams.</lex>
     </entry>
@@ -910,7 +910,7 @@
         <mtriple>Akeem_Ayers | birthDate | 1989-07-10</mtriple>
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Linebacker">Akeem Ayers was born on 10th July 1989. He plays in the position of linebacker and made his debut for the Tennessee Titans before going on to play for the St. Louis Rams.</lex>
+      <lex comment="good" lid="Id1">Akeem Ayers was born on 10th July 1989. He plays in the position of linebacker and made his debut for the Tennessee Titans before going on to play for the St. Louis Rams.</lex>
       <lex comment="good" lid="Id2">Linebacker, Akeem Ayers, was born on 10th July 1989. His debut team was the Tennessee Titans and he used to play for the St. Louis Rams.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers was born July 10th, 1989 and made his debut for the Tennessee Titans. A linebacker, his former team is the St Louis Rams.</lex>
     </entry>
@@ -1288,7 +1288,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin played football for Clyde F.C. whose playing area is the Broadwood Stadium. Mr. Martin now plays for Crewe Alexandra F.C. for its manager, Steve Davis.</lex>
       <lex comment="good" lid="Id2">Alan Martin has played for Clyde F.C. and plays for the Crewe Alexandra FC (managed by Steve Davis).Broadwood Stadium is home to Clyde F.C.</lex>
-      <lex comment="good" lid="Id3" error_1="Crewe Alexandra F.C.">Alan Martin plays football for Crewe Alexandra FC managed by Steve Davis, and also for Clyde FC who have their home ground at the Broadwood Stadium.</lex>
+      <lex comment="good" lid="Id3">Alan Martin plays football for Crewe Alexandra FC managed by Steve Davis, and also for Clyde FC who have their home ground at the Broadwood Stadium.</lex>
     </entry>
     <entry category="Athlete" eid="Id71" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1350,7 +1350,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barry Ferguson is the manager of Clyde F.C. where footballer, Alan Martin, plays. Martin also plays for Hamilton Academical FC, which play at New Douglas Park.</lex>
-      <lex comment="good" lid="Id2" error_1="Barry Ferguson">Alan Martin plays for Clyde DC club where Barry Ferguson is the manager. He has also played for Hamilton Academical FC based at New Douglas Park.</lex>
+      <lex comment="good" lid="Id2">Alan Martin plays for Clyde DC club where Barry Ferguson is the manager. He has also played for Hamilton Academical FC based at New Douglas Park.</lex>
       <lex comment="good" lid="Id3">Alan Martin played for Clyde FC where Barry Ferguson is the manager. He now plays for Hamilton Academical FC based at New Douglas Park.</lex>
     </entry>
     <entry category="Athlete" eid="Id74" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1440,8 +1440,8 @@
         <mtriple>Aleksander_Barkov,_Jr. | birthPlace | "Tampere, Finland"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksander Barkov Jr's birthdate is Sept. 2, 1995 in Tampere, Finland. He was drafted to the Florida Panthers team.</lex>
-      <lex comment="good" lid="Id2" error_1="Aleksander Barkov, Jr." error_2="Florida Panthers">Aleksander Barkov Jr was born in Tampere Finland on 2nd September 1995 and his draft team was the Florida Panthers.</lex>
-      <lex comment="good" lid="Id3" error_1="Aleksander Barkov, Jr.">Aleksander Barkov, Jr was born on 2nd September 1995 in Tampere, Finland and his draft team was the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2">Aleksander Barkov Jr was born in Tampere Finland on 2nd September 1995 and his draft team was the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3">Aleksander Barkov, Jr was born on 2nd September 1995 in Tampere, Finland and his draft team was the Florida Panthers.</lex>
     </entry>
     <entry category="Athlete" eid="Id79" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1491,7 +1491,7 @@
         <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov plays for is FC Torpedo Moscow part of the Soviet Union national football team. It is managed by Valery Petrakov and its chairman is Aleksandr Tukmanov.</lex>
-      <lex comment="good" lid="Id2" error_1="FC Torpedo Moscow" error_2="Soviet Union national football team">Aleksandr Chumakov plays for FC Torpedo Moscow, managed by Valery Petrakov and chaired by Aleksandr Tukmanov, and also the Soviet Union national team.</lex>
+      <lex comment="good" lid="Id2" error_1="Soviet Union national football team">Aleksandr Chumakov plays for FC Torpedo Moscow, managed by Valery Petrakov and chaired by Aleksandr Tukmanov, and also the Soviet Union national team.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov, who plays for the Soviet Union national football team, played for FC Torpedo Moscow. Aleksandr Tukmanov is the chairman of FC Torpedo Moscow which is managed by, Valery Petrakov.</lex>
     </entry>
     <entry category="Athlete" eid="Id82" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1793,8 +1793,8 @@
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Sinisa Mihajlovic">Alessio Romagnoli plays for A.S. Roma who play in the Serie A League. He is also a member of the A.C. Milan club who are managed by Sinisa Mihajlovic.</lex>
-      <lex comment="good" lid="Id2" error_1="Sinisa Mihajlovic">Alessio Romagnoli plays for the club A.C. Milan (manager: Siniša Mihajlović). He also plays for A.S. Roma, who is in Serie A.</lex>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays for A.S. Roma who play in the Serie A League. He is also a member of the A.C. Milan club who are managed by Sinisa Mihajlovic.</lex>
+      <lex comment="good" lid="Id2">Alessio Romagnoli plays for the club A.C. Milan (manager: Siniša Mihajlović). He also plays for A.S. Roma, who is in Serie A.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli is a member of the A.C. Milan club and the A.S. Roma which is part of Serie A. The A.C. Milan is managed by Siniša Mihajlović.</lex>
     </entry>
     <entry category="Athlete" eid="Id97" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -1810,7 +1810,7 @@
         <mtriple>Alessio_Romagnoli | club | U.C._Sampdoria</mtriple>
         <mtriple>U.C._Sampdoria | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="U.C. Sampdoria">Alessio Romagnoli plays for AC Milan, managed by Sinisa Mihajlovic, and UC Sampdoria in the Serie A League.</lex>
+      <lex comment="good" lid="Id1">Alessio Romagnoli plays for AC Milan, managed by Sinisa Mihajlovic, and UC Sampdoria in the Serie A League.</lex>
       <lex comment="good" lid="Id2">Alessio Romagnoli plays for AC Milan where the manager is Sinisa Mihajlovic, and he is also connected to UC Sampdoria who play in the Serie A league.</lex>
     </entry>
     <entry category="Athlete" eid="Id98" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1896,7 +1896,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Florida Gators men's basketball">Born Jan 8, 1988, Alex Tyus was drafted in 2011 for the Florida Gators, a college men's basketball team.</lex>
       <lex comment="good" lid="Id2" error_1="Florida Gators men's basketball">Alex Tyus was born in Jan 8, 1988 and was drafted in 2011 where he played pro basketball for the Florida Gators in College.</lex>
-      <lex comment="good" lid="Id3" error_1="Florida Gators men's basketball">Alex Tyus, born January 8, 1988 began his career in 2011 (when he was drafted). He has played for the Florida Gators men's basketball team.</lex>
+      <lex comment="good" lid="Id3">Alex Tyus, born January 8, 1988 began his career in 2011 (when he was drafted). He has played for the Florida Gators men's basketball team.</lex>
     </entry>
     <entry category="Athlete" eid="Id103" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1951,7 +1951,7 @@
         <mtriple>Canada | ethnicGroup | Asian_Canadians</mtriple>
         <mtriple>Adam_McQuaid | birthPlace | Canada</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adam McQuaid">Canada is led by Elizabeth II and the national anthem is "O Canada". An ethnic group of Canada are Asian Canadians. Adam McQuaid was born there.</lex>
+      <lex comment="good" lid="Id1">Canada is led by Elizabeth II and the national anthem is "O Canada". An ethnic group of Canada are Asian Canadians. Adam McQuaid was born there.</lex>
       <lex comment="good" lid="Id2">Adam McQuaid come from Canada whose leader is Elizabeth II and national anthem is O Canada. Asian Canadians are an ethnic group there.</lex>
       <lex comment="good" lid="Id3">O Canada is the national anthem of Canada and its leader is Elizabeth II. Adam McQuaid is from this country. There are Asian Canadians who live in Canada.</lex>
     </entry>
@@ -2055,7 +2055,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Hernández played youth football for Central Español which plays in the Uruguayan Segunda División. Abel Hernández now plays for Hull City A.F.C., the manager of which, is Steve Bruce.</lex>
       <lex comment="good" lid="Id2">Abel Hernández played youth football for Central Español that is in the Uruguayan Segunda División league. He now plays for Hull City AFC which is managed by Steve Bruce.</lex>
-      <lex comment="good" lid="Id3" error_1="Central Espanol">Steve Bruce is the manager of Hull City AFC, which is Abel Hernández's club. Hernández played youth football for Central Español which play in the Uruguayan Segunda División league.</lex>
+      <lex comment="good" lid="Id3">Steve Bruce is the manager of Hull City AFC, which is Abel Hernández's club. Hernández played youth football for Central Español which play in the Uruguayan Segunda División league.</lex>
     </entry>
     <entry category="Athlete" eid="Id112" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2072,7 +2072,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Hernández played youth football for Central Español in the Uruguayan Segunda División. He now plays for U.S. Città di Palermo where Giuseppe Iachini is the manager.</lex>
       <lex comment="good" lid="Id2">Giuseppe Iachini is the manager of and Abel Hernández plays for the club, U.S. Città di Palermo. Abel Hernandez used to be a member of the Central Espanol youth team which plays in the Uruguayan Segunda División.</lex>
-      <lex comment="good" lid="Id3" error_1="Giuseppe Iachini">Abel Hernandez is a member of the Central Espanol youth team who play in the Uruguayan segunda Division league. He also plays for US Citta di Palermo managed by Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id3">Abel Hernandez is a member of the Central Espanol youth team who play in the Uruguayan segunda Division league. He also plays for US Citta di Palermo managed by Giuseppe Iachini.</lex>
     </entry>
     <entry category="Athlete" eid="Id113" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2241,7 +2241,7 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="2014-15 Russian Premier League">Aleksandr Chumakov has played for FC Torpedo Moscow who played the 2014-15 season in the Russian Premier League and are managed by Valery Petrakov. Aleksandr Chumakov also plays for the Soviet Union national football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Valery Petrakov">Aleksandr Chumakov was a member of the Soviet Union national football team. The club Aleksandr Chumakov plays for is FC Torpedo Moscow which played the 2014–15 season in the Russian Premier League. Valery Petrakov is the manager of that club.</lex>
+      <lex comment="good" lid="Id2">Aleksandr Chumakov was a member of the Soviet Union national football team. The club Aleksandr Chumakov plays for is FC Torpedo Moscow which played the 2014–15 season in the Russian Premier League. Valery Petrakov is the manager of that club.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov, who is in the Soviet Union national football team, plays for is FC Torpedo Moscow. Valery Petrakov is the manager of FC Torpedo Moscow which played in the 2014-15 Russian Premier League.</lex>
     </entry>
     <entry category="Athlete" eid="Id123" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2349,7 +2349,7 @@
         <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Priestley plays for Orange County Blues FC (managed by Oliver Wyss) and is in the Jacksonville Dolphins club. The Jacksonville Dolphins play in Jacksonville, Florida.</lex>
-      <lex comment="good" lid="Id2" error_1="Akeem Priestley" error_2="Orange County Blues FC">Akeem Priestley plays for the Jacksonville Dolphins in Jacksonville, Florida and also for the Orange County Blues whose manager is Oliver Wyss.</lex>
+      <lex comment="good" lid="Id2" error_1="Orange County Blues FC">Akeem Priestley plays for the Jacksonville Dolphins in Jacksonville, Florida and also for the Orange County Blues whose manager is Oliver Wyss.</lex>
       <lex comment="good" lid="Id3">Akeem Priestley, who plays for the Jacksonville Dolphins which are based in the city of Jacksonville in Florida, is also connected to the Orange County Blues FC who are managed by Oliver Wyss.</lex>
     </entry>
     <entry category="Athlete" eid="Id129" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2372,7 +2372,7 @@
         <mtriple>Akeem_Ayers | debutTeam | Tennessee_Titans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers, who debuted with the Tennessee Titans, used to play for the Los Angeles Rams. The Los Angeles Rams play in Los Angeles, at the Los Angeles Memorial Coliseum.</lex>
-      <lex comment="good" lid="Id2" error_1="Los Angeles Rams">Akeem Ayers, made his debut for the Tennessee Titans and used to play for Los Angeles Rams. The club is based in Los Angeles, and play home games at the Los Angeles Memorial Coliseum.</lex>
+      <lex comment="good" lid="Id2">Akeem Ayers, made his debut for the Tennessee Titans and used to play for Los Angeles Rams. The club is based in Los Angeles, and play home games at the Los Angeles Memorial Coliseum.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers started with the Tennessee Titans. He then played for the Los Angeles Rams who play at Los Angeles Memorial Coliseum in L.A.</lex>
     </entry>
     <entry category="Athlete" eid="Id130" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2413,7 +2413,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin played football for Motherwell F.C. that is located in Fir Park. Mr. Martin plays for Crewe Alexandra F.C. that is managed by Steve Davis.</lex>
       <lex comment="good" lid="Id2">Footballer Steve Davis, is the manager of Crewe Alexandra FC, one of the clubs for which Alan Martin plays. Another club of his is, Motherwell FC, the home ground of which, is located in Fir Park.</lex>
-      <lex comment="good" lid="Id3" error_1="Steve Davis (footballer)">Alan Martin played football for Motherwell F.C. whose home territory is in Fir Park. Mr. Martin is a player for the Crewe Alexandra FC that has Steve Davis as its manager.</lex>
+      <lex comment="good" lid="Id3">Alan Martin played football for Motherwell F.C. whose home territory is in Fir Park. Mr. Martin is a player for the Crewe Alexandra FC that has Steve Davis as its manager.</lex>
     </entry>
     <entry category="Athlete" eid="Id132" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2434,7 +2434,7 @@
         <mtriple>Akeem_Priestley | club | Jacksonville_Dolphins</mtriple>
         <mtriple>Jacksonville_Dolphins | stadium | John_Sessions_Stadium</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Oliver Wyss" error_2="Orange County Blues FC">Akeem Priestley plays for Jacksonville Dolphins based at the John Sessions Stadium. He is also connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id1" error_1="Orange County Blues FC">Akeem Priestley plays for Jacksonville Dolphins based at the John Sessions Stadium. He is also connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
       <lex comment="good" lid="Id2" error_1="Orange County Blues FC">Akeem Priestley is connected to the Orange County Blues Football club which is managed by Oliver Wyss, but he also plays for Jacksonville Dolphins who have their baseball field in the John Sessions stadium.</lex>
       <lex comment="good" lid="Id3" error_1="Orange County Blues FC">Akeem Priestley is connected to the Orange County Blues Football Club where the manager is, Oliver Wyss. Akeem Priestley plays for Jacksonville Dolphins, the club play at the John Sessions Stadium.</lex>
     </entry>
@@ -2502,7 +2502,7 @@
         <mtriple>Peñarol | manager | Jorge_Orosmán_da_Silva</mtriple>
         <mtriple>Abel_Hernández | club | Hull_City_A.F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Penarol">Abel Hernández played for Peñarol in the Uruguayan Primera División in his youth. That team's manager is Jorge Orosmán da Silva. Abel Hernandez now plays for Hull City AFC.</lex>
+      <lex comment="good" lid="Id1">Abel Hernández played for Peñarol in the Uruguayan Primera División in his youth. That team's manager is Jorge Orosmán da Silva. Abel Hernandez now plays for Hull City AFC.</lex>
       <lex comment="good" lid="Id2">Abel Hernandez, who plays for Hull City AFC, also plays in the Uruguayan Primera Division for Penarol youth club managed by Jorge Orosman da Silva.</lex>
       <lex comment="good" lid="Id3">Abel Hernández, whose club is Hull City A.F.C., used to be a member of youth club Peñarol. Jorge Orosmán da Silva is the manager of Peñarol which plays in the Uruguayan Primera División league.</lex>
     </entry>
@@ -2595,7 +2595,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Germany national under-21 football team" error_2="SV Werder Bremen">Aaron Hunt plays for the German National Under 21 team and also for SV Werder Breman, managed by Viktor Skrypnyk, in the Bundesliga.</lex>
       <lex comment="good" lid="Id2">The manager of SV Werder Breman, is Viktor Skrypnyk. Aaron Hunt played for SV Werder Bremen which play in the Bundesliga. Aaron Hunt's club is the Germany national under-21 football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Viktor Skrypnyk">Aaron Hunt plays for SV Werder Bremen along with playing for the Germany national under-21 football team. SV Werder Bremen play in the Bundesliga and are managed by Viktor Skrypnyk.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt plays for SV Werder Bremen along with playing for the Germany national under-21 football team. SV Werder Bremen play in the Bundesliga and are managed by Viktor Skrypnyk.</lex>
     </entry>
     <entry category="Athlete" eid="Id142" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
