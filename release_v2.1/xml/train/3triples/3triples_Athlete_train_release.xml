@@ -119,7 +119,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt previously played for Hamburger SV, but now belongs to the youth club SV Werder Bremen and plays for Goslarer SC 08.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt belongs to the youth club SV Werder Bremen and the Goslarer SC 08. He plays for Hamburger SV.</lex>
-      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">Aaron Hunt is in the youth club SV Weder Bremen and also plays for the clubs Hamburger SV and Goslarer SC 08.</lex>
+      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">Aaron Hunt is in the youth club SV Werder Bremen and also plays for the clubs Hamburger SV and Goslarer SC 08.</lex>
     </entry>
     <entry category="Athlete" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -211,9 +211,9 @@
         <mtriple>Aaron_Hunt | club | Hamburger_SV</mtriple>
         <mtriple>Aaron_Hunt | youthclub | SV_Werder_Bremen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">Aaron Hunt's club is VfL Wolfsburg and is also in the youth club SV Weder Bremen, having previously played for Hamburger SV.</lex>
+      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">Aaron Hunt's club is VfL Wolfsburg and is also in the youth club SV Werder Bremen, having previously played for Hamburger SV.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt, who played for the SV Werder Bremen youth team, has played for Hamburger SV and his club is VfL Wolfsburg.</lex>
-      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">Aaron Hunt plays for Vfl Wolfsburg and Hamburger SV as well as belonging to the youth club SV Weder Bremen.</lex>
+      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">Aaron Hunt plays for Vfl Wolfsburg and Hamburger SV as well as belonging to the youth club SV Werder Bremen.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -680,9 +680,9 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ahmad Kadhim Assad">Ahmed Kadhim Assad plays for Al Shorta SC but used to play for Esteghlal Ahvaz F.C., which was managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id1" error_1="Ahmad Kadhim Assad">Ahmad Kadhim Assad plays for Al Shorta SC but used to play for Esteghlal Ahvaz F.C., which was managed by Adnan Hamad.</lex>
       <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad belongs to the clubs, Esteghlal Ahvaz F C and Al Shorta SC. The former, has Adnan Hamad as the manager.</lex>
-      <lex comment="good" lid="Id3" error_1="Ahmad Kadhim Assad" error_2="Esteghlal Ahvaz F.C.">Ahmed Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id3" error_1="Ahmad Kadhim Assad" error_2="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id45" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -711,7 +711,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad, played for the club PAS Tehran F.C. and is part of the Esteghlal Ahvaz F.C. Adnan Hamad is the manager of Esteghlal Ahvaz F.C.</lex>
-      <lex comment="good" lid="Id2" error_1="PAS Tehran F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he also plays for PAS Tahran FC.</lex>
+      <lex comment="good" lid="Id2" error_1="PAS Tehran F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he also plays for PAS Tehran FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -806,7 +806,7 @@
         <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
         <mtriple>Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Point Fortin, Trinidad and Tobago">Akeem Adams was born in Point Fortin, Trindad and Tobago. He is a member of Central FC and Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id1" error_1="Point Fortin, Trinidad and Tobago">Akeem Adams was born in Point Fortin, Trinidad and Tobago. He is a member of Central FC and Ferencvarosi TC.</lex>
       <lex comment="good" lid="Id2">Born in Point Fortin, Trinidad and Tobago, Akeem Adams has previously played for Central FC and Ferencvarosi TC.</lex>
       <lex comment="good" lid="Id3">Akeem Adams was born in Point Fortin, Trinidad and Tobago and plays for the Ferencvarosi TC club and the Central FC.</lex>
     </entry>
@@ -826,7 +826,7 @@
         <mtriple>Akeem_Adams | club | T&amp;TEC_Sports_Club</mtriple>
         <mtriple>Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Point Fortin, Trinidad and Tobago">Akeem Adams, who was born in Point Fortin, Trindad and Tobago, played for Ferencvarosi TC and T&amp;TEC Sports Club.</lex>
+      <lex comment="good" lid="Id1" error_1="Point Fortin, Trinidad and Tobago">Akeem Adams, who was born in Point Fortin, Trinidad and Tobago, played for Ferencvarosi TC and T&amp;TEC Sports Club.</lex>
       <lex comment="good" lid="Id2">Born in Point Fortin, Trinidad and Tobago, Akeem Adams' former clubs include Ferencvarosi TC and T&amp;TEC Sports Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id53" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -874,7 +874,7 @@
         <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akeem Adams">Akeem Adam's club is Ferencvarosi TC and he also played for United Petrotrin FC whose ground is Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id1" error_1="Akeem Adams">Akeem Adams' club is Ferencvarosi TC and he also played for United Petrotrin FC whose ground is Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id2">Akeem Adams has played for Ferencvarosi TC. and for United Petrotrin F.C., whose ground is the Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id3">Akeem Adams club is Ferencvarosi TC. He played for United Petrotrin F.C. which is playing in the Velodrome in Palo Seco.</lex>
     </entry>
@@ -941,7 +941,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers, whose draft pick is 39 was formerly and currently with the Los Angeles Rams.</lex>
       <lex comment="good" lid="Id2">Number 39 in the draft pick, Akeem Ayers's current and former team is, the Los Angeles Rams.</lex>
-      <lex comment="good" lid="Id3" error_1="Akeem Ayers">Akeem Ayeers, who previously and currently plays for Los Angeles Rams, was number 39 in the draft pick.</lex>
+      <lex comment="good" lid="Id3" error_1="Akeem Ayers">Akeem Ayers, who previously and currently plays for Los Angeles Rams, was number 39 in the draft pick.</lex>
     </entry>
     <entry category="Athlete" eid="Id60" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1011,7 +1011,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Ayers, who was number 39 in the draft pick, is currently a member of the Los Angeles Rams, having previously played with the New England Patriots.</lex>
       <lex comment="good" lid="Id2">The New England Patriots are a former team of the player Akeem Ayers who currently plays for the "Los Angeles Rams" and has the draft pick of 39.</lex>
-      <lex comment="good" lid="Id3" error_1="Los Angeles Rams">Akeem Ayers, who was number 39 in the draft pick, used to play for the New England Patriots but currently plays for Los Angela Rams.</lex>
+      <lex comment="good" lid="Id3" error_1="Los Angeles Rams">Akeem Ayers, who was number 39 in the draft pick, used to play for the New England Patriots but currently plays for Los Angeles Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id64" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1212,7 +1212,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Atlanta, Georgia on 27th September 1987, Akeem Dent has played for the Atlanta Falcons.</lex>
       <lex comment="good" lid="Id2">Born in Atlanta, Georgia, on the 27th September 1987, Akeem Dent, used to play for the Atlanta Falcons.</lex>
-      <lex comment="good" lid="Id3" error_1="Atlanta Falcons">Former Atlanta Falcom player, Akeem Dent, was born on the 27th September 1987. in Atlanta, Georgia.</lex>
+      <lex comment="good" lid="Id3" error_1="Atlanta Falcons">Former Atlanta Falcons player, Akeem Dent, was born on the 27th September 1987. in Atlanta, Georgia.</lex>
     </entry>
     <entry category="Athlete" eid="Id76" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1285,7 +1285,7 @@
         <mtriple>Akeem_Priestley | club | Dayton_Dutch_Lions</mtriple>
         <mtriple>Akeem_Priestley | youthclub | Connecticut_Huskies</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Dayton Dutch Lions">Dayton Dutch Lion are the club of Akeem Priestley, who played for the Connecticut Huskies youth team and represented the Jamaica national football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Dayton Dutch Lions">Dayton Dutch Lions are the club of Akeem Priestley, who played for the Connecticut Huskies youth team and represented the Jamaica national football team.</lex>
       <lex comment="good" lid="Id2">Akeem Priestley, who currently plays for the Jamaica national football team and the Dayton Dutch Lions played for the youth club Connecticut Huskies.</lex>
       <lex comment="good" lid="Id3">Akeem Priestley's club is Dayton Dutch Lions and he is currently playing for the Jamaican national football team, having previously been with the youth club Connecticut Huskies.</lex>
     </entry>
@@ -1540,7 +1540,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Sanat_Mes_Kerman_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Iraq born Alaa Abdul Zahra plays for the Iraq national under-23 football team and for Sanat Mes Kerman FC.</lex>
-      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Iraqi born Alaa Abdul Zahra is a member of both the under 23 football team and the Sanat Mes Kerman FC.</lex>
+      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Iraqi born Alaa Abdul Zahra is a member of both the Iraq national under 23 football team and the Sanat Mes Kerman FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id97" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1651,7 +1651,7 @@
         <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
         <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-23_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Al Khor" error_2="Iraq national under-23 football team">Alaa Abdul Zahra plays for Al Kharaitiyat SC whose home ground is Al Kharaitiyat SC. He also plays for the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Al Khor" error_2="Iraq national under-23 football team">Alaa Abdul Zahra plays for Al Kharaitiyat SC whose home ground is Al Khor. He also plays for the Iraq national under 23 football team.</lex>
       <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for his club AL Kharaitiyat SC, located in Al Khor and for the Iraq national under 23 football team.</lex>
       <lex comment="good" lid="Id3" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for the Iraq national under 23 football team. His club is AL Kharaitiyat SC which has its grounds at Al Khor.</lex>
     </entry>
@@ -1672,7 +1672,7 @@
         <mtriple>Al-Khor_Sports_Club | ground | Al_Khor</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul Zahra's club is AL Kharaitiyat SC and he is also in the Al-Khor Sports Club located in Al-Khor.</lex>
-      <lex comment="good" lid="Id2" error_1="Al Kharaitiyat SC">Alaa Abdul Zahra plays for Al-Khor and AL Kharaitiyat Sports Clubs. The location of the Al-Khor sports club ground is in Al Khor.</lex>
+      <lex comment="good" lid="Id2" error_1="Al Kharaitiyat SC">Alaa Abdul Zahra plays for Al-Khor and Al Kharaitiyat Sports Clubs. The location of the Al-Khor sports club ground is in Al Khor.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al Kharaitiyat SC and also Al-Khor Sports Club located in Al-Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id105" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1762,7 +1762,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin (footballer) was born on the 1st January 1989 and he plays for the clubs Accrington Stanley F.C. and Crewe Alexandra F.C.</lex>
-      <lex comment="good" lid="Id2" error_1="Crewe Alexandra F.C.">Alan Martin, who was born on 1 January 1989, played football for Accrington Stanley FC and currently for Crewe Alexander FC.</lex>
+      <lex comment="good" lid="Id2" error_1="Crewe Alexandra F.C.">Alan Martin, who was born on 1 January 1989, played football for Accrington Stanley FC and currently for Crewe Alexandra FC.</lex>
       <lex comment="good" lid="Id3">Alan Martin was born on 1 January 1989 and previously played football for Accrington Stanley FC and currently with Crewe Alexandra FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id111" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1791,7 +1791,7 @@
         <mtriple>Hamilton_Academical_F.C. | ground | Hamilton,_South_Lanarkshire</mtriple>
         <mtriple>Alan_Martin_(footballer) | club | Hamilton_Academical_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Accrington Stanley F.C.">Alan Martin played football for Acrrington Stanley FC and also for Hamilton Academical FC based in Hamilton, South Lanarkshire.</lex>
+      <lex comment="good" lid="Id1" error_1="Accrington Stanley F.C.">Alan Martin played football for Accrington Stanley FC and also for Hamilton Academical FC based in Hamilton, South Lanarkshire.</lex>
       <lex comment="good" lid="Id2">Alan Martin's former football clubs include Accrington Stanley FC and Hamilton Academical FC who play in Hamilton, South Lanarkshire.</lex>
       <lex comment="good" lid="Id3">Alan Martin plays football for Hamilton Academical FC that is in Hamilton, South Lanarkshire. He also played with the Accrington Stanley F.C.</lex>
     </entry>
@@ -1910,8 +1910,8 @@
         <mtriple>Aleksander_Barkov,_Jr. | draftTeam | Florida_Panthers</mtriple>
         <mtriple>Florida_Panthers | generalManager | Dale_Tallon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr weights 96.1632 kgs and his draft team is the Florida Panthers whose general manager is Dale Tallon.</lex>
-      <lex comment="good" lid="Id2" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr. (weight 96.1632 kgs) was drafted by the Florida Panthers, whose general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksander Barkov Jr weights 96.1632 kgs and his draft team is the Florida Panthers whose general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id2" error_1="Aleksander Barkov, Jr.">Aleksander Barkov Jr. (weight 96.1632 kgs) was drafted by the Florida Panthers, whose general manager is Dale Tallon.</lex>
     </entry>
     <entry category="Athlete" eid="Id121" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1939,7 +1939,7 @@
         <mtriple>Aleksandr_Chumakov | club | Soviet_Union_national_football_team</mtriple>
         <mtriple>Aleksandr_Chumakov | birthPlace | Moscow</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aleksandr Chumakov">Alksander Chumakov, who plays for the Soviet Union national football team, was born in Moscow in 1948.</lex>
+      <lex comment="good" lid="Id1" error_1="Aleksandr Chumakov">Aleksandr Chumakov, who plays for the Soviet Union national football team, was born in Moscow in 1948.</lex>
       <lex comment="good" lid="Id2">Born in Moscow in 1948, Aleksandr Chumakov, played for the Soviet Union national football team.</lex>
       <lex comment="good" lid="Id3">Aleksandr Chumakov was born in Moscow in 1948 and was part of the national football team in the Soviet Union.</lex>
     </entry>
@@ -1956,7 +1956,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov was born in the Soviet Union, in 1948. Aleksandr Chumakov's club is the Soviet Union national football team.</lex>
       <lex comment="good" lid="Id2">Aleksandr Chumakov was born in 1948 in the Soviet Union was a member of the Soviet Union national football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Aleksandr Chumakov" error_2="Soviet Union national football team">Aleksander Chumakov was born in 1948 in the Soviet Union and represented his country at football.</lex>
+      <lex comment="good" lid="Id3" error_1="Aleksandr Chumakov" error_2="Soviet Union national football team">Aleksandr Chumakov was born in 1948 in the Soviet Union and represented his country at football.</lex>
     </entry>
     <entry category="Athlete" eid="Id124" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2428,7 +2428,7 @@
         <mtriple>Alessio_Romagnoli | club | Italy_national_under-19_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli plays for A.C. Milan and the Italy national under 19 football team. The manager of A.C. Milan is Siniša Mihajlović.</lex>
-      <lex comment="good" lid="Id2" error_1="Sinisa Mihajlovic">Alessio Romagnoli is part of the A.C. Milan club which is managed by Siniša Mihajlo. He played with the Italian national under-19 football team.</lex>
+      <lex comment="good" lid="Id2" error_1="Sinisa Mihajlovic">Alessio Romagnoli is part of the A.C. Milan club which is managed by Siniša Mihajlović. He played with the Italian national under-19 football team.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli used to play for the Italy national under-19 football team and is a member of the A.C. Milan club, whose manager is Siniša Mihajlović.</lex>
     </entry>
     <entry category="Athlete" eid="Id153" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2676,7 +2676,7 @@
         <mtriple>Alex_Plante | birthPlace | Canada</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante, whose club is Anyang Halla, was born in Canada in 1989.</lex>
-      <lex comment="good" lid="Id2" error_1="Canada">Alex Plante, whose club is, Anyang Halla, was born in 1989, in Cananda.</lex>
+      <lex comment="good" lid="Id2" error_1="Canada">Alex Plante, whose club is, Anyang Halla, was born in 1989, in Canada.</lex>
       <lex comment="good" lid="Id3">Born in 1989 in Canada, Alex Plante played for the club Anyang Halla.</lex>
     </entry>
     <entry category="Athlete" eid="Id169" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2915,7 +2915,7 @@
         <mtriple>Aleksandre_Guruli | club | FC_Samtredia</mtriple>
         <mtriple>Aleksandre_Guruli | club | FC_Dinamo_Batumi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="FC Dinamo Batumi">Aleksandre Guruli plays for both FC Dinamo Batum and FC Samtredia. The latter, play their home games at the Erosi Manjgaladze stadium.</lex>
+      <lex comment="good" lid="Id1" error_1="FC Dinamo Batumi">Aleksandre Guruli plays for both FC Dinamo Batumi and FC Samtredia. The latter, play their home games at the Erosi Manjgaladze stadium.</lex>
       <lex comment="good" lid="Id2">Aleksandre Guruli played for FC Dinamo Batumi and his club is FC Samtredia, whose home ground is located in Erosi Manjgaladze Stadium.</lex>
       <lex comment="good" lid="Id3">Aleksandre Guruli played for FC Dinamo Batumi and FC Samtredia. Erosi Manjgaladze Stadium is the ground of FC Samtredia.</lex>
     </entry>
@@ -3117,7 +3117,7 @@
         <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
         <mtriple>Akeem_Dent | formerTeam | Houston_Texans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akeem Dent">Akeen Dent, whose debut team was the Atlanta Falcons, later played for the Texas based team Houston Texans.</lex>
+      <lex comment="good" lid="Id1" error_1="Akeem Dent">Akeem Dent, whose debut team was the Atlanta Falcons, later played for the Texas based team Houston Texans.</lex>
       <lex comment="good" lid="Id2">Akeem Dent began with the Atlanta Falcons team and then played for the Houston Texans. The latter team plays in Texas.</lex>
       <lex comment="good" lid="Id3">Akeem Dent made his debut with the Atlanta Falcons and formerly played with the Houston Texans in Texas.</lex>
     </entry>
@@ -3297,7 +3297,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Maher belongs to the clubs, AZ Alkmaar and PSV Eindhoven. The latter is managed by, Phillip Cocu.</lex>
       <lex comment="good" lid="Id2">Adam Maher, is connected to the AZ Alkmaar club. His club is PSV Eindhoven, the manager of which, is Phillip Cocu.</lex>
-      <lex comment="good" lid="Id3" error_1="Phillip Cocu">Adam Maher, whose club is PSV Eindhoven managed by Philllip Cocu, is connected to the AZ Alkmaar club.</lex>
+      <lex comment="good" lid="Id3" error_1="Phillip Cocu">Adam Maher, whose club is PSV Eindhoven managed by Phillip Cocu, is connected to the AZ Alkmaar club.</lex>
     </entry>
     <entry category="Athlete" eid="Id208" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3431,7 +3431,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Hunt played for SV Werder Bremen and also Vfl Wolfsburg, the latter of which is managed by Dieter Hecking.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt previously played for SV Werder Bremen and currently for VfL Wolfsburg who are managed by Dieter Hecking.</lex>
-      <lex comment="good" lid="Id3" error_1="Aaron Hunt">Aasron Hunt played for the SV Werder Bremen club and currently for VfL Wolfsburg which is managed by Dieter Hecking.</lex>
+      <lex comment="good" lid="Id3" error_1="Aaron Hunt">Aaron Hunt played for the SV Werder Bremen club and currently for VfL Wolfsburg which is managed by Dieter Hecking.</lex>
     </entry>
     <entry category="Athlete" eid="Id216" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

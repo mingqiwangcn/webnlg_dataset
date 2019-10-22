@@ -145,7 +145,7 @@
         <mtriple>Minnesota_Wild | generalManager | Chuck_Fletcher</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Boogaard's draft team is Minnesota Wild where Chuck Fletcher is the general manager.</lex>
-      <lex comment="good" lid="Id2" error_1="Minnesota Wild">Aaron Boogaard's draft team is Minnestoa Wild where the general manager is Chuck Fletcher.</lex>
+      <lex comment="good" lid="Id2" error_1="Minnesota Wild">Aaron Boogaard's draft team is Minnesota Wild where the general manager is Chuck Fletcher.</lex>
       <lex comment="good" lid="Id3">Aaron Boogaard's draft team is Minnesota Wild, whose manager is Chuck Fletcher.</lex>
     </entry>
     <entry category="Athlete" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -294,8 +294,8 @@
         <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Hull City AFC player Abel Hernandez has represented the Uruguay national football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Abel Hernandez" error_2="Uruguay national football team">Abel Harnandez plays for Hull City AFC and the Uraguay National football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Uruguay national football team">Abel Hernandez plays for Hull City A.F.C. of the Uruguay national football league.</lex>
+      <lex comment="good" lid="Id2" error_1="Abel Hernandez" error_2="Uruguay national football team">Abel Hernandez plays for Hull City AFC and the Uruguay National football team.</lex>
+      <lex comment="good" lid="Id3" error_1="Uruguay national football team">Abel Hernandez plays for Hull City A.F.C. and for the Uruguay national football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -319,7 +319,7 @@
         <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Uruguay national football team">Abel Hernandez plays for U.S. Citta di Palermo of the Uruguay national football league.</lex>
+      <lex comment="good" lid="Id1" error_1="Uruguay national football team">Abel Hernandez plays for U.S. Citta di Palermo and the Uruguay national football team.</lex>
       <lex comment="good" lid="Id2">Abel Hernández plays for U.S. Città di Palermo club and the Uruguay National football team.</lex>
       <lex comment="good" lid="Id3">Abel Hernandez's club is the Uruguay National football team and he also plays for US Citta di Palermo.</lex>
     </entry>
@@ -334,7 +334,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Uruguay national under-20 football team">Abel Hernandez 's club is the Uruguay national under 20 football team and also US Citta di Palermo.</lex>
       <lex comment="good" lid="Id2" error_1="Uruguay national under-20 football team">Abel Hernandez's club is the Uruguay national under 20 football team and he plays for the club, U.S. Città di Palermo.</lex>
-      <lex comment="good" lid="Id3" error_1="Uruguay national under-20 football team">Abel Hernandez plays for US Citta di Palermo and the Uraguay under 20 team.</lex>
+      <lex comment="good" lid="Id3" error_1="Uruguay national under-20 football team">Abel Hernandez plays for US Citta di Palermo and the Uruguay under 20 team.</lex>
     </entry>
     <entry category="Athlete" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -425,7 +425,7 @@
         <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
         <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="PSV Eindhoven">Adam Maher's clubs are PSV Einddhoven and AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id1" error_1="PSV Eindhoven">Adam Maher's clubs are PSV Eindhoven and AZ Alkmaar.</lex>
       <lex comment="good" lid="Id2">Adam Maher plays for PSV Eindhoven and has been connected to the club AZ Alkmaar.</lex>
     </entry>
     <entry category="Athlete" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -448,7 +448,7 @@
         <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
         <mtriple>Adam_McQuaid | birthYear | 1986</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Charlottetown">Adam McQuaid was born in Charlottestown in 1986.</lex>
+      <lex comment="good" lid="Id1" error_1="Charlottetown">Adam McQuaid was born in Charlottetown in 1986.</lex>
       <lex comment="good" lid="Id2">Adam McQuaid was born in 1986, in Charlottetown.</lex>
     </entry>
     <entry category="Athlete" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -491,7 +491,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam McQuaid's draft team is the Columbus Blue Jackets, whose general manager is Jarmo Kekalainen.</lex>
       <lex comment="good" lid="Id2">Adam McQuaid was drafted to the Columbus Blue Jackets which is managed by Jarmo Kekalainen.</lex>
-      <lex comment="good" lid="Id3" error_1="Jarmo Kekalainen">Adam McQuaid's draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekelainen.</lex>
+      <lex comment="good" lid="Id3" error_1="Jarmo Kekalainen">Adam McQuaid's draft team was the Columbus Blue Jackets whose general manager is Jarmo Kekalainen.</lex>
     </entry>
     <entry category="Athlete" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -555,7 +555,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al-Quwa_Al-Jawiya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al-Quwa Al-Jawiya and his club is Al Shorta SC.</lex>
-      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">hmad Kadhim Assad played for the clubs Al Shorta SC and Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">Ahmad Kadhim Assad played for the clubs Al Shorta SC and Al-Quwa Al-Jawiya.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad's club is Al Shorta SC and he played for the club Al-Quwa Al-Jawiya.</lex>
     </entry>
     <entry category="Athlete" eid="Id43" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -610,7 +610,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Steel_Azin_F.C.</mtriple>
         <mtriple>Ahmad_Kadhim_Assad | club | Al-Jaish_SC_(Syria)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ahmad Kadhim Assad" error_2="Al-Jaish SC (Syria)">Ahmas Kadhim Assad has played for the Syrian club Al Jaish SC and also Steel Azin FC.</lex>
+      <lex comment="good" lid="Id1" error_1="Ahmad Kadhim Assad" error_2="Al-Jaish SC (Syria)">Ahmad Kadhim Assad has played for the Syrian club Al Jaish SC and also Steel Azin FC.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad used to play for Steel Azin F.C. and now plays for Al-Jaish SC (Syria).</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad formerly played for Steel Azin F.C. and now plays for Al-Jaish SC in Syria.</lex>
     </entry>
@@ -649,7 +649,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | PAS_Tehran_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad is a player forSteel Azin F.C. and also PAS Tehran FC.</lex>
-      <lex comment="good" lid="Id2" error_1="PAS Tehran F.C.">Ahmad Kadhim Assad's club is Steel Azin FC and he plays for PAS Tahran FC.</lex>
+      <lex comment="good" lid="Id2" error_1="PAS Tehran F.C.">Ahmad Kadhim Assad's club is Steel Azin FC and he plays for PAS Tehran FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for Steel Azin FC and also played for PAS Tehran FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -667,7 +667,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and his club is Central FC.</lex>
       <lex comment="good" lid="Id2">Akeem Adams plays for Central fC and Ferencvarosi TC.</lex>
-      <lex comment="good" lid="Id3" error_1="Ferencvarosi TC">Former clubs of Akeem Adams inlcude Central FC and Ferencvarosi FC.</lex>
+      <lex comment="good" lid="Id3" error_1="Ferencvarosi TC">Former clubs of Akeem Adams inlcude Central FC and Ferencvarosi TC.</lex>
     </entry>
     <entry category="Athlete" eid="Id51" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -865,7 +865,7 @@
         <mtriple>Akeem_Ayers | formerTeam | St._Louis_Rams</mtriple>
         <mtriple>Akeem_Ayers | draftRound | "2"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akeem Ayers">Akeen Ayers was drafted in round 2 and used to play for the St, Louis Rams.</lex>
+      <lex comment="good" lid="Id1" error_1="Akeem Ayers">Akeem Ayers was drafted in round 2 and used to play for the St, Louis Rams.</lex>
       <lex comment="good" lid="Id2">St Louis Rams is the former team of Akeem Ayers who was in draft round 2.</lex>
       <lex comment="good" lid="Id3">Akeem Ayers, who used to play for the St. Louis Rams, was drafted in round 2.</lex>
     </entry>
@@ -938,7 +938,7 @@
         <mtriple>Akeem_Dent | debutTeam | Atlanta_Falcons</mtriple>
         <mtriple>Atlanta_Falcons | city | Atlanta</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akeem Dent">Akeem Den't first team were the Atlanta based Atlanta Falcons.</lex>
+      <lex comment="good" lid="Id1" error_1="Akeem Dent">Akeem Dent first team were the Atlanta based Atlanta Falcons.</lex>
       <lex comment="good" lid="Id2">Akeem Dent's first team were the Atlanta Falcons who play in Atlanta.</lex>
       <lex comment="good" lid="Id3">Akeem Dent's debut team was the Atlanta Falcons who play in the city of Atlanta.</lex>
     </entry>
@@ -1227,7 +1227,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
         <mtriple>Alaa_Abdul-Zahra | club | Al-Khor_Sports_Club</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Shabab Al-Ordon Club">Alaa Abdul-Zahra has payed for Shabah Al-Ordon Club and Al-Khor Sports Club.</lex>
+      <lex comment="good" lid="Id1" error_1="Shabab Al-Ordon Club">Alaa Abdul-Zahra has payed for Shabab Al-Ordon Club and Al-Khor Sports Club.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra belongs to Shabab Al-Ordon Club and plays for Al-Khor Sports Club.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul-Zahra has played for both Shabab Al-Ordon Club and Al-Khor Sports Club.</lex>
     </entry>
@@ -1375,7 +1375,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Scotland national under-21 football team">Alan Martin played for the Scotland national under 21 team, which is managed by Ricky Sbragia.</lex>
       <lex comment="good" lid="Id2" error_1="Scotland national under-21 football team">The footballer Alan Martin plays in the Scottish National under 21 football team who are coached by Ricky Sbragia.</lex>
-      <lex comment="good" lid="Id3" error_1="Ricky Sbragia" error_2="Scotland national under-21 football team">Alan Martin played for the Scotland under 21 football team, whose coach is Rcicky Sbragia.</lex>
+      <lex comment="good" lid="Id3" error_1="Ricky Sbragia" error_2="Scotland national under-21 football team">Alan Martin played for the Scotland under 21 football team, whose coach is Ricky Sbragia.</lex>
     </entry>
     <entry category="Athlete" eid="Id103" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1579,7 +1579,7 @@
         <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Prudnikov's club is FC Tom Tomsk and he also plays for FC Kuban Krasnodar.</lex>
-      <lex comment="good" lid="Id2" error_1="Aleksandr Prudnikov">Aleksander Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.</lex>
+      <lex comment="good" lid="Id2" error_1="Aleksandr Prudnikov">Aleksandr Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov plays for FC Tom Tomsk and FC Kuban Krasnodar club.</lex>
     </entry>
     <entry category="Athlete" eid="Id119" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1872,7 +1872,7 @@
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli is a defender for A.S. Roma.</lex>
-      <lex comment="good" lid="Id2" error_1="Alessio Romagnoli">Alessio Rmagnoli was a defender for AS Roma.</lex>
+      <lex comment="good" lid="Id2" error_1="Alessio Romagnoli">Alessio Romagnoli was a defender for AS Roma.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli plays for A.S. Roma as a defender.</lex>
     </entry>
     <entry category="Athlete" eid="Id141" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1911,7 +1911,7 @@
         <mtriple>Alex_Plante | club | Anyang_Halla</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Plante has played for the club Anyang Halla and was born in Brandon Manitoba.</lex>
-      <lex comment="good" lid="Id2" error_1="Anyang Halla">Alex Plante was born in Brandon, Manitoba and plays for Anyan Halla.</lex>
+      <lex comment="good" lid="Id2" error_1="Anyang Halla">Alex Plante was born in Brandon, Manitoba and plays for Anyang Halla.</lex>
       <lex comment="good" lid="Id3">Alex Plante was born in Brandon, Manitoba and played for Anyang Halla.</lex>
     </entry>
     <entry category="Athlete" eid="Id144" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2117,7 +2117,7 @@
         <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner plays for CD FAS in the Salvadoran Primera Division.</lex>
-      <lex comment="good" lid="Id2" error_1="Salvadoran Primera Division">Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Divison.</lex>
+      <lex comment="good" lid="Id2" error_1="Salvadoran Primera Division">Abner is a footballer for the CD FAS club whose league is the Salvadoran Primera Division.</lex>
     </entry>
     <entry category="Athlete" eid="Id160" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2220,7 +2220,7 @@
         <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Slavey language is used in Canada, the birthplace of Aaron Boogaard.</lex>
-      <lex comment="good" lid="Id2" error_1="Aaron Boogaard">Aaro Boogaard was born in Canada, where Slavey is one of the languages spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Aaron Boogaard">Aaron Boogaard was born in Canada, where Slavey is one of the languages spoken.</lex>
       <lex comment="good" lid="Id3">Aaron Boogaard came from Canada. The Slavey language is spoken in Canada.</lex>
     </entry>
     <entry category="Athlete" eid="Id168" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2469,7 +2469,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra plays for Shabab Al-Ordon Club in the Jordan Premier league.</lex>
       <lex comment="good" lid="Id2">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club who play in the Jordan Premier League.</lex>
-      <lex comment="good" lid="Id3" error_1="Jordan Premier League">Alaa Abdul-Zahra plays for Shabab Al-Ordon Club in the Jordan Permier League.</lex>
+      <lex comment="good" lid="Id3" error_1="Jordan Premier League">Alaa Abdul-Zahra plays for Shabab Al-Ordon Club in the Jordan Premier League.</lex>
     </entry>
     <entry category="Athlete" eid="Id185" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2514,9 +2514,9 @@
         <mtriple>U.S._Città_di_Palermo | manager | Giuseppe_Iachini</mtriple>
         <mtriple>Abel_Hernández | club | U.S._Città_di_Palermo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Giuseppe Iachini">Abel Hernández plays for the club, U.S. Città di Palermo which is managed by Guiseppe Iachini.</lex>
+      <lex comment="good" lid="Id1" error_1="Giuseppe Iachini">Abel Hernández plays for the club, U.S. Città di Palermo which is managed by Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id2">Abel Hernandez has played for the club US Citta di Palermo whose manager is Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id3" error_1="Giuseppe Iachini">Abel Hernandez plays for the club, U.S. Citta di Palermo, managed by Giuseppe lachini.</lex>
+      <lex comment="good" lid="Id3" error_1="Giuseppe Iachini">Abel Hernandez plays for the club, U.S. Citta di Palermo, managed by Giuseppe Iachini.</lex>
     </entry>
     <entry category="Athlete" eid="Id188" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

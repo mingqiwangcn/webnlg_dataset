@@ -238,7 +238,7 @@
       <modifiedtripleset>
         <mtriple>Aaron_Hunt | youthclub | SV_Werder_Bremen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">Aaron Hunt's is in the youth club SV Weder Bremen.</lex>
+      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">Aaron Hunt's is in the youth club SV Werder Bremen.</lex>
       <lex comment="good" lid="Id2">Aaron Hunt played for the SV Werder Bremen youth team.</lex>
       <lex comment="good" lid="Id3">Aaron Hunt belongs to the youth club SV Werder Bremen.</lex>
     </entry>
@@ -459,7 +459,7 @@
       <modifiedtripleset>
         <mtriple>Adam_Maher | currentclub | PSV_Eindhoven</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adam Maher">The current club that Adam Mayer plays for is PSV Eindhoven.</lex>
+      <lex comment="good" lid="Id1" error_1="Adam Maher">The current club that Adam Maher plays for is PSV Eindhoven.</lex>
       <lex comment="good" lid="Id2">Adam Maher currently plays for PSV Eindhoven.</lex>
       <lex comment="good" lid="Id3">The current club of Adam Maher is PSV Eindhoven.</lex>
     </entry>
@@ -647,7 +647,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al_Shorta_SC</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad's club is Al Shorta SC.</lex>
-      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">Ahmed Kadhim Assad plays for Al Shorta SC.</lex>
+      <lex comment="good" lid="Id2" error_1="Ahmad Kadhim Assad">Ahmad Kadhim Assad plays for Al Shorta SC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for the club Al Shorta SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
@@ -1587,9 +1587,9 @@
       <modifiedtripleset>
         <mtriple>Aleksander_Barkov,_Jr. | weight | 96.1632 (kilograms)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr's weight is 96.1632 kg.</lex>
+      <lex comment="good" lid="Id1" error_1="Aleksander Barkov, Jr.">Aleksander Barkov Jr's weight is 96.1632 kg.</lex>
       <lex comment="good" lid="Id2">Aleksander Barkov Jr weighs 96.1632 kilograms.</lex>
-      <lex comment="good" lid="Id3" error_1="Aleksander Barkov, Jr.">Aleksandr Barkov Jr's weight is 96.1632 kgs.</lex>
+      <lex comment="good" lid="Id3" error_1="Aleksander Barkov, Jr.">Aleksander Barkov Jr's weight is 96.1632 kgs.</lex>
     </entry>
     <entry category="Athlete" eid="Id138" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2825,7 +2825,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The coach of the Los Angeles Rams is Jeff Fisher.</lex>
       <lex comment="good" lid="Id2">The Los Angeles Rams coach is Jeff Fisher.</lex>
-      <lex comment="good" lid="Id3" error_1="Los Angeles Rams">Jeff Fisher is the coach for the Los Angles Rams.</lex>
+      <lex comment="good" lid="Id3" error_1="Los Angeles Rams">Jeff Fisher is the coach for the Los Angeles Rams.</lex>
     </entry>
     <entry category="Athlete" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2993,8 +2993,8 @@
         <mtriple>SV_Werder_Bremen | league | Bundesliga</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">SV Werder Bremen play in the Bundesliga.</lex>
-      <lex comment="good" lid="Id2" error_1="SV Werder Bremen">SV Werder Breman plays in the Bundesliga.</lex>
-      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">SV Werder is in the Bundesliga league.</lex>
+      <lex comment="good" lid="Id2" error_1="SV Werder Bremen">SV Werder Bremen plays in the Bundesliga.</lex>
+      <lex comment="good" lid="Id3" error_1="SV Werder Bremen">SV Werder Bremen is in the Bundesliga league.</lex>
     </entry>
     <entry category="Athlete" eid="Id263" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3003,7 +3003,7 @@
       <modifiedtripleset>
         <mtriple>SV_Werder_Bremen | manager | Viktor_Skrypnyk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">The manager of SV Werder Breman is Viktor Skrypnyk.</lex>
+      <lex comment="good" lid="Id1" error_1="SV Werder Bremen">The manager of SV Werder Bremen is Viktor Skrypnyk.</lex>
       <lex comment="good" lid="Id2">Viktor Skrypnyk is the manager of SV Werder Bremen.</lex>
     </entry>
     <entry category="Athlete" eid="Id264" shape="(X (X))" shape_type="NA" size="1">
@@ -3025,7 +3025,7 @@
         <mtriple>SV_Werder_Bremen_II | manager | Alexander_Nouri</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The manager of SV Werder Bremen II is Alexander Nouri.</lex>
-      <lex comment="good" lid="Id2" error_1="SV Werder Bremen II">Alexander Nouri is the manager of SV Werder Bremen.</lex>
+      <lex comment="good" lid="Id2" error_1="SV Werder Bremen II">Alexander Nouri is the manager of SV Werder Bremen II.</lex>
       <lex comment="good" lid="Id3">Alexander Nouri manages SV Werder Bremen II.</lex>
     </entry>
     <entry category="Athlete" eid="Id266" shape="(X (X))" shape_type="NA" size="1">
@@ -3056,7 +3056,7 @@
       <modifiedtripleset>
         <mtriple>Shabab_Al-Ordon_Club | league | Jordan_Premier_League</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jordan Premier League">Shabab Al-Ordon Club is in the Jordan Permier League.</lex>
+      <lex comment="good" lid="Id1" error_1="Jordan Premier League">Shabab Al-Ordon Club is in the Jordan Premier League.</lex>
     </entry>
     <entry category="Athlete" eid="Id269" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3157,7 +3157,7 @@
         <mtriple>Steel_Azin_F.C. | league | Iran_Football's_3rd_Division</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Steel Azin F.C. play in Iran Football's 3rd Division.</lex>
-      <lex comment="good" lid="Id2" error_1="Iran Football's 3rd Division">Steel Azin FC is in Iran's Footaball 3rd Division.</lex>
+      <lex comment="good" lid="Id2" error_1="Iran Football's 3rd Division">Steel Azin FC is in Iran's Football 3rd Division.</lex>
       <lex comment="good" lid="Id3">The league Steel Azin F.C. play in is Iran Football's 3rd Division.</lex>
     </entry>
     <entry category="Athlete" eid="Id278" shape="(X (X))" shape_type="NA" size="1">
