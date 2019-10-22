@@ -1438,7 +1438,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Adams plays for Ferencvarosi TC and is a member of the United Petrotrin FC who play at the Palo Seco ground. He died in Budapest, Hungary.</lex>
       <lex comment="good" lid="Id2" error_1="Hungary">Akeem Adams, who died in the Hungarian city of Budapest, played for Ferencvarosi TC and United Petrotrin FC, the latter of whose home ground is Palo Seco.</lex>
-      <lex comment="good" lid="Id3" error_1="Hungary">Akeem Adams died in the Hungarian city of Budapest. His former clubs include Ferencvarosi TC and United Petrotrin F.C, the latter of which play their home games in Palo Seco.</lex>
+      <lex comment="good" lid="Id3" error_1="Hungary" error_2="United Petrotrin F.C.">Akeem Adams died in the Hungarian city of Budapest. His former clubs include Ferencvarosi TC and United Petrotrin F.C, the latter of which play their home games in Palo Seco.</lex>
     </entry>
     <entry category="Athlete" eid="Id67" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

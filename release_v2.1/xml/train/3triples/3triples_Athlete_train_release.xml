@@ -651,7 +651,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad, who plays for Al-Quwa Al-Jawiya, formerly played for Esteghlal Ahvaz F.C. who are managed by Adnan Hamad.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he plays for Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he plays for Al-Quwa Al-Jawiya.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for the club Al-Quwa Al-Jawiya and for Esteghlal Ahvaz F.C., which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id43" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -666,8 +666,8 @@
         <mtriple>Al-Zawra'a_SC | manager | Basim_Qasim</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz FC and also Al-Zawra'a SC which is managed by Basim Qasim.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C and he plays for Al-Zawra'a SC who are managed by Basim Qasim.</lex>
-      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz F C and Al-Zawra'a SC, which is managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C and he plays for Al-Zawra'a SC who are managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id3" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz F C and Al-Zawra'a SC, which is managed by Basim Qasim.</lex>
     </entry>
     <entry category="Athlete" eid="Id44" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -681,8 +681,8 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Ahmad Kadhim Assad">Ahmed Kadhim Assad plays for Al Shorta SC but used to play for Esteghlal Ahvaz F.C., which was managed by Adnan Hamad.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad belongs to the clubs, Esteghlal Ahvaz F C and Al Shorta SC. The former, has Adnan Hamad as the manager.</lex>
-      <lex comment="good" lid="Id3" error_1="Ahmad Kadhim Assad">Ahmed Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad belongs to the clubs, Esteghlal Ahvaz F C and Al Shorta SC. The former, has Adnan Hamad as the manager.</lex>
+      <lex comment="good" lid="Id3" error_1="Ahmad Kadhim Assad" error_2="Esteghlal Ahvaz F.C.">Ahmed Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id45" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -766,7 +766,7 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Steel Azin F.C.">Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).</lex>
+      <lex comment="good" lid="Id1" error_1="Esteghlal Ahvaz F.C." error_2="Steel Azin F.C.">Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C which is managed by Adnan Hamad. He also plays for Steel Azin FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for Steel Azin FC and is part of Esteghlal Ahvaz FC where Adnan Hamad is the manager.</lex>
     </entry>
@@ -3394,7 +3394,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
         <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Akeem Adams played for United Petrotrin F.C in Palo Seco Velodrome and Central F.C.</lex>
+      <lex comment="good" lid="Id1" error_1="United Petrotrin F.C.">Akeem Adams played for United Petrotrin F.C in Palo Seco Velodrome and Central F.C.</lex>
       <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club, (Central F.C.). United Petrotrin FC's ground is Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id3">Akeem Adams now plays for Central FC but previously for United Petrotrin FC whose ground is the Palo Seco Velodrome.</lex>
     </entry>

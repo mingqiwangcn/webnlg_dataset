@@ -661,7 +661,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad played for Esteghlal Ahvaz F.C.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C.</lex>
+      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad is part of the Esteghlal Ahvaz F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
@@ -3220,7 +3220,7 @@
       <modifiedtripleset>
         <mtriple>United_Petrotrin_F.C. | ground | Palo_Seco_Velodrome</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United Petrotrin F.C is playing in Palo Seco Velodrome.</lex>
+      <lex comment="good" lid="Id1" error_1="United Petrotrin F.C.">The United Petrotrin F.C is playing in Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id2">Palo Seco Velodrome is the ground of United Petrotrin F.C.</lex>
       <lex comment="good" lid="Id3">United Petrotrin FC's ground is Palo Seco Velodrome.</lex>
     </entry>

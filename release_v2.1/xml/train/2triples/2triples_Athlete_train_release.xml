@@ -569,7 +569,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad has played for both Al-Naft and Esteghlal Ahvaz FC.</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad used to play for Esteghlal Ahvaz F.C. and now palys for Al-Naft.</lex>
-      <lex comment="good" lid="Id3">Ahmad Kadhim Assad, whose club is Esteghlal Ahvaz F C. plays for Al-Naft.</lex>
+      <lex comment="good" lid="Id3" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad, whose club is Esteghlal Ahvaz F C. plays for Al-Naft.</lex>
     </entry>
     <entry category="Athlete" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -594,7 +594,7 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad's club is Esteghlal Ahvaz FC which is managed by Adnan Hamad.</lex>
-      <lex comment="good" lid="Id2">Ahmad Kadhim Assad played for the Esteghlal Ahvaz F C whose manager is Adnan Hamad.</lex>
+      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad played for the Esteghlal Ahvaz F C whose manager is Adnan Hamad.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for the Esteghlal Ahvaz F.C. which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id46" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1579,7 +1579,7 @@
         <mtriple>Aleksandr_Prudnikov | club | FC_Tom_Tomsk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Prudnikov's club is FC Tom Tomsk and he also plays for FC Kuban Krasnodar.</lex>
-      <lex comment="good" lid="Id2">Aleksander Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.</lex>
+      <lex comment="good" lid="Id2" error_1="Aleksandr Prudnikov">Aleksander Prudnikov plays football for FC Kuban Krasnodar and FC Tom Tomsk.</lex>
       <lex comment="good" lid="Id3">Aleksandr Prudnikov plays for FC Tom Tomsk and FC Kuban Krasnodar club.</lex>
     </entry>
     <entry category="Athlete" eid="Id119" shape="(X (X) (X))" shape_type="sibling" size="2">
