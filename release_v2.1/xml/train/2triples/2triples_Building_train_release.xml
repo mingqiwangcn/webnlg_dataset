@@ -660,7 +660,7 @@
         <mtriple>Buffalo,_New_York | leaderName | Byron_Brown</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Byron Brown is the leader of Buffalo, New York, where 250 Delaware Avenue is located.</lex>
-      <lex comment="good" lid="Id2">240 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is in Buffalo, New York, where Byron Brown is the leader.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is in Buffalo, New York, which is led by Byron Brown.</lex>
     </entry>
     <entry category="Building" eid="Id45" shape="(X (X) (X))" shape_type="sibling" size="2">
