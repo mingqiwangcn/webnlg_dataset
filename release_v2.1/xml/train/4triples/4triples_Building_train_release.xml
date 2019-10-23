@@ -1093,7 +1093,7 @@
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. Its start date was January 2014.</lex>
-      <lex comment="good" lid="Id2" error_1="January, 2014">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="250 Delaware Avenue" error_2="January, 2014">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
       <lex comment="good" lid="Id3">The construction of 250 Delaware Avenue began in January 2014, worth 110 million (dollars) that has 30843.8 (square metres), and a floor count of 12.</lex>
     </entry>
     <entry category="Building" eid="Id48" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -4176,7 +4176,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
+      <lex comment="good" lid="Id1" error_1="250 Delaware Avenue" error_2="President of the United States">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
     </entry>
     <entry category="Building" eid="Id202" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

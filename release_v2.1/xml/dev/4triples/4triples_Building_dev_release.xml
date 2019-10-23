@@ -396,7 +396,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds, the Los Angeles Herald Examiner Building and the Asilomar State Beach.</lex>
       <lex comment="good" lid="Id2">Julia Morgan, born in San Francisco and designer of many significant buildings, including the Los Angeles Herald Examiner building and the Asilomar State Beach, was also the architect of the grounds of Asilomar Conference.</lex>
-      <lex comment="good" lid="Id3" error_1="San Francisco">Julia Morgan was born in San Francisco. She designed the Asilomar Conference Grounds, the Asilomar State Beach and the Los Angeles Herald examiner, a landmark in California.</lex>
+      <lex comment="good" lid="Id3">Julia Morgan was born in San Francisco. She designed the Asilomar Conference Grounds, the Asilomar State Beach and the Los Angeles Herald examiner, a landmark in California.</lex>
     </entry>
     <entry category="Building" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -412,7 +412,7 @@
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in California, Julia Morgan has designed buildings such as Los Angeles Herald Examiner building and the Riverside Art Museum, and was also the architect of the grounds of Asilomar Conference.</lex>
-      <lex comment="good" lid="Id2" error_1="Asilomar Conference Grounds" error_2="Riverside Art Museum">Julia Morgan from California, designed many important buildings including the Los Angeles Herald Examiner building, the Riverside Art Museum and the Asilomar Conference Grounds.</lex>
+      <lex comment="good" lid="Id2">Julia Morgan from California, designed many important buildings including the Los Angeles Herald Examiner building, the Riverside Art Museum and the Asilomar Conference Grounds.</lex>
     </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
