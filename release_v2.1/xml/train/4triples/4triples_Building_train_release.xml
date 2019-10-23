@@ -78,7 +78,7 @@
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Brutalist architecture">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. Its architectural style is Brutalist.</lex>
-      <lex comment="good" lid="Id2" error_1="Colmore Row, Birmingham, England">An example of Brutalist architecture, 103 Colmore Row, in Birmingham, was conceived by local-born architect John Madin.</lex>
+      <lex comment="good" lid="Id2" error_1="Colmore Row, Birmingham, England">An example of Brutalist architecture, 103 Colmore Row, in Birmingham, England, was conceived by local-born architect John Madin.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham, England was designed by the architect John Madin, who was born in the city. The architectural style of 103 Colmore Row falls under Brutalist architecture.</lex>
     </entry>
     <entry category="Building" eid="Id4" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -237,7 +237,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect, John Madin and it is located in Birmingham. It has 23 floors and it was completed in 1976.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row in Birmingham was completed in 1976 with 23 floors and was designed by the architect John Madin.</lex>
-      <lex comment="good" lid="Id3" error_1="John Madin">103 Colmore Row in Birmingham, Alabama, designed by architect John Main, has 23 floors and was completed in 1976.</lex>
+      <lex comment="good" lid="Id3" error_1="John Madin">103 Colmore Row in Birmingham, Alabama, designed by architect John Madin, has 23 floors and was completed in 1976.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -270,9 +270,9 @@
         <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
         <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="39500.0 (square metres)">108 St. Georges Terrace a 39599 square metre, 50 floor building, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)" error_2="39500.0 (square metres)">108 St. Georges Terrace was completed in 1988, has 50 floors, is 39599 square meters and cost 120m Australian dollars.</lex>
-      <lex comment="good" lid="Id3" error_1="39500.0 (square metres)">108 St. Georges Terrace, which was completed in 1988, has a floor area of 39599.0 square metres. It has 50 floors, and cost 120 million AUD.</lex>
+      <lex comment="good" lid="Id1" error_1="39500.0 (square metres)">108 St. Georges Terrace, a 39500 square metre, 50 floor building, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
+      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)" error_2="39500.0 (square metres)">108 St. Georges Terrace was completed in 1988, has 50 floors, is 39500 square meters and cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id3" error_1="39500.0 (square metres)">108 St. Georges Terrace, which was completed in 1988, has a floor area of 39500.0 square metres. It has 50 floors, and cost 120 million AUD.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -639,7 +639,7 @@
         <mtriple>200_Public_Square | completionDate | 1985</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Completed in 1985, 200 Public Square has 45 floors and 111484 square meters space, and can be found in Cleveland, Ohio, 44114.</lex>
-      <lex comment="good" lid="Id2" error_1="111484 (square metres)" error_2="Cleveland, Ohio 44114">200 Public Square in Cleveland, Ohio was completed in 1985 and has 45 floors and measures 111464 square meters.</lex>
+      <lex comment="good" lid="Id2" error_1="111484 (square metres)" error_2="Cleveland, Ohio 44114">200 Public Square in Cleveland, Ohio 44114 was completed in 1985 and has 45 floors and measures 111484 square meters.</lex>
     </entry>
     <entry category="Building" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -936,7 +936,7 @@
         <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The building at 20 Fenchurch Street was started in January 2009 and completed in April 2014. It has 34 floors, and a floor area of 62145.3 square metres.</lex>
-      <lex comment="good" lid="Id2" error_1="20 Fenchurch Street" error_2="April 2014" error_3="January 2009">20 Fenchurch St. was started in Jan. 2009 and completed in April, 20014. It has 34 floors and is 62145.3 square meters.</lex>
+      <lex comment="good" lid="Id2" error_1="20 Fenchurch Street" error_2="April 2014" error_3="January 2009">20 Fenchurch St. was started in Jan. 2009 and completed in April, 2014. It has 34 floors and is 62145.3 square meters.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres; its construction began in January 2009 and was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1179,7 +1179,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue in the United States cost 110 million dollars and has 12 floors with a total area of 30843.8 (square metres).</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue was built for 110 million dollars and is located in the United States. It has 12 floors with a total area of 30843.8 square metres.</lex>
-      <lex comment="good" lid="Id3" error_1="30843.8 (square metres)">250 Delaware Avenue in the United States has 12 floors with a total area of 20843.8 square metres and cost 110 million dollars to build.</lex>
+      <lex comment="good" lid="Id3" error_1="30843.8 (square metres)">250 Delaware Avenue in the United States has 12 floors with a total area of 30843.8 square metres and cost 110 million dollars to build.</lex>
     </entry>
     <entry category="Building" eid="Id52" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1252,7 +1252,7 @@
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Susana Mendoza">Susan Mendoza is the leader of Chicago, Illinois, United States, the location of 300 North LaSalle.</lex>
+      <lex comment="good" lid="Id1" error_1="Susana Mendoza">Susana Mendoza is the leader of Chicago, Illinois, United States, the location of 300 North LaSalle.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois, U.S., where Susana Mendoza is the leader.</lex>
     </entry>
     <entry category="Building" eid="Id55" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -1368,7 +1368,7 @@
         <mtriple>Illinois | language | English_language</mtriple>
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">300 North LaSalle is located in Chicago, Illinois and the language of the area is the English.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">300 North LaSalle is located in Chicago, Illinois (USA) and the language of the area is the English.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois, United States. The language spoken in Illinois State is English.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is located in Chicago, Illinois (English being the language spoken there) in the United States.</lex>
     </entry>
@@ -1903,7 +1903,7 @@
         <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
         <mtriple>Ethiopia | language | Amharic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addis Ababa Stadium, named for its city location, is located in Amharic-speaking Ethiopia.</lex>
+      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addis Ababa Stadium and Addis Ababa City Hall, named for their city location, are located in Amharic-speaking Ethiopia.</lex>
       <lex comment="good" lid="Id2">Both Addis Ababa City Hall and Addis Ababa Stadium are located in Addis Ababa, Ethiopia, where Amharic is spoken.</lex>
       <lex comment="good" lid="Id3">The Addis Ababa Stadium and the Addis Ababa City Hall is in Addis Ababa in Ethiopia. Amharic is spoken in Ethiopia.</lex>
     </entry>
@@ -2165,7 +2165,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka where the capital is Sri Jayawardenepura Kotte and the leader is Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id3" error_1="Sri Jayawardenepura Kotte">Adisham Hall is located in Haputale, Sri Lanka, where Ranil Wickremesinghe is one of the countries leaders and Sri Jayawardenepura Kotta is the capital city.</lex>
+      <lex comment="good" lid="Id3" error_1="Sri Jayawardenepura Kotte">Adisham Hall is located in Haputale, Sri Lanka, where Ranil Wickremesinghe is one of the countries leaders and Sri Jayawardenepura Kotte is the capital city.</lex>
     </entry>
     <entry category="Building" eid="Id99" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2394,7 +2394,7 @@
         <mtriple>Akita_Museum_of_Art | address | "1-4-2 Nakadori"</mtriple>
         <mtriple>Akita_Museum_of_Art | floorArea | 3746.66 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3746.66 (square metres)">The Akita Museum of Art at 142 Nakadori has 3 floors with a total area of 2746.66 square metres and was inaugurated on 28th September 2013.</lex>
+      <lex comment="good" lid="Id1" error_1="3746.66 (square metres)">The Akita Museum of Art at 142 Nakadori has 3 floors with a total area of 3746.66 square metres and was inaugurated on 28th September 2013.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art at "1-4-2 Nakadori" has 3 floors with an area of 3746.66 square metres; it was inaugurated on 28th September 2013.</lex>
     </entry>
     <entry category="Building" eid="Id109" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
@@ -2412,7 +2412,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita which is part of Akita Prefecture that is part of Japan, a country where there is an ethnic group of Vietnamese people.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, in the Akita Prefecture in Japan, a country with the ethnic group of the Vietnamese people.</lex>
-      <lex comment="good" lid="Id3" error_1="Japan" error_2="Vietnamese people in Japan">Akita Museum of Art is an art museum in the city of Akita, Akita, is part of the Akita Prefecture and the ethnic group is Vietnamese people.</lex>
+      <lex comment="good" lid="Id3" error_1="Japan" error_2="Vietnamese people in Japan">Akita Museum of Art is an art museum in the city of Akita, Akita, which is part of the Akita Prefecture, Japan. One of the ethnic groups there is Vietnamese people.</lex>
     </entry>
     <entry category="Building" eid="Id110" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -2579,8 +2579,8 @@
         <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
         <mtriple>Alan_B._Miller_Hall | completionDate | "1 June 2009"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Virginia">Alan B. Miller Hall is owned by the College of William and Mary, and was designed by Robert A.M. Stern, where it was completed on June 1st, 2009.</lex>
-      <lex comment="good" lid="Id2">Alan B. Miller Hall Virginia was designed by Robert A.M. Stern was completed on June 1, 2009. The College of William and Mary is the owner of that hall.</lex>
+      <lex comment="good" lid="Id1" error_1="Virginia">Alan B. Miller Hall in Virginia is owned by the College of William and Mary, and was designed by Robert A.M. Stern. It was completed on June 1st, 2009.</lex>
+      <lex comment="good" lid="Id2">Alan B. Miller Hall, Virginia, was designed by Robert A.M. Stern and was completed on June 1, 2009. The College of William and Mary is the owner of that hall.</lex>
       <lex comment="good" lid="Id3">The Alan B Miller Hall, Virginia, designed by Robert A.M. Stern, was completed on 1st June 2009 and is owned by the College of William and Mary.</lex>
     </entry>
     <entry category="Building" eid="Id119" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2702,7 +2702,7 @@
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Mason School of Business, which is located in the United States, are the current tenants of Alan B Miller Hall. Robert Gates is the chancellor of the College of William &amp; Mary, which owns Alan B. Miller Hall.</lex>
-      <lex comment="good" lid="Id2" error_1="Alan B. Miller Hall">Robert Gates served as chancellor of the College of William and Mary who own the Alan B. Miler Hall in the United States .The current tenants are The Mason School of Business.</lex>
+      <lex comment="good" lid="Id2" error_1="Alan B. Miller Hall">Robert Gates served as chancellor of the College of William and Mary who own the Alan B. Miller Hall in the United States .The current tenants are The Mason School of Business.</lex>
       <lex comment="good" lid="Id3">The College of William and Mary, with Chancellor Robert Gates, is the owner of the Alan B. Miller Hall, United States, currently leased to the Mason School of Business.</lex>
     </entry>
     <entry category="Building" eid="Id126" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2783,7 +2783,7 @@
         <mtriple>Amdavad_ni_Gufa | architect | B._V._Doshi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa is situated in the city of Ahmedabad which is located in the state of Gujarat, India. The architect who designed the Amdavad ni Gufa is B V Doshi.</lex>
-      <lex comment="good" lid="Id2" error_1="Ahmedabad" error_2="Amdavad ni Gufa">Designed by the architect B V Doshi, Amdavad nu Gufa can be found in Gujarat, Admedabad, India.</lex>
+      <lex comment="good" lid="Id2" error_1="Ahmedabad" error_2="Amdavad ni Gufa">Designed by the architect B V Doshi, Amdavad ni Gufa can be found in Gujarat, Ahmedabad, India.</lex>
       <lex comment="good" lid="Id3">The architect B V Doshi designed Amdavad ni Gufa in Ahmedabad, Gujarat, India.</lex>
     </entry>
     <entry category="Building" eid="Id129" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2829,8 +2829,8 @@
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa can be found in Gujarat, Ahmedabad, India, where Gujarat is led by Anandiben Patel.</lex>
-      <lex comment="good" lid="Id2" error_1="Gujarat">Anandiben Patel was the leader of Gujura, which is where Amdavad ni Gufa is located in Ahmedabad, India.</lex>
-      <lex comment="good" lid="Id3" error_1="Ahmedabad">Amdavad ni Gufa can be found in Gujarat, Ahmedaba, India, where the leader of Gujarat is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id2" error_1="Gujarat">Anandiben Patel was the leader of Gujarat, which is where Amdavad ni Gufa is located in Ahmedabad, India.</lex>
+      <lex comment="good" lid="Id3" error_1="Ahmedabad">Amdavad ni Gufa can be found in Gujarat, Ahmedabad, India, where the leader of Gujarat is Anandiben Patel.</lex>
     </entry>
     <entry category="Building" eid="Id131" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2853,7 +2853,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amdavad ni Gufa is located in Ahmedabad, and is in Gujarat. Gujarat once was led by Anandiben Patel, of the Gujarat Legislative Assembly.</lex>
       <lex comment="good" lid="Id2">Amdavad ni Gufa is located in Ahmedabad, Gujarat. Gujarat's leader is known as the Gujarat Legislative Assembly and his name is Anandiben Patel.</lex>
-      <lex comment="good" lid="Id3" error_1="Anandiben Patel">The Gujarat Legislative Assembly is the leader of Gujarat where Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex comment="good" lid="Id3" error_1="Anandiben Patel">The Gujarat Legislative Assembly governs Gujarat, along with its leader Anandiben Patel. Amdavad ni Gufa is located in that state, in Ahmedabad.</lex>
     </entry>
     <entry category="Building" eid="Id132" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2933,8 +2933,8 @@
         <mtriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ampara Hospital is situated in the Ampara District, Eastern Province state of Sri Lanka where the leader is Austin Fernando.</lex>
-      <lex comment="good" lid="Id2">The Ampara Hospital is situated in Ampara district, the Eastern Province state of Sri Lanka were Austin Fernando is the leader.</lex>
-      <lex comment="good" lid="Id3" error_1="Ampara District">Austin Fernando is the leader of the Eastern Province, Sri Lanka where the Ampara Hospital is located.</lex>
+      <lex comment="good" lid="Id2">The Ampara Hospital is situated in Ampara district, the Eastern Province state of Sri Lanka where Austin Fernando is the leader.</lex>
+      <lex comment="good" lid="Id3" error_1="Ampara District">Austin Fernando is the leader of the Eastern Province, Sri Lanka where the Ampara Hospital in the Ampara District is located.</lex>
     </entry>
     <entry category="Building" eid="Id135" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3171,7 +3171,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan, born in San Francisco, designed significant buildings in Chinatown, San Francisco, including the Asilomar State Beach and Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">San Francisco born Julia Morgan was the architect of Asilomar Conference Grounds, Chinatown, San Francisco, and the significant building of Asilomar State Beach.</lex>
-      <lex comment="good" lid="Id3" error_1="Asilomar State Beach">San Francisco born Julia Morgan has designed many significant buildings including the Asilomar Conference Grounds, Asilomar State Beech and many buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id3" error_1="Asilomar State Beach">San Francisco born Julia Morgan has designed many significant buildings including the Asilomar Conference Grounds, Asilomar State Beach and many buildings in Chinatown, San Francisco.</lex>
     </entry>
     <entry category="Building" eid="Id147" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3186,8 +3186,8 @@
         <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="San Francisco">Julia Morgan was born in San Fransico and she designed the Asilomar Conference Grounds and the Los Angeles Herald examiner building, a landmark in California. The Riverside Art Museum is also one of her significant buildings.</lex>
-      <lex comment="good" lid="Id2" error_1="San Francisco">Julia Morgan was born in San Fransisco and she has designed many significant buildings including the Los Angeles Herald Examiner Building, the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+      <lex comment="good" lid="Id1" error_1="San Francisco">Julia Morgan was born in San Francisco and she designed the Asilomar Conference Grounds and the Los Angeles Herald examiner building, a landmark in California. The Riverside Art Museum is also one of her significant buildings.</lex>
+      <lex comment="good" lid="Id2" error_1="San Francisco">Julia Morgan was born in San Francisco and she has designed many significant buildings including the Los Angeles Herald Examiner Building, the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
     </entry>
     <entry category="Building" eid="Id148" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3209,7 +3209,7 @@
         <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">San Francisco born architect Julia Morgan designed the grounds of Asilomar Conference as well as the significant buildings of Riverside Art Museum and Asilomar State Beach.</lex>
-      <lex comment="good" lid="Id2" error_1="Riverside Art Museum">Julia Morgan, born in San Francisco, designed several significant buildings, such as the Asilomar Conference Grounds, the Riverside Art Musuem, and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id2" error_1="Riverside Art Museum">Julia Morgan, born in San Francisco, designed several significant buildings, such as the Asilomar Conference Grounds, the Riverside Art Museum, and the Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id149" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3282,7 +3282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Julia Morgan was born in California, where she designed the Riverside Art Museum. One of the significant buildings that she designed was the Asilomar State Beach, and she has also designed the Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds was designed by Californian born Julia Morgan who also designed the significant buildings of the Riverside Art Museum and Asilomar State Beach.</lex>
-      <lex comment="good" lid="Id3" error_1="Asilomar Conference Grounds">Californian born architect Julia Morgan designed significant buildings including Asilomar State Beach, the Riverside Art Museum and the Asilomar Conference.</lex>
+      <lex comment="good" lid="Id3" error_1="Asilomar Conference Grounds">Californian born architect Julia Morgan designed significant buildings including Asilomar State Beach, the Riverside Art Museum and the Asilomar Conference Grounds.</lex>
     </entry>
     <entry category="Building" eid="Id153" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3297,8 +3297,8 @@
         <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chinatown, San Francisco">Julia Morgan was born in California. She designed significant buildings in Chinatown, San Fransisco; the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
-      <lex comment="good" lid="Id2" error_1="Chinatown, San Francisco">Julia Morgan was born in California. She is the architect behind Chinatown in San Fransisco, the Asilomar Conference Grounds and the Riverside Art Museum, which is one of her most significant buildings.</lex>
+      <lex comment="good" lid="Id1" error_1="Chinatown, San Francisco">Julia Morgan was born in California. She designed significant buildings in Chinatown, San Francisco; the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+      <lex comment="good" lid="Id2" error_1="Chinatown, San Francisco">Julia Morgan was born in California. She is the architect behind Chinatown in San Francisco, the Asilomar Conference Grounds and the Riverside Art Museum, which is one of her most significant buildings.</lex>
       <lex comment="good" lid="Id3">Californian born architect Julia Morgan designed the Asilomar Conference Grounds as well as being behind Chinatown in San Francisco and other significant buildings including the Riverside Art Museum.</lex>
     </entry>
     <entry category="Building" eid="Id154" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3355,7 +3355,7 @@
         <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds is located on Asilomar Blvd, in Pacific Grove, California, and was constructed in 1913. They are an example of the Arts and Crafts Movement and American craftsman Bungalows, and were added to the National Register of Historic Places on 27 February 1987.</lex>
-      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds on Asilomar Blvd., Pacific Grove, California, was constructed in 1913 and added to the National Register of Historic Places on February the 27, 1987.</lex>
+      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds on Asilomar Blvd., Pacific Grove, California, was constructed in 1913 and added to the National Register of Historic Places on February the 27, 1987. It is designed in the arts and crafts style, and it is an example of American craftsman bungalows.</lex>
       <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and were constructed in 1913 in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows". The Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
     </entry>
     <entry category="Building" eid="Id157" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3389,7 +3389,7 @@
         <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Pacific Grove, California, Asilomar Conference Grounds were constructed in 1913, added to the National Register of Historic Places on 27nd February 1987 and is in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows".</lex>
-      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds, constructed in 1913, are located in Pacific Grove, California and were added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds, constructed in 1913, are located in Pacific Grove, California and were added to the National Register of Historic Places on February the 27nd 1987. Their style is the arts and crafts, and they are an example of American craftsman bungalows.</lex>
       <lex comment="good" lid="Id3">The Asilomar Conference Grounds are located at Pacific Grove, California and they were constructed in 1913. Its architecture is "Arts and Crafts Movement and American Craftsman Bungalows" and it was added to the National Register of Historic Places on the 27th February 1987.</lex>
     </entry>
     <entry category="Building" eid="Id159" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3411,7 +3411,7 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asser Levy Place and East 23rd Street">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Stree, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 with reference number 80002709.</lex>
+      <lex comment="good" lid="Id1" error_1="Asser Levy Place and East 23rd Street">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street, were constructed in 1904 and added to the National Register of Historic Places on 23rd April 1980 with reference number 80002709.</lex>
       <lex comment="good" lid="Id2">The Asser Levy Public Baths were built in 1904 and are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number is 80002709.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 are in Asser Levy Place and East 23rd Street. They were added to the National Register of Historic Places on 23rd April 1980 with the reference number 80002709.</lex>
     </entry>
@@ -3994,7 +3994,7 @@
         <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bill Marriot is the key person at Marriott International which was founded in Washington D.C. and is now located in Bethesda Maryland as well as being the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
-      <lex comment="good" lid="Id2" error_1="AC Hotel Bella Sky Copenhagen">Mariott International, led by Bill Marriott and founded in Washington D.C., is located in Bethesda Maryland and is a key tenant of AC Hotel Bella Sky Corporation.</lex>
+      <lex comment="good" lid="Id2" error_1="AC Hotel Bella Sky Copenhagen">Mariott International, led by Bill Marriott and founded in Washington D.C., is located in Bethesda Maryland and is a key tenant of AC Hotel Bella Sky Copenhagen.</lex>
     </entry>
     <entry category="Building" eid="Id191" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4033,7 +4033,7 @@
         <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor is located in the Republic of Ireland which is led by Enda Kenny. The language of the republic is English and the native people are known as Irish.</lex>
-      <lex comment="good" lid="Id2" error_1="Irish people">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, the currency is the Euro and English is the primary language.</lex>
+      <lex comment="good" lid="Id2" error_1="Irish people">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, English is the primary language and where the Irish people live.</lex>
     </entry>
     <entry category="Building" eid="Id193" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

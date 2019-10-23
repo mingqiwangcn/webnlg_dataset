@@ -153,7 +153,7 @@
         <mtriple>Adisham_Hall | architecturalStyle | "Tudor and Jacabian"</mtriple>
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adisham Hall">Admisham Hall's architectural style is Tudor and Jacabian and the building is located in Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id1" error_1="Adisham Hall">Adisham Hall's architectural style is Tudor and Jacabian and the building is located in Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Adisham Hall, Haputale, Sri Lanka, is Tudor and Jacabian in style.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -238,7 +238,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sri Jayawardenepura Kotte is the capital of Sri Lanka, where Ampara Hospital is located.</lex>
       <lex comment="good" lid="Id2">Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura Kotte.</lex>
-      <lex comment="good" lid="Id3" error_1="Sri Jayawardenepura Kotte">Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura.</lex>
+      <lex comment="good" lid="Id3" error_1="Sri Jayawardenepura Kotte">Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura Kotte.</lex>
     </entry>
     <entry category="Building" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -293,7 +293,7 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths is located on 23rd Street, Manhattan, and was constructed in 1904.</lex>
-      <lex comment="good" lid="Id2" error_1="Asser Levy Public Baths">Asser Levy Baths which was built in 1904 is located at 23rd Street in Manhattan.</lex>
+      <lex comment="good" lid="Id2" error_1="Asser Levy Public Baths">Asser Levy Public Baths which was built in 1904 is located at 23rd Street in Manhattan.</lex>
       <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904, is located at 23rd Street (Manhattan).</lex>
     </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -305,8 +305,8 @@
         <mtriple>Gujarat | leaderName | Anandiben_Patel</mtriple>
         <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Gujarat">Anandiben Patel was the leader of Gujurat where Amdavad ni Gufa is located.</lex>
-      <lex comment="good" lid="Id2" error_1="Amdavad ni Gufa">Amdavad Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id1" error_1="Gujarat">Anandiben Patel was the leader of Gujarat where Amdavad ni Gufa is located.</lex>
+      <lex comment="good" lid="Id2" error_1="Amdavad ni Gufa">Amdavad ni Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
       <lex comment="good" lid="Id3">Amdavad ni Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
     </entry>
   </entries>

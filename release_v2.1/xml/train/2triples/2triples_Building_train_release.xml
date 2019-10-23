@@ -236,7 +236,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and is owned by Redefine Properties Limited.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street, which is owned by Redefine Properties Limited, has 20 floors.</lex>
-      <lex comment="good" lid="Id3" error_1="Redefine Properties Limited">11 Diagonal Street which has 20 floors is owned by Redefine Properties.</lex>
+      <lex comment="good" lid="Id3" error_1="Redefine Properties Limited">11 Diagonal Street which has 20 floors is owned by Redefine Properties Ltd.</lex>
     </entry>
     <entry category="Building" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -574,7 +574,7 @@
         <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="30843.8 (square metres)">250 Delaware Avenue has a floor area of 30853.8 square metres and has 12 floors.</lex>
+      <lex comment="good" lid="Id1" error_1="30843.8 (square metres)">250 Delaware Avenue has a floor area of 30843.8 square metres and has 12 floors.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue has a floor area of 30843.8 square metres and a floor count of 12.</lex>
     </entry>
@@ -776,7 +776,7 @@
         <mtriple>300_North_LaSalle | location | Chicago</mtriple>
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chicago">300 North LaSalle is in Chciago, in the State of Illinois.</lex>
+      <lex comment="good" lid="Id1" error_1="Chicago">300 North LaSalle is in Chicago, in the State of Illinois.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is located in Chicago, Illinois.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is located in Chicago which is part of Illinois.</lex>
     </entry>
@@ -1085,7 +1085,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International rents the AC Hotel Bella Sky Copenhagen which is in Denmark.</lex>
-      <lex comment="good" lid="Id2" error_1="Marriott International">The Mariott International Hotel in Denmark is a tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="good" lid="Id2" error_1="Marriott International">The Marriott International Hotel in Denmark is a tenant of AC Hotel Bella Sky Copenhagen.</lex>
     </entry>
     <entry category="Building" eid="Id74" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1211,7 +1211,7 @@
         <mtriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The architect of Adare Manor is Augustus Pugin, who also designed the Palace Of Westminster.</lex>
-      <lex comment="good" lid="Id2" error_1="Augustus Pugin">August Pugin was the architect of Adare Manor and the Palace of Westminster.</lex>
+      <lex comment="good" lid="Id2" error_1="Augustus Pugin">Augustus Pugin was the architect of Adare Manor and the Palace of Westminster.</lex>
     </entry>
     <entry category="Building" eid="Id82" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1242,7 +1242,7 @@
         <mtriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</mtriple>
         <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lewis Nockalls Cottingham">Adare Manor, designed by Lewis Cottingham, was completed in 1862.</lex>
+      <lex comment="good" lid="Id1" error_1="Lewis Nockalls Cottingham">Adare Manor, designed by Lewis N. Cottingham, was completed in 1862.</lex>
       <lex comment="good" lid="Id2">Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.</lex>
       <lex comment="good" lid="Id3">Adare Manor was completed in 1862, and was designed by Lewis Nockalls Cottingham.</lex>
     </entry>
@@ -1273,7 +1273,7 @@
         <mtriple>Republic_of_Ireland | leaderName | Enda_Kenny</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.</lex>
-      <lex comment="good" lid="Id2" error_1="Republic of Ireland">Enda Kenny is the leader of the Rebulic of Ireland where Adare Manor is located.</lex>
+      <lex comment="good" lid="Id2" error_1="Republic of Ireland">Enda Kenny is the leader of the Republic of Ireland where Adare Manor is located.</lex>
       <lex comment="good" lid="Id3">Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny.</lex>
     </entry>
     <entry category="Building" eid="Id86" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1318,7 +1318,7 @@
         <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
         <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addis Adaba City Hall was completed in 1964 and has a floor area of 140000.0 square metres.</lex>
+      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addis Ababa City Hall was completed in 1964 and has a floor area of 140000.0 square metres.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall, with a 140000.0 (square metres) floor area, was completed in 1964.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall, with a floor area of 140000,0 square metres, was completed in 1964.</lex>
     </entry>
@@ -1502,9 +1502,9 @@
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adisham Hall">Admisham Hall is in Haputale, Sri Lanka and was completed in 1931.</lex>
+      <lex comment="good" lid="Id1" error_1="Adisham Hall">Adisham Hall is in Haputale, Sri Lanka and was completed in 1931.</lex>
       <lex comment="good" lid="Id2">Adisham Hall in Haputale, Sri Lanka, was finished in 1931.</lex>
-      <lex comment="good" lid="Id3" error_1="Adisham Hall">Admisham Hall, completed in 1931, is located at Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id3" error_1="Adisham Hall">Adisham Hall, completed in 1931, is located at Haputale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id101" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1599,7 +1599,7 @@
         <mtriple>Akita_Museum_of_Art | floorArea | 3746.66 (square metres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Akita Museum of Art has 3 floors and 3746.66 square metres of floor area.</lex>
-      <lex comment="good" lid="Id2" error_1="Akita Museum of Art">The Akita Museum has 3 floors and an area of 3746.66(square meters).</lex>
+      <lex comment="good" lid="Id2" error_1="Akita Museum of Art">The Akita Museum of Art has 3 floors and an area of 3746.66(square meters).</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located on 3 floors and is 3746.66 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id106" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1999,8 +1999,8 @@
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
         <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asher and Mary Isabelle Richardson House">The Asher and Mary Isabelle House, constructed in 1911, is located in Asherton, Texas.</lex>
-      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House, built in 1911. is located in Asherton, Texas.</lex>
+      <lex comment="good" lid="Id1" error_1="Asher and Mary Isabelle Richardson House">The Asher and Mary Isabelle Richardson House, constructed in 1911, is located in Asherton, Texas.</lex>
+      <lex comment="good" lid="Id2">Asher and Mary Isabelle Richardson House, built in 1911, is located in Asherton, Texas.</lex>
       <lex comment="good" lid="Id3">Asher and Mary Isabelle Richardson House was built in 1911, and is located in Asherton, Texas.</lex>
     </entry>
     <entry category="Building" eid="Id130" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2124,7 +2124,7 @@
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Julia Morgan">Julie Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
+      <lex comment="good" lid="Id1" error_1="Julia Morgan">Julia Morgan is the architect of Asilomar Conference Grounds and Chinatown in San Francisco.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was the architect behind Chinatown in San Francisco and the grounds of Asilomar Conference.</lex>
       <lex comment="good" lid="Id3">The architect of Asilomar Conference Grounds was Julia Morgan who also designed significant buildings in Chinatown, San Francisco.</lex>
     </entry>
@@ -2137,7 +2137,7 @@
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds">Julia Morgan designed the Asilomar Conference Gardens, and the landmark Los Angeles Herald Examiner building in California.</lex>
+      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds">Julia Morgan designed the Asilomar Conference Grounds, and the landmark Los Angeles Herald Examiner building in California.</lex>
       <lex comment="good" lid="Id2">Julia Morgan has designed many significant buildings, including the Los Angeles Herald Examiner building, and also designed Asilomar Conference Grounds.</lex>
       <lex comment="good" lid="Id3">Julia Morgan is the architect of the grounds of the Asilomar Conference as well as many other significant buildings including the Los Angeles Herald Examiner building.</lex>
     </entry>
@@ -2154,8 +2154,8 @@
         <mtriple>Asilomar_Conference_Grounds | architect | Julia_Morgan</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Julia Morgan was the architect of the Asilomar Conference Grounds and The Riverside Art Museum.</lex>
-      <lex comment="good" lid="Id2" error_1="Riverside Art Museum">Julia Morgan was the architect of the grounds of Asilomar Conference and The Riverside Art Musuem.</lex>
+      <lex comment="good" lid="Id1">Julia Morgan was the architect of the Asilomar Conference Grounds and the Riverside Art Museum.</lex>
+      <lex comment="good" lid="Id2" error_1="Riverside Art Museum">Julia Morgan was the architect of the grounds of Asilomar Conference and the Riverside Art Museum.</lex>
     </entry>
     <entry category="Building" eid="Id141" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2439,7 +2439,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.</lex>
       <lex comment="good" lid="Id2">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.</lex>
-      <lex comment="good" lid="Id3" error_1="Hailemariam Desalegn">The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
+      <lex comment="good" lid="Id3" error_1="Hailemariam Desalegn">The leader of Ethipoia is Hailemariam Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
     </entry>
     <entry category="Building" eid="Id161" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2524,7 +2524,7 @@
         <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bethesda, Maryland">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethseda, Maryland.</lex>
+      <lex comment="good" lid="Id1" error_1="Bethesda, Maryland">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethesda, Maryland.</lex>
       <lex comment="good" lid="Id2">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.</lex>
       <lex comment="good" lid="Id3">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.</lex>
     </entry>

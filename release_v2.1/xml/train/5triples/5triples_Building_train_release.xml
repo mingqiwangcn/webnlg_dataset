@@ -77,7 +77,7 @@
         <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Birmingham">John Madin was the architect of the building located at 103 Colmore Row. The building was completed in 1976.</lex>
+      <lex comment="good" lid="Id1" error_1="Birmingham">John Madin, born in Birmingham, was the architect of the building located at 103 Colmore Row. The building was completed in 1976.</lex>
       <lex comment="good" lid="Id2">Designed by, Birmingham born, architect, John Madin, 103 Colmore Row was completed in 1976. It is located in Colmore Row and has 23 floors.</lex>
       <lex comment="good" lid="Id3">Architect John Madin (born in Birmingham) designed 103 Colmore Row in 1976 (located at Colmore Row and boasts 23 floors).</lex>
     </entry>
@@ -278,7 +278,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square is located in Cleveland, Cuyahoga County, Ohio, United States and was designed by HOK.</lex>
       <lex comment="good" lid="Id2">200 Public Square in Cleveland, Cuyahoga County, Ohio, United States was designed by the architectural firm HOK.</lex>
-      <lex comment="good" lid="Id3" error_1="Cuyahoga County, Ohio" error_2="Ohio">The firm HOK were the architects of 200 Public Square, which is located in Cleveland, Cuyahoga County, Ohia, United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Cuyahoga County, Ohio" error_2="Ohio">The firm HOK were the architects of 200 Public Square, which is located in Cleveland, Cuyahoga County, Ohio, United States.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -417,7 +417,7 @@
         <mtriple>Cleveland | isPartOf | Ohio</mtriple>
         <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Frank G. Jackson">200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Javkson and Cleveland's governing body is Cleveland City Council.</lex>
+      <lex comment="good" lid="Id1" error_1="Frank G. Jackson">200 Public Square is in Cleveland which is part of Cuyahoga County in Ohio. The leader of Cleveland is Frank G Jackson and Cleveland's governing body is Cleveland City Council.</lex>
       <lex comment="good" lid="Id2">200 Public Square is located in Cleveland, Cuyahoga County, Ohio which is governed by the Cleveland City Council and the leader Frank G Jackson.</lex>
       <lex comment="good" lid="Id3">200 Public Square is located in Cleveland, Cuyahoga County, Ohio. The governing body for the city is Cleveland City Council and Frank G Jackson is a city leader.</lex>
     </entry>
@@ -626,7 +626,7 @@
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="300 North LaSalle">Chicago is led by Susana Mendoza and can be found in Illinois, United States. The language of Illinois is English and one of Chicago's landmarks is 300 North LaSelle.</lex>
+      <lex comment="good" lid="Id1" error_1="300 North LaSalle">Chicago is led by Susana Mendoza and can be found in Illinois, United States. The language of Illinois is English and one of Chicago's landmarks is 300 North LaSalle.</lex>
       <lex comment="good" lid="Id2">300 North LaSalle is in Chicago, Illinois in the U.S. Susana Mendoza leads Chicago. English is spoken in Illinois.</lex>
       <lex comment="good" lid="Id3">Susana Mendoza is the leader of Chicago in Illinois, United States where the English language is spoken. The city is the location of 300 North LaSalle.</lex>
     </entry>
@@ -701,7 +701,7 @@
         <mtriple>Chicago | isPartOf | Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rahm Emanuel is a leader in Chicago, Illinois, United States. 300 North LaSalle is located in the city and has 60 floors.</lex>
-      <lex comment="good" lid="Id2" error_1="300 North LaSalle">Chicago is led by Rahm Emanuel and is part of Illinois in the United States. One of its monuments is the 300 North LaSelle, a building which has 60 floors.</lex>
+      <lex comment="good" lid="Id2" error_1="300 North LaSalle">Chicago is led by Rahm Emanuel and is part of Illinois in the United States. One of its monuments is the 300 North LaSalle, a building which has 60 floors.</lex>
     </entry>
     <entry category="Building" eid="Id32" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -772,7 +772,7 @@
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is in Chicago, Illinois where the leader is Susana Mendoza. Illinois is in the United States and the capital is called Springfield.</lex>
-      <lex comment="good" lid="Id2" error_1="Springfield, Illinois">Susana Mendoza is a leader of Chicago, which is located in Chicago, Illinois in the United States and is the location of 300 North LaSalle.</lex>
+      <lex comment="good" lid="Id2" error_1="Springfield, Illinois">Susana Mendoza is a leader of Chicago, which is located in Chicago, Illinois in the United States and is the location of 300 North LaSalle. The capital of Illinois is Springfield.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is located in Chicago, where one of the leaders is Susana Mendoza. Chicago is part of the state of Illinois, in the United States. The capital of that state is Springfield.</lex>
     </entry>
     <entry category="Building" eid="Id36" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -899,7 +899,7 @@
         <mtriple>3Arena | completionDate | "December 2008"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3Arena is located at North Wall, Dublin and hosts concerts and events. It has a height of 28 metres and was designed by the architect HOK SVE and completed in December 2008.</lex>
-      <lex comment="good" lid="Id2" error_1="HOK SVE">The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building.</lex>
+      <lex comment="good" lid="Id2" error_1="HOK SVE">The 3Arena was completed in December 2008 and the height of 3Arena is 28.0 meters. The 3Arena is located at North Wall, Dublin and the 3Arena is a concerts and events venue type building. It was designed by "HOK SVE".</lex>
     </entry>
     <entry category="Building" eid="Id42" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1091,7 +1091,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International, which was founded in Washington DC, is the current tenant of AC Hotel Bella Sky in Copenhagen, Denmark. The Prime Minister of Denmark is Lars Lokke Rasmussen and Faroese is one of the languages spoken.</lex>
-      <lex comment="good" lid="Id2" error_1="Marriott International">Founded in Washington.D.C. Marriot Hotels is the tenant of AC Hotel Bella Sky in Copenhagen Denmark. Denmark is led by Lars Lokke Rasmussen, where Faroese is spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Marriott International">Founded in Washington, D.C., Marriott International is the tenant of AC Hotel Bella Sky in Copenhagen Denmark. Denmark is led by Lars Lokke Rasmussen, where Faroese is spoken.</lex>
     </entry>
     <entry category="Building" eid="Id51" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1152,8 +1152,8 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The tenant of the AC Hotel Bella Sky Copenhagen, Denmark is Marriott International - a company that was founded in Washington DC. The prime minister of Denmark is Lars Løkke Rasmussen and one of the languages used in the country is German.</lex>
-      <lex comment="good" lid="Id2" error_1="Lars Lokke Rasmussen">Marriott International (founded in Washington DC) is a tenant of AC Hotel Bella Sky Copenhagen in Denmark (led by Lars Lokke Rasmusen and the German language is spoken).</lex>
-      <lex comment="good" lid="Id3" error_1="German language">Marriott International was founded in Washington DC. The Marriott International Hotel is the current tenant of AC Hotel Bella Sky in Copenhagen, Denmark where Lars Lokke Rasmussen is the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Lars Lokke Rasmussen">Marriott International (founded in Washington DC) is a tenant of AC Hotel Bella Sky Copenhagen in Denmark (led by Lars Lokke Rasmussen and where the German language is spoken).</lex>
+      <lex comment="good" lid="Id3" error_1="German language">Marriott International was founded in Washington DC. The Marriott International Hotel is the current tenant of AC Hotel Bella Sky in Copenhagen, Denmark where Lars Lokke Rasmussen is the leader. German is spoken in Denmark.</lex>
     </entry>
     <entry category="Building" eid="Id54" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1172,7 +1172,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II is the leader of Denmark where one of the languages is Greenlandic. The AC Hotel Bella Sky in Copenhagen is located in the country and currently tenanted by the Marriott International which was founded in Washington DC.</lex>
       <lex comment="good" lid="Id2">One of the languages of Denmark is Greenlandic and the leader is Margrethe II. The AC Hotel Bella Sky is located in Copenhagen and tenanted by Marriott International which was founded in Washington DC.</lex>
-      <lex comment="good" lid="Id3" error_1="Margrethe II of Denmark">Denmark is led by Margethe II and one of the languages spoken is Greenlandic. The current tenant of AC Hotel Bella Sky in Copenhagen is Marriott International which was founded in Washington DC.</lex>
+      <lex comment="good" lid="Id3" error_1="Margrethe II of Denmark">Denmark is led by Margrethe II and one of the languages spoken is Greenlandic. The current tenant of AC Hotel Bella Sky in Copenhagen is Marriott International which was founded in Washington DC.</lex>
     </entry>
     <entry category="Building" eid="Id55" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1198,7 +1198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II is the leader of Denmark where the AC Hotel Bella Sky is located in Copenhagen. The current tenant of the hotel is Marriott International which was founded in Washington by key person Bill Marriott.</lex>
       <lex comment="good" lid="Id2">Denmark is led by Margrethe II of Denmark and is the location of the AC Hotel Bella Sky in Copenhagen. The current tenant is Marriott International which was founded in Washington DC and has Bill Marriott as one of the key people.</lex>
-      <lex comment="good" lid="Id3" error_1="AC Hotel Bella Sky Copenhagen">Bill Marriott is the key person at Marriott International which was founded in Washington DC. They are the current tenant of AC Hotel Bella Sky in the country of Denmark which is led by Margrethe II.</lex>
+      <lex comment="good" lid="Id3" error_1="AC Hotel Bella Sky Copenhagen">Bill Marriott is the key person at Marriott International which was founded in Washington DC. They are the current tenant of AC Hotel Bella Sky Copenhagen in the country of Denmark which is led by Margrethe II.</lex>
     </entry>
     <entry category="Building" eid="Id56" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1335,7 +1335,7 @@
         <mtriple>Adare_Manor | location | Adare</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor is located in Adare, which is part of Munster. The architect of the manor is Augustus Pugin, whose birthplace was Bloomsbury. One of the significant buildings designed by Augustus Pugin is the Palace of Westminster.</lex>
-      <lex comment="good" lid="Id2" error_1="Augustus Pugin">Augustus Putin (born in Bloomsbury) was the architect of Adare Manor (located in Adare, part of Munster) and The Palace of Westminster.</lex>
+      <lex comment="good" lid="Id2" error_1="Augustus Pugin">Augustus Pugin (born in Bloomsbury) was the architect of Adare Manor (located in Adare, part of Munster) and The Palace of Westminster.</lex>
       <lex comment="good" lid="Id3">The architect Augustus Pugin was born in Bloomsbury and designed the significant building of the Palace of Westminster. He also designed Adare Manor in Adare, Munster.</lex>
     </entry>
     <entry category="Building" eid="Id62" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1515,8 +1515,8 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The architecture style of Adisham Hall is Tudor and Jacabian. It was constructed from 1927 to 1931 and is located on St. Benedict's Monastery in Haputale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id2" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">Adisham Hall is located at St Benedict's Monastery, Adisham, Haputale, Sri Lanka. Work on Adisham Hall, in the architectural style of "Tudor and Jacobean", began in 1927 and finished in 1931.</lex>
+      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The architecture style of Adisham Hall is Tudor and Jacabian. It was constructed from 1927 to 1931 and is located on St. Benedict's Monastery in Adisham, Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">Adisham Hall is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka. Work on Adisham Hall, in the architectural style of "Tudor and Jacobean", began in 1927 and finished in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id68" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1573,7 +1573,7 @@
         <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located at Haputale, Sri Lanka. The leader of Sri Lanka is Ranil Wickremesinghe, its capital is Sri Jayawardenepura Kotte, and the official language is Tamil.</lex>
-      <lex comment="good" lid="Id2" error_1="Adisham Hall">Admisham Hall is located at Haputale, Sri Lanka. Sri Lanka's leader is called Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte, people there speak Tamil language.</lex>
+      <lex comment="good" lid="Id2" error_1="Adisham Hall">Adisham Hall is located at Haputale, Sri Lanka. Sri Lanka's leader is called Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte, people there speak Tamil language.</lex>
     </entry>
     <entry category="Building" eid="Id70" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1641,7 +1641,7 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Haputale, Sri Lanka" error_2="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The address of Adisham Hall is, St Benedict's Monastery, Adisham, Haputhale, Sri Lanka. Construction of the building, which has the architectural style'Tudor Revival', commenced in 1927 and was completed in 1931.</lex>
+      <lex comment="good" lid="Id1" error_1="Haputale, Sri Lanka" error_2="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputale, Sri Lanka. Construction of the building, which has the architectural style 'Tudor Revival', commenced in 1927 and was completed in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id73" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1677,7 +1677,7 @@
         <mtriple>Akita,_Akita | country | Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Brazilians in Japan">The Akita Museum of Art is located in Akita, Akita; Akita Prefecture, Japan, where the leader is Taro Aso and has a Brazilian ethnic group.</lex>
+      <lex comment="good" lid="Id1" error_1="Brazilians in Japan">The Akita Museum of Art is located in Akita, Akita; Akita Prefecture, Japan, where the leader is Taro Aso, has a Brazilian ethnic group.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is found in Akita, Akita Prefecture, Japan where the leader is Taro Aso and one of the ethnic groups are the Brazilians.</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. The leader of Japan is Tarō Asō and the Brazilians in Japan are an ethnic group found in the country.</lex>
     </entry>
@@ -1857,7 +1857,7 @@
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akihito" error_2="Vietnamese people in Japan">The Akita Museum of Art is in Akita, Akita, part of the Akita Prefecture in Japan. Akhito is the Emperor of Japan whose ethnic groups include the Vietnamese.</lex>
+      <lex comment="good" lid="Id1" error_1="Akihito" error_2="Vietnamese people in Japan">The Akita Museum of Art is in Akita, Akita, part of the Akita Prefecture in Japan. Akihito is the Emperor of Japan whose ethnic groups include the Vietnamese.</lex>
     </entry>
     <entry category="Building" eid="Id84" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1953,7 +1953,7 @@
         <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall is owned by the College of William and Mary and was designed by the architect Robert A M Stern. It is located at 101 Ukrop Way, Williamsburg, Virginia and was completed on 1 June 2009.</lex>
-      <lex comment="good" lid="Id2" error_1="College of William &amp; Mary">The Alan B Miller Hall's location is 101 Ukrop Way, Williamsburg, Virginia. It was designed by Robert A.M. Stern and was completed on 1 June 2009.</lex>
+      <lex comment="good" lid="Id2" error_1="College of William &amp; Mary">The Alan B Miller Hall's location is 101 Ukrop Way, Williamsburg, Virginia. It was designed by Robert A.M. Stern and was completed on 1 June 2009. Its owner is the College of William and Mary.</lex>
       <lex comment="good" lid="Id3">The College of William and Mary is the owner of the Alan B. Miller Hall, 101 Ukrop Way, Williamsburg, Virginia. Robert A.M. Stern was the architect for the Hall, which was completed on June 1st, 2009.</lex>
     </entry>
     <entry category="Building" eid="Id89" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2039,7 +2039,7 @@
         <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
         <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Amdavad ni Gufa" error_2="Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road">Amdavad, completed in 1995, is located in Ahmedabad, Gujaret, India, at Lalbhai Dalpatbhal Campus, near CEPT University, opp. Gujarat University, University Row.</lex>
+      <lex comment="good" lid="Id1" error_1="Amdavad ni Gufa" error_2="Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road">Amdavad ni Gufa, completed in 1995, is located in Ahmedabad, Gujaret, India, at Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road.</lex>
       <lex comment="good" lid="Id2">The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road, Gujarat, Ahmedabad, India. Amdavad ni Gufa was completed in 1995.</lex>
     </entry>
     <entry category="Building" eid="Id91" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2347,7 +2347,7 @@
         <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Sri Jayawardenepura Kotte" error_2="Sri Lankan rupee">Ampara Hospital is located in Eastern Province of Sri Lanka: which is led by Ranil Wickremesinghe, has the rupee as currency and the capital is Sri Jayawardenepura.</lex>
+      <lex comment="good" lid="Id1" error_1="Sri Jayawardenepura Kotte" error_2="Sri Lankan rupee">Ampara Hospital is located in Eastern Province of Sri Lanka: which is led by Ranil Wickremesinghe, has the rupee as currency and the capital is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Sri Lanka is led by Ranil Wickremesinghe, has the capital of Sri Jayawardenepura Kotte and uses the Sri Lankan rupee as currency. It is the location for the Ampara Hospital in the Eastern Province state.</lex>
       <lex comment="good" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, the country which has the Sri Lankan rupee as its currency and Ranil Wickremesinghe as its leader.</lex>
     </entry>
@@ -2420,7 +2420,7 @@
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds" error_2="Hearst Castle">Architect Julia Morgan was born in California. She has designed many significant buildings, including the Los Angeles Herald Examiner building, the Asilomar Conference Ground and the Asilomar State Beach.</lex>
+      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds" error_2="Hearst Castle">Architect Julia Morgan was born in California. She has designed many significant buildings, including the Los Angeles Herald Examiner building, Hearst Castle, the Asilomar Conference Grounds and the Asilomar State Beach.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was born in California and is the architect of many buildings including the Asilomar Conference Grounds, the Los Angeles Herald Examiner, Hearst Castle and Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id108" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2445,7 +2445,7 @@
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
         <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">The architect of Asilomar Conference Grounds was Julia Morgan but she has two other important buildings on her resume: the Asilomar State Beach and the Riverside Art Musuem., She was born in California and also worked on Hearst Castle.</lex>
+      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">The architect of Asilomar Conference Grounds was Julia Morgan but she has two other important buildings on her resume: the Asilomar State Beach and the Riverside Art Museum. She was born in California and also worked on Hearst Castle.</lex>
       <lex comment="good" lid="Id2">Californian born architect Julia Morgan designed the Asilomar Conference Grounds as well as the significant buildings of the Riverside Art Museum, Hearst Castle and Asilomar State Beach.</lex>
     </entry>
     <entry category="Building" eid="Id109" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2811,7 +2811,7 @@
         <mtriple>Birmingham | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham is led by the City Council and the Labour Party and has the B postcode. It is the hometown of the architect John Madin who designed 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id2" error_1="John Madin">The B postcode area is the postal code of Birmingham, which is led by the UK Labour Party and governed by Birmingham City Council. It is also the hometown of Joh Madin, the architect who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id2" error_1="John Madin">The B postcode area is the postal code of Birmingham, which is led by the UK Labour Party and governed by Birmingham City Council. It is also the hometown of John Madin, the architect who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id3">The governing body of Birmingham (which has the B postcode) is the City Council led by the UK Labour Party. The city is the home town of John Madin, the architect who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id128" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
@@ -2850,7 +2850,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">103 Colmore Row was designed by the architect, John Madin, who was born in Birmingham. With the postcode ''B'', Birmingham is run by Birmingham City Council with Khalid Mahmood as one of its leaders.</lex>
       <lex comment="good" lid="Id2">The governing body of Birmingham is the City Council along with the British politician Khalid Mahmood. The city, which has the B postcode, is the home town of John Madin who was the architect responsible for 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id3" error_1="Birmingham City Council" error_2="John Madin">Birmingham on the B postcode area is governed by the Birmingham council of which Khalid Mahmood is a member. 103 Colmore Row was designed by native son John Maddin.</lex>
+      <lex comment="good" lid="Id3" error_1="Birmingham City Council" error_2="John Madin">Birmingham on the B postcode area is governed by the Birmingham City council of which Khalid Mahmood is a member. 103 Colmore Row was designed by native son John Madin.</lex>
     </entry>
     <entry category="Building" eid="Id130" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3174,7 +3174,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | leaderName | Barack_Obama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Barack Obama" error_2="President of the United States">Washington Dc is the capital of the United States, home to 250 Delaware Avenue, and led by Barak Obama and Joe Biden.</lex>
+      <lex comment="good" lid="Id1" error_1="Barack Obama" error_2="President of the United States">Washington DC is the capital of the United States, home to 250 Delaware Avenue, and led by Barack Obama and Joe Biden. US is a presidential republic.</lex>
     </entry>
     <entry category="Building" eid="Id145" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
