@@ -104,7 +104,7 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tudor and Jacabian">Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor and Jacobean style of architecture.</lex>
+      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka" error_2="Tudor and Jacabian">Adisham Hall in Sri Lanka was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor and Jacobean style of architecture.</lex>
       <lex comment="good" lid="Id2" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka" error_2="Tudor and Jacabian">Construction of Adisham Hall took place between 1927 and 1931 in the architectural style of Tudor and Jacobean. It is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -124,7 +124,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language used in the country is Tamil and the currency is the Sri Lankan Rupee.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Haputale, Sri Lanka. The capital of Sri Lanka is Sri Jayawardenepura Kotte, the language spoken there is Tamil and the currency is the Sri Lankan Rupee.</lex>
-      <lex comment="good" lid="Id3" error_1="Adisham Hall">Adisham Hall is located at Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the currency is the Sri Lankan Rupee and the language used is Tamil.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is located at Haputale, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, where the currency is the Sri Lankan Rupee and the language used is Tamil.</lex>
     </entry>
     <entry category="Building" eid="Id7" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -255,7 +255,7 @@
         <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
         <mtriple>Julia_Morgan | birthPlace | California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">Julia Morgan, who was born in California, designed the Asilomar Conference Grounds, the Los Angeles Herald examiner building, The Riverside Art Museum and Hearst Castle.</lex>
+      <lex comment="good" lid="Id1">Julia Morgan, who was born in California, designed the Asilomar Conference Grounds, the Los Angeles Herald examiner building, The Riverside Art Museum and Hearst Castle.</lex>
       <lex comment="good" lid="Id2">Julia Morgan was an architect born in California. She designed Asilomar Conference Grounds, The Riverside Art Museum, Hearst Castle and the Los Angeles Herald Examiner building.</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -312,7 +312,7 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Romanesque Revival architecture">Asser Levy Public Baths, built in 1904 in a Romanesque Revival style, is located at 23rd Street (Manhattan). The site was added to the National Register of Historic Places on 1980-04-23, with Reference Number 80002709.</lex>
-      <lex comment="good" lid="Id2" error_1="Asser Levy Public Baths">The Asser Levy Public baths are located on 23rd Street in Manhattan and have the Romanesque Revival style of architecture. They were built in 1904 and added to the National Register of Historic Places with the reference number 80002709 on 23 April 1980.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public baths are located on 23rd Street in Manhattan and have the Romanesque Revival style of architecture. They were built in 1904 and added to the National Register of Historic Places with the reference number 80002709 on 23 April 1980.</lex>
       <lex comment="good" lid="Id3" error_1="Romanesque Revival architecture">The Asser Levy Public Baths was built in 1904 in the architectural style of Romanesque Revival, and is located on 23rd Street, Manhattan. The site was added to the National Register of Historic Places on "1980-04-23", with reference number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id16" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">

@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cyril Ramaphosa is one of the leaders of South Africa, which capital is Cape Town. The address, 11 Diagonal Street is located in that country and one of the the ethnic groups is Asian South Africans.</lex>
       <lex comment="good" lid="Id2">Led by Cyril Ramaphosa, South Africa is location of 11 Diagonal Street, has the capital of Cape Town and has an ethnic group of Asian South Africans.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian South Africans">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street, has the ethnic group of Asian South Africans and one of its leaders is Cyril Ramaphosa.</lex>
+      <lex comment="good" lid="Id3">With the capital of Cape Town, South Africa is the location of 11 Diagonal Street, has the ethnic group of Asian South Africans and one of its leaders is Cyril Ramaphosa.</lex>
     </entry>
     <entry category="Building" eid="Id2" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -95,7 +95,7 @@
         <mtriple>Chicago | leaderName | Susana_Mendoza</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">300 North LaSalle is located in Chicago, DuPage County, Illinois, United States where the leader is Susana Mendoza.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">300 North Lasalle is located in Chicago, DuPage County, Illinois, U.S. The leader or Chicago is Susana Mendoza.</lex>
+      <lex comment="good" lid="Id2">300 North Lasalle is located in Chicago, DuPage County, Illinois, U.S. The leader or Chicago is Susana Mendoza.</lex>
       <lex comment="good" lid="Id3">300 North LaSalle is situated in Chicago which is part of the Dupage County in Illinois located in the U.S. Susana Mendoza is currently the leader of Chicago.</lex>
     </entry>
     <entry category="Building" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -112,7 +112,7 @@
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">3 Arena is located in Dublin, the Republic of Ireland, where Críona Ní Dhálaigh was Lord Mayor. The owner of 3Arena is Live Nation Entertainment.</lex>
-      <lex comment="good" lid="Id2" error_1="Live Nation Entertainment">The Lord Mayor of Dublin (Republic of Ireland) is Criona Ni Dhalaigh. Based in Dublin is 3Arena which is owned by Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id2">The Lord Mayor of Dublin (Republic of Ireland) is Criona Ni Dhalaigh. Based in Dublin is 3Arena which is owned by Live Nation Entertainment.</lex>
       <lex comment="good" lid="Id3">the 3Arena, Dublin, Republic of Ireland is owned by Live Nation Entertainment. Críona Ní Dhálaigh was Lord Mayor of Dublin.</lex>
     </entry>
     <entry category="Building" eid="Id7" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -469,7 +469,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa, Ethiopia is home to Addis Ababa Stadium and the Addis Ababa City Hall. The name of the leader in Ethiopia is Mulatu Teshome.</lex>
       <lex comment="good" lid="Id2">Mulatu Teshome is a leader in Ethiopia, a country where Addis Ababa is located and within which is Addis Ababa City Hall and Addis Ababa Stadium.</lex>
-      <lex comment="good" lid="Id3" error_1="Mulatu Teshome">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
+      <lex comment="good" lid="Id3">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa, Ethiopia. Addis Ababa Stadium is part of Addid Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

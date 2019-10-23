@@ -111,7 +111,7 @@
       <modifiedtripleset>
         <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="39500.0 (square metres)">108 St. Georges Terrace has a floor area of 39500.0 square metres.</lex>
+      <lex comment="good" lid="Id1">108 St. Georges Terrace has a floor area of 39500.0 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -508,7 +508,7 @@
       <modifiedtripleset>
         <mtriple>3Arena | height | 28.0 (metres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3Arena">The height of 3Arena is 28 metres.</lex>
+      <lex comment="good" lid="Id1">The height of 3Arena is 28 metres.</lex>
       <lex comment="good" lid="Id2">The height of 3Arena is 28.0 metres.</lex>
       <lex comment="good" lid="Id3">3Arena is 28.0 metres high.</lex>
     </entry>
@@ -531,7 +531,7 @@
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located in Dublin.</lex>
-      <lex comment="good" lid="Id2" error_1="3Arena">3Arena is located in Dublin.</lex>
+      <lex comment="good" lid="Id2">3Arena is located in Dublin.</lex>
       <lex comment="good" lid="Id3">3Arena is located in Dublin.</lex>
     </entry>
     <entry category="Building" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
@@ -795,7 +795,7 @@
       <modifiedtripleset>
         <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Addis Ababa City Hall">Addis Ababa City Hall was completed in 1964.</lex>
+      <lex comment="good" lid="Id1">Addis Ababa City Hall was completed in 1964.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall's completion date was in 1964.</lex>
       <lex comment="good" lid="Id3">Addis Ababa City Hall was completed in 1964.</lex>
     </entry>
@@ -932,7 +932,7 @@
       <modifiedtripleset>
         <mtriple>Adisham_Hall | location | "Haputale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adisham Hall">Adisham Hall is located at Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located at Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is located in Haputale, Sri Lanka.</lex>
       <lex comment="good" lid="Id3">Adisham Hall is in Haputale, Sri Lanka.</lex>
     </entry>
@@ -987,7 +987,7 @@
         <mtriple>Akita_Museum_of_Art | address | "1-4-2 Nakadori"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The address of Akita Museum of Art is "1-4-2 Nakadori".</lex>
-      <lex comment="good" lid="Id2" error_1="Akita Museum of Art">The address of Akita Museum of Art is 142 Nakadori.</lex>
+      <lex comment="good" lid="Id2">The address of Akita Museum of Art is 142 Nakadori.</lex>
     </entry>
     <entry category="Building" eid="Id92" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -998,7 +998,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tadao Ando is the architect who designed the Akita Museum of Art.</lex>
       <lex comment="good" lid="Id2">Tadao Ando is the architect of the Akita Museum of Art.</lex>
-      <lex comment="good" lid="Id3" error_1="Akita Museum of Art">Tadao Ando is the architect of Akita Museum of Art.</lex>
+      <lex comment="good" lid="Id3">Tadao Ando is the architect of Akita Museum of Art.</lex>
     </entry>
     <entry category="Building" eid="Id93" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1424,7 +1424,7 @@
       <modifiedtripleset>
         <mtriple>Asilomar_Conference_Grounds | location | "Asilomar Blvd., Pacific Grove, California"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asilomar Conference Grounds">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id1">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California.</lex>
       <lex comment="good" lid="Id2">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.</lex>
       <lex comment="good" lid="Id3">The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.</lex>
     </entry>
@@ -1907,7 +1907,7 @@
         <mtriple>Gujarat | leaderName | Anandiben_Patel</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anandiben Patel is the leader of Gujarat.</lex>
-      <lex comment="good" lid="Id2" error_1="Gujarat">Anandiben Patel was the leader of Gujarat.</lex>
+      <lex comment="good" lid="Id2">Anandiben Patel was the leader of Gujarat.</lex>
     </entry>
     <entry category="Building" eid="Id177" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2063,7 +2063,7 @@
         <mtriple>John_Madin | hometown | Birmingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Birmingham is the home town of John Madin.</lex>
-      <lex comment="good" lid="Id2" error_1="John Madin">The hometown of John Madin is Birmingham.</lex>
+      <lex comment="good" lid="Id2">The hometown of John Madin is Birmingham.</lex>
     </entry>
     <entry category="Building" eid="Id192" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2103,7 +2103,7 @@
       <modifiedtripleset>
         <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Julia Morgan">Julia Morgan designed significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="good" lid="Id1">Julia Morgan designed significant buildings in Chinatown, San Francisco.</lex>
       <lex comment="good" lid="Id2">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
     </entry>
     <entry category="Building" eid="Id196" shape="(X (X))" shape_type="NA" size="1">
@@ -2116,7 +2116,7 @@
       <modifiedtripleset>
         <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Riverside Art Museum">The Riverside Art Museum is one of Julia Morgan's significant buildings.</lex>
+      <lex comment="good" lid="Id1">The Riverside Art Museum is one of Julia Morgan's significant buildings.</lex>
     </entry>
     <entry category="Building" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2198,7 +2198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Marriott International is based in Bethesda, Maryland.</lex>
       <lex comment="good" lid="Id2">Marriott International is located in Bethesda Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Bethesda, Maryland">The Marriott International is located in Bethesda, Maryland.</lex>
+      <lex comment="good" lid="Id3">The Marriott International is located in Bethesda, Maryland.</lex>
     </entry>
     <entry category="Building" eid="Id205" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2476,7 +2476,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ethnic group of the United States is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">There is an ethnic group of Asian Americans in the United States.</lex>
+      <lex comment="good" lid="Id3">There is an ethnic group of Asian Americans in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id230" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
