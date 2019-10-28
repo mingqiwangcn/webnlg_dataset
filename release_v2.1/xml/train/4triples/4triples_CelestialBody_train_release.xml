@@ -1370,7 +1370,7 @@
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">The German, Walter baade, was born in Preubish Oldendorf, discovered 1036 Ganymed and graduated from the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany" error_2="Preussisch Oldendorf">The German, Walter baade, was born in Preubish Oldendorf, discovered 1036 Ganymed and graduated from the University of Gottingen.</lex>
       <lex comment="good" lid="Id2">Born in Preußisch Oldendorf (Germany), Walter Baade, studied at the University of Gottingen and discovered, 1036 Ganymed.</lex>
       <lex comment="good" lid="Id3" error_1="Germany">Walter Baade, was the one to discover, 1036 Ganymed. His alma mater was the University of Gottingen. He is a German national born in Preussisch Oldendorf.</lex>
     </entry>
@@ -2227,7 +2227,7 @@
         <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria (formerly known as 1928 RQ) has an epoch date of December 31st 2006. It has an orbital period of 179942000.0 and a periapsis of 349206000000.</lex>
-      <lex comment="good" lid="Id2" error_1="179942000.0">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 349,206,000,000.</lex>
+      <lex comment="good" lid="Id2" error_1="179942000.0" error_2="349206000000.0">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 349,206,000,000.</lex>
       <lex comment="good" lid="Id3">1099 Figneria was formerly known as 1928 RQ and has an epoch date of 31 December 2006. It has an orbital period of 179942000.0 and a periapsis measurement of 349206000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

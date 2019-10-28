@@ -546,7 +546,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body, (66391) 1999 KW4, has an apoapsis of 162164091.8388 km and its epoch date is 14 July 2004.</lex>
       <lex comment="good" lid="Id2">66391 1999 KW4 epoch was on 2004-07.14. and its apoapsis is 162164091.8388 kilometres.</lex>
-      <lex comment="good" lid="Id3">199 KW4 has an epoch date of July 14th 2004 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">199 KW4 has an epoch date of July 14th 2004 and an apoapsis of 162164091.8388 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -580,7 +580,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometres and an escape velocity of 0.</lex>
       <lex comment="good" lid="Id2">(66391) 1999 KW4 has an escape velocity of 0 and an apoapsis measurement of 162164091.8388 km.</lex>
-      <lex comment="good" lid="Id3">(66391) 1994 KW4 has an escape velocity of 0 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1994 KW4 has an escape velocity of 0 and an apoapsis of 162164091.8388 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
