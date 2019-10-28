@@ -148,8 +148,8 @@
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Walter Baade was born in the German Empire, died in West Germany and discovered 1036 Ganymed. His Alma mater was the University of Gottingen and Allan Sandage was his doctoral student.</lex>
-      <lex comment="good" lid="Id2" error_1="German Empire">Walter Baade, who discovered 1036 Ganymed, was born in Germany and died in West Germany. He graduated from the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
-      <lex comment="good" lid="Id3" error_1="German Empire">Walter Baade, who was born in Germany and died in West Germany, discovered 1036 Ganymed. Baade's alma mater was the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
+      <lex comment="good" lid="Id2" error_1="German Empire">Walter Baade, who discovered 1036 Ganymed, was born in the German Empire and died in West Germany. He graduated from the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
+      <lex comment="good" lid="Id3" error_1="German Empire">Walter Baade, who was born in the German empire and died in West Germany, discovered 1036 Ganymed. Baade's alma mater was the University of Gottingen and one of his doctoral students was Allan Sandage.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

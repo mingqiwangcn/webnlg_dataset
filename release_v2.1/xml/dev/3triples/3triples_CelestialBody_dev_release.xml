@@ -265,7 +265,7 @@
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body known as 1097 Vicia has a temperature of 171 kelvins, an escape velocity of 0.0112 kilometres per second and an apoapsis of 511592000.0 km.</lex>
-      <lex comment="good" lid="Id2" error_1="0.0112 (kilometrePerSeconds)">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 00112km per sec.</lex>
+      <lex comment="good" lid="Id2" error_1="0.0112 (kilometrePerSeconds)">The celestial body known as 1097 Vicia has an apoapsis of 511592000.0 km, a temperature of 171 kelvins and the escape velocity of 0.0112km per sec.</lex>
       <lex comment="good" lid="Id3">The temperature of 1097 Vicia is 171.0 (kelvins),has an escape velocity of 0.0112 kilometres per second and its apoapsis is 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

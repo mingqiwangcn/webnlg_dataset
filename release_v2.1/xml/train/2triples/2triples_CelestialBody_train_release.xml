@@ -15,7 +15,7 @@
         <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Donal O'Ceallaigh discovered 15788 1993 SB which has an epoch date of March 6th 2006.</lex>
-      <lex comment="good" lid="Id2" error_1="Donal O'Ceallaigh">(15788) 1993 SB's epoch is 6th March 2006 and it was discovered by Donal O Ceallaigh.</lex>
+      <lex comment="good" lid="Id2" error_1="Donal O'Ceallaigh">(15788) 1993 SB's epoch is 6th March 2006 and it was discovered by Donal O'Ceallaigh.</lex>
       <lex comment="good" lid="Id3">(15788) 1993 SB has an epoch date of March 6th 2006 and it was discovered by Donal O'Ceallaigh.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -354,7 +354,7 @@
         <mtriple>(410777)_2009_FD | meanTemperature | 258.0 (kelvins)</mtriple>
         <mtriple>(410777)_2009_FD | apoapsis | 259776702.47055 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="258.0 (kelvins)">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a mean temperature of 358.0 kelvins.</lex>
+      <lex comment="good" lid="Id1" error_1="258.0 (kelvins)">(410777) 2009 FD has an apoapsis of 259776702.47055 kilometres and a mean temperature of 258.0 kelvins.</lex>
       <lex comment="good" lid="Id2">(410777) 2009 FD has a mean temperature of 258 Kelvins and an apoapsis of 259776702.47055 kilometers.</lex>
       <lex comment="good" lid="Id3">The apoapsis of (410777) 2009 FD is 259776702.47055 kilometers and it has a mean temperature of 258.0 kelvins.</lex>
     </entry>
@@ -403,8 +403,8 @@
         <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
         <mtriple>(66063)_1998_RO1 | orbitalPeriod | 360.29 (days)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days.</lex>
-      <lex comment="good" lid="Id2" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
+      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">(66063) 1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days.</lex>
+      <lex comment="good" lid="Id2" error_1="(66063) 1998 RO1">(66063) 1998 RO1 has an epoch date of 4 November 2013 and an orbital period of 360.29 days.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -419,7 +419,7 @@
         <mtriple>(66063)_1998_RO1 | epoch | 2013-11-04</mtriple>
         <mtriple>(66063)_1998_RO1 | periapsis | 41498400000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">1998 RO1 has an epoch date of 4 November 2013 and a periapsis of 41498400000.</lex>
+      <lex comment="good" lid="Id1" error_1="(66063) 1998 RO1">(66063) 1998 RO1 has an epoch date of 4 November 2013 and a periapsis of 41498400000.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1, which has a periapsis measuring 41498400000.0, has the epoch date 13th January 2016.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -454,7 +454,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The mean temperature of (66063) 1998 RO1 is 265.0 kelvins and its apoapsis is 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1 has a mean temperature of 265 kelvins and its apoapsis is 254989570.60815 kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="(66063) 1998 RO1">1998 RO1 has a mean temperature of 265.0 kelvins and an apoapsis of 254989570.60815.</lex>
+      <lex comment="good" lid="Id3" error_1="(66063) 1998 RO1">(66063) 1998 RO1 has a mean temperature of 265.0 kelvins and an apoapsis of 254989570.60815.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -485,7 +485,7 @@
         <mtriple>(66063)_1998_RO1 | minimumTemperature | -71.0 (degreeCelsius)</mtriple>
         <mtriple>(66063)_1998_RO1 | apoapsis | 254989570.60815 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="254989570.60815 (kilometres)">66063 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60816 km.</lex>
+      <lex comment="good" lid="Id1" error_1="254989570.60815 (kilometres)">66063 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60815 km.</lex>
       <lex comment="good" lid="Id2">(66063) 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and its apoapsis is 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id3">(66063) 1998 RO1 has a minimum temperature of -71.0 degrees Celsius and an apoapsis of 254989570.60815 km.</lex>
     </entry>
@@ -546,7 +546,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The celestial body, (66391) 1999 KW4, has an apoapsis of 162164091.8388 km and its epoch date is 14 July 2004.</lex>
       <lex comment="good" lid="Id2">66391 1999 KW4 epoch was on 2004-07.14. and its apoapsis is 162164091.8388 kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">199 KW4 has an epoch date of July 14th 2004 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1999 KW4 has an epoch date of July 14th 2004 and an apoapsis of 162164091.8388 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id32" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -580,7 +580,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometres and an escape velocity of 0.</lex>
       <lex comment="good" lid="Id2">(66391) 1999 KW4 has an escape velocity of 0 and an apoapsis measurement of 162164091.8388 km.</lex>
-      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1994 KW4 has an escape velocity of 0 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1999 KW4 has an escape velocity of 0 and an apoapsis of 162164091.8388 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2063,7 +2063,7 @@
         <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
         <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="6.7 (kilograms)">110 Lydia has a mass of 5.7kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="good" lid="Id1" error_1="6.7 (kilograms)">110 Lydia has a mass of 6.7kg and an apoapsis of 440756000.0 km.</lex>
       <lex comment="good" lid="Id2">110 Lydia has a mass of 6.7 kilograms and an apoapsis of 440756000.0 (kilometres).</lex>
       <lex comment="good" lid="Id3">110 Lydia has a mass of 6.7 kg and an apoapsis of 440756000.0 km.</lex>
     </entry>

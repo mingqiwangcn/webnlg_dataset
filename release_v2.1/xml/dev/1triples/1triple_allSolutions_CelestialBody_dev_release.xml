@@ -42,7 +42,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has a peripsis of 29919600000.0.</lex>
       <lex comment="good" lid="Id2">(66391) 1999 KW4 has a periapsis of 29919600000.0.</lex>
-      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">66391 199 KW4 has a periapsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1999 KW4 has a periapsis of 29919600000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

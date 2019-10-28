@@ -45,7 +45,7 @@
         <mtriple>(66063)_1998_RO1 | escapeVelocity | 0.0999 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66063) 1998 RO1, with the epoch date 2013-11-04, has an escape velocity of 0.0999 km/s.</lex>
-      <lex comment="good" lid="Id2" error_1="(66063) 1998 RO1">The escape velocity of (66063) 1998 R01 is 0.0999 km/sec and its epoch is on the 13th of January 2016.</lex>
+      <lex comment="good" lid="Id2" error_1="(66063) 1998 RO1">The escape velocity of (66063) 1998 RO1 is 0.0999 km/sec and its epoch is on the 13th of January 2016.</lex>
       <lex comment="good" lid="Id3">The epoch of (66063) 1998 RO1 is on the 13th of January 2016 and it has an escape velocity of 0.0999 kilometres per second.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -63,7 +63,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The rotation period of (66391) 1999 KW4 is 9953.28 and its epoch date is July 14th 2004.</lex>
       <lex comment="good" lid="Id2">The epoch date for 66391 1999 KW4 is 2004-07.14 and it has a rotation period of 9953.28.</lex>
-      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 199 KW4 which has an epoch date of July 14th 2004 has a rotation period of 9953.28.</lex>
+      <lex comment="good" lid="Id3" error_1="(66391) 1999 KW4">(66391) 1999 KW4 which has an epoch date of July 14th 2004 has a rotation period of 9953.28.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
