@@ -71,7 +71,7 @@
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">German Empire born Walter Baade, who studied at the University of Gottingen, was the discoverer of 1036 Ganymed. One of his doctoral students was Allan Sandage.</lex>
-      <lex comment="good" lid="Id2" error_1="German Empire">1036 Ganymed was discovered by Walter Baade whose alma mater was the University of Gottingen. He had a doctoral student named Allan Sandage. Mr. Baade was born in the German Empire.</lex>
+      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade whose alma mater was the University of Gottingen. He had a doctoral student named Allan Sandage. Mr. Baade was born in the German Empire.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -231,7 +231,7 @@
         <mtriple>1097_Vicia | apoapsis | 511592000.0 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1097 Vicia has a mass of 9.8 kgs, orbital period of 135589000, apoapsis of 511592000, and its epoch is the 31st of December, 2006.</lex>
-      <lex comment="good" lid="Id2" error_1="9.8 (kilograms)">1097 Vicia, with the epoch date December 31st 2006, has a mass of 9.8 kgs, an apoapsis of 511592000.0 km and an orbital period of 135589000.0.</lex>
+      <lex comment="good" lid="Id2">1097 Vicia, with the epoch date December 31st 2006, has a mass of 9.8 kgs, an apoapsis of 511592000.0 km and an orbital period of 135589000.0.</lex>
       <lex comment="good" lid="Id3">The epoch of 1097 Vicia is on 31 December 2016 and has a mass of 9.8kg. The orbital period for 1097 Vicia is 135589000.0 and its apoapsis is 511592000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

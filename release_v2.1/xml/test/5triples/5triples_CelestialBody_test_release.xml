@@ -44,7 +44,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">James Craig Watson, who discovered 101 Helena, originated from Canada and studied at the University of Michigan. He died in Madison, Wisconsin from peritonitis.</lex>
       <lex comment="good" lid="Id2">101 Helena was discovered by James Craig Watson who originated from Canada and graduated from the University of Michigan. He later died of peritonitis in Madison, Wisconsin.</lex>
-      <lex comment="good" lid="Id3" error_1="James Craig Watson">James Craig Watson originates from Canada and died from peritonitis in Madison, Wisconsin. His alma mater was the University of Michigan and he discovered 101 Helena.</lex>
+      <lex comment="good" lid="Id3">James Craig Watson originates from Canada and died from peritonitis in Madison, Wisconsin. His alma mater was the University of Michigan and he discovered 101 Helena.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id3" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -61,7 +61,7 @@
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="German Empire">Walter Baade, born in the German Empire, discovered 1036 Ganymed. Baade died in Gottingen; he was a graduate of the University of Gottingen and Allan Sandage was among his doctoral students.</lex>
+      <lex comment="good" lid="Id1">Walter Baade, born in the German Empire, discovered 1036 Ganymed. Baade died in Gottingen; he was a graduate of the University of Gottingen and Allan Sandage was among his doctoral students.</lex>
       <lex comment="good" lid="Id2">Walter Baade, who had a doctoral student named Allan Sandage, was born in the German Empire and graduated from the University of Gottingen. He discovered 1036 Ganymed and later died in Gottingen.</lex>
       <lex comment="good" lid="Id3">Allan Sandage was a doctoral student of Walter Baade, the discoverer of 1036 Ganymed. Baade was born in the German empire and studied at the University of Gottingen, the city where he died.</lex>
     </entry>
