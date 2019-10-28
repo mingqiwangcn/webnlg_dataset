@@ -440,7 +440,7 @@
       <modifiedtripleset>
         <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">66391 199 KW4 has an apoapsis measurement of 162164091.8388 (kilometres).</lex>
+      <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 (kilometres).</lex>
       <lex comment="good" lid="Id2">(66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometres.</lex>
       <lex comment="good" lid="Id3">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km.</lex>
     </entry>
@@ -491,8 +491,8 @@
       <modifiedtripleset>
         <mtriple>(66391)_1999_KW4 | epoch | 2004-07-14</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">(66391) 199 KW4 has an epoch date of July 14th 2004.</lex>
-      <lex comment="good" lid="Id2">The epoch date for 66391 1999 KW4 is 2004-07.14.</lex>
+      <lex comment="good" lid="Id1">(66391) 1999 KW4 has an epoch date of July 14th 2004.</lex>
+      <lex comment="good" lid="Id2">The epoch date for (66391) 1999 KW4 is 2004-07.14.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id45" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1305,7 +1305,7 @@
         <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria has a periapsis measurement of 349206000000.0.</lex>
-      <lex comment="good" lid="Id2">34920600000 is the periapsis of 1099 Figneria.</lex>
+      <lex comment="good" lid="Id2">349206000000 is the periapsis of 1099 Figneria.</lex>
       <lex comment="good" lid="Id3">The periapsis of 1099 Figneria is 349206000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id117" shape="(X (X))" shape_type="NA" size="1">
@@ -1867,7 +1867,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Preußisch Oldendorf was the birthplace of Walter Baade.</lex>
       <lex comment="good" lid="Id2">Walter Baade was born in Preußisch Oldendorf.</lex>
-      <lex comment="good" lid="Id3">Walter Baade was born in Preubisch Oldendorf.</lex>
+      <lex comment="good" lid="Id3">Walter Baade was born in Preussisch Oldendorf.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

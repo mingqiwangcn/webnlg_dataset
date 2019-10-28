@@ -506,9 +506,9 @@
         <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
         <mtriple>(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">66391 199 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and an average speed of 37.16 kilometres per second.</lex>
-      <lex comment="good" lid="Id2">1999 KW4 has an apoapsis of 162164091.8388 km and its average speed is 37.16 km per second.</lex>
-      <lex comment="good" lid="Id3">66391 199 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) with an average speed of 37.16 km per second.</lex>
+      <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and an average speed of 37.16 kilometres per second.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an apoapsis of 162164091.8388 km and its average speed is 37.16 km per second.</lex>
+      <lex comment="good" lid="Id3">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) with an average speed of 37.16 km per second.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -528,8 +528,8 @@
         <mtriple>(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometres and a density of 2.0 gram per cubic centimetres.</lex>
-      <lex comment="good" lid="Id2">66391 199 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and a density of 2.0 grams per cubic centimetre.</lex>
-      <lex comment="good" lid="Id3">66391 199 KW4 has an apoapsis measurement of 162164091.8388 km and a density of 2.0 grams per cubic centimetre.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and a density of 2.0 grams per cubic centimetre.</lex>
+      <lex comment="good" lid="Id3">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 km and a density of 2.0 grams per cubic centimetre.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -562,8 +562,8 @@
         <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has a peripsis of 29919600000.0 and an epoch date of 2004-07.14.</lex>
-      <lex comment="good" lid="Id2">(66391) 199 KW4 has an epoch date of July 14th 2004 and its periapsis is 29919600000.0.</lex>
-      <lex comment="good" lid="Id3">199 KW4 has en epoch date of July 14th 2004 and a peripsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an epoch date of July 14th 2004 and its periapsis is 29919600000.0.</lex>
+      <lex comment="good" lid="Id3">(66391) 1999 KW4 has en epoch date of July 14th 2004 and a peripsis of 29919600000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -579,7 +579,7 @@
         <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has an apoapsis of 162164091.8388 kilometres and an escape velocity of 0.</lex>
-      <lex comment="good" lid="Id2">66391 199 KW4 has an escape velocity of 0 and an apoapsis measurement of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an escape velocity of 0 and an apoapsis measurement of 162164091.8388 km.</lex>
       <lex comment="good" lid="Id3">(66391) 1994 KW4 has an escape velocity of 0 and an apoapsis of 162164091.8388 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -592,7 +592,7 @@
         <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66391) 1999 KW4 has a rotation period of 9953.28 and an apoapsis of 162164091.8388 km.</lex>
-      <lex comment="good" lid="Id2">66391 199 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and a rotation period of 9953.28.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an apoapsis measurement of 162164091.8388 (kilometres) and a rotation period of 9953.28.</lex>
       <lex comment="good" lid="Id3">(66391) 1999 KW4 has a rotation period of 9953.28 and an apoapsis of 162164091.8388 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -985,7 +985,7 @@
         <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baade was born in Preubisch Oldendorf and he discovered the 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id1">Walter Baade was born in Preussisch Oldendorf and he discovered the 1036 Ganymed.</lex>
       <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade, who was born in Preußisch Oldendorf.</lex>
       <lex comment="good" lid="Id3">1036 Ganymed was discovered by Walter Baade, born in Preußisch Oldendorf.</lex>
     </entry>

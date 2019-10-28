@@ -727,9 +727,9 @@
         <mtriple>(66391)_1999_KW4 | orbitalPeriod | 16244700.0</mtriple>
         <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch date for 66391 1999 KW4 is 2004-07.14 and it has an escape velocity of 0. It has an orbital period of 16244700.0 and a periapsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id1">The epoch date for (66391) 1999 KW4 is 2004-07.14 and it has an escape velocity of 0. It has an orbital period of 16244700.0 and a periapsis of 29919600000.0.</lex>
       <lex comment="good" lid="Id2">The asteroid called (66391) 1999 KW4 has an orbital period of 16244700.0 and an epoch date of July 14th 2004. It also, has an escape velocity of 0 and a peripsis of 29919600000.0.</lex>
-      <lex comment="good" lid="Id3">(66391) 199 KW4 has an epoch date of July 14th 2004, an escape velocity of 0, an orbital period of 16244700.0 and a periapsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id3">(66391) 1999 KW4 has an epoch date of July 14th 2004, an escape velocity of 0, an orbital period of 16244700.0 and a periapsis of 29919600000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -750,8 +750,8 @@
         <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
         <mtriple>(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The epoch date for (66391) 199 KW4 is July 14, 2004. Its escape velocity is 0, has a peripsis of 29919600000.0 and an apoapsis of 162164091.8388 km.</lex>
-      <lex comment="good" lid="Id2">(66391) 199 KW4 has an epoch date of July 14th 2004 and an escape velocity of 0. It has a periapsis of 29919600000.0 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id1">The epoch date for (66391) 1999 KW4 is July 14, 2004. Its escape velocity is 0, has a peripsis of 29919600000.0 and an apoapsis of 162164091.8388 km.</lex>
+      <lex comment="good" lid="Id2">(66391) 1999 KW4 has an epoch date of July 14th 2004 and an escape velocity of 0. It has a periapsis of 29919600000.0 and an apoapsis of 162164091.8388 km.</lex>
       <lex comment="good" lid="Id3">The celestial body known as (66391) 1999 KW4 has an apoapsis of 162164091.8388 km and a periapsis of 29919600000.0. It has an escape velocity of 0 and an epoch date of July 14th 2004.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1211,9 +1211,9 @@
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
         <mtriple>Walter_Baade | doctoralStudent | Allan_Sandage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Preubisch Oldendorf, Walter Baade, discovered 1036 Ganymed. His alma mater was the University of Gottingen and his doctoral student was, Allan Sandage.</lex>
+      <lex comment="good" lid="Id1">Born in Preussisch Oldendorf, Walter Baade, discovered 1036 Ganymed. His alma mater was the University of Gottingen and his doctoral student was, Allan Sandage.</lex>
       <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade who was born in Preußisch Oldendorf . His alma mater was the University of Gottingen where he had a doctoral student named Allan Sandage.</lex>
-      <lex comment="good" lid="Id3">1036 Ganymed was discovered by Walter Baade, who was born in Preubisch Oldendorf. The university of Gottingen was where Walter Baade studied and his doctoral student was, Allan Sandage.</lex>
+      <lex comment="good" lid="Id3">1036 Ganymed was discovered by Walter Baade, who was born in Preussisch Oldendorf. The university of Gottingen was where Walter Baade studied and his doctoral student was, Allan Sandage.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id50" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1228,7 +1228,7 @@
         <mtriple>Walter_Baade | deathPlace | West_Germany</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="University of Gottingen">1036 Ganymed was discovered by Walter Baade, who; was born in Preubisch Oldendorf, was a University Gottingen graduate, and died in West Germany.</lex>
+      <lex comment="good" lid="Id1" error_1="University of Gottingen">1036 Ganymed was discovered by Walter Baade, who was born in Preussisch Oldendorf, was a University Gottingen graduate, and died in West Germany.</lex>
       <lex comment="good" lid="Id2">Preußisch Oldendorf was the birthplace of Walter Baade, who discovered 1036 Ganymed. His alma mater was the University of Gottingen and he died in West Germany.</lex>
       <lex comment="good" lid="Id3">1036 Ganymed was discovered by Walter Baade, who was born in Preußisch Oldendorf, went to the University of Gottingen and died in West Germany.</lex>
     </entry>
@@ -1262,9 +1262,9 @@
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Walter Baade, who was born in Preubisch Oldendorf, discovered 1036 Ganymed. He graduated from University of Gottingen and died in Göttingen.</lex>
-      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade whose alma mater was the University of Gottingen. He was born in Preubisch Oldendorf and died in Göttingen.</lex>
-      <lex comment="good" lid="Id3">Walter Baade discovered 1036 Ganymed. He was born in Preubisch Oldendorf and died in Göttingen. His alma mater was the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1">Walter Baade, who was born in Preussisch Oldendorf, discovered 1036 Ganymed. He graduated from University of Gottingen and died in Göttingen.</lex>
+      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade whose alma mater was the University of Gottingen. He was born in Preussisch Oldendorf and died in Göttingen.</lex>
+      <lex comment="good" lid="Id3">Walter Baade discovered 1036 Ganymed. He was born in Preussisch Oldendorf and died in Göttingen. His alma mater was the University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id53" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1372,7 +1372,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Germany">The German, Walter baade, was born in Preubish Oldendorf, discovered 1036 Ganymed and graduated from the University of Gottingen.</lex>
       <lex comment="good" lid="Id2">Born in Preußisch Oldendorf (Germany), Walter Baade, studied at the University of Gottingen and discovered, 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id3" error_1="Germany">Walter Baade, was the one to discover, 1036 Ganymed. His alma mater was the University of Gottingen. He is a German national born in Preubisch Oldendorf.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany">Walter Baade, was the one to discover, 1036 Ganymed. His alma mater was the University of Gottingen. He is a German national born in Preussisch Oldendorf.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id59" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2226,8 +2226,8 @@
         <mtriple>1099_Figneria | orbitalPeriod | 179942000.0</mtriple>
         <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">1099 Figneria (formerly known as 1928 RQ) has an epoch date of December 31st 2006. It has an orbital period of 179942000.0 and a periapsis of 34920600000.</lex>
-      <lex comment="good" lid="Id2" error_1="179942000.0">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 34,920,600,000.</lex>
+      <lex comment="good" lid="Id1">1099 Figneria (formerly known as 1928 RQ) has an epoch date of December 31st 2006. It has an orbital period of 179942000.0 and a periapsis of 349206000000.</lex>
+      <lex comment="good" lid="Id2" error_1="179942000.0">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 349,206,000,000.</lex>
       <lex comment="good" lid="Id3">1099 Figneria was formerly known as 1928 RQ and has an epoch date of 31 December 2006. It has an orbital period of 179942000.0 and a periapsis measurement of 349206000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2286,7 +2286,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The epoch date for 1099 Figneria is 31 December 2006. It has an orbital period of 179942000.0, a periapsis measurement of 349206000000.0 and an apoapsis of 605718000.0 kms.</lex>
       <lex comment="good" lid="Id2">1099 Figneria, has an orbital period of 179942000.0 and an apoapsis of 605718000.0 kilometres. With a periapsis of 349206000000.0, 1099 Figneria, has the epoch date, 31 December 2006.</lex>
-      <lex comment="good" lid="Id3">The epoch date for 1099 Figneria, which has an orbital period of 179942000.0, is 31 December 2006. It has a periapsis measurement of .349206000000.0 and an apoapsis of 605718000.0 km.</lex>
+      <lex comment="good" lid="Id3">The epoch date for 1099 Figneria, which has an orbital period of 179942000.0, is 31 December 2006. It has a periapsis measurement of 349206000000.0 and an apoapsis of 605718000.0 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id94" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
