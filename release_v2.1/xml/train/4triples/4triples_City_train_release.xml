@@ -955,7 +955,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The African Americans are an ethnic group found in the United States which has the capital of Washington DC. The country is the location of Alpharetta, part of Fulton County in Georgia.</lex>
-      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia in the U.S. which has Washington D.C as its capital and is home to Native Americans.</lex>
+      <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia in the U.S. which has Washington D.C as its capital and is home to African Americans.</lex>
       <lex comment="good" lid="Id3">Alpharetta is part of Fulton County in Georgia, United States. The capital of the United States is Washington DC and African Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id34" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1425,7 +1425,7 @@
         <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With a total area of 131.6 square kilometres, Anaheim is a city in Orange County (California), and is led by the California State Assembly.</lex>
+      <lex comment="good" lid="Id1">With a total area of 131.6 square kilometres, Anaheim is a city in Orange County (California, USA), and is led by the California State Assembly.</lex>
       <lex comment="good" lid="Id2">Anaheim, California in Orange County is led by the California State Assembly in the U.S. and is 131.6 square kilometres large.</lex>
       <lex comment="good" lid="Id3">Anaheim, California is part of Orange County, California in the United States. Its total area is 131.6 square kilometres and is led by the California State Assembly.</lex>
     </entry>
@@ -1460,7 +1460,7 @@
         <mtriple>Orange_County,_California | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by the California state Assembly, Anaheim, is a city in Orange County, which is part of the greater Los Angeles area, California, in the United States.</lex>
-      <lex comment="good" lid="Id2">Anaheim is a city in Orange County, California and Orange County California is part of the greater Los Angeles area and Anaheim, California is led by the California State Assembly.</lex>
+      <lex comment="good" lid="Id2">Anaheim is a city in Orange County, California, U.S.A., and Orange County California is part of the greater Los Angeles area and Anaheim, California is led by the California State Assembly.</lex>
       <lex comment="good" lid="Id3">Anaheim, Orange County in California is part of the Greater Los Angeles area within the United States. Anaheim is led by the California State Assembly.</lex>
     </entry>
     <entry category="City" eid="Id59" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -1476,7 +1476,7 @@
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Orange County, is part of the greater Los Angeles area, in California where Anaheim and The United States House of Representative can be found.</lex>
+      <lex comment="good" lid="Id1">Orange County, is part of the greater Los Angeles area, in California where Anaheim and the United States House of Representatives can be found.</lex>
       <lex comment="good" lid="Id2">Anaheim in the United States lies within the Greater Los Angeles area of California. It is part of Orange County and led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id3">Anaheim is located in Orange County which is part of the Greater Los Angeles area of California. The city is led by the United States House of Representatives.</lex>
     </entry>
@@ -1964,7 +1964,7 @@
         <mtriple>Antioch,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
         <mtriple>Antioch,_California | isPartOf | California</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch is located in California and led by the United States House of Representative . It forms part of Contra Costa County and uses the English language which is spoken throughout California.</lex>
+      <lex comment="good" lid="Id1">Antioch is located in California and led by the United States House of Representatives. It forms part of Contra Costa County and uses the English language which is spoken throughout California.</lex>
       <lex comment="good" lid="Id2">The city of Antioch is in California where the English language is spoken. The city is located in part of Contra Costa County and led by the United States House of Representatives.</lex>
     </entry>
     <entry category="City" eid="Id80" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2500,7 +2500,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica is a city in Logan Township, part of Fountain County in Indiana, U.S. Indianapolis is the capital of Indiana.</lex>
       <lex comment="good" lid="Id2">Attica is found in Logan Township, Fountain County, Indiana, United States. Indiana's capital is Indianapolis.</lex>
-      <lex comment="good" lid="Id3">Attica is located in Indiana which has the state capital of Indianapolis. It is part of Logan Township in Fountain County.</lex>
+      <lex comment="good" lid="Id3">Attica is located in Indiana (U.S.A.) which has the state capital of Indianapolis. It is part of Logan Township in Fountain County.</lex>
     </entry>
     <entry category="City" eid="Id100" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2561,9 +2561,9 @@
         <mtriple>Attica,_Indiana | country | United_States</mtriple>
         <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Attica, Indiana is part of Logan Township, Fountain County, Indiana in the U.S.The capital of the United States is Washington DC.</lex>
+      <lex comment="good" lid="Id1">Attica, Indiana is part of Logan Township, Fountain County, Indiana in the U.S. The capital of the United States is Washington DC.</lex>
       <lex comment="good" lid="Id2">Washington DC is the capital of the US where Attica is located. The city is part of Logan Township, Fountain County in the state of Indiana.</lex>
-      <lex comment="good" lid="Id3">Attica is a city in Logan Township which is a part of Fountain County in Indiana. The state is located in the United States.</lex>
+      <lex comment="good" lid="Id3">Attica is a city in Logan Township which is a part of Fountain County in Indiana. The state is located in the United States whose capital is Washington D.C.</lex>
     </entry>
     <entry category="City" eid="Id103" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2953,7 +2953,7 @@
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of Pierce and King counties in Washington state. The state belongs to the United States whose capital is Washington D.C.</lex>
-      <lex comment="good" lid="Id2" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of Pierce and King Counties in Washington state. The state is part of the United States.</lex>
+      <lex comment="good" lid="Id2" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of Pierce and King Counties in Washington state. The state is part of the United States whose capital is Washington D.C.</lex>
     </entry>
     <entry category="City" eid="Id119" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3207,9 +3207,9 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anahem, California is led by the The United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
+      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anaheim, California is led by the The United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives, which is in the U.S. Capitol, leads Anaheim, California where English is spoken.</lex>
-      <lex comment="good" lid="Id3" error_1="United States Capitol">The United States House of Representatives, located at the United States Capital, leads Anaheim, California, where English is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="United States Capitol">The United States House of Representatives, located at the United States Capitol, leads Anaheim, California, where English is spoken.</lex>
     </entry>
     <entry category="City" eid="Id132" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3306,7 +3306,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta, is part of Fulton County, in Georgia and the county seat is Atlanta. The State is part of the United States of America.</lex>
       <lex comment="good" lid="Id2">Alpharetta is part of Fulton County, Georgia, in the United States. And, Atlanta is the county seat of Fulton County, Georgia.</lex>
-      <lex comment="good" lid="Id3">The county of fulton georgia is in atlanta and alpharetta belongs to the county.</lex>
+      <lex comment="good" lid="Id3">The county of Fulton, Georgia, is in Atlanta, U.S., and Alpharetta belongs to the county.</lex>
     </entry>
     <entry category="City" eid="Id137" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3451,7 +3451,7 @@
         <mtriple>Monroe_Township,_Madison_County,_Indiana | country | United_States</mtriple>
         <mtriple>Monroe_Township,_Madison_County,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alexandria and Indoanapolis are located in Indianapolis, the latter being its capital. Alexandria is in Monroe Township (Madison County),Indiana.</lex>
+      <lex comment="good" lid="Id1">Alexandria and Indianapolis are located in Indiana, the latter being its capital. Alexandria is in Monroe Township (Madison County), Indiana, U.S.</lex>
       <lex comment="good" lid="Id2">Alexandria is part of the Monroe Township which is in Madison County, Indiana in the U.S. Indianapolis is the capital of Indiana.</lex>
       <lex comment="good" lid="Id3">In the United States, Alexandria is part of Monroe township, Madison County, in Indiana, where the capital is Indianapolis.</lex>
     </entry>
@@ -3605,7 +3605,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana is part of the Union Township, Madison County in the United States. The capital of Indiana is Indianapolis.</lex>
-      <lex comment="good" lid="Id2">Union Township in Madison County is partly covered by the city of Anderson. It is located in Indiana which has the capital city of Indianapolis.</lex>
+      <lex comment="good" lid="Id2">Union Township in Madison County, U.S., is partly covered by the city of Anderson. It is located in Indiana which has the capital city of Indianapolis.</lex>
       <lex comment="good" lid="Id3">Anderson city, Union Township, Madison County and Indianapolis, Indiana are part of the United States.</lex>
     </entry>
     <entry category="City" eid="Id152" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -3671,9 +3671,9 @@
         <mtriple>New_Jersey | country | United_States</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Newark, New Jersey">Atlantic City, is a part of New Jersey in the U.S. Trenton is the capital of New Jersey.</lex>
-      <lex comment="good" lid="Id2">Three cities found in New Jersey are Newark (the largest), Trenton (state capital), and Atlantic City.</lex>
-      <lex comment="good" lid="Id3">Newark, Trenton, and Atlantic City are part of New Jersey in the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="Newark, New Jersey">Atlantic City is a part of New Jersey in the U.S. Trenton is the capital of New Jersey, and Newark is its largest city.</lex>
+      <lex comment="good" lid="Id2">Three cities found in New Jersey, U.S., are Newark (the largest), Trenton (state capital), and Atlantic City.</lex>
+      <lex comment="good" lid="Id3">Newark, Trenton, and Atlantic City are part of New Jersey in the United States. Trenton is the capital, and Newark is the largest city.</lex>
     </entry>
     <entry category="City" eid="Id156" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3723,8 +3723,8 @@
         <mtriple>Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tarrant County, with the largest city of Fort Worth, is home to Arlington, Texas, United States.</lex>
-      <lex comment="good" lid="Id2">Arlington is in Tarrant County which is part of the state of Texas. The largest city of the county and state is Forth Worth.</lex>
-      <lex comment="good" lid="Id3">Arlington and Fort Worth are both part of Tarrant County, Texas; United States.</lex>
+      <lex comment="good" lid="Id2">Arlington is in Tarrant County which is part of the state of Texas, US. The largest city of the county is Forth Worth.</lex>
+      <lex comment="good" lid="Id3">Arlington and Fort Worth are both part of Tarrant County, Texas, United States.</lex>
     </entry>
     <entry category="City" eid="Id159" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4231,7 +4231,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque, New Mexico, is in the United States and is led by the New Mexico Senate. John Sanchez is the Senate leader there. African Americans are one ethnic group in the U.S.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico is in the United States and is led by The New Mexico Senate and John Sánchez. One of the ethnic groups in the United States are the African Americans.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States is led by the New Mexico Senate and John Sanchez.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States is led by the New Mexico Senate and John Sanchez. African Americans are one of the ethnic groups in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id188" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4248,7 +4248,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by the New Mexico Senate, Albuquerque, New Mexico, is in the United States. The country where Barack Obama is the leader and African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">The New Mexico Senate leads Albuquerque in New Mexico, United States. Barack Obama is the leader of the United States, some other black people live there too.</lex>
-      <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States. is led by the New Mexico Senate. Barack Obama is a leader of the United States.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States, is led by the New Mexico Senate. Barack Obama is a leader of the United States, where African Americans constitute one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id189" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

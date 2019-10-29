@@ -179,7 +179,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, Alabama is in the U.S. An ethnic group in the U.S. are African Americans.</lex>
       <lex comment="good" lid="Id2">The United States include the African Americans among its ethnic groups and is the location of Auburn in Alabama.</lex>
-      <lex comment="good" lid="Id3">One of the cities in Alabama is Auburn. Alabama is part of the U.S. and one of the ethnic groups are Native Americans.</lex>
+      <lex comment="good" lid="Id3">One of the cities in Alabama is Auburn. Alabama is part of the U.S. and one of the ethnic groups are African Americans.</lex>
     </entry>
     <entry category="City" eid="Id10" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -909,7 +909,7 @@
         <mtriple>Amarillo,_Texas | isPartOf | Randall_County,_Texas</mtriple>
         <mtriple>Randall_County,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo is part of both Potter County and Randall County in Texas.</lex>
+      <lex comment="good" lid="Id1">Amarillo is part of both Potter County and Randall County in Texas, US.</lex>
       <lex comment="good" lid="Id2">Amarillo, is part of both Potter County and Randall County, in Texas, in the United States.</lex>
     </entry>
     <entry category="City" eid="Id46" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1269,7 +1269,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, Orange County, California is led by the United States House of Representatives, which is located in Washington DC.</lex>
       <lex comment="good" lid="Id2">Anaheim, California is in Orange County, California and is led by the U.S. House of Representatives which is located in Washington, D.C.</lex>
-      <lex comment="good" lid="Id3" error_1="Anaheim, California" error_2="Orange County, California">The United States House of Representatives is located in Washington D.C. and at Anaheim orange county CA.</lex>
+      <lex comment="good" lid="Id3" error_1="Anaheim, California" error_2="Orange County, California">The United States House of Representatives is located in Washington D.C., and it represents Anaheim, Orange County, CA.</lex>
     </entry>
     <entry category="City" eid="Id68" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1326,8 +1326,8 @@
         <mtriple>California_State_Assembly | isPartOf | California_State_Legislature</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, located in California, is led by the California State Assembly which is part of the California State Legislature.</lex>
-      <lex comment="good" lid="Id2">Anaheim, California is led by the California State Assembly, which is part of the California State Legislature.</lex>
+      <lex comment="good" lid="Id1">Anaheim, located in California, USA, is led by the California State Assembly which is part of the California State Legislature.</lex>
+      <lex comment="good" lid="Id2">Anaheim, California, US is led by the California State Assembly, which is part of the California State Legislature.</lex>
       <lex comment="good" lid="Id3">The California State Assembly (part of the California State Legislature), leads Anaheim, California, in the United States.</lex>
     </entry>
     <entry category="City" eid="Id72" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1448,7 +1448,7 @@
         <mtriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</mtriple>
         <mtriple>Anderson,_Indiana | isPartOf | "Adams, Fall Creek, Lafayette, Richland, Union"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anderson is part of Adams Fall Creek, Lafayette, Richland, Union and Fall Creek Township, which are located in Madison County, Indiana.</lex>
+      <lex comment="good" lid="Id1">Anderson is part of Adams Fall Creek, Lafayette, Richland, Union and Fall Creek Township in the U.S., which are located in Madison County, Indiana.</lex>
       <lex comment="good" lid="Id2">Anderson, Indiana is part of Fall Creek Township and Adams Fall Creek, Lafayette, Richland, Madison County, Union, United States.</lex>
       <lex comment="good" lid="Id3">Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana and Adams Fall Creek, Lafayette, Richland, Union which is in the United States.</lex>
     </entry>
@@ -2028,7 +2028,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington is located in Tarrant County, Texas whose county seat is Fort Worth in the United States.</lex>
       <lex comment="good" lid="Id2">Arlington in the United States is part of Tarrant County in Texas where the county seat is Fort Worth.</lex>
-      <lex comment="good" lid="Id3">Arlington is part of Tarrant County, Texas, where the county seat is Fort Worth.</lex>
+      <lex comment="good" lid="Id3">Arlington is part of Tarrant County, Texas, USA, where the county seat is Fort Worth.</lex>
     </entry>
     <entry category="City" eid="Id109" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2476,7 +2476,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Attica in the United States is part of Indiana where the capital is Indianapolis.</lex>
       <lex comment="good" lid="Id2">Attica, Indiana is in the United States. Indiana's capital is Indianapolis.</lex>
-      <lex comment="good" lid="Id3">Attica, Indiana is in the United Sates. the capital of Indiana is Indianapolis.</lex>
+      <lex comment="good" lid="Id3">Attica, Indiana is in the United States. The capital of Indiana is Indianapolis.</lex>
     </entry>
     <entry category="City" eid="Id133" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3109,7 +3109,7 @@
         <mtriple>Anderson,_Indiana | isPartOf | Indiana</mtriple>
         <mtriple>Indiana | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Indianapolis and Anderson are both located in Indiana, Inited States, the former being its capital.</lex>
+      <lex comment="good" lid="Id1">Indianapolis and Anderson are both located in Indiana, United States, the former being its capital.</lex>
       <lex comment="good" lid="Id2">The city of Anderson is part of Indiana (U.S.), the capital of which is, Indianapolis.</lex>
       <lex comment="good" lid="Id3">Anderson is part of Indiana (United States), the capital of the state is Indianapolis.</lex>
     </entry>
@@ -3537,8 +3537,8 @@
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Amarillo, Texas is in the United States, where Washington D.c. is the capital, and where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">The city of Amirillo, Texas is in the United States where Asian Americans are an ethnic group and Washington D.C. is the capital city.</lex>
+      <lex comment="good" lid="Id1">Amarillo, Texas is in the United States, where Washington D.C. is the capital, and where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">The city of Amarillo, Texas is in the United States where Asian Americans are an ethnic group and Washington D.C. is the capital city.</lex>
     </entry>
     <entry category="City" eid="Id192" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3854,7 +3854,7 @@
         <mtriple>Akron,_Ohio | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Washington, D.C. is the capital of the U.S., where Akron, Ohio is located and Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S. The same country where both Akron, Ohio is, and where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Asian Americans are an ethnic group in the U.S. The same country where Akron, Ohio is, and Washington, D.C. is the capital.</lex>
       <lex comment="good" lid="Id3">Akron, Ohio, is in the United States. The capital of the country is Washington, D.C. And Asian Americans are one of the ethnic groups in that country.</lex>
     </entry>
     <entry category="City" eid="Id212" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
