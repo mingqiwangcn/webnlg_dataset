@@ -125,7 +125,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana, is part of the Anderson Township and Fall Creek Township, Madison County in Indiana, U.S. Anderson has 523.9 people per square kilometer and an area of 107.43 square kilometres.</lex>
       <lex comment="good" lid="Id2">Anderson is part of Fall Creek Township, Madison County, Indiana in he U.S. Anderson is 107.43 square kilometres large and has 523.9 residents for every square kilometre.</lex>
-      <lex comment="good" lid="Id3" error_1="Anderson Township, Madison County, Indiana" error_2="Anderson, Indiana" error_3="Fall Creek Township, Madison County, Indiana">Located in the United States, in Madison County is Anderson, in Fall Creek Township, Anderson, part of Anderson Township, has an area of 107.43 square kilometres and a population density of 523.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id3" error_1="Anderson Township, Madison County, Indiana" error_2="Anderson, Indiana" error_3="Fall Creek Township, Madison County, Indiana">Located in the United States, Indiana, in Madison County is Anderson, in Fall Creek Township. Anderson, part of Anderson Township, has an area of 107.43 square kilometres and a population density of 523.9 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -200,9 +200,9 @@
         <mtriple>Attica,_Indiana | isPartOf | Logan_Township,_Fountain_County,_Indiana</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Logan Township, Fountain County, Indiana">Attica, part of Logan Township, Indiana, United States, lies 166 above sea level and has a population density of 783.1 people for each of its 4.14 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="Logan Township, Fountain County, Indiana" error_2="United States">Attica, located in Logan Township Indiana, is 166 ft above sea level. It has a population density of 783.1, and is 4.14 square km.</lex>
-      <lex comment="good" lid="Id3" error_1="783.1 (inhabitants per square kilometre)">Attica is part of Logan Township, Fountain County, Indiana, U.S. and is 166m a.s.l. Attica in Indiana, has a total area of 4.14 square kilometres and a population density of 781.1 per Sq. Km.</lex>
+      <lex comment="good" lid="Id1" error_1="Logan Township, Fountain County, Indiana">Attica, part of Logan Township, Fountain County, Indiana, United States, lies 166 above sea level and has a population density of 783.1 people for each of its 4.14 square kilometres.</lex>
+      <lex comment="good" lid="Id2" error_1="Logan Township, Fountain County, Indiana" error_2="United States">Attica, located in Logan Township, Fountain County, Indiana, U.S.A., is 166 ft above sea level. It has a population density of 783.1, and is 4.14 square km.</lex>
+      <lex comment="good" lid="Id3" error_1="783.1 (inhabitants per square kilometre)">Attica is part of Logan Township, Fountain County, Indiana, U.S. and is 166m a.s.l. Attica in Indiana, has a total area of 4.14 square kilometres and a population density of 783.1 per Sq. Km.</lex>
     </entry>
     <entry category="City" eid="Id10" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -287,7 +287,7 @@
         <mtriple>Auburn,_Washington | populationDensity | 914.8 (inhabitants per square kilometre)</mtriple>
         <mtriple>Auburn,_Washington | areaTotal | 77.41 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="77.41 (square kilometres)">The population density of Auburn is 914.8 person for each of its 77.21 square kilometres. Auburn forms part of King County and Pierce County, both of Washington, United States.</lex>
+      <lex comment="good" lid="Id1" error_1="77.41 (square kilometres)">The population density of Auburn is 914.8 person for each of its 77.41 square kilometres. Auburn forms part of King County and Pierce County, both of Washington, United States.</lex>
       <lex comment="good" lid="Id2">Auburn is part of both King County and Pierce County in Washington which is located in the United States. It has a population density of 914.8 inhabitants per sq km and covers a total area of 77.41 sq kms.</lex>
       <lex comment="good" lid="Id3">Auburn is part of Pierce County and King County, Washington, U.S. The population density of Auburn is 914.8 inhabitants per sq km. and the total area is 77.41 sq kms.</lex>
     </entry>
@@ -482,7 +482,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Americans are the people occupying the US and one of the ethnic groups are the African Americans. English is the language spoken in the US. Angola is in Steuben County, Indiana, which is part of the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Angola, Indiana" error_2="Steuben County, Indiana">Angola, is in Steuben County, in the United States Where English is spoken, the inhabitants are Americans, and one of the ethnic groups, is African Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Angola, Indiana" error_2="Steuben County, Indiana">Angola, is in Steuben County, Indiana, in the United States where English is spoken, the inhabitants are Americans, and one of the ethnic groups, is African Americans.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>

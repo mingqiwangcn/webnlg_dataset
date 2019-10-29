@@ -249,7 +249,7 @@
         <mtriple>Akron,_Ohio | areaTotal | 161.54 (square kilometres)</mtriple>
         <mtriple>Akron,_Ohio | areaCode | 234, 330</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.88 (square kilometres)">Akron, Ohio has 1239.3 inhabitants per square km, it is 161.54 square kilometres, 306.0 above sea level, there is .99 square km of water and the area codes are 234 and 330.</lex>
+      <lex comment="good" lid="Id1" error_1="0.88 (square kilometres)">Akron, Ohio has 1239.3 inhabitants per square km, it is 161.54 square kilometres, 306.0 above sea level, there is .88 square km of water and the area codes are 234 and 330.</lex>
       <lex comment="good" lid="Id2">Akron, Ohio lies 306.0 above sea level and has the area codes of 234 and 330. It has a total area of 161.54 sq km of which 0.88 sq km is water, and a population density of 1239.3 inhabitants per sq km.</lex>
       <lex comment="good" lid="Id3" error_1="0.88 (square kilometres)">Akron, Ohio with the area codes 234 and 330, have a total area of 161.54 square kilometres and has a population density of1239.3 inhabitants per square kilometre. Its water has a total area of .88 sq. km and it is located at 306.0 above sea level.</lex>
     </entry>
@@ -519,8 +519,8 @@
         <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.54 (square kilometres)" error_2="64.008">With a total area of 45.97 Sq Km, Albany (Oregon), has a population density of, 1104.1 inhabitants per square kilometre. Albany; is 64,008 metres above sea level, has a water area of 0,54 square kilometres, and the area codes, 541 and 458.</lex>
-      <lex comment="good" lid="Id2">At 64.008 metres above sea level, Albany, Oregon, has a water area pf 0.54 square kilometres. Albany; has a total area of 45.97 sq kms, a population density of 1104.1 inhabitants per square kilometre, and the are codes, 541 and 458.</lex>
+      <lex comment="good" lid="Id1" error_1="0.54 (square kilometres)" error_2="64.008">With a total area of 45.97 Sq Km, Albany (Oregon) has a population density of 1104.1 inhabitants per square kilometre. Albany is 64,008 metres above sea level, has a water area of 0,54 square kilometres, and the area codes, 541 and 458.</lex>
+      <lex comment="good" lid="Id2">At 64.008 metres above sea level, Albany, Oregon, has a water area pf 0.54 square kilometres. Albany has a total area of 45.97 sq kms, a population density of 1104.1 inhabitants per square kilometre, and the are codes, 541 and 458.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -727,7 +727,7 @@
         <mtriple>Madison_County,_Indiana | largestCity | Anderson,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria, Indiana, is part of Madison County, where Anderson is the largest city. Indianapolis is the capital of Indiana, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Anderson, Indiana">Alexandria is the largest city in Madison County, Indiana. Indiana is in the US and its capital is Indianapolis.</lex>
+      <lex comment="good" lid="Id2" error_1="Anderson, Indiana">Anderson is the largest city in Madison County, Indiana, where Alexandria is located. Indiana is in the US and its capital is Indianapolis.</lex>
       <lex comment="good" lid="Id3">Alexandria, Indiana, is part of Madison County, the largest city of which, is Anderson. Alexandria is located in Indiana, where the capital is Indianapolis, in the United States.</lex>
     </entry>
     <entry category="City" eid="Id28" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1006,7 +1006,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
         <mtriple>Texas | capital | Austin,_Texas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Potter County, Texas">Amarillo and Austin (capital of TX), are located in, spanish speaking, Texas, within the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="Potter County, Texas">Amarillo, Potter County, and Austin (capital of TX), are located in, Spanish speaking, Texas, within the United States.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County in Texas, United States, where Spanish is spoken and Austin is the capital.</lex>
     </entry>
     <entry category="City" eid="Id37" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
@@ -1196,7 +1196,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Texas, which is part of the United States, where the capital is Washington DC. Texas is the location of Amarillo, which is in Potter County.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County in the state of Texas, the language spoken is english because its located in the U.S together with the Capital, Washington DC.</lex>
-      <lex comment="good" lid="Id3" error_1="Amarillo, Texas" error_2="Potter County, Texas" error_3="Texas">Washington D.C. is the capital of the U.S. where there is a state called TX that has a county called potter and a city called amarillo and english is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="Amarillo, Texas" error_2="Potter County, Texas" error_3="Texas">Washington D.C. is the capital of the U.S. where there is a state called Texas that has a county called Potter and a city called Amarillo and English is spoken.</lex>
     </entry>
     <entry category="City" eid="Id47" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1214,7 +1214,7 @@
         <mtriple>Amarillo,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is in Potter County, Texas where English is spoken. It is in the US, whose capital is Washington DC.</lex>
-      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">Ammarillo is in Potter County, Texas, where English is spoken. Texas is in the US whose capital is Washington DC.</lex>
+      <lex comment="good" lid="Id2" error_1="Amarillo, Texas">Amarillo is in Potter County, Texas, where English is spoken. Texas is in the US whose capital is Washington DC.</lex>
       <lex comment="good" lid="Id3">Amarillo, Texas is in Potter County which is located in the United States, where English is spoken. The United States capital is Washington, D.C.</lex>
     </entry>
     <entry category="City" eid="Id48" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -1310,7 +1310,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Anaheim is located in Orange County which is part of the Greater Los Angeles area in California in the United States. It has a total area of 131.6 sq km. The U.S. is led by the President of the United States.</lex>
       <lex comment="good" lid="Id2">Anaheim, California is in Orange County (Greater Los Angeles area) in the United States. The U.S. is led by the president and Anaheim covers an area of 131.6 square kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="Greater Los Angeles Area">Anaheim is in Orange County, Los Angeles, California, United States, where the leader is called the President of the United States. The total area for Anaheim is 131.6 square kilometres.</lex>
+      <lex comment="good" lid="Id3" error_1="Greater Los Angeles Area">Anaheim is in Orange County, Greater Los Angeles Area, California, United States, where the leader is called the President of the United States. The total area for Anaheim is 131.6 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id53" shape="(X (X) (X (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1421,7 +1421,7 @@
         <mtriple>California_State_Assembly | location | California_State_Capitol</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is governed by the California State Assembly, which is located in the California State Capitol. Chinese is one of the languages used in California, which is where the Tom Tait led city of Anaheim is situated.</lex>
-      <lex comment="good" lid="Id2" error_1="California State Capitol">The California State Assembly, (located in the state's capital) and Tom Tait, lead (chinese speaking) Anaheim, California.</lex>
+      <lex comment="good" lid="Id2" error_1="California State Capitol">The California State Assembly (located in the state's capitol) and Tom Tait lead (chinese speaking) Anaheim, California.</lex>
       <lex comment="good" lid="Id3">Anaheim, California is led by Tom Tait and the California State Assembly in the California State Capitol. Chinese is spoken there.</lex>
     </entry>
     <entry category="City" eid="Id59" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1477,8 +1477,8 @@
         <mtriple>United_States_House_of_Representatives | isPartOf | United_States_Congress</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="English language">Tom Tait is the leader of Anaheim, California. The United States House of Representatives is part of the United States Congress which leads Anaheim.</lex>
-      <lex comment="good" lid="Id2">The United States House of Representatives is part of the United States Congress in The United States, where they speak English. The United States House of Representatives leads Anaheim, California, along with Tom Tait.</lex>
+      <lex comment="good" lid="Id1" error_1="English language">Tom Tait is the leader of Anaheim, California. The United States House of Representatives, which leads Anaheim, is part of the United States Congress. One of the languages spoken in the U.S. is English.</lex>
+      <lex comment="good" lid="Id2">The United States House of Representatives is part of the United States Congress in the United States, where they speak English. The United States House of Representatives leads Anaheim, California, along with Tom Tait.</lex>
     </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1617,7 +1617,7 @@
         <mtriple>Democratic_Party_(United_States) | headquarter | South_Capitol_Street</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson in the United States is part of both Union and Anderson Townships, Madison County, Indiana. It is led by the US Democratic Party which has headquarters on South Capitol Street.</lex>
-      <lex comment="good" lid="Id2" error_1="South Capitol Street" error_2="Union Township, Madison County, Indiana">Anderson, Township of Madison County, Indiana is in the United States. It's led by the Democratic Party which has its American headquarters on Capitol Street.</lex>
+      <lex comment="good" lid="Id2" error_1="South Capitol Street" error_2="Union Township, Madison County, Indiana">Anderson, Anderson and Union Townships of Madison County, Indiana is in the United States. It's led by the Democratic Party which has its American headquarters on South Capitol Street.</lex>
       <lex comment="good" lid="Id3">Anderson, part of both Union Township and Anderson Township, is in Madison County, Indiana, in the United States. Anderson is led by the Democratic Party of the U.S., the headquarters of which, are at South Capitol Street.</lex>
     </entry>
     <entry category="City" eid="Id69" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1637,7 +1637,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson Indiana is part of Union and Anderson Township in Madison County Indiana within the United states is led by the Democratic party and its headquarters are in Washington D.C.</lex>
       <lex comment="good" lid="Id2">Part of Anderson Township, Indiana is part of the Union Township, Madison County, Indiana, in the United States. Anderson, is led by the U.S. Democratic Party, which is headquartered in Washington, D.C.</lex>
-      <lex comment="good" lid="Id3" error_1="Union Township, Madison County, Indiana">Anderson, led by the Democratic Party of the US, the headquarters of which are in Washington D.C. in the United States. Anderson, is part of Anderson Township, Madison County, in Indiana.</lex>
+      <lex comment="good" lid="Id3" error_1="Union Township, Madison County, Indiana">Anderson is led by the Democratic Party of the US, the headquarters of which are in Washington D.C. in the United States. Anderson is part of Anderson and Union Townships, Madison County, in Indiana.</lex>
     </entry>
     <entry category="City" eid="Id70" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1775,7 +1775,7 @@
         <mtriple>Anderson,_Indiana | elevationAboveTheSeaLevel | 268.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson is located in Madison County in Indiana, whose total area ir 107.43 square kilometers and the elevation above the sea level is 268.0. Its area code is 765 and it has 523.9 people per square kilometer.</lex>
-      <lex comment="good" lid="Id2" error_1="523.9 (inhabitants per square kilometre)">Anderson, Madison County is located in Indiana and has an elevation of 268.0 meters above sea level. Anderson has a total area of 107.43 square kilometres and its population density is 524.9 inhabitants/sq km.</lex>
+      <lex comment="good" lid="Id2" error_1="523.9 (inhabitants per square kilometre)">Anderson, Madison County is located in Indiana and has an elevation of 268.0 meters above sea level. Anderson has a total area of 107.43 square kilometres and its population density is 523.9 inhabitants/sq km.</lex>
     </entry>
     <entry category="City" eid="Id74" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1792,7 +1792,7 @@
         <mtriple>Anderson,_Indiana | areaTotal | 107.43 (square kilometres)</mtriple>
         <mtriple>Anderson,_Indiana | populationDensity | 523.9 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="107.43 (square kilometres)">Anderson which is part of Anderson Township in Madison County, Indiana United states has a total area of 107.42 square kilometres and a population density of 523.9 square kilometres.</lex>
+      <lex comment="good" lid="Id1" error_1="107.43 (square kilometres)">Anderson which is part of Anderson Township in Madison County, Indiana United states has a total area of 107.43 square kilometres and a population density of 523.9 square kilometres.</lex>
       <lex comment="good" lid="Id2">Anderson is part of Anderson Township, Madison County, Indiana in the United States. It has a total area of 107.43 sq km and a population density of 523.9 inhabitants per sq km.</lex>
       <lex comment="good" lid="Id3">Anderson, Indiana, is part of the Anderson Township, Madison County in Indiana, United States, and it has an area of 107.43 square kilometres with a population density of 523.9 inhabitants per square kilometre.</lex>
     </entry>
@@ -1918,7 +1918,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ann Arbor, Michigan is part of Washtenaw County, United States. Arabic is spoken in Michigan and the capital is Lansing.</lex>
       <lex comment="good" lid="Id2">Ann Arbor is part of Washtenaw County in Michigan located in the United States. The capital of Michigan is Lansing and Arabic is a language found there.</lex>
-      <lex comment="good" lid="Id3" error_1="Lansing, Michigan">Washtenaw County, Michigan is in the United States and Ann Arbor is part of it. Arabic is a language found in Michigan and Arabic is one of the languages spoken there.</lex>
+      <lex comment="good" lid="Id3" error_1="Lansing, Michigan">Washtenaw County, Michigan is in the United States and Ann Arbor is part of it. Lansing is the capital city of Michigan and Arabic is one of the languages spoken there.</lex>
     </entry>
     <entry category="City" eid="Id79" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1942,9 +1942,9 @@
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
         <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washtenaw County, Michigan">Ann Arbor forms part of Washentaw County in Michigan, United States. Detroit is the largest city in Michigan, where the capital is Lansing.</lex>
+      <lex comment="good" lid="Id1" error_1="Washtenaw County, Michigan">Ann Arbor forms part of Washtenaw County in Michigan, United States. Detroit is the largest city in Michigan, where the capital is Lansing.</lex>
       <lex comment="good" lid="Id2">Ann Arbor is in Washtenaw County, Michigan, United States. The largest city in Michigan is Detroit, while the state capital is Lansing.</lex>
-      <lex comment="good" lid="Id3" error_1="Ann Arbor, Michigan">Ann Arbr is in Michigan, Washtenaw County US. The capital of Michigan is Lansing and Detroit is the largest city.</lex>
+      <lex comment="good" lid="Id3" error_1="Ann Arbor, Michigan">Ann Arbor is in Michigan, Washtenaw County US. The capital of Michigan is Lansing and Detroit is the largest city.</lex>
     </entry>
     <entry category="City" eid="Id80" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1968,7 +1968,7 @@
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
         <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washtenaw County, Michigan">Ann Arbor is part of Washentaw County in Michigan, United States. Detroit is the largest city in Michigan and the state capital is Lansing.</lex>
+      <lex comment="good" lid="Id1" error_1="Washtenaw County, Michigan">Ann Arbor is part of Washtenaw County in Michigan, United States. Detroit is the largest city in Michigan and the state capital is Lansing.</lex>
       <lex comment="good" lid="Id2">Ann Arbor, Washtenaw County, Detroit are found in Michigan which is in the United States and whose capital is Lansing.</lex>
       <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan which is in the United States. Ann Arbor is part of Michigan but the largest city is Detroit and the capital is Lansing.</lex>
     </entry>
@@ -2036,7 +2036,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The City Administrator, Christopher Taylor (politician), leads Ann Arbor, Michigan. Ann Arbor, which has a total area of 74.33 square kilometres, has a population density of 1580.7 inhabitants per square kilometre. Its area code is 734.</lex>
       <lex comment="good" lid="Id2">Ann Arbor, in Michigan, has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. Its area code is 734 and it is led by a City Administrator, Christopher Taylor (politician).</lex>
-      <lex comment="good" lid="Id3" error_1="Ann Arbor, Michigan">Ann Arbor has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. The City Administrator, Christopher Taylor, leads Ann Arbor and the area code is 734.</lex>
+      <lex comment="good" lid="Id3" error_1="Ann Arbor, Michigan">Ann Arbor in Michigan has a total area of 74.33 square kilometres and a population of 1580.7 per square kilometre. The City Administrator, Christopher Taylor, leads Ann Arbor and the area code is 734.</lex>
     </entry>
     <entry category="City" eid="Id83" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2441,8 +2441,8 @@
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta, part of Fulton County in Georgia, has 3 area codes - 404, 678 and 470 - and covers an area of 344.9 square kilometres. It has a population density of 1299.0 inhabitants per square kilometre and its total area if 347.1 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="1299.0 (inhabitants per square kilometre)" error_2="344.9 (square kilometres)">Atlanta, in Fulton County, Georgia is 347.1 square kilometres large. It has a 1,299 residents per square kilometre and uses the 404, 678 and 470 area codes.</lex>
-      <lex comment="good" lid="Id3">Part of Fulton County (Georgia), Atlanta has a population density of, 1299.0 inhabitants per square kilometre. Atlanta has a total area of 347.1 square kilometres, yet covers an area of 344.9 square kilometres. Atlanta has the area codes 404, 678, and 470.</lex>
+      <lex comment="good" lid="Id2" error_1="1299.0 (inhabitants per square kilometre)" error_2="344.9 (square kilometres)">Atlanta, in Fulton County, Georgia is 347.1 square kilometres large and has a land area of 344.9 square kilometres. It has 1,299 residents per square kilometre and uses the 404, 678 and 470 area codes.</lex>
+      <lex comment="good" lid="Id3">Part of Fulton County (Georgia), Atlanta has a population density of, 1299.0 inhabitants per square kilometre. Atlanta has a total area of 347.1 square kilometres, yet covers a land area of 344.9 square kilometres. Atlanta has the area codes 404, 678, and 470.</lex>
     </entry>
     <entry category="City" eid="Id95" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2519,7 +2519,7 @@
         <mtriple>United_States | largestCity | New_York_City</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">White Americans are an ethnic group in the United States, where Washington DC is the capital and New York is the largest city. The US is where you will find Atlantic City, which is part of Atlantic County in New Jersey.</lex>
-      <lex comment="good" lid="Id2" error_1="New York City">Atlantic City is in Altlantic County, New Jersey in the United States. Washington DC is the capital of the US and White Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" error_1="New York City">Atlantic City is in Atlantic County, New Jersey in the United States. Washington DC is the capital of the US and White Americans are an ethnic group. The largest city of U.S. is New York.</lex>
       <lex comment="good" lid="Id3">White Americans are an ethnic group within the United States where the largest city is New York City and the capital is Washington, D.C. Atlantic City, New Jersey is in Atlantic County, New Jersey which is found in the United States.</lex>
     </entry>
     <entry category="City" eid="Id98" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2777,7 +2777,7 @@
         <mtriple>Attica,_Indiana | isPartOf | Indiana</mtriple>
         <mtriple>Attica,_Indiana | populationDensity | 783.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="783.1 (inhabitants per square kilometre)">Attica is 166 above sea level, has a pop. density of 183.1 per sq km and an area of 4.14 sq km. It is located in Fountain County, Indiana.</lex>
+      <lex comment="good" lid="Id1" error_1="783.1 (inhabitants per square kilometre)">Attica is 166 above sea level, has a pop. density of 783.1 per sq km and an area of 4.14 sq km. It is located in Fountain County, Indiana.</lex>
       <lex comment="good" lid="Id2">Attica in the state of Indiana is in Fountain County, Indiana. Attica, Indiana has a total area of 4.14 square kilometres, is 166.0 above sea level and has a population density of 783.1 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id108" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3145,7 +3145,7 @@
         <mtriple>Auburn,_Washington | populationDensity | 914.8 (inhabitants per square kilometre)</mtriple>
         <mtriple>Auburn,_Washington | isPartOf | Washington_(state)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="77.41 (square kilometres)">Auburn is located in Pierce County, part of the state of Washington in the United States. It has a total area of 77.4 sq km and has a population density of 914.8 people per sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="77.41 (square kilometres)">Auburn is located in Pierce County, part of the state of Washington in the United States. It has a total area of 77.41 sq km and has a population density of 914.8 people per sq km.</lex>
       <lex comment="good" lid="Id2">Auburn, Pierce County, Washington is located in the United States. Auburn is 77.41 sq km with 914.8 persons per sq km.</lex>
       <lex comment="good" lid="Id3">Auburn is in Pierce County, Washington State, US. Its total area is 77.41 sq kms and its population density is 914.8 per sq km.</lex>
     </entry>
@@ -3230,7 +3230,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">King County is the location of Auburn, part of Pierce County and King County in Washington. The largest city in the latter county is Seattle and all locations are in the United States which has the capital of Washington DC.</lex>
       <lex comment="good" lid="Id2">Seattle is the largest city in King County, in Washington, U.S. and Auburn is part of King County. Auburn is in Pierce County, Washington, United States, whose capital is Washington DC.</lex>
-      <lex comment="good" lid="Id3" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of both Auburn and King (largest city is Seattle) counties, which are located in Washington. The capital of the United States is Washington D.C.</lex>
+      <lex comment="good" lid="Id3" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of both Pierce and King (largest city is Seattle) counties, which are located in Washington. The capital of the United States is Washington D.C.</lex>
     </entry>
     <entry category="City" eid="Id127" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3413,7 +3413,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch, is part of Contra Costa County in California which is part of the San Francisco Bay Area. The city is led by a mayor and Spanish is spoken in the state.</lex>
       <lex comment="good" lid="Id2">Antioch, Contra Costa County is part of the San Francisco Bay Area California and it is led by the Mayor. Spanish is also spoken in the state.</lex>
-      <lex comment="good" lid="Id3" error_1="San Francisco Bay Area">The mayor is the leader of Antioch which is in the San Fransisco Bay Area in Contra Costa County in California and they Spanish is spoken.</lex>
+      <lex comment="good" lid="Id3" error_1="San Francisco Bay Area">The mayor is the leader of Antioch which is in the San Francisco Bay Area in Contra Costa County in California and they Spanish is spoken.</lex>
     </entry>
     <entry category="City" eid="Id136" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3430,7 +3430,7 @@
         <mtriple>Antioch,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="San Francisco Bay Area">The city of Antioch is part of Contra Costa County in the San Francisco Bay in California. Spanish is spoken in that state. Antioch is led by the United States House of Representatives.</lex>
+      <lex comment="good" lid="Id1" error_1="San Francisco Bay Area">The city of Antioch is part of Contra Costa County in the San Francisco Bay Area in California. Spanish is spoken in that state. Antioch is led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id2">Antioch is located in California where the Spanish language is spoken. It is part of Contra Costa County in the San Francisco Bay area and is led by the United States House of Representatives.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County, which in turn, is part of the San Francisco Bay Area, in California, where Spanish is spoken. the United States House of Representatives, is the leader title of Antioch.</lex>
     </entry>
@@ -3532,7 +3532,7 @@
         <mtriple>Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alpharetta is part of Fulton County in Georgia in the United States. Atlanta is the biggest city in Fulton County. African Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlanta">The African Americans are an ethnic group in the United States where Fulton County is found. The County is in the state of Georgia and is where Alpharetta is located.</lex>
+      <lex comment="good" lid="Id2" error_1="Atlanta">The African Americans are an ethnic group in the United States where Georgia state is found. Alpharetta, Fulton County is located there. The largest city of that county is Atlanta.</lex>
     </entry>
     <entry category="City" eid="Id142" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3719,7 +3719,7 @@
         <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
         <mtriple>Texas | largestCity | Houston</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Austin, Texas" error_2="Houston">Arlington (the capital of Texas) is located in tarrant county. Fort Worth is the county seat of tarrant county.</lex>
+      <lex comment="good" lid="Id1" error_1="Austin, Texas" error_2="Houston">Arlington is located in Tarrant county, Texas. Fort Worth is the county seat of that county. The capital of Texas is Austin, and the largest city is Houston.</lex>
       <lex comment="good" lid="Id2">Houston is the largest city in Texas where Arlington is located in Tarrant County. The county seat is Fort Worth and the state capital is Austin.</lex>
     </entry>
     <entry category="City" eid="Id151" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4047,8 +4047,8 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States, which uses the English language, is populated by Americans, including the ethnic group of Native Americans. The city of Albany is located in the country in Dougherty County, Georgia.</lex>
-      <lex comment="good" lid="Id2" error_1="English language">Albany is in Dougherty County, Georgia, US. The people in the US are known as Americans and Native Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia, in the United States. the English speaking country, where Americans live, and where Native Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id2" error_1="English language">Albany is in Dougherty County, Georgia, US. The people in the US are known as Americans and Native Americans are an ethnic group. English is a language used there.</lex>
+      <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia, in the United States, the English speaking country, where Americans live, and where Native Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id168" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4197,7 +4197,7 @@
         <mtriple>Albany,_Oregon | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany is in Benton County, Oregon, United States. Washington DC is the capital of the US, where Americans live and where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">Albany, in Benton County Oregon, is in the U.S. where Washington, D.C. is the capital. People living in the country are known as Americans and it's also home to Native Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Asian Americans">Albany, in Benton County Oregon, is in the U.S. where Washington, D.C. is the capital. People living in the country are known as Americans and it's also home to Asian Americans.</lex>
       <lex comment="good" lid="Id3">The city of Albany is part of Benton County, Oregon, United States. Washington, D.C. is the capital of the United States. The Asian Americans are an ethnic group of the United States but the Americans are the people occupying the U.S.</lex>
     </entry>
     <entry category="City" eid="Id176" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -4236,7 +4236,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albany, Georgia is in the United States where people speak English. The U.S. is home to Americans in general and African Americans.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia, is in the United States, where African Americans are one of the ethnic groups. The people of this English speaking country, are known as Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="English language">Americans is the name given to the inhabitants of the United States. This country is where Albany (in Georgia) is situated. It is also the country where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3" error_1="English language">Americans is the name given to the inhabitants of the United States. This country is where Albany (in Georgia) is situated. It is also the country where African Americans are an ethnic group. They speak English in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id178" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4273,7 +4273,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque is located in New Mexico, United States and is led by the New Mexico Senate. The Senate's leader is John Sanchez and English is the official language of the country. African Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans" error_2="Albuquerque, New Mexico">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Alberquerque is located in New Mexico and one ethnic group is African American.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans" error_2="Albuquerque, New Mexico">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Albuquerque is located in New Mexico and one ethnic group is African American.</lex>
     </entry>
     <entry category="City" eid="Id180" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4424,7 +4424,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Asian Americans are an ethnic group found in the United States, which has Washington DC as its capital. The country is the location of Akron which is led by a Mayor, in Summit County, Ohio.</lex>
       <lex comment="good" lid="Id2">Mayor led Akron, Summit County, Ohio is part of the United States. The U.S. boasts its capital as Washington, D.C. and is home to Asian Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="Mayor">Akron is part of Summit County in Ohio, where the leader is known as the Major. Ohio is a part of the U.S which has a capital of Washington D.C. One of the ethnic groups that resides in the U.S are Asian Americans.</lex>
+      <lex comment="good" lid="Id3" error_1="Mayor">Akron is part of Summit County in Ohio, where the leader is known as the Mayor. Ohio is a part of the U.S which has a capital of Washington D.C. One of the ethnic groups that resides in the U.S are Asian Americans.</lex>
     </entry>
     <entry category="City" eid="Id188" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4443,7 +4443,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asian Americans are an ethnic group in the U.S, where Washington, D.C. is the capital and English is the language spoken. Akron is a part of Summit County, Ohio, United States.</lex>
       <lex comment="good" lid="Id2">The county of Akron is in Summit County, Ohio, United States, where English is spoken. The capital of the U.S. is Washington, D.C and Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans" error_2="English language">Akron, Ohio is in Summity County, which is a city in the United States whose capital is Washington D.C. and Asian American live here.</lex>
+      <lex comment="good" lid="Id3" error_1="Asian Americans" error_2="English language">Akron, Ohio is in Summit County. It is a city in the United States whose capital is Washington D.C., and Asian Americans live here. English is one of the languages used in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id189" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4516,8 +4516,8 @@
         <mtriple>New_Mexico_Senate | leader | John_Sánchez</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="John Sanchez">Jose Sanchez and the New Mexico Senate leads Albuquerque, New Mexico in the United States. Native Americans call the english speaking U.S home.</lex>
-      <lex comment="good" lid="Id2" error_1="English language">Albuquerque is in New Mexico, US where Native Americans are an ethnic group. The New Mexico Senate leads Albuquerque and one if its leaders is John Sanchez.</lex>
+      <lex comment="good" lid="Id1" error_1="John Sanchez">John Sanchez and the New Mexico Senate leads Albuquerque, New Mexico in the United States. Native Americans call the english speaking U.S home.</lex>
+      <lex comment="good" lid="Id2" error_1="English language">Albuquerque is in New Mexico, US where Native Americans are an ethnic group. The New Mexico Senate leads Albuquerque and one of its leaders is John Sanchez. One of the languages spoken in the U.S. is English.</lex>
       <lex comment="good" lid="Id3">John Sánchez, is one of the leaders, in the New Mexico Senate, which leads Albuquerque (New Mexico), in the United States. This English speaking country, has Native Americans as one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id193" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4755,7 +4755,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mayor of Albuquerque">Mayor led Albuquerque, New Mexico is located with in the (Barack Obama led), English speaking United States. The U.S. is home to the Native Americans.</lex>
+      <lex comment="good" lid="Id1" error_1="Mayor of Albuquerque">Mayor led Albuquerque, New Mexico is located within the (Barack Obama led) English-speaking United States. The U.S. is home to the Native Americans.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico is in the Us and led by the Mayor. Barack Obama is the leader of the US where English is spoken and where Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id205" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -4810,8 +4810,8 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque is in New Mexico in the U.S. whose leader is Richard J. Berry of the Albuquerque City Council. English is spoken in the U.S.</lex>
-      <lex comment="good" lid="Id2">Albuquerque, New Mexico is in the United States and is led by Richard J. Berry and the Albuquerque City Council. English is their native language.</lex>
-      <lex comment="good" lid="Id3" error_1="Richard J. Berry">Albuquerque, New Mexico is in the United States where English is spoken and the city council leads the municipality.</lex>
+      <lex comment="good" lid="Id2">Albuquerque, New Mexico is in the United States and is led by Richard J. Berry and the Albuquerque City Council. English is the language used in the U.S.A.</lex>
+      <lex comment="good" lid="Id3" error_1="Richard J. Berry">Albuquerque, New Mexico is in the United States where English is spoken and the city council leads the municipality, along with Richard J. Berry.</lex>
     </entry>
     <entry category="City" eid="Id208" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4847,7 +4847,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Americans is the name given to the people who live in the United States, where English is spoken and where Asian Americans are an ethnic group. The US is home to Angola, which is a city in Indiana.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">Angola is a city in Indiana in the U.S. Americans occupy the U.S. where English is the language spoken. One ethnic group in that country are African Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Asian Americans">Angola is a city in Indiana in the U.S. Americans occupy the U.S. where English is the language spoken. One ethnic group in that country are Asian Americans.</lex>
       <lex comment="good" lid="Id3">Americans live in the U.S. where English is spoken and Asian Americans are an ethnic group. Angola is part of the state of Indiana in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id210" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -4867,7 +4867,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is the language of the United States, where the inhabitants are known as Americans and where Native Americans are an ethnic group. The US is where you will find Angola, which is part of Steuben County, Indiana.</lex>
       <lex comment="good" lid="Id2">The Native Americans are an ethnic group within the United States, where English is the language used and where the inhabitants are known as Americans. The US is the location of Angola, which forms part of Steuben County, Indiana.</lex>
-      <lex comment="good" lid="Id3" error_1="Steuben County, Indiana">Angola, Steaben County, Indiana is part of the United States. The English speaking U.S. is home to Native Americans and Americans.</lex>
+      <lex comment="good" lid="Id3" error_1="Steuben County, Indiana">Angola, Steuben County, Indiana is part of the United States. The English speaking U.S. is home to Native Americans and Americans.</lex>
     </entry>
     <entry category="City" eid="Id211" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5033,7 +5033,7 @@
         <mtriple>United_States | language | English_language</mtriple>
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Albany, Georgia">Barack Obama is the leader of the United States which uses the English language and where one of the ethnic groups are the Asian Americans. The city of Alabama is found in the country in Dougherty County, Georgia.</lex>
+      <lex comment="good" lid="Id1" error_1="Albany, Georgia">Barack Obama is the leader of the United States which uses the English language and where one of the ethnic groups are the Asian Americans. The city of Albany is found in the country in Dougherty County, Georgia.</lex>
       <lex comment="good" lid="Id2">Albany is a city in Dougherty County, Georgia, in the United States. A English speaking country, where Barack Obama is the leader, and where Asian Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia, in the United States. The country; where English is spoken, Barack Obama is the leader, and Asian Americans are one of the ethnic groups.</lex>
     </entry>

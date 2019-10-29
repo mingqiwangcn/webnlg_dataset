@@ -148,7 +148,7 @@
         <mtriple>Fall_Creek_Township,_Madison_County,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson, Indiana, is part of Fall Creek Township, Madison County Indiana, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Anderson, Indiana" error_2="Fall Creek Township, Madison County, Indiana">Anderson, is part of Fall Creek Township, Madison County, in the U.S.</lex>
+      <lex comment="good" lid="Id2" error_1="Anderson, Indiana" error_2="Fall Creek Township, Madison County, Indiana">Anderson is part of Fall Creek Township, Madison County, Indiana in the U.S.</lex>
       <lex comment="good" lid="Id3">Anderson, is part of Fall Creek Township, Madison County, Indiana, in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">

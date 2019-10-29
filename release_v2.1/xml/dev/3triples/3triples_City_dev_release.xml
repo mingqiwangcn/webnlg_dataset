@@ -218,7 +218,7 @@
         <mtriple>Orange_County,_California | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Orange County in California is part of the Greater Los Angeles area, where Anaheim is located in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">Anaheim is a city in Orange County, which is part of the Greater Los Angeles area in California, United States.</lex>
     </entry>
     <entry category="City" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -503,7 +503,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asian Americans">Angola, Indiana is located in the United States where the English language is spoken and the Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" error_1="Asian Americans">Angola, Indiana is located in the United States where the English language is spoken and the Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The United States, where the Asian Americans are an ethnic group, uses the English language and is the location of Angola, Indiana.</lex>
       <lex comment="good" lid="Id3">Asian Americans are an ethnic group in the U.S which is where they speak english and the city Angola, Indiana is located.</lex>
     </entry>
