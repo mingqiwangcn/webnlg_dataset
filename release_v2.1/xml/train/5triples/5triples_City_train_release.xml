@@ -779,7 +779,7 @@
         <mtriple>Alexandria,_Indiana | isPartOf | Madison_County,_Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The US town of Alexandria is part of Madison County, where the county seat is Anderson. Indiana has the capital Indianapolis and is the state where Alexandria is located.</lex>
-      <lex comment="good" lid="Id2" error_1="Indianapolis">The county seat of Madison County is Anderson, Indiana, USA. Alexandria in that county and Indianapolis (capital of Indiana) are both located in Indiana.</lex>
+      <lex comment="good" lid="Id2">The county seat of Madison County is Anderson, Indiana, USA. Alexandria in that county and Indianapolis (capital of Indiana) are both located in Indiana.</lex>
       <lex comment="good" lid="Id3">Alexandria, Madison County, Indiana is in the U.S. The capital of Indiana is Indianapolis and Anderson is the county seat in Madison County.</lex>
     </entry>
     <entry category="City" eid="Id30" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1327,7 +1327,7 @@
         <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is in Orange County, California and is led by the US House of Representatives in the US where Barack Obama is the leader and English is spoken.</lex>
+      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Anaheim is in Orange County, California and is led by the US House of Representatives in the US where Barack Obama is the leader and English is spoken.</lex>
       <lex comment="good" lid="Id2">Barack Obama is the leader of the English speaking United States. The country where Anaheim, in Orange County, California, is located. The United States House of Representatives leads Anaheim.</lex>
     </entry>
     <entry category="City" eid="Id54" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
@@ -2293,7 +2293,7 @@
         <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
         <mtriple>Antioch,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Antioch, in Contra Costa County, California, is led by the U. S. House of Representatives. Contra Costa County is part of the San Francisco Bay area of the state where one of the spoken languages is Vietnamese.</lex>
+      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Antioch, in Contra Costa County, California, is led by the U. S. House of Representatives. Contra Costa County is part of the San Francisco Bay area of the state where one of the spoken languages is Vietnamese.</lex>
       <lex comment="good" lid="Id2">Led by the United States House of Representatives., is Antioch. This city, is part of Contra Costa County, which in turn is part of part of the San Francisco Bay Area, in California. One of the languages spoken in California is Vietnamese.</lex>
     </entry>
     <entry category="City" eid="Id92" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -4273,7 +4273,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque is located in New Mexico, United States and is led by the New Mexico Senate. The Senate's leader is John Sanchez and English is the official language of the country. African Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Albuquerque, New Mexico">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Alberquerque is located in New Mexico and one ethnic group is African American.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans" error_2="Albuquerque, New Mexico">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Alberquerque is located in New Mexico and one ethnic group is African American.</lex>
     </entry>
     <entry category="City" eid="Id180" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4366,7 +4366,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States uses the English language, includes the ethnic group of African Americans and has Barack Obama as a leader. It is also the location of Angola, part of Steuben county in Indiana.</lex>
-      <lex comment="good" lid="Id2">Angola, Indiana is in Steuben County, United States. Barack Obama is a leader of the United States, they speak English and some black people live there.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans">Angola, Indiana is in Steuben County, United States. Barack Obama is a leader of the United States, they speak English and some black people live there.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States which is where English is spoken and Barack Obama is the leader. Angola, Indiana is part of Steuben County in the United States.</lex>
     </entry>
     <entry category="City" eid="Id185" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

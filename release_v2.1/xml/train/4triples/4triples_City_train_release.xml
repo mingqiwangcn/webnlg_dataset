@@ -2776,7 +2776,7 @@
         <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama. It is located in the United States which has African Americans as one of its ethnic groups.</lex>
-      <lex comment="good" lid="Id2">Auburn in Lee County, Alabama in the United States contains the ethnic group of African American.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans">Auburn in Lee County, Alabama in the United States contains the ethnic group of African American.</lex>
     </entry>
     <entry category="City" eid="Id111" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3207,9 +3207,9 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anaheim, California is led by the The United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
+      <lex comment="good" lid="Id1">Anaheim, California is led by the The United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives, which is in the U.S. Capitol, leads Anaheim, California where English is spoken.</lex>
-      <lex comment="good" lid="Id3" error_1="United States Capitol">The United States House of Representatives, located at the United States Capitol, leads Anaheim, California, where English is spoken.</lex>
+      <lex comment="good" lid="Id3">The United States House of Representatives, located at the United States Capitol, leads Anaheim, California, where English is spoken.</lex>
     </entry>
     <entry category="City" eid="Id132" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3671,7 +3671,7 @@
         <mtriple>New_Jersey | country | United_States</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Newark, New Jersey">Atlantic City is a part of New Jersey in the U.S. Trenton is the capital of New Jersey, and Newark is its largest city.</lex>
+      <lex comment="good" lid="Id1">Atlantic City is a part of New Jersey in the U.S. Trenton is the capital of New Jersey, and Newark is its largest city.</lex>
       <lex comment="good" lid="Id2">Three cities found in New Jersey, U.S., are Newark (the largest), Trenton (state capital), and Atlantic City.</lex>
       <lex comment="good" lid="Id3">Newark, Trenton, and Atlantic City are part of New Jersey in the United States. Trenton is the capital, and Newark is the largest city.</lex>
     </entry>
@@ -4247,7 +4247,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by the New Mexico Senate, Albuquerque, New Mexico, is in the United States. The country where Barack Obama is the leader and African Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2">The New Mexico Senate leads Albuquerque in New Mexico, United States. Barack Obama is the leader of the United States, some other black people live there too.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans">The New Mexico Senate leads Albuquerque in New Mexico, United States. Barack Obama is the leader of the United States, some other black people live there too.</lex>
       <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States, is led by the New Mexico Senate. Barack Obama is a leader of the United States, where African Americans constitute one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id189" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

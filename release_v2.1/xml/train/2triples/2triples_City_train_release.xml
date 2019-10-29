@@ -706,7 +706,7 @@
         <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alpharetta, Georgia">Alpharetta is located in Georgia, part of the United States, where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Alpharetta is located in Georgia, part of the United States, where African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The African Americans are an ethnic group within the United States where Alpharetta is located in Georgia.</lex>
       <lex comment="good" lid="Id3">The United States is the location of Alpharetta, Georgia and includes the African Americans among its ethnic groups.</lex>
     </entry>
@@ -1061,7 +1061,7 @@
         <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim is part of Orange County, California. The U.S. House of Representatives leads Anaheim.</lex>
+      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Anaheim is part of Orange County, California. The U.S. House of Representatives leads Anaheim.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, California, which is in Orange County.</lex>
       <lex comment="good" lid="Id3">The United States House of Representatives leads Anaheim, a city in Orange County which is part of California.</lex>
     </entry>
