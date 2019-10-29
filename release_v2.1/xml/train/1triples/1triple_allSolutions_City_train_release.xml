@@ -30,7 +30,7 @@
       <modifiedtripleset>
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abilene, Texas">Abilene is in Texas, in the United States.</lex>
+      <lex comment="good" lid="Id1">Abilene is in Texas, in the United States.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is located in the United States.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas is located within the United States.</lex>
     </entry>
@@ -73,7 +73,7 @@
         <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The total population density of Abilene, Texas is 429.9 inhabitants per sq km.</lex>
-      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Abilene, Texas has a population density of 429.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Abilene, Texas has a population density of 429.9 inhabitants per square kilometre.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas, has a population density of 429.9 (inhabitants per square kilometre).</lex>
     </entry>
     <entry category="City" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
@@ -1053,7 +1053,7 @@
       <modifiedtripleset>
         <mtriple>Angola,_Indiana | populationDensity | 524.5 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Angola, Indiana">The population density of Angola, Indiana, is 524.5 (inhabitants per square kilometre).</lex>
+      <lex comment="good" lid="Id1">The population density of Angola, Indiana, is 524.5 (inhabitants per square kilometre).</lex>
       <lex comment="good" lid="Id2">The population density of Angola, Indiana is 524.5 inhabitants per sq km.</lex>
       <lex comment="good" lid="Id3">The population density in Angola, Indiana, is 524.5 (inhabitants per square kilometre).</lex>
     </entry>
@@ -1246,7 +1246,7 @@
       <modifiedtripleset>
         <mtriple>Arlington,_Texas | areaTotal | 258.2 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="258.2 (square kilometres)">The total area of Arlington (Texas) is 258.2 square kilometres.</lex>
+      <lex comment="good" lid="Id1">The total area of Arlington (Texas) is 258.2 square kilometres.</lex>
       <lex comment="good" lid="Id2">Arlington Texas has an area of 258.2 SqK.</lex>
       <lex comment="good" lid="Id3">The total area of Arlington in Texas is 258.2 square kilometres.</lex>
     </entry>

@@ -80,7 +80,7 @@
         <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene, Texas lies 524.0 above sea level and has the area code of 325 and a population density of 429.9 inhabitants per sq km. It has a total area of 286.5 sq km of which 14.2 sq km are water.</lex>
-      <lex comment="good" lid="Id2" error_1="429.9 (inhabitants per square kilometre)">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km. Its population density is 429.9 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Abilene is in Texas and has the area code 325. It is 524.0 above sea level, has a water area of 14.2 sq km, and a total area of 286.5 sq km. Its population density is 429.9 inhabitants per square kilometre.</lex>
     </entry>
     <entry category="City" eid="Id2" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -98,7 +98,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is part of Texas, where the capital is Austin and the largest city is Houston. One of the languages spoken in Texas, which is part of the United States, is Spanish.</lex>
-      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Abilene is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin.</lex>
+      <lex comment="good" lid="Id2">Abilene is in Texas, United States. Houston is the largest city in Texas, where Spanish is spoken, and its capital is Austin.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -174,7 +174,7 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States Capitol" error_2="United States House of Representatives">Anaheim is led by Tom Tait along with the United States House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
+      <lex comment="good" lid="Id1">Anaheim is led by Tom Tait along with the United States House of Representatives located in the US Capitol. The city is located in California where the Spanish language is spoken.</lex>
       <lex comment="good" lid="Id2">Located in the United States Capitol, the United States House of Representatives leads Anaheim, California. Tom Tait is a leader in Anaheim, California, where the Spanish language is spoken.</lex>
     </entry>
     <entry category="City" eid="Id6" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -642,7 +642,7 @@
         <mtriple>King_County,_Washington | country | United_States</mtriple>
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County, U.S.</lex>
+      <lex comment="good" lid="Id1">Seattle is the largest city of Washington State and Olympia is the capital. Also located in the state is Auburn, part of King County, U.S.</lex>
       <lex comment="good" lid="Id2">Auburn is part of King County, Washington, United States. Olympia is the capital of Washington and its largest city is Seattle.</lex>
       <lex comment="good" lid="Id3">Auburn is in King County, Washington State, whose largest city is Seattle and whose capital is Olympia. Washington is in the US.</lex>
     </entry>

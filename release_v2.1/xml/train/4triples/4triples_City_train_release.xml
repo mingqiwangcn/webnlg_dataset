@@ -86,7 +86,7 @@
         <mtriple>Texas | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is the capital city of Texas, United States. Abilene is part of Texas where English is a language spoken.</lex>
-      <lex comment="good" lid="Id2" error_1="Austin, Texas">Abilene is part of Texas in the United States. English is a language spoken in Texas whose capital city is Austin.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas in the United States. English is a language spoken in Texas whose capital city is Austin.</lex>
       <lex comment="good" lid="Id3">Abilene is part of Texas, the capital of which is Austin. English is spoken in Texas, which is located in the United States.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -120,7 +120,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene, Texas is located in the United States and Spanish is spoken there. Washington, D.C. is the capital of the U.S.</lex>
-      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Abilene is located in Texas, in the United States, whose capital is Washington D.C. One of the languages spoken in Texas is Spanish.</lex>
+      <lex comment="good" lid="Id2">Abilene is located in Texas, in the United States, whose capital is Washington D.C. One of the languages spoken in Texas is Spanish.</lex>
       <lex comment="good" lid="Id3">The capital of the United States is Washington DC. Texas is one of the country's states, uses the Spanish language and is the location of Abilene.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -154,7 +154,7 @@
         <mtriple>Texas | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is in Texas in the United States and Spanish is a language spoken there. The capital of the U.S. is Washington, D.C.</lex>
-      <lex comment="good" lid="Id2" error_1="Spanish language">Abilene is part of Texas, which is in the U.S.A. and where Spanish is spoken. Washington, D.C. is the capital of the U.S.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas, which is in the U.S.A. and where Spanish is spoken. Washington, D.C. is the capital of the U.S.</lex>
     </entry>
     <entry category="City" eid="Id7" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -349,7 +349,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is the language of the United States, where Asian Americans are an ethnic group. The US is home to Albany, which is part of Dougherty County, Georgia.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">Albany is part of Dougherty County, Georgia, United States, which is home to Asian Americans and is English-speaking.</lex>
+      <lex comment="good" lid="Id2">Albany is part of Dougherty County, Georgia, United States, which is home to Asian Americans and is English-speaking.</lex>
       <lex comment="good" lid="Id3">Albany is a city in Dougherty County, Georgia in the U.S. Asian Americans are one ethnic group in the United States where English is spoken.</lex>
     </entry>
     <entry category="City" eid="Id13" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -656,7 +656,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="English language">Albuquerque, New Mexico, is part of Bernalillo County in the United States. The president is the leader of the United States, and English is the language used in that country.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, New Mexico, is part of Bernalillo County in the United States. The president is the leader of the United States, and English is the language used in that country.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico, is part of Bernalillo County, United States. English is the language of the United States and the leader is the president.</lex>
       <lex comment="good" lid="Id3">The President of the United States is leader of the US, a country which uses the English language. It is the location of Albuquerque, part of Bernalillo County in New Mexico.</lex>
     </entry>
@@ -1495,7 +1495,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States House of Representatives leads Anaheim, California, which is part of Orange County, California, United States. Orange County is part of the Greater Los Angeles area.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, a city in Orange County, part of California, part of the Greater Los Angeles area, in the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Greater Los Angeles Area">The city of Anaheim is found in Orange County, which is part of the Greater Los Angeles area in California. Anaheim is led by the United States House of Representatives.</lex>
+      <lex comment="good" lid="Id3">The city of Anaheim is found in Orange County, which is part of the Greater Los Angeles area in California. Anaheim is led by the United States House of Representatives.</lex>
     </entry>
     <entry category="City" eid="Id61" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1511,7 +1511,7 @@
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States House of Representatives leads Anaheim, California within the United States. Anaheim, California is part of Orange County, California and English is the official language of the country.</lex>
-      <lex comment="good" lid="Id2" error_1="English language">Anaheim is found in Orange County, California, United States and is led by the US based United States House of Representatives. English is the language spoken in the United States.</lex>
+      <lex comment="good" lid="Id2">Anaheim is found in Orange County, California, United States and is led by the US based United States House of Representatives. English is the language spoken in the United States.</lex>
     </entry>
     <entry category="City" eid="Id62" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1699,7 +1699,7 @@
         <mtriple>Angola,_Indiana | isPartOf | Indiana</mtriple>
         <mtriple>Angola,_Indiana | areaTotal | 16.55 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="16.55 (square kilometres)">Angola is part of Steuben County in the United States. The city, which is part of Indiana, has a total area of 16.55 square kilometres.</lex>
+      <lex comment="good" lid="Id1">Angola is part of Steuben County in the United States. The city, which is part of Indiana, has a total area of 16.55 square kilometres.</lex>
       <lex comment="good" lid="Id2">The city of Angola is located in Steuben County, Indiana as part of the United States and has a total area of 16.55 square kilometres.</lex>
       <lex comment="good" lid="Id3">Angola, Indiana is part of Steuben County, Indiana in the U.S. Angola's total area is 16.55 sq. km.</lex>
     </entry>
@@ -1826,7 +1826,7 @@
         <mtriple>Ann_Arbor,_Michigan | isPartOf | Michigan</mtriple>
         <mtriple>Michigan | capital | Lansing,_Michigan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washtenaw County, Michigan">Ann Arbor is part of Washtenaw County, Michigan, United States. Michigan's capital is Lansing.</lex>
+      <lex comment="good" lid="Id1">Ann Arbor is part of Washtenaw County, Michigan, United States. Michigan's capital is Lansing.</lex>
       <lex comment="good" lid="Id2">Ann Arbor, Michigan is part of Washtenaw County in the U.S. The capital of Michigan is Lansing.</lex>
       <lex comment="good" lid="Id3">Ann Arbor is part of Washtenaw County in Michigan in the U.S. Michigan's capital is Lansing.</lex>
     </entry>
@@ -1869,7 +1869,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ann Arbor (Michigan), has a total area of 74.33 square kilometres and its area code is 734.The town is led by a City Administrator and it has a 1580.7 per square kilometre population density.</lex>
       <lex comment="good" lid="Id2" error_1="1580.7 (inhabitants per square kilometre)">Ann Arbor, Michiganis 74.33 square kilometres large, has 1,580.7 residents per square kilometre, uses the 734 area code and is run by an city administrator.</lex>
-      <lex comment="good" lid="Id3" error_1="Ann Arbor, Michigan">Ann Arbor, Michigan, led by the City Administrator and with the area code 734, has a population density of 1580.7 persons for each of its 74.33 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Ann Arbor, Michigan, led by the City Administrator and with the area code 734, has a population density of 1580.7 persons for each of its 74.33 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id76" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2144,7 +2144,7 @@
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta, Georgia has a population density of 1299 inhabitants for each of the 344.9 (total 347.1) square kilometres that it covers.</lex>
-      <lex comment="good" lid="Id2" error_1="Georgia">With a total area of 347.1 square kilometres, Atlanta (Georgia) covers an area of 344.9 square kilometres, and has a population density of 1299.0 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">With a total area of 347.1 square kilometres, Atlanta (Georgia) covers an area of 344.9 square kilometres, and has a population density of 1299.0 inhabitants per square kilometre.</lex>
       <lex comment="good" lid="Id3">Atlanta has an area of 344.9 sq. km., total area of 347.1 sq. km., population of 1299 people per sq. km., and is part of Georgia.</lex>
     </entry>
     <entry category="City" eid="Id85" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2337,7 +2337,7 @@
         <mtriple>Atlantic_City,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
         <mtriple>United_States | largestCity | New_York_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Atlantic County, New Jersey">Atlantic City, New Jersey, is located within Atlantic County in the United States, whose capital is Washington D.C. The largest city of the country is New York City.</lex>
+      <lex comment="good" lid="Id1">Atlantic City, New Jersey, is located within Atlantic County in the United States, whose capital is Washington D.C. The largest city of the country is New York City.</lex>
       <lex comment="good" lid="Id2">Atlantic City is in Atlantic County, New Jersey in the U.S. whose capital is Washington D.C. New York is the largest city in the U.S.</lex>
       <lex comment="good" lid="Id3">Atlantic City in Atlantic County, New Jersey, is part of the U.S.A. where Washington, D.C. is the capital and New York is the largest city in the nation.</lex>
     </entry>
@@ -2726,7 +2726,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, is part of Lee County, Alabama, in the United States, where one of the ethnic groups is Asian Americans.</lex>
       <lex comment="good" lid="Id2">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups, is Asian Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">Lee County in Alabama, United States, is where you will find Auburn. Asian Americans constitute one of the ethnic groups of the U.S.</lex>
+      <lex comment="good" lid="Id3">Lee County in Alabama, United States, is where you will find Auburn. Asian Americans constitute one of the ethnic groups of the U.S.</lex>
     </entry>
     <entry category="City" eid="Id108" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2850,7 +2850,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Opelika is the county seat of Lee County, Alabama. Auburn is part of Lee County, in the United States.</lex>
       <lex comment="good" lid="Id2">Auburn is part of Lee County in Alabama, United States. Opelika is the county seat of Lee County, Alabama.</lex>
-      <lex comment="good" lid="Id3" error_1="Opelika, Alabama">Auburn, Alabama is part of Lee County in the U.S. Opelika is the county seat of Lee County.</lex>
+      <lex comment="good" lid="Id3">Auburn, Alabama is part of Lee County in the U.S. Opelika is the county seat of Lee County.</lex>
     </entry>
     <entry category="City" eid="Id115" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2914,7 +2914,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn, located in King County, Washington (state), USA, has a total area of 77.41 square kilometres.</lex>
       <lex comment="good" lid="Id2">Auburn is part of King County, Washington in the U.S. Auburn (Washington) has a total area of 77.41 square kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="77.41 (square kilometres)">Auburn is located in King County, part of the state of Washington. It covers a total area of 77.41 sq km within the United States.</lex>
+      <lex comment="good" lid="Id3">Auburn is located in King County, part of the state of Washington. It covers a total area of 77.41 sq km within the United States.</lex>
     </entry>
     <entry category="City" eid="Id117" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3127,7 +3127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin, part of Williamson County, is in Hays County, Texas, where the largest city is Round Rock. Georgetown is the county seat of Williamson County, Texas.</lex>
       <lex comment="good" lid="Id2">Round Rock is the largest city in Williamson County, Texas, while the county seat is Georgetown. Austin is also part of Williamson County and is additionally partly located in Hays County, Texas.</lex>
-      <lex comment="good" lid="Id3" error_1="Hays County, Texas">Round Rock is the largest city in Williamson County, of which Austin is a part of, in Texas. Austin is also part of Hays County in Texas. Georgetown is the county seat of Williamson County, Texas.</lex>
+      <lex comment="good" lid="Id3">Round Rock is the largest city in Williamson County, of which Austin is a part of, in Texas. Austin is also part of Hays County in Texas. Georgetown is the county seat of Williamson County, Texas.</lex>
     </entry>
     <entry category="City" eid="Id127" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3287,7 +3287,7 @@
         <mtriple>Atlanta | country | United_States</mtriple>
         <mtriple>Atlanta | isPartOf | "Georgia"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="DeKalb County, Georgia">Atlanta is part of DeKalb County (largest city is Dunwoody), Georgia, United States.</lex>
+      <lex comment="good" lid="Id1">Atlanta is part of DeKalb County (largest city is Dunwoody), Georgia, United States.</lex>
       <lex comment="good" lid="Id2">Most of Atlanta, which is in Georgia in the U.S.A., is part of DeKalb County where Dunwoody is the largest city.</lex>
       <lex comment="good" lid="Id3">Most of Atlanta in the United States is within DeKalb County in Georgia where the largest city is Dunwoody.</lex>
     </entry>
@@ -3622,7 +3622,7 @@
         <mtriple>Monroe_Township,_Madison_County,_Indiana | isPartOf | Indiana</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria in the United States is part of Monroe Township, Madison County. It is located in Indiana where the capital is known as Indianapolis.</lex>
-      <lex comment="good" lid="Id2" error_1="Indianapolis">Alexandria is part of Monroe township, Madison County, Indiana. The state is located in the United States, and its capital is Indianapolis.</lex>
+      <lex comment="good" lid="Id2">Alexandria is part of Monroe township, Madison County, Indiana. The state is located in the United States, and its capital is Indianapolis.</lex>
       <lex comment="good" lid="Id3">Indianapolis is the capital of Indiana in the United States. The town of Alexandria is located in Monroe Township, Madison County, which is also in Indiana.</lex>
     </entry>
     <entry category="City" eid="Id153" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3875,8 +3875,8 @@
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Taylor County, Texas">In the United States, Washington, D.C. is the capital and English is spoken. It is also the country where Abilene (Taylor County, Texas) is located.</lex>
-      <lex comment="good" lid="Id2" error_1="Taylor County, Texas">Abilene, Taylor County, Texas is located in the United States, where English is spoken and the capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id1">In the United States, Washington, D.C. is the capital and English is spoken. It is also the country where Abilene (Taylor County, Texas) is located.</lex>
+      <lex comment="good" lid="Id2">Abilene, Taylor County, Texas is located in the United States, where English is spoken and the capital is Washington D.C.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas is located in Taylor County, Texas in the United States. The capital of the U.S. is Washington, D.C and English is its official language.</lex>
     </entry>
     <entry category="City" eid="Id168" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -4178,7 +4178,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Angola, Indiana" error_2="Pleasant Township, Steuben County, Indiana">Angola, part of Pleasant Township, is in Steuben County, Indiana, USA. Americans, of which Native Americans are an ethnic group, live in the USA.</lex>
+      <lex comment="good" lid="Id1">Angola, part of Pleasant Township, is in Steuben County, Indiana, USA. Americans, of which Native Americans are an ethnic group, live in the USA.</lex>
       <lex comment="good" lid="Id2">Angola, Indiana is part of Pleasant Township, Steuben County in the U.S. Native Americans are an ethnic group in the United States.</lex>
       <lex comment="good" lid="Id3">The Native Americans are an ethnic group within the United States where the inhabitants are known as Americans. The country is the location of Angola, Pleasant Township, which is part of Steuben County in Indiana.</lex>
     </entry>
@@ -4333,7 +4333,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola is in Pleasant Township, part of Steuben County, Indiana, in the United States, which is where English is spoken and African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">In the United States the spoken language is English and the African Americans are one of the ethnic groups. The state of Indiana can be found in the country and is the location of Angola in Pleasant Township, part of Steuben County.</lex>
-      <lex comment="good" lid="Id3" error_1="English language">Angola is part of Pleasant Township, in Steuben County, Indiana, in the United States, where African Americans are one of the ethnic groups. They speak English in the U.S.</lex>
+      <lex comment="good" lid="Id3">Angola is part of Pleasant Township, in Steuben County, Indiana, in the United States, where African Americans are one of the ethnic groups. They speak English in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id194" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4399,7 +4399,7 @@
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron, led by the Mayor, is in Summit County, Ohio, in the United States, where Asian Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2" error_1="Mayor">Akron is in Summit County, Ohio in the United States where also Asian Americans can be found. Akron is governed by the Mayor.</lex>
+      <lex comment="good" lid="Id2">Akron is in Summit County, Ohio in the United States where also Asian Americans can be found. Akron is governed by the Mayor.</lex>
       <lex comment="good" lid="Id3">The Asian Americans are an ethnic group within the United States which is the location of Akron. It is located in Summit County, Ohio and led by the Mayor.</lex>
     </entry>
     <entry category="City" eid="Id198" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -4450,7 +4450,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque in New Mexico is led by Albuquerque City Council, the boss of which is Richard J Berry. Albuquerque is located in the United States, where Asian Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">Albuquerque, New Mexico, is in the United States and the leader there is the Albuquerque City Council under Richard J. Berry. Asian Americans are an ethnic group in the US population.</lex>
+      <lex comment="good" lid="Id2">Albuquerque, New Mexico, is in the United States and the leader there is the Albuquerque City Council under Richard J. Berry. Asian Americans are an ethnic group in the US population.</lex>
       <lex comment="good" lid="Id3">Albuquerque, led by a city council (member: Richard J. Berry) is located in New Mexico, United States (home to Asian Americans).</lex>
     </entry>
     <entry category="City" eid="Id201" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -4582,7 +4582,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Summit County, Ohio">English is the main language spoken in the United States which includes Akron, Summit County, Ohio and also the ethnic group of African Americans.</lex>
+      <lex comment="good" lid="Id1">English is the main language spoken in the United States which includes Akron, Summit County, Ohio and also the ethnic group of African Americans.</lex>
       <lex comment="good" lid="Id2">The English language is spoken in the United States which includes the African Americans among its ethnic groups. The country is the location of Akron, part of Summit County in Ohio.</lex>
       <lex comment="good" lid="Id3">English is the language of the United States, where African Americans are one of the ethnic groups. Also in the United States, is Akron, in Summit County, Ohio.</lex>
     </entry>
@@ -4649,7 +4649,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Angola, Pleasant Township, Steuben County, Indiana is part of The United States, home to Native Americans and includes the English language.</lex>
-      <lex comment="good" lid="Id2" error_1="Angola, Indiana" error_2="Pleasant Township, Steuben County, Indiana">Angola, Pleasant Township, Steuben County, Indiana can be found in the United States. The country's language is English, and one of the ethnicities there are Native Americans.</lex>
+      <lex comment="good" lid="Id2">Angola, Pleasant Township, Steuben County, Indiana can be found in the United States. The country's language is English, and one of the ethnicities there are Native Americans.</lex>
       <lex comment="good" lid="Id3">English is a language used in the US, where Native Americans are an ethnic group. The United States is home to Angola, which is part of Pleasant Township, Steuben County, Indiana.</lex>
     </entry>
     <entry category="City" eid="Id213" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

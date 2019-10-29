@@ -23,7 +23,7 @@
         <mtriple>Abilene,_Texas | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abilene, Texas">Abilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.</lex>
+      <lex comment="good" lid="Id1">Abilene, Texas is part of the United States of America where African Americans are one of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas is located in the United States where African Americans are one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -49,7 +49,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene is located in Texas, United States and one of the country's ethnic groups are the Native Americans.</lex>
-      <lex comment="good" lid="Id2" error_1="Abilene, Texas">Abilene is part of Texas in the United States where one of the ethnic groups are Native Americans.</lex>
+      <lex comment="good" lid="Id2">Abilene is part of Texas in the United States where one of the ethnic groups are Native Americans.</lex>
       <lex comment="good" lid="Id3">Abilene, Texas, is located in the United States, where one of the ethnic groups are the Native Americans.</lex>
     </entry>
     <entry category="City" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -153,7 +153,7 @@
         <mtriple>Abilene,_Texas | populationDensity | 429.9 (inhabitants per square kilometre)</mtriple>
         <mtriple>Abilene,_Texas | areaTotal | 286.5 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abilene, Texas">Abilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.</lex>
+      <lex comment="good" lid="Id1">Abilene, Texas has a population density of 429.9 inhabitants per sq km and a total area of 286.5 sq km.</lex>
       <lex comment="good" lid="Id2">Abilene, Texas, covers a total area of 286.5 square kilometres and has 429.9 inhabitants per sq kilometre.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -286,7 +286,7 @@
         <mtriple>Albany,_Georgia | isPartOf | Georgia_(U.S._state)</mtriple>
         <mtriple>Georgia_(U.S._state) | capital | Atlanta</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Atlanta">Albany is located in the US state of Georgia, of which Atlanta is the capital.</lex>
+      <lex comment="good" lid="Id1">Albany is located in the US state of Georgia, of which Atlanta is the capital.</lex>
     </entry>
     <entry category="City" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -335,7 +335,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The population density of Albany, Georgia is 535.0 inhabitants per square kilometre and the total area is 144.7 SqKm.</lex>
       <lex comment="good" lid="Id2">Albany, Georgia has a total area of 144.7 sq km and a population density of 535.0 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id3" error_1="144.7 (square kilometres)">Albany in Georgia has a population density of 535 people per sq km and has a total area of 144.7 sq kms.</lex>
+      <lex comment="good" lid="Id3">Albany in Georgia has a population density of 535 people per sq km and has a total area of 144.7 sq kms.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -567,7 +567,7 @@
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)" error_2="490.9 (square kilometres)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.</lex>
+      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.</lex>
       <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a total area of 490.9 square kilometres and its population density is 1142.3 people per sq. km.</lex>
       <lex comment="good" lid="Id3">With a total are of 490.9 square kilometres, Albuquerque, in New Mexico, has a population density of 1142.3 inhabitants per square kilometre.</lex>
     </entry>
@@ -744,7 +744,7 @@
         <mtriple>Alpharetta,_Georgia | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alpharetta, Georgia">Alpharetta, Georgia is located in the United States where English is the official language.</lex>
+      <lex comment="good" lid="Id1">Alpharetta, Georgia is located in the United States where English is the official language.</lex>
       <lex comment="good" lid="Id2">The English language is spoken in the United States and Alpharetta, Georgia is located in the country.</lex>
       <lex comment="good" lid="Id3">Alpharetta, Georgia is in the United States, where the English language is used.</lex>
     </entry>
@@ -1413,7 +1413,7 @@
         <mtriple>Arlington,_Texas | isPartOf | Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arlington is part of Tarrant County, in the state of Texas.</lex>
-      <lex comment="good" lid="Id2" error_1="Arlington, Texas" error_2="Tarrant County, Texas">Arlington is part of Tarrant County, Texas.</lex>
+      <lex comment="good" lid="Id2">Arlington is part of Tarrant County, Texas.</lex>
       <lex comment="good" lid="Id3">Arlington is part of Tarrant County in Texas, U.S.</lex>
     </entry>
     <entry category="City" eid="Id83" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2145,7 +2145,7 @@
         <mtriple>Austin,_Texas | isPartOf | Hays_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Austin is in Hays County, Texas in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Hays County, Texas">Austin is a part of Hays County in Texas which is a state of the United States.</lex>
+      <lex comment="good" lid="Id2">Austin is a part of Hays County in Texas which is a state of the United States.</lex>
       <lex comment="good" lid="Id3">Austin is part of Hays County, Texas, United States.</lex>
     </entry>
     <entry category="City" eid="Id126" shape="(X (X) (X))" shape_type="sibling" size="2">
