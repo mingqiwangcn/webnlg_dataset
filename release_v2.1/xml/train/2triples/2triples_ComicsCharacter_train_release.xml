@@ -268,7 +268,7 @@
         <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic book character Auron was created by Karl Kesel and Marv Wolfman.</lex>
-      <lex comment="good" lid="Id2" error_1="Karl Kesel" error_2="Marv Wolfman">The character Auron, was created by Kark Kesel and Marv Worlfman.</lex>
+      <lex comment="good" lid="Id2" error_1="Karl Kesel" error_2="Marv Wolfman">The character Auron, was created by Karl Kesel and Marv Wolfman.</lex>
       <lex comment="good" lid="Id3">The creators of Auron (comics character) are Karl Kesel and Marv Wolfman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -533,7 +533,7 @@
         <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor starred in Bananaman, broadcasted by the BBC.</lex>
-      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke Tayler starred in Bananaman, broadcasted by the BBC.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke-Taylor starred in Bananaman, broadcasted by the BBC.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -545,7 +545,7 @@
         <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buxton is the birthplace of Tim Brooke-Taylor, who starred in Bananaman.</lex>
-      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke-Tayler, born in Buxton, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke-Taylor, born in Buxton, starred in Bananaman.</lex>
       <lex comment="good" lid="Id3">Born in Buxton, Tim Brooke-Taylor, starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id38" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -558,8 +558,8 @@
         <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor, born in England, starred in Bananaman.</lex>
-      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke Taylor, who starred in Bananaman, was born in England.</lex>
-      <lex comment="good" lid="Id3" error_1="Tim Brooke-Taylor">Tim Brooke Taylor was born in England and starred in Bananaman.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Tim Brooke-Taylor, who starred in Bananaman, was born in England.</lex>
+      <lex comment="good" lid="Id3" error_1="Tim Brooke-Taylor">Tim Brooke-Taylor was born in England and starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id39" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -572,7 +572,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tim Brooke-Taylor was born in the UK and starred in Bananaman.</lex>
       <lex comment="good" lid="Id2">Born in the United Kingdom, Tim Brooke-Taylor, starred in Bananaman.</lex>
-      <lex comment="good" lid="Id3" error_1="United Kingdom">Tim Brooke-Taylor, originally from the U.K, starred in Bananaman.</lex>
+      <lex comment="good" lid="Id3" error_1="United Kingdom">Tim Brooke-Taylor, originally from the U.K., starred in Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -792,7 +792,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Blockbuster is a comic character that was created by Carmine Infantino and Gardner Fox.</lex>
       <lex comment="good" lid="Id2">The comic book character Blockbuster was created by both Gardner Fox and Carmine Infantino.</lex>
-      <lex comment="good" lid="Id3" error_1="Gardner Fox">The character Blockbuster was created by Garnder Fox and Carmine INfantino.</lex>
+      <lex comment="good" lid="Id3" error_1="Gardner Fox">The character Blockbuster was created by Gardner Fox and Carmine INfantino.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id55" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -873,7 +873,7 @@
         <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
         <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Gary Cohn (comics)">The character Bolt was created by Dan Mishkin and Garcy Cohn.</lex>
+      <lex comment="good" lid="Id1" error_1="Gary Cohn (comics)">The character Bolt was created by Dan Mishkin and Gary Cohn.</lex>
       <lex comment="good" lid="Id2">The comic character Bolt was created by Gary Cohn and Dan Mishkin.</lex>
       <lex comment="good" lid="Id3">Dan Mishkin created the comic book character Bolt while Gary Cohn is the creator of Bolf.</lex>
     </entry>
@@ -990,7 +990,7 @@
         <mtriple>Bozo_the_Iron_Man | creator | George_Brenner</mtriple>
         <mtriple>Bozo_the_Iron_Man | fullName | "Hugh Hazzard"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="George Brenner">Bozo the Iron Man's full name is Hugh Hazzard and he was created by Goerge Brenner.</lex>
+      <lex comment="good" lid="Id1" error_1="George Brenner">Bozo the Iron Man's full name is Hugh Hazzard and he was created by George Brenner.</lex>
       <lex comment="good" lid="Id2">Created by George Brenner, the full name of Bozo the Iron Man is "Hugh Hazzard".</lex>
       <lex comment="good" lid="Id3">George Brenner is the creator of Bozo the Iron Man whose alter ego is Hugh Hazzard.</lex>
     </entry>
@@ -1043,7 +1043,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dane Whitman, alter ego Black Knight, was created by the American, John Buscema.</lex>
       <lex comment="good" lid="Id2">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) in the comics genre.</lex>
-      <lex comment="good" lid="Id3">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (Amercian) and considered to be in the comics genre.</lex>
+      <lex comment="good" lid="Id3">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) and considered to be in the comics genre.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1093,7 +1093,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gene Colan is the American national who created the character Ben Urich.</lex>
       <lex comment="good" lid="Id2">Ben Urich was created by Gene Colan, an American.</lex>
-      <lex comment="good" lid="Id3" error_1="Gene Colan">The American Gene Nolan created the character Ben Urich.</lex>
+      <lex comment="good" lid="Id3" error_1="Gene Colan">The American Gene Colan created the character Ben Urich.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id73" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1127,7 +1127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Roger McKenzie is a comic book writer who created the character Ben Urich.</lex>
       <lex comment="good" lid="Id2">A United States national, comic book writer, Roger McKenzie, is the creator of Ben Urich.</lex>
-      <lex comment="good" lid="Id3" error_1="United States">Roger Mckenzie, the american comic book writer is the creator of Ben Urich.</lex>
+      <lex comment="good" lid="Id3" error_1="United States">Roger McKenzie, the American comic book writer is the creator of Ben Urich.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id75" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

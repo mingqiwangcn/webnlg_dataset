@@ -249,7 +249,7 @@
         <mtriple>BBC | locationCity | Broadcasting_House</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.</lex>
-      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The key person for BBC is Rona Fairfield and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
+      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The key person for BBC is Rona Fairhead and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -263,7 +263,7 @@
         <mtriple>BBC | locationCity | London</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.</lex>
-      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairchild.</lex>
+      <lex comment="good" lid="Id2" error_1="Rona Fairhead">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairhead.</lex>
       <lex comment="good" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -394,7 +394,7 @@
         <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
-      <lex comment="good" lid="Id2" error_1="Bananaman">Banaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex comment="good" lid="Id2" error_1="Bananaman">Bananaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
       <lex comment="good" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -505,7 +505,7 @@
         <mtriple>Bananaman | firstAired | "1983-10-03"</mtriple>
         <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bananaman" error_2="Tim Brooke-Taylor">Banaman starred Tim Brooke Taylor and was first broadcast by STV on 3 October 1983.</lex>
+      <lex comment="good" lid="Id1" error_1="Bananaman" error_2="Tim Brooke-Taylor">Bananaman starred Tim Brooke-Taylor and was first broadcast by STV on 3 October 1983.</lex>
       <lex comment="good" lid="Id2">Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.</lex>
       <lex comment="good" lid="Id3">Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983.</lex>
     </entry>
@@ -520,8 +520,8 @@
         <mtriple>Bananaman | lastAired | "1986-04-15"</mtriple>
         <mtriple>Bananaman | broadcastedBy | "STV"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tim Brooke-Taylor">Bananaman starred Tim Brooke Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
-      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Bananaman was broadcasted by STV, it starred Tim Brooke Taylor and last aired on 15th April 1986.</lex>
+      <lex comment="good" lid="Id1" error_1="Tim Brooke-Taylor">Bananaman starred Tim Brooke-Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
+      <lex comment="good" lid="Id2" error_1="Tim Brooke-Taylor">Bananaman was broadcasted by STV, it starred Tim Brooke-Taylor and last aired on 15th April 1986.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -646,7 +646,7 @@
         <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
         <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ben Urich">The comic book character was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
+      <lex comment="good" lid="Id1" error_1="Ben Urich">The comic book character Ben Urich was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
       <lex comment="good" lid="Id2">Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.</lex>
       <lex comment="good" lid="Id3">The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books.</lex>
     </entry>
@@ -1037,7 +1037,7 @@
         <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | "Dane Whitman"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic character Dane Whitman Black Knight, created by Roy Thomas and John Buscema, is also known as simply Dane Whitman.</lex>
-      <lex comment="good" lid="Id2" error_1="John Buscema">Dane Whitman, aka Black Knight, was created by John Buschema and Roy Thomas.</lex>
+      <lex comment="good" lid="Id2" error_1="John Buscema">Dane Whitman, aka Black Knight, was created by John Buscema and Roy Thomas.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id60" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
