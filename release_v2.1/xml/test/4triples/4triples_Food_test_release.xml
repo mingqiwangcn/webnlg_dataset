@@ -145,7 +145,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washington, D.C.">Bacon Explosion originated in the United States, where Barack Obama is leader, Washing DC is the capital and where Asian Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" error_1="Washington, D.C.">Bacon Explosion originated in the United States, where Barack Obama is leader, Washington DC is the capital and where Asian Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id2">The United States, capital city Washington, D.C., is led by Barack Obama. Asian Americans are one of the ethnic groups in the U.S. The country is also the origin of Bacon Explosion.</lex>
     </entry>
     <entry category="Food" eid="Id9" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -555,7 +555,7 @@
         <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit is a type of dessert, like sandesh, that contains sweet potato and banana.</lex>
-      <lex comment="good" lid="Id2" error_1="Binignit">Bingignit is a dessert, whose ingredients include banana and sweet potato. Sandesh is a nice confectionary dessert.</lex>
+      <lex comment="good" lid="Id2" error_1="Binignit">Binignit is a dessert, whose ingredients include banana and sweet potato. Sandesh is a nice confectionary dessert.</lex>
       <lex comment="good" lid="Id3">Binignit is a dessert made with sweet potato and banana. Sandesh is also a nice confectionery dessert.</lex>
     </entry>
     <entry category="Food" eid="Id31" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -605,9 +605,9 @@
         <mtriple>Bionico | region | Guadalajara</mtriple>
         <mtriple>Bionico | ingredient | Raisin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Guadalajara">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. The dish can be found in Guadalajra, Mexico.</lex>
-      <lex comment="good" lid="Id2" error_1="Guadalajara">Bionico is a dish from the Guadalaraja region of Mexico and its ingredients are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
-      <lex comment="good" lid="Id3" error_1="Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins">Bionico is from the Guadalajara region of Mexico. It has the ingredients: chopped fruit, condensed milk, granola, raisins and shredded coconut.</lex>
+      <lex comment="good" lid="Id1" error_1="Guadalajara">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. The dish can be found in Guadalajara, Mexico.</lex>
+      <lex comment="good" lid="Id2" error_1="Guadalajara">Bionico is a dish from the Guadalajara region of Mexico and its ingredients are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id3" error_1="Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins">Bionico is from the Guadalajara region of Mexico. It has the ingredients: chopped fruit, sour cream, condensed milk, granola, raisins and shredded coconut.</lex>
     </entry>
     <entry category="Food" eid="Id34" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

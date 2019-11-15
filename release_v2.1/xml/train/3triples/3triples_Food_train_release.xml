@@ -449,7 +449,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem is a dish of Javanese cuisine, originating from the country of Indonesia, one of whose leaders is Jusuf Kalla.</lex>
       <lex comment="good" lid="Id2">The Javanese cuisine dish arem-arem is found in Indonesia where Jusuf Kalla is a leader.</lex>
-      <lex comment="good" lid="Id3" error_1="Jusuf Kalla">Jusef Kalia is the leader of Indonesia where they serve the Japonese dish of Arem-arem.</lex>
+      <lex comment="good" lid="Id3" error_1="Jusuf Kalla">Jusuf Kalla is the leader of Indonesia where they serve the Javanese dish of Arem-arem.</lex>
     </entry>
     <entry category="Food" eid="Id30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1237,7 +1237,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is from Indonesia and can be found nationwide and also in Malaysia and Singapore. The main ingredients of Ayam penyet are "squeezed" or "smashed" chicken served with sambal.</lex>
       <lex comment="good" lid="Id2">"Squeezed" or "smashed" fried chicken served with sambal is a main ingredient in ayam penyet, an Indonesian dish which is made nationwide and can also be found in Malaysia and Singapore.</lex>
-      <lex comment="good" lid="Id3">Ayam penyet is from Indonesia and is made nationwide and also in Malaysia and Singapore. The main ingredients are "squeezed" or "smashed" chicken served with sambal.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is from Indonesia and is found nationwide and also in Malaysia and Singapore. The main ingredients are "squeezed" or "smashed" chicken served with sambal.</lex>
     </entry>
     <entry category="Food" eid="Id80" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1339,7 +1339,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is a popular dish from Java, Malaysia where the Javanese people live.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a popular dish in Malaysia and is also found in Java where the Javanese are an ethnic group.</lex>
-      <lex comment="good" lid="Id3">Ayam penyet is a dish from Java in the region of Malaysia. The Javenese people are an ethnic group in Java.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is a dish from Java in the region of Malaysia. The Javanese people are an ethnic group in Java.</lex>
     </entry>
     <entry category="Food" eid="Id87" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2592,7 +2592,7 @@
         <mtriple>Bandeja_paisa | region | Antioquia_Department</mtriple>
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Chicharrón is an ingredient found in Bandeja paisa, part of Colombain cuisine, is found in the Antioquia Department.</lex>
+      <lex comment="good" lid="Id1">Chicharrón is an ingredient found in Bandeja paisa, part of Colombian cuisine, is found in the Antioquia Department.</lex>
       <lex comment="good" lid="Id2">Bandeja paisa is a dish from the Antioquia Department region, one of the ingredients is Chicharron, Bandeja paisa is part of Colombian cuisine.</lex>
       <lex comment="good" lid="Id3">Chicharrón is one of the ingredients in the Colombian cuisine of Bandeja paisa that originates from the Antioquia department.</lex>
     </entry>
@@ -3825,7 +3825,7 @@
         <mtriple>Binignit | ingredient | Coconut_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the main ingredients of the cuisine of Binignit, in the Philippines, is the sweet potato, and another is coconut milk.</lex>
-      <lex comment="good" lid="Id2">The Filippino dish of binignit has sweet potatoes and coconut milk among its ingredients.</lex>
+      <lex comment="good" lid="Id2">The Filipino dish of binignit has sweet potatoes and coconut milk among its ingredients.</lex>
       <lex comment="good" lid="Id3" error_1="Binignit">Binigrit is a dish from the Philippines contains sweet potatoes and coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id244" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3839,7 +3839,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
         <mtriple>Binignit | ingredient | Taro</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Filippino dish of binignit has sweet potatoes and taro as ingredients.</lex>
+      <lex comment="good" lid="Id1">The Filipino dish of binignit has sweet potatoes and taro as ingredients.</lex>
       <lex comment="good" lid="Id2">Taro is an ingredient in the Philippine dish of Binignit along with the main ingredient of sweet potato.</lex>
       <lex comment="good" lid="Id3">One of the main ingredients of Binignit is the sweet potato, which can be found in the philippines and has Taro as an ingredient.</lex>
     </entry>
@@ -4451,8 +4451,8 @@
         <mtriple>Ayam_penyet | region | Singapore</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Javenese people are an ethnic group in Java, where the food ayam penyet is found. The dish is from the Singapore region.</lex>
-      <lex comment="good" lid="Id2">Ayam penyet is a dish from the region of Singapore and is also found in Java where the Javenese people are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">The Javanese people are an ethnic group in Java, where the food ayam penyet is found. The dish is from the Singapore region.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is a dish from the region of Singapore and is also found in Java where the Javanese people are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Ayam penyet is a dish from the region of Singapore, its country is Java, where there is a ethnic group called The Javanese.</lex>
     </entry>
     <entry category="Food" eid="Id285" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -4555,7 +4555,7 @@
         <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Philippine English is the language spoken in the Philippines, where Batchoy comes from. It is also the country where the Igorot people are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The Igorot people are part of one of the ethnic groups in the Phillipines where Philippine English is spoken and the dish batchoy is eaten.</lex>
+      <lex comment="good" lid="Id2">The Igorot people are part of one of the ethnic groups in the Philippines where Philippine English is spoken and the dish batchoy is eaten.</lex>
       <lex comment="good" lid="Id3">Philippine English is the language of the Philippines, where Batchoy comes from and where the Igorot people are an ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id292" shape="(X (X (X) (X)))" shape_type="mixed" size="3">

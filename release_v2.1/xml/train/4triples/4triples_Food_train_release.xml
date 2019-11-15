@@ -3589,9 +3589,9 @@
         <mtriple>Batchoy | ingredient | Beef</mtriple>
         <mtriple>Batchoy | region | La_Paz,_Iloilo_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Batchoy originated from the region of La Paz, Iloilo City, Phillippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
+      <lex comment="good" lid="Id1">Batchoy originated from the region of La Paz, Iloilo City, Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
       <lex comment="good" lid="Id2">Batchoy is a food found in La Paz, Iloilo City, Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
-      <lex comment="good" lid="Id3">Batchoy is a food found in La Paz, Iloilo City, Phillipines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
+      <lex comment="good" lid="Id3">Batchoy is a food found in La Paz, Iloilo City, Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
     </entry>
     <entry category="Food" eid="Id193" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3606,7 +3606,7 @@
         <mtriple>Batchoy | ingredient | Noodle</mtriple>
         <mtriple>Batchoy | region | La_Paz,_Iloilo_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The main ingredients of Batchoy, which is from the Phillipines, are noodles, pork organs, vegetables, chicken, shrimp and beef. Batchoy originated from the region of La Paz, Iloilo City.</lex>
+      <lex comment="good" lid="Id1">The main ingredients of Batchoy, which is from the Philippines, are noodles, pork organs, vegetables, chicken, shrimp and beef. Batchoy originated from the region of La Paz, Iloilo City.</lex>
       <lex comment="good" lid="Id2">Batchoy originated from the region of La Paz, Iloilo City, Philippines. The main ingredients of Batchoy are noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
       <lex comment="good" lid="Id3">Batchoy originated from the region of La Paz, Iloilo City, Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
     </entry>
@@ -3657,7 +3657,7 @@
         <mtriple>Batchoy | region | La_Paz,_Iloilo_City</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy, which originates from the region of La Paz, Iloilo City, is eaten in the Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
-      <lex comment="good" lid="Id2">Batchoy is a food found in La Paz, Iloilo City, in the Philipppines and is made from the main ingredients noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
+      <lex comment="good" lid="Id2">Batchoy is a food found in La Paz, Iloilo City, in the Philippines and is made from the main ingredients noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
       <lex comment="good" lid="Id3">Batchoy originated fron the region of La Paz, Iloilo City and also comes from the Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
     </entry>
     <entry category="Food" eid="Id197" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -4254,7 +4254,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit contains both sweet potatoes and bananas, and can be found in the Visayas region of the Philippines.</lex>
-      <lex comment="good" lid="Id2">Binignit is a dish from the region of Visayas in the Phillippines. It includes sweet potato and banana.</lex>
+      <lex comment="good" lid="Id2">Binignit is a dish from the region of Visayas in the Philippines. It includes sweet potato and banana.</lex>
       <lex comment="good" lid="Id3">Binignit originates from the Visayas region of the Philippines. Its main ingredients are sweet potato and banana.</lex>
     </entry>
     <entry category="Food" eid="Id231" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -4513,7 +4513,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
         <mtriple>Binignit | ingredient | Coconut_milk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Binignit is a dish from the region of Visayas, Phillippines. It includes coconut milk and sago.</lex>
+      <lex comment="good" lid="Id1">Binignit is a dish from the region of Visayas, Philippines. It includes coconut milk and sago.</lex>
       <lex comment="good" lid="Id2">The binignit dish can be found in the Visayas region, Philippines. It includes sago and coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id246" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -5180,8 +5180,8 @@
         <mtriple>Ayam_penyet | region | "Nationwide, also can be found in Malaysia and Singapore"</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Javenese people are an ethnic group in Java, where Ayam penyet is from. it uses fried chicken as an ingredient and as well being found nationwide in Java, it can also be found in Malaysia and Singapore.</lex>
-      <lex comment="good" lid="Id2">The fried chicken dish Ayam penyet can be found nationwide in Java (country of the Javenese) and also in Malaysia and Singapore.</lex>
+      <lex comment="good" lid="Id1">The Javanese people are an ethnic group in Java, where Ayam penyet is from. it uses fried chicken as an ingredient and as well being found nationwide in Java, it can also be found in Malaysia and Singapore.</lex>
+      <lex comment="good" lid="Id2">The fried chicken dish Ayam penyet can be found nationwide in Java (country of the Javanese) and also in Malaysia and Singapore.</lex>
       <lex comment="good" lid="Id3">The fried chicken dish Ayam penyet is made nationwide in Java (home of the Javanese), and can also be found in Malaysia and Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id285" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -5198,8 +5198,8 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is from the Singapore region, Java; one of its ingredients is fried chicken. The Javanese people are an ethnic group in Java.</lex>
-      <lex comment="good" lid="Id2">Ayam penyet is a fried chicken dish from Singapore and Java. The Javenese people are an ethnic group in Java.</lex>
-      <lex comment="good" lid="Id3">The Javenese people are an ethnic group in Java where the fried chicken dish ayam penyet that originated in Singapore can be found.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is a fried chicken dish from Singapore and Java. The Javanese people are an ethnic group in Java.</lex>
+      <lex comment="good" lid="Id3">The Javanese people are an ethnic group in Java where the fried chicken dish ayam penyet that originated in Singapore can be found.</lex>
     </entry>
     <entry category="Food" eid="Id286" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -5214,8 +5214,8 @@
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ayam penyet is a dish from Singapore and Java. The Javenese people are an ethnic group in Java and Standard Chinese is spoken in Singapore.</lex>
-      <lex comment="good" lid="Id2">The Javenese people are an ethnic group in Java, where the dish ayam penyet can be found. The dish is from Singapore, where Standard Chinese is spoken.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is a dish from Singapore and Java. The Javanese people are an ethnic group in Java and Standard Chinese is spoken in Singapore.</lex>
+      <lex comment="good" lid="Id2">The Javanese people are an ethnic group in Java, where the dish ayam penyet can be found. The dish is from Singapore, where Standard Chinese is spoken.</lex>
       <lex comment="good" lid="Id3">The Javanese people are an ethnic group in Java where the dish Ayam penyet is found. It originates from the region of Singapore where Standard Chinese is spoken.</lex>
     </entry>
     <entry category="Food" eid="Id287" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -5447,7 +5447,7 @@
         <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
         <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Igorot and Ilocano people are both ethnic groups in the Phillipines. Batchoy is eaten there. In addition Arabic is one of the languages spoken in the country.</lex>
+      <lex comment="good" lid="Id1">The Igorot and Ilocano people are both ethnic groups in the Philippines. Batchoy is eaten there. In addition Arabic is one of the languages spoken in the country.</lex>
       <lex comment="good" lid="Id2">The Ilocano and Igorot people are ethnic groups in the Philippines where Arabic is one of the languages spoken. The country is the origin of the dish Batchoy.</lex>
       <lex comment="good" lid="Id3">The Ilocano and Igorot people are ethnic groups in the Philippines. The country uses the Arabic language and is where batchoy is eaten.</lex>
     </entry>

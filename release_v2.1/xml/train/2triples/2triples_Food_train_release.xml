@@ -127,7 +127,7 @@
         <mtriple>Ajoblanco | ingredient | Almond</mtriple>
         <mtriple>Almond | order | Rosids</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ajoblanco">The order Rosids features almonds which are an ingredient in ajobanco.</lex>
+      <lex comment="good" lid="Id1" error_1="Ajoblanco">The order Rosids features almonds which are an ingredient in ajoblanco.</lex>
       <lex comment="good" lid="Id2">Almond is part of the order of Rosids and is an ingredient in ajoblanco.</lex>
       <lex comment="good" lid="Id3">The Rosids has Almond as part of the order and its also an ingredient of ajoblanco.</lex>
     </entry>
@@ -190,7 +190,7 @@
         <mtriple>Ajoblanco | region | Andalusia</mtriple>
         <mtriple>Andalusia | leaderName | Susana_Díaz</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ajoblanco">Susana Diaz of edger Blanco is the leader of Andalusia.</lex>
+      <lex comment="good" lid="Id1" error_1="Ajoblanco">Susana Diaz is the leader of Andalusia, where the dish Ajoblanco can be found.</lex>
       <lex comment="good" lid="Id2">Ajoblanco is from the Andalusia region where Susana Diaz is the leader.</lex>
       <lex comment="good" lid="Id3">Ajoblanco is from Andalusia, where Susana Diaz is the leader.</lex>
     </entry>
@@ -267,7 +267,7 @@
         <mtriple>Italy | leaderName | Pietro_Grasso</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Italy is Pietro Grasso where amatriciana sauce can be found.</lex>
-      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Amatricana sauce can be found in Italy where Pietro Grasso is the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Amatriciana sauce can be found in Italy where Pietro Grasso is the leader.</lex>
       <lex comment="good" lid="Id3">Pietro Grasso is the leader of Italy, which is where Amatriciana sauce comes from.</lex>
     </entry>
     <entry category="Food" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -318,7 +318,7 @@
         <mtriple>Tomato | order | Solanales</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ingredient of amatriciana sauce is tomato (a member of the Solanales order).</lex>
-      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Tomato is an ingredient of Amatariciana sauce and is a member of the order Solanales.</lex>
+      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Tomato is an ingredient of Amatriciana sauce and is a member of the order Solanales.</lex>
       <lex comment="good" lid="Id3">Tomatoes, which are one of the members of the order Solanales, is an ingredient in Amatriciana sauce.</lex>
     </entry>
     <entry category="Food" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -471,9 +471,9 @@
         <mtriple>Arem-arem | region | Indonesia</mtriple>
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem arem is a dish comprised of compressed rice, cooked in banana leaves and filled with vegetables or meat, is an Indonesian recipe.</lex>
+      <lex comment="good" lid="Id1" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem arem is a dish comprised of compressed rice, cooked in banana leaves and filled with vegetables or meat. It is an Indonesian recipe.</lex>
       <lex comment="good" lid="Id2">To make an Arem-Arem you need compressed rice cooked in banana leaf with vegetables or minced meat fillings and this meal originates from Indonesia.</lex>
-      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Indonesian dish Arem Arem includes the filling compressed rice, (cooked in a banana leaf) with vegetables or minced meat.</lex>
+      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Indonesian dish Arem Arem includes the filling compressed rice (cooked in a banana leaf) with vegetables or minced meat.</lex>
     </entry>
     <entry category="Food" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -621,7 +621,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arrabbiata sauce includes tomatoes which is from the order Solanales.</lex>
       <lex comment="good" lid="Id2">Tomato is one of the members of the order Solanales and it's used in Arrabbiata sauce.</lex>
-      <lex comment="good" lid="Id3" error_1="Arrabbiata sauce">Tomatoes, of the order Solanales, are found in Arrabiata sauce.</lex>
+      <lex comment="good" lid="Id3" error_1="Arrabbiata sauce">Tomatoes, of the order Solanales, are found in Arrabbiata sauce.</lex>
     </entry>
     <entry category="Food" eid="Id47" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -724,7 +724,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre is from Spain where Spaniards are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Arròs negre is from Spain, which is populated by Spaniards.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain" error_2="Spaniards">The spanish dish arros negre is traditional.</lex>
+      <lex comment="good" lid="Id3" error_1="Spain" error_2="Spaniards">The Spanish dish arros negre is traditional.</lex>
     </entry>
     <entry category="Food" eid="Id55" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2473,7 +2473,7 @@
         <mtriple>Batchoy | ingredient | Vegetable</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Vegetables are ingredients of Batchoy which is eaten in the Philippines.</lex>
-      <lex comment="good" lid="Id2">Vegetables are used in Batchoy which is from the country of the Phillippines.</lex>
+      <lex comment="good" lid="Id2">Vegetables are used in Batchoy which is from the country of the Philippines.</lex>
       <lex comment="good" lid="Id3">Vegetables are an ingredient of Batchoy which comes from the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id185" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2519,7 +2519,7 @@
         <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy is eaten in the Philippines where the Ilocano people are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">Batchoy is a dis found in the Phillipines; the Ilocano people are an ethnic group living there.</lex>
+      <lex comment="good" lid="Id2">Batchoy is a dis found in the Philippines; the Ilocano people are an ethnic group living there.</lex>
       <lex comment="good" lid="Id3">The Ilocano people are an ethnic group from the Philippines where Batchoy is eaten.</lex>
     </entry>
     <entry category="Food" eid="Id188" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2921,7 +2921,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
         <mtriple>Binignit | ingredient | Taro</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Binignit is a dish from the Phillippines, whose ingredients include taro.</lex>
+      <lex comment="good" lid="Id1">Binignit is a dish from the Philippines, whose ingredients include taro.</lex>
       <lex comment="good" lid="Id2">Taro is an ingredient of Binignit which comes from the Philippines.</lex>
       <lex comment="good" lid="Id3">Binignit is an ingredient found in taro and originates from the Philippines.</lex>
     </entry>
@@ -2961,7 +2961,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sweet potato is an ingredient in Binignit which comes from the Philippines.</lex>
-      <lex comment="good" lid="Id2">Sweet potatoes are in binignit recipes, it is a dish of the Phillippines.</lex>
+      <lex comment="good" lid="Id2">Sweet potatoes are in binignit recipes, it is a dish of the Philippines.</lex>
       <lex comment="good" lid="Id3">Binignit comes from the Philippines and one of the ingredients is sweet potato.</lex>
     </entry>
     <entry category="Food" eid="Id222" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -3024,8 +3024,8 @@
         <mtriple>Binignit | mainIngredients | Sago</mtriple>
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Binignit, a dish found in the Phillipines, contains sago as one of its main ingredients.</lex>
-      <lex comment="good" lid="Id2" error_1="Binignit">Sago is the main ingredient of binigit, found in the Phillippines.</lex>
+      <lex comment="good" lid="Id1">Binignit, a dish found in the Philippines, contains sago as one of its main ingredients.</lex>
+      <lex comment="good" lid="Id2" error_1="Binignit">Sago is the main ingredient of binigit, found in the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id227" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3038,7 +3038,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The binignit dish can be found in the Philippines and one of the main ingredients is the sweet potato.</lex>
       <lex comment="good" lid="Id2">The binignit dish can be found in the Philippines and the main ingredient is sweet potatoes.</lex>
-      <lex comment="good" lid="Id3" error_1="Binignit">Biniignit from the Phillippines is made with sweet potatoes.</lex>
+      <lex comment="good" lid="Id3" error_1="Binignit">Biniignit from the Philippines is made with sweet potatoes.</lex>
     </entry>
     <entry category="Food" eid="Id228" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

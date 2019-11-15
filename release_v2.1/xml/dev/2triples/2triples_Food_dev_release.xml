@@ -306,8 +306,8 @@
         <mtriple>Beef_kway_teow | region | Singapore</mtriple>
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Standard Chinese">Beef kway teow originates from Singapore, where Chinese is spoken.</lex>
-      <lex comment="good" lid="Id2">Standard chinese speaking Singapore is the origin of beef kway teow.</lex>
+      <lex comment="good" lid="Id1" error_1="Standard Chinese">Beef kway teow originates from Singapore, where Standard Chinese is spoken.</lex>
+      <lex comment="good" lid="Id2">Standard Chinese speaking Singapore is the origin of beef kway teow.</lex>
     </entry>
     <entry category="Food" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

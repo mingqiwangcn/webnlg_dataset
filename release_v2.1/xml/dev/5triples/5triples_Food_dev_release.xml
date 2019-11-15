@@ -72,7 +72,7 @@
         <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Italians">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
-      <lex comment="good" lid="Id2" error_1="Italians">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Italians">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader. People there are called Italians.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -227,7 +227,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon Explosion is a dish from the United States, where Joe Biden is leader and the capital is Washington DC. English is the language spoken in the US and Asian Americans are an ethnic group there.</lex>
-      <lex comment="good" lid="Id2" error_1="English language">Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there.</lex>
+      <lex comment="good" lid="Id2" error_1="English language">Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there. In the U.S., they speak English.</lex>
     </entry>
     <entry category="Food" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -252,7 +252,7 @@
         <mtriple>Baked_Alaska | region | Hong_Kong</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska originates from France where the national language is French and one of the leader is Gerard Larcher. The dessert is served in Hong Kong as well where the leader is Carrie Lam.</lex>
-      <lex comment="good" lid="Id2" error_1="Carrie Lam (politician)">Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong.</lex>
+      <lex comment="good" lid="Id2" error_1="Carrie Lam (politician)">Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong where one of the political leaders is Carrie Lam.</lex>
       <lex comment="good" lid="Id3">Baked Alaska, served in Hong Kong, whose political leader is Carrie Lam, but is actually from France where the national language is French and the leader is Gerard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -528,7 +528,7 @@
         <mtriple>Batchoy | country | Philippines</mtriple>
         <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ilocano people">Philippines is the country the dish Batchoy comes from. The llocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.</lex>
+      <lex comment="good" lid="Id1" error_1="Ilocano people">Philippines is the country the dish Batchoy comes from. The Ilocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.</lex>
       <lex comment="good" lid="Id2">Batchoy is eaten in the Philippines, languages spoken there include English (official language) and also Arabic. Ethnic groups there include the Ilocano and Igorot peoples.</lex>
     </entry>
     <entry category="Food" eid="Id28" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">

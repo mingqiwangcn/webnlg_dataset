@@ -269,7 +269,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">The main course Arem-arem is a dish of Javanese cuisine and is also popular in Indonesia. The main ingredients are rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
       <lex comment="good" lid="Id2" error_1="Indonesia" error_2="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem-arem, with ingredients such as banana leaf, vegetables and minced meat is a javanese dish which can be served as a main course.</lex>
-      <lex comment="good" lid="Id3" error_1="Main course" error_2="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem-arem includes compressed rice cooked in banana leaf and vegetables or minced meat. It is a main dish of Javenese cuisine and served in Indonesia.</lex>
+      <lex comment="good" lid="Id3" error_1="Main course" error_2="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem-arem includes compressed rice cooked in banana leaf and vegetables or minced meat. It is a main dish of Javanese cuisine and served in Indonesia.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -364,8 +364,8 @@
         <mtriple>Indonesia | language | Indonesian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem, a Javanese dish, is from Indonesia, where Indonesian is the language spoken. Two of the leaders in Indonesia are Joko Widodo and Jusuf Kalla.</lex>
-      <lex comment="good" lid="Id2" error_1="Jusuf Kalla">Arem-arem is a Javanese dish from Indonesia. Joko Widodo and Jusuf Kaila are the leaders of this Indonesian-speaking nation.</lex>
-      <lex comment="good" lid="Id3">The Javanese dish Arem arem is commonly served inIndonesia. The country's leaders include Jusuf Kalla and Joko Widodo. and the language is Indonesian.</lex>
+      <lex comment="good" lid="Id2" error_1="Jusuf Kalla">Arem-arem is a Javanese dish from Indonesia. Joko Widodo and Jusuf Kalla are the leaders of this Indonesian-speaking nation.</lex>
+      <lex comment="good" lid="Id3">The Javanese dish Arem-arem is commonly served in Indonesia. The country's leaders include Jusuf Kalla and Joko Widodo, and the language is Indonesian.</lex>
     </entry>
     <entry category="Food" eid="Id18" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -953,8 +953,8 @@
         <mtriple>Fried_chicken | mainIngredients | Chicken</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Javenese people are an ethnic group found in Malaysia and Java. Ayam Penyet is a type of dish found in these places and the main ingredient is fried chicken.</lex>
-      <lex comment="good" lid="Id2">Ayam penyet includes fried chicken and is a dish enjoyed by the Javanese of Java and also found in Malaysia.</lex>
+      <lex comment="good" lid="Id1">Javanese people are an ethnic group found in Java. Ayam Penyet is a type of dish found in this place, and also Malaysia, and its main ingredient is fried chicken.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet includes fried chicken and is a dish of Java, which is also found in Malaysia. The Javanese is one of the ethnic groups in Java.</lex>
     </entry>
     <entry category="Food" eid="Id49" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1302,7 +1302,7 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Barack Obama">The Bacon Explosion comes from the United States where the capital is Washington D.C. and the leader was once Barak Obama. White Americans are one ethnic group of the country.</lex>
+      <lex comment="good" lid="Id1" error_1="Barack Obama">The Bacon Explosion comes from the United States where the capital is Washington D.C. and the leader was once President Barack Obama. White Americans are one ethnic group of the country.</lex>
     </entry>
     <entry category="Food" eid="Id68" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4186,7 +4186,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Chicken is the main ingredient of fried chicken, which in turn is the main ingredient in Ayam penyet. This dish comes from both Singapore and Java (where the ethnic people are the Javanese).</lex>
       <lex comment="good" lid="Id2">Fried chicken is one of the ingredients in the dish Ayam Penyet which is from the Singapore region and the country Java where the Javanese are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id3">The Javenese people are an ethnic group in Java, where you can find the dish Ayam penyet. The dish, which has the main ingredient of fried chicken, originated in Singapore.</lex>
+      <lex comment="good" lid="Id3">The Javanese people are an ethnic group in Java, where you can find the dish Ayam penyet. The dish, which has the main ingredient of fried chicken, originated in Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id207" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4221,7 +4221,7 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penyet is from Singapore and Java where the Javanese people are an ethnic group.</lex>
-      <lex comment="good" lid="Id2">The Javenese people are an ethnic group in Java, where there is a dish called ayam penyet. The dish originates from Singapore, where the leader is Halimah Yacob and one of the languages spoken is English.</lex>
+      <lex comment="good" lid="Id2">The Javanese people are an ethnic group in Java, where there is a dish called ayam penyet. The dish originates from Singapore, where the leader is Halimah Yacob and one of the languages spoken is English.</lex>
       <lex comment="good" lid="Id3">Halimah Yacob leads the country of Singapore, where English is spoken. The Javanese are an ethnic group from Java where the dish ayam penyet comes from. It is also from the Singapore region.</lex>
     </entry>
     <entry category="Food" eid="Id209" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4347,7 +4347,7 @@
         <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Igorot people and the Ilocano people are ethnic groups from the Philippines where Philippine English is the official language and where Philippine Spanish is also spoken. Batchoy is a traditional dish from this country.</lex>
-      <lex comment="good" lid="Id2">Batchoy is a dish eaten in the Phillipines, where Philippine English is the official language and where Philippine Spanish is also spoken. Ethnic groups from the Philippines include the Ilocano people and the Igorot people.</lex>
+      <lex comment="good" lid="Id2">Batchoy is a dish eaten in the Philippines, where Philippine English is the official language and where Philippine Spanish is also spoken. Ethnic groups from the Philippines include the Ilocano people and the Igorot people.</lex>
       <lex comment="good" lid="Id3">Batchoy comes from the Philippines, where Philippine English and Philippine Spanish are both spoken. Two of its ethnic groups are the Ilocano and Igorot people.</lex>
     </entry>
     <entry category="Food" eid="Id215" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

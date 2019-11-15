@@ -324,7 +324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arrabbiata sauce has basil as a variation.</lex>
       <lex comment="good" lid="Id2">To vary arrabbiata sauce, basil may be used.</lex>
-      <lex comment="good" lid="Id3" error_1="Arrabbiata sauce">Basil can be included in Arrabbiaita sauce.</lex>
+      <lex comment="good" lid="Id3" error_1="Arrabbiata sauce">Basil can be included in Arrabbiata sauce.</lex>
     </entry>
     <entry category="Food" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1060,7 +1060,7 @@
       <modifiedtripleset>
         <mtriple>Bakso | ingredient | Ground_beef</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bakso">Ground beef is an ingredient in Basko.</lex>
+      <lex comment="good" lid="Id1" error_1="Bakso">Ground beef is an ingredient in Bakso.</lex>
       <lex comment="good" lid="Id2">Ground beef is one ingredient in Bakso.</lex>
       <lex comment="good" lid="Id3">Ground beef is an ingredient of Bakso.</lex>
     </entry>
@@ -1287,7 +1287,7 @@
         <mtriple>Barny_Cakes | dishVariation | Strawberry</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Strawberry">Strawberries can be added to barny cakes.</lex>
-      <lex comment="good" lid="Id2">a variation of Barny Cakes is to use Strawberry.</lex>
+      <lex comment="good" lid="Id2">A variation of Barny Cakes is to use Strawberry.</lex>
     </entry>
     <entry category="Food" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1590,7 +1590,7 @@
       <modifiedtripleset>
         <mtriple>Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is a dish similar to pakora and other fritters made from whet or corn flour.</lex>
+      <lex comment="good" lid="Id1" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is a dish similar to pakora and other fritters made from wheat or corn flour.</lex>
       <lex comment="good" lid="Id2">Pakora and other fritters made from wheat or corn flour are similar to bhajji.</lex>
       <lex comment="good" lid="Id3">Bhajji is a similar dish to pakora and other fritters made from wheat or corn flour.</lex>
     </entry>
@@ -1674,7 +1674,7 @@
         <mtriple>Binignit | mainIngredients | Coconut_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the main ingredients of binignit is coconut milk.</lex>
-      <lex comment="good" lid="Id2" error_1="Binignit">The main ingredient of Bingnit is coconut milk.</lex>
+      <lex comment="good" lid="Id2" error_1="Binignit">The main ingredient of Binignit is coconut milk.</lex>
     </entry>
     <entry category="Food" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2208,7 +2208,7 @@
         <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Javanese people are an ethnic group of Java.</lex>
-      <lex comment="good" lid="Id2">The Javenese people are an ethnic group in Java.</lex>
+      <lex comment="good" lid="Id2">The Javanese people are an ethnic group in Java.</lex>
     </entry>
     <entry category="Food" eid="Id209" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2218,7 +2218,7 @@
         <mtriple>Karnataka | leaderName | Vajubhai_Vala</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Karnataka is Vajubhai Vala.</lex>
-      <lex comment="good" lid="Id2" error_1="Karnataka">Vajubhai Vala is a leader of Karnatka.</lex>
+      <lex comment="good" lid="Id2" error_1="Karnataka">Vajubhai Vala is a leader of Karnataka.</lex>
       <lex comment="good" lid="Id3">Vajubhai Vala is the leader of Karnataka.</lex>
     </entry>
     <entry category="Food" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
