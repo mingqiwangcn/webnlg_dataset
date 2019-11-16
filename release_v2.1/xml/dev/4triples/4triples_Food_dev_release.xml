@@ -154,7 +154,7 @@
         <mtriple>Arròs_negre | mainIngredients | "White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers"</mtriple>
         <mtriple>Arròs_negre | ingredient | Cubanelle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Cubanelle" error_2="White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers">Arros negre is a traditional dish from the Valencian Community, Spain. It has the main ingredients of white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
+      <lex comment="good" lid="Id1">Arros negre is a traditional dish from the Valencian Community, Spain. It has the main ingredients of white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
       <lex comment="good" lid="Id2">Arros negre comes from the region of the Valencian Community, Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers.</lex>
       <lex comment="good" lid="Id3">Arros negre comes from the region of the Valencian Community in Spain. The main ingredients are white rice, cuttlefish or squid, cephalopod ink, cubanelle peppers.</lex>
     </entry>
@@ -173,7 +173,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asam pedas is found in the region of Sumatra and Malay peninsula in Malaysia. It can also be called Asam padeh and its ingredients are fish cooked in sour and hot sauce.</lex>
       <lex comment="good" lid="Id2">Asam pedas (aka asam padeh) is from the Sumatra and Malay Peninsula regions of Malaysia. The main ingredients are fish cooked in sour and hot sauce.</lex>
-      <lex comment="good" lid="Id3" error_1="Sumatra and Malay Peninsula">Asam padeh is also known as asam pedas and is a food found in Malaysia originating from the Sumatra and Malay Peninsula regions. The main ingredients is fish cooked in a sour and hot sauce.</lex>
+      <lex comment="good" lid="Id3">Asam padeh is also known as asam pedas and is a food found in Malaysia originating from the Sumatra and Malay Peninsula regions. The main ingredients is fish cooked in a sour and hot sauce.</lex>
     </entry>
     <entry category="Food" eid="Id10" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -240,7 +240,7 @@
         <mtriple>Bacon_sandwich | ingredient | Bacon</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon sandwiches are popular in the UK, have a variant called a BLT, include the ingredient bacon and sometimes go by the name of: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
-      <lex comment="good" lid="Id2" error_1="United Kingdom">The bacon sandwich, of which an ingredient is bacon, has a variation called the BLT and has different names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. It originates from the U.K.</lex>
+      <lex comment="good" lid="Id2">The bacon sandwich, of which an ingredient is bacon, has a variation called the BLT and has different names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. It originates from the U.K.</lex>
       <lex comment="good" lid="Id3">A bacon sandwich, which is a variation of the BLT, can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin. It is a dish containing bacon and comes from the United Kingdom.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -291,7 +291,7 @@
         <mtriple>Baked_Alaska | ingredient | Meringue</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="France, United States or China">Baked Alaska has the main ingredients of meringue, ice cream and sponge cake (or Christmas pudding). It is found in France, the US, China, Hong Kong, New York and Paris.</lex>
-      <lex comment="good" lid="Id2" error_1="France, United States or China">Baked Alaska contains: ice cream, sponge cake (Christmas pudding) and meringue. It is found in Hong Kong, New York and Paris. The origins are either France, China or the United States.</lex>
+      <lex comment="good" lid="Id2">Baked Alaska contains: ice cream, sponge cake (Christmas pudding) and meringue. It is found in Hong Kong, New York and Paris. The origins are either France, China or the United States.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -307,7 +307,7 @@
         <mtriple>Baked_Alaska | ingredient | Ice_cream</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska comes from either Paris, New York, USA, or Hong Kong. Meringue, ice cream, sponge cake or Christmas pudding are main ingredients in baked Alaska.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">The American dish Baked Alaska is found in Hong Kong, New York and Paris. Meringue, ice cream, sponge cake or Christmas pudding are its main ingredients.</lex>
+      <lex comment="good" lid="Id2">The American dish Baked Alaska is found in Hong Kong, New York and Paris. Meringue, ice cream, sponge cake or Christmas pudding are its main ingredients.</lex>
     </entry>
     <entry category="Food" eid="Id18" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -487,7 +487,7 @@
         <mtriple>Beef_kway_teow | ingredient | Palm_sugar</mtriple>
         <mtriple>Beef_kway_teow | country | "Singapore and Indonesia"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Palm sugar">Beef kway teow is a dish found in Indonesia and Singapore. Its main ingredients are Kway teow, beef tender loin, gula Melaka, sliced dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. It also includes palm sugar.</lex>
+      <lex comment="good" lid="Id1">Beef kway teow is a dish found in Indonesia and Singapore. Its main ingredients are Kway teow, beef tender loin, gula Melaka, sliced dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. It also includes palm sugar.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is a dish commonly found in Singapore and Indonesia. The ingredients include Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli, sesame oil and palm sugar.</lex>
     </entry>
     <entry category="Food" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -505,7 +505,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji comes from the country India and has Gram flour and vegetables as its main ingredients. Bhaji and bajji are alternative names for Bhajji.</lex>
       <lex comment="good" lid="Id2">Bhajji is also known as Bhaji or bajji. It comes from India and includes gram flour and vegetables.</lex>
-      <lex comment="good" lid="Id3" error_1="Bhaji, bajji">Bhaji and bajji are alternative names for Bhajji which come from India. The main ingredients of Bhajji are gram flour and vegetables.</lex>
+      <lex comment="good" lid="Id3">Bhaji and bajji are alternative names for Bhajji which come from India. The main ingredients of Bhajji are gram flour and vegetables.</lex>
     </entry>
     <entry category="Food" eid="Id28" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -609,7 +609,7 @@
         <mtriple>Bionico | course | Dessert</mtriple>
         <mtriple>Dessert | dishVariation | Sandesh_(confectionery)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Sandesh (confectionery)">Bionico is a dessert found in Mexico, whose leader is Enrique Pena Nieto. Sandesh is a nice confectionary dessert.</lex>
+      <lex comment="good" lid="Id1">Bionico is a dessert found in Mexico, whose leader is Enrique Pena Nieto. Sandesh is a nice confectionary dessert.</lex>
       <lex comment="good" lid="Id2">Bionico is a dessert found in Mexico where the leader is Enrique Peña Nieto. Sandesh is also a nice confectionery dessert.</lex>
     </entry>
     <entry category="Food" eid="Id34" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -643,7 +643,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amatriciana sauce is a traditional sauce in Italy. The country where Rome is the capital, the language is Italian and Laura Boldrini is the leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Italy has the capital city of Rome, the leader called Laura Boldrini, the Italian language and the sauce called amatriciana.</lex>
+      <lex comment="good" lid="Id2">Italy has the capital city of Rome, the leader called Laura Boldrini, the Italian language and the sauce called amatriciana.</lex>
       <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italy where the capital is Rome and the language is Italian. The leader in Italy is Laura Boldrini.</lex>
     </entry>
     <entry category="Food" eid="Id36" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

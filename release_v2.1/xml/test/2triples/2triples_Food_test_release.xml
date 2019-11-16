@@ -84,7 +84,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Spain">Arros negre is a traditional Spanish dish and comes from the region of the Valencian Community.</lex>
       <lex comment="good" lid="Id2">Arros negre comes from the region of the Valencian Community in Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">Arros negre comes from the Valencian Community in Spain.</lex>
+      <lex comment="good" lid="Id3">Arros negre comes from the Valencian Community in Spain.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The comic strip character Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
       <lex comment="good" lid="Id2">The comic book character Asterix was created by René Goscinny and Albert Uderzo.</lex>
-      <lex comment="good" lid="Id3" error_1="Rene Goscinny">The character Asterix was created by René Goscinny and Albert Uderzo.</lex>
+      <lex comment="good" lid="Id3">The character Asterix was created by René Goscinny and Albert Uderzo.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -61,7 +61,7 @@
         <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Starring Graeme Garden, Bananaman, the TV series was shown on the BBC.</lex>
-      <lex comment="good" lid="Id2" error_1="Bananaman">Graeme Garden starred in the TV series Bananaman, which was shown on the BBC.</lex>
+      <lex comment="good" lid="Id2">Graeme Garden starred in the TV series Bananaman, which was shown on the BBC.</lex>
       <lex comment="good" lid="Id3">Bananaman, which starred Graeme Garden, was broadcasted by the BBC.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -141,7 +141,7 @@
         <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
         <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Paris Cullins">Paris Cullins and Gary Cohn are the creators of the comics character Bolt.</lex>
+      <lex comment="good" lid="Id1">Paris Cullins and Gary Cohn are the creators of the comics character Bolt.</lex>
       <lex comment="good" lid="Id2">Both Paris Cullins and Gary Cohn were the creator's of the comic character Bolt.</lex>
       <lex comment="good" lid="Id3">The comic character Bolt, was created by Paris Cullins and Gary Cohn.</lex>
     </entry>

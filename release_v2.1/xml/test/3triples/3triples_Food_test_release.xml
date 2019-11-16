@@ -32,7 +32,7 @@
         <mtriple>Arem-arem | region | Javanese_cuisine</mtriple>
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Arem-arem">A dish of Javanese cuisine, Arem-arem has compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id1">A dish of Javanese cuisine, Arem-arem has compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
       <lex comment="good" lid="Id2" error_1="Javanese cuisine">Arem arem is a Javanese dish and the main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
     </entry>
     <entry category="Food" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -107,7 +107,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Fish cooked in hot and sour sauce is called asam pedas and can be found in the Malay Peninsula region of Malaysia.</lex>
       <lex comment="good" lid="Id2">The main ingredient of asam pedas, which hails from the Malay Peninsula in Malaysia, is fish cooked in a sour and hot sauce.</lex>
-      <lex comment="good" lid="Id3" error_1="Malaysia">Asam pedas is a food from the Malay Peninsula region, Malaysia, and the main ingredients are fish cooked in a sour and hot sauce.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a food from the Malay Peninsula region, Malaysia, and the main ingredients are fish cooked in a sour and hot sauce.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -296,7 +296,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell tart is a variation of Bakewell pudding which originates from the Derbyshire Dales. Some main ingredients in Bakewell pudding are ground almonds, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id2">The main ingredients of Bakewell pudding are ground almond, jam, butter and eggs. It is a variant of Bakewell tart and comes from the Derbyshire Dales region.</lex>
-      <lex comment="good" lid="Id3" error_1="Bakewell tart">Bakewell pudding has ground almond, jam, butter and eggs as main ingredients. It is a variation of Bakewell tart and originates from the Derbyshire Dales.</lex>
+      <lex comment="good" lid="Id3">Bakewell pudding has ground almond, jam, butter and eggs as main ingredients. It is a variation of Bakewell tart and originates from the Derbyshire Dales.</lex>
     </entry>
     <entry category="Food" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

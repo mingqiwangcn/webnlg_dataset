@@ -34,7 +34,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The TV series Bananaman starred Tim Brooke-Taylor and was last aired on the BBC on 15th April 1986.</lex>
       <lex comment="good" lid="Id2">Bananaman, which was broadcast by the BBC and last aired on April 15th, 1986, starred Tim Brooke-Taylor.</lex>
-      <lex comment="good" lid="Id3" error_1="Tim Brooke-Taylor">Tim Brooke-Taylor starred in Bananaman which was broadcast by the BBC and last aired on 15 April 1986.</lex>
+      <lex comment="good" lid="Id3">Tim Brooke-Taylor starred in Bananaman which was broadcast by the BBC and last aired on 15 April 1986.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

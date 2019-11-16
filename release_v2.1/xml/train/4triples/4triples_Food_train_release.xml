@@ -67,7 +67,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bread is an ingredient in Ajoblanco (Ajo blanco), which is from Andalusia, Spain.</lex>
       <lex comment="good" lid="Id2">Ajoblanco (also called Ajo blanco) originates from Andalusia, Spain. Bread is a main ingredient.</lex>
-      <lex comment="good" lid="Id3" error_1="Andalusia">Ajoblanco originates from the Andalusian region of Spain and contains bread among its ingredients. Ajo blanco is an alternative written name of the food.</lex>
+      <lex comment="good" lid="Id3">Ajoblanco originates from the Andalusian region of Spain and contains bread among its ingredients. Ajo blanco is an alternative written name of the food.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -83,7 +83,7 @@
         <mtriple>Ajoblanco | ingredient | Garlic</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The garlicy dish Ajoblanco (also known as Ajo blanco) is from the Andalusia region of Spain.</lex>
-      <lex comment="good" lid="Id2" error_1="Andalusia">Ajoblanco (or Ajo blanco) originates from Andalusia, Spain and contains garlic.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco (or Ajo blanco) originates from Andalusia, Spain and contains garlic.</lex>
       <lex comment="good" lid="Id3">Ajo blanco is the alternative name of ajoblanco which comes from the Andalusia region of Spain and has garlic as an ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -551,7 +551,7 @@
         <mtriple>Arem-arem | course | "Main course"</mtriple>
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Main course">Arem-arem is a main course in the Javanese cuisine. Its main ingredients are: compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id1">Arem-arem is a main course in the Javanese cuisine. Its main ingredients are: compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
       <lex comment="good" lid="Id2">Arem-arem is Javanese main course dish that comprises compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
     </entry>
     <entry category="Food" eid="Id30" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -592,7 +592,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem arem comes from Indonesia, it is a main course dish and includes compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
       <lex comment="good" lid="Id2">The Indonesian main course arem-arem consists of compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id3" error_1="Indonesia" error_2="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem arem, an Indonesian main course, has the components: rice cooked in a banana leaf and vegetables or minced meat.</lex>
+      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem arem, an Indonesian main course, has the components: rice cooked in a banana leaf and vegetables or minced meat.</lex>
     </entry>
     <entry category="Food" eid="Id32" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -814,7 +814,7 @@
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
         <mtriple>Arròs_negre | region | Catalonia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Catalonia">Arros negre is a traditional dish from the Catalonia region of Spain. The country's main ethnic group are the Spaniards and its leader is Felipe VI.</lex>
+      <lex comment="good" lid="Id1">Arros negre is a traditional dish from the Catalonia region of Spain. The country's main ethnic group are the Spaniards and its leader is Felipe VI.</lex>
     </entry>
     <entry category="Food" eid="Id42" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1083,7 +1083,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Malaysian Malay">Asam pedas is a dish from Sumatra, where the Acehnese people are an ethnic group. The dish is also found in Malaysia, where Malay people live.</lex>
       <lex comment="good" lid="Id2" error_1="Malaysian Malay">Asam pedas is a dish from Sumatra, home to Acehnese people. The dish can also be found in Malaysia, where the Malay are an ethnic group.</lex>
-      <lex comment="good" lid="Id3" error_1="Asam pedas" error_2="Malaysian Malay">Asam pedas is a dish from Sumatra where the Acehnese people are an ethnic group. it is also found in Malaysia where the Malays are an ethnic group.</lex>
+      <lex comment="good" lid="Id3" error_1="Malaysian Malay">Asam pedas is a dish from Sumatra where the Acehnese people are an ethnic group. it is also found in Malaysia where the Malays are an ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id58" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1136,7 +1136,7 @@
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The fried chicken dish Ayam penyet is found in Singapore and Java. Baduy is an ethnic group of Java.</lex>
-      <lex comment="good" lid="Id2" error_1="Baduy">Ayam penyet contains fried chicken. It originates from the Singapore region of Java (home of the Baduy people).</lex>
+      <lex comment="good" lid="Id2">Ayam penyet contains fried chicken. It originates from the Singapore region of Java (home of the Baduy people).</lex>
     </entry>
     <entry category="Food" eid="Id61" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1302,7 +1302,7 @@
         <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Malaysia">Ayam penyet is a fried chicken dish popular in Malaysia; the dish originates from the Java region, where the Javanese people are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Ayam penyet is a fried chicken dish popular in Malaysia; the dish originates from the Java region, where the Javanese people are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Ayam Penyet, a fried chicken dish, is from Malaysia and Java (country of the Javanese).</lex>
       <lex comment="good" lid="Id3">The fried chicken dish Ayam penyet is a popular dish in Malaysia and Java. The Javanese people are an ethnic group of Java.</lex>
     </entry>
@@ -1398,7 +1398,7 @@
         <mtriple>BLT | ingredient | Tomato</mtriple>
         <mtriple>Bacon_sandwich | country | United_Kingdom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United Kingdom">BLT is a variation of both the club and bacon sandwich (popular in the UK), and contains tomato.</lex>
+      <lex comment="good" lid="Id1">BLT is a variation of both the club and bacon sandwich (popular in the UK), and contains tomato.</lex>
       <lex comment="good" lid="Id2">Tomato is an ingredient of the BLT, which is a variation of the bacon sandwiches which are popular in the UK. The BLT is a variation of the club sandwich.</lex>
       <lex comment="good" lid="Id3">The bacon sandwich, also known as a BLT is a variant of the Club sandwich and contains tomato. It originates from the United Kingdom.</lex>
     </entry>
@@ -1433,7 +1433,7 @@
         <mtriple>Bacon_sandwich | country | United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bread is an ingredient in the bacon sandwich, which comes from the United Kingdom and is a variation of the BLT and Club.</lex>
-      <lex comment="good" lid="Id2" error_1="Bread">The country that bacon sandwich comes from is the United Kingdom. Variations include the BLT and the club sandwich. Bacon sandwich contains bread.</lex>
+      <lex comment="good" lid="Id2">The country that bacon sandwich comes from is the United Kingdom. Variations include the BLT and the club sandwich. Bacon sandwich contains bread.</lex>
       <lex comment="good" lid="Id3">A variation of the bacon sandwich, that comes from the UK and has bread as an ingredient, is the BLT. The BLT is also a variation of the club sandwich.</lex>
     </entry>
     <entry category="Food" eid="Id77" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2221,7 +2221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sandesh (confectionery) and Baked Alaska are types of desserts. The later comes from the U.S. African Americans are an ethnic group in that country.</lex>
       <lex comment="good" lid="Id2">Baked Alaska is a dessert found in the USA. African Americans are an ethnic group there, and Sandesh is another dessert.</lex>
-      <lex comment="good" lid="Id3" error_1="Sandesh (confectionery)">Sandesh is a dessert, as is Baked Alaska, which can be found in the US, where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">Sandesh is a dessert, as is Baked Alaska, which can be found in the US, where African Americans are an ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id121" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2253,7 +2253,7 @@
         <mtriple>Baked_Alaska | region | "Paris, New York or Hong Kong"</mtriple>
         <mtriple>Baked_Alaska | ingredient | Ice_cream</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Paris, New York or Hong Kong">Baked Alaska is from either France, the United States or China. Meringue, ice cream, sponge cake or Christmas pudding are the main ingredients. The dish is enjoyed in Paris, New York, and Hong Kong.</lex>
+      <lex comment="good" lid="Id1">Baked Alaska is from either France, the United States or China. Meringue, ice cream, sponge cake or Christmas pudding are the main ingredients. The dish is enjoyed in Paris, New York, and Hong Kong.</lex>
       <lex comment="good" lid="Id2">The dessert Baked Alaska, thought to have originated in the United States, France or China, include the ingredients meringue, ice cream and sponge cake (or Christmas pudding). The dish is popular in Paris, New York and Hong Kong.</lex>
     </entry>
     <entry category="Food" eid="Id123" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2595,7 +2595,7 @@
         <mtriple>Bakewell_tart | ingredient | Shortcrust_pastry</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell tart is made from shortcrust pastry and is a variation of Bakewell pudding. Both are from the Derbyshire Dales where Patrick McLoughlin is a leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Bakewell tart">Bakewell pudding (also known as a Bakewell tart) originates from the Derbyshire Dales where Patrick McLoughlin is the leader. Shortcrust pastry is a main ingredient.</lex>
+      <lex comment="good" lid="Id2">Bakewell pudding (also known as a Bakewell tart) originates from the Derbyshire Dales where Patrick McLoughlin is the leader. Shortcrust pastry is a main ingredient.</lex>
       <lex comment="good" lid="Id3">Bakewell tart is a variation of Bakewell pudding which originates in the Derbyshire Dales where Patrick McLoughlin is a leader. One of the ingredients in the dish is shortcrust pastry.</lex>
     </entry>
     <entry category="Food" eid="Id143" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2743,7 +2743,7 @@
         <mtriple>Bakso | country | Chinese_cuisine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakso is food found in Indonesia and China. The main ingredients of Bakso are ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables and fried shallots.</lex>
-      <lex comment="good" lid="Id2" error_1="Ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables, fried shallots">Chinese and Indonesian dish Bakso contains: ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables and fried shallots.</lex>
+      <lex comment="good" lid="Id2">Chinese and Indonesian dish Bakso contains: ground beef, tapioca, noodle, rice vermicelli, beef broth, kailan, celery, salted vegetables and fried shallots.</lex>
     </entry>
     <entry category="Food" eid="Id150" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2812,7 +2812,7 @@
         <mtriple>Bandeja_paisa | region | Antioquia_Department</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Colombian dish, Bandeja paisa, is from the Antioquia Department region, and includes avocado which is part of the Lauraceae family.</lex>
-      <lex comment="good" lid="Id2" error_1="Antioquia Department">Avocado, part of the Lauraceae family, is one of the ingredients of Bandeja paisa, a typical Colombian dish from the Antioquia Department region.</lex>
+      <lex comment="good" lid="Id2">Avocado, part of the Lauraceae family, is one of the ingredients of Bandeja paisa, a typical Colombian dish from the Antioquia Department region.</lex>
       <lex comment="good" lid="Id3">Bandeja paisa is a dish from the Antioquia Department region of Colombia. Avocado, which is part of the Lauraceae family, is one of the ingredients.</lex>
     </entry>
     <entry category="Food" eid="Id154" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -2861,7 +2861,7 @@
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bandeja paisa is from the Paisa region and part of the Colombian cuisine. The main ingredients of Bandeja paisa are: red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon".</lex>
-      <lex comment="good" lid="Id2" error_1="red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon">Bandeja paisa is a typical Colombian dish from the Paisa region. The main ingredients are avocado, red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), and lemon.</lex>
+      <lex comment="good" lid="Id2">Bandeja paisa is a typical Colombian dish from the Paisa region. The main ingredients are avocado, red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), and lemon.</lex>
     </entry>
     <entry category="Food" eid="Id157" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2909,7 +2909,7 @@
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bandeja paisa, a dish containing ground meat, is part of Colombian cuisine and from the Paisa region. The main ingredients are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
-      <lex comment="good" lid="Id2" error_1="red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon">Bandeja paisa is a typical Colombian cuisine from the Paisa region. The main ingredients are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado, and lemon.</lex>
+      <lex comment="good" lid="Id2">Bandeja paisa is a typical Colombian cuisine from the Paisa region. The main ingredients are red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado, and lemon.</lex>
       <lex comment="good" lid="Id3">Bandeja paisa comes from the Paisa region of Colombia. It is made with red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon.</lex>
     </entry>
     <entry category="Food" eid="Id160" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2925,7 +2925,7 @@
         <mtriple>Lemon | family | Rutaceae</mtriple>
         <mtriple>Bandeja_paisa | region | Antioquia_Department</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Colombia">Lemon, part of the rutaceae family, is an ingredient in Bandeja paisa, a dish from the Antioquia Department region in Colombia.</lex>
+      <lex comment="good" lid="Id1">Lemon, part of the rutaceae family, is an ingredient in Bandeja paisa, a dish from the Antioquia Department region in Colombia.</lex>
       <lex comment="good" lid="Id2">Bandeja paisa comes from the Antioquia Department region of Colombia. One of the ingredients is lemon, which belongs to the rutaceae family.</lex>
       <lex comment="good" lid="Id3">Bandeja paisa comes from the Antioquia Department in Colombia. One of the ingredient is lemon which is a member of the Rutaceae family.</lex>
     </entry>
@@ -3140,7 +3140,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barny Cakes come from France where French is spoken and François Hollande and/or Claude Bartolone are the leader.</lex>
       <lex comment="good" lid="Id2">Barny cakes can be found in France where the language is French and leaders include Claude Bartolone and Francois Hollande.</lex>
-      <lex comment="good" lid="Id3" error_1="Francois Hollande">Barny cakes come from France, where Francois Hollande and Claude Bartolone are leaders and the language spoken is French.</lex>
+      <lex comment="good" lid="Id3">Barny cakes come from France, where Francois Hollande and Claude Bartolone are leaders and the language spoken is French.</lex>
     </entry>
     <entry category="Food" eid="Id173" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3184,7 +3184,7 @@
         <mtriple>France | leaderName | Gérard_Larcher</mtriple>
         <mtriple>France | leaderName | Claude_Bartolone</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Claude Bartolone">The French language is spoken in France where Barny cakes are found and the leaders are Gerard Larcher and Claude Bartolone.</lex>
+      <lex comment="good" lid="Id1">The French language is spoken in France where Barny cakes are found and the leaders are Gerard Larcher and Claude Bartolone.</lex>
       <lex comment="good" lid="Id2">Barny cakes can be found in France where the leaders are Gerard Larcher and Claude Bartolone and the French language is spoken.</lex>
       <lex comment="good" lid="Id3">Barny cakes are found in France where the French speaking people are led by Gerard Larcher and Claude Bartolone.</lex>
     </entry>
@@ -3332,7 +3332,7 @@
         <mtriple>Shumai | ingredient | Shiitake</mtriple>
         <mtriple>Batagor | dishVariation | Shumai</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Shiitake">Batagor comes from the country of Indonesia. It is a variation of Siomay and Shumai (which include Shiitake mushrooms).</lex>
+      <lex comment="good" lid="Id1">Batagor comes from the country of Indonesia. It is a variation of Siomay and Shumai (which include Shiitake mushrooms).</lex>
       <lex comment="good" lid="Id2">Batagor and Siomay can be found in Indonesia. They are the variations of Shumai which contains Shiitake.</lex>
     </entry>
     <entry category="Food" eid="Id181" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3641,7 +3641,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy, from La Paz, Iloilo City, is eaten in the Philippines and the ingredients are noodles, pork organs, vegetables, chicken, shrimp and beef.</lex>
       <lex comment="good" lid="Id2">Batchoy originated from the region of La Paz, Iloilo City, Philippines. The main ingredients are noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
-      <lex comment="good" lid="Id3" error_1="La Paz, Iloilo City">Batchoy, a Philippine dish, includes: noodles, pork organs, vegetables, chicken, shrimp and beef. It is also found in La Paz, Iloilo City.</lex>
+      <lex comment="good" lid="Id3">Batchoy, a Philippine dish, includes: noodles, pork organs, vegetables, chicken, shrimp and beef. It is also found in La Paz, Iloilo City.</lex>
     </entry>
     <entry category="Food" eid="Id196" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3758,7 +3758,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef kway teow is a dish found in Singapore and Indonesia. Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are main ingredients in beef kway teow.</lex>
       <lex comment="good" lid="Id2">Beef kway teow is served in the region of Indonesia and is also found in Singapore. The main ingredients are Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
-      <lex comment="good" lid="Id3" error_1="Indonesia" error_2="Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil" error_3="Singapore and Indonesia">Beek kway teow includes: kway teow, beef tender loin, gula Melaka, black beans, garlic, oyster, soya and soy sauce, lengkuas, chili and sesame oil. It is found in Singapore and Indonesia.</lex>
+      <lex comment="good" lid="Id3" error_1="Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil">Beek kway teow includes: kway teow, beef tender loin, gula Melaka, black beans, garlic, oyster, soya and soy sauce, lengkuas, chili and sesame oil. It is found in Singapore and Indonesia.</lex>
     </entry>
     <entry category="Food" eid="Id203" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3987,7 +3987,7 @@
         <mtriple>Bhajji | alternativeName | "Bhaji, bajji"</mtriple>
         <mtriple>Bhajji | ingredient | Vegetable</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bhaji, bajji">Originating from the Karnataka region in India, Bhajji (also known as Bhaji or bajji), has vegetables as a main ingredient.</lex>
+      <lex comment="good" lid="Id1">Originating from the Karnataka region in India, Bhajji (also known as Bhaji or bajji), has vegetables as a main ingredient.</lex>
       <lex comment="good" lid="Id2">Bhajji comes from the Karnataka region of India. The dish contains vegetables and also known as Bhaji or bajji.</lex>
     </entry>
     <entry category="Food" eid="Id217" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -4033,7 +4033,7 @@
         <mtriple>Bhajji | ingredient | Vegetable</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji is from the Karnataka region, in India. Gram flour and vegetables are main ingredients in bhajji.</lex>
-      <lex comment="good" lid="Id2" error_1="Bhajji">Bhajji is an Indian dish from the Karnataka region. The main ingredients needed to make it are gram flour and vegetables.</lex>
+      <lex comment="good" lid="Id2">Bhajji is an Indian dish from the Karnataka region. The main ingredients needed to make it are gram flour and vegetables.</lex>
       <lex comment="good" lid="Id3">Bhajji comes from the Karnataka region of India. The main ingredients are gram flour and vegetables.</lex>
     </entry>
     <entry category="Food" eid="Id219" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -4414,7 +4414,7 @@
         <mtriple>Binignit | ingredient | Banana</mtriple>
         <mtriple>Sweet_potato | order | Solanales</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Binignit">Sweet potato are part of the order of Solanales and is a flowering plant. Binignit's ingredients are sweet potato and banana.</lex>
+      <lex comment="good" lid="Id1">Sweet potato are part of the order of Solanales and is a flowering plant. Binignit's ingredients are sweet potato and banana.</lex>
       <lex comment="good" lid="Id2">The main ingredients of binignit are sweet potatoes and bananas. Sweet potato belongs to the Solanales order of flowering plants.</lex>
       <lex comment="good" lid="Id3">One of the main ingredients of Binignit, along with Banana, is the sweet potato which belongs to the group of flowering plants (Solanales).</lex>
     </entry>
@@ -4433,7 +4433,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients of binignit are sweet potatoes (flowering plant; a Solanales) and coconut milk.</lex>
       <lex comment="good" lid="Id2">Coconut milk is an ingredient of binignit, which also contains sweet potato - of the order Solanales and a flowering plant.</lex>
-      <lex comment="good" lid="Id3" error_1="Coconut milk">Binignit contains coconut milk and sweet potato (a member of the Solanales flowering plant order).</lex>
+      <lex comment="good" lid="Id3">Binignit contains coconut milk and sweet potato (a member of the Solanales flowering plant order).</lex>
     </entry>
     <entry category="Food" eid="Id241" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4565,7 +4565,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico, a food found in Guadalajara, in Mexico.</lex>
       <lex comment="good" lid="Id2">Bionico has the ingredients chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins and can be found in Guadalajara, Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="Guadalajara">The main ingredients of Bionico, a dish from the Guadalajara region of Mexico, are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of Bionico, a dish from the Guadalajara region of Mexico, are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
     </entry>
     <entry category="Food" eid="Id249" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -4813,7 +4813,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carles Puigdemont is a leader in Catalonia in Spain. An ethnic group there are Spaniards. Arròs negre is also from that country.</lex>
       <lex comment="good" lid="Id2">Arròs negre is from Catalonia in Spain. Spaniards are the main ethnic group in this country. Carles Puigdemont is a leader in Catalonia.</lex>
-      <lex comment="good" lid="Id3" error_1="Carles Puigdemont">Arros negre is a traditional dish from Catalonia, Spain where Carles Puigdemont is the region's leader. Spaniards are the country's main ethnic group.</lex>
+      <lex comment="good" lid="Id3">Arros negre is a traditional dish from Catalonia, Spain where Carles Puigdemont is the region's leader. Spaniards are the country's main ethnic group.</lex>
     </entry>
     <entry category="Food" eid="Id264" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4880,7 +4880,7 @@
         <mtriple>Bakewell_tart | ingredient | Shortcrust_pastry</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell Tart (or Bakewell Pudding) is a dish that comes from the Derbyshire Dales region. It includes shortcrust pastry. Patrick McLoughlin is the leader of Derbyshire Dales.</lex>
-      <lex comment="good" lid="Id2" error_1="Bakewell pudding">Bakewell tart is a dish that comes from the Derbyshire Dales region, it includes shortcrust pastry and is a variant of the Bakewell pudding. Patrick McLoughlin is the leader of Derbyshire Dales.</lex>
+      <lex comment="good" lid="Id2">Bakewell tart is a dish that comes from the Derbyshire Dales region, it includes shortcrust pastry and is a variant of the Bakewell pudding. Patrick McLoughlin is the leader of Derbyshire Dales.</lex>
       <lex comment="good" lid="Id3">Bakewell Tart (or pudding) is a dish that comes from the Derbyshire Dales region where Patrick McLoughlin is a leader. Shortcrust pastry is a key ingredient of the dish.</lex>
     </entry>
     <entry category="Food" eid="Id268" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -4961,7 +4961,7 @@
         <mtriple>Bakso | country | Chinese_cuisine</mtriple>
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Joko Widodo">Bakso is made in China and found in Indonesia. In Indonesia the main language is Indonesian and the leader is Joko Widodo.</lex>
+      <lex comment="good" lid="Id1">Bakso is made in China and found in Indonesia. In Indonesia the main language is Indonesian and the leader is Joko Widodo.</lex>
       <lex comment="good" lid="Id2">Indonesian is the language of Indonesia, where Joko Widodo is leader and where the Chinese dish Bakso can be found.</lex>
       <lex comment="good" lid="Id3">Bakso is from the Chinese cuisine and is a food found in Indonsia. Joko Widodo is the leader of the country where the Indonesian language is spoken.</lex>
     </entry>
@@ -5034,7 +5034,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rome is the capital of Italy, whose leader is Matteo Renzi. Italian is spoken in Italy. Amatriciana sauce is a traditional Italian sauce.</lex>
-      <lex comment="good" lid="Id2" error_1="Amatriciana sauce">Italy's capital is Rome and the spoken language is Italian. Amatriciana sauce comes from Italy and one of its leaders is Matteo Renzi.</lex>
+      <lex comment="good" lid="Id2">Italy's capital is Rome and the spoken language is Italian. Amatriciana sauce comes from Italy and one of its leaders is Matteo Renzi.</lex>
       <lex comment="good" lid="Id3">Amatriciana sauce hails from Italian speaking Italy; where the capital is Rome and is led by Matteo Renzi.</lex>
     </entry>
     <entry category="Food" eid="Id277" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -5075,7 +5075,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Two leaders of Italy, where Amatriciana sauce is found, are Matteo Renzi and Sergio Mattarella. Its capital is Rome.</lex>
       <lex comment="good" lid="Id2">Italy is the country Amatriciana sauce comes from. The capital is Rome and political leaders include Matteo Renzi and Sergio Mattarella.</lex>
-      <lex comment="good" lid="Id3" error_1="Sergio Mattarella">Rome is the capital of Italy, where Sergio Mattarella and Matteo Renzi are leaders and where amatriciana sauce is a traditional dish.</lex>
+      <lex comment="good" lid="Id3">Rome is the capital of Italy, where Sergio Mattarella and Matteo Renzi are leaders and where amatriciana sauce is a traditional dish.</lex>
     </entry>
     <entry category="Food" eid="Id279" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -5148,7 +5148,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet comes from the Singaporean region and Halimah Yacob is the country's leader. It can be found in Java as well where Baduy people is an ethnic group.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a dish from the region of Singapore which is led by Halimah Yacob. It is also found in Java where the Baduy are an ethnic group.</lex>
-      <lex comment="good" lid="Id3" error_1="Ayam penyet">Ayam penyet is a dish from Java where the Baduy are an ethnic group. It also originates from the region of Singapore where the leader is Halimah Yacob.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is a dish from Java where the Baduy are an ethnic group. It also originates from the region of Singapore where the leader is Halimah Yacob.</lex>
     </entry>
     <entry category="Food" eid="Id283" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -5409,7 +5409,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Igorot people">Zamboangans are a group in the Philippines and the Igorot are an ethnic group in the Philippines. Philippine Spanish is the spoken language and one of the foods eaten in the Philippine is batchoy.</lex>
       <lex comment="good" lid="Id2">Zamboangans and Igorot people are ethnic groups from the Philippines, where batchoy is eaten and the language spoken is Philippine Spanish.</lex>
-      <lex comment="good" lid="Id3" error_1="Batchoy">Batchoy originates from Philippine Spanish speaking Philippines; home of the Zamboangans and Igorot people.</lex>
+      <lex comment="good" lid="Id3">Batchoy originates from Philippine Spanish speaking Philippines; home of the Zamboangans and Igorot people.</lex>
     </entry>
     <entry category="Food" eid="Id298" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -5724,7 +5724,7 @@
         <mtriple>Amatriciana_sauce | ingredient | Tomato</mtriple>
         <mtriple>Tomato | order | Solanales</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Solanales">Tomato belongs to the order of Solanales, the genus Solanum and the family of solanaceae. It's an ingredient in Amatriciana sauce.</lex>
+      <lex comment="good" lid="Id1">Tomato belongs to the order of Solanales, the genus Solanum and the family of solanaceae. It's an ingredient in Amatriciana sauce.</lex>
       <lex comment="good" lid="Id2">Tomato is an ingredient in Amatriciana sauce, it comes from the Solanaceae family of plants and belongs to the genus Solanum and the order Solanales.</lex>
       <lex comment="good" lid="Id3">The tomato belongs to the genus Solanum, is part of the family of Solanaceae and is a member of the order Solanales. It is one of the ingredients of amatriciana sauce.</lex>
     </entry>
