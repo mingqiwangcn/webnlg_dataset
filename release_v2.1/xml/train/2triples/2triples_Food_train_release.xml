@@ -724,7 +724,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre is from Spain where Spaniards are an ethnic group.</lex>
       <lex comment="good" lid="Id2">Arròs negre is from Spain, which is populated by Spaniards.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain" error_2="Spaniards">The Spanish dish arros negre is traditional.</lex>
+      <lex comment="good" lid="Id3" error_1="Spain" error_2="Spaniards">The dish arros negre comes from Spain where Spaniards live.</lex>
     </entry>
     <entry category="Food" eid="Id55" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1199,7 +1199,7 @@
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is from Singapore region where standard Chinese is spoken.</lex>
-      <lex comment="good" lid="Id2" error_1="Standard Chinese">Ayam penyet is a dish from Singapore where Chinese is spoken.</lex>
+      <lex comment="good" lid="Id2" error_1="Standard Chinese">Ayam penyet is a dish from Singapore where Standard Chinese is spoken.</lex>
       <lex comment="good" lid="Id3">Standard Chinese is a language of Singapore, where Ayam penyet is a traditional dish.</lex>
     </entry>
     <entry category="Food" eid="Id92" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1431,7 +1431,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Brown sauce can be added to a bacon sandwich and its nicknames include bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
       <lex comment="good" lid="Id2">An ingredient in a bacon sandwich is brown sauce and it can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
-      <lex comment="good" lid="Id3" error_1="Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin">Bacon Sandwich includes brown sauce. The bacon sandwich also goes by the following: bacon butty, bacon sarnie, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id3" error_1="Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin">Bacon Sandwich includes brown sauce. The bacon sandwich also goes by the following: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id110" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1539,7 +1539,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A variation of a bacon sandwich is the BLT and one of the ingredients is tomatoes.</lex>
       <lex comment="good" lid="Id2">One variation of the bacon sandwich is the BLT, in which the tomato is a key ingredient.</lex>
-      <lex comment="good" lid="Id3" error_1="Bacon sandwich">Tomato is an ingredient of the BLT and a bacon sandwhich is a variation.</lex>
+      <lex comment="good" lid="Id3" error_1="Bacon sandwich">Tomato is an ingredient of the BLT and a bacon sandwich is a variation of it.</lex>
     </entry>
     <entry category="Food" eid="Id118" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1747,7 +1747,7 @@
         <mtriple>Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakewell pudding is classed as a dessert and it contains ground almond, jam, butter and eggs.</lex>
-      <lex comment="good" lid="Id2" error_1="Bakewell pudding">The dessert, Blackwell pudding, includes: ground almonds, jam, butter and eggs.</lex>
+      <lex comment="good" lid="Id2" error_1="Bakewell pudding">The dessert, Bakewell pudding, includes: ground almonds, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id3">Bakewell pudding is classed as a dessert and its main ingredients are ground almonds, jam, butter and eggs.</lex>
     </entry>
     <entry category="Food" eid="Id134" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1927,7 +1927,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef is an ingredient of Bakso, from Chinese cuisine.</lex>
       <lex comment="good" lid="Id2">Beef is an ingredient in the Chinese dish Bakso.</lex>
-      <lex comment="good" lid="Id3" error_1="Bakso">Basko, a Chinese dish, is made with beef as a main ingredient.</lex>
+      <lex comment="good" lid="Id3" error_1="Bakso">Bakso, a Chinese dish, is made with beef as a main ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id147" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2058,7 +2058,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The avocado plant belongs to the Lauraceae family and is one of the ingredients in the dish Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Avocado, a member of the Lauraceae family, is an ingredient in Bandeja paisa.</lex>
-      <lex comment="good" lid="Id3" error_1="Avocado">Advocado is an ingredient of Bandeja paisa and is part of the Lauraceae family.</lex>
+      <lex comment="good" lid="Id3" error_1="Avocado">Avocado is an ingredient of Bandeja paisa and is part of the Lauraceae family.</lex>
     </entry>
     <entry category="Food" eid="Id157" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2096,7 +2096,7 @@
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Colombian cuisine includes a dish which has black pudding as an ingredient and that is called bandeja paisa.</lex>
-      <lex comment="good" lid="Id2" error_1="Bandeja paisa">Colombian Bandeja pasta includes the component, black pudding.</lex>
+      <lex comment="good" lid="Id2" error_1="Bandeja paisa">Colombian Bandeja paisa includes the component, black pudding.</lex>
       <lex comment="good" lid="Id3">Black pudding is an ingredient in the Colombian dish Bandeja paisa.</lex>
     </entry>
     <entry category="Food" eid="Id160" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2147,7 +2147,7 @@
         <mtriple>Bandeja_paisa | ingredient | Kidney_bean</mtriple>
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bandeja paisa">Bandeja pasta (Colombia) includes the ingredient, kidney beans.</lex>
+      <lex comment="good" lid="Id1" error_1="Bandeja paisa">Bandeja paisa (Colombia) includes the ingredient, kidney beans.</lex>
       <lex comment="good" lid="Id2">Bandeja paisa is a dish from Colombian cuisine and contains kidney beans.</lex>
       <lex comment="good" lid="Id3">The kidney bean is an ingredient in Bandeja paisa, which is a dish from Colombia.</lex>
     </entry>
@@ -2186,7 +2186,7 @@
         <mtriple>Bandeja_paisa | ingredient | Lemon</mtriple>
         <mtriple>Lemon | order | Sapindales</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bandeja paisa">Lemon comes from the plant order Sapindales and is an ingredient in the dish Banjeda paisa.</lex>
+      <lex comment="good" lid="Id1" error_1="Bandeja paisa">Lemon comes from the plant order Sapindales and is an ingredient in the dish Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Lemons are classified in the order sapindales and are an ingredient in bandeja paisa.</lex>
       <lex comment="good" lid="Id3">A Bandeja Paisa uses the ingredient of a lemon and its included in the order of the Sapindales.</lex>
     </entry>
@@ -2375,7 +2375,7 @@
         <mtriple>Batagor | dishVariation | Shumai</mtriple>
         <mtriple>Batagor | dishVariation | Siomay</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Siomay">Batagor (which is a variation of Sioay) and shumai are variations on the same dish.</lex>
+      <lex comment="good" lid="Id1" error_1="Siomay">Batagor (which is a variation of Siomay) and shumai are variations on the same dish.</lex>
       <lex comment="good" lid="Id2">Batagor, Siomay and shumai are variations on the same dish.</lex>
       <lex comment="good" lid="Id3">The Siomay dish has variations including Batagor and Shumai.</lex>
     </entry>
@@ -2738,7 +2738,7 @@
         <mtriple>Bhajji | ingredient | Gram_flour</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji is also known as Bhaji or bajji and contains gram flour.</lex>
-      <lex comment="good" lid="Id2" error_1="Bhajji">Bhaji and bajji is made with gram flour.</lex>
+      <lex comment="good" lid="Id2" error_1="Bhajji">Bhaji or bajji is made with gram flour. Bhajji is another name of that dish.</lex>
       <lex comment="good" lid="Id3">Bhaji and bajji are alternative names for Bhajji which uses gram flour.</lex>
     </entry>
     <entry category="Food" eid="Id205" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2752,7 +2752,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji, also known as Bhaji and bajji, is a dish which contains vegetables.</lex>
       <lex comment="good" lid="Id2">Bhajji, also known as Bhaji or bajji, includes the ingredient of vegetables.</lex>
-      <lex comment="good" lid="Id3" error_1="Bhajji">Vegetables are included in the dishes Bhaji and Bajji.</lex>
+      <lex comment="good" lid="Id3" error_1="Bhajji">Vegetables are included in the dishes Bhaji and Bajji. They are also known as Bhajji.</lex>
     </entry>
     <entry category="Food" eid="Id206" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2776,7 +2776,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji, which are made of vegetables, originated in the country of India.</lex>
       <lex comment="good" lid="Id2">The country of India makes a dish called Bhajji, the main ingredients being vegetables.</lex>
-      <lex comment="good" lid="Id3" error_1="Vegetable">Vegatables are an ingredient in bhajji which comes from India.</lex>
+      <lex comment="good" lid="Id3" error_1="Vegetable">Vegetables are an ingredient in bhajji which comes from India.</lex>
     </entry>
     <entry category="Food" eid="Id208" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2872,8 +2872,8 @@
         <mtriple>Bhajji | similarDish | "Pakora and other fritters made from wheat or corn flour"</mtriple>
         <mtriple>Bhajji | ingredient | Vegetable</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is a dish made from whet or corn flour and includes vegetables.</lex>
-      <lex comment="good" lid="Id2" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is made from wheat or corn flour and also includes vegetables.</lex>
+      <lex comment="good" lid="Id1" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji resembles pakora and other fritters made from wheat or corn flour and includes vegetables.</lex>
+      <lex comment="good" lid="Id2" error_1="Pakora and other fritters made from wheat or corn flour">Bhajji is like pakora and other fritters made from wheat or corn flour. The dish also includes vegetables.</lex>
       <lex comment="good" lid="Id3">Pakora and other fritters made from wheat or corn flour are similar to bhajji which uses vegetables as one of the ingredients.</lex>
     </entry>
     <entry category="Food" eid="Id215" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -3001,7 +3001,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit is an ingredient of Sweet potato and sweet potato belongs to Solanales order of plants.</lex>
       <lex comment="good" lid="Id2">An ingredient of Binignit is Sweet potato which is part of the order of Solanales.</lex>
-      <lex comment="good" lid="Id3" error_1="Solanales">Sweet potatoes from the order of Solanles are in binignit recipes.</lex>
+      <lex comment="good" lid="Id3" error_1="Solanales">Sweet potatoes from the order of Solanales are in binignit recipes.</lex>
     </entry>
     <entry category="Food" eid="Id225" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3025,7 +3025,7 @@
         <mtriple>Binignit | country | Philippines</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Binignit, a dish found in the Philippines, contains sago as one of its main ingredients.</lex>
-      <lex comment="good" lid="Id2" error_1="Binignit">Sago is the main ingredient of binigit, found in the Philippines.</lex>
+      <lex comment="good" lid="Id2" error_1="Binignit">Sago is the main ingredient of binignit, found in the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id227" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3038,7 +3038,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The binignit dish can be found in the Philippines and one of the main ingredients is the sweet potato.</lex>
       <lex comment="good" lid="Id2">The binignit dish can be found in the Philippines and the main ingredient is sweet potatoes.</lex>
-      <lex comment="good" lid="Id3" error_1="Binignit">Biniignit from the Philippines is made with sweet potatoes.</lex>
+      <lex comment="good" lid="Id3" error_1="Binignit">Binignit from the Philippines is made with sweet potatoes.</lex>
     </entry>
     <entry category="Food" eid="Id228" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3099,7 +3099,7 @@
         <mtriple>Bionico | ingredient | Condensed_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Mexico">Condensed milk is an ingredient found in the Mexican food of Bionico.</lex>
-      <lex comment="good" lid="Id2" error_1="Bionico">Condensed milk is used in Bionicle which is found in Mexico.</lex>
+      <lex comment="good" lid="Id2" error_1="Bionico">Condensed milk is used in Bionico which is found in Mexico.</lex>
       <lex comment="good" lid="Id3">Condensed milk is an ingredient of Bionico, which is a food found in Mexico.</lex>
     </entry>
     <entry category="Food" eid="Id233" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -3282,7 +3282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre is found in the region of Catalonia and the leader of the country is Carles Puigdemont.</lex>
       <lex comment="good" lid="Id2">Arros negre originates from Catalonia (led by Carles Puigdemont).</lex>
-      <lex comment="good" lid="Id3" error_1="Carles Puigdemont">Arros negre is a region of Catalonia and Carles Puigdement is its leader.</lex>
+      <lex comment="good" lid="Id3" error_1="Carles Puigdemont">Arros negre is a region of Catalonia and Carles Puigdemont is its leader.</lex>
     </entry>
     <entry category="Food" eid="Id247" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3359,7 +3359,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bakso is a dish from the country of Indonesia, where Jusuf Kalla is a leader.</lex>
       <lex comment="good" lid="Id2">Bakso comes from Indonesia where Jusuf Kalla is a leader.</lex>
-      <lex comment="good" lid="Id3" error_1="Bakso">Basko is a dish from Indonesia where Jusuf Kalla is the Leader.</lex>
+      <lex comment="good" lid="Id3" error_1="Bakso">Bakso is a dish from Indonesia where Jusuf Kalla is the Leader.</lex>
     </entry>
     <entry category="Food" eid="Id253" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3446,7 +3446,7 @@
         <mtriple>Bhajji | related | Pakora</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bhajji and pakora are related and cauliflower can be used as a variation in pakora.</lex>
-      <lex comment="good" lid="Id2" error_1="Bhajji">Pakora, similar to Bahajji, can include cauliflower.</lex>
+      <lex comment="good" lid="Id2" error_1="Bhajji">Pakora, similar to Bhajji, can include cauliflower.</lex>
       <lex comment="good" lid="Id3">The dish bhajji is related to pakora and cauliflower can be used in it.</lex>
     </entry>
     <entry category="Food" eid="Id260" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -3608,7 +3608,7 @@
         <mtriple>Spain | currency | Euro</mtriple>
         <mtriple>Arròs_negre | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Arros negre">The Euro is the currency of Spain where arros negro comes from.</lex>
+      <lex comment="good" lid="Id1" error_1="Arros negre">The Euro is the currency of Spain where arros negre comes from.</lex>
       <lex comment="good" lid="Id2">In Spain, people pay for the traditional arros negre dish with the Euro.</lex>
       <lex comment="good" lid="Id3">Arros negre is a traditional dish from Spain, where the euro is used.</lex>
     </entry>
