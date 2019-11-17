@@ -211,7 +211,7 @@
         <mtriple>Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2</mtriple>
         <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Arctech Helsinki Shipyard">The icebreaker Aleksey Chirikov was built at the Arctech Helsink shipyeard has a ship beam of 21.2m.</lex>
+      <lex comment="good" lid="Id1" error_1="Arctech Helsinki Shipyard">The icebreaker Aleksey Chirikov was built at the Arctech Helsinki shipyard has a ship beam of 21.2m.</lex>
       <lex comment="good" lid="Id2">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov and has a ship beam of 21.2 metres.</lex>
       <lex comment="good" lid="Id3">Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov, whose ship beam is 21.2.</lex>
     </entry>
@@ -311,7 +311,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Antares rocket is comparable with the Delta II and was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
       <lex comment="good" lid="Id2">Comparable with the Delta II, the Antares rocket, was launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
-      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket, launched from the Mid-Atlantic Regional Spaceport, is similar to the Delta II rocket.</lex>
+      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares rocket, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0, is similar to the Delta II rocket.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

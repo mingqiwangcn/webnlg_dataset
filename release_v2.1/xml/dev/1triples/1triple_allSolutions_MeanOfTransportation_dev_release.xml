@@ -412,7 +412,7 @@
         <mtriple>Meyer_Werft | location | Papenburg</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The location of Meyer Werft is Papenburg.</lex>
-      <lex comment="good" lid="Id2" error_1="Meyer Werft">Mayer Werft is located in Papenburg.</lex>
+      <lex comment="good" lid="Id2" error_1="Meyer Werft">Meyer Werft is located in Papenburg.</lex>
       <lex comment="good" lid="Id3">Meyer Werft is located in Papenburg.</lex>
     </entry>
   </entries>

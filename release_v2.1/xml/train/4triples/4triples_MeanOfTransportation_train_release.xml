@@ -3137,7 +3137,7 @@
         <mtriple>Aston_Martin_DBS | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8, which has a 5.3 litre engine, and the Aston Martin DBS are related means of transport and the Aston Martin Vantage succeeded the Aston Martin DBS which is manufactured by Aston Martin.</lex>
-      <lex comment="good" lid="Id2">The Aston Martin DBS is manufactured by Aston Martin and isa related means of transport to the The Aston Martin V8 which has a 5.3 litre engine. It was eventually succeeded the Aston Martin Vantage.</lex>
+      <lex comment="good" lid="Id2">The Aston Martin DBS is manufactured by Aston Martin and isa related means of transport to the Aston Martin V8 which has a 5.3 litre engine. It was eventually succeeded the Aston Martin Vantage.</lex>
       <lex comment="good" lid="Id3">The Aston Martin DBS, manufactured by Aston Martin, was succeeded by the Aston Martin Vantage. The DBS is relative to the 5.3 liter engine, Aston Martin V8.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id162" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

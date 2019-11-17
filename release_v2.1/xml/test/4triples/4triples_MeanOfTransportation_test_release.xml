@@ -435,8 +435,8 @@
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Front-engine, front-wheel-drive layout">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
-      <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
-      <lex comment="good" lid="Id3" error_1="Front-engine, front-wheel-drive layout" error_2="Supermini">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel drive layout.</lex>
+      <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel-drive layout.</lex>
+      <lex comment="good" lid="Id3" error_1="Front-engine, front-wheel-drive layout" error_2="Supermini">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel-drive layout.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
