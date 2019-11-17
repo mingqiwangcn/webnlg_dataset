@@ -176,7 +176,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft built the A-Rosa Luna.</lex>
       <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft.</lex>
-      <lex comment="good" lid="Id3">The builder of the A-Rosa is Neptun Werft.</lex>
+      <lex comment="good" lid="Id3">The builder of the A-Rosa Luna is Neptun Werft.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -197,7 +197,7 @@
       <modifiedtripleset>
         <mtriple>A-Rosa_Luna | completionDate | 2005-04-06</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa was completed on April 6, 2005.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was completed on April 6, 2005.</lex>
       <lex comment="good" lid="Id2">The building of A-Rosa Luna was completed on April 6th 2005.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
@@ -1959,7 +1959,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was launched at ELA-3.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3.</lex>
-      <lex comment="good" lid="Id3">The launch site of the Ariane was ELA-3 launchpad.</lex>
+      <lex comment="good" lid="Id3">The launch site of the Ariane 5 was ELA-3 launchpad.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2698,7 +2698,7 @@
         <mtriple>Germany | leaderName | Andreas_Voßkuhle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andreas Voßkuhle is a leader of Germany.</lex>
-      <lex comment="good" lid="Id2">Andreas Vosskuhle is a leader in Germay.</lex>
+      <lex comment="good" lid="Id2">Andreas Vosskuhle is a leader in Germany.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id247" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

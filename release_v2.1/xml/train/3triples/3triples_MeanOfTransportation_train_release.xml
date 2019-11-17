@@ -1480,9 +1480,9 @@
         <mtriple>Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)</mtriple>
         <mtriple>Abarth_1000_GT_Coupé | bodyStyle | "Two door coupé"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe, with a two door coup body style and a 2160.0 millimetre wheelbase, started being produced in 1958.</lex>
+      <lex comment="good" lid="Id1">The Abarth 1000 GT Coupe, with a two door coupé body style and a 2160.0 millimetre wheelbase, started being produced in 1958.</lex>
       <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has a wheelbase of 2160 millimetres and is a two door coupe. Its production started in 1958.</lex>
-      <lex comment="good" lid="Id3">The Abarth 100GT coupe is a 2 door coupe with a 2160mm wheelbase. Production started in 1958.</lex>
+      <lex comment="good" lid="Id3">The Abarth 1000 GT coupe is a 2-door coupe with a 2160mm wheelbase. Its production started in 1958.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id92" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2327,7 +2327,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A full-size car, the Alvis Speed 25, with its 31.48 tax hp engine, has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id2" error_1="Full-size car">The Alvis Speed 25 is a full size class car with an engine capable of producing 31.48 tax horsepower and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id3" error_1="Full-size car">The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission. It is a full size car.</lex>
+      <lex comment="good" lid="Id3" error_1="Full-size car">The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission consisting of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle. It is a full size car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id139" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2360,7 +2360,7 @@
         <mtriple>Alvis_Speed_25 | class | "Full-size luxury car"</mtriple>
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Alvis Speed 25 is a full-size luxury car with a wheelbase of 127 inches and an impressive transmission.</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 is a full-size luxury car with a wheelbase of 127 inches and an impressive transmission which consists of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 has a wheelbase of 127 inches, is a full-size luxury vehicle, and has an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
       <lex comment="good" lid="Id3">The full-size luxury car Alvis Speed 25 has a wheelbase of 127 inches and a transmission system comprised of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
     </entry>
@@ -2462,7 +2462,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American submarine, NR-1, has a top speed of 8.334 km/h, a draft of 4.6 m, and a beam of 3.8 metres.</lex>
       <lex comment="good" lid="Id2" error_1="4.6 m">The American sub NR-1 has a 3.8m ship beam, a 4.6m draft and a top speed of 8.334 km/h.</lex>
-      <lex comment="good" lid="Id3" error_1="4.6 m">The American submarine, NR-1; has a beam of 3.8 metres, a ship draft of 4.6m and a top speed of 8.334 km/h.</lex>
+      <lex comment="good" lid="Id3" error_1="4.6 m">The American submarine, NR-1, has a beam of 3.8 metres, a ship draft of 4.6m and a top speed of 8.334 km/h.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id145" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2759,9 +2759,9 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Arianespace, in Courcouronnes, operates ELA-3. Ariane was launched at the ELA-3 launchpad.</lex>
+      <lex comment="good" lid="Id1">Arianespace, in Courcouronnes, operates ELA-3. Ariane 5 was launched at the ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at ELA-3 which is operated by Arianespace, the location of which, is located in the city of Courcouronnes.</lex>
-      <lex comment="good" lid="Id3" error_1="Courcouronnes">Corcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane was launched.</lex>
+      <lex comment="good" lid="Id3" error_1="Courcouronnes">Courcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane 5 was launched.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id164" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -2776,7 +2776,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arianespace, located in France, launched the Ariane 5 at ELA-3.</lex>
       <lex comment="good" lid="Id2">Arianespace, in France, operates ELA-3. Ariane 5 was launched at ELA-3.</lex>
-      <lex comment="good" lid="Id3">Arianespace is located in France and operates the ELA-3 which was the launch site of the Ariane.</lex>
+      <lex comment="good" lid="Id3">Arianespace is located in France and operates the ELA-3 which was the launch site of the Ariane 5.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id165" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3680,9 +3680,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A Rosa Luna was built on the Neptun Werft in Rostock, Germany.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa is Neptun Werft which is located in Rostock, in Germany.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft, Rostock in Germany.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was built on the Neptun Werft in Rostock, Germany.</lex>
+      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft which is located in Rostock, in Germany.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna was built on the Neptun Werft, Rostock in Germany.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id220" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

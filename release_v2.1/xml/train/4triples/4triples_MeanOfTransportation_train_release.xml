@@ -614,7 +614,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Meyer Werft is located in Germany and built the AIDAstella which is operated by AIDA Cruises and owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id2">AIDAstella, which was built by Meyer Werft and is owned by Costa Crociere, is the operator of AIDA Cruises.</lex>
+      <lex comment="good" lid="Id2">AIDAstella, which was built by the German shipyard Meyer Werft and is owned by Costa Crociere, is the operator of AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft in Germany. Costa Crociere is the owner of the AIDAstella and they're operated by AIDA Cruises.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id30" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1046,7 +1046,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="ALV X-1">The U.S. is the originator of the ALVX-1. Washington, D.C. is its capital, Americans live there, and one ethnic group is called the Asian Americans.</lex>
       <lex comment="good" lid="Id2">Found in the US is the ALV X-1. The capital of that country is Washington, D.C. and an ethnic group there is called Asian Americans. Americans occupy the U.S.</lex>
-      <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States which has the capital of Waahington D.C. The inhabitants of the United States are called Americans but Asian Americans are one of the ethnic groups there.</lex>
+      <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States which has the capital of Washington D.C. The inhabitants of the United States are called Americans but Asian Americans are one of the ethnic groups there.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id54" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2055,7 +2055,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="4-speed automatic (ZF 4HP18QE)">The Alfa Romeo 164, a mid size luxury executive car has a 4-speed auto (ZF 4HP18QE) transmission with a straight-four engine. It is also referred to as the Alfa Romeo 168.</lex>
       <lex comment="good" lid="Id2">Alfa Romeo 164 (alternative name Alfa Romeo 168) is considered a mid-size luxury executive car. It has a straight four engine and has a 4-speed automatic (ZF 4HP18QE) transmission.</lex>
-      <lex comment="good" lid="Id3" error_1="4-speed automatic (ZF 4HP18QE)">The Alfa Romeo 164 has a 4 speed automatic, straigt four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
+      <lex comment="good" lid="Id3" error_1="4-speed automatic (ZF 4HP18QE)">The Alfa Romeo 164 has a 4 speed automatic, straight-four engine. It is also known as the Alfa Romeo 168 and is classified as a mid-size luxury executive car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id111" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2985,8 +2985,8 @@
         <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
         <mtriple>Ariane_5 | finalFlight | 2004-12-18</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Airbus Defence and Space">The Airbus Defense and Space manufactured the Ariance 5 which was launched at ELA-3. Airane 5's maiden flight was on June 4, 1996 and its final flight was December 18, 2004.</lex>
-      <lex comment="good" lid="Id2">The launch site of the Ariane was ELA-3 launchpad, it made its maiden flight on June 4th 1996. It was manufactured by The Airbus Defence and Space and the final flight took place on December 18th 2004.</lex>
+      <lex comment="good" lid="Id1" error_1="Airbus Defence and Space">The Airbus Defense and Space manufactured the Ariance 5 which was launched at ELA-3. Ariane 5's maiden flight was on June 4, 1996 and its final flight was December 18, 2004.</lex>
+      <lex comment="good" lid="Id2">The launch site of the Ariane 5 was ELA-3 launchpad, it made its maiden flight on June 4th 1996. It was manufactured by the Airbus Defence and Space and the final flight took place on December 18th 2004.</lex>
       <lex comment="good" lid="Id3">The manufacturer of the Ariane 5 was The Airbus Defence and Space and it was launched at ELA-3. Its maiden flight was on June 4, 1996 and the final flight was on December 18, 2004.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id153" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3052,9 +3052,9 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Ariane was launhed from ELA-3 which is at the Guiana space centre and operated by Arianespace located in Courcouronnes.</lex>
+      <lex comment="good" lid="Id1">Ariane 5 was launched from ELA-3 which is at the Guiana space centre and operated by Arianespace located in Courcouronnes.</lex>
       <lex comment="good" lid="Id2">Arianespace is located in Courcouronnes and operates ELA-3, the launch site of Ariane 5 at the Guiana Space Centre.</lex>
-      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates ELA-3, the launch site of the Ariane at the Guiana space centre.</lex>
+      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates ELA-3, the launch site of the Ariane 5 at the Guiana space centre.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id157" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3070,7 +3070,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was launched at the ELA-3 which is located at the Guiana Space Centre and operated by Arianespace who are based in France.</lex>
-      <lex comment="good" lid="Id2">Arianespace is located in France and operates ELA-3, the launch site of the Ariane at the Guiana Space Centre.</lex>
+      <lex comment="good" lid="Id2">Arianespace is located in France and operates ELA-3, the launch site of the Ariane 5 at the Guiana Space Centre.</lex>
       <lex comment="good" lid="Id3">The ELA-3, located at Guiana Space Centre, is operated by Arianespace of France. It is the launch space for Ariane 5.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id158" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -4147,7 +4147,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rostock based Neptun Werft built the A-Rosa Luna. Rostock is in Germany, where the capital is Berlin.</lex>
       <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft, Rostock, Germany, where Berlin is the capital.</lex>
-      <lex comment="good" lid="Id3">Germany's capital is Berlin and is also the location of Rostock where Neptun Werft who built the A-Rosa is situated.</lex>
+      <lex comment="good" lid="Id3">Germany's capital is Berlin and is also the location of Rostock where Neptun Werft is situated. It built the A-Rosa Luna.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id213" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -4179,9 +4179,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Angela Merkel is a leader of Germany where Neptun Werft is located and who built the A-Rosa Luna. Mr. Werft is hq'd in Rostock.</lex>
-      <lex comment="good" lid="Id2">Rostock is in Germany which has Angela Merkel as a leader. The builder of the A-Rosa is Neptun Werft, who are a company in Rostock.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft, Rostock, Germany, where the leader is Angela Merkel.</lex>
+      <lex comment="good" lid="Id1">Angela Merkel is a leader of Germany where Neptun Werft is located and who built the A-Rosa Luna. Neptun Werft is hq'd in Rostock.</lex>
+      <lex comment="good" lid="Id2">Rostock is in Germany which has Angela Merkel as a leader. The builder of the A-Rosa Luna is Neptun Werft, who are a company in Rostock.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna was built on the Neptun Werft, Rostock, Germany, where the leader is Angela Merkel.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id215" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -4202,9 +4202,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Neptun Werft, who is headquartered in Rostock Germany where Norbert Lammert is a leader, is the builder of the A-Rosa.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa is Neptun Werft which is located in Rostock, Germany where the leader is Norbert Lammert.</lex>
-      <lex comment="good" lid="Id3">The builder of the A-Rosa is Neptun Werft located in the German city of Rostock. One of the leaders in the country is Norbert Lammert.</lex>
+      <lex comment="good" lid="Id1">Neptun Werft, who is headquartered in Rostock, Germany, where Norbert Lammert is a leader, is the builder of the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft which is located in Rostock, Germany where the leader is Norbert Lammert.</lex>
+      <lex comment="good" lid="Id3">The builder of the A-Rosa Luna is Neptun Werft located in the German city of Rostock. One of the leaders in the country is Norbert Lammert.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id216" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4226,7 +4226,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was launched at the ELA-3 which is operated by Arianespace and located at the Guiana Space Centre which has HQ in French Guiana.</lex>
-      <lex comment="good" lid="Id2">The ELA-3, which is operated by Arianespace, is located at the Guiana Space Centre, whose headquarters are located in French Guiana. The launch site of the Ariane was ELA-3 launchpad.</lex>
+      <lex comment="good" lid="Id2">The ELA-3, which is operated by Arianespace, is located at the Guiana Space Centre, whose headquarters are located in French Guiana. The launch site of the Ariane 5 was ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at the ELA-3 which is found at the Guiana Space Centre in French Guiana. The ELA-3 is operated by Arianespace.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id217" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -4248,7 +4248,7 @@
         <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The launch site of the Ariane was ELA-3 launchpad at the Guiana Space Centre. The Guiana Space Centre has its headquarters at Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id1">The launch site of the Ariane 5 was ELA-3 launchpad at the Guiana Space Centre. The Guiana Space Centre has its headquarters at Kourou in French Guiana.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched from ELA-3 at the Guiana Space Centre, Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3, at the Guiana Space Centre. The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
     </entry>
@@ -4272,8 +4272,8 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ariane 5 was launched at ELA-3 operated by Arianespace. It is located at the Guiana Space Centre who have their headquarters in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id2">The Ariane was launched from ELA-3 (owned by Arianespace) which can be found at the Guiana Space Centre in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id3">The launch site of the Ariane was ELA-3 which is operated by Arianespace and located at the Guiana Space Centre, Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id2">The Ariane 5 was launched from ELA-3 (owned by Arianespace) which can be found at the Guiana Space Centre in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id3">The launch site of the Ariane 5 was ELA-3 which is operated by Arianespace and located at the Guiana Space Centre, Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id219" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4289,7 +4289,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ELA-3 is operated by Arianespace and found at the Guiana Space Centre in French Guiana. The Ariane 5 was launched there.</lex>
-      <lex comment="good" lid="Id2">The Guiana Space Centre, which is located in French Guiana, is home to the ELA-3. The launch site of the Ariane was ELA-3 launchpad, which is operated by Arianespace.</lex>
+      <lex comment="good" lid="Id2">The Guiana Space Centre, which is located in French Guiana, is home to the ELA-3. The launch site of the Ariane 5 was ELA-3 launchpad, which is operated by Arianespace.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3 which is operated by Arianespace. The site of ELA-3 is at the Guiana Space Centre which is located in French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id220" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -4305,7 +4305,7 @@
         <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The launch site of the Ariane was ELA-3 launchpad at Guiana Space Centre. The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id1">The launch site of the Ariane 5 was ELA-3 launchpad at Guiana Space Centre. The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Guiana Space Centre, where the ELA-3 is located and the Ariane 5 was launched, has its headquarters at Kourou in French Guiana.</lex>
       <lex comment="good" lid="Id3">The ELA-3 is located at the Guiana Space Centre whose hq is at the Guiana Space Centre in Kourou, French Guiana. Ariane 5 launched there.</lex>
     </entry>
@@ -4324,7 +4324,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operated by Arianespace, the ELA-3 is at the Guiana Space Centre in French Guiana in Kourou. This was the launch site of the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the Arianespace operated ELA-3 at Guiana Space Centre. Guiana Space Centre is located in Kourou, French Guiana.</lex>
-      <lex comment="good" lid="Id3">The launch site of the Ariane was ELA-3 launchpad, which is operated by Arianespace. The ELA-3 is located at the Guiana Space Centre in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id3">The launch site of the Ariane 5 was ELA-3 launchpad, which is operated by Arianespace. The ELA-3 is located at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id222" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4339,7 +4339,7 @@
         <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana, including its headquarters and ELA-3, the launch site of the Ariane.</lex>
+      <lex comment="good" lid="Id1">The Guiana Space Centre is located in Kourou, French Guiana, including its headquarters and ELA-3, the launch site of the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at ELA-3 at the Guiana Space Centre, Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id223" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">
@@ -4395,9 +4395,9 @@
         <mtriple>MTU_Friedrichshafen | owner | Rolls-Royce_Holdings</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa Luna is powered by a MTU Friedrichshafen engine. MTU Friedrichshafen, whose parent company is is Rolls Royce Power Systems, is owned by Rolls-Royce Holdings and is in Friedrichshafen.</lex>
-      <lex comment="good" lid="Id2">The MTU Friedrichshafen of Friedrichshafen, belongs to parent company Rolls Royce Power Systems and is owned by Rolls-Royce Holdings. It makes the engines for the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is made in Friedrichshafen. The MTU Friedrichshafen is owned by Rolls-Royce Holdings.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna is powered by a MTU Friedrichshafen engine. MTU Friedrichshafen, whose parent company is Rolls-Royce Power Systems, is owned by Rolls-Royce Holdings and is in Friedrichshafen.</lex>
+      <lex comment="good" lid="Id2">The MTU Friedrichshafen of Friedrichshafen, belongs to parent company Rolls-Royce Power Systems and is owned by Rolls-Royce Holdings. It makes the engines for the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is made in Friedrichshafen. The MTU Friedrichshafen, whose parent company is Rolls-Royce Power Systems, is owned by Rolls-Royce Holdings.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id226" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4434,9 +4434,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The builder of the A-Rosa is Neptun Werft who are located in Rostock. Joachim Gauck is a leader in Germany which is where Rostock is located.</lex>
+      <lex comment="good" lid="Id1">The builder of the A-Rosa Luna is Neptun Werft who are located in Rostock. Joachim Gauck is a leader in Germany which is where Rostock is located.</lex>
       <lex comment="good" lid="Id2">Rostock based Neptun Werft built the A-Rosa Luna. Rostock is in Germany, where the name of the leader is Joachim Gauck.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which located in Rostock, in Germany, the leader of which, is Joachim Gauck.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna was built on the Neptun Werft which located in Rostock, in Germany, the leader of which, is Joachim Gauck.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id228" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4586,7 +4586,7 @@
         <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlas II originated from the US, where the people are called AMericans, the capital city is Washington DC and there is an ethnic group called NAtive Americans.</lex>
+      <lex comment="good" lid="Id1">Atlas II originated from the US, where the people are called Americans, the capital city is Washington DC and there is an ethnic group called Native Americans.</lex>
       <lex comment="good" lid="Id2">Atlas II originates from the United States which has the capital city of Washington DC. The inhabitants of the country are called Americans and one of the ethnic groups are the Native Americans.</lex>
       <lex comment="good" lid="Id3">The Native Americans are an ethnic group in the US where the population is made up of Americans and the capital city is Washington DC. The country is the origin of the Atlas II.</lex>
     </entry>

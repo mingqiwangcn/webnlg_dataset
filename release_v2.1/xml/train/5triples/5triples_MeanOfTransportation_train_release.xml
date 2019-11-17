@@ -225,9 +225,9 @@
         <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises. Caterpillar Inc. was founded in the United States.</lex>
       <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company provides the engine power for the AIDAluna which is owned by the German based company AIDA Cruises.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
+      <lex comment="good" lid="Id3">AIDAluna, owned by the German company AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -308,7 +308,7 @@
         <mtriple>Costa_Crociere | location | Italy</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Meyer Werft">The AIDAstella is owned in Costa Crociere. the AIDAstella is 253260.0 millimetres long. and is based in Italy.</lex>
+      <lex comment="good" lid="Id1" error_1="Meyer Werft">The AIDAstella is owned by Costa Crociere, which is based in Italy. The AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is operated by AIDA Cruises.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was built by Mr. Meyer Werft and operated by AIDA Cruise Line. It is 253260.0 millimetres long. The AIDA Cruise Line is owned and operated by Costa Crociere out of Italy.</lex>
       <lex comment="good" lid="Id3">The AIDAstella is owned by Costa Crociere who are located in Italy, and operated by AIDA Cruises. It was built by Meyer Werft and is 253260.0 millimetres in length.</lex>
       <lex comment="good" lid="Id4">The AIDAstella, operated by AIDA Cruises, owned by the Italy based Costa Crociere, was built by Meyer Werft. It is 253260.0mm long.</lex>
@@ -1220,7 +1220,7 @@
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alvis Speed 25 was first manufactured in 1937, and is classed as a Full-size car. It has a wheelbase of 127 inches, and an engine capable of producing 31.48 tax horsepower. The transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and a spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id2" error_1="Full-size car">The full size class Alvis Speed 25, manufactured in 1937, has a 127" wheelbase ans a 31.42 tax horsepower engine. It has a "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle" transmission.</lex>
+      <lex comment="good" lid="Id2" error_1="Full-size car">The full size class Alvis Speed 25, manufactured in 1937, has a 127" wheelbase ans a 31.48 tax horsepower engine. It has a "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle" transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id55" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1689,9 +1689,9 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The ELA-3 is located at the Guiana Space Centre which was the launch site of the Ariane. Arianespace is in Courcouronnes and the HQ of the Guiana Space Centre is in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id1">The ELA-3 is located at the Guiana Space Centre which was the launch site of the Ariane 5. Arianespace is in Courcouronnes and the HQ of the Guiana Space Centre is in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Guiana Space Centre's headquarters are located in Kourou, French Guiana, it is the site of the ELA-3 launchpad, operated by Arianespace, located in Courcouronnes. It is the launch site of the Ariane 5.</lex>
-      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates the ELA-3, which is the launch site of Ariane at the Guiana Space Centre in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id3">Arianespace is located in Courcouronnes and operates the ELA-3, which is the launch site of Ariane 5 at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id77" shape="(X (X (X (X)) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1727,9 +1727,9 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Guiana Space Centre">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guina Space Centre and launched the Ariane 5.</lex>
+      <lex comment="good" lid="Id1" error_1="Guiana Space Centre">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guiana Space Centre and launched the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3 at the Guiana Space Centre. Arianespace, located in the city of Courcouronnes, in France, operates the ELA-3.</lex>
-      <lex comment="good" lid="Id3">Arianespace owned, ELA-3, operated by the Courcouronnes, France, Guiana Space Centre, is the launch pad for the Ariane.</lex>
+      <lex comment="good" lid="Id3">Arianespace owned, ELA-3, operated by the Courcouronnes, France, Guiana Space Centre, is the launch pad for the Ariane 5.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id79" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2685,8 +2685,8 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The builder of the A-Rosa is Neptun Werft located in Rostock, Germany. The capital of Berlin is Germany and its leader is Angela Merkel.</lex>
-      <lex comment="good" lid="Id2">Rostock is located in Germany which is led by Angela Merkel and has the capital city of Berlin. It is the HQ of Neptun Werft who built the A Rosa Luna.</lex>
+      <lex comment="good" lid="Id1">The builder of the A-Rosa Luna is Neptun Werft located in Rostock, Germany. The capital of Germany is Berlin and its leader is Angela Merkel.</lex>
+      <lex comment="good" lid="Id2">Rostock is located in Germany which is led by Angela Merkel and has the capital city of Berlin. It is the HQ of Neptun Werft who built the A-Rosa Luna.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id122" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2723,7 +2723,7 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft, whose HQ is in Rostock, Germany, made the A Rosa Luna. Germans inhabit Germany whose leader is Angela Merkel.</lex>
-      <lex comment="good" lid="Id2" error_1="Angela Merkel">The A-Rosa is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angel Merkel and the people that live in the country are referred to as Germans.</lex>
+      <lex comment="good" lid="Id2" error_1="Angela Merkel">The A-Rosa Luna is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angela Merkel and the people that live in the country are referred to as Germans.</lex>
       <lex comment="good" lid="Id3">Germany is led by Angela Merkel and the inhabitants are known as Germans. Neptun Werft who built the A-Rosa Luna are located in the country at Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id124" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
@@ -2741,9 +2741,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A-Rosa was made by Neptun Werft headquartered in Rostock, Germany. Germans are from Germany whose leader is Joachim Gauck.</lex>
-      <lex comment="good" lid="Id2">The A Rosa Luna was built by Neptun Werft in Rostock, Germany. The country is led by Joachim Gauck and the inhabitants are known as Germans.</lex>
-      <lex comment="good" lid="Id3">Joachim Gauck is the leader of Germany where the inhabitants are known as Germans. Neptun Werft, who built the A-Rosa, is located in the country at Rostock.</lex>
+      <lex comment="good" lid="Id1">A-Rosa Luna was made by Neptun Werft headquartered in Rostock, Germany. Germans are from Germany whose leader is Joachim Gauck.</lex>
+      <lex comment="good" lid="Id2">The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. The country is led by Joachim Gauck and the inhabitants are known as Germans.</lex>
+      <lex comment="good" lid="Id3">Joachim Gauck is the leader of Germany where the inhabitants are known as Germans. Neptun Werft, who built the A-Rosa Luna, is located in the country in Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id125" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2762,7 +2762,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, located in Rostock, Germany. Germany (home of the Germans) is led by Andreas Voßkuhle.</lex>
       <lex comment="good" lid="Id2">Neptun Werft, who built the A-Rosa Luna, is located in Rostock, Germanany. Andreas Voßkuhle is a leader of Germany and Germans is the demonym for people who live there.</lex>
-      <lex comment="good" lid="Id3">A-Rosa was built by Neptun Werft, a company located in Rostock in Germany. Andreas Voßkuhle is a leader in the country and the people that live there are called Germans.</lex>
+      <lex comment="good" lid="Id3">A-Rosa Luna was built by Neptun Werft, a company located in Rostock in Germany. Andreas Voßkuhle is a leader in the country and the people that live there are called Germans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id126" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2781,7 +2781,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A Rosa Luna was built on the Neptun Werft, Rostock, Germany. The leader of Germany is Norbert Lammert and Berlin is the capital.</lex>
       <lex comment="good" lid="Id2">Neptun Werft, located in Rostock in Germany, built the A-Rosa Luna. The capital of Berlin is Germany and its leader is Norbert Lammert.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa was built by Neptun Werft in Rostock, Germany. The capital of Germany is Berlin and the German leader's name is Norbert Lammert.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. The capital of Germany is Berlin and the German leader's name is Norbert Lammert.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id127" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2799,7 +2799,7 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft, a company located in Rostock, Germany. Norbert Lammert is a leader in Germany and the people that live in the country are called Germans.</lex>
-      <lex comment="good" lid="Id2">A-Rosa was built by Neptun Werft in Rostock, Germany, where the leader is Norbert Lammert and the people are called Germans.</lex>
+      <lex comment="good" lid="Id2">A-Rosa Luna was built by Neptun Werft in Rostock, Germany, where the leader is Norbert Lammert and the people are called Germans.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id128" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2823,7 +2823,7 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The launch site of the Ariane was ELA-3 launchpad, which is operated by Arianespace and is located at the Guiana Space Centre. The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id1">The launch site of the Ariane 5 was ELA-3 launchpad, which is operated by Arianespace and is located at the Guiana Space Centre. The Guiana Space Centre's headquarters are located in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was lauched at the ELA-3 operated by Arianespace. It is located at the Guiana Space Centre which has its HQ at Kourou in French Guiana.</lex>
       <lex comment="good" lid="Id3">The ELA-3, operated by Arianespace, is located at the Guiana Space Centre, headquartered in Kourou, French Guiana. It launched the Ariane 5.</lex>
     </entry>
@@ -2842,7 +2842,7 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Guiana Space Centre, located in French Guiana, has its headquarters located in Kourou. It is the site of ELA-3 launchpad which is operated by Arianespace and is the launch site of the Ariane.</lex>
+      <lex comment="good" lid="Id1">The Guiana Space Centre, located in French Guiana, has its headquarters located in Kourou. It is the site of ELA-3 launchpad which is operated by Arianespace and is the launch site of the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The ELA-3, where The Ariane 5 was launched, is operated by Arianespace. The site of ELA-3 is at the Guiana Space Centre, whose headquarters are in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at the ELA-3 which is operated by Arianespace and located at the Guiana Space Centre which has its HQ at Kourou, French Guiana.</lex>
     </entry>
@@ -2862,7 +2862,7 @@
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Guiana Space Centre (located in Kourou, French Guiana) is the site of the ELA-3. ELA-3, which is the launch site of the Ariane 5, is operated by Arianespace (located in the city of CourCouronnes).</lex>
-      <lex comment="good" lid="Id2">ELA-3, operated by Arianespace, is found in Courcouronnes at the The Guiana Space Centre located in Kourou, French Guiana. The Ariane rocket took flight from this site.</lex>
+      <lex comment="good" lid="Id2">ELA-3, operated by Arianespace, is found in Courcouronnes at the Guiana Space Centre located in Kourou, French Guiana. The Ariane 5 rocket took flight from this site.</lex>
       <lex comment="good" lid="Id3">Ariane 5 launched from ELA-3 operated by Arianespace located in Courcouronnes. The launch site is at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id131" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -2880,7 +2880,7 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The launch site of the Ariane was ELA-3 launchpad which is operated by, Arianespace. The site of ELA-3 is at the Guiana Space Centre, the headquarters of which, are located in Kourou, French Guiana.</lex>
+      <lex comment="good" lid="Id1">The launch site of the Ariane 5 was ELA-3 launchpad which is operated by, Arianespace. The site of ELA-3 is at the Guiana Space Centre, the headquarters of which, are located in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3, which is operated by Arianespace and is located at the Guiana Space Centre in Kourou, French Guiana.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 is operated by Arianespace and was launched at ELA-3. The ELA-3 is located at the Guiana Space Centre in Kourou, French Guiana.</lex>
     </entry>
@@ -3238,9 +3238,9 @@
         <mtriple>United_States | capital | Washington,_D.C.</mtriple>
         <mtriple>United_States | anthem | The_Star-Spangled_Banner</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States, led by the President of the United States, is the origin of the ALV X-1. The United States capital is Washington, D.C., and the national anthem is the Star Spangled Banner.</lex>
-      <lex comment="good" lid="Id2">ALV X-1 originated in the United States wher the leader is the President, the capital is Washington D.C. and The Star Spangled Banner is the national anthem. Native Americans are an ethnic group in the U.S.</lex>
-      <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, where the leader is the President and Native Americans are an ethnic group. The capital of the United States is Washington, D.C, and the national anthem is The Star Spangled Banner.</lex>
+      <lex comment="good" lid="Id1">The United States, led by the President of the United States, is the origin of the ALV X-1. The United States capital is Washington, D.C., and the national anthem is the Star-Spangled Banner. Native Americans is one of the ethnic groups in the US.</lex>
+      <lex comment="good" lid="Id2">ALV X-1 originated in the United States wher the leader is the President, the capital is Washington D.C. and the Star Spangled Banner is the national anthem. Native Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, where the leader is the President and Native Americans are an ethnic group. The capital of the United States is Washington, D.C, and the national anthem is the Star Spangled Banner.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id151" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
