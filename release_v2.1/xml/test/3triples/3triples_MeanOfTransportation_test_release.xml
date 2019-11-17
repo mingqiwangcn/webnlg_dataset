@@ -478,9 +478,9 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
         <mtriple>Neptun_Werft | locationCountry | Germany</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A-Rosa was built by Neptun Werft which is headquartered in Rostock, Germany.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa is Neptun Werft, which headquartered in Rostock, Germany.</lex>
-      <lex comment="good" lid="Id3">Neptun Werft is headquartered in Rostock, Germany. They made the A Rosa Luna.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft which is headquartered in Rostock, Germany.</lex>
+      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft, which headquartered in Rostock, Germany.</lex>
+      <lex comment="good" lid="Id3">Neptun Werft is headquartered in Rostock, Germany. They made the A-Rosa Luna.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

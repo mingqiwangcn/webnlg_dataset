@@ -375,7 +375,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna is powered by an engine made by MTU Friedrichshafen which is owned by Rolls-Royce Holdings.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna is powered by the Rolls-Royce Holdings owned, MTU Friedrichshafen, made engines.</lex>
-      <lex comment="good" lid="Id3">The A rosa Luna is powered by Rolls-Royce Holdings company MTU Friedrichshafen made engines.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by engines made by MTU Friedrichshafen, whose owner is the company Rolls-Royce_Holdings.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

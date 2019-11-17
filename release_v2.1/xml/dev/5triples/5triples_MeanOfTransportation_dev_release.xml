@@ -321,9 +321,9 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The A Rosa Luna was built on the Neptun Werft, located in Rostock, Germany. Germany (whose capital city is Berlin) is led by Joachim Gauck.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa is Neptun Werft whose HQ is in Rostock, Germany. Berlin is the capital in that country and Joachim Gauck is the name of one of its leaders.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa was built by Neptun Werft in Rostock, Germany. Joachim Gauck is a leader of Germany, with its capital at Berlin.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna was built on the Neptun Werft, located in Rostock, Germany. Germany (whose capital city is Berlin) is led by Joachim Gauck.</lex>
+      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft whose HQ is in Rostock, Germany. Berlin is the capital in that country and Joachim Gauck is the name of one of its leaders.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna was built by Neptun Werft in Rostock, Germany. Joachim Gauck is a leader of Germany, with its capital at Berlin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id17" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -340,8 +340,8 @@
         <mtriple>Rostock | country | Germany</mtriple>
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The builder of the A-Rosa is Neptun Werft, from Rostock, Germany. The leader of Germany is Stanislaw Tillich and the people are called Germans.</lex>
-      <lex comment="good" lid="Id2">The builder of the A-Rosa is Neptun Werft, headquartered in Rostock, Germany. Stanislaw Tillich is a leader of Germany, and the demonym for people who live there is Germans.</lex>
+      <lex comment="good" lid="Id1">The builder of the A-Rosa Luna is Neptun Werft, from Rostock, Germany. The leader of Germany is Stanislaw Tillich and the people are called Germans.</lex>
+      <lex comment="good" lid="Id2">The builder of the A-Rosa Luna is Neptun Werft, headquartered in Rostock, Germany. Stanislaw Tillich is a leader of Germany, and the demonym for people who live there is Germans.</lex>
       <lex comment="good" lid="Id3">Neptun Werft, who built the A-Rosa Luna, is headquartered in Rostock in Germany. Germans is the demonym for people who live in Germany and Stanislaw Tillich is its leader.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">

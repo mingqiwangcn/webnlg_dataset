@@ -405,7 +405,7 @@
         <mtriple>Atlas_II | launchSite | Vandenberg_Air_Force_Base</mtriple>
         <mtriple>Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Atlas II was launched from Vandenberg Air Force Base and the Cape Canaveral Air Force Station. It is 2.04 m in diameter and made its final flight on 5 December 2002.</lex>
+      <lex comment="good" lid="Id1">Atlas II was launched from Vandenberg Air Force Base and the Cape Canaveral Air Force Station. It is 3.04 m in diameter and made its final flight on 5 December 2002.</lex>
       <lex comment="good" lid="Id2">The Atlas II, which is 3.04m in diameter, has been launched from Cape Canaveral Air Force Station and Vandenberg Air Force Base. Its final flight was December 5, 2002.</lex>
       <lex comment="good" lid="Id3">Atlas II was launched from Vandenberg Air Force Base at the Cape Canaveral Air Force Station. It has a diameter of 3.04m and its final flight of the Atlas II was on 2002-12-05.</lex>
     </entry>
@@ -550,7 +550,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stanislaw Tillich is a leader of Germany where Rostock is located. The city is the location of Neptun Werft who built the A-Rosa Luna.</lex>
       <lex comment="good" lid="Id2">Neptun Werft built the A-Rosa Luna at Rostock Germany where Stanislaw Tillich is leader.</lex>
-      <lex comment="good" lid="Id3">The builder of the A-Rosa, is Neptun Werft which is located in Rostock, Germany, where the leader is Stanislaw Tillich.</lex>
+      <lex comment="good" lid="Id3">The builder of the A-Rosa Luna is Neptun Werft which is located in Rostock, Germany, where the leader is Stanislaw Tillich.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id29" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
