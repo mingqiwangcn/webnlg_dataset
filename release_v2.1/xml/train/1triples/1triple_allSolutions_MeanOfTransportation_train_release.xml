@@ -2919,7 +2919,7 @@
       <modifiedtripleset>
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The parent company of MTU Friedrichshafen is Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1" error_1="Rolls-Royce Power Systems">The parent company of MTU Friedrichshafen is Rolls Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id267" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

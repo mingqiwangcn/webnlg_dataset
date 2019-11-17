@@ -282,7 +282,7 @@
         <mtriple>AIDA_Cruises | location | Germany</mtriple>
         <mtriple>AIDAluna | operator | AIDA_Cruises</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">German located, AIDA Cruises, is the operator of the AIDAluna.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">German located, AIDA Cruises, is the operator of the AIDAluna.</lex>
       <lex comment="good" lid="Id2">AIDA Cruises are based in Germany and operate the ship AIDAluna.</lex>
       <lex comment="good" lid="Id3">AIDA Cruises is located in Germany and is the operator of the AIDAluna.</lex>
     </entry>
@@ -2869,9 +2869,9 @@
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen who made an engine for the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id2">The A-Rosa Luna is powered by engines made by MTU Friedrichshafen whose parent company is Rolls Royce Power Systems.</lex>
-      <lex comment="good" lid="Id3">The parent company of MTU Friedrichshafen, who make the engines that power the A-Rosa Luna, is Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1" error_1="Rolls-Royce Power Systems">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen who made an engine for the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">The A-Rosa Luna is powered by engines made by MTU Friedrichshafen whose parent company is Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">The parent company of MTU Friedrichshafen, who make the engines that power the A-Rosa Luna, is Rolls Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id203" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

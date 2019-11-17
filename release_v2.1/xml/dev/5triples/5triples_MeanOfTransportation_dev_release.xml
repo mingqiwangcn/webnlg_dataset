@@ -125,9 +125,9 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id2">Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport">The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id2" error_1="Mid-Atlantic Regional Spaceport">Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport">The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

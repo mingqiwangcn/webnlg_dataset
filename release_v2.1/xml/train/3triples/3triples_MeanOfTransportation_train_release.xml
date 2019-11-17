@@ -220,7 +220,7 @@
         <mtriple>MTU_Friedrichshafen | locationCity | Friedrichshafen</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The German built A-Rosa Luna is powered by a MTU Friedrichshafen engine which is made in Friedrichshafen.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">The German built A-Rosa Luna is powered by a MTU Friedrichshafen engine which is made in Friedrichshafen.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna is powered by a MTU Friedrichshafen engine in the city of Friedrichshafen, Germany.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna is powered by MTU Friedrichshafen made engines in Friedrichshafen, Germany.</lex>
     </entry>
@@ -2761,7 +2761,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arianespace, in Courcouronnes, operates ELA-3. Ariane 5 was launched at the ELA-3 launchpad.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at ELA-3 which is operated by Arianespace, the location of which, is located in the city of Courcouronnes.</lex>
-      <lex comment="good" lid="Id3" error_1="Courcouronnes">Courcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane 5 was launched.</lex>
+      <lex comment="good" lid="Id3">Courcouronnes based Arianespace operates the ELA-3 launchpad from which the Ariane 5 was launched.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id164" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -3631,9 +3631,9 @@
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Friedrichshafen" error_2="MTU Friedrichshafen">Rolls Royce Power Systems parent company MTU located in Friedrichsafen produces the engines for the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id2">Rolls Royce Power Systems is the parent company of MTU Friedrichshafen is in Friedrichshafen, whose engine powers the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id3">MTU Friedrichshafen (Friedrichshafen) engines power the A-Rosa Luna and is the parent company of Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1" error_1="Friedrichshafen" error_2="MTU Friedrichshafen" error_3="Rolls-Royce Power Systems">Rolls Royce Power Systems parent company MTU located in Friedrichsafen produces the engines for the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls Royce Power Systems is the parent company of MTU Friedrichshafen is in Friedrichshafen, whose engine powers the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">MTU Friedrichshafen (Friedrichshafen) engines power the A-Rosa Luna and is the parent company of Rolls Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id217" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3651,9 +3651,9 @@
         <mtriple>MTU_Friedrichshafen | owner | Rolls-Royce_Holdings</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rolls-Royce Holdings">The A-Rosa Luna is powered by a MTU Friedrichshafen engine, the parent company of which, is Rolls Royce Power Systems.</lex>
-      <lex comment="good" lid="Id2">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen. The latter is owned by the Rolls-Royce Holdings. The A-Rosa Luna has a MTU Friedrichshafen engine.</lex>
-      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is owned by Rolls-Royce Holdings and Rolls Royce Power Systems is its parent company.</lex>
+      <lex comment="good" lid="Id1" error_1="Rolls-Royce Holdings" error_2="Rolls-Royce Power Systems">The A-Rosa Luna is powered by a MTU Friedrichshafen engine, the parent company of which, is Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen. The latter is owned by the Rolls-Royce Holdings. The A-Rosa Luna has a MTU Friedrichshafen engine.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is owned by Rolls-Royce Holdings and Rolls Royce Power Systems is its parent company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id218" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

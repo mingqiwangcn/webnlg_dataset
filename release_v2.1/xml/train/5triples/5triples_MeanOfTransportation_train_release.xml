@@ -225,9 +225,9 @@
         <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises. Caterpillar Inc. was founded in the United States.</lex>
-      <lex comment="good" lid="Id2">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company provides the engine power for the AIDAluna which is owned by the German based company AIDA Cruises.</lex>
-      <lex comment="good" lid="Id3">AIDAluna, owned by the German company AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
+      <lex comment="good" lid="Id1" error_1="Germany">Douglas R. Oberhelman is a key person at Caterpillar Inc. who provide the engine power for the AIDAluna which is owned by the German based AIDA Cruises. Caterpillar Inc. was founded in the United States.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">Douglas R Oberhelman is a key person at Caterpillar Inc. which was founded in the US. The company provides the engine power for the AIDAluna which is owned by the German based company AIDA Cruises.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany">AIDAluna, owned by the German company AIDA Cruises, has a Caterpillar Inc. engine. Caterpillar Inc., founded in the United States, includes key figure, Douglas R Oberhelman.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -308,7 +308,7 @@
         <mtriple>Costa_Crociere | location | Italy</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Meyer Werft">The AIDAstella is owned by Costa Crociere, which is based in Italy. The AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is operated by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1">The AIDAstella is owned by Costa Crociere, which is based in Italy. The AIDAstella is 253260.0 millimetres long and was built by Meyer Werft. It is operated by AIDA Cruises.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was built by Mr. Meyer Werft and operated by AIDA Cruise Line. It is 253260.0 millimetres long. The AIDA Cruise Line is owned and operated by Costa Crociere out of Italy.</lex>
       <lex comment="good" lid="Id3">The AIDAstella is owned by Costa Crociere who are located in Italy, and operated by AIDA Cruises. It was built by Meyer Werft and is 253260.0 millimetres in length.</lex>
       <lex comment="good" lid="Id4">The AIDAstella, operated by AIDA Cruises, owned by the Italy based Costa Crociere, was built by Meyer Werft. It is 253260.0mm long.</lex>
@@ -1727,7 +1727,7 @@
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
         <mtriple>ELA-3 | operator | Arianespace</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Guiana Space Centre">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guiana Space Centre and launched the Ariane 5.</lex>
+      <lex comment="good" lid="Id1">Arianespace is located in Courcouronnes, France. The ELA-3, owned by Arianespace, is located at the Guiana Space Centre and launched the Ariane 5.</lex>
       <lex comment="good" lid="Id2">The Ariane 5 was launched at the ELA-3 at the Guiana Space Centre. Arianespace, located in the city of Courcouronnes, in France, operates the ELA-3.</lex>
       <lex comment="good" lid="Id3">Arianespace owned, ELA-3, operated by the Courcouronnes, France, Guiana Space Centre, is the launch pad for the Ariane 5.</lex>
     </entry>
@@ -2495,7 +2495,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Meyer Werft are located in Germany and built the AIDAstella operated by AIDA Cruises. Itis owned by Costa Crociere whose parent company is Carnival Corporation &amp; plc.</lex>
-      <lex comment="good" lid="Id2">The AIDAstella was built by the German based company Meyer Werft. It is operated by AIDA Cruises and owned by Costa Crociere, a subsidiary of Carnival Corporation &amp; Plc.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">The AIDAstella was built by the German based company Meyer Werft. It is operated by AIDA Cruises and owned by Costa Crociere, a subsidiary of Carnival Corporation &amp; Plc.</lex>
       <lex comment="good" lid="Id3">The AIDAstella was built by Meyer Werft located in Germany. It is operated by the AIDA Cruise Line and owned by Costa Crociere whose parent company is Carnival Corporation &amp; plc.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id113" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2668,7 +2668,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna was built by Neptun Werft which is located in Rostock, in Germany. Berlin is the capital of Germany where Germans is the demonym for people who live there.</lex>
       <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft, Rostock, Germany. Germans is the demonym for people who live in Germany and the capital is Berlin.</lex>
-      <lex comment="good" lid="Id3">The German capital is Berlin and the inhabitants of the country are known as Germans. Rostock is located in the country and is the base for Neptun Werft who built the A Rosa Luna.</lex>
+      <lex comment="good" lid="Id3" error_1="Germany">The German capital is Berlin and the inhabitants of the country are known as Germans. Rostock is located in the country and is the base for Neptun Werft who built the A Rosa Luna.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id121" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2723,7 +2723,7 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft, whose HQ is in Rostock, Germany, made the A Rosa Luna. Germans inhabit Germany whose leader is Angela Merkel.</lex>
-      <lex comment="good" lid="Id2" error_1="Angela Merkel">The A-Rosa Luna is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angela Merkel and the people that live in the country are referred to as Germans.</lex>
+      <lex comment="good" lid="Id2">The A-Rosa Luna is built by Neptun Werft, a company based in Rostock, Germany. The leader of Germany is Angela Merkel and the people that live in the country are referred to as Germans.</lex>
       <lex comment="good" lid="Id3">Germany is led by Angela Merkel and the inhabitants are known as Germans. Neptun Werft who built the A-Rosa Luna are located in the country at Rostock.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id124" shape="(X (X (X (X (X) (X)))))" shape_type="mixed" size="5">

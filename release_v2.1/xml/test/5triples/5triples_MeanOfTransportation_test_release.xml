@@ -408,8 +408,8 @@
         <mtriple>A-Rosa_Luna | builder | Neptun_Werft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Neptun Werft of Rostock, Germany made the A-Rosa Luna. Berlin is the capital of Germany and Andreas Voßkuhle is a leader there.</lex>
-      <lex comment="good" lid="Id2">The A Rosa Luna was built on the Neptun Werft which is found in Rostock, Germany. Berlin is its capital and Andreas Vosskuhle is one leader there.</lex>
-      <lex comment="good" lid="Id3">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital.</lex>
+      <lex comment="good" lid="Id2" error_1="A-Rosa Luna">The A Rosa Luna was built on the Neptun Werft which is found in Rostock, Germany. Berlin is its capital and Andreas Vosskuhle is one leader there.</lex>
+      <lex comment="good" lid="Id3" error_1="A-Rosa Luna">The A Rosa Luna was built on the Neptun Werft which is headquartered in Rostock, Germany. Andreas Vosskuhle is a leader in Germany and Berlin is the capital.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

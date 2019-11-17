@@ -17,7 +17,7 @@
         <mtriple>A-Rosa_Luna | topSpeed | 24.0</mtriple>
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">With a top speed of 24.0, the ship A Rosa Luna is 125800.00 millimetres long and weighs 1850 tonnes.</lex>
+      <lex comment="good" lid="Id1" error_1="A-Rosa Luna">With a top speed of 24.0, the ship A Rosa Luna is 125800.00 millimetres long and weighs 1850 tonnes.</lex>
       <lex comment="good" lid="Id2" error_1="125800.0 (millimetres)">A-Rosa Luna has a ship displacement of 1850 tonnes and a top speed of 24 km/h. Its length is 125.8 metres.</lex>
       <lex comment="good" lid="Id3" error_1="125800.0 (millimetres)">The A-Rosa Luna which is 125.8 metres long has a top speed of 24.0 and weighs 1850 tonnes.</lex>
     </entry>
