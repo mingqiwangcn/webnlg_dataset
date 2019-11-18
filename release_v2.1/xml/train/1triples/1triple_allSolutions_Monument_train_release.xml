@@ -314,7 +314,7 @@
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dead Man's Plack is made from rock.</lex>
-      <lex comment="good" lid="Id2" error_1="Dead Man's Plack">Dad Man's Plack is made of rock.</lex>
+      <lex comment="good" lid="Id2" error_1="Dead Man's Plack">Dead Man's Plack is made of rock.</lex>
       <lex comment="good" lid="Id3" error_1="Rock (geology)">Dead Man's Plack is made from stone.</lex>
       <lex comment="good" lid="Id4">The Dead Man's Plack is made with rock.</lex>
     </entry>
@@ -405,7 +405,7 @@
       <lex comment="good" lid="Id2">The currency of Turkey is the Turkish lira.</lex>
       <lex comment="good" lid="Id3">The currency in Turkey is the Turkish Lira.</lex>
       <lex comment="good" lid="Id4">Turkey's currency is the Turkish lira.</lex>
-      <lex comment="good" lid="Id5" error_1="Turkish lira">the currency used in Turkey is lira.</lex>
+      <lex comment="good" lid="Id5" error_1="Turkish lira">The currency used in Turkey is lira.</lex>
       <lex comment="good" lid="Id6" error_1="Turkey">The Turkish currency is the Turkish lira.</lex>
     </entry>
     <entry category="Monument" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
