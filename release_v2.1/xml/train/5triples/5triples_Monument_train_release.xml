@@ -230,7 +230,7 @@
         <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick, Maryland. The monument was established on 1907-07-11 and belongs to the category of Historic districts in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">The 14th New Jersey Volunteer Infantry Monument was established July 11th, 1907 and is an historic district founded in the Monocacy National Battlefield (USA). The nearest city is Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">The 14th New Jersey Volunteer Infantry Monument was established July 11th, 1907 and is a historic district founded in the Monocacy National Battlefield (USA). The nearest city is Frederick, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id13" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -563,9 +563,9 @@
         <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Dead Man's Plack is a rock formation located in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the English ethnic groups are the British Arabs, and the capital of the country is London.</lex>
-      <lex comment="good" lid="Id2" error_1="Rock (geology)">The British Arabs are one of the ethnic groups to be found in England, where the capital city is London. Also located in the country is Dead Man's Plack, a stone formation dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
-      <lex comment="good" lid="Id3">England's capital is London and one of the ethnic groups found in the country are the British Arabs. Dead Mans Plack is a rock formation found in the country and dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id1">Dead Man's Plack is a rock monument located in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the English ethnic groups are the British Arabs, and the capital of the country is London.</lex>
+      <lex comment="good" lid="Id2" error_1="Rock (geology)">The British Arabs are one of the ethnic groups to be found in England, where the capital city is London. Also located in the country is Dead Man's Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id3">England's capital is London and one of the ethnic groups found in the country are the British Arabs. Dead Mans Plack is a rock monument found in the country and dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
     </entry>
     <entry category="Monument" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -638,7 +638,7 @@
         <mtriple>England | religion | Church_of_England</mtriple>
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The British Arabs are one of the ethnic groups to be found in England, which has the capital city of London. England is the location of the rock formation known as Dead Mans Plack, and where the main religion is the Church of England.</lex>
+      <lex comment="good" lid="Id1">The British Arabs are one of the ethnic groups to be found in England, which has the capital city of London. England is the location of the rock monument known as Dead Man's Plack, and where the main religion is the Church of England.</lex>
       <lex comment="good" lid="Id2">Dead Man's Plack (made of rock) is found in England, the capital of which is London. The British Arabs are an English ethnic group and the main religion of the country is the Church of England.</lex>
       <lex comment="good" lid="Id3">Dead Man's Plack is found in England and is made from rock. The capital of England is London and its religion is Church of England. The British Arabs are an English ethnic group.</lex>
     </entry>

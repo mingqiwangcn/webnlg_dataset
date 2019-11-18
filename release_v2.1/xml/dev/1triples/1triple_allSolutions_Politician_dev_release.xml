@@ -51,7 +51,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud is from Kota Samarahan.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud is from the region of Kota Samarahan.</lex>
-      <lex comment="good" lid="Id3" error_1="Abdul Taib Mahmud">Adul Taib Mahmud lived in the Kota Samarahan region.</lex>
+      <lex comment="good" lid="Id3" error_1="Abdul Taib Mahmud">Abdul Taib Mahmud lived in the Kota Samarahan region.</lex>
     </entry>
     <entry category="Politician" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -301,7 +301,7 @@
         <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
-      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">The successor to Antonis Samaras was Konstantionos Mitsotakis.</lex>
+      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">The successor to Antonis Samaras was Konstantinos Mitsotakis.</lex>
     </entry>
     <entry category="Politician" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
