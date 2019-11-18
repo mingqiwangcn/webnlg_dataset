@@ -121,7 +121,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | state | "Pennsylvania"</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="11th Mississippi Infantry Monument">The 11th Mississippi Infantry Monument is found in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is found in Gettysburg, Pennsylvania.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is in Pennsylvania, in the municipality of Gettysburg.</lex>
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument can be found in Gettysburg, Pennsylvania.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
@@ -334,7 +334,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The native name for the Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner is Türk Şehitleri Anıtı.</lex>
-      <lex comment="good" lid="Id2" error_1="Turk Sehitleri Aniti">The Baku Turkish Martyrs'Memorial which is know locally as Turk Sehitleri Aniti was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id2">The Baku Turkish Martyrs'Memorial which is know locally as Turk Sehitleri Aniti was designed by Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is known in Turkish as Turk Sehitleri Aniti and the designers are Hüseyin Bütüner and Hilmi Güner.</lex>
     </entry>
     <entry category="Monument" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -384,7 +384,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield which is located in Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield which is located Frederick County, Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Monocacy National Battlefield">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

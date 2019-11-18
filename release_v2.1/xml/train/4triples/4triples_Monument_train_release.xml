@@ -46,8 +46,8 @@
         <mtriple>Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Adams County in Pennsylvania, USA is located to the south of Cumberland County and northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, US, with Cumberland County lying to the north and Carroll County, Maryland to the southeast.</lex>
+      <lex comment="good" lid="Id1">Adams County in Pennsylvania, USA is located to the south of Cumberland County and northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument.</lex>
+      <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, US, with Cumberland County lying to the north and Carroll County, Maryland to the southeast.</lex>
     </entry>
     <entry category="Monument" eid="Id4" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -186,7 +186,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | "1907-07-11"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">The American 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id1">The American 14th New Jersey Volunteer Infantry Monument in the Historic District of the Monocacy National Battlefield was established on July 11th, 1907.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry monument is located in the United States within the Monocacy National Battlefield. It was established on 11 July 1907 and is categorised as a historic district.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established on 11th July 1907) is located on the Monocacy National Battlefield in the United States, where it is categorised as a historic district.</lex>
     </entry>
@@ -221,7 +221,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Adams County. It is the location of the 11th Mississippi Infantry monument.</lex>
       <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Adams County, Pennsylvania">The 11th Mississippi Infantry Monument is located in Adams County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
+      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg in Adams County, Pennsylvania, which has Cumberland county to its north and Frederick County, Maryland to its southwest.</lex>
     </entry>
     <entry category="Monument" eid="Id14" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

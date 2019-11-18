@@ -314,7 +314,7 @@
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dead Man's Plack is made from rock.</lex>
-      <lex comment="good" lid="Id2" error_1="Dead Man's Plack">Dead Man's Plack is made of rock.</lex>
+      <lex comment="good" lid="Id2">Dead Man's Plack is made of rock.</lex>
       <lex comment="good" lid="Id3" error_1="Rock (geology)">Dead Man's Plack is made from stone.</lex>
       <lex comment="good" lid="Id4">The Dead Man's Plack is made with rock.</lex>
     </entry>

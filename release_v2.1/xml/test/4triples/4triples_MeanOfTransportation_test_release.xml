@@ -373,7 +373,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the UK, whose capital is London. It was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">Aston Martin V8 was made by Aston Martin in the UK whose capital is London. The Martin was succeeded by the Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id3" error_1="United Kingdom">The Aston Martin V8 is assembled in the U.K. which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is assembled in the U.K. which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

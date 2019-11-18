@@ -16,7 +16,7 @@
         <mtriple>AIDAstella | builder | Meyer_Werft</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="38.892">AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line. The AIDAstella has a beam of 32.2 m, is 253260.0 millimetres in length and has a top speed of 38.892.</lex>
+      <lex comment="good" lid="Id1">AIDAstella was built by Meyer Werft and is operated by AIDA Cruise Line. The AIDAstella has a beam of 32.2 m, is 253260.0 millimetres in length and has a top speed of 38.892.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was built by Meyer Werft and operated by the AIDA Cruise Line. It is 253260.0 millimetres long with a beam of 32.2 metres and a top speed of 38.892 km/h.</lex>
       <lex comment="good" lid="Id3">The AIDAstella is operated by AIDA Cruise Line and was built by Meyer Werft. It is 253260.0 millimetres in length, has a beam of 32.2m and a top speed of 38.892 km/h.</lex>
     </entry>
@@ -56,7 +56,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Station wagon">The AMC Matador (also known as the American Motors Matador) is assembled in Thames, New Zealand. Classified as a mid-size car, it features a wagon style body and an AMC V8 engine.</lex>
       <lex comment="good" lid="Id2" error_1="Mid-size car">The AMC Matador, also known as American Motors Matador, was assembled in Thames, New Zealand. The AMC Matador is a mid-size station wagon with a V8 engine type.</lex>
-      <lex comment="good" lid="Id3" error_1="Mid-size car" error_2="Station wagon">The AMC Matador aka the American Motors Matador, is assembled in Thames, New Zealand, has a v8 engine, and is classified as a mid-size station wagon.</lex>
+      <lex comment="good" lid="Id3" error_1="Mid-size car">The AMC Matador aka the American Motors Matador, is assembled in Thames, New Zealand, has a v8 engine, and is classified as a mid-size station wagon.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -80,7 +80,7 @@
         <mtriple>Alhambra | builder | Samuda_Brothers</mtriple>
         <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Deptford">P&amp;O owns the Alhambra which has a Humphrys, Tennant and Dykes engine and is 63800.0 millimetres long. The Alhambra was made by the Samuda Brothers. Humphrys, Tennant and Dykes are located in Deptford.</lex>
+      <lex comment="good" lid="Id1">P&amp;O owns the Alhambra which has a Humphrys, Tennant and Dykes engine and is 63800.0 millimetres long. The Alhambra was made by the Samuda Brothers. Humphrys, Tennant and Dykes are located in Deptford.</lex>
       <lex comment="good" lid="Id2">The Alhambra was built by the Samuda Brothers is owned by the P &amp; O company. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes are located in Deptford.</lex>
       <lex comment="good" lid="Id3">The Alhambra was built by the Samuda Brothers and is owned by P&amp;O. It was 63800.0 millimetres long and has a Humphrys, Tennant and Dykes power type. Humphrys, Tennant and Dykes is located in Deptford.</lex>
     </entry>
@@ -125,9 +125,9 @@
         <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
         <mtriple>Delta_II | countryOrigin | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport">The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id2" error_1="Mid-Atlantic Regional Spaceport">Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid-Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.</lex>
-      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport">The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id1">The Antares rocket is manufactured at the Yuzhnoye Design Office, and was launched from the Mid-Atlantic Regional Spaceport. It is comparable to the United States Delta II, which was launched at the Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id2">Produced at the Yuzhnoye Design Office, the Antares rocket was launched from the Mid-Atlantic Regional Spaceport. The Antares compares to the Delta II US born rocket which launches out of Vandenberg Air Force Base.</lex>
+      <lex comment="good" lid="Id3">The Antares rocket is manufactured by the Yuzhnoye Design Office and launched from the Mid-Atlantic Regional Spaceport. It is similar to the Delta II rocket from the United States which launched from the Vandenberg Air Force Base.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

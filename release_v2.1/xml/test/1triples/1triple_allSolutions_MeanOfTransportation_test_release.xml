@@ -80,7 +80,7 @@
       <modifiedtripleset>
         <mtriple>ALV_X-1 | launchSite | Mid-Atlantic_Regional_Spaceport</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mid-Atlantic Regional Spaceport">The launch site of ALV X-1 was Mid-Atlantic Regional Spaceport.</lex>
+      <lex comment="good" lid="Id1">The launch site of ALV X-1 was Mid-Atlantic Regional Spaceport.</lex>
       <lex comment="good" lid="Id2">The launch site of the ALV X-1 was the Mid-Atlantic Regional Spaceport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X))" shape_type="NA" size="1">

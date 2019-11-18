@@ -77,8 +77,8 @@
         <mtriple>1955_Dodge | engine | Straight-six_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dodge 1955 has a straight-six engine.</lex>
-      <lex comment="good" lid="Id2" error_1="Straight-six engine">The 1955 Dodge has a straight-six engine.</lex>
-      <lex comment="good" lid="Id3" error_1="Straight-six engine">There is a straight-six engine in the 1955 Dodge car.</lex>
+      <lex comment="good" lid="Id2">The 1955 Dodge has a straight-six engine.</lex>
+      <lex comment="good" lid="Id3">There is a straight-six engine in the 1955 Dodge car.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -133,7 +133,7 @@
       <modifiedtripleset>
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3-speed automatic">The 1955 Dodge has a 3-speed automatic transmission.</lex>
+      <lex comment="good" lid="Id1">The 1955 Dodge has a 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge uses a 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id3">The 1955 Dodge has a 3-speed automatic transmission.</lex>
     </entry>
@@ -712,7 +712,7 @@
       <modifiedtripleset>
         <mtriple>AMC_Matador | assembly | Australian_Motor_Industries</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Australian Motor Industries">The AMC Matador is assembled by the Australian Motor Industries.</lex>
+      <lex comment="good" lid="Id1">The AMC Matador is assembled by the Australian Motor Industries.</lex>
       <lex comment="good" lid="Id2">The AMC Matador's is assembled by the Australian Motor Industries.</lex>
       <lex comment="good" lid="Id3">The AMC Matador was assembled by Australian Motor Industries.</lex>
     </entry>
@@ -743,7 +743,7 @@
       <modifiedtripleset>
         <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Port Melbourne, Victoria">The AMC Matador is assembled at Port Melbourne, Victoria.</lex>
+      <lex comment="good" lid="Id1">The AMC Matador is assembled at Port Melbourne, Victoria.</lex>
       <lex comment="good" lid="Id2">The AMC Matador is assembled in Port Melbourne, Victoria.</lex>
       <lex comment="good" lid="Id3">The assembly line on the AMC Matador is in Port Melbourne, Victoria.</lex>
     </entry>
@@ -1414,7 +1414,7 @@
       <modifiedtripleset>
         <mtriple>Alfa_Romeo_164 | transmission | "6-speed manual (Getrag)"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alfa Romeo 164">The Alfa Romeo 164 has a 6-speed manual Getrag transmission.</lex>
+      <lex comment="good" lid="Id1">The Alfa Romeo 164 has a 6-speed manual Getrag transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2136,7 +2136,7 @@
         <mtriple>Aston_Martin_V8 | bodyStyle | Coupé</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8's body style is the Coupé.</lex>
-      <lex comment="good" lid="Id2" error_1="Aston Martin V8">The body style of the Aston Martin V8 is a coupe.</lex>
+      <lex comment="good" lid="Id2">The body style of the Aston Martin V8 is a coupe.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 is a Coupe.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
@@ -2411,7 +2411,7 @@
       <modifiedtripleset>
         <mtriple>Audi_A1 | transmission | "6-speed manual"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="6-speed manual">The Audi A1 has a 6-speed manual gearbox.</lex>
+      <lex comment="good" lid="Id1">The Audi A1 has a 6-speed manual gearbox.</lex>
       <lex comment="good" lid="Id2">The Audi A1 has a 6-speed manual transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
@@ -2493,7 +2493,7 @@
       <modifiedtripleset>
         <mtriple>DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="DeSoto Custom">The DeSoto Custom is related to the Dodge Coronet.</lex>
+      <lex comment="good" lid="Id1">The DeSoto Custom is related to the Dodge Coronet.</lex>
       <lex comment="good" lid="Id2">The DeSoto Custom and the Dodge Coronet are similar means of transport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id229" shape="(X (X))" shape_type="NA" size="1">
@@ -2919,7 +2919,7 @@
       <modifiedtripleset>
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rolls-Royce Power Systems">The parent company of MTU Friedrichshafen is Rolls-Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1">The parent company of MTU Friedrichshafen is Rolls-Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id267" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2930,7 +2930,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
       <lex comment="good" lid="Id2">The Mid-Atlantic Regional Spaceport Launch Pad 0 is associated with the Antares rocket.</lex>
-      <lex comment="good" lid="Id3" error_1="Mid-Atlantic Regional Spaceport Launch Pad 0">The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex comment="good" lid="Id3">The Antares Rocket was launched at the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id268" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3227,7 +3227,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Vandenberg Air Force Base is located in Lompoc, California.</lex>
       <lex comment="good" lid="Id2" error_1="Lompoc, California">The Vandenberg Air Force Base is in Lompoc, CA.</lex>
-      <lex comment="good" lid="Id3" error_1="Vandenberg Air Force Base">Vandenberg Air Force Base is located in Lompoc, California.</lex>
+      <lex comment="good" lid="Id3">Vandenberg Air Force Base is located in Lompoc, California.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id296" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

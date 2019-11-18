@@ -14,7 +14,7 @@
         <mtriple>A-Rosa_Luna | shipOrdered | 2004-01-22</mtriple>
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A-Rosa Luna">The A-Rosa Luna ship is 125800.0 mms in length and was ordered on 22 January 2004.</lex>
+      <lex comment="good" lid="Id1">The A-Rosa Luna ship is 125800.0 mms in length and was ordered on 22 January 2004.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna ship which is 125800.0 millimetres in length, was ordered on January 22nd 2004.</lex>
       <lex comment="good" lid="Id3" error_1="125800.0 (millimetres)">The A-Rosa Luna ship was ordered on the 22nd January 2004 and it is 125.8 metres long.</lex>
     </entry>
@@ -375,7 +375,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna is powered by an engine made by MTU Friedrichshafen which is owned by Rolls-Royce Holdings.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna is powered by the Rolls-Royce Holdings owned, MTU Friedrichshafen, made engines.</lex>
-      <lex comment="good" lid="Id3" error_1="Rolls-Royce Holdings">The A-Rosa Luna is powered by engines made by MTU Friedrichshafen, whose owner is the company Rolls-Royce Holdings.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna is powered by engines made by MTU Friedrichshafen, whose owner is the company Rolls-Royce Holdings.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

@@ -37,9 +37,9 @@
         <mtriple>1955_Dodge | transmission | "3-speed automatic"</mtriple>
         <mtriple>1955_Dodge | alternativeName | "Dodge Coronet"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3-speed automatic">The 1955 Dodge, with an alternative name of Dodge coronet, has a V8 engine and 3-speed automatic transmission.</lex>
+      <lex comment="good" lid="Id1">The 1955 Dodge, with an alternative name of Dodge coronet, has a V8 engine and 3-speed automatic transmission.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge, also named the Dodge Coronet, has a 3-speed automatic transmission and a V8 engine.</lex>
-      <lex comment="good" lid="Id3" error_1="3-speed automatic">The 1955 Dodge, which has the alternative name of Dodge Coronet, has a V8 engine and uses a 3-speed automatic transmission.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge, which has the alternative name of Dodge Coronet, has a V8 engine and uses a 3-speed automatic transmission.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -72,7 +72,7 @@
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Germany">The operator of AIDAstella is German-based AIDA Cruises. The AIDAstella is owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id2" error_1="Costa Crociere" error_2="Germany">The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id2" error_1="Germany">The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">AIDA Cruises are based in Germany and owned by Costa Crociere. They operate the AIDAstella.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -87,7 +87,7 @@
         <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ALCO RS-3 was built by the Montreal Locomotive Works, has 12 cylinders and is 17068.8 mms long.</lex>
-      <lex comment="good" lid="Id2" error_1="17068.8 (millimetres)">The ALCO RS-3 was built by the Montreal Locomotive Works, has a cylinder count of 12 and is 17068.8 mms in length.</lex>
+      <lex comment="good" lid="Id2">The ALCO RS-3 was built by the Montreal Locomotive Works, has a cylinder count of 12 and is 17068.8 mms in length.</lex>
       <lex comment="good" lid="Id3">Built by the Montreal Locomotive Works, the ALCO RS-3 has 12 cylinders and is 17068.8 (millimetres) in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -101,8 +101,8 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>United_States | demonym | Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="ALV X-1">Originating in the United States and by Americans, some of African decent is the ALV X-1.</lex>
-      <lex comment="good" lid="Id2" error_1="ALV X-1">ALV X-1 comes from the US where Americans live and African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Originating in the United States and by Americans, some of African decent is the ALV X-1.</lex>
+      <lex comment="good" lid="Id2">ALV X-1 comes from the US where Americans live and African Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">The country of origin of the ALV X-1 is the United States, home to Americans and where African Americans are an ethnic group.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -287,7 +287,7 @@
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco De mayo (V-2) comes from the country of Argentina which is led by Mauricio Macri and has the capital city of Buenos Aires.</lex>
-      <lex comment="good" lid="Id2" error_1="Buenos Aires">The ARA Veinticinco de Mayo (V-2) comes from Argentina. Argentina's capital is Buenos Aires and its leader is Mauricio Macri.</lex>
+      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) comes from Argentina. Argentina's capital is Buenos Aires and its leader is Mauricio Macri.</lex>
       <lex comment="good" lid="Id3">ARA Veinticinco de Mayo (V-2) comes from Argentina, where the capital is Buenos Aires and Mauricio Macri is the leader.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -306,7 +306,7 @@
         <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
         <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aston Martin RHAM/1">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and has a 5.3 litre engine.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and has a 5.3 litre engine.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8, (related to the Aston Martin RHAM/1), assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom, has a 5.3 liter engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -340,7 +340,7 @@
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
         <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Aston Martin V8">The Aston Martin Virage is made by the company Aston Martin, and it was preceded by the Aston Martin V8, which is a related means of transportation to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin Virage is made by the company Aston Martin, and it was preceded by the Aston Martin V8, which is a related means of transportation to the Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id2">The Aston Martin Virage was manufactured by Aston Martin. It was the successor to the Aston Martin V8 which was related to the Aston Martin RHAM/1.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -439,8 +439,8 @@
         <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
         <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kourou, French Guiana">The Ariane 5 was launched at ELA-3 which is located at the Guiana Space Centre whose headquarters are at Kourou in French Guiana.</lex>
-      <lex comment="good" lid="Id2" error_1="Ariane 5">The launch site of the Ariane 5 was ELA-3 launchpad was is at Guiana Space Centre in Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id1">The Ariane 5 was launched at ELA-3 which is located at the Guiana Space Centre whose headquarters are at Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id2">The launch site of the Ariane 5 was ELA-3 launchpad was is at Guiana Space Centre in Kourou in French Guiana.</lex>
       <lex comment="good" lid="Id3">The Ariane 5 was launched at ELA-3 at the Guiana Space Centre which has its headquarters at Kourou in French Guiana.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id27" shape="(X (X (X (X))))" shape_type="chain" size="3">
@@ -456,7 +456,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in French Guiana, the Guiana Space Centre is the site of the ELA-3 which was where the Ariane 5 was launched.</lex>
       <lex comment="good" lid="Id2">ELA-3, located at the Guiana Space Centre in French Guiana, launched the Ariane 5.</lex>
-      <lex comment="good" lid="Id3" error_1="Ariane 5">French Guiana is the location of the Guiana Space Centre where the site of ELA-3 is located which was the launch site of the Ariane 5.</lex>
+      <lex comment="good" lid="Id3">French Guiana is the location of the Guiana Space Centre where the site of ELA-3 is located which was the launch site of the Ariane 5.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

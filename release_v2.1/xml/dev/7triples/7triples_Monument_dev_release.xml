@@ -21,7 +21,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Municipality of Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Adams County, Pennsylvania" error_2="Cumberland County, Pennsylvania" error_3="Gettysburg, Pennsylvania" error_4="United States">The 11th Mississippi Infantry monument which was erected in the municipality of Gettysburg, Adams County, Pennsylvania, US in 2000 is categorised as a contributing property. Adams County is located south of Cumberland County in the same state, and Carroll County, Maryland is situated to the southeast.</lex>
+      <lex comment="good" lid="Id2">The 11th Mississippi Infantry monument which was erected in the municipality of Gettysburg, Adams County, Pennsylvania, US in 2000 is categorised as a contributing property. Adams County is located south of Cumberland County in the same state, and Carroll County, Maryland is situated to the southeast.</lex>
     </entry>
     <entry category="Monument" eid="Id2" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -67,7 +67,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The National Assembly is the official legislature of Azerbaijan which is led by a Prime Minister. The capital city is Baku which is the location of the memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku.</lex>
       <lex comment="good" lid="Id2" error_1="Ottoman Army soldiers killed in the Battle of Baku">Baku is the capital of Azerbaijan where the leader's title is Prime Minister and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.</lex>
-      <lex comment="good" lid="Id3" error_1="Huseyin Butuner and Hilmi Guner" error_2="Prime Minister of Azerbaijan">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Memorial. It is located in Baku, Azerbaijan, which has legislature of National Assembly, and led by the Prime Minster. The memorial is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id3" error_1="Prime Minister of Azerbaijan">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Memorial. It is located in Baku, Azerbaijan, which has legislature of National Assembly, and led by the Prime Minster. The memorial is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
     </entry>
   </entries>
 </benchmark>
