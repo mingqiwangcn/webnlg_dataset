@@ -373,7 +373,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aston Martin V8 was assembled in the UK, whose capital is London. It was succeeded by the Aston Martin Virage.</lex>
       <lex comment="good" lid="Id2">Aston Martin V8 was made by Aston Martin in the UK whose capital is London. The Martin was succeeded by the Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id3" error_1="United Kingdom">The Aston Martin V8 is assembled in the U.K which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
+      <lex comment="good" lid="Id3" error_1="United Kingdom">The Aston Martin V8 is assembled in the U.K. which has the capital city of London. It was succeeded by the Aston Martin Virage which was made by the company Aston Martin.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -434,7 +434,7 @@
         <mtriple>Audi_A1 | layout | Front-engine,_front-wheel-drive_layout</mtriple>
         <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Front-engine, front-wheel-drive layout">Classed as a supermini, the Audi A1 (assembled at Audi Brussels), has a 1.2 litre front-engine with front-wheel-drive.</lex>
+      <lex comment="good" lid="Id1" error_1="Front-engine, front-wheel-drive layout">Classed as a supermini, the Audi A1 (assembled at Audi Brussels) has a 1.2 litre front-engine with front-wheel-drive.</lex>
       <lex comment="good" lid="Id2" error_1="Front-engine, front-wheel-drive layout">Audi A1 belongs to the supermini class and is assembled at Audi Brussels. It has a 1.2 litre engine and a front engine, front-wheel-drive layout.</lex>
       <lex comment="good" lid="Id3" error_1="Front-engine, front-wheel-drive layout" error_2="Supermini">The Audi A1 is assembled at Audi Brussels and is classed as a super mini. It has a 1.2 litre engine and a front engine, front-wheel-drive layout.</lex>
     </entry>

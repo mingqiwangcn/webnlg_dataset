@@ -2795,7 +2795,7 @@
         <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 has a 5.3 litre engine and is assembled in the United Kingdom. It is related to the Aston Martin RHAM/1.</lex>
-      <lex comment="good" lid="Id2" error_1="United Kingdom">The Aston Martin V8 which is related to the Aston Martin RHAM/1 was assembled in the U.K and has an engine volume of 5.3 litres.</lex>
+      <lex comment="good" lid="Id2" error_1="United Kingdom">The Aston Martin V8 which is related to the Aston Martin RHAM/1 was assembled in the U.K. and has an engine volume of 5.3 litres.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in the United Kingdom and has an engine volume of 5.3 litres.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id166" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -3306,7 +3306,7 @@
         <mtriple>1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom</mtriple>
         <mtriple>DeSoto_Custom | manufacturer | DeSoto_(automobile)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1955 Dodge">The DeSoto is related to the Dodge Coronet and Desoto Custom which is made by the DeSoto co.</lex>
+      <lex comment="good" lid="Id1" error_1="1955 Dodge">The DeSoto is related to the Dodge Coronet and 1955 Dodge, and is made by the DeSoto co.</lex>
       <lex comment="good" lid="Id2">The DeSoto Custom was manufactured at DeSoto and is a similar means of transportation as the Dodge Coronet and the 1955 Dodge.</lex>
       <lex comment="good" lid="Id3">The DeSoto Custom (made by DeSoto Custom) and the Dodge Coronet vehicles are alike. The former car is related to the 1955 Dodge.</lex>
     </entry>
@@ -3438,7 +3438,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164 was assembled in Arese which is a related form of transportation to Fiat Croma and Opel Vectra.</lex>
       <lex comment="good" lid="Id2">The Alfa Romeo 164 was assembled in Arese. It is a related means of transportation to the Fiat Croma and Opel Vectra.</lex>
-      <lex comment="good" lid="Id3" error_1="Opel Vectra">The Alfa Romeo 164, assembled in Arese, and the Fiat Croma, are similar modes of transportation.</lex>
+      <lex comment="good" lid="Id3" error_1="Opel Vectra">The Alfa Romeo 164, assembled in Arese, the Fiat Croma, and Opel Vectra are similar modes of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id206" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3617,8 +3617,8 @@
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">MTU Friedrichshafen of Friedrichshafen, owned by Rolls-Royce Holdings, manufactures the A-Rosa Luna engine.</lex>
-      <lex comment="good" lid="Id2" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by a MTU Friedrichshafen engine. The latter company is owned by Roll Royce Holdings.</lex>
-      <lex comment="good" lid="Id3" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by an engine from MTU Friedrichshafen located in the city of Friedrichshafen and owned by Rolls Royce Holdings.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by an MTU Friedrichshafen engine. The latter company is owned by Rolls-Royce Holdings and is located in Friedrichshafen.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Holdings">The A Rosa Luna is powered by an engine from MTU Friedrichshafen located in the city of Friedrichshafen and owned by Rolls-Royce Holdings.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id216" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3631,9 +3631,9 @@
         <mtriple>MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Friedrichshafen" error_2="MTU Friedrichshafen" error_3="Rolls-Royce Power Systems">Rolls Royce Power Systems parent company MTU located in Friedrichsafen produces the engines for the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls Royce Power Systems is the parent company of MTU Friedrichshafen is in Friedrichshafen, whose engine powers the A-Rosa Luna.</lex>
-      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">MTU Friedrichshafen (Friedrichshafen) engines power the A-Rosa Luna and is the parent company of Rolls Royce Power Systems.</lex>
+      <lex comment="good" lid="Id1" error_1="Friedrichshafen" error_2="MTU Friedrichshafen" error_3="Rolls-Royce Power Systems">Belonging to the Rolls-Royce Power Systems parent company, MTU located in Friedrichshafen produces the engines for the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls-Royce Power Systems is the parent company of MTU Friedrichshafen in Friedrichshafen, whose engine powers the A-Rosa Luna.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">MTU Friedrichshafen (Friedrichshafen) engines power the A-Rosa Luna, and the company is the child company of Rolls-Royce Power Systems.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id217" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3651,9 +3651,9 @@
         <mtriple>MTU_Friedrichshafen | owner | Rolls-Royce_Holdings</mtriple>
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rolls-Royce Holdings" error_2="Rolls-Royce Power Systems">The A-Rosa Luna is powered by a MTU Friedrichshafen engine, the parent company of which, is Rolls Royce Power Systems.</lex>
-      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls Royce Power Systems is the parent co. of MTU Friedrichshafen. The latter is owned by the Rolls-Royce Holdings. The A-Rosa Luna has a MTU Friedrichshafen engine.</lex>
-      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">The A-Rosa Luna is powered by a MTU Friedrichshafen engine which is owned by Rolls-Royce Holdings and Rolls Royce Power Systems is its parent company.</lex>
+      <lex comment="good" lid="Id1" error_1="Rolls-Royce Holdings" error_2="Rolls-Royce Power Systems">The A-Rosa Luna is powered by an MTU Friedrichshafen engine. Rolls-Royce Power Systems is the parent company of MTU Friedrichshafen, and Rolls-Royce Holdings is its owner.</lex>
+      <lex comment="good" lid="Id2" error_1="Rolls-Royce Power Systems">Rolls-Royce Power Systems is the parent co. of MTU Friedrichshafen. The latter is owned by the Rolls-Royce Holdings. The A-Rosa Luna has an MTU Friedrichshafen engine.</lex>
+      <lex comment="good" lid="Id3" error_1="Rolls-Royce Power Systems">The A-Rosa Luna is powered by an MTU Friedrichshafen engine which is owned by Rolls-Royce Holdings and Rolls-Royce Power Systems is its parent company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id218" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3667,7 +3667,7 @@
         <mtriple>A-Rosa_Luna | powerType | MTU_Friedrichshafen</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A Rosa Luna is powered by a MTU Friedrichshafen engine. It was built by Neptun Werft in Rostock.</lex>
-      <lex comment="good" lid="Id2" error_1="Neptun Werft">The A-Rosa Luna was built by Neptun Weft in Rostock and is powered by a MTU Friedrichshafen engine.</lex>
+      <lex comment="good" lid="Id2" error_1="Neptun Werft">The A-Rosa Luna was built by Neptun Werft in Rostock and is powered by a MTU Friedrichshafen engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id219" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
