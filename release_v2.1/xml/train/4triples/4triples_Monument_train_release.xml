@@ -219,7 +219,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Frederick County. It is the location of the 11th Mississippi Infantry monument.</lex>
+      <lex comment="good" lid="Id1" error_1="Frederick County, Maryland">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Frederick County. It is the location of the 11th Mississippi Infantry monument.</lex>
       <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg in Adams County, Pennsylvania, which has Cumberland county to its north and Frederick County, Maryland to its southwest.</lex>
@@ -608,7 +608,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, a historic district in the United States, is located in the district of the Monocacy National Battlefield in Frederick County, Maryland, with the nearest city being Frederick, Maryland.</lex>
       <lex comment="good" lid="Id2">Frederick, Maryland is the nearest city to the Monocacy National Battlefield in the county. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument which is categorised as a historic district of the US.</lex>
-      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Maryland, United States and is categorised as a historic district. The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick County, Maryland, United States and is categorised as a historic district. The nearest city to Monocacy National Battlefield is Frederick, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id37" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -659,7 +659,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument, provided by the National Park Service, was established on 11th July 1907 and is located on the Monocacy National Battlefield in the county Frederick, Maryland.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry monument which has been provided by the National Park Service is located within the Monocacy National Battlefield in Frederick County, Maryland. It was established on 11 July 1907.</lex>
-      <lex comment="good" lid="Id3">The Monocacy National Battlefield in Frederick, Maryland is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907. It was provided by the National Park Service.</lex>
+      <lex comment="good" lid="Id3">The Monocacy National Battlefield in Frederick County, Maryland is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907. It was provided by the National Park Service.</lex>
       <lex comment="good" lid="Id4">The Monocacy National Battlefield in Frederick County, Maryland, is the location of the 14th New Jersey Volunteer Infantry monument. The monument was provided by the National Park Service and established on 11 July 1907.</lex>
       <lex comment="good" lid="Id5">The 14th New Jersey Volunteer Infantry Monument was established on 11th July 1907, and is found in the Monocacy National Battlefield in Frederick County, Maryland, where it is owned by the National Park Service.</lex>
     </entry>

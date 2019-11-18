@@ -677,7 +677,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The city of Frederick, Maryland is the nearest city to the Monocacy National Battlefield, Frederick County, where the 14th New Jersey Volunteer Infantry monument is located. The founding date of the memorial was 11 July 1907 and it is looked after by the National Park Service.</lex>
-      <lex comment="good" lid="Id2">A memorial in honour of the 14th New Jersey Volunteer Infantry was founded on 11th July, 1907. The monument is located in the Monocacy National Battlefield, which owned by the National Parks service, is near Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id2">A memorial in honour of the 14th New Jersey Volunteer Infantry was founded on 11th July, 1907. The monument is located in the Monocacy National Battlefield (Frederick County, Maryland), which is owned by the National Park service. The Battlefield has Frederick, Maryland as the nearest city.</lex>
     </entry>
     <entry category="Monument" eid="Id37" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -732,7 +732,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Monocacy National Battlefield is found in Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and can be found in the Monocacy National Battlefield. The monument is part of the category of Historic districts in the United States.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, United States. It was established on 11 July 1907 and is categorised as a historic district.</lex>
+      <lex comment="good" lid="Id2" error_1="Frederick County, Maryland">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, United States. It was established on 11 July 1907 and is categorised as a historic district.</lex>
     </entry>
     <entry category="Monument" eid="Id40" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
