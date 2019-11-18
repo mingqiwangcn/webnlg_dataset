@@ -219,8 +219,8 @@
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Adams County. It is the location of the 11th Mississippi Infantry monument.</lex>
-      <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument . Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Frederick County. It is the location of the 11th Mississippi Infantry monument.</lex>
+      <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg in Adams County, Pennsylvania, which has Cumberland county to its north and Frederick County, Maryland to its southwest.</lex>
     </entry>
@@ -388,7 +388,7 @@
         <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial, which is made from red granite and white marble, is located in Azerbaijan which is home to the National Assembly and has Baju as its capital.</lex>
-      <lex comment="good" lid="Id2">The Baku Turkish Martyr's Memorial, which is made from red granite and white marble, is in Azerbaijan which has the National Assembly as its legislature and Baku is the capital.</lex>
+      <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial, which is made from red granite and white marble, is in Azerbaijan which has the National Assembly as its legislature and Baku is the capital.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial, which is made from red granite and white marble, is in Azerbaijan which has Baku as its capital and has the National Assembly as its legislature.</lex>
     </entry>
     <entry category="Monument" eid="Id24" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

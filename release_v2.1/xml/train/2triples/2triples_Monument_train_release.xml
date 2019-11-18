@@ -281,9 +281,9 @@
         <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
         <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyr's Memorial is in Azerbaijan.</lex>
+      <lex comment="good" lid="Id1">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
       <lex comment="good" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and the leader is The Prime Minister of Azerbaijan.</lex>
-      <lex comment="good" lid="Id3" error_1="Prime Minister of Azerbaijan">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyr's Memorial is in Azerbaijan.</lex>
+      <lex comment="good" lid="Id3" error_1="Prime Minister of Azerbaijan">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
     </entry>
     <entry category="Monument" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -297,7 +297,7 @@
       <lex comment="good" lid="Id1">Huseyin Butuner and Hilmi Guner created the Baku Turkish Martyrs' Memorial. It is made of red granite and white marble.</lex>
       <lex comment="good" lid="Id2">The designers of the Red granite and white marble Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is designed by Huseyin Butuner and Hilmi Guner and is made with red granite and white marble.</lex>
-      <lex comment="good" lid="Id4">The Baku Turkish Martyr's Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is made out of red granite and white marble.</lex>
+      <lex comment="good" lid="Id4">The Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is made out of red granite and white marble.</lex>
       <lex comment="good" lid="Id5">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.</lex>
     </entry>
     <entry category="Monument" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -384,7 +384,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield which is located in Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield which is located Frederick County, Maryland.</lex>
-      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick County, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

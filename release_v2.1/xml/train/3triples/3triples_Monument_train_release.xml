@@ -301,7 +301,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
         <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Baku Turkish Martyr's Memorial is located in the capital city Baku in Azerbaijan where its leader is Artur Rasizade.</lex>
+      <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial is located in the capital city Baku in Azerbaijan where its leader is Artur Rasizade.</lex>
       <lex comment="good" lid="Id2">Artur Rasizade is the leader of Azerbaijan. The capital is Baku where the Turkish martyrs memorial is located.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyr's Memorial is located in Baku, the capital of Azerbaijan, led by Artur Rasizade.</lex>
     </entry>
@@ -476,8 +476,8 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frederick Maryland is the location of the Monocacy National Battlefield. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument and is categorised as a historic district of the US.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, a historical district in the United States, is located in the district of the Monocacy National Battlefield in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id1">Frederick County, Maryland is the location of the Monocacy National Battlefield. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument, which is categorised as a historic district of the US.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, a historic district in the United States, is located in the district of the Monocacy National Battlefield in Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument, located on the Monocacy National Battlefield in Frederick County, Maryland, is categorised as a historic district in the United States.</lex>
     </entry>
     <entry category="Monument" eid="Id34" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -491,7 +491,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
         <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Frederick Maryland is the nearest city to the Monocacy National Battlefields. This district is the location of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex comment="good" lid="Id1">Frederick, Maryland, is the nearest city to the Monocacy National Battlefields situated in Frederick County. This district is the location of the 14th New Jersey Volunteer Infantry Monument.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city.</lex>
     </entry>
     <entry category="Monument" eid="Id35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

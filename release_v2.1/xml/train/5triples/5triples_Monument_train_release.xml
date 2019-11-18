@@ -341,8 +341,8 @@
         <mtriple>Adams_County,_Pennsylvania | has to its southwest | Frederick_County,_Maryland</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. To the west is Franklin County and to the north is Cumberland County. Carroll County, Maryland is located to the southeast.</lex>
-      <lex comment="good" lid="Id2">Adams County is located to the south of Cumberland County and east of Franklin County, Pennsylvania. Carroll County, Maryland is to the southeast. It is the location of the 11th Mississippi Infantry Monument.</lex>
+      <lex comment="good" lid="Id1">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. To the west is Franklin County and to the north is Cumberland County. Carroll County, Maryland is located to the southeast, and Frederick County, Maryland - to the southwest.</lex>
+      <lex comment="good" lid="Id2">Adams County is located to the south of Cumberland County and east of Franklin County, Pennsylvania. Carroll County, Maryland is to the southeast, and Frederick County is to the southwest. It is the location of the 11th Mississippi Infantry Monument.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania. To the west of Adams County lies Franklin County, to the north is Cumberland County and the southwest lies Frederick County - all in Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id19" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -418,7 +418,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial is in Azerbaijan, whose capital is Baku and whose leader is Artur Rasizade.</lex>
-      <lex comment="good" lid="Id2">The Baku Turkish Martyr's Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner. The leader of Turkey is Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner. The leader of Turkey is Artur Rasizade.</lex>
     </entry>
     <entry category="Monument" eid="Id23" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -471,7 +471,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
         <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | "Türk Şehitleri Anıtı"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Baku Turkish Martyr's Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the memorial is "Türk Sehitleri Aniti" and is made from red granite and white marble. The Prime Minister of Azerbaijan is the official title of the leader of the country.</lex>
+      <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial in Azerbaijan is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the memorial is "Türk Sehitleri Aniti" and is made from red granite and white marble. The Prime Minister of Azerbaijan is the official title of the leader of the country.</lex>
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The red granite and white marble memorial is also known as Turk Sehitleri Aniti and is located in Azerbaijan where the leader is known as the Prime Minister.</lex>
     </entry>
     <entry category="Monument" eid="Id26" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -676,7 +676,7 @@
         <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The city of Frederick, Maryland is the nearest city to the Monocacy National Battlefield where the 14th New Jersey Volunteer Infantry monument is located. The founding date of the memorial was 11 July 1907 and is looked after by the National Park Service.</lex>
+      <lex comment="good" lid="Id1">The city of Frederick, Maryland is the nearest city to the Monocacy National Battlefield, Frederick County, where the 14th New Jersey Volunteer Infantry monument is located. The founding date of the memorial was 11 July 1907 and it is looked after by the National Park Service.</lex>
       <lex comment="good" lid="Id2">A memorial in honour of the 14th New Jersey Volunteer Infantry was founded on 11th July, 1907. The monument is located in the Monocacy National Battlefield, which owned by the National Parks service, is near Frederick, Maryland.</lex>
     </entry>
     <entry category="Monument" eid="Id37" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -695,7 +695,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frederick County, Maryland is the location of the Monocacy National Battlefield where the 14th New Jersey Volunteer Infantry monument is located. It was established on 11 July 1907 being provided by the National Park Service and is categorised as a historic district in the United States.</lex>
-      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument which was established 1907-07-11 is found in the Monocacy National Battlefield, Frederick, Maryland. The monument has been provided by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument which was established 1907-07-11 is found in the Monocacy National Battlefield, Frederick County, Maryland. The monument has been provided by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
     </entry>
     <entry category="Monument" eid="Id38" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
