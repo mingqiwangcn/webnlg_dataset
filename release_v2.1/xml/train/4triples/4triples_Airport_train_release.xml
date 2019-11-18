@@ -498,7 +498,7 @@
         <mtriple>Adirondack_Regional_Airport | elevationAboveTheSeaLevel_(in_metres) | 507</mtriple>
         <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Lake Placid, and the city of Saranac Lake, (both in New York) are served by Adirondack Regional Airport. This airport is 507 metres above sea level and has a a runway length of 1,219 metres.</lex>
+      <lex comment="good" lid="Id1">Lake Placid, and the city of Saranac Lake, (both in New York) are served by Adirondack Regional Airport. This airport is 507 metres above sea level and has a runway length of 1,219 metres.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves both the city of Lake Placid and city of Saranac Lake in New York. It has a runway length of 1219 and is 507 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Adirondack Regional Airport serves the cities of Lake Placid and Saranac Lake, New York. It is located 507 metres above sea level and has a runway length of 1219.0.</lex>
     </entry>
@@ -1072,7 +1072,7 @@
         <mtriple>Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agra airport, located in India, where the leader is T S Thakur, is operated by the Indian air force who deploy the transport aircraft Boeing C-17 Globemaster III.</lex>
-      <lex comment="good" lid="Id2">Agra airport is located in India, which is owned and operated by the Indian air force. That is where the the Boeing C-17 Globemaster III transport aircraft is located. T S Thakur is the leader of India.</lex>
+      <lex comment="good" lid="Id2">Agra airport is located in India, which is owned and operated by the Indian air force. That is where the Boeing C-17 Globemaster III transport aircraft is located. T S Thakur is the leader of India.</lex>
       <lex comment="good" lid="Id3">Agra airport is operated by the Indian Air Force and uses Boeing C-17 Globemaster III as its transport aircraft. India is led by T. S. Thakur.</lex>
     </entry>
     <entry category="Airport" eid="Id51" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1470,7 +1470,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Al Asad Airbase is operated by the United States Air Force, which houses the The Lockheed AC-130 (attack aircraft) and the McDonnell Douglas F-15 Eagle (aircraft fighter). The United States Air Force fought in the United States bombing of Libya in 1986.</lex>
+      <lex comment="good" lid="Id1">The Al Asad Airbase is operated by the United States Air Force, which houses the Lockheed AC-130 (attack aircraft) and the McDonnell Douglas F-15 Eagle (aircraft fighter). The United States Air Force fought in the United States bombing of Libya in 1986.</lex>
       <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and fought in the bombing of Libya in 1986. They deploy the Lockheed AC-130 on their aircraft carriers and also use the McDonnell Douglas F-15 Eagle Fighter Aircraft.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. There you can find the McDonnell Douglas F-15 Eagle aircraft fighter and the Lockheed AC-130. The USAF fought in the 1986 bombing of Libya.</lex>
     </entry>
@@ -1571,7 +1571,7 @@
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Lockheed AC-130, an an attack aircraft is used by the United States Air Force which operates Al Asad airbase. It was also involved in both the Invasion of Panama and Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id1">The Lockheed AC-130, an attack aircraft is used by the United States Air Force which operates Al Asad airbase. It was also involved in both the Invasion of Panama and Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">The Lockheed AC-130, a US fighter jet, operates out of Al Asad Airbase, controlled by the United States Air Force. Two USAF operations were the Invasion of Panama and "Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id3" error_1="Lockheed AC-130">The United States Air Force, who operate Al Asad airbase, were involved in the invasion of Panama and in the battles of Operation Enduring Freedom. They deploy the Lockheed AC 130 on their aircraft carriers.</lex>
     </entry>
@@ -1970,7 +1970,7 @@
         <mtriple>Allama_Iqbal_International_Airport | operatingOrganisation | Pakistan_Civil_Aviation_Authority</mtriple>
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Found in Punjab, Pakistan, and operated by the The Pakistan Civil Aviation Authority, is Allama Iqbal International Airport. This Airport serves the city of Lahore and has a runway length of 3360.12.</lex>
+      <lex comment="good" lid="Id1">Found in Punjab, Pakistan, and operated by the Pakistan Civil Aviation Authority, is Allama Iqbal International Airport. This Airport serves the city of Lahore and has a runway length of 3360.12.</lex>
       <lex comment="good" lid="Id2">The Pakistan Civil Aviation Authority is the operating organisation of the Allama Iqbal International Airport which is located in Punjab, Pakistan and serves the city of Lahore. The airport runway is 3360.12 in length.</lex>
       <lex comment="good" lid="Id3">Allama Iqbal International Airport serves Lahore and is located in Punjab, Pakistan. The Pakistan Civil Aviation Authority governs this airport whose runway is 3360.12 meters.</lex>
     </entry>
@@ -4168,7 +4168,7 @@
         <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mamnoon Hussain is a leader of Pakistan which is where the city of Lahore is. This city is served by Allama Iqbal International airport which is located in Punjab Pakistan.</lex>
-      <lex comment="good" lid="Id2">Mamnoon Hussain is the leader of Pakistan where the the city of Lahore is . This city is served by Allama Iqbal International airport which is located in Punjab Pakistan.</lex>
+      <lex comment="good" lid="Id2">Mamnoon Hussain is the leader of Pakistan where the city of Lahore is. This city is served by Allama Iqbal International airport which is located in Punjab Pakistan.</lex>
       <lex comment="good" lid="Id3">Mamnoon Hussain is the leader of Pakistan where Allama Iqbal International Airport is located in Punjab and serves the city of Lahore.</lex>
     </entry>
     <entry category="Airport" eid="Id194" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">

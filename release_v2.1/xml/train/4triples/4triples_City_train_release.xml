@@ -3207,7 +3207,7 @@
         <mtriple>United_States_House_of_Representatives | location | United_States_Capitol</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Anaheim, California is led by the The United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
+      <lex comment="good" lid="Id1">Anaheim, California is led by the United States House of Representatives which can be found in the United States Capitol. The language spoken in California is English.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives, which is in the U.S. Capitol, leads Anaheim, California where English is spoken.</lex>
       <lex comment="good" lid="Id3">The United States House of Representatives, located at the United States Capitol, leads Anaheim, California, where English is spoken.</lex>
     </entry>
@@ -3271,7 +3271,7 @@
         <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch and San Francisco Bay area are parts of Contra Costa County in California. The English language is spoken in California.</lex>
-      <lex comment="good" lid="Id2">Antioch and the the San Francisco Bay area are part of Contra Costa County in California. The English language is spoken in California.</lex>
+      <lex comment="good" lid="Id2">Antioch and the San Francisco Bay area are part of Contra Costa County in California. The English language is spoken in California.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County, which is turn, is is part of the San Francisco Bay area, in, English Speaking, California.</lex>
     </entry>
     <entry category="City" eid="Id135" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

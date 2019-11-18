@@ -2716,7 +2716,7 @@
         <mtriple>United_States_Army | battles | American_Revolutionary_War</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips was a member of the US Army which fought in the American Revolutionary War.</lex>
-      <lex comment="good" lid="Id2" error_1="American Revolutionary War">Alfred N. Phillip was a member of the US Army who was a participant in the The Revolutionary War.</lex>
+      <lex comment="good" lid="Id2" error_1="American Revolutionary War">Alfred N. Phillip was a member of the US Army who was a participant in the Revolutionary War.</lex>
     </entry>
     <entry category="Politician" eid="Id201" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3182,7 +3182,7 @@
         <mtriple>Juan_Perón | party | Labour_Party_(Argentina)</mtriple>
         <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Juan Peron was a member of the the Argentinian Labour Party. Juan Peron was President whilst Alberto Teisaire was in office.</lex>
+      <lex comment="good" lid="Id1">Juan Peron was a member of the Argentinian Labour Party. Juan Peron was President whilst Alberto Teisaire was in office.</lex>
       <lex comment="good" lid="Id2">Juan Peron belongs to the Labour Party in Argentina and while he was President Alberto Teisaire was in office.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was in office while Juan Peron (a member of the Labour Party in Argentina) was President.</lex>
     </entry>

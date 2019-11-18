@@ -1596,7 +1596,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="African Americans">African American are an ethnic group in the U.S. whose leader is Barack Obama. The Bacon Explosion comes from that country.</lex>
-      <lex comment="good" lid="Id2">The United States is the country of the Bacon Explosion, the leader of the United States is Barack Obama and African Americans are one the the ethnic groups in the United States.</lex>
+      <lex comment="good" lid="Id2">The United States is the country of the Bacon Explosion, the leader of the United States is Barack Obama and African Americans are one the ethnic groups in the United States.</lex>
     </entry>
     <entry category="Food" eid="Id104" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3008,7 +3008,7 @@
         <mtriple>Batagor | dishVariation | Shumai</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batagor, Siomay and Shumai are variations of a dish that contains peanut sauce.</lex>
-      <lex comment="good" lid="Id2">Batagor, shumai and siomay are variations of the the same dish which has peanut sauce as an ingredient.</lex>
+      <lex comment="good" lid="Id2">Batagor, shumai and siomay are variations of the same dish which has peanut sauce as an ingredient.</lex>
       <lex comment="good" lid="Id3">Batagor and shumai are variations on the same dish, Siomay, and one if its ingredients is Peanut sauce.</lex>
     </entry>
     <entry category="Food" eid="Id191" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

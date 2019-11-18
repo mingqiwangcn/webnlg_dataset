@@ -141,7 +141,7 @@
         <mtriple>A_Long_Long_Way | ISBN_number | "0-670-03380-4"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ISBN number of A Long Long Way is 0-670-03380-4, and its OCLC number is 57392246.</lex>
-      <lex comment="good" lid="Id2">The OCLC number of A Long Long Way is 57392246 and the The ISBN number is 0-670-03380-4.</lex>
+      <lex comment="good" lid="Id2">The OCLC number of A Long Long Way is 57392246 and the ISBN number is 0-670-03380-4.</lex>
       <lex comment="good" lid="Id3">The ISBN number of A Long Long Way is 0-670-03380-4; the OCLC number is 57392246.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
