@@ -471,8 +471,8 @@
         <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria-Hungary and died in Austria, the leader of which, is Doris Bures.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria, Hungary and died in Austria, the country where Doris Bures is a leader.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in Austria, Hungary and died in Austria (led by Doris Bures).</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary and died in Austria, the country where Doris Bures is a leader.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in Austria-Hungary and died in Austria (led by Doris Bures).</lex>
     </entry>
     <entry category="Politician" eid="Id30" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

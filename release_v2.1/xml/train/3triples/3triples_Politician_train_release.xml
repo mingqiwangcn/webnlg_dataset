@@ -690,7 +690,7 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero, Mayor of Vigo, was born in Galicia, Spain.</lex>
-      <lex comment="good" lid="Id2" error_1="Spain">Spanish born Abel Caballero was the Mayor of Vigo.</lex>
+      <lex comment="good" lid="Id2" error_1="Spain">Galician and Spanish born Abel Caballero was the Mayor of Vigo.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Galicia, in Spain and works as the Mayor of Vigo.</lex>
     </entry>
     <entry category="Politician" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -714,9 +714,9 @@
         <mtriple>Abel_Caballero | office (workedAt, workedAs) | "Member of the Congress of Deputies"</mtriple>
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Galicia, in Spain, Abel Caballero, worked as a Member of the Congress of Deputies.</lex>
-      <lex comment="good" lid="Id2">Born in Spain, Abel Caballero, worked as a Member of the Congress of Deputies.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">Spanish-born Abel Caballero worked as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id1">Born in Galicia, in Spain, Abel Caballero worked as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id2">Born in Galicia, Spain, Abel Caballero worked as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id3" error_1="Spain">Abel Caballero (born in Galicia, Spain) worked as a Member of the Congress of Deputies.</lex>
     </entry>
     <entry category="Politician" eid="Id44" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -894,8 +894,8 @@
         <mtriple>Juan_Carlos_I_of_Spain | spouse | Queen_Sofía_of_Spain</mtriple>
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Queen Sofia of Spain">Abel Caballero was born in Spain and was in office whilst Juan Carlos I of Spain, whose wife is Queen Sofia, was Monarch.</lex>
-      <lex comment="good" lid="Id2" error_1="Juan Carlos I of Spain">Abel Caballero, born in Galicia, Spain, was in office during the reign of King Carlos I of Spain. The King's wife is Queen Sofia of Spain.</lex>
+      <lex comment="good" lid="Id1" error_1="Queen Sofia of Spain">Abel Caballero was born in Galicia, Spain and was in office whilst Juan Carlos I of Spain, whose wife is Queen Sofia, was Monarch.</lex>
+      <lex comment="good" lid="Id2" error_1="Juan Carlos I of Spain">Abel Caballero, born in Galicia, Spain, was in office during the reign of King Juan Carlos I of Spain. The King's wife is Queen Sofia of Spain.</lex>
       <lex comment="good" lid="Id3">Abel Caballero, born in Galicia, Spain, was in office whilst Juan Carlos I of Spain was Monarch. Queen Sofia of Spain is the wife of Juan Carlos I of Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -914,8 +914,8 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
         <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Born in Ponteareas, in Spain, Abel Caballero, worked as Minister of Transport.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero, born in Ponteareas, Spain, was the Minister of Transport.</lex>
+      <lex comment="good" lid="Id1">Born in Ponteareas, Galicia, in Spain, Abel Caballero worked as Minister of Transport.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero, born in Ponteareas, Galicia, Spain, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id3" error_1="Minister of Transport">Transport Minister Abel Caballero was born in Ponteareas in Galicia, Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id57" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1484,7 +1484,7 @@
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Faversham, Kent, England, Adam Holloway, is a member of the Conservative Party in the UK and his alma mater is, Magdalene College, Cambridge.</lex>
-      <lex comment="good" lid="Id2">Adam Holloway; was born in Faversham, Kent, England, is a member of the To ries, and his alma mater, is Magdalene College, Cambridge.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham, Kent, England, is a member of the Tories, and his alma mater is Magdalene College, Cambridge.</lex>
     </entry>
     <entry category="Politician" eid="Id92" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2927,8 +2927,8 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria- Hungary and died in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst (in Austria, Hungary) and died in Graz.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria-Hungary and died in Graz.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst (in Austria-Hungary) and died in Graz.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst, Austria-Hungary and died in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id181" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2943,8 +2943,8 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Austria-Hungary, Alfons Gorbach, died in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria, Hungary and died in Graz.</lex>
-      <lex comment="good" lid="Id3">Born in Austria, Hungary, Alfons Gorbach, died in Graz.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary and died in Graz.</lex>
+      <lex comment="good" lid="Id3">Born in Austria-Hungary, Alfons Gorbach, died in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id182" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3096,8 +3096,8 @@
         <mtriple>Alfred_N._Phillips | activeYearsEndDate | 1939-01-03</mtriple>
         <mtriple>United_States_Army | battles | Korean_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred N. Phillip, who retired on 3 January 1939, was a member of the US Army which fought in the Korean war.</lex>
-      <lex comment="good" lid="Id2">Alfred N Phillips, who retired on 1939-01-03, served in the US Navy, which fought in the Korean War.</lex>
+      <lex comment="good" lid="Id1">Alfred N. Phillips, who retired on 3 January 1939, was a member of the US Army which fought in the Korean war.</lex>
+      <lex comment="good" lid="Id2">Alfred N Phillips, who retired on 1939-01-03, served in the US Army, which fought in the Korean War.</lex>
       <lex comment="good" lid="Id3">Alfred N Phillips retired on 3rd January 1939 after serving in the United States Army, which fought in the Korean War.</lex>
     </entry>
     <entry category="Politician" eid="Id191" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -3111,7 +3111,7 @@
         <mtriple>United_States_Army | battles | Invasion_of_Grenada</mtriple>
         <mtriple>Alfred_N._Phillips | activeYearsEndDate | 1939-01-03</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The United States Army, which battled in the Invasion of Grenada, was the army Alfred N. Phillip (retired 1939-01-03) served in.</lex>
+      <lex comment="good" lid="Id1">The United States Army, which battled in the Invasion of Grenada, was the army Alfred N. Phillips (retired 1939-01-03) served in.</lex>
       <lex comment="good" lid="Id2">Alfred N Phillips, who retired 1939-01-03, served in the United States, Army. The United States Army has battled in the Invasion of Grenada.</lex>
       <lex comment="good" lid="Id3">Alfred N Phillips retired on 1939-01-03, and served in the United States, Army, which has battled in the Invasion of Grenada.</lex>
     </entry>
@@ -3141,7 +3141,7 @@
         <mtriple>United_States_Army | battles | Whiskey_Rebellion</mtriple>
         <mtriple>Alfred_N._Phillips | activeYearsEndDate | 1939-01-03</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred N. Phillip was a member of the US Army who retired on Jan. 3, 1939. The Whiskey Rebellion is a battle fought in the U.S.</lex>
+      <lex comment="good" lid="Id1">Alfred N. Phillips was a member of the US Army who retired on Jan. 3, 1939. The Whiskey Rebellion is a battle fought in the U.S.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips served in the United States, Army and retired on 1939-01-03. The army took part in the battle called Whiskey Rebellion.</lex>
       <lex comment="good" lid="Id3">Alfred N Phillips retired 1939-01-03 and was a member of the US Army. The United States Army took part in the battle called Whiskey Rebellion.</lex>
     </entry>

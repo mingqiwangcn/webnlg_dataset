@@ -941,9 +941,9 @@
         <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Ponteareas in Galicia, Spain. He is a member of the Spanish Socialist Worker's Party and wordless as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id1" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Ponteareas in Galicia, Spain. He is a member of the Spanish Socialist Workers' Party and wordless as a Member of the Congress of Deputies.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas in Galicia, Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero (place of birth: Ponteareas, Spain), worked as a Member of the Congress of Deputies and belonged to the Spanish Socialist Workers' Party.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero (place of birth: Ponteareas, Galicia, Spain) worked as a Member of the Congress of Deputies and belonged to the Spanish Socialist Workers' Party.</lex>
     </entry>
     <entry category="Politician" eid="Id50" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -960,7 +960,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero, was born in Galicia in Spain, is a member of the Spanish Socialist Workers' Party and worked at the Ministry of Public Works and Transport in Spain.</lex>
       <lex comment="good" lid="Id2">Abel Caballero, who was born in Galicia Spain, worked at the Ministry of Public Works and Transport in Spain and belongs to the Spanish Socialist Workers' Party.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was born in Spain and became a member of the Spanish Socialist Workers' Party. He worked at the Spanish Ministry of Public Works and Transport.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero was born in Galicia, Spain and became a member of the Spanish Socialist Workers' Party. He worked at the Spanish Ministry of Public Works and Transport.</lex>
     </entry>
     <entry category="Politician" eid="Id51" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -993,7 +993,7 @@
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
         <mtriple>Spain | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abel Caballero">Born in Ponteareas, Abel Calallero is Spanish, the main language used in Spain, the leader of which, is Felipe VI of Spain.</lex>
+      <lex comment="good" lid="Id1" error_1="Abel Caballero">Born in Ponteareas, Abel Caballero is Spanish, the main language used in Spain, the leader of which, is Felipe VI of Spain.</lex>
       <lex comment="good" lid="Id2">The main language used in Spain is Spanish and its leader is Felipe VI. Abel Caballero is a national of Spain and was born in Ponteareas.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Ponteareas, which is located in Spain. Felipe VI of Spain is the leader of the country and Spanish is the language spoken there.</lex>
     </entry>
@@ -1010,8 +1010,8 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spain">Spanish born Abel Caballero, belongs to the Spanish Socialist Workers' Party and is the Mayor of Vigo.</lex>
-      <lex comment="good" lid="Id2" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Galicia in Spain and is a member of the Spanish Socialist Worker's Party. Caballero also works as the Mayor of Vigo.</lex>
+      <lex comment="good" lid="Id1" error_1="Spain">Galician and Spanish born Abel Caballero belongs to the Spanish Socialist Workers' Party and is the Mayor of Vigo.</lex>
+      <lex comment="good" lid="Id2" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Galicia in Spain and is a member of the Spanish Socialist Workers' Party. Caballero also works as the Mayor of Vigo.</lex>
       <lex comment="good" lid="Id3">Abel Caballero, who was born in Galicia, Spain, serves as the Mayor of Vigo and is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
     <entry category="Politician" eid="Id53" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -1062,7 +1062,7 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero, born in Galicia, Spain, was in office while Felipe González was Prime Minister and Juan Carlos I of Spain (succeeded by Alfonso XIII) was Monarch.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero, born in Glaicia, Spain, was in office during the reign of Juan Carlos I of Spain (preceded by Alfonso XIII) and Prime Minister Felipe Gonzalez' leadership.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero, born in Galicia, Spain, was in office during the reign of Juan Carlos I of Spain (preceded by Alfonso XIII) and Prime Minister Felipe Gonzalez' leadership.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1186,7 +1186,7 @@
         <mtriple>World_War_II | commander | Joseph_Stalin</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">During World War II, in which Joseph Stalin was a commander, Abner W Sibal served and fought with the United States Army, ending his military career on 3 January 1965.</lex>
-      <lex comment="good" lid="Id2">Abner W. Sibal served in the United States miliary and fought in World War II at the same time Joseph Stalin was a commander and ended his career on January 3, 1965.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal served in the United States military and fought in World War II at the same time Joseph Stalin was a commander and ended his career on January 3, 1965.</lex>
       <lex comment="good" lid="Id3">Abner W Sibal served in the US Army and ended his military career on January 3rd 1965. He fought in World War II and Joseph Stalin was a commander in the same conflict.</lex>
     </entry>
     <entry category="Politician" eid="Id63" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -3348,7 +3348,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach's place of birth was the state, Tyrol, Austria, Hungary. He died in Styria, in Austria.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach's place of birth was the state, Tyrol, Austria-Hungary. He died in Styria, in Austria.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary. He later died in Styria in Austria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in the state of Tyrol, Austria-Hungary. He died in Styria, Austria.</lex>
     </entry>
@@ -3539,7 +3539,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Connecticut was the birthplace of Alfred N Phillips and he was the Mayor of Stamford, Connecticut. He was a member of the US Army which was involved in battles in the Spanish-American War.</lex>
       <lex comment="good" lid="Id2">Connecticut born Alfred N Phillips served in the US Army and fought in battles in the Spanish-American War. He later became Mayor of Stamford, Connecticut.</lex>
-      <lex comment="good" lid="Id3" error_1="Mayor of Stamford, Connecticut">US Army veteran and Stamford Connecticut Mayor Alfred N. Phillip was born in Connecticut. The Spanish-American War involved the United States Army.</lex>
+      <lex comment="good" lid="Id3" error_1="Mayor of Stamford, Connecticut">US Army veteran and Stamford Connecticut Mayor Alfred N. Phillips was born in Connecticut. The Spanish-American War involved the United States Army.</lex>
     </entry>
     <entry category="Politician" eid="Id191" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3554,7 +3554,7 @@
         <mtriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</mtriple>
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred N. Phillip was a member of the US Army, which fought in the Whiskey Rebellion battle. He was born in Darien Connecticut and worked as Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex comment="good" lid="Id1">Alfred N. Phillips was a member of the US Army, which fought in the Whiskey Rebellion battle. He was born in Darien Connecticut and worked as Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips, was a Member of the U.S. House of Representatives from Connecticut's 4th district. Darien, Connecticut is the birthplace of Alfred N. Philip, who was a member of the US Army. Whiskey Rebellion was one battle fought in the US.</lex>
       <lex comment="good" lid="Id3">Alfred N. Phillips was born in Darien, Connecticut. He served in the United States Army and was a Member of the U.S. House of Representatives from Connecticut's 4th district. Whiskey Rebellion was a battle fought in the US.</lex>
     </entry>
@@ -3573,7 +3573,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillip's place of birth was Darien Connecticut. He worked at the United States House of Representatives and served in the United States, Army. The United States Army took part in the battle called Whiskey Rebellion.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips was born in Darien, Connecticut and worked at the United States House of Representatives. He served in the United States Army and one American battle is known as the Whiskey Rebellion.</lex>
-      <lex comment="good" lid="Id3" error_1="United States House of Representatives">US Army member Alfred N. Phillip, born in Darien, Connecticut, is a member of the U.S. House of Representatives. The U.S. Army fought in the Whiskey Rebellion.</lex>
+      <lex comment="good" lid="Id3" error_1="United States House of Representatives">US Army member Alfred N. Phillips, born in Darien, Connecticut, is a member of the U.S. House of Representatives. The U.S. Army fought in the Whiskey Rebellion.</lex>
     </entry>
     <entry category="Politician" eid="Id193" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3594,7 +3594,7 @@
         <mtriple>Alfred_N._Phillips | birthPlace | Connecticut</mtriple>
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Connecticut born Alfred N Phillips, a Democrate, worked as Member of the U.S. House of Representatives from Connecticut's 4th district and was succeded by Albert E. Austin.</lex>
+      <lex comment="good" lid="Id1">Connecticut born Alfred N Phillips, a Democrat, worked as Member of the U.S. House of Representatives from Connecticut's 4th district and was succeeded by Albert E. Austin.</lex>
       <lex comment="good" lid="Id2" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">Alfred N. Phillips, born in Connecticut was a member of the United States Democratic Party and worked as a Member of the U.S. House of Representatives from the Connecticut's 4th district. His successor was Albert E. Austin.</lex>
       <lex comment="good" lid="Id3" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">Alfred N. Phillips was born in Connecticut and he was a member of the Democratic Party United States and a member of the U. S. House of Representatives from Connecticut's 4th district. Albert E. Austin succeeded Alfred N. Phillips.</lex>
     </entry>
@@ -4115,7 +4115,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria-Hungary, and died in Austria which is led by Doris Bures.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary in Imst. He died in Austria, where the leader is Doris Bures.</lex>
-      <lex comment="good" lid="Id3" error_1="Imst">Alfons Gorbach was born in Austria, Hungary in lmst. He died in Austria where the leader is Doris Bures.</lex>
+      <lex comment="good" lid="Id3" error_1="Imst">Alfons Gorbach was born in Austria-Hungary in lmst. He died in Austria where the leader is Doris Bures.</lex>
     </entry>
     <entry category="Politician" eid="Id220" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4130,7 +4130,7 @@
         <mtriple>Alfons_Gorbach | deathPlace | Graz</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria, Hungary and died in Graz, Austria, the leader of which, is Doris Bures.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria-Hungary and died in Graz, Austria, the leader of which, is Doris Bures.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary and died in Graz. A leader in Austria is Doris Bures.</lex>
     </entry>
     <entry category="Politician" eid="Id221" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -4146,8 +4146,8 @@
         <mtriple>Austria | language | Austrian_German</mtriple>
         <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The leader of Austria is Doris Bures. Alfons Gorbach was born and died in Austria, Hungary, where the language is Austrian German.</lex>
-      <lex comment="good" lid="Id2">Doris Bures is a leader of Austria, where the language is Austrian German. Alfons Gorbach was born in Austria, Hungary and died in Austria.</lex>
+      <lex comment="good" lid="Id1">The leader of Austria is Doris Bures. Alfons Gorbach was born and died in Austria-Hungary, where the language is Austrian German.</lex>
+      <lex comment="good" lid="Id2">Doris Bures is a leader of Austria, where the language is Austrian German. Alfons Gorbach was born in Austria-Hungary and died in Austria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Austria-Hungary and died in Austria, where the leader is Doris Bures and the language spoken is Austrian German.</lex>
     </entry>
     <entry category="Politician" eid="Id222" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">

@@ -362,9 +362,9 @@
         <mtriple>Austria | language | Austrian_German</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Doris Bures is a leader of Austria, where the language is, Austrian German. Alfons Gorbach was born in Austria, Hungary, and died in Styria.</lex>
-      <lex comment="good" lid="Id2">Doris Bures is a leader of Austria, where they speak Austrian German. Alfons Gorbach was born in Austria, Hungary and died in Styria.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in Austria, Hungary and died in Styria. Austrian German is the spoken language and he country is led by Doris Bures.</lex>
+      <lex comment="good" lid="Id1">Doris Bures is a leader of Austria, where the language is, Austrian German. Alfons Gorbach was born in Austria-Hungary, and died in Styria.</lex>
+      <lex comment="good" lid="Id2">Doris Bures is a leader of Austria, where they speak Austrian German. Alfons Gorbach was born in Austria-Hungary and died in Styria.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in Austria-Hungary and died in Styria. Austrian German is the spoken language and he country is led by Doris Bures.</lex>
     </entry>
     <entry category="Politician" eid="Id18" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

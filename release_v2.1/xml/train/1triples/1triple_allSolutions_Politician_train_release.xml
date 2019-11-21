@@ -514,9 +514,8 @@
       <modifiedtripleset>
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abel Caballero was born in Spain.</lex>
+      <lex comment="good" lid="Id1">Abel Caballero was born in Galicia, Spain.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Galicia in Spain.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was born in Galicia, Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -540,7 +539,7 @@
       <modifiedtripleset>
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abel Caballero">Spain is the birthplace of Albel Caballero.</lex>
+      <lex comment="good" lid="Id1" error_1="Abel Caballero">Spain is the birthplace of Abel Caballero.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
@@ -1138,7 +1137,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolf Schärf was born in Austria-Hungary.</lex>
       <lex comment="good" lid="Id2">Adolf Scharf was born in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id3">Adolf Scharf was born in Austria- Hungary.</lex>
+      <lex comment="good" lid="Id3">Adolf Scharf was born in Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1845,7 +1844,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria, Hungary.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2129,7 +2128,7 @@
         <mtriple>Alfred_N._Phillips | militaryBranch | United_States_Army</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips served in the United States, Army.</lex>
-      <lex comment="good" lid="Id2">Alfred N. Phillip was a member of the US Army.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips was a member of the US Army.</lex>
     </entry>
     <entry category="Politician" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3084,7 +3083,7 @@
         <mtriple>United_States_Army | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Operation Enduring Freedom is a battle of the United States Army.</lex>
-      <lex comment="good" lid="Id2">The United States was involved in Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id2">The United States Army was involved in Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id3">The United States Army was involved in the Operation Enduring Freedom battle.</lex>
     </entry>
     <entry category="Politician" eid="Id288" shape="(X (X))" shape_type="NA" size="1">
