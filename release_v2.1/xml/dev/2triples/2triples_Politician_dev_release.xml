@@ -87,7 +87,7 @@
         <mtriple>Abdulsalami_Abubakar | office (workedAt, workedAs) | Chief_of_the_Defence_Staff_(Nigeria)</mtriple>
         <mtriple>Abdulsalami_Abubakar | birthPlace | Minna</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chief of the Defence Staff (Nigeria)">Abdulsalami Abubakar, born in Minna, was The Nigerian Chief of Defense Staff.</lex>
+      <lex comment="good" lid="Id1" error_1="Chief of the Defence Staff (Nigeria)">Abdulsalami Abubakar, born in Minna, was the Nigerian Chief of Defense Staff.</lex>
       <lex comment="good" lid="Id2">Minna was the birthplace of Abdulsalami Abubakar, who worked as the Nigerian Chief of the Defence Staff.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar who was born in Minna, was the Chief of the Defence Staff in Nigeria.</lex>
     </entry>
@@ -120,7 +120,7 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
         <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Galicia (Spain)">Abel Caballero came from Ponteareas in Spain.</lex>
+      <lex comment="good" lid="Id1" error_1="Galicia (Spain)">Abel Caballero came from Ponteareas in Galicia, Spain.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas, in Galicia in Spain.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Ponteareas, in Galicia, Spain.</lex>
     </entry>
@@ -257,7 +257,7 @@
         <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis was in office under Prime Minister Antonis Samaras who was succeeded by Konstantinos Mitsotakis.</lex>
-      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">Adonis Georgiadis was in office under Prime Minister, Antonis Samaras, who was succeeded by, Konstantionos Mitsotakis.</lex>
+      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">Adonis Georgiadis was in office under Prime Minister, Antonis Samaras, who was succeeded by Konstantinos Mitsotakis.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis was in office while Antonis Samaras, later succeeded by Konstantinos Mitsotakis, was Prime Minister.</lex>
     </entry>
     <entry category="Politician" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -295,8 +295,8 @@
         <mtriple>Airey_Neave | battles | World_War_II</mtriple>
         <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Knightsbridge">Airey Neave, who was born in Kinightsbridge, fought in World War II.</lex>
-      <lex comment="good" lid="Id2" error_1="Knightsbridge">Born in Kinightsbridge, Airey Neave fought in World War II.</lex>
+      <lex comment="good" lid="Id1" error_1="Knightsbridge">Airey Neave, who was born in Knightsbridge, fought in World War II.</lex>
+      <lex comment="good" lid="Id2" error_1="Knightsbridge">Born in Knightsbridge, Airey Neave fought in World War II.</lex>
       <lex comment="good" lid="Id3">Airey Neave was born in Knightsbridge and fought in World War II.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -326,7 +326,7 @@
         <mtriple>Albert_B._White | successor | William_M._O._Dawson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B White died at Parkersburg, West Virginia and his successor was William M. O. Dawson.</lex>
-      <lex comment="good" lid="Id2" error_1="Parkersburg, West Virginia">Albert B White died at Parkersbury, West Virginia and he was succeeded by William M.O. Dawson.</lex>
+      <lex comment="good" lid="Id2" error_1="Parkersburg, West Virginia">Albert B White died at Parkersburg, West Virginia and he was succeeded by William M.O. Dawson.</lex>
       <lex comment="good" lid="Id3">William M.O. Dawson was the successor to Albert B. White, who died in Parkersburg, West Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -355,7 +355,7 @@
         <mtriple>Alberto_Teisaire | deathPlace | Buenos_Aires</mtriple>
         <mtriple>Buenos_Aires | leaderName | Diego_Santilli</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Buenos Aires">Alberto Teisaire died in Buonos Aires whose leader is Diego Santilli.</lex>
+      <lex comment="good" lid="Id1" error_1="Buenos Aires">Alberto Teisaire died in Buenos Aires whose leader is Diego Santilli.</lex>
       <lex comment="good" lid="Id2">The leader of Buenos Aires is Diego Santilli, which is the place where Alberto Teisaire died.</lex>
     </entry>
     <entry category="Politician" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -381,7 +381,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach, born in Austria, was in office while Adolf Scharf was President.</lex>
-      <lex comment="good" lid="Id2" error_1="Alfons Gorbach">The Austrian Alfons Gorback was in office during the reign of President Adolf Scharf.</lex>
+      <lex comment="good" lid="Id2" error_1="Alfons Gorbach">The Austrian Alfons Gorbach was in office during the reign of President Adolf Scharf.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach, who was born in Austria, was in office while Adolf Scharf was President.</lex>
     </entry>
     <entry category="Politician" eid="Id28" shape="(X (X) (X))" shape_type="sibling" size="2">

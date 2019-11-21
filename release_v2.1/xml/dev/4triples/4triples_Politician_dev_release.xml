@@ -105,8 +105,8 @@
         <mtriple>Abdul_Taib_Mahmud | residence | Kuching</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Japanese occupation of British Borneo">Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Kuching, and his party is the Parti Pesaka Bumiputera Bersatu.</lex>
-      <lex comment="good" lid="Id2" error_1="Kuching">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Japanese Occupation of British Borneo is the birth place of Adenan Satem, who succeeded Abdul Taib Mahmud.</lex>
-      <lex comment="good" lid="Id3" error_1="Japanese occupation of British Borneo">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, was born in Kuching. Satem was born in Japanese Occupied British Borneo.</lex>
+      <lex comment="good" lid="Id2" error_1="Kuching">Adenan Satem succeeded Abdul Taib Mahmud, whose party is the Parti Pesaka Bumiputera Bersatu. Abdul Taib Mahmud resides in Kuching. Japanese Occupation of British Borneo is the birth place of Adenan Satem.</lex>
+      <lex comment="good" lid="Id3" error_1="Japanese occupation of British Borneo">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud, succeeded by Adenan Satem, lived in Kuching. Satem was born in Japanese Occupied British Borneo.</lex>
     </entry>
     <entry category="Politician" eid="Id7" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -156,9 +156,9 @@
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Galicia (Spain)">Abel Caballero; was born in Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id1" error_1="Galicia (Spain)">Abel Caballero was born in Galicia, Spain, belongs to the Spanish Socialist Workers' Party, and worked as a Member of the Congress of Deputies.</lex>
       <lex comment="good" lid="Id2">Abel Caballero, who belongs to the Spanish Socialist Workers' Party, is a member of the Congress of Deputies. Caballero was born in Galicia, Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Galicia (Spain)">Abel Caballero was born in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
+      <lex comment="good" lid="Id3" error_1="Galicia (Spain)">Abel Caballero was born in Galicia in Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
     <entry category="Politician" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -173,7 +173,7 @@
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abel Caballero">Ponteareas, Spain, is the birthplace of Albel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.</lex>
+      <lex comment="good" lid="Id1" error_1="Abel Caballero">Ponteareas, Spain, is the birthplace of Abel Caballero, a member of the Spanish Socialist Workers' Party, who, was the Minister of Transport.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas in Spain. He belongs to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Spain in Ponteareas and was the Minister of Transport. He was also a member of the Spanish Socialist Workers' Party.</lex>
       <lex comment="good" lid="Id4">Abel Caballero was born in Ponteareas in Spain. He belonged to the Spanish Socialist Workers' Party and worked as the Minister of Transport.</lex>
@@ -198,8 +198,8 @@
         <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal was a member of the Republican party of the United States. Abner W. Sibal was a member of the Connecticut Senate from the 26th District and was the predecessor to, Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id2" error_1="Ridgewood, Queens">Abner W. Sibal; was born in Ridgewood, Queen, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id3" error_1="Abner W. Sibal">Abner W. Sibel was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id2" error_1="Ridgewood, Queens">Abner W. Sibal; was born in Ridgewood, Queens, was a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Donald J. Irwin.</lex>
+      <lex comment="good" lid="Id3" error_1="Abner W. Sibal">Abner W. Sibal was born in Ridgewood Queens, he was a member of the Republican party and a member of the Connecticut Senate from the 26th District, his successor was Donald J. Irwin.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -361,7 +361,7 @@
         <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Knightsbridge, Airey Neave; began his career on March 4th 1974, fought in the Battle of France, and ended his career on 30th March 1979.</lex>
-      <lex comment="good" lid="Id2" error_1="Airey Neave" error_2="Knightsbridge">Airey Near was born in Kinightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.</lex>
+      <lex comment="good" lid="Id2" error_1="Airey Neave" error_2="Knightsbridge">Airey Neave was born in Knightsbridge and began his career on March 4th 1974. He fought in the Battle of France and ended his career on March 30th 1979.</lex>
       <lex comment="good" lid="Id3">Knightsbridge born Airey Neave, who fought in the Battle of France, had a career which lasted from March 4th 1974 to 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -379,7 +379,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave was born in Knightsbridge, England and fought in World War Two. He started his career on June 30th, 1953 and ended it on March 30th, 1979.</lex>
       <lex comment="good" lid="Id2">Knightsbridge born Airey Neave fought in World War II. His career began on 30th June 1953 and ended on 30th March 1979.</lex>
-      <lex comment="good" lid="Id3" error_1="Knightsbridge">World War II veteran Airey Neave was born in Knightbridge. He began his career 06/30/1953 and retired 03/30/1979.</lex>
+      <lex comment="good" lid="Id3" error_1="Knightsbridge">World War II veteran Airey Neave was born in Knightsbridge. He began his career 06/30/1953 and retired 03/30/1979.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -394,7 +394,7 @@
         <mtriple>Albert_B._White | deathPlace | Parkersburg,_West_Virginia</mtriple>
         <mtriple>Albert_B._White | dateOfDeath | 1941-07-03</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Parkersburg, West Virginia">Born, 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virgininia.</lex>
+      <lex comment="good" lid="Id1" error_1="Parkersburg, West Virginia">Born on 22nd September 1856, Albert B. White died on the 1941-07-03, in Parkersburg, West Virginia.</lex>
       <lex comment="good" lid="Id2">Albert B White was born on 22nd September 1856 and he died in Parkersburg, West Virginia on 1941-07-03.</lex>
       <lex comment="good" lid="Id3">Albert B White was born on 22nd September 1856 and died on the 3rd July 1941 in Parkersburg, West Virginia.</lex>
     </entry>
@@ -429,7 +429,7 @@
         <mtriple>Alberto_Teisaire | birthDate | 1891-05-20</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born on May 20, 1891, was a Rear Admiral originating from Mendoza, Argentina. He preceded Isaac Rojas.</lex>
-      <lex comment="good" lid="Id2" error_1="Mendoza, Argentina">Alberto teisaire was born in Mendosa, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
+      <lex comment="good" lid="Id2" error_1="Mendoza, Argentina">Alberto teisaire was born in Mendoza, Argentina on May 20th, 1891, and worked as a Rear Admiral, later succeeded by Isaac Rojas.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire was born on May 20th 1891 in Mendoza, Argentina and became a Rear Admiral. He was succeeded by Isaac Rojas.</lex>
     </entry>
     <entry category="Politician" eid="Id25" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

@@ -376,7 +376,7 @@
       <modifiedtripleset>
         <mtriple>Abdul_Taib_Mahmud | region | Balingian</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Balingian">Abdul Taib Mahmud's region is Balingan.</lex>
+      <lex comment="good" lid="Id1" error_1="Balingian">Abdul Taib Mahmud's region is Balingian.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud comes from the region of Balingian.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud is from the Balingian region.</lex>
     </entry>
@@ -562,7 +562,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Spain">Abel Caballero is Spanish.</lex>
       <lex comment="good" lid="Id2">Abel Caballero is a national of Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Abel Caballero" error_2="Spain">Abel Calallero is Spanish.</lex>
+      <lex comment="good" lid="Id3" error_1="Abel Caballero" error_2="Spain">Abel Caballero is Spanish.</lex>
     </entry>
     <entry category="Politician" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -602,7 +602,7 @@
       <modifiedtripleset>
         <mtriple>Abel_Caballero | office (workedAt, workedAs) | Ministry_of_Public_Works_and_Transport_(Spain)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ministry of Public Works and Transport (Spain)">Abel Caballero worked at the Ministry of Public Work and Transport in Spain.</lex>
+      <lex comment="good" lid="Id1" error_1="Ministry of Public Works and Transport (Spain)">Abel Caballero worked at the Ministry of Public Works and Transport in Spain.</lex>
       <lex comment="good" lid="Id2">Abel Caballero worked at the Ministry of Public Works and Transport in Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
@@ -697,7 +697,7 @@
         <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W Sibal was succeeded by Marjorie Farmer.</lex>
-      <lex comment="good" lid="Id2" error_1="Abner W. Sibal">Abner W. successor was Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2" error_1="Abner W. Sibal">Abner W. Sibal's successor was Marjorie Farmer.</lex>
     </entry>
     <entry category="Politician" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -740,7 +740,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City, New York, U.S. is the death place of Abraham A. Ribicoff.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff died in New York City, New York, U.S.</lex>
-      <lex comment="good" lid="Id3" error_1="Abraham A. Ribicoff">Abrahm A. Ribicoff died in New York City, New York, U.S.</lex>
+      <lex comment="good" lid="Id3" error_1="Abraham A. Ribicoff">Abraham A. Ribicoff died in New York City, New York, U.S.</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1441,7 +1441,7 @@
         <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave was born in Knightsbridge.</lex>
-      <lex comment="good" lid="Id2" error_1="Knightsbridge">Airey Neave was born in Kinightsbridge.</lex>
+      <lex comment="good" lid="Id2" error_1="Knightsbridge">Airey Neave was born in Knightsbridge.</lex>
     </entry>
     <entry category="Politician" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1623,7 +1623,7 @@
       <modifiedtripleset>
         <mtriple>Albert_Jennings_Fountain | birthPlace | New_York_City</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Albert Jennings Fountain">New York City was the birthplace of Albert Jennnings.</lex>
+      <lex comment="good" lid="Id1" error_1="Albert Jennings Fountain">New York City was the birthplace of Albert Jennings Fountain.</lex>
       <lex comment="good" lid="Id2">Albert Jennings Fountain was born in New York City.</lex>
     </entry>
     <entry category="Politician" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
@@ -1867,7 +1867,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst.</lex>
-      <lex comment="good" lid="Id2" error_1="Imst">Alfons Gorbach's birthplace is lmst.</lex>
+      <lex comment="good" lid="Id2" error_1="Imst">Alfons Gorbach's birthplace is Imst.</lex>
     </entry>
     <entry category="Politician" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2826,7 +2826,7 @@
         <mtriple>Olusegun_Obasanjo | inOfficeWhileVicePresident | Atiku_Abubakar</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Olusegun Obasanjo was in office whilst Atiku Abubakar was Vice President.</lex>
-      <lex comment="good" lid="Id2" error_1="Atiku Abubakar">Olusegun Obasanjo was in office while Atiku Abubaker was Vice President.</lex>
+      <lex comment="good" lid="Id2" error_1="Atiku Abubakar">Olusegun Obasanjo was in office while Atiku Abubakar was Vice President.</lex>
     </entry>
     <entry category="Politician" eid="Id265" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2877,7 +2877,7 @@
       <modifiedtripleset>
         <mtriple>Polish–Soviet_War | commander | Joseph_Stalin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Polish-Soviet War">Joseph Stalin was a commander in the Polish Soviet War.</lex>
+      <lex comment="good" lid="Id1" error_1="Polish-Soviet War">Joseph Stalin was a commander in the Polish-Soviet War.</lex>
       <lex comment="good" lid="Id2">Joseph Stalin was a commander during the Polish–Soviet War.</lex>
       <lex comment="good" lid="Id3">A commander at the Polish-Soviet War was Joseph Stalin.</lex>
     </entry>
@@ -2889,7 +2889,7 @@
         <mtriple>Polish–Soviet_War | commander | Leon_Trotsky</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Leon Trotsky was a commander in the Polish-Soviet war.</lex>
-      <lex comment="good" lid="Id2" error_1="Polish-Soviet War">Leon Trotsky was the commender in the Polish - Soviet War.</lex>
+      <lex comment="good" lid="Id2" error_1="Polish-Soviet War">Leon Trotsky was the commender in the Polish-Soviet War.</lex>
     </entry>
     <entry category="Politician" eid="Id271" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2898,7 +2898,7 @@
       <modifiedtripleset>
         <mtriple>Polish–Soviet_War | isPartOfMilitaryConflict | Russian_Civil_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Polish-Soviet War">The Polish Soviet war was a conflict within the Russian Civil War.</lex>
+      <lex comment="good" lid="Id1" error_1="Polish-Soviet War">The Polish-Soviet war was a conflict within the Russian Civil War.</lex>
       <lex comment="good" lid="Id2">The Polish-Soviet War was part of the Russian Civil War military conflict.</lex>
     </entry>
     <entry category="Politician" eid="Id272" shape="(X (X))" shape_type="NA" size="1">
@@ -3207,7 +3207,7 @@
       <modifiedtripleset>
         <mtriple>World_War_II | place | East_African_Campaign_(World_War_II)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="East African Campaign (World War II)">The East Africa Campaign was part of World War II.</lex>
+      <lex comment="good" lid="Id1" error_1="East African Campaign (World War II)">The East African Campaign was part of World War II.</lex>
     </entry>
     <entry category="Politician" eid="Id299" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

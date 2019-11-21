@@ -364,7 +364,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Staten Island in New York City is the birth place of Albert Jennings Fountain. Albert Jennings Fountain died in Dona Ana County, New Mexico which is in the New Mexico Territory.</lex>
       <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in New York City on Staten Island. He died in Dona Ana County, New Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="Albert Jennings Fountain" error_2="Dona Ana County, New Mexico">On Staten Island in New York City was the birthplace of Albert Jennings. He died in the New Mexico Territory in Dona Ana County.</lex>
+      <lex comment="good" lid="Id3" error_1="Albert Jennings Fountain" error_2="Dona Ana County, New Mexico">On Staten Island in New York City was the birthplace of Albert Jennings Fountain. He died in the New Mexico Territory in Dona Ana County.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -480,7 +480,7 @@
         <mtriple>Alvah_Sabin | successor | Homer_Elihu_Royce</mtriple>
         <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Baptists">Georgia Vermont is the birthplace of Alvah Sabin and he was a Baptist. He worked as the Secretary of State of Vermont and was preceded by Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id1" error_1="Baptists">Georgia Vermont is the birthplace of Alvah Sabin who was a Baptist. He worked as the Secretary of State of Vermont and was preceded by Homer Elihu Royce.</lex>
       <lex comment="good" lid="Id2" error_1="Baptists">Alvah Sabin was born in Georgia, Vermont and was a Baptist. He worked as the Secretary of State of Vermont and was succeeded by Homer Elihu Royce.</lex>
       <lex comment="good" lid="Id3" error_1="Baptists">Georgia, Vermont born Baptist Alvah Sabin worked as the Secretary of State of Vermont and was succeded by Homer Elihu Royce.</lex>
     </entry>

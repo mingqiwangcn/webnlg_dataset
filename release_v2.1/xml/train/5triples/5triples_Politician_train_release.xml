@@ -76,8 +76,8 @@
         <mtriple>Netherlands | leaderName | Mark_Rutte</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ab Klink attended the Erasmus University Rotterdam which is affiliated with the Association of MBAs. He is a national of the Netherlands which is led by Mark Rutte and has the euro as its currency.</lex>
-      <lex comment="good" lid="Id2" error_1="Association of MBAs">Ab Klink is a national of the Netherlands, a country that uses the Euro for currency and is ked by Mark Rutte. Erasmus University Rotterdam, affiliated with the Association of MBA's, is Klink's alma mater.</lex>
-      <lex comment="good" lid="Id3" error_1="Mark Rutte">Ab Klink of Netherlands was a student at Erasmus University in Rotterdam which is affiliated with the Association of MBAs. Netherlands uses the Euro as its currency.</lex>
+      <lex comment="good" lid="Id2" error_1="Association of MBAs">Ab Klink is a national of the Netherlands, a country that uses the Euro for currency and is ked by Mark Rutte. Erasmus University Rotterdam, affiliated with the Association of MBAs, is Klink's alma mater.</lex>
+      <lex comment="good" lid="Id3" error_1="Mark Rutte">Ab Klink of Netherlands was a student at Erasmus University in Rotterdam which is affiliated with the Association of MBAs. Netherlands uses the Euro as its currency, and one of the country leaders is Mark Rutte.</lex>
     </entry>
     <entry category="Politician" eid="Id4" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -145,7 +145,7 @@
         <mtriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</mtriple>
         <mtriple>Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abdul Rahman Ya'kub">Abdul Taib Mahmud was born in the kingdom of Sarawak. He resides in Demak Jaya, Jalan Bako, Kuching, Sarawak and his party is the Parti Pesaka Bumiputera Bersatu. His alma mater is University of Adelaide and his successor was Abdul Rahman.</lex>
+      <lex comment="good" lid="Id1" error_1="Abdul Rahman Ya'kub">Abdul Taib Mahmud was born in the kingdom of Sarawak. He resides in Demak Jaya, Jalan Bako, Kuching, Sarawak and his party is the Parti Pesaka Bumiputera Bersatu. His alma mater is University of Adelaide and his successor was Abdul Rahman Ya'kub.</lex>
       <lex comment="good" lid="Id2">The University of Adelaide is the alma mater of Abdul Taib Mahmud, who was born in the Kingdom of Sarawak. Abdul Taib Mahmud's party is the Parti Pesaka Bumiputera Bersatu and his residence is Demak Jaya, Jalan Bako, Kuching, Sarawak. The successor of Abdul Taib Mahmud was Abdul Rahman Ya'kub.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, who attended the University of Adelaide, was born in the Kingdom of Sarawak and resided in Demak Jaya, Jalan Bako, Kuching, Sarawak. His party was the Parti Pesaka Bumiputera Bersatu and he was succeeded by Abdul Rahman Ya'Kub.</lex>
     </entry>
@@ -166,7 +166,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud, who was succeeded by Sulaiman Abdul Rahman Taib, was born in Miri, Malaysia and his residence is Demak Jaya, Jalan Bako, Kuching, Sarawak. His alma mater is the University of Adelaide and he belongs to the Parti Pesaka Bumiputera Bersatu.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud; was born in Miri, Malaysia, resides in Demak Jaya, Jalan Bako, Kuching, Sarawak and his alma mater is the University of Adelaide. Abdul Taib Mahmud's party is the Parti Pesaka Bumiputera Bersatu and his successor was Sulaiman Abdul Rahman Taib.</lex>
-      <lex comment="good" lid="Id3" error_1="Sulaiman Abdul Rahman Taib">Abdul Taib Mahmud, who was succeeded by Sulamain Abdul Rahman Taib, was born in Miri, Malaysia and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He graduated from the University of Adelaide and is a member of the Parti Pesaka Bumiputera Bersatu.</lex>
+      <lex comment="good" lid="Id3" error_1="Sulaiman Abdul Rahman Taib">Abdul Taib Mahmud, who was succeeded by Sulaiman Abdul Rahman Taib, was born in Miri, Malaysia and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He graduated from the University of Adelaide and is a member of the Parti Pesaka Bumiputera Bersatu.</lex>
     </entry>
     <entry category="Politician" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -204,7 +204,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Miri, Malaysia, is the birthplace of Abdul Taib Mahmud, whose date of birth is 1936-05-21. Abdul Taib Mahmud represented Asajaya and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. Abdul Taib Mahmud's party is the Parti Pesaka Bumiputera Bersatu.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud was born on 1936-05-21, in Miri, Malaysia. His party is the Parti Pesaka Bumiputera Bersatu and he represented the Asajaya region. Abdul Taib Mahmud resides in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
-      <lex comment="good" lid="Id3" error_1="Abdul Taib Mahmud">Abdul Talib Mahmud was born in Miri, Malaysia on May 21st, 1936. His party is the Parti Pesaka Bumiputera Bersatu and he represented the Asajaya region. His current residence is Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex comment="good" lid="Id3" error_1="Abdul Taib Mahmud">Abdul Taib Mahmud was born in Miri, Malaysia on May 21st, 1936. His party is the Parti Pesaka Bumiputera Bersatu and he represented the Asajaya region. His current residence is Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
     </entry>
     <entry category="Politician" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -241,7 +241,7 @@
         <mtriple>Abdul_Taib_Mahmud | birthDate | 1936-05-21</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud, whowas born in Miri, Malaysia on 21 May 1936, resides in Kuching. His party was the Parti Pesaka Bumiputera Bersatu and he represented Kota Samarahan.</lex>
-      <lex comment="good" lid="Id2" error_1="Kota Samarahan">Parti Pesaka Bumiputera Bersatu and Koto Samarahan representative Abdul Taib Mahmud was born in Miri, Malaysia, 05/21/1936. He resides in Kuching.</lex>
+      <lex comment="good" lid="Id2" error_1="Kota Samarahan">Parti Pesaka Bumiputera Bersatu and Kota Samarahan representative Abdul Taib Mahmud was born in Miri, Malaysia, 05/21/1936. He resides in Kuching.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud was born in Miri, Malaysia on May 5th 1936. He is a member of the Parti Pesaka Bumiputera Bersatu and represented Kota Samarahan. He lives in Kuching.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -361,7 +361,7 @@
         <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud lives in Kuching and was born in the Kingdom of Sarawak. He went to the University of Adelaide, belonged to the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem.</lex>
-      <lex comment="good" lid="Id2" error_1="University of Adelaide">Abdul Taib Mahmud of the Parti Pesaka Bumiputera Bersatu, was suceeded by Adenan Satem. He was born in the kingdom of Sarawak and resides in Kuching.</lex>
+      <lex comment="good" lid="Id2" error_1="University of Adelaide">Abdul Taib Mahmud of the Parti Pesaka Bumiputera Bersatu was suceeded by Adenan Satem. He was born in the kingdom of Sarawak and resides in Kuching. He attended the University of Adelaide.</lex>
       <lex comment="good" lid="Id3">The birth place of Abdul Taib Mahmud was the Kingdom of Sarawak and his alma mater is the University of Adelaide. Abdul Taib Mahmud, lives in Kuching, belongs to the Parti Pesaka Bumiputera Bersatu party and was succeeded by, Adenan Satem.</lex>
     </entry>
     <entry category="Politician" eid="Id18" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -381,7 +381,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Parti Pesaka Bumiputera Bersatu member Abdul Taib Mahmud was born in Miri, Malaysia and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He was succeeded by University of Adelaide alum Adenan Satem.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud was born in Miri, Malaysia and is a member of the Parti Pesaka Bumiputera Bersatu. He now resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He successor was Adenan Satem, a grad of Adelaide University.</lex>
-      <lex comment="good" lid="Id3" error_1="Miri, Malaysia">Parti Pesaka Bumiputera Bersatu's Abdul Taib Mahmud succeeded University of Adelaide alum Adenan Satem. Mamud was born in Miri, Malasia and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He was succeeded by Adenan Satem.</lex>
+      <lex comment="good" lid="Id3" error_1="Miri, Malaysia">Parti Pesaka Bumiputera Bersatu's Abdul Taib Mahmud succeeded University of Adelaide alum Adenan Satem. Mamud was born in Miri, Malaysia and resides in Demak Jaya, Jalan Bako, Kuching, Sarawak. He was succeeded by Adenan Satem.</lex>
     </entry>
     <entry category="Politician" eid="Id19" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -437,7 +437,7 @@
         <mtriple>Adenan_Satem | almaMater | University_of_Adelaide</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud lives in Kuching, his alma mater is the University of Adelaide and he belongs to the Parti Pesaka Bumiputera Bersatu. He was succeeded by Adenan Satem who was born under the Japanese Occupation of British Borneo.</lex>
-      <lex comment="good" lid="Id2" error_1="Japanese occupation of British Borneo">University of Adelaide alum and Japanese Occupied British Borneo Adenan Satem succeeded Parti Pesaka Bumiputera Bersatu's Abdul Taib Mahmud. Mahmud resides in Kuching.</lex>
+      <lex comment="good" lid="Id2" error_1="Japanese occupation of British Borneo">University of Adelaide alum and Japanese Occupied British Borneo born Adenan Satem succeeded Parti Pesaka Bumiputera Bersatu's Abdul Taib Mahmud. Mahmud resides in Kuching.</lex>
       <lex comment="good" lid="Id3">Adenan Satem attended the University of Adelaide and was born in the Japanese occupation of British Borneo. He was succeeded by Abdul Taib Mahmud who belongs to the Parti Pesaka Bumiputera Bersatu and lives in Kuching.</lex>
     </entry>
     <entry category="Politician" eid="Id22" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -456,7 +456,7 @@
         <mtriple>Adenan_Satem | almaMater | University_of_Adelaide</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Japanese occupation of British Borneo">Japanese occupied British Borneo was the birthplace of Adenan Satem, who succeeded Abdul Taib Mahmud. Abdul Taib Mahmud resides in Sarawak and his party is the Parti Pesaka Bumiputera Bersatu. The alma mater of Adenan Satem is the University of Adelaide.</lex>
-      <lex comment="good" lid="Id2" error_1="Abdul Taib Mahmud">The alma mater of Adenan Satem, who lives in Sarawak, is the University of Adelaide. He belongs to the Parti Pesaka Bumiputera Bersatu and was succeeded by Adenan Satem who was born under the Japanese Occupation of British Borneo.</lex>
+      <lex comment="good" lid="Id2" error_1="Abdul Taib Mahmud">The alma mater of Adenan Satem, who was born under the Japanese Occupation of British Borneo, is the University of Adelaide. He was a successor of Abdul Taib Mahmud, who belongs to the Parti Pesaka Bumiputera Bersatu Party and lives in Sarawak .</lex>
       <lex comment="good" lid="Id3">Adenan Satem was born in the Japanese occupation of British Borneo and attended the University of Adelaide. Satem succeeded Abdul Taib Mahmud who lives in Sarawak and is a member of the Parti Pesaka Bumiputera Bersatu.</lex>
     </entry>
     <entry category="Politician" eid="Id23" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -565,7 +565,7 @@
         <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
         <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Donald J. Irwin">Born Ridgewood, Queens, on 11 - 04 - 1921, Abner W. Sibal, was a member of the Republican party of the United States. He worked as a member of the Connecticut Senate from the 26th District.</lex>
+      <lex comment="good" lid="Id1" error_1="Donald J. Irwin">Born Ridgewood, Queens, on 11 - 04 - 1921, Abner W. Sibal was a member of the Republican party of the United States. He worked as a member of the Connecticut Senate from the 26th District, and was succeeded by Donald J. Irwin.</lex>
       <lex comment="good" lid="Id2" error_1="Republican Party (United States)">Republican Abner W. Sibal was born in Ridgewood, Queens on November 4th, 1921. He was a member of the Connecticut Senate from the 26th District and was succeeded by Donald J. Irwin.</lex>
       <lex comment="good" lid="Id3">Abner W Sibal was born in Ridgewood, Queens on 11 April 1921. He was a member of the Republican party of the United States and of the Connecticut Senate from the 26th District before being succeeded by Donald J Irwin.</lex>
     </entry>
@@ -625,7 +625,7 @@
         <mtriple>Abner_W._Sibal | birthDate | 1921-04-11</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W Sibal was born on 11 April 1921 in Ridgewood, Queens. He was a member of the Republican party of the United States and prior to being succeeded by Marjorie Farmer worked as a member of the Connecticut Senate from the 26th District.</lex>
-      <lex comment="good" lid="Id2" error_1="Member of the Connecticut Senate from the 26th District" error_2="Republican Party (United States)">United States 26th District, Republican, Connecticut Senate member Abner W. Sibal was succeeded by Marjorie Farmer. He was born 04/11/1921 in Ridgewood, Queens.</lex>
+      <lex comment="good" lid="Id2" error_1="Member of the Connecticut Senate from the 26th District" error_2="Republican Party (United States)">United States 26th District Connecticut Senate member, Republican, Abner W. Sibal was succeeded by Marjorie Farmer. He was born 04/11/1921 in Ridgewood, Queens.</lex>
       <lex comment="good" lid="Id3" error_1="Republican Party (United States)">Republican Abner W. Sibal was born in Ridgewood, Queens on November 4th, 1921 and worked as a member of the Connecticut Senate from the 26th District. He was succeeded by Marjorie Farmer.</lex>
     </entry>
     <entry category="Politician" eid="Id29" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -651,7 +651,7 @@
         <mtriple>Abner_W._Sibal | birthPlace | Ridgewood,_Queens</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W. Sibal was born in Ridgewood, Queens and was a member of the U.S. Republican party. He was a member of the Connecticut Senate from the 26th District and his successor was, Marjorie Farmer. Abner W. Sibal died in Alexandria, Virginia.</lex>
-      <lex comment="good" lid="Id2" error_1="Marjorie Farmer" error_2="Member of the Connecticut Senate from the 26th District" error_3="Republican Party (United States)">Connecticut Senate's 26th District Republican member Abner W. Sibal was succeeded by Majorie Farmer. Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id2" error_1="Marjorie Farmer" error_2="Member of the Connecticut Senate from the 26th District" error_3="Republican Party (United States)">Connecticut Senate's 26th District Republican member Abner W. Sibal was succeeded by Marjorie Farmer. Sibal was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id30" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -751,7 +751,7 @@
         <mtriple>Abraham_A._Ribicoff | deathPlace | New_York</mtriple>
         <mtriple>Abraham_A._Ribicoff | office (workedAt, workedAs) | "Governor of Connecticut"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Governor of Connecticut">Connecticut born Abraham A Ribicoff, a US national, was a member of the United States Democratic Party and held office as the Mayor of Connecticut. He died in New York.</lex>
+      <lex comment="good" lid="Id1" error_1="Governor of Connecticut">Connecticut born Abraham A Ribicoff, a US national, was a member of the United States Democratic Party and held office as the Governor of Connecticut. He died in New York.</lex>
       <lex comment="good" lid="Id2">Abraham A Ribicoff was a national of the United States and was born in Connecticut. He was a member of the US Democratic Party and became Governor of Connecticut before dying in New York.</lex>
       <lex comment="good" lid="Id3">United States Democratic Governor of Connecticut Abraham A. Ribicoff was born in Connecticut and died in New York.</lex>
     </entry>
@@ -791,7 +791,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Abraham A. Ribicoff was a member of the Democratic Party in the United States. He was the Governor of Connecticut and died in New York City.</lex>
       <lex comment="good" lid="Id2" error_1="American">Abraham A. Ribicoff was born in the U.S and was a United States national. He was a member of the United States Democratic party and served as the governor of Connecticut before he died in New York city.</lex>
-      <lex comment="good" lid="Id3" error_1="New York City">An American National, Abraham A Ribicoff, was born in the United States. Abraham A. Ribicoff was a member of the Democratic Party in the United States and worked as Governor of Connecticut.</lex>
+      <lex comment="good" lid="Id3" error_1="New York City">An American National, Abraham A Ribicoff was born in the United States and passed away in New York City. Abraham A. Ribicoff was a member of the Democratic Party in the United States and worked as Governor of Connecticut.</lex>
     </entry>
     <entry category="Politician" eid="Id37" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -940,7 +940,7 @@
         <mtriple>Abraham_A._Ribicoff | deathPlace | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abraham A Ribicoff is a US National as he was born in the United States, where the African Americans are an ethnic group. He was married to Casey Ribicoff and died in New York.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans">United States national and American Abraham A. Ribicoff, died in New York. He was married to Casey Ribicoff. An ethnic group in the United States is African American.</lex>
+      <lex comment="good" lid="Id2" error_1="African Americans">United States national and American Abraham A. Ribicoff died in New York. He was married to Casey Ribicoff. An ethnic group in the United States is African American.</lex>
     </entry>
     <entry category="Politician" eid="Id45" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1060,7 +1060,7 @@
         <mtriple>Adam_Holloway | nationality | United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Colin Powell was a commander in the Gulf War, a conflict that Adam Holloway was involved in. Adam Holloway, served in the Grenadier Guards and is a national of the United Kingdom, the capital of which, is London.</lex>
-      <lex comment="good" lid="Id2" error_1="Grenadier Guards" error_2="United Kingdom">Adam Holloway is from London the capital of U.K and was involved in Gulf War battles with his commander Colin Powell.</lex>
+      <lex comment="good" lid="Id2" error_1="Grenadier Guards" error_2="United Kingdom">Adam Holloway is from London. the capital of U.K., and was involved in Gulf War battles with his commander Colin Powell. He served in the Grenadier Guards.</lex>
       <lex comment="good" lid="Id3">Colin Powell was the commander in the Gulf War, a war Adam Holloway fought in. Adam Holloway served in the Grenadier Guards and is a national of the United Kingdom, where the capital is London.</lex>
     </entry>
     <entry category="Politician" eid="Id51" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1130,8 +1130,8 @@
         <mtriple>Adam_Holloway | militaryBranch | Grenadier_Guards</mtriple>
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Member of Parliament for Gravesham">Magdalene College Cambridge alum and Grenadier Guards veteran Adam Holloway was born 05/05/2005 in Faversham, Kent, England. He is a member of the Gravesham Prliament.</lex>
-      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. His alma mater was Magdalene College in Cambridge. Adam Holloway, was in the Grenadier Guards, in the military and was the Member of Parliament, for Gravesham.</lex>
+      <lex comment="good" lid="Id1" error_1="Member of Parliament for Gravesham">Magdalene College Cambridge alum and Grenadier Guards veteran Adam Holloway was born 05/05/2005 in Faversham, Kent, England. He is the Member of Parliament for Gravesham.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham Kent, England and began his career on 5th May 2005. His alma mater was Magdalene College in Cambridge. Adam Holloway, was in the Grenadier Guards, in the military and was the Member of Parliament for Gravesham.</lex>
       <lex comment="good" lid="Id3" error_1="Member of Parliament for Gravesham">Adam Holloway was born in Faversham Kent, England, attended Magdalene College in Cambridge and began his career on May 5th, 2005. He served in the Grenadier Guards and was the MP for Gravesham.</lex>
     </entry>
     <entry category="Politician" eid="Id54" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1170,7 +1170,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Faversham, Adam Holloway began his career on 5th May 2005 and served in the Grenadier Guards. Adam Holloway was the Member of Parliament for Gravesham and his alma mater was Magdalene College in Cambridge.</lex>
       <lex comment="good" lid="Id2">Adam Holloway was born in Faversham and his alma mater was Magdalene College, Cambridge. He began his career on 5 May 2005, serving in the Grenadier Guards and becoming a member of Parliament for Gravesham.</lex>
-      <lex comment="good" lid="Id3" error_1="Grenadier Guards" error_2="Member of Parliament for Gravesham">Member of Gravesham Parliament and retired Grenadier Guard Adam Holloway was born in Faversham. He graduated from Magdalene College, Cambridge and began his career 05/05/2005.</lex>
+      <lex comment="good" lid="Id3" error_1="Grenadier Guards" error_2="Member of Parliament for Gravesham">Member of Parliament for Gravesham and retired Grenadier Guard Adam Holloway was born in Faversham. He graduated from Magdalene College, Cambridge and began his career 05/05/2005.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1334,7 +1334,7 @@
         <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Makis Voridis' successor Adonis Georgiadis (born in Greece and succeeded by Makis Voridis) was in office during the leadership of Prime Minister Antonis Samaras. Samaras' leadership coincided with Prime Minister Konstantinos Mitsotakis' and his deputy was Evangelos Venizelos.</lex>
-      <lex comment="good" lid="Id2" error_1="Evangelos Venizelos" error_2="Makis Voridis">Adonis Georgiadis was born in Greece and served in office at the same time as both Antonis Samaras and Konstantinos Mitsotakis.</lex>
+      <lex comment="good" lid="Id2" error_1="Evangelos Venizelos" error_2="Makis Voridis">Adonis Georgiadis was born in Greece, served in office at the same time as Antonis Samaras, and was succeeded by Makis Voridis. Samaras had Evangelos Venizelos as a deputy, and was in office when the Prime Minister was Konstantinos Mitsotakis.</lex>
       <lex comment="good" lid="Id3">Greek born Adonis Georgiadis was in office while Antonis Samaras was Prime Minister and was succeeded by Makis Voridis. Samaras, who had the deputy Evangelos Venizelos, was in office while Konstantinos Mitsotakis was Prime Minister.</lex>
     </entry>
     <entry category="Politician" eid="Id64" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1411,8 +1411,8 @@
         <mtriple>New_Democracy_(Greece) | colour | Blue</mtriple>
         <mtriple>Adonis_Georgiadis | party | New_Democracy_(Greece)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Evangelos Venizelos" error_2="Konstantinos Mitsotakis">Adonis Georgiadis is a member of the Greek New Democracy party whose colour is blue and was in office under Antonis Samaras. The successor was Kontantionos Mitsotakis.</lex>
-      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">Adonis Georgiadis was a member of the New Democracy party in Greece which used the colour blue. He was in office whilst the Prime Minister was Antonis Samaras and the Deputy was Evangelos Venizelos. Samaras was eventually succeeded by Konstantionos Mitsotakis.</lex>
+      <lex comment="good" lid="Id1" error_1="Evangelos Venizelos" error_2="Konstantinos Mitsotakis">Adonis Georgiadis is a member of the Greek New Democracy party whose colour is blue and was in office under Antonis Samaras. Samaras' successor was Kontantinos Mitsotakis, and his deputy was Evangelos Venizelos.</lex>
+      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">Adonis Georgiadis was a member of the New Democracy party in Greece which used the colour blue. He was in office whilst the Prime Minister was Antonis Samaras and the Deputy was Evangelos Venizelos. Samaras was eventually succeeded by Konstantinos Mitsotakis.</lex>
       <lex comment="good" lid="Id3">Blue is the colour of the New Democracy in Greece, which Adonis Georgiadis is a member of. Adonis Georgiadis was in office when Antonis Samaras (predecessor to Konstantinos Mitsotakis) was Prime Minister and his deputy was Evangelos Venizelos.</lex>
     </entry>
     <entry category="Politician" eid="Id67" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1528,8 +1528,8 @@
         <mtriple>William_M._O._Dawson | deathPlace | Charleston,_West_Virginia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cleveland born, Albert B. White, died in Parkersburg, West Virginia, in the United States. The successor to Albert B. White was William M.O. Dawson, who died in Charleston, West Virginia.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">Born in Cleveland, Albert B White, who died at Parkersburg, West Virginia, was succeeded by William M. O. Dawson. William M. O. Dawson died in Charleston, West Virginia.</lex>
-      <lex comment="good" lid="Id3" error_1="Charleston, West Virginia">Albert B. White, born in the United States in Cleveland and died in Parkersburg, West Virginia. He was succeeded by William M.O. Dawson, who dies in Charelston, West Virginia.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">Born in Cleveland, Albert B White, who died at Parkersburg, West Virginia, US, was succeeded by William M. O. Dawson. William M. O. Dawson died in Charleston, West Virginia.</lex>
+      <lex comment="good" lid="Id3" error_1="Charleston, West Virginia">Albert B. White, born in the United States in Cleveland and died in Parkersburg, West Virginia. He was succeeded by William M.O. Dawson, who dies in Charleston, West Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id72" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1591,7 +1591,7 @@
         <mtriple>Agnes_Ward_White | deathPlace | Parkersburg,_West_Virginia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B. White was born in Cleveland and was married to Agnes Ward White, who was born in Marietta, Ohio. Agnes Ward White died in Parkersburg, West Virginia and was succeeded by William M O Dawson.</lex>
-      <lex comment="good" lid="Id2" error_1="Marietta, Ohio">Agnes Ward White, born in Marietta, Georgia and died in Parkersburg, West Virginia, was the wife of Albert B. White. Albert B. White, born in Cleveland, was succeeded by William M.O. Dawson.</lex>
+      <lex comment="good" lid="Id2" error_1="Marietta, Ohio">Agnes Ward White, born in Marietta, Ohio and died in Parkersburg, West Virginia, was the wife of Albert B. White. Albert B. White, born in Cleveland, was succeeded by William M.O. Dawson.</lex>
       <lex comment="good" lid="Id3">Agnes Ward White was born in Marietta, Ohio and died in Parkersburg, West Virginia. She was married to Albert B White who was born in Cleveland and who was succeeded by William M O Dawson.</lex>
     </entry>
     <entry category="Politician" eid="Id75" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -1680,7 +1680,7 @@
         <mtriple>William_M._O._Dawson | birthPlace | Bloomington,_Maryland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Ward White was the wife of Albert B. White and died in Parkersburg, West Virginia. Albert B. White was born in Cleveland and his successor was William MO Dawson who was born in Bloomington, Maryland.</lex>
-      <lex comment="good" lid="Id2" error_1="Bloomington, Maryland">Albert B. White was born in Cleveland and married to Agnes Ward White, who died in Parkersburg, West Virginia. William M. O. Dawson, born in Bllomington, Maryland, succeeded Albert B. White.</lex>
+      <lex comment="good" lid="Id2" error_1="Bloomington, Maryland">Albert B. White was born in Cleveland and married to Agnes Ward White, who died in Parkersburg, West Virginia. William M. O. Dawson, born in Bloomington, Maryland, succeeded Albert B. White.</lex>
       <lex comment="good" lid="Id3">Albert B White was born in Cleveland and married Agnes Ward White who later died at Parkersburg, West Virginia. He was succeeded by William M O Dawson whose birthplace was Bloomington, Maryland.</lex>
     </entry>
     <entry category="Politician" eid="Id79" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1998,7 +1998,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Diego Santilli is the leader of Buenos Aires where Alberto Teisaire died. Teisaire was in office during the presidency of Juan Peron who was a member of the Labour Party of Argentina and married to Eva Peron.</lex>
       <lex comment="good" lid="Id2">Juan Perón of the labour party was married to Eva Perón and Alberto Teisaire, who died in Buenos Aires, was in office while Juan Perón was president. The leader of Buenos Aires is Diego Santilli.</lex>
-      <lex comment="good" lid="Id3" error_1="Juan Peron">Argentina's Labour Party member and President is married to Eva Peron. During his presidency, Alberto Teisaire was in office and he died in, Diego Santilli led, Buenos Aires.</lex>
+      <lex comment="good" lid="Id3" error_1="Juan Peron">Argentina's Labour Party member and President Juan Perón is married to Eva Peron. During his presidency, Alberto Teisaire was in office and he died in, Diego Santilli led, Buenos Aires.</lex>
     </entry>
     <entry category="Politician" eid="Id95" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2016,8 +2016,8 @@
         <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Justicialist Party member Alberto Teisaire served in office during Juan Peron's presidency and died in Buenos Aires. Peron was the husband of Eva Peron. Horacio Rodríguez Larreta is the leader of Buenos Aires.</lex>
-      <lex comment="good" lid="Id2" error_1="Horacio Rodriguez Larreta">Alberto Teisaire was a member of the Justicialist party and was in office when Juan Peron was president. Juan Peron was married to Eva Peron and the leader in Buenos Aires is Horatio Rodriguez Larreta.</lex>
-      <lex comment="good" lid="Id3" error_1="Buenos Aires">Alberto Teisaire was a member of the Justicialist Party and died in Beunos Aires which is led by Horacio Rodriguez Larreta. Teisaire was in office during the Presidency of Juan Peron who was married to Eva Peron.</lex>
+      <lex comment="good" lid="Id2" error_1="Horacio Rodriguez Larreta">Alberto Teisaire was a member of the Justicialist party and was in office when Juan Peron was president. Juan Peron was married to Eva Peron and the leader in Buenos Aires is Horacio Rodriguez Larreta.</lex>
+      <lex comment="good" lid="Id3" error_1="Buenos Aires">Alberto Teisaire was a member of the Justicialist Party and died in Buenos Aires which is led by Horacio Rodriguez Larreta. Teisaire was in office during the Presidency of Juan Peron who was married to Eva Peron.</lex>
     </entry>
     <entry category="Politician" eid="Id96" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2216,7 +2216,7 @@
         <mtriple>Alfred_Moore_Scales | birthPlace | Reidsville,_North_Carolina</mtriple>
         <mtriple>Alfred_Moore_Scales | office (workedAt, workedAs) | "Governor of North Carolina"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="James W. Reid (politician)">University of North Carolina at Chapel Hill alum Alfred Moore Scales was a Democratic Governor of North Carolina. He was born in Reidsville, North Carolina and succeeded by James, W. Reid.</lex>
+      <lex comment="good" lid="Id1" error_1="James W. Reid (politician)">University of North Carolina at Chapel Hill alum Alfred Moore Scales was a Democratic Governor of North Carolina. He was born in Reidsville, North Carolina and succeeded by James W. Reid.</lex>
       <lex comment="good" lid="Id2">Reidsville, North Carolina was the birthplace of Alfred Moore Scales, who was a member of the Democratic Party in the United States. his alma mater was the University of North Carolina at Chapel Hill. Alfred Moore Scales was Governor of North Carolina and was succeeded by the politician James W Reid.</lex>
     </entry>
     <entry category="Politician" eid="Id104" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2279,7 +2279,7 @@
         <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
         <mtriple>Sycamore,_Illinois | region | DeKalb_County,_Illinois</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="DeKalb County, Illinois" error_2="Sycamore, Illinois">Vermont's Alvah Sabin died in Sycamor, DeKalb County, Illinoi. He retired 03/03/1857. The largest city in Vermont is Burlington.s.</lex>
+      <lex comment="good" lid="Id1" error_1="DeKalb County, Illinois" error_2="Sycamore, Illinois">Vermont's Alvah Sabin died in Sycamore, DeKalb County, Illinois. He retired 03/03/1857. The largest city in Vermont is Burlington.</lex>
       <lex comment="good" lid="Id2">Alvah Sabin was from Vermont, the largest city of which is Burlington. Alvah Sabin ended his career on 1857-03-03 and died in Sycamore, part of Dekalb County, Illinois.</lex>
     </entry>
     <entry category="Politician" eid="Id107" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2454,7 +2454,7 @@
         <mtriple>Alvah_Sabin | state | Vermont</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alvah Sabin represented Vermont whose largest city is Burlington. He represented Vermont's 3rd Congressional District. Daniel Webster is the leader of the Whig party.</lex>
-      <lex comment="good" lid="Id2" error_1="Whig Party (United States)">Alvah Sabin was a member of the United States Whig Part, led by Daniel Webster. Alvah Sabin represented Vermont's 3rd Congressional District and was from Vermont, the largest city of which, is Burlington.</lex>
+      <lex comment="good" lid="Id2" error_1="Whig Party (United States)">Alvah Sabin was a member of the United States Whig Party, led by Daniel Webster. Alvah Sabin represented Vermont's 3rd Congressional District and was from Vermont, the largest city of which, is Burlington.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin was from Vermont where the largest city is Burlington. He was a member of the United States Whig Party who represented the state's third Congressional District. The Whig Party was led by Daniel Webster.</lex>
     </entry>
     <entry category="Politician" eid="Id114" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -2473,7 +2473,7 @@
         <mtriple>Alvah_Sabin | deathPlace | Sycamore,_Illinois</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alvah Sabin was from Vermont, where the largest city is Burlington. Georgia Vermont is the birthplace of Alvah Sabin, who represented Vermont's 3rd Congressional District and died in Sycamore, Illinois.</lex>
-      <lex comment="good" lid="Id2" error_1="Georgia, Vermont">Burlington is the largest city in Vermont, where Alvah Sabin was born. He represented Vermont's 3rd Congressional District and died in Sycamore, Illinois.</lex>
+      <lex comment="good" lid="Id2" error_1="Georgia, Vermont">Burlington is the largest city in Vermont, where Alvah Sabin was born. His native town is Georgia in Vermont. He represented Vermont's 3rd Congressional District and died in Sycamore, Illinois.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin was born in Georgia, Vermont and died in Sycamore, Illinois. He represented Vermont's 3rd congressional district, of which Burlington is the largest city.</lex>
     </entry>
     <entry category="Politician" eid="Id115" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2557,7 +2557,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">African Americans are an ethnic group in the United States, the country where Alfred Moore Scales lived. One of the battles Alfred Moore Scales was involved in was the Battle of Gettysburg, which took place during the American Civil War. A commander in the American Civil War was Jefferson Davis.</lex>
       <lex comment="good" lid="Id2">Alfred Moore Scales, from the U.S. fought in the Battle of Gettysburg during the American Civil War conflict where Jefferson Davis was a commander. African Americans are an ethnic group from the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="African Americans">Alfred Moore Scales came from the U.S, where one of the ethnic groups is, African American. One of the battles Alfred Moore Scales was involved in was the Battle of Gettysburg, during the American Civil War, where one of the commanders was, Jefferson Davis.</lex>
+      <lex comment="good" lid="Id3" error_1="African Americans">Alfred Moore Scales came from the U.S, where one of the ethnic groups is African American. One of the battles Alfred Moore Scales was involved in was the Battle of Gettysburg, during the American Civil War, where one of the commanders was Jefferson Davis.</lex>
     </entry>
     <entry category="Politician" eid="Id119" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2741,8 +2741,8 @@
         <mtriple>Alfons_Gorbach | deathPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst in the state of Tyrol. He died in Austria which is led by Doris Bures and uses the Austrian german language.</lex>
-      <lex comment="good" lid="Id2" error_1="Austrian German">Doris Bures is the leader of Austria where the language is Austrian Gerrman. Alfons Gorbach, who was born in Imst in the state of Tyrol, died in the country.</lex>
-      <lex comment="good" lid="Id3" error_1="Imst">Austrian German is the language in Austria, the leader of which is Doris Bures. Alfons Gorbach's birthplace was lmst, in the state of Tyrol and his place of death was in Austria.</lex>
+      <lex comment="good" lid="Id2" error_1="Austrian German">Doris Bures is the leader of Austria where the language is Austrian German. Alfons Gorbach, who was born in Imst in the state of Tyrol, died in the country.</lex>
+      <lex comment="good" lid="Id3" error_1="Imst">Austrian German is the language in Austria, the leader of which is Doris Bures. Alfons Gorbach's birthplace was Imst, in the state of Tyrol and his place of death was in Austria.</lex>
     </entry>
     <entry category="Politician" eid="Id128" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2945,7 +2945,7 @@
         <mtriple>Ab_Klink | nationality | Netherlands</mtriple>
         <mtriple>Netherlands | leaderName | Mark_Rutte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stellendam">Ab Klink was born on 2 November 1958 in Stellandam. He is a national of the Netherlands which is led by Mark Rutte and has the euro as its currency.</lex>
+      <lex comment="good" lid="Id1" error_1="Stellendam">Ab Klink was born on 2 November 1958 in Stellendam. He is a national of the Netherlands which is led by Mark Rutte and has the euro as its currency.</lex>
       <lex comment="good" lid="Id2">Ab Klink was born in Stellendam, in 1958-11-02. Ab Klink is from the Netherlands, where the currency is the Euro and where the leader is, Mark Rutte.</lex>
       <lex comment="good" lid="Id3">Stellendam, Netherlands born Ab Klink date of birth was 11/02/1958. The Netherlands leader is Mark Rutte and uses the Euro.</lex>
     </entry>
@@ -3033,7 +3033,7 @@
         <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Air_Force</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al-Amin Daggash was succeeded by Abdulsalami Abubakar, who was in office while Mike Akhigbe (predecessor Oladipo Diya) was the Vice President. Abdulsalami Abubakar was a member of the Nigerian Air Force, where Sadique Abubakar was a commander.</lex>
-      <lex comment="good" lid="Id2" error_1="Oladipo Diya">Sadique Abubakar was commander of the Nigerian Air Force, of which, Abdulsalami Abubakar was a member. Succeeded by Al-Amin Daggash, Abdulsalami Abubakar, was in office whilst Mike Akhigbe was Vice President.</lex>
+      <lex comment="good" lid="Id2" error_1="Oladipo Diya">Sadique Abubakar was commander of the Nigerian Air Force, of which, Abdulsalami Abubakar was a member. Succeeded by Al-Amin Daggash, Abdulsalami Abubakar was in office whilst Mike Akhigbe was Vice President. Mr Akhigbe was preceded by Oladipo Diya.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar served in the Nigerian Air Force which has Sadique Abubakar as commander. He was in office during the Vice Presidency of Mike Akhigbe who had succeeded Oladipo Diya. Abubakar was himself succeeded by Al-Amin Daggash.</lex>
     </entry>
     <entry category="Politician" eid="Id141" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -3130,7 +3130,7 @@
         <mtriple>Spain | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Felipe VI of Spain">Abel Caballero was born in Galicia, Spain which is led by Felipe VI. The country uses the Euro as its currency and the main language is Spanish.</lex>
-      <lex comment="good" lid="Id2">In Spain, the Euro is the currency, Spanish is spoken and the leader is Felipe VI of Spain . Spanish Abel Caballero, was born in Galicia, Spain.</lex>
+      <lex comment="good" lid="Id2">In Spain, the Euro is the currency, Spanish is spoken and the leader is Felipe VI of Spain. Spanish Abel Caballero, was born in Galicia, Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id145" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
