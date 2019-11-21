@@ -85,7 +85,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Joseph Stalin was a commander in World War II in which Abner W Sibal also fought.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal fought in World War II and the commander of Russian during that war was Joseph Stalin.</lex>
-      <lex comment="good" lid="Id3">Abner W. Sibal fought during WWII and the Russian commander was Joseph Stalin.</lex>
+      <lex comment="good" lid="Id3" error_1="World War II">Abner W. Sibal fought during WWII and the Russian commander was Joseph Stalin.</lex>
     </entry>
     <entry category="Politician" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

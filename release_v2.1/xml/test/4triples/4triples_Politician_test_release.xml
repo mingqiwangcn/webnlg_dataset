@@ -447,7 +447,7 @@
         <mtriple>Allan_Shivers | activeYearsStartDate | 1947-01-21</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allan Shivers started his career from January 21, 1947, served in the United States Army and fought in World War II. Joseph Stalin was a commander in World War II.</lex>
-      <lex comment="good" lid="Id2" error_1="United States Army">Allan Shivers started his career from January 21, 1947 in the US Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
+      <lex comment="good" lid="Id2" error_1="United States Army" error_2="World War II">Allan Shivers started his career from January 21, 1947 in the US Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
       <lex comment="good" lid="Id3">United States Army and World War II veteran Allan Shivers, started his career, Jan. 21, 1947. A World War II commander was Joseph Stalin.</lex>
     </entry>
     <entry category="Politician" eid="Id26" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

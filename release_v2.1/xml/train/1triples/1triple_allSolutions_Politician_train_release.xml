@@ -539,7 +539,7 @@
       <modifiedtripleset>
         <mtriple>Abel_Caballero | birthPlace | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abel Caballero">Spain is the birthplace of Abel Caballero.</lex>
+      <lex comment="good" lid="Id1">Spain is the birthplace of Abel Caballero.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id51" shape="(X (X))" shape_type="NA" size="1">

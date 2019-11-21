@@ -941,7 +941,7 @@
         <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Ponteareas in Galicia, Spain. He is a member of the Spanish Socialist Workers' Party and wordless as a Member of the Congress of Deputies.</lex>
+      <lex comment="good" lid="Id1">Abel Caballero was born in Ponteareas in Galicia, Spain. He is a member of the Spanish Socialist Workers' Party and wordless as a Member of the Congress of Deputies.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Ponteareas in Galicia, Spain. He worked as a Member of the Congress of Deputies and is a member of the Spanish Socialist Workers' Party.</lex>
       <lex comment="good" lid="Id3">Abel Caballero (place of birth: Ponteareas, Galicia, Spain) worked as a Member of the Congress of Deputies and belonged to the Spanish Socialist Workers' Party.</lex>
     </entry>
@@ -993,7 +993,7 @@
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
         <mtriple>Spain | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abel Caballero">Born in Ponteareas, Abel Caballero is Spanish, the main language used in Spain, the leader of which, is Felipe VI of Spain.</lex>
+      <lex comment="good" lid="Id1">Born in Ponteareas, Abel Caballero is Spanish, the main language used in Spain, the leader of which, is Felipe VI of Spain.</lex>
       <lex comment="good" lid="Id2">The main language used in Spain is Spanish and its leader is Felipe VI. Abel Caballero is a national of Spain and was born in Ponteareas.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was born in Ponteareas, which is located in Spain. Felipe VI of Spain is the leader of the country and Spanish is the language spoken there.</lex>
     </entry>
@@ -1011,7 +1011,7 @@
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Spain">Galician and Spanish born Abel Caballero belongs to the Spanish Socialist Workers' Party and is the Mayor of Vigo.</lex>
-      <lex comment="good" lid="Id2" error_1="Spanish Socialist Workers' Party">Abel Caballero was born in Galicia in Spain and is a member of the Spanish Socialist Workers' Party. Caballero also works as the Mayor of Vigo.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was born in Galicia in Spain and is a member of the Spanish Socialist Workers' Party. Caballero also works as the Mayor of Vigo.</lex>
       <lex comment="good" lid="Id3">Abel Caballero, who was born in Galicia, Spain, serves as the Mayor of Vigo and is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
     <entry category="Politician" eid="Id53" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -3366,7 +3366,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Imst (in Austria-Hungary), Alfons Gorbach died in Graz, in Styria.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in Austria Hungary and died Graz, Styria.</lex>
+      <lex comment="good" lid="Id2" error_1="Austria-Hungary">Alfons Gorbach was born in Imst in Austria Hungary and died Graz, Styria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach, whose death place was Graz in Styria, was born in Imst, Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id183" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3571,7 +3571,7 @@
         <mtriple>Alfred_N._Phillips | birthPlace | Darien,_Connecticut</mtriple>
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Alfred N. Phillip's place of birth was Darien Connecticut. He worked at the United States House of Representatives and served in the United States, Army. The United States Army took part in the battle called Whiskey Rebellion.</lex>
+      <lex comment="good" lid="Id1" error_1="Alfred N. Phillips">Alfred N. Phillip's place of birth was Darien Connecticut. He worked at the United States House of Representatives and served in the United States, Army. The United States Army took part in the battle called Whiskey Rebellion.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips was born in Darien, Connecticut and worked at the United States House of Representatives. He served in the United States Army and one American battle is known as the Whiskey Rebellion.</lex>
       <lex comment="good" lid="Id3" error_1="United States House of Representatives">US Army member Alfred N. Phillips, born in Darien, Connecticut, is a member of the U.S. House of Representatives. The U.S. Army fought in the Whiskey Rebellion.</lex>
     </entry>

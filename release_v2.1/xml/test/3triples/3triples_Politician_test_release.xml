@@ -115,8 +115,8 @@
         <mtriple>Abner_W._Sibal | militaryBranch | United_States_Army</mtriple>
         <mtriple>World_War_II | commander | Joseph_Stalin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Abner W. Sibal served in the United States Army and fought during WWII, when Joseph Stalin was a commander.</lex>
-      <lex comment="good" lid="Id2">Abner W. Sibal served in the United States Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
+      <lex comment="good" lid="Id1" error_1="World War II">Abner W. Sibal served in the United States Army and fought during WWII, when Joseph Stalin was a commander.</lex>
+      <lex comment="good" lid="Id2" error_1="World War II">Abner W. Sibal served in the United States Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
       <lex comment="good" lid="Id3" error_1="United States Army">Abner W Sibal served with the US Army in World War II. Joseph Stalin was a commander in the Second World War.</lex>
     </entry>
     <entry category="Politician" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
