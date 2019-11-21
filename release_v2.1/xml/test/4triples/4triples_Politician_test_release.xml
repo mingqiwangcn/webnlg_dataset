@@ -364,7 +364,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Staten Island in New York City is the birth place of Albert Jennings Fountain. Albert Jennings Fountain died in Dona Ana County, New Mexico which is in the New Mexico Territory.</lex>
       <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in New York City on Staten Island. He died in Dona Ana County, New Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="Albert Jennings Fountain" error_2="Dona Ana County, New Mexico">On Staten Island in New York City was the birthplace of Albert Jennings Fountain. He died in the New Mexico Territory in Dona Ana County.</lex>
+      <lex comment="good" lid="Id3" error_1="Dona Ana County, New Mexico">On Staten Island in New York City was the birthplace of Albert Jennings Fountain. He died in the New Mexico Territory in Dona Ana County.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

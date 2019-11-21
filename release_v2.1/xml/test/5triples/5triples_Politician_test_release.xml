@@ -216,7 +216,7 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, New York City. He died on 1 February 1896 in Dona Ana County, New Mexico, US.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">Albert Jennings Fountain was born in New York City on Staten Island. He died on February 1st, 1896 in Dona Ana County, New Mexico, U.S.A.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in New York City on Staten Island. He died on February 1st, 1896 in Dona Ana County, New Mexico, U.S.A.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York City and died 1896-02-01 in Dona Ana County, New Mexico, United States.</lex>
     </entry>
     <entry category="Politician" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -241,7 +241,7 @@
         <mtriple>Albert_Jennings_Fountain | dateOfDeath | 1896-02-01</mtriple>
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Albert Jennings Fountain">New York City (Staten Island) was the birthplace of Albert Jennings Fountain, who died in Dona Ana County, New Mexico Territory, on 1896-02-01.</lex>
+      <lex comment="good" lid="Id1">New York City (Staten Island) was the birthplace of Albert Jennings Fountain, who died in Dona Ana County, New Mexico Territory, on 1896-02-01.</lex>
       <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in Staten Island, New York City. He died in Dona Ana County, New Mexico on 1896-02-01.</lex>
       <lex comment="good" lid="Id3" error_1="New Mexico Territory">Albert Jennings Fountain was born in New York City on Staten Island and died in Dona Ana County, New Mexico on February 1st, 1896.</lex>
     </entry>
@@ -262,7 +262,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria, Austria-Hungary and was a member of the Austrian People's Party. He died in Graz, Styria.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary and died in Styria, Graz. Gorbach was a politician with the Austrian People's Party.</lex>
-      <lex comment="good" lid="Id3" error_1="Austria-Hungary">Born in Austria-Hungary, Alfons Gorbach was a member of the Austrian People's Party, and died in Styria, in Graz.</lex>
+      <lex comment="good" lid="Id3">Born in Austria-Hungary, Alfons Gorbach was a member of the Austrian People's Party, and died in Styria, in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

@@ -36,7 +36,7 @@
         <mtriple>Aaron_S._Daggett | battles | American_Civil_War</mtriple>
         <mtriple>American_Civil_War | commander | Abraham_Lincoln</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American Civil War">Aaron S. Daggett fought in the American Civil War, where Abraham Lincoln was a commander.</lex>
+      <lex comment="good" lid="Id1">Aaron S. Daggett fought in the American Civil War, where Abraham Lincoln was a commander.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett fought in the American Civil War, the war in which Abraham Lincoln was a commander.</lex>
       <lex comment="good" lid="Id3">Aaron S. Daggett fought in the American Civil War in which Abraham Lincoln was a commander.</lex>
     </entry>
@@ -51,7 +51,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron S. Daggett fought in the American Civil War where Jefferson Davis was a commander.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett fought in battles in the American Civil War, during which one of the commanders was, Jefferson Davis.</lex>
-      <lex comment="good" lid="Id3" error_1="American Civil War">Aaron S. Daggett fought in the American Civil War, where Jefferson Davis was a commander.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggett fought in the American Civil War, where Jefferson Davis was a commander.</lex>
     </entry>
     <entry category="Politician" eid="Id5" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -135,7 +135,7 @@
         <mtriple>Ab_Klink | almaMater | Erasmus_University_Rotterdam</mtriple>
         <mtriple>Ab_Klink | birthPlace | Stellendam</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ab Klink">Ab Klink was born in Stellendam and graduated from Erasmus University Rotterdam.</lex>
+      <lex comment="good" lid="Id1">Ab Klink was born in Stellendam and graduated from Erasmus University Rotterdam.</lex>
       <lex comment="good" lid="Id2">Ab Klink, born in Stellendam, went to the Erasmus University Rotterdam.</lex>
       <lex comment="good" lid="Id3">Ab Klink was born in Stellendam and his alma mater is Erasmus University Rotterdam.</lex>
     </entry>
@@ -306,7 +306,7 @@
         <mtriple>Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Kingdom of Sarawak, Abdul Taib Mahmud's successor was, Abdul Rahman Ya'kub.</lex>
-      <lex comment="good" lid="Id2" error_1="Abdul Rahman Ya'kub">Abdul Taib Mahmud, who was succeeded by Abdul Rahman Ya'Kub, was born in the Kingdom of Sarawak.</lex>
+      <lex comment="good" lid="Id2">Abdul Taib Mahmud, who was succeeded by Abdul Rahman Ya'Kub, was born in the Kingdom of Sarawak.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud was born in the Kingdom of Sarawak and he was succeeded by Abdul Rahman Ya'kub.</lex>
     </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -357,7 +357,7 @@
         <mtriple>Abdul_Taib_Mahmud | birthPlace | Miri,_Malaysia</mtriple>
         <mtriple>Abdul_Taib_Mahmud | successor | Abdul_Rahman_Ya'kub</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Abdul Rahman Ya'kub">Abdul Taib Mahmud was born in Miri, Malaysia, and he was succeeded by Abdul Rahman Ya'kub.</lex>
+      <lex comment="good" lid="Id1">Abdul Taib Mahmud was born in Miri, Malaysia, and he was succeeded by Abdul Rahman Ya'kub.</lex>
       <lex comment="good" lid="Id2">Miri, Malaysia, is the birthplace of Abdul Taib Mahmud who was the successor to, Abdul Rahman Ya'kub.</lex>
       <lex comment="good" lid="Id3">Abdul Rahman Ya'kub was the successor of Abdul Taib Mahmud who was born in Miri, Malaysia.</lex>
     </entry>
@@ -627,7 +627,7 @@
         <mtriple>Abel_Caballero | birthPlace | Ponteareas</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ponteareas">Abel Caballero, who is a member of the Spanish Socialist Workers' Party was born in Ponteareas.</lex>
+      <lex comment="good" lid="Id1">Abel Caballero, who is a member of the Spanish Socialist Workers' Party was born in Ponteareas.</lex>
       <lex comment="good" lid="Id2">Born in Ponteareas, Abel Caballero, is a member of the Spanish Socialist Workers' Party.</lex>
       <lex comment="good" lid="Id3">Abel Caballero (b Ponteareas) is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
@@ -831,7 +831,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ridgewood, Queens is the birthplace of Abner W. Sibal who worked as a member of the Connecticut Senate from the 26th District.</lex>
       <lex comment="good" lid="Id2">Born in Ridgewood, Queens, Abner W. Sibal, was a member of the Connecticut Senate from the 26th District.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the Connecticut Senate from the 26th District">Abner W. Sibal was born in Ridgewood, Queens and was a member of the Connecticut Senate from the 26th district.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal was born in Ridgewood, Queens and was a member of the Connecticut Senate from the 26th district.</lex>
     </entry>
     <entry category="Politician" eid="Id63" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -937,7 +937,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="New York City, New York, U.S.">Abraham A. Ribicoff's birthplace was Connecticut. He died in New York City, New York in the U.S.</lex>
       <lex comment="good" lid="Id2" error_1="New York City, New York, U.S.">Abraham A. Ribicoff, born in Connecticut, died in New York City, N.Y., U.S.</lex>
-      <lex comment="good" lid="Id3" error_1="Abraham A. Ribicoff">Abraham A. Ribicoff died in New York City, New York, U.S. and he was born in Connecticut.</lex>
+      <lex comment="good" lid="Id3">Abraham A. Ribicoff died in New York City, New York, U.S. and he was born in Connecticut.</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1541,7 +1541,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant, who was born in Hessisch Oldendorf, attended the Radboud University Nijmegen.</lex>
       <lex comment="good" lid="Id2">Agnes Kant was born in Hessisch Oldendorf and has alma mater is Radboud University Nijmegen.</lex>
-      <lex comment="good" lid="Id3" error_1="Hessisch Oldendorf">Agnes Kant (b. Hessisch Oldendorf) graduated from Radboud University Nijmegen.</lex>
+      <lex comment="good" lid="Id3">Agnes Kant (b. Hessisch Oldendorf) graduated from Radboud University Nijmegen.</lex>
     </entry>
     <entry category="Politician" eid="Id115" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1570,7 +1570,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant was born in West Germany and her alma mater is the Radboud university Nijmegen.</lex>
       <lex comment="good" lid="Id2">Agnes Kant was born in West Germany, her alma mater is the Radboud University Nijmegen.</lex>
-      <lex comment="good" lid="Id3" error_1="Radboud University Nijmegen">Agnes Kant was born in West Germany and attending the Radboud University, Nijmegen.</lex>
+      <lex comment="good" lid="Id3">Agnes Kant was born in West Germany and attending the Radboud University, Nijmegen.</lex>
     </entry>
     <entry category="Politician" eid="Id117" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1811,7 +1811,7 @@
         <mtriple>Airey_Neave | activeYearsEndDate | 1979-03-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave was a Lieutenant Colonel and ended his career on 30th March 1979.</lex>
-      <lex comment="good" lid="Id2" error_1="Airey Neave">Airey Neave was a Lieutenant Colonel and he ended his career on 30th March 1979.</lex>
+      <lex comment="good" lid="Id2">Airey Neave was a Lieutenant Colonel and he ended his career on 30th March 1979.</lex>
       <lex comment="good" lid="Id3">Airey Neave, whose military rank is Lieutenant Colonel, ended his career on 30th March 1979.</lex>
     </entry>
     <entry category="Politician" eid="Id135" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2341,7 +2341,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire was born in Mendoza in Argentina and his successor was Isaac Rojas.</lex>
       <lex comment="good" lid="Id2">Mendoza in Argentina is the birthplace of Alberto Teisaire. Mr. Teisaire was succeeded by Isaac Rojas.</lex>
-      <lex comment="good" lid="Id3" error_1="Isaac Rojas">Isaac Rojas succeeded Alberto Teisaire who was born in Mendoza, Argentina.</lex>
+      <lex comment="good" lid="Id3">Isaac Rojas succeeded Alberto Teisaire who was born in Mendoza, Argentina.</lex>
     </entry>
     <entry category="Politician" eid="Id174" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2353,7 +2353,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id2" error_1="Imst">Alfons Gorbach's birthplace is Imst, in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach's birthplace is Imst, in Austria-Hungary.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id175" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2366,7 +2366,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach's place of birth was Tyrol state, Austria-Hungary.</lex>
-      <lex comment="good" lid="Id2" error_1="Alfons Gorbach">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id176" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2404,7 +2404,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="County of Tyrol">Alfons Gorbach was born in Imst, in Tyrol.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
-      <lex comment="good" lid="Id3" error_1="Imst">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
     </entry>
     <entry category="Politician" eid="Id179" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2420,7 +2420,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria.</lex>
-      <lex comment="good" lid="Id2" error_1="Imst">Alfons Gorbach's birthplace is Imst, in Austria.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach's birthplace is Imst, in Austria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst, in Austria.</lex>
     </entry>
     <entry category="Politician" eid="Id180" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2436,7 +2436,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Imst">Alfons Gorbach's birthplace is Imst, in the state of Tyrol.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach's birthplace is Imst, in the state of Tyrol.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach birthplace was in Imst in Tyrol state.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst, Tyrol.</lex>
     </entry>
@@ -2449,7 +2449,7 @@
         <mtriple>Alfons_Gorbach | inOfficeWhilePresident | Adolf_Schärf</mtriple>
         <mtriple>Adolf_Schärf | birthPlace | Austria-Hungary</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alfons Gorbach">Adolf Scharf, born in Austria-Hungary, was president while Alfons Gorbach was in office.</lex>
+      <lex comment="good" lid="Id1">Adolf Scharf, born in Austria-Hungary, was president while Alfons Gorbach was in office.</lex>
       <lex comment="good" lid="Id2">Adolf Schärf, was born in Austria-Hungary and was President at the same time Alfons Gorbach was in office.</lex>
       <lex comment="good" lid="Id3" error_1="Austria-Hungary">Alfons Gorbach was in office during Austrian-Hungarian born, President Adolf Schärf's reign.</lex>
     </entry>
@@ -2488,7 +2488,7 @@
         <mtriple>Alfons_Gorbach | inOfficeWhilePresident | Adolf_Schärf</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Tyrol_(state)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tyrol (state)">Alfons Gorbach, who was born in the state of Tyrol, was in office during President Adolf Schärf's reign.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach, who was born in the state of Tyrol, was in office during President Adolf Schärf's reign.</lex>
       <lex comment="good" lid="Id2">Born in the state, Tyrol, Alfons Gorbach, was in office during President Adolf Schärf's reign.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach, who was born in the state of Tyrol, was in office while Adolf Scharf was President.</lex>
     </entry>
@@ -2501,7 +2501,7 @@
         <mtriple>Alfons_Gorbach | successor | Josef_Klaus</mtriple>
         <mtriple>Josef_Klaus | almaMater | University_of_Vienna</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alfons Gorbach">Alfons Gorbach was suceeded by Josef Klaus who graduated the University of Vienna.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach was suceeded by Josef Klaus who graduated the University of Vienna.</lex>
       <lex comment="good" lid="Id2">The successor to Alfons Gorbach is Josef Klaus, whose alma mater is the University of Vienna.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was succeeded by Josef Klaus, who studied at the University of Vienna.</lex>
     </entry>
@@ -2526,7 +2526,7 @@
         <mtriple>Alfred_Moore_Scales | almaMater | University_of_North_Carolina_at_Chapel_Hill</mtriple>
         <mtriple>Alfred_Moore_Scales | successor | James_W._Reid_(politician)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="University of North Carolina at Chapel Hill">Alfred Moores Scales, whose alma mater was the University of North Carolina at Chapel Hill, was succeeded by the politician James W Reid.</lex>
+      <lex comment="good" lid="Id1">Alfred Moores Scales, whose alma mater was the University of North Carolina at Chapel Hill, was succeeded by the politician James W Reid.</lex>
       <lex comment="good" lid="Id2">The alma Mater of Alfred Moore Scales, who was succeeded by the politician James W. Reid, is the University of North Carolina at Chapel Hill.</lex>
       <lex comment="good" lid="Id3">Alfred Moore Scales who was succeeded by the politician, James W. Reid, studied at the University of North Carolina at Chapel Hill.</lex>
     </entry>
@@ -2752,7 +2752,7 @@
         <mtriple>Alfred_N._Phillips | militaryBranch | United_States_Army</mtriple>
         <mtriple>United_States_Army | battles | Spanish–American_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alfred N. Phillips">The United States Army was involved in the Spanish-American War and one of is members was Alfred N. Phillips.</lex>
+      <lex comment="good" lid="Id1">The United States Army was involved in the Spanish-American War and one of is members was Alfred N. Phillips.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips served in the United States, Army, the army which was involved in battles in the Spanish-American War.</lex>
     </entry>
     <entry category="Politician" eid="Id204" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2915,7 +2915,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allan Shivers, was Lieutenant Governor of Texas and was succeeded by Price Daniel.</lex>
       <lex comment="good" lid="Id2">Allan Shivers, a Lieutenant Governor of Texas, was succeeded by Price Daniel.</lex>
-      <lex comment="good" lid="Id3" error_1="Lieutenant Governor of Texas">Allan Shivers was Lieutenant Governor of Texas and was succeeded by Price Daniel.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was Lieutenant Governor of Texas and was succeeded by Price Daniel.</lex>
     </entry>
     <entry category="Politician" eid="Id216" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -3023,7 +3023,7 @@
         <mtriple>Alvah_Sabin | region | Vermont</mtriple>
         <mtriple>Alvah_Sabin | activeYearsEndDate | 1857-03-03</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Vermont">Alvah Sabin, who represented Vermont, ended his career on 1857-03-03.</lex>
+      <lex comment="good" lid="Id1">Alvah Sabin, who represented Vermont, ended his career on 1857-03-03.</lex>
       <lex comment="good" lid="Id2">Alvah Sabin, who represented Vermont, ended his career on 3rd of March, 1857.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin represented Vermont and ended his political career are March 3rd, 1857.</lex>
     </entry>
@@ -3196,7 +3196,7 @@
         <mtriple>Ab_Klink | birthPlace | Netherlands</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ab Klink was born in the Netherlands, where the Euro is the currency.</lex>
-      <lex comment="good" lid="Id2" error_1="Netherlands">Ab Klink was born in the Netherlands, where the currency is the euro.</lex>
+      <lex comment="good" lid="Id2">Ab Klink was born in the Netherlands, where the currency is the euro.</lex>
       <lex comment="good" lid="Id3">The euro is the currency in the Netherlands where Ab Klink was born.</lex>
     </entry>
     <entry category="Politician" eid="Id237" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -3271,7 +3271,7 @@
         <mtriple>Poland | language | Kashubian_language</mtriple>
         <mtriple>Adam_Koc | nationality | Poland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kashubian language" error_2="Poland">Adam Koc is a Polish national where the Kashubian language is spoken.</lex>
+      <lex comment="good" lid="Id1" error_1="Poland">Adam Koc is a Polish national where the Kashubian language is spoken.</lex>
       <lex comment="good" lid="Id2">Adam Koc is a national of Poland where the Kashubian language is spoken.</lex>
       <lex comment="good" lid="Id3">Adam Koc is a national of Poland, where the Kashubian language is spoken.</lex>
     </entry>
