@@ -360,7 +360,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Calcio Catania">Rolando Maran (born in Italy) is manager of AC Chievo Verona and has played for Calcio Cantania and Carrarese Calcio.</lex>
       <lex comment="good" lid="Id2">Born in Italy, Rolando Maran is attached to the club Calcio Catania. He also has managed AC Chievo Verona, and plays for Carrarese Calcio.</lex>
-      <lex comment="good" lid="Id3" error_1="Calcio Catania" error_2="Italy">Rolando Maran (Italian) is a member of the Calcio Cantania. He plays for Carrarese Calcio and is the manager of Calcio ChievoVerona.</lex>
+      <lex comment="good" lid="Id3" error_1="Calcio Catania" error_2="Italy">Rolando Maran (Italian) is a member of the Calcio Catania. He plays for Carrarese Calcio and is the manager of Calcio Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -391,9 +391,9 @@
         <mtriple>Italy | language | Italian_language</mtriple>
         <mtriple>Italy | demonym | Italians</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Rome is the capital of Italy which is inhabited by Italians and where A.C. Lumezzane plays.</lex>
-      <lex comment="good" lid="Id2">Rome is the capital city of Italy, which is highly populated by Italian speaking citizens. Italy is also the home of A.C. Lumezzane.</lex>
-      <lex comment="good" lid="Id3">A.C. Lumezzane's ground is in Italy, which has Rome as its capital. The language spoken by the Italians is Italian.</lex>
+      <lex comment="good" lid="Id1">Rome is the capital of Italy which is inhabited by Italians and where A.C. Lumezzane plays. Italian is the language spoken in the country.</lex>
+      <lex comment="good" lid="Id2">Rome is the capital city of Italy, which is highly populated by Italian speaking citizens called Italians. Italy is also the home of A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id3">A.C. Lumezzane's ground is in Italy, which has Rome as its capital. The language spoken by the Italians, who inhabit Italy, is Italian.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -477,7 +477,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Lumezzane play in Italy (inhabited by Italians) where the Italian language is spoken and the leader is Pietro Grasso.</lex>
       <lex comment="good" lid="Id2">Pietro Grasso is the leader of Italy where AC Lumezzane's ground is located. The country is inhabited by Italians who speak the Italian language.</lex>
-      <lex comment="good" lid="Id3">A.C. Lumezzane's ground is in Italy. Pietro Grasso is a leader of the Italian people, and the national language is Italian.</lex>
+      <lex comment="good" lid="Id3">A.C. Lumezzane's ground is in Italy. Pietro Grasso is a leader of the country, and the national language is Italian. People living in Italy are called Italians.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id29" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -782,7 +782,7 @@
         <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Nikos Voutsis is the leader of greece where the currency is the Euro and the capital city is Athens. The country is the location of A.E Dimitra Efxeinoupolis.</lex>
-      <lex comment="good" lid="Id2">The A.E. Dimitea Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
+      <lex comment="good" lid="Id2">The A.E. Dimitra Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1250,7 +1250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde (full name: Association Football Club Fylde), played in 2014 and their ground in Lancashire holds 3180 fans.</lex>
       <lex comment="good" lid="Id2">The full name of the A.F.C. Fylde is "Association Football Club Fylde." and they have 3180 members. The club's ground is in Lancashire and they competed in the 2014 season.</lex>
-      <lex comment="good" lid="Id3">A.F.C.Fylde (full name Association Football Club Fylde) is located in the county of Lancashire. The club competed in the 2014 season and has 3180 members.</lex>
+      <lex comment="good" lid="Id3">A.F.C. Fylde (full name Association Football Club Fylde) is located in the county of Lancashire. The club competed in the 2014 season and has 3180 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id68" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2275,8 +2275,8 @@
         <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sergio Mattarella leads the Italian people in Italy. The capital city is Rome and the ground of AS Gubbio 1910 is also located in the country.</lex>
-      <lex comment="good" lid="Id2">A.S. Gubbio 1910 which is located in Italy which is led by Sergio Mattarella in the capital city of Rome.</lex>
+      <lex comment="good" lid="Id1">Sergio Mattarella leads the Italian people, inhabitants of Italy. The capital city is Rome and the ground of AS Gubbio 1910 is also located in the country.</lex>
+      <lex comment="good" lid="Id2">A.S. Gubbio 1910 is located in Italy which is led by Sergio Mattarella in the capital city of Rome. The inhabitants of Italy are called Italians.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, which is inhabited by Italians, its capital is Rome and its leader is Sergio Mattarella.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id124" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">

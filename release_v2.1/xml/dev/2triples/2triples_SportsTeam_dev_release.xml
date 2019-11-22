@@ -23,7 +23,7 @@
         <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
         <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc'Antonio Bentegodi.</lex>
       <lex comment="good" lid="Id2">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.</lex>
       <lex comment="good" lid="Id3">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A.</lex>
     </entry>
@@ -66,7 +66,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
         <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
+      <lex comment="good" lid="Id1" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
       <lex comment="good" lid="Id2">With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -232,8 +232,8 @@
         <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Shuvalan">AZAL PFK play their home matches at the AZAL Arena in Shuvulan.</lex>
-      <lex comment="good" lid="Id2" error_1="Shuvalan">The AZAL Arena is located in Shuvulan and is the ground of AZAL PFK.</lex>
+      <lex comment="good" lid="Id1" error_1="Shuvalan">AZAL PFK play their home matches at the AZAL Arena in Shuvalan.</lex>
+      <lex comment="good" lid="Id2" error_1="Shuvalan">The AZAL Arena is located in Shuvalan and is the ground of AZAL PFK.</lex>
       <lex comment="good" lid="Id3">The AZAL Arena in Shuvalan is the ground of AZAL PFK.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">

@@ -10,7 +10,7 @@
         <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
         <mtriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Regionalliga">FC Magedburg has 27250 members and was in Regionalliga in 2014.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Regionalliga">FC Magedburg has 27250 members and was in Regionalliga in 2014-2015.</lex>
       <lex comment="good" lid="Id2" error_1="2014-15 Regionalliga">FC Magdeburg played in the Regionalliga in 2014-15 season and has 27250 members.</lex>
       <lex comment="good" lid="Id3" error_1="2014-15 Regionalliga">1.FC Magdeburg has 27250 members and in the 2014-15 season they played in the Regionalliga.</lex>
     </entry>
@@ -40,7 +40,7 @@
         <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran, who has managed AC Chievo Verona, was born in Italy.</lex>
-      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona" error_2="Italy">Associazione Calcio ChievoVerona is managed by Italian born Rolando Maran.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona" error_2="Italy">Associazione Calcio Chievo Verona is managed by Italian born Rolando Maran.</lex>
       <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran, who was born in Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -142,7 +142,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="A.S. Livorno Calcio">A.S Livorno Calcio ground is in Livorno and the club plays in Serie B.</lex>
       <lex comment="good" lid="Id2">AS Livorno Calcio play in Serie B, and their grounds are in Livorno.</lex>
-      <lex comment="good" lid="Id3" error_1="A.S. Livorno Calcio">The AS Livorno club in Serie B plays in Livorno.</lex>
+      <lex comment="good" lid="Id3" error_1="A.S. Livorno Calcio">The AS Livorno Calcio club in Serie B plays in Livorno.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -196,8 +196,8 @@
         <mtriple>AEK_Athens_F.C. | numberOfMembers | 69618</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens F.C. has 69618 members and its ground is in Greece.</lex>
-      <lex comment="good" lid="Id2" error_1="AEK Athens F.C.">AEK Athens's ground is in Greece and the club has 69618 members.</lex>
-      <lex comment="good" lid="Id3" error_1="AEK Athens F.C.">AEK Athen's ground is in Greece and has 69618 members.</lex>
+      <lex comment="good" lid="Id2" error_1="AEK Athens F.C.">AEK Athens' ground is in Greece and the club has 69618 members.</lex>
+      <lex comment="good" lid="Id3" error_1="AEK Athens F.C.">AEK Athens' ground is in Greece and has 69618 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -285,7 +285,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pietro Grasso is the leader in Italy where the ground of A.S. Gubbio 1910 is located.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader.</lex>
-      <lex comment="good" lid="Id3" error_1="A.S. Gubbio 1910">Pietro Grasso is the leader of Italy where the ground of A S Gubbio is located.</lex>
+      <lex comment="good" lid="Id3" error_1="A.S. Gubbio 1910">Pietro Grasso is the leader of Italy where the ground of A S Gubbio 1910 is located.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

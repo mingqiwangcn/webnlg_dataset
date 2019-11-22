@@ -25,7 +25,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Lumezzane's ground is in Italy where Pietro Grasso leads the Italian people. The capital of the country is Rome and the Italian language is spoken.</lex>
       <lex comment="good" lid="Id2">A.C. Lumezzane's ground is in Italy where the Italian language is spoken by the inhabitants who are known as Italians. The leader of the country is Pietro Grasso and the capital city is Rome.</lex>
-      <lex comment="good" lid="Id3" error_1="Italy">The Italian people are led by Pietro Grasso and speak the Italian language. The capital city is Rome and the AC Lumezzane club play in the country.</lex>
+      <lex comment="good" lid="Id3" error_1="Italy">Italy is led by Pietro Grasso, and the Italian language is spoken there. The capital city is Rome and the AC Lumezzane club play in the country. The inhabitants of Italy are known as Italians.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -43,7 +43,7 @@
         <mtriple>Italy | demonym | Italians</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.C. Lumezzane play in Italy, where Rome is the capital and Italians live. It is also where Pietro Grasso is the leader and Italian is the official language.</lex>
-      <lex comment="good" lid="Id2">AC Lumezzane play in Italy where the capital city is Rome and the official language is Italian. The leader of the Italian people is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2">AC Lumezzane play in Italy where the capital city is Rome and the official language is Italian. The leader of Italy is Pietro Grasso, and people who reside in Italy are known as Italians.</lex>
       <lex comment="good" lid="Id3">Pietro Grasso leads Italy whose capital is Rome. The language there is Italian and its people are known as Italians. A.C. Lumezzane play in that country.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -588,7 +588,7 @@
         <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiação Sportiva Arapiraquense (with 17000 members) play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube are the champions of Série C.</lex>
-      <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league based in Brazil. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.</lex>
+      <lex comment="good" lid="Id2">Agremiação Sportiva Arapiraquense play in the Brazilian Campeonato Brasileiro Série C league in 2015. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.</lex>
       <lex comment="good" lid="Id3">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C from Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also competed in the league in 2015.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id28" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
@@ -795,7 +795,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">AS Gubbio have their ground in Italy where the leader is Sergio Mattarella. The Italian people speak the Italian language and their capital city is Rome.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.</lex>
       <lex comment="good" lid="Id2">Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id39" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -833,8 +833,8 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live. The capital is Rome and two of the leaders are Pietro Grasso, and Sergio Mattarella.</lex>
-      <lex comment="good" lid="Id2">Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italian and the capital city is Rome.</lex>
-      <lex comment="good" lid="Id3">Pietro Grasso and Sergio Mattarella are Italian leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital.</lex>
+      <lex comment="good" lid="Id2">Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italians and the capital city is Rome.</lex>
+      <lex comment="good" lid="Id3">Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -908,7 +908,7 @@
         <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">AS Gubbio have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the Italian people is Italian.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id45" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

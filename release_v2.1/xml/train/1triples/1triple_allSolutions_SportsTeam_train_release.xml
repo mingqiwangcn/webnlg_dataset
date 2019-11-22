@@ -77,7 +77,7 @@
       <modifiedtripleset>
         <mtriple>A.C._Cesena | ground | Cesena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A&gt;C Cesena ground is in Cesena.</lex>
+      <lex comment="good" lid="Id1">A.C. Cesena ground is in Cesena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -195,7 +195,7 @@
         <mtriple>A.C._Chievo_Verona | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Chievo Verona competed in the 2014 season.</lex>
-      <lex comment="good" lid="Id2">A.C. ChievoVerona played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">A.C. Chievo Verona played in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -477,7 +477,7 @@
       <modifiedtripleset>
         <mtriple>A.F.C._Fylde | ground | "Kellamergh Park"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C.Fylde's ground is Kellamergh Park.</lex>
+      <lex comment="good" lid="Id1">A.F.C. Fylde's ground is Kellamergh Park.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id49" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -516,7 +516,7 @@
       <modifiedtripleset>
         <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C. is a member of the National League North.</lex>
+      <lex comment="good" lid="Id1">A.F.C. Fylde is a member of the National League North.</lex>
       <lex comment="good" lid="Id2">Fylde played in the National League North league.</lex>
       <lex comment="good" lid="Id3">A.F.C. Fylde play in National League North.</lex>
     </entry>
@@ -1494,7 +1494,7 @@
         <mtriple>Dave_Challinor | club | A.F.C._Fylde</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dave Challinor is a player at the A.F.C. Fylde .</lex>
-      <lex comment="good" lid="Id2">Dave Challinor is at the A.F.C. Flyde club.</lex>
+      <lex comment="good" lid="Id2">Dave Challinor is at the A.F.C. Fylde club.</lex>
       <lex comment="good" lid="Id3">Dave Challinor plays for A.F.C. Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id148" shape="(X (X))" shape_type="NA" size="1">

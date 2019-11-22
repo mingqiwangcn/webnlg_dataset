@@ -9,7 +9,7 @@
         <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran has managed AC Chievo Verona.</lex>
-      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona">Associazione Calcio ChievoVerona is managed by Rolando Maran.</lex>
+      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona">Associazione Calcio Chievo Verona is managed by Rolando Maran.</lex>
       <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
@@ -72,7 +72,7 @@
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.S. Gubbio 1910 has 5300 members.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S. Gubbio has 5300 members.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S. Gubbio 1910 has 5300 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
