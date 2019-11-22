@@ -35,7 +35,7 @@
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Breaz Valer Daniel is the rector of the 1 Decembrie 1918 University in the city of Alba Iulia.</lex>
-      <lex comment="good" lid="Id2" error_1="Alba Iulia">The 1 Decembrie 1918 University is situated in the city of Alba Iulia and the rector is Breaz Valer Daniel.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is situated in the city of Alba Iulia and the rector is Breaz Valer Daniel.</lex>
     </entry>
     <entry category="University" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -137,7 +137,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Mario Botta is dean of the Accademia di Architettura di Mendrisio where there is an academic staff of 100.</lex>
-      <lex comment="good" lid="Id2" error_1="Mario Botta">The Dean of Accademia di Architettura di Mendrisio is Mario Botta and the school has an academic staff size of 100 people.</lex>
+      <lex comment="good" lid="Id2">The Dean of Accademia di Architettura di Mendrisio is Mario Botta and the school has an academic staff size of 100 people.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio has an academic staff of 100 and the dean is called Mario Botta.</lex>
     </entry>
     <entry category="University" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -278,7 +278,7 @@
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alba Iulia is a part of Alba County and is the location of the 1 Decembrie 1918 University.</lex>
-      <lex comment="good" lid="Id2" error_1="Alba Iulia">1 Decembrie 1918 University is located in Alba Iulia which is part of Alba County.</lex>
+      <lex comment="good" lid="Id2">1 Decembrie 1918 University is located in Alba Iulia which is part of Alba County.</lex>
     </entry>
     <entry category="University" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
