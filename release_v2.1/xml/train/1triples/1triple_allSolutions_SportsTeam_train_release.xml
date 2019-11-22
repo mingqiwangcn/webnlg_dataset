@@ -390,7 +390,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AE Dimitra Efxeinoupolis has 1500 members.</lex>
-      <lex comment="good" lid="Id2">A.E. Dimitra Efxeinoupolis has 1500 members.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id40" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -517,7 +517,7 @@
         <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.F.C. Fylde is a member of the National League North.</lex>
-      <lex comment="good" lid="Id2">Fylde played in the National League North league.</lex>
+      <lex comment="good" lid="Id2" error_1="A.F.C. Fylde">Fylde played in the National League North league.</lex>
       <lex comment="good" lid="Id3">A.F.C. Fylde play in National League North.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
@@ -540,7 +540,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Fylde has 3180 members.</lex>
       <lex comment="good" lid="Id2">A.F.C. Fylde has 3180 members.</lex>
-      <lex comment="good" lid="Id3">A.F.C Fylde has 3180 members.</lex>
+      <lex comment="good" lid="Id3" error_1="A.F.C. Fylde">A.F.C Fylde has 3180 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

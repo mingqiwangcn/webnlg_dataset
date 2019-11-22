@@ -410,7 +410,7 @@
         <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Associazione Calcio Chievo Verona S.r.l., or shortly A.C. Chievo Verona, is at the ground Verona and has 39371 members.</lex>
+      <lex comment="good" lid="Id1" error_1="Associazione Calcio ChievoVerona S.r.l.">Associazione Calcio Chievo Verona S.r.l., or shortly A.C. Chievo Verona, is at the ground Verona and has 39371 members.</lex>
       <lex comment="good" lid="Id2">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." and play at their ground in Verona where they have 39371 members.</lex>
       <lex comment="good" lid="Id3">The full name of AC Chievo Verona, which has 39371 members and plays in Verona, is "Associazione Calcio ChievoVerona S.r.l."</lex>
     </entry>
@@ -445,8 +445,8 @@
         <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
         <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Calcio Catania">Associazione Calcio Chievo Verona is managed by Rolando Maran, who is a member of the Calcio Catania and plays at the Carrarese Calcio.</lex>
-      <lex comment="good" lid="Id2" error_1="Calcio Catania">Rolando Maran has managed AC Chievo Verona and is a member of the Calcio Catania. He currently plays at the Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id1">Associazione Calcio Chievo Verona is managed by Rolando Maran, who is a member of the Calcio Catania and plays at the Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id2">Rolando Maran has managed AC Chievo Verona and is a member of the Calcio Catania. He currently plays at the Carrarese Calcio.</lex>
       <lex comment="good" lid="Id3">Rolando Maran is attached to the club Calcio Catania, plays at Carrarese Calcio and is manager of A.C. Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -844,7 +844,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, capital of which is Athens and the leader is Nikos Voutsis.</lex>
-      <lex comment="good" lid="Id3" error_1="Nikos Voutsis">Greece, led by Nikos Voutisis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis" error_2="Nikos Voutsis">Greece, led by Nikos Voutisis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -874,7 +874,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece where the leader is Alexis Tsipras and the capital city is Athens.</lex>
       <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis is located in Greece, the capital of which is Athens and the country is headed by Alexis Tsipras.</lex>
-      <lex comment="good" lid="Id3">Athens is Greece's capital (led by Alexis Tsipras). Greece is the location of A.E. Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis">Athens is Greece's capital (led by Alexis Tsipras). Greece is the location of A.E. Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id53" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1227,7 +1227,7 @@
         <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde".</lex>
+      <lex comment="good" lid="Id1" error_1="A.F.C. Fylde">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde".</lex>
       <lex comment="good" lid="Id2">The full name of the A.F.C. Fylde is "Association Football Club Fylde," they have 3180 members and their ground is Kellamergh Park.</lex>
       <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", its grounds are Kellamergh Park and it has 3180 members.</lex>
     </entry>
@@ -1319,7 +1319,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Association Football Club Fylde (abbreviated to AFC Fylde) has 3180 members and its ground is in Lancashire.</lex>
       <lex comment="good" lid="Id2">AFC Fylde has the full name "Association Football Club Fylde", its ground can be found in the county of Lancashire and it has 3180 members.</lex>
-      <lex comment="good" lid="Id3">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is in Lancashire.</lex>
+      <lex comment="good" lid="Id3" error_1="A.F.C. Fylde">Association Football Club Fylde, abbreviated to A.F.C Fylde, has 3180 members and its ground is in Lancashire.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id79" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2493,7 +2493,7 @@
         <mtriple>Italy | capital | Rome</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Italy is where Italian people live, Rome is the capital and the ground of A.S. Gubbio 1910 can be found there.</lex>
+      <lex comment="good" lid="Id1" error_1="Italians">Italy is where Italian people live, Rome is the capital and the ground of A.S. Gubbio 1910 can be found there.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where the people are known as Italians and the capital city is Rome.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and its people called Italians.</lex>
     </entry>
@@ -2545,7 +2545,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, the country of Italians where the leader is Pietro Grasso.</lex>
-      <lex comment="good" lid="Id3">Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910.</lex>
+      <lex comment="good" lid="Id3" error_1="Italians">Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id152" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

@@ -142,7 +142,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="A.S. Livorno Calcio">A.S Livorno Calcio ground is in Livorno and the club plays in Serie B.</lex>
       <lex comment="good" lid="Id2">AS Livorno Calcio play in Serie B, and their grounds are in Livorno.</lex>
-      <lex comment="good" lid="Id3" error_1="A.S. Livorno Calcio">The AS Livorno Calcio club in Serie B plays in Livorno.</lex>
+      <lex comment="good" lid="Id3">The AS Livorno Calcio club in Serie B plays in Livorno.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id11" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -285,7 +285,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pietro Grasso is the leader in Italy where the ground of A.S. Gubbio 1910 is located.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader.</lex>
-      <lex comment="good" lid="Id3" error_1="A.S. Gubbio 1910">Pietro Grasso is the leader of Italy where the ground of A S Gubbio 1910 is located.</lex>
+      <lex comment="good" lid="Id3">Pietro Grasso is the leader of Italy where the ground of A S Gubbio 1910 is located.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

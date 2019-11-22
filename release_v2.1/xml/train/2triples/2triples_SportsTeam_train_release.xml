@@ -319,8 +319,8 @@
         <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">A.C. Chievo Verona has 39371 members and its home ground is Stadio Marc'Antonio Bentegodi.</lex>
-      <lex comment="good" lid="Id2" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi and they have 39371 members.</lex>
+      <lex comment="good" lid="Id1">A.C. Chievo Verona has 39371 members and its home ground is Stadio Marc'Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2">AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi and they have 39371 members.</lex>
       <lex comment="good" lid="Id3">With 39371 members, A.C. Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -414,7 +414,7 @@
         <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Previously owning club Varese Calcio S.S.D., Rolando Maran now manages club Associazione Calcio Chievo Verona.</lex>
-      <lex comment="good" lid="Id2" error_1="Rolando Maran">Rolando Maran manages A.C. Chievo Verona and is in Varese Calcio S.S.D. club.</lex>
+      <lex comment="good" lid="Id2">Rolando Maran manages A.C. Chievo Verona and is in Varese Calcio S.S.D. club.</lex>
       <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran who used to be at Varese Calcio S.S.D.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -773,7 +773,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Nikos Voutsis.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, and a Greek leader is Nikos Voutsis.</lex>
-      <lex comment="good" lid="Id3">A.E. Dimitra Efxeinoupolis is located in Greece where the leader is Nikos Voutsis.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis is located in Greece where the leader is Nikos Voutsis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id55" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -807,7 +807,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AE Dimitra Efxeinoupolis has 1500 members and its ground is located in the town of Efxeinoupoli.</lex>
       <lex comment="good" lid="Id2">A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli and has 1500 members.</lex>
-      <lex comment="good" lid="Id3">A.E. Dimitra Efxeinoupolis has 1500 members and its ground is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members and its ground is located in the town of Efxeinoupoli.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id57" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -822,8 +822,8 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
         <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A.E. Dimitra Efxeinoupolis has 1500 members and played in season 2015.</lex>
-      <lex comment="good" lid="Id2">A.E. Dimitra Efxeinoupolis has 1500 members and they were in the 2014 season.</lex>
+      <lex comment="good" lid="Id1" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members and played in season 2015.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members and they were in the 2014 season.</lex>
       <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis participated in the 2014 season. It has 1500 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id58" shape="(X (X) (X))" shape_type="sibling" size="2">

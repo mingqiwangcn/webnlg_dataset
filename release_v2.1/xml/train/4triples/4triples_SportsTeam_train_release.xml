@@ -360,7 +360,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Calcio Catania">Rolando Maran (born in Italy) is manager of AC Chievo Verona and has played for Calcio Cantania and Carrarese Calcio.</lex>
       <lex comment="good" lid="Id2">Born in Italy, Rolando Maran is attached to the club Calcio Catania. He also has managed AC Chievo Verona, and plays for Carrarese Calcio.</lex>
-      <lex comment="good" lid="Id3" error_1="Calcio Catania" error_2="Italy">Rolando Maran (Italian) is a member of the Calcio Catania. He plays for Carrarese Calcio and is the manager of Calcio Chievo Verona.</lex>
+      <lex comment="good" lid="Id3" error_1="Italy">Rolando Maran (Italian) is a member of the Calcio Catania. He plays for Carrarese Calcio and is the manager of Calcio Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -749,7 +749,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, where Athens in the capital and Nikos Voutsis and Prokopis Pavlopoulos are leaders.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece. Greece's capital is Athens and their leaders are Nikos Voutsis and Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id3" error_1="Nikos Voutsis">A.E. Dimitra Efxeinoupolis is located in Greece where Athens is the capital and both Prokopis Pavlopoulos and Nikos Voutis are leaders.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis" error_2="Nikos Voutsis">A.E. Dimitra Efxeinoupolis is located in Greece where Athens is the capital and both Prokopis Pavlopoulos and Nikos Voutis are leaders.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -782,7 +782,7 @@
         <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Nikos Voutsis is the leader of greece where the currency is the Euro and the capital city is Athens. The country is the location of A.E Dimitra Efxeinoupolis.</lex>
-      <lex comment="good" lid="Id2">The A.E. Dimitra Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">The A.E. Dimitra Efxeinoupolis club is located in Greece where the Euro is the currency, Athens is the capital and Nikos Voutsis is the leader.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -910,7 +910,7 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli and has a capacity of 1500. The team played in the 2014 season and their full name is "A.E Dimitra Efxeinoupolis".</lex>
-      <lex comment="good" lid="Id2">A.E. Dimitra Efxeinoupolis has 1500 members, played in the 2014 season and are located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id2" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members, played in the 2014 season and are located in the town of Efxeinoupoli.</lex>
       <lex comment="good" lid="Id3">A.E Dimitra Efxeinoupolis has the full name A.E Dimitra Efxeinoupolis. It is located in the town of Efxeinoupoli, played in the 2014 season and has 1500 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id50" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1194,7 +1194,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dave Challinor is at Colwyn Bay FC and is affiliated with Tranmere Rovers FC. He plays at Stockport County FC and manages AFC Fylde.</lex>
       <lex comment="good" lid="Id2">The manager of AFC Fylde is Dave Challinor who is at Colwyn Bay FC and plays for both Tranmere Rovers and Stockport County FC.</lex>
-      <lex comment="good" lid="Id3" error_1="Colwyn Bay F.C.">Dave Challinor (player of Colwyn Bay club) plays for Tranmere Rovers F.C. at Stockport County F.C. and also manages A.F.C Fylde.</lex>
+      <lex comment="good" lid="Id3" error_1="A.F.C. Fylde" error_2="Colwyn Bay F.C.">Dave Challinor (player of Colwyn Bay club) plays for Tranmere Rovers F.C. at Stockport County F.C. and also manages A.F.C Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id65" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2275,7 +2275,7 @@
         <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Sergio Mattarella leads the Italian people, inhabitants of Italy. The capital city is Rome and the ground of AS Gubbio 1910 is also located in the country.</lex>
+      <lex comment="good" lid="Id1" error_1="Italians">Sergio Mattarella leads the Italian people, inhabitants of Italy. The capital city is Rome and the ground of AS Gubbio 1910 is also located in the country.</lex>
       <lex comment="good" lid="Id2">A.S. Gubbio 1910 is located in Italy which is led by Sergio Mattarella in the capital city of Rome. The inhabitants of Italy are called Italians.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, which is inhabited by Italians, its capital is Rome and its leader is Sergio Mattarella.</lex>
     </entry>
