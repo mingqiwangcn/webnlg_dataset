@@ -187,7 +187,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">There are 600 students at the Accademia di Architettura di Mendrisio.</lex>
-      <lex comment="good" lid="Id2" error_1="600">Six hundred students attend the Accademia di Architettura di Mendriso.</lex>
+      <lex comment="good" lid="Id2" error_1="600">Six hundred students attend the Accademia di Architettura di Mendrisio.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio has 600 students.</lex>
       <lex comment="good" lid="Id4">Accademia di Architettura di Mendrisio has 600 students enrolled.</lex>
       <lex comment="good" lid="Id5">There are 600 students attending the Accademia di Architettura di Mendrisio.</lex>
@@ -621,12 +621,12 @@
       <modifiedtripleset>
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Johann Schneider Ammann is the leader of Switzerland.</lex>
+      <lex comment="good" lid="Id1">Johann Schneider-Ammann is the leader of Switzerland.</lex>
       <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland.</lex>
       <lex comment="good" lid="Id3">The leader of Switzerland is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id4">Switzerland has a leader called Johann Schneider Ammann.</lex>
-      <lex comment="good" lid="Id5">Johann Schneider Ammann is the name of the leader of Switzerland.</lex>
-      <lex comment="good" lid="Id6">The leader of Switzerland is Johann 'Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id4">Switzerland has a leader called Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id5">Johann Schneider-Ammann is the name of the leader of Switzerland.</lex>
+      <lex comment="good" lid="Id6">The leader of Switzerland is Johann Schneider-Ammann.</lex>
     </entry>
     <entry category="University" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

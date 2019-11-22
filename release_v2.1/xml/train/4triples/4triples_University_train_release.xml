@@ -67,7 +67,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AWH Engineering College is located in Kuttikkattoor, Kerala and it has 250 academic staff. Kerala has Mahe, India to its northwest.</lex>
       <lex comment="good" lid="Id2">Mahe, India is northwest of Kerala state where the AWH Engineering College with an academic staff of 250 is situated in the city of Kuttikkattoor.</lex>
-      <lex comment="good" lid="Id3">AWH Engineering College is located in Kuttikkattoor city, Kerala state. This state has to its northwest Mahe India. The staff size of the AWH Engineering College is 250.</lex>
+      <lex comment="good" lid="Id3">AWH Engineering College is located in Kuttikkattoor city, Kerala state. This state has to its northwest Mahe, India. The staff size of the AWH Engineering College is 250.</lex>
     </entry>
     <entry category="University" eid="Id5" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -378,8 +378,8 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architetttura di Mendrisio is located in Mendrisio, Switzerland. The Swiss leader is Johann Schneider-Ammann and its anthem is the Swiss Psalm.</lex>
-      <lex comment="good" lid="Id2">The leader of Switzerland, which has the Swiss Psalm as its national anthem, is Johan Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in the city of Mendrisio.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. The Swiss leader is Johann Schneider-Ammann and its anthem is the Swiss Psalm.</lex>
+      <lex comment="good" lid="Id2">The leader of Switzerland, which has the Swiss Psalm as its national anthem, is Johann Schneider-Ammann. The country is the location of the Accademia di Architettura di Mendrisio in the city of Mendrisio.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is located in the Swiss city of Mendrisio. Switzerland's leader is Johann Schneider-Ammann and their national anthem is the Swiss Psalm.</lex>
     </entry>
     <entry category="University" eid="Id23" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -457,7 +457,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architetturia di Mendrisio is located in Mendrisio. It has 100 academic staff and 600 students. Its dean is Mario Botta.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio. It has 100 academic staff and 600 students. Its dean is Mario Botta.</lex>
       <lex comment="good" lid="Id2">The city of Mendrisio is the location of the Accademia di Architettura di Mendrisio which is led by Dean Mario Botta. There are 600 students and an academic staff of 100.</lex>
       <lex comment="good" lid="Id3">The dean of the Accademia di Architettura di Mendrisio is Mario Botta, it has a staff compliment of 100 and 600 students.</lex>
     </entry>
@@ -671,7 +671,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology was established in 2000 and is located in the state of Karnataka. The complete address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore India 560090.</lex>
-      <lex comment="good" lid="Id2">The Acharya Institute of Technology was founded in the year 2000. The campus address is Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090. The city of Bangalore is in the state of Karnataka in India.</lex>
+      <lex comment="good" lid="Id2">The Acharya Institute of Technology was founded in the year 2000. The campus address is Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090. The city of Bangalore is in the state of Karnataka in India.</lex>
     </entry>
     <entry category="University" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

@@ -178,7 +178,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accadmia di Architettura di Mendrisio in Switzerland was established in 1996. It dean is Mario Botta. It has 100 academic staff and 600 students.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996. It dean is Mario Botta. It has 100 academic staff and 600 students.</lex>
       <lex comment="good" lid="Id2">The Dean of The Accademia di Architettura di Mendrisio located in Switzerland is Mario Botta. The Accademia was established in 1996 and has 600 students and 100 academic staff.</lex>
     </entry>
     <entry category="University" eid="Id10" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -198,7 +198,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio in Mendriso, Switzerland has 600 students and Mario Botta is its dean. The leader of the country is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio in Switzerland has a student population of 600. The dean is Mario Botta. The country's leader is named Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio, with 600 students, is located in Mendrisio, Switzerland. Mario Botta is the Dean of the Accademia. Johann Schneider Ammann is the Swiss leader.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio, with 600 students, is located in Mendrisio, Switzerland. Mario Botta is the Dean of the Accademia. Johann Schneider-Ammann is the Swiss leader.</lex>
     </entry>
     <entry category="University" eid="Id11" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -234,7 +234,7 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architetturia di Mendrisio in Switzerland was established in 1996. Switzerland's Federal Chancellor is Johann Schneider-Ammann and its legislature is the Federal Assembly.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996. Switzerland's Federal Chancellor is Johann Schneider-Ammann and its legislature is the Federal Assembly.</lex>
       <lex comment="good" lid="Id2">Johann Schneider-Ammann is the Federal Chancellor of Switzerland where the legislature is the Federal Assembly. The country is the location of the Accademia di Architettura di Mendrisio which was established in 1996.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland was established 1996. The country's leader is the Federal Chancellor Johann Schneider-Ammann who heads the Federal Assembly.</lex>
     </entry>
@@ -291,7 +291,7 @@
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio in Mendrisio, Switzerland has 600 students and was established in 1996. The leader of the country is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio, Switzerland and has 600 students. Johann Schneider Ammann is the leader of Switzerland.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio was established in 1996 in Mendrisio, Switzerland and has 600 students. Johann Schneider-Ammann is the leader of Switzerland.</lex>
     </entry>
     <entry category="University" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -316,7 +316,7 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Switzerland">The Swiss leader is Federal Chancellor Johann Schneider-Ammann. The municipality of Meride neighbours Mendrisio which is the location of the Accademia di Architettura di Mendrisio.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland, in the municipality of Meride. Johann Scneider Ammann is the Federal Chancellor of Switzerland.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland, in the municipality of Meride. Johann Schneider-Ammann is the Federal Chancellor of Switzerland.</lex>
     </entry>
     <entry category="University" eid="Id17" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -340,7 +340,7 @@
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
         <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accedemia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Mendrisio's neighbouring municipality is Meride. The leader of Switzerland is Johann Schneider-Ammann and its legislature is the Federal Assembly.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Mendrisio's neighbouring municipality is Meride. The leader of Switzerland is Johann Schneider-Ammann and its legislature is the Federal Assembly.</lex>
       <lex comment="good" lid="Id2" error_1="Switzerland">The Swiss legislature is the Federal Assembly and the leader of the country is Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in the city of Mendrisio which neighbours the municipality of Meride.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is neighboured by Meride in Switzerland. The country is led by Johann Schneider-Ammann and the Federal Assembly.</lex>
     </entry>
@@ -359,8 +359,8 @@
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. The country's leader is the Federal Chancellor and the national anthem is the Swiss Psalm.</lex>
-      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Johann Schneider Ammann is the Federal Chancellor of Switzerland and Swiss Psalm is the Swiss national anthem.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is in Mendrisio, in Switzerland. The country's leader is the Federal Chancellor and the national anthem is the Swiss Psalm. One of the Swiss leaders is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Johann Schneider-Ammann is the Federal Chancellor of Switzerland and Swiss Psalm is the Swiss national anthem.</lex>
       <lex comment="good" lid="Id3">Switzerland is a country which has Johann Schneider-Ammann as the Federal Chancellor and the national anthem is Swiss Psalm. Switzerland is also home to the Accademia de Architettura di Mendrisio which is located in the city of Mendrisio.</lex>
     </entry>
     <entry category="University" eid="Id19" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

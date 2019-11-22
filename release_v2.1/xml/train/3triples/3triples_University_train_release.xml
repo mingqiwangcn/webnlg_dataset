@@ -165,7 +165,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Accademia di Architettura in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio has 100 academic staff and is located in Switzerland where Johann Schneider-Ammann is the country's leader.</lex>
     </entry>
     <entry category="University" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -194,7 +194,7 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accadmia di Architettura di Mendrisio was established in Switzerland in 1996. It has 100 academic staff.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio was established in Switzerland in 1996. It has 100 academic staff.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 and has 100 academic staff.</lex>
       <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and has a staff of 100.</lex>
     </entry>
@@ -349,8 +349,8 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996. It has 100 staff and 600 students.</lex>
-      <lex comment="good" lid="Id2">In 1996 the Academia di Architettura di Mendrisio was established. There are 600 students and an academic staff of 100.</lex>
-      <lex comment="good" lid="Id3">The Accademia di Architettura, established 1996, has 600 students and 100 academic staff.</lex>
+      <lex comment="good" lid="Id2">In 1996 the Accademia di Architettura di Mendrisio was established. There are 600 students and an academic staff of 100.</lex>
+      <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio, established 1996, has 600 students and 100 academic staff.</lex>
     </entry>
     <entry category="University" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -465,7 +465,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarcapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, 560090, India. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1">The Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, 560090, India. It is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University and the campus is located in India at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
       <lex comment="good" lid="Id3">India's Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and the campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
     </entry>

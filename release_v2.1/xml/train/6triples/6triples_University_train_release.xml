@@ -132,7 +132,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Mendrisio, Switzerland was established in 1996. Its dean is Mario Botta. Switzerland's leader is Federal Chancellor Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Federal Chancellor Johann Schneider-Ammann is the leader of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio. The Accademia was established in 1996 and is overseen by Dean Mario Botta.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Mendriso, Switzerland was established in 1996. Its dean is Mario Botta. Switzerland is led by Federal Chancellor Johann Schneider Ammann.</lex>
+      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio in Mendriso, Switzerland was established in 1996. Its dean is Mario Botta. Switzerland is led by Federal Chancellor Johann Schneider-Ammann.</lex>
     </entry>
     <entry category="University" eid="Id7" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -180,7 +180,7 @@
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
         <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Accademia di Architetturia di Mendrisio in Switzerland was established in 1996. It has 100 academic staff and 600 students. Its dean is Mario Botta. The leader of Switzerland in Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996. It has 100 academic staff and 600 students. Its dean is Mario Botta. The leader of Switzerland in Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">There are 600 students an 100 academic staff at the Accademia di Architettura di Mendrisio which was established in 1996 in Switzerland. The Dean of the Accademia is Mario Botta but it is Johann Schneider-Ammann who leads the country.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and currently has 100 staff and 600 students. The dean of the academy is Mario Botta. The country's leader is Johann Schneider-Ammann.</lex>
     </entry>
@@ -344,7 +344,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Ticino, Switzerland. It has 600 students and it was established in 1996. Switzerland's leader is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland which is the location of the Accademia di Architettura di Mendrisio in the city of Mendrisio, Ticino. There are 600 students at the Accademia which was established in 1996.</lex>
-      <lex comment="good" lid="Id3">Switzerland with the governor Johann Schneider- Ammann is also home to the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio in the Ticino region. It was founded in 1996 and has 600 students.</lex>
+      <lex comment="good" lid="Id3">Switzerland with the governor Johann Schneider-Ammann is also home to the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio in the Ticino region. It was founded in 1996 and has 600 students.</lex>
     </entry>
     <entry category="University" eid="Id16" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -372,8 +372,8 @@
         <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio in Ticino, Switzerland was established in 1996. It has 100 academic staff and 600 students. The leader of Switzerland is Johann Schneider-Ammann.</lex>
-      <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland where the Accademia di Architettura which was established in 1996 is located in Ticino. The Accademiz has 600 students and 100 academic staff.</lex>
-      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is located in Ticino, Switzerland (which leader is Johann Schneider-Ammann) . It was established in 1996 and has 600 students and 100 academic staff.</lex>
+      <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland where the Accademia di Architettura di Mendrisio which was established in 1996 is located. It is situated in Ticino. The Accademia has 600 students and 100 academic staff.</lex>
+      <lex comment="good" lid="Id3">Accademia di Architettura di Mendrisio is located in Ticino, Switzerland (which leader is Johann Schneider-Ammann). It was established in 1996 and has 600 students and 100 academic staff.</lex>
     </entry>
     <entry category="University" eid="Id17" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1435,7 +1435,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="India">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090, Undia. Its director is Dr G.P. Prabhukumar. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="good" lid="Id1" error_1="India">The Acharya Institute of Technology's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, Karnataka, 560090, India. Its director is Dr G.P. Prabhukumar. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id2">The Acharya Institute of Technology in the state of Karnataka, India is affiliated to the Visvesvaraya Technological University based in the city of Belgaum. The Director is Dr G P Prabhukumar and the campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the state of Karnataka in the country India. Its director is Dr. G.P. Prabhukumar and it has strong connections with the Visvesvaraya Technological University which is in the city of Belgaum. The exact location of the Acharya Institute of Technology is "in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090".</lex>
     </entry>
