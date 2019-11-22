@@ -47,7 +47,7 @@
         <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
         <mtriple>India | river | Ganges</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kuttikkattoor">The AWH Engineering College in Kuttikkattor, Kerala, India was established in 2001 and it has 250 academic staff. The Ganges is a river in India.</lex>
+      <lex comment="good" lid="Id1" error_1="Kuttikkattoor">The AWH Engineering College in Kuttikkattoor, Kerala, India was established in 2001 and it has 250 academic staff. The Ganges is a river in India.</lex>
       <lex comment="good" lid="Id2">The River Ganges runs through India in which country the AWH Engineering College is located in the city of Kuttikkattoor in the state of Kerala. The College was established in 2001 and has 250 academic staff.</lex>
       <lex comment="good" lid="Id3">Established in 2001, the AWH Engineering College in Kuttikkattoor, Kerala India currently has 250 staff. A famous river in the country is the Ganges.</lex>
     </entry>
@@ -493,7 +493,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, Karnataka is affiliated to the Visvesvaraya Technological University. It was given the "Technical Campus" status by the All India Council for Technical Education (located in Mumbai). Karnataka has Telangana to its northeast.</lex>
       <lex comment="good" lid="Id2">The city of Bangalore in the state of Karnataka, India which lies southwest of Telangana is the location of the Acharya Institute of Technology affiliated to the Visvesvaraya Technological University. The Institute was given Technical Campus status by the All India Council for Technical Education based in Mumbai.</lex>
-      <lex comment="good" lid="Id3" error_1="Acharya Institute of Technology">The Acharya Institute of Technolgoy is located in the state of Karnataka which is positioned with Telangana to the northeast. The Institute is in the city of Bangalore and has strong connections with the Visvesvaraya Technological University. Along with these connections the Institute was also given the 'Technical Campus' status by the All India Council for Technical Education which is based in Mumbai.</lex>
+      <lex comment="good" lid="Id3" error_1="Acharya Institute of Technology">The Acharya Institute of Technology is located in the state of Karnataka which is positioned with Telangana to the northeast. The Institute is in the city of Bangalore and has strong connections with the Visvesvaraya Technological University. Along with these connections the Institute was also given the 'Technical Campus' status by the All India Council for Technical Education which is based in Mumbai.</lex>
     </entry>
     <entry category="University" eid="Id22" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -512,9 +512,9 @@
         <mtriple>Karnataka | has to its west | Arabian_Sea</mtriple>
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Belgaum">Acharya Institute of Technology, which is in the state of Karnataka, is affiliated with Visvesvaraya Technological University in Belgium. The school was given its Technical Campus status by the All India Council for Technical Education in Mumbai. To the west of Karnataka is the Arabian Sea.</lex>
-      <lex comment="good" lid="Id2" error_1="Mumbai">Acharya Institute of Technology, in Karnataka, an affiliation of Visvesvaraya Technological University in Belgaum, was given the 'Technical Campus' status by All India Council for Technical Education. Acharya Institute is in Karnataka, which is east of the Arabian Sea.</lex>
-      <lex comment="good" lid="Id3" error_1="Belgaum">The Acharya Institute of Technology in Karnataka was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai and it is affiliated with the Visvesvaraya Technological University. Karnataka is east of the Arabian Sea.</lex>
+      <lex comment="good" lid="Id1" error_1="Belgaum">Acharya Institute of Technology, which is in the state of Karnataka, is affiliated with Visvesvaraya Technological University in Belgaum. The school was given its Technical Campus status by the All India Council for Technical Education in Mumbai. To the west of Karnataka is the Arabian Sea.</lex>
+      <lex comment="good" lid="Id2" error_1="Mumbai">Acharya Institute of Technology, in Karnataka, an affiliate of Visvesvaraya Technological University in Belgaum, was given the 'Technical Campus' status by All India Council for Technical Education, situated in Mumbai. Acharya Institute is in Karnataka, which is east of the Arabian Sea.</lex>
+      <lex comment="good" lid="Id3" error_1="Belgaum">The Acharya Institute of Technology in Karnataka was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai and it is affiliated with the Visvesvaraya Technological University in Belgaum. Karnataka is east of the Arabian Sea.</lex>
     </entry>
     <entry category="University" eid="Id23" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -553,7 +553,7 @@
         <mtriple>Acharya_Institute_of_Technology | campus | "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090."</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="700" error_2="700">Acharya Institute of Technology is located at campus In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 in Bangalore, India. Its director is Dr. G. P. Prabhukumar and the affiliation is Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" error_1="700" error_2="700">Acharya Institute of Technology is located at campus In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090 in Bangalore, India. Its director is Dr. G. P. Prabhukumar and its affiliation is Visvesvaraya Technological University. The Institute has 700 postgraduate students.</lex>
     </entry>
     <entry category="University" eid="Id25" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -656,7 +656,7 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology in Bangalore, India is affiliated with Visvesvaraya Technological University. The school has 700 post graduate students and its motto is Nurturing Excellence. Its full address is In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
-      <lex comment="good" lid="Id2" error_1="700" error_2="700">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The institute's motto is "Nurturing Excellence" and it is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" error_1="700" error_2="700">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090, India. The institute's motto is "Nurturing Excellence" and it is affiliated with the Visvesvaraya Technological University. The institute has 700 postgraduate students.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is located in the city of Bangalore in the country India. The institute has 700 postgraduate students and connections to the Visvesvaraya Technological University. The motto of the institute is "Nurturing Excellence" and the exact location is "In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
     </entry>
     <entry category="University" eid="Id30" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -759,7 +759,7 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Established in 2000 and currently with 700 post-graduate students, the Acharya Institute of Technology is in Bangalore, India. The institute's president is B.M. Reddy and it is affiliated with the Visvesvaraya Technological University.</lex>
-      <lex comment="good" lid="Id2" error_1="Visvesvaraya Technological University">The Acharya Institute of Technology was founded in 2000 in the city of Bangalore in India. The institute has 700 postgraduate students and the president is B.M. Reddy. It also has strong connections with the Technological University.</lex>
+      <lex comment="good" lid="Id2" error_1="Visvesvaraya Technological University">The Acharya Institute of Technology was founded in 2000 in the city of Bangalore in India. The institute has 700 postgraduate students and the president is B.M. Reddy. It also has strong connections with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology is located in Bangalore, India. It was established in 2000 and his president is B.M. Reddy. its affiliation is Visvesvaraya Technological University and it has 700 of postgraduate students.</lex>
     </entry>
     <entry category="University" eid="Id35" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -870,9 +870,9 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mumbai">The Acharya Institute of Technology which is in Bangalore in the state of Karnataka, got its Technical Campus status from the All India Council for Technical Education in Mumbia. The institute is affiliated with Visvesvaraya Technological University. The Arabian Sea is west of the state.</lex>
-      <lex comment="good" lid="Id2" error_1="Visvesvaraya Technological University">Acharya Institute of Technology in Bangalore, Karnataka, east of the Arabian Sea, was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai.</lex>
-      <lex comment="good" lid="Id3" error_1="Arabian Sea">The Acharya Institute of Technology in Bangalore, Karnataka was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai, and it is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" error_1="Mumbai">The Acharya Institute of Technology which is in Bangalore in the state of Karnataka, got its Technical Campus status from the All India Council for Technical Education in Mumbai. The institute is affiliated with Visvesvaraya Technological University. The Arabian Sea is west of the state.</lex>
+      <lex comment="good" lid="Id2" error_1="Visvesvaraya Technological University">Acharya Institute of Technology in Bangalore, Karnataka, east of the Arabian Sea, was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai. The Institute is an affiliate of the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3" error_1="Arabian Sea">The Acharya Institute of Technology in Bangalore, Karnataka was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai, and it is affiliated with the Visvesvaraya Technological University. Karnataka has the Arabian Sea to its west.</lex>
     </entry>
     <entry category="University" eid="Id40" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -892,7 +892,7 @@
         <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acharya Institute of Technology is located in Karnataka (which has Telangana to its northeast). It was given the "Technical Campus" status by the All India Council for Technical Education (located in Mumbai). The institute's offered sport is Tennis; the governing body for tennis is the International Tennis Federation.</lex>
-      <lex comment="good" lid="Id2" error_1="Telangana">The All India Council for Technical Education in Mumbai granted Technical Campus status to the Acharya Institute of Technology in the state of Karnataka southwest of Telengana. One of the sports offered at the Institute is tennis which is governed by the International Tennis Federation.</lex>
+      <lex comment="good" lid="Id2" error_1="Telangana">The All India Council for Technical Education in Mumbai granted Technical Campus status to the Acharya Institute of Technology in the state of Karnataka southwest of Telangana. One of the sports offered at the Institute is tennis which is governed by the International Tennis Federation.</lex>
       <lex comment="good" lid="Id3">Acharya Institute of Technology is located in Karnataka state, that has to its northeast Telangana. The institute was given the 'Technical Campus' status by all India Council for Technical Education, that is located in Mumbai. Tennis is a sport Governing body International Tennis Federation and is one of the sports offered by Acharya Institute of Technology.</lex>
     </entry>
     <entry category="University" eid="Id41" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -913,7 +913,7 @@
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acharya Institute of Technology in the state of Karnataka, is affiliated with Visvesvaraya Technological University. The school was given Technical Campus' status by All India Council for Technical Education. While the All India Council for Technical Education is in Mumbai, Visvesvaraya Technological University is in Belgaum and Acharya Institute of Technology is in the state of Karnataka which has Telangana to its northeast.</lex>
-      <lex comment="good" lid="Id2" error_1="Acharya Institute of Technology" error_2="Karnataka">The Alcharya Institute of Technology in Karanataka, located to the northeast of Telangana, was given Technical Campus status by the All India Council for Technical Education in Mumbai. The Alcharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="good" lid="Id2" error_1="Acharya Institute of Technology" error_2="Karnataka">The Acharya Institute of Technology in Karnataka, located to the northeast of Telangana, was given Technical Campus status by the All India Council for Technical Education in Mumbai. The Alcharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology in Karnataka, southwest of Telangana, was given the 'Technical Campus' status by the All India Council for Technical Education in Mumbai and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
     </entry>
     <entry category="University" eid="Id42" shape="(X (X (X)) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -1055,7 +1055,7 @@
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1 Decembrie 1918 University is in Alba Iulia which is part of Alba County in Romania. Romania's capital is Bucharest and its ethnic group is the Germans of Romania. The country is led by Klaus Iohannis.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Iulia (part of Alba County), Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country is largely Germanic.</lex>
+      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Iulia (part of Alba County), Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has the Germanic population.</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in the city of Alba Iulia which is part of Alba County, Romania. The capital of Romania is Bucharest and the country's leader is Klaus Iohannis. One of the ethnic groups here are the Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id48" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -1105,7 +1105,7 @@
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Romania's ethnic group is the Germans of Romania and the country is led by Klaus Iohannis. 1 Decembrie 1918 University is located in Romania which has Bucharest as its capital. The Latin name for the school is Universitas Apulensis and it can be found in the state of Alba.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Romania has the latin name Universitas Apulensis. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country is largely Germanic.</lex>
+      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Romania has the latin name Universitas Apulensis. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has also Germans in the population.</lex>
       <lex comment="good" lid="Id3">The 1 Decembrie 1918 University (Latin name Universitas Apulensis) is found in the state of Alba, Romania. This country has Bucharest as its capital and the country's leader is Klaus Iohannis. Romania has an ethnic group called Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id50" shape="(X (X (X (X) (X) (X) (X))))" shape_type="mixed" size="6">
@@ -1127,7 +1127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba Iulia, Romania. Romania's capital is Bucharest, its leader is Prime Minister Klaus Iohannis, and its ethnic group is Germans of Romania.</lex>
       <lex comment="good" lid="Id2">Prime Minister Klaus Iohannis is the leader of Romania which is home to various ethnic groups including the Germans of Romania. The 1 Decembrie 1918 University if located in the city of Alba Iulia, while the capital city is Bucharest.</lex>
-      <lex comment="good" lid="Id3" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country is largely Germanic.</lex>
+      <lex comment="good" lid="Id3" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has also Germans living in it.</lex>
     </entry>
     <entry category="University" eid="Id51" shape="(X (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1171,7 +1171,7 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Germans of Romania are the ethnic group of the country which is led by Prime Minister Klaus Iohannisas and has Bucharest as its capital. 1 Decembrie 1918 University is also in Romania and the country's anthem is Deșteaptă-te, române.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country is largely Germanic and the national anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has Germanic population and the national anthem is Deșteaptă-te, române!</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is in the country of Romania, the capital of which is Bucharest. Romania's leader (who has the title Prime Minister) is Klaus Iohannis. The national anthem of Romania is Deșteaptă-te, române! and the country has an ethnic group called Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id52" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
@@ -1200,7 +1200,7 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and it is affiliated to the European University Association. It has 737 academic staff and 16,000 students. Its dean is Thomas Pallesen.</lex>
-      <lex comment="good" lid="Id2" error_1="European University Association">Thomas Pallesen is Dean at the School of Business and Social Sciences at the Aarhus University in Denmark. The school was established in 1928 and has 737 academic staff members and 16000 students.</lex>
+      <lex comment="good" lid="Id2" error_1="European University Association">Thomas Pallesen is Dean at the School of Business and Social Sciences at the Aarhus University in Denmark. The school was established in 1928 and has 737 academic staff members and 16000 students. It is a member of the European University Association.</lex>
       <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University was founded in 1928 in Denmark. It has strong connections with the European University Association and currently has 737 members of staff and 16000 students. The dean of the University is Thomas Pallesen.</lex>
     </entry>
     <entry category="University" eid="Id53" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
@@ -1414,8 +1414,8 @@
         <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
         <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="European University Association">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It has 737 academic staff and 16,000 students. Its Latin name is "Universitas Aarhusiensis".</lex>
-      <lex comment="good" lid="Id2" error_1="Universitas Aarhusiensis">There are 16000 students and 737 academic staff at the School of Business and Social Sciences at the Aarhus University in Denmark. The School was established in 1928 and is affiliated with the European University Association and has the Latin name of "Universitas Aarhuensis".</lex>
+      <lex comment="good" lid="Id1" error_1="European University Association">The School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928. It has 737 academic staff and 16,000 students. Its Latin name is "Universitas Aarhusiensis". The School is an affiliate of the European University Association.</lex>
+      <lex comment="good" lid="Id2" error_1="Universitas Aarhusiensis">There are 16000 students and 737 academic staff at the School of Business and Social Sciences at the Aarhus University in Denmark. The School was established in 1928 and is affiliated with the European University Association and has the Latin name of "Universitas Aarhusiensis".</lex>
       <lex comment="good" lid="Id3">Established in 1928 the School of Business and Social Sciences at the Aarhus University in Denmark is affiliated with the European University Association. The university has a staff compliment of 737 and 16000 students and its latin name is Universitas Aarhusiensis.</lex>
     </entry>
     <entry category="University" eid="Id61" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">

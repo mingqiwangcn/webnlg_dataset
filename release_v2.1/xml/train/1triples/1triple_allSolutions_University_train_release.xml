@@ -213,7 +213,7 @@
       <modifiedtripleset>
         <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Visvesvaraya Technological University">The Acharya Institute of Technology is affiliated with Visvesvaraya Technologial University.</lex>
+      <lex comment="good" lid="Id1" error_1="Visvesvaraya Technological University">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id2">Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id3">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.</lex>
       <lex comment="good" lid="Id4">Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.</lex>
@@ -398,7 +398,7 @@
         <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Kempe Gowda I founded Bangalore.</lex>
-      <lex comment="good" lid="Id2" error_1="Kempe Gowda I">The founder of Bangalore was Kempe Gowda.</lex>
+      <lex comment="good" lid="Id2" error_1="Kempe Gowda I">The founder of Bangalore was Kempe Gowda I.</lex>
       <lex comment="good" lid="Id3">Kempe Gowda I was the founder of Bangalore.</lex>
     </entry>
     <entry category="University" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
@@ -510,7 +510,7 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The anthem of Romania is called Desteapta te romane.</lex>
-      <lex comment="good" lid="Id2" error_1="Romania">Desteapta te, romane is the Romanan anthem.</lex>
+      <lex comment="good" lid="Id2" error_1="Romania">Desteapta te, romane is the Romanian anthem.</lex>
       <lex comment="good" lid="Id3">The national anthem of Romania is Desteapta-te, romane!</lex>
     </entry>
     <entry category="University" eid="Id46" shape="(X (X))" shape_type="NA" size="1">

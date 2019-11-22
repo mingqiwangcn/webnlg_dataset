@@ -56,7 +56,7 @@
         <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
         <mtriple>Tennis | sportsGoverningBody | International_Tennis_Federation</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Acharya Institute of Technology">The Acharya Insitute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.</lex>
+      <lex comment="good" lid="Id1" error_1="Acharya Institute of Technology">The Acharya Institute of Technology offers tennis and it was established in 2000. The tennis governing body is the International Tennis Federation.</lex>
       <lex comment="good" lid="Id2">The International Tennis Federation is the governing body for the sport which is offered at the Acharya Institute of Technology which was established in 2000.</lex>
     </entry>
     <entry category="University" eid="Id5" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -89,7 +89,7 @@
         <mtriple>Romania | leaderName | Klaus_Iohannis</mtriple>
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Klaus Iohannis">The leader of Romania is Prime Minister Klaus Lohannis. The 1 Decembrie 1918 University is in Romania.</lex>
+      <lex comment="good" lid="Id1" error_1="Klaus Iohannis">The leader of Romania is Prime Minister Klaus Iohannis. The 1 Decembrie 1918 University is in Romania.</lex>
       <lex comment="good" lid="Id2">The Prime Minister of Romania is Klaus Iohannis. The 1 Decembrie 1918 University is situated in Romania.</lex>
       <lex comment="good" lid="Id3" error_1="Prime Minister of Romania">1 Decembrie 1918 University is located in Romania. The country's Prime Minister is Klaus Iohannis.</lex>
     </entry>
