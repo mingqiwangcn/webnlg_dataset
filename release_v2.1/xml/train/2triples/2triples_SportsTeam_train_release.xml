@@ -10,7 +10,7 @@
         <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
         <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Peter Stoger">Pete Stoger is manager of 1. FC Koln and plays for the Austria national football team.</lex>
+      <lex comment="good" lid="Id1" error_1="Peter Stoger">Peter Stoger is manager of 1. FC Koln and plays for the Austria national football team.</lex>
       <lex comment="good" lid="Id2">Peter Stoger is the manager of FC Koln and plays for the Austria national football team.</lex>
       <lex comment="good" lid="Id3">Peter Stöger is manager of 1. FC Köln and plays for the Austria National Football team.</lex>
     </entry>
@@ -251,7 +251,7 @@
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Massimo Drago has been the manager of A C Cesena and plays for A.S.D. Licata 1931.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S.D. Licata 1931">Massimo Drago was at the club ASD Licita 1931 and has been manager of A C Cesena.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S.D. Licata 1931">Massimo Drago was at the club ASD Licata 1931 and has been manager of A C Cesena.</lex>
       <lex comment="good" lid="Id3">Massimo Drago manages A.C. Cesena and plays for A.S.D. Licata 1931.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -363,7 +363,7 @@
         <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran is attached to the club Calcio Catania, and has also managed AC Chievo Verona.</lex>
-      <lex comment="good" lid="Id2" error_1="Calcio Catania" error_2="Rolando Maran">Rolando Naran is a member of the Calio Cantania and is manager of A C Chievo Verona.</lex>
+      <lex comment="good" lid="Id2" error_1="Calcio Catania" error_2="Rolando Maran">Rolando Maran is a member of the Calcio Catania and is manager of A C Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -789,7 +789,7 @@
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.E Dimitra Efxeinoupolis club is located in Greece where Prokopis Pavlopoulos is a leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">The A.E Dimitra Efxeinoupolis club is located in Greece, where Prokopis Pavloopoulos is a leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">The A.E Dimitra Efxeinoupolis club is located in Greece, where Prokopis Pavlopoulos is a leader.</lex>
       <lex comment="good" lid="Id3">The A.E Dimitra Efxeinoupolis club is located in Greece, where the leader is Prokopis Pavlopoulos.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id56" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -919,7 +919,7 @@
         <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
         <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stuart Parker (footballer)">Start Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C.</lex>
+      <lex comment="good" lid="Id1" error_1="Stuart Parker (footballer)">Stuart Parker is manager at A.F.C. Blackpool and plays for Blackpool F.C.</lex>
       <lex comment="good" lid="Id2">Stuart Parker, who once managed AFC Blackpool, plays for Blackpool F.C.</lex>
       <lex comment="good" lid="Id3">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Blackpool F.C.</lex>
     </entry>
@@ -1132,7 +1132,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">A.S. Gubbio has 5300 members and their ground is located in Italy.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S. Gubbio 1910">A.S. Gubbio 1910 has 5300 members and their ground is located in Italy.</lex>
       <lex comment="good" lid="Id2">A.S. Gubbio 1910 in Italy has 5300 members.</lex>
       <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy, the team have 5300 members.</lex>
     </entry>
@@ -1188,7 +1188,7 @@
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A.S. Gubbio 1910, has 5300 members, and played in the 2014 season.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S. Gubbio has 5300 members and played in 2014.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S. Gubbio 1910 has 5300 members and played in 2014.</lex>
       <lex comment="good" lid="Id3">AS Gubbio 1910 competed in the 2014 season, they have 5300 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id83" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1201,7 +1201,7 @@
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Gubbio 1910 has 5300 members and was a part of the 2014–15 Lega Pro season.</lex>
-      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.S. Gubbio 1910 hs 5300 members and were in the Lega Pro in the 2014-15 season.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.S. Gubbio 1910 has 5300 members and were in the Lega Pro in the 2014-15 season.</lex>
       <lex comment="good" lid="Id3">A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season, it has 5300 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id84" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1403,7 +1403,7 @@
         <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Luciano Spalletti, who was at the club Virtus Entella, manages A.S. Roma.</lex>
-      <lex comment="good" lid="Id2" error_1="Luciano Spalletti">AS Roma's manager is Luciano Spallett, who plays for Virtus Entella.</lex>
+      <lex comment="good" lid="Id2" error_1="Luciano Spalletti">AS Roma's manager is Luciano Spalletti, who plays for Virtus Entella.</lex>
       <lex comment="good" lid="Id3">The manager of A.S. Roma is Luciano Spalletti, who was at the club Virtus Entella.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1432,7 +1432,7 @@
         <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
         <mtriple>Paulo_Sousa | club | Inter_Milan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="ACF Fiorentina" error_2="Paulo Sousa">Paula Sousa, manager of ACF Florentina, is attached to club Inter Milan.</lex>
+      <lex comment="good" lid="Id1" error_1="ACF Fiorentina" error_2="Paulo Sousa">Paulo Sousa, manager of ACF Fiorentina, is attached to club Inter Milan.</lex>
       <lex comment="good" lid="Id2">Paulo Sousa is the manager of the ACF Fiorentina, he played at the Inter Milan club.</lex>
       <lex comment="good" lid="Id3">The manager of ACF Fiorentina is Paulo Sousa, who plays at the Inter Milan club.</lex>
     </entry>
@@ -1712,7 +1712,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst, which is owned by AFC Ajax N.V.</lex>
       <lex comment="good" lid="Id2">AFC Ajax (amateurs) ground is Sportpark De Toekomst which is owned by AFC Ajax N.V.</lex>
-      <lex comment="good" lid="Id3" error_1="AFC Ajax N.V.">Sportpark De Toekomst belongs to amateur AFC Ajax.</lex>
+      <lex comment="good" lid="Id3" error_1="AFC Ajax N.V.">Sportpark De Toekomst belongs to AFC Ajax N.V. and is also used by amateur AFC Ajax.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id119" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1873,7 +1873,7 @@
         <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">AZAL PFK Bakou which has 3500 members is playing in the Azerbaijan PremierLeague, 2014–15.</lex>
+      <lex comment="good" lid="Id1">AZAL PFK Bakou which has 3500 members is playing in the Azerbaijan Premier League, 2014–15.</lex>
       <lex comment="good" lid="Id2">AZAL PFK Bakou, whose ground has a capacity of 3500, played in the Azerbaijan Premier League, 2014–15.</lex>
       <lex comment="good" lid="Id3" error_1="2014-15 Azerbaijan Premier League">AZAL PFK were in the Azerbaijan Premier League in 2014-15 and have 3500 members.</lex>
     </entry>
@@ -1955,8 +1955,8 @@
         <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom has been manager of AZ Alkmaar and is a player in İstanbulspor A.Ş.</lex>
-      <lex comment="good" lid="Id2" error_1="AZ Alkmaar">John van den Brom plays in İstanbulspor A.Ş. He manages the İstanbulspor A.Ş.</lex>
-      <lex comment="good" lid="Id3" error_1="AZ Alkmaar" error_2="Istanbulspor A.S.">John van den Brom, who manages the AZ Alkmaair, plays for Istanulspor A.S.</lex>
+      <lex comment="good" lid="Id2" error_1="AZ Alkmaar">John van den Brom plays in İstanbulspor A.Ş. He manages AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id3" error_1="AZ Alkmaar" error_2="Istanbulspor A.S.">John van den Brom, who manages the AZ Alkmaar, plays for Istanbulspor A.S.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id136" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2027,7 +2027,7 @@
         <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca located in Arapiraca.</lex>
-      <lex comment="good" lid="Id2" error_1="Agremiacao Sportiva Arapiraquense" error_2="Estadio Municipal Coaracy da Mata Fonseca">Estadio Municipal Coaracy de Mata Fonseca is the name of the ground of Agremiacao Sportive Arapiraquense and is located in Arapiraca.</lex>
+      <lex comment="good" lid="Id2" error_1="Agremiacao Sportiva Arapiraquense" error_2="Estadio Municipal Coaracy da Mata Fonseca">Estadio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiacao Sportiva Arapiraquense and is located in Arapiraca.</lex>
       <lex comment="good" lid="Id3">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, which is in Arapiraca.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id141" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -2194,7 +2194,7 @@
         <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
         <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akron Summit Assault" error_2="K-W United FC">The Premier Development League has K-W United F.C., (who have been champions) and Akron Summit among its competing teams.</lex>
+      <lex comment="good" lid="Id1" error_1="Akron Summit Assault" error_2="K-W United FC">The Premier Development League has K-W United F.C., (who have been champions) and Akron Summit Assault among its competing teams.</lex>
       <lex comment="good" lid="Id2">Akron Summit Assault play in the Premier Development League, which K-W United FC were once the champions of.</lex>
       <lex comment="good" lid="Id3">In the Premier Development League, Akron Summit Assault play and the champions are K-W United FC.</lex>
     </entry>

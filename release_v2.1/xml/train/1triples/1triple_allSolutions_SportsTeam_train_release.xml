@@ -68,7 +68,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="2014-15 Regionalliga">FC Magdeburg played in the Regionalliga in 2014-15 season.</lex>
       <lex comment="good" lid="Id2" error_1="2014-15 Regionalliga">In 2014-15 season, 1 FC Magdeburg played in the Regionalliga.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Regionalliga">FC Magedburg was in Regionalliga in 2014.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Regionalliga">FC Magedburg was in Regionalliga in 2014-2015.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -155,7 +155,7 @@
         <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi.</lex>
-      <lex comment="good" lid="Id2" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -600,7 +600,7 @@
         <mtriple>A.S._Gubbio_1910 | season | 2014</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Gubbio 1910 competed in the 2014 season.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S Gubbio played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910">A.S Gubbio 1910 played in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id61" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -735,7 +735,7 @@
         <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Roma's ground is in Rome, Italy.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Roma">A.S.Roma's ground is in Rome, Italy.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Roma">A.S. Roma's ground is in Rome, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1052,7 +1052,7 @@
       <modifiedtripleset>
         <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Shuvalan">The AZAL Arena is located in Shuvulan.</lex>
+      <lex comment="good" lid="Id1" error_1="Shuvalan">The AZAL Arena is located in Shuvalan.</lex>
       <lex comment="good" lid="Id2">AZAL Arena is located in Shuvalan.</lex>
       <lex comment="good" lid="Id3">The AZAL Arena is in Shuvalan.</lex>
     </entry>
@@ -1065,7 +1065,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu".</lex>
       <lex comment="good" lid="Id2">AZAL PFK's full name is AZAL Peşəkar Futbol Klubu.</lex>
-      <lex comment="good" lid="Id3" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu.</lex>
+      <lex comment="good" lid="Id3" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id107" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1157,7 +1157,7 @@
         <mtriple>AZ_Alkmaar | owner | Robert_Eenhoorn</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZ Alkmaar is owned by Robert Eenhoorn.</lex>
-      <lex comment="good" lid="Id2" error_1="Robert Eenhoorn">Robert Eehoorn owns AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2" error_1="Robert Eenhoorn">Robert Eenhoorn owns AZ Alkmaar.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1176,7 +1176,7 @@
         <mtriple>Agremiação_Sportiva_Arapiraquense | chairmanTitle | "President"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The title of the chairman of Agremiacao Sportiva Arapiraquense is President.</lex>
-      <lex comment="good" lid="Id2" error_1="Agremiacao Sportiva Arapiraquense">The chairman of Agremiação Sportiva Arapiraquens has the title of 'President'.</lex>
+      <lex comment="good" lid="Id2" error_1="Agremiacao Sportiva Arapiraquense">The chairman of Agremiação Sportiva Arapiraquense has the title of 'President'.</lex>
       <lex comment="good" lid="Id3">The "President" is the chairman title of the Agremiação Sportiva Arapiraquense.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id118" shape="(X (X))" shape_type="NA" size="1">
@@ -1350,7 +1350,7 @@
       <modifiedtripleset>
         <mtriple>Amsterdam | part | Amsterdam-Noord</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Amsterdam-Noord">Amsterdam Noord is part of Amsterdam.</lex>
+      <lex comment="good" lid="Id1" error_1="Amsterdam-Noord">Amsterdam-Noord is part of Amsterdam.</lex>
       <lex comment="good" lid="Id2">Amsterdam-Noord is part of Amsterdam.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
@@ -1582,7 +1582,7 @@
       <modifiedtripleset>
         <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Estadio Municipal Coaracy da Mata Fonseca">Estádio Municipal Coaracy da Mata Fonesca is in Brazil.</lex>
+      <lex comment="good" lid="Id1" error_1="Estadio Municipal Coaracy da Mata Fonseca">Estádio Municipal Coaracy da Mata Fonseca is in Brazil.</lex>
       <lex comment="good" lid="Id2">Estádio Municipal Coaracy da Mata Fonseca is located in Brazil.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id155" shape="(X (X))" shape_type="NA" size="1">
@@ -1703,7 +1703,7 @@
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Greece's leader is Prokopis Pavlopoulos.</lex>
-      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">Prokopis Pavloopoulos is a leader of Greece.</lex>
+      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">Prokopis Pavlopoulos is a leader of Greece.</lex>
       <lex comment="good" lid="Id3">Prokopis Pavlopoulos is a leader in Greece.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id165" shape="(X (X))" shape_type="NA" size="1">
@@ -1804,7 +1804,7 @@
         <mtriple>James_Pallotta | birthPlace | Boston</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Boston is the birthplace of James Pallotta.</lex>
-      <lex comment="good" lid="Id2" error_1="James Pallotta">James Pallota was born in Boston.</lex>
+      <lex comment="good" lid="Id2" error_1="James Pallotta">James Pallotta was born in Boston.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id174" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1986,7 +1986,7 @@
       <modifiedtripleset>
         <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jorge Humberto Rodriguez">Jorge Humberto Rodgriguez plays for the Alianza F.C. club.</lex>
+      <lex comment="good" lid="Id1" error_1="Jorge Humberto Rodriguez">Jorge Humberto Rodriguez plays for the Alianza F.C. club.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez club is Alianza F.C.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for Alianza F.C.</lex>
     </entry>
@@ -2000,7 +2000,7 @@
       <modifiedtripleset>
         <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jorge Humberto Rodriguez">Jorge Humberto Rodriquez plays for the C.D. FAS.</lex>
+      <lex comment="good" lid="Id1" error_1="Jorge Humberto Rodriguez">Jorge Humberto Rodriguez plays for the C.D. FAS.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodríguez is in C.D. FAS.</lex>
       <lex comment="good" lid="Id3">Jorge Humberto Rodriguez plays for C.D. FAS.</lex>
     </entry>
@@ -2095,7 +2095,7 @@
       <modifiedtripleset>
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931">Massimo Drago was at the club ASD Licita 1931.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931">Massimo Drago was at the club ASD Licata 1931.</lex>
       <lex comment="good" lid="Id2">Massimo Drago plays for A.S.D. Licata 1931.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id198" shape="(X (X))" shape_type="NA" size="1">
@@ -2452,7 +2452,7 @@
         <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran is attached to the club Calcio Catania.</lex>
-      <lex comment="good" lid="Id2" error_1="Calcio Catania">Rolando Maran is a member of the Calcio Cantania.</lex>
+      <lex comment="good" lid="Id2" error_1="Calcio Catania">Rolando Maran is a member of the Calcio Catania.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id227" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

@@ -29,9 +29,9 @@
         <mtriple>Rolando_Maran | placeOfBirth | Italy</mtriple>
         <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.C. Chievo Verona">Rolando Maran has worked at FC Bari 1908. He managed Associazione Calcio ChievoVerona and is in the Carrarese Calcio club. He was born in Italy.</lex>
+      <lex comment="good" lid="Id1" error_1="A.C. Chievo Verona">Rolando Maran has worked at FC Bari 1908. He managed Associazione Calcio Chievo Verona and is in the Carrarese Calcio club. He was born in Italy.</lex>
       <lex comment="good" lid="Id2">Rolando Maran was born in Italy and is in the Carrarese Calcio Club. He currently plays for F.C. Bari 1908 while managing A.C. Chievo Verona.</lex>
-      <lex comment="good" lid="Id3" error_1="A.C. Chievo Verona">Rolando Maran, who was born in Italy and has previously worked for FC Bari 1908. He currently plays for Carrarese Calcio and manages Associazione Calcio ChievoVerona.</lex>
+      <lex comment="good" lid="Id3" error_1="A.C. Chievo Verona">Rolando Maran, who was born in Italy and has previously worked for FC Bari 1908. He currently plays for Carrarese Calcio and manages Associazione Calcio Chievo Verona.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -52,7 +52,7 @@
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
         <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italy">Italian born, Michele Marcolini, plays for A.C. Chievo Verona, owns Torino F.C., and is manager of A.C. Lumezzane.</lex>
+      <lex comment="good" lid="Id1" error_1="Italy">Italian born, Michele Marcolini plays for A.C. Chievo Verona, owns Torino F.C., and is manager of A.C. Lumezzane.</lex>
       <lex comment="good" lid="Id2" error_1="Italy">Italian born Michele Marcolini has been the manager of AC Lumezzane. He currently plays for Torino FC and AC Chievo Verona.</lex>
       <lex comment="good" lid="Id3">Michele Marcolini was born in Italy and has been the manager of AC Lumezzane. He currently owns Torino F.C. and plays for A.C. Chievo Verona.</lex>
     </entry>

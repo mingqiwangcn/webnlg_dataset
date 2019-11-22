@@ -372,8 +372,8 @@
         <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Massimo Drago manages A.C. Cesena and is attached to the club Vigor Lamezia although he plays for Calcio Catania.</lex>
-      <lex comment="good" lid="Id2" error_1="Massimo Drago" error_2="Vigor Lamezia">Massimo Drag has been the manager of A C Cesena, is attached to the club Vigor Lamexia and his club was Calcio Catania.</lex>
-      <lex comment="good" lid="Id3" error_1="Calcio Catania">Massimo Drago, manager of A.C. Cesena, is part of clubs Vigor Lamezia and Valcio Catania.</lex>
+      <lex comment="good" lid="Id2" error_1="Massimo Drago" error_2="Vigor Lamezia">Massimo Drago has been the manager of A C Cesena, is attached to the club Vigor Lamezia and his club was Calcio Catania.</lex>
+      <lex comment="good" lid="Id3" error_1="Calcio Catania">Massimo Drago, manager of A.C. Cesena, is part of clubs Vigor Lamezia and Calcio Catania.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -430,9 +430,9 @@
         <mtriple>A.C._Chievo_Verona | fullname | "Associazione Calcio ChievoVerona S.r.l."</mtriple>
         <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and they have 39371 members while their home ground is Stadio Marc Antonio Bentegodi.</lex>
-      <lex comment="good" lid="Id2" error_1="Stadio Marc'Antonio Bentegodi">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." Their home ground is Stadio Marc Antonio Bentegodi and they have 39371 members.</lex>
-      <lex comment="good" lid="Id3" error_1="Stadio Marc'Antonio Bentegodi">Associazione Calcio ChievoVerona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and its home ground is Stadio Marc'Antonio Benregodi.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l. and they have 39371 members while their home ground is Stadio Marc'Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2" error_1="Stadio Marc'Antonio Bentegodi">The full name of AC Chievo Verona is "Associazione Calcio ChievoVerona S.r.l." Their home ground is Stadio Marc'Antonio Bentegodi and they have 39371 members.</lex>
+      <lex comment="good" lid="Id3" error_1="Stadio Marc'Antonio Bentegodi">Associazione Calcio ChievoVerona S.r.l. (abbreviated to A.C. Chievo Verona) has 39371 members and its home ground is Stadio Marc'Antonio Bentegodi.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id27" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -545,9 +545,9 @@
         <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Lega Pro" error_2="Lega Pro/A">A.C. Lumezzane has 4150 members and has played in the Lega Pro during the 2014 season.</lex>
-      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.C. Lumezzane, with 4150 members, is in the Lega Pro/A league and played during the 2014 season.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro" error_2="A.C. Lumezzane">A.C Lumezzane play in the Lega Pro/A 20-14 season. They have 4150 members.</lex>
+      <lex comment="good" lid="Id1" error_1="2014-15 Lega Pro" error_2="Lega Pro/A">A.C. Lumezzane has 4150 members and has played in the Lega Pro/A during the 2014-2015 season.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.C. Lumezzane, with 4150 members, is in the Lega Pro/A league and played during the 2014-15 season.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro" error_2="A.C. Lumezzane">A.C Lumezzane play in the Lega Pro/A 2014-15 season. They have 4150 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -566,8 +566,8 @@
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="2014-15 Lega Pro" error_2="A.C. Lumezzane">Lumezzane played in the Lega Pro during the 2014-2015 season and has 4150 members.</lex>
-      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014 season and still play in the same league.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro">A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro: 2014.</lex>
+      <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.C. Lumezzane has 4150 members, played in the Lega Pro during the 2014-15 season and still play in the same league.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro">A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro in 2014-2015.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id35" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -672,7 +672,7 @@
         <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
         <mtriple>Michele_Marcolini | club | Atalanta_B.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.C. Lumezzane">Michele Marcolini has played for Atalanta BC. He now manages the AX Lumezzane and is at the Torino FC club.</lex>
+      <lex comment="good" lid="Id1" error_1="A.C. Lumezzane">Michele Marcolini has played for Atalanta BC. He now manages the AC Lumezzane and is at the Torino FC club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -720,8 +720,8 @@
         <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
         <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014">The A.C. Lumezzane has 4150 members and play in the Lega Pro League.</lex>
-      <lex comment="good" lid="Id2">A.C. Lumezzane, with 4150 members, plays in the Lega Pro. and were active in 2014.</lex>
+      <lex comment="good" lid="Id1" error_1="2014">The A.C. Lumezzane has 4150 members and play in the Lega Pro League. They also played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2">A.C. Lumezzane, with 4150 members, plays in the Lega Pro, and were active in 2014.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -770,7 +770,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.D. Isidro Metapan's full name is "Asociación Deportiva". They have 10000 members and their ground is in Metapan, El Salvador.</lex>
       <lex comment="good" lid="Id2">10000 member strong club AD Isidro Metapan Deportiva - Asociacion Deportiva - plays at Metapan, El Salvador.</lex>
-      <lex comment="good" lid="Id3" error_1="Metapan, El Salvador">Asociacion Deportiva (abbreviated to A.D. Isidro Metapan) has 10000 members and has its ground in Metapan El Salvador.</lex>
+      <lex comment="good" lid="Id3" error_1="Metapan, El Salvador">Asociacion Deportiva (abbreviated to A.D. Isidro Metapan) has 10000 members and has its ground in Metapan, El Salvador.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -844,7 +844,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis.</lex>
       <lex comment="good" lid="Id2">The A.E Dimitra Efxeinoupolis club is located in Greece, capital of which is Athens and the leader is Nikos Voutsis.</lex>
-      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis" error_2="Nikos Voutsis">Greece, led by Nikos Voutisis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis" error_2="Nikos Voutsis">Greece, led by Nikos Voutsis, whose capital is Athens, is the location of club A.E. Dimitra Efxeinoupolis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id51" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -955,7 +955,7 @@
         <mtriple>Greece | language | Greek_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Prokopis Pavlopoulos is a leader in Greece where the Greek language is spoken. The country is the location of AE Dimitra Efxeinoupolis club.</lex>
-      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis is located in Greece, which leader is Prokopis Pavloopoulos and the language is Greek.</lex>
+      <lex comment="good" lid="Id2" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis is located in Greece, which leader is Prokopis Pavlopoulos and the language is Greek.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id58" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1033,7 +1033,7 @@
         <mtriple>A.F.C._Blackpool | numberOfMembers | 1500</mtriple>
         <mtriple>A.F.C._Blackpool | fullname | "Association Football Club Blackpool"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jepson Way,">A.F.C. Blackpool full name is "Association Football Club Blackpool," they have 1500 members and their grounds are at Jespon Way.</lex>
+      <lex comment="good" lid="Id1" error_1="Jepson Way,">A.F.C. Blackpool full name is "Association Football Club Blackpool," they have 1500 members and their grounds are at Jepson Way.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool has the full name "Association Football Club Blackpool". They have 1500 members and their grounds are Jepson Way.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id62" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1148,7 +1148,7 @@
         <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Irlam Town F.C.">The manager of A.F.C. Blackpool is Stuart Parker (footballer). He is attached to Irlam Town Football Club and a member of the Chesterfield F.C.</lex>
-      <lex comment="good" lid="Id2" error_1="Stuart Parker (footballer)">AFC Blackpool manager Stuary Parker is also attached to Irlam Town and Chesterfield football clubs.</lex>
+      <lex comment="good" lid="Id2" error_1="Stuart Parker (footballer)">AFC Blackpool manager Stuart Parker is also attached to Irlam Town and Chesterfield football clubs.</lex>
       <lex comment="good" lid="Id3">Stuart Parker was once a manager at AFC Blackpool and a footballer for Chesterfield FC but is now attached to Irlam Town Football Club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id69" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1227,7 +1227,7 @@
         <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.F.C. Fylde">A.F.C.Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde".</lex>
+      <lex comment="good" lid="Id1" error_1="A.F.C. Fylde">A.F.C. Fylde's ground is Kellamergh Park. They have 3180 members and the full name of "Association Football Club Fylde".</lex>
       <lex comment="good" lid="Id2">The full name of the A.F.C. Fylde is "Association Football Club Fylde," they have 3180 members and their ground is Kellamergh Park.</lex>
       <lex comment="good" lid="Id3">AFC Fylde has the full name "Association Football Club Fylde", its grounds are Kellamergh Park and it has 3180 members.</lex>
     </entry>
@@ -1247,7 +1247,7 @@
         <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
         <mtriple>A.F.C._Fylde | fullname | "Association Football Club Fylde"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Warton, Fylde, Lancashire">The full name of AFC Fylde, the 3180 member strong club, is Association Football Club Fylde.</lex>
+      <lex comment="good" lid="Id1" error_1="Warton, Fylde, Lancashire">The full name of AFC Fylde, the 3180 member strong club, is Association Football Club Fylde. Their ground is at Warton, Fylde, Lancashire.</lex>
       <lex comment="good" lid="Id2">Association Football Club Fylde (abbreviated to A.F.C. Fylde) has 3180 members and are based at Warton, Fylde, Lancashire.</lex>
       <lex comment="good" lid="Id3">A.F.C. Fylde (its full name is "Association Football Club Fylde"), which has 3180 members, is based at Warton, Fylde, Lancashire.</lex>
     </entry>
@@ -1339,7 +1339,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl. It was a part of the 2014–15 Lega Pro season and has 5300 members.</lex>
       <lex comment="good" lid="Id2" error_1="2014-15 Lega Pro">A.S. Gubbio 1910, which stands for Associazione Sportiva Gubbio 1910 Srl., has 5300 members and was in the Lega Pro in the 2014-15 season.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro" error_2="Associazione Sportiva Gubbio 1910 Srl">A.s Gubbio 1910 (Associazione Aportiva Gubbio 1910 Srl.), with 5300 members, participated in the 2014-15 Leg Pro season.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Lega Pro" error_2="Associazione Sportiva Gubbio 1910 Srl">A.s Gubbio 1910 (Associazione Sportiva Gubbio 1910 Srl.), with 5300 members, participated in the 2014-15 Lega Pro season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id80" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1358,7 +1358,7 @@
         <mtriple>A.S._Gubbio_1910 | numberOfMembers | 5300</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of AS Gubbio 1910 is "Associazione Sportiva Gubbio 1910 Srl", they have 5300 members and played in the 2014 season.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910" error_2="Associazione Sportiva Gubbio 1910 Srl">Associazione Sportiva Gubbio Srl (abbreviated to A.S. Gubbio) has 5300 members and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Gubbio 1910" error_2="Associazione Sportiva Gubbio 1910 Srl">Associazione Sportiva Gubbio 1910 Srl (abbreviated to A.S. Gubbio 1910) has 5300 members and competed in the 2014 season.</lex>
       <lex comment="good" lid="Id3">The full name of AS Gubbio 1910 is "Associazione Sportiva Gubbio 1910 Srl". It competed in the 2014 season and has 5300 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id81" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1464,7 +1464,7 @@
         <mtriple>Christian_Panucci | club | Genoa_C.F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio are managed by Christian Panucci who plays for A.S. Roma and is attached to the club Genoa CFC.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Roma">Christian Panucci played football for Genoa C.F.C. and now manages A.S. Livorno Calcio and plays at the A.S.Roma.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Roma">Christian Panucci played football for Genoa C.F.C. and now manages A.S. Livorno Calcio and plays at the A.S. Roma.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id87" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1508,7 +1508,7 @@
         <mtriple>Christian_Panucci | club | Chelsea_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Livorno Calcio are managed by Christian Panucci who has played for Chelsea FC and is attached to the club Genoa CFC.</lex>
-      <lex comment="good" lid="Id2" error_1="Genoa C.F.C.">Christian Panucci played football for Genoa F.C. and Chelsea F.C. Today he manages A.S. Livorno Calcio.</lex>
+      <lex comment="good" lid="Id2" error_1="Genoa C.F.C.">Christian Panucci played football for Genoa C.F.C. and Chelsea F.C. Today he manages A.S. Livorno Calcio.</lex>
       <lex comment="good" lid="Id3">Christian Panucci has played for Chelsea FC and Genoa C.F.C. and now manages A.S. Livorno Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id90" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1608,7 +1608,7 @@
         <mtriple>Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paulo Sousa is the manager of the ACF Fiorentina but played for Maccabi Tel Aviv FC. His club is Juventus.</lex>
-      <lex comment="good" lid="Id2" error_1="Paulo Sousa">Paul Sousa plays for Juventus F.C. and Maccabi Tel Aviv F.C. while also managing ACF Fiorentina.</lex>
+      <lex comment="good" lid="Id2" error_1="Paulo Sousa">Paulo Sousa plays for Juventus F.C. and Maccabi Tel Aviv F.C. while also managing ACF Fiorentina.</lex>
       <lex comment="good" lid="Id3">Paulo Sousa played for Juventus FC and now plays for Maccabi Tel Aviv F.C while managing ACF Fiorentina.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id96" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1644,7 +1644,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACF Fiorentina (full name: ACF Fiorentina S.p.A.) competed in the 2014 season and their ground holds 47290 fans.</lex>
       <lex comment="good" lid="Id2">ACF Fiorentina, who competed in the 2014 season has the full name of ACF Fiorentina S.p.A. They currently have 47290 members.</lex>
-      <lex comment="good" lid="Id3" error_1="ACF Fiorentina S.p.A.">ACF Fiorentina full name is ACF Fiorentina S.p.A, they have 47290 members and competed in the 2014 season.</lex>
+      <lex comment="good" lid="Id3" error_1="ACF Fiorentina S.p.A.">ACF Fiorentina full name is ACF Fiorentina S.p.A.; they have 47290 members and competed in the 2014 season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id98" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1663,7 +1663,7 @@
         <mtriple>ACF_Fiorentina | season | 2014–15_Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of ACF Fiorentina is ACF Fiorentina S.p.A., they have 47290 members and played the 2014-15 season in Serie A.</lex>
-      <lex comment="good" lid="Id2" error_1="ACF Fiorentina S.p.A.">The full name of ACF Fiorentia is "ACF Fiorentina S.p.A," they played the 2014-15 season in Serie A and have 47290 members.</lex>
+      <lex comment="good" lid="Id2" error_1="ACF Fiorentina S.p.A.">The full name of ACF Fiorentia is "ACF Fiorentina S.p.A."; they played the 2014-15 season in Serie A and have 47290 members.</lex>
       <lex comment="good" lid="Id3">ACF Fiorentina, or ACF Fiorentina S.p.A., has 47290 members and played in the 2014-15 Serie A season.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id99" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1821,7 +1821,7 @@
         <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AFC Ajax N.V. own Sportpark De Toekomst where Jong Ajax is the tenant. It is the ground of AFC Ajaz (amateurs).</lex>
-      <lex comment="good" lid="Id2" error_1="AFC Ajax N.V.">AFC Ajax (amateur) play as Sportpark De Toekomst, which is owned by AFC Ajax N.V, with Jong Ajax as the tenant.</lex>
+      <lex comment="good" lid="Id2" error_1="AFC Ajax N.V.">AFC Ajax (amateur) play as Sportpark De Toekomst, which is owned by AFC Ajax N.V., with Jong Ajax as the tenant.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id108" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1909,8 +1909,8 @@
         <mtriple>AZAL_PFK | season | 2014</mtriple>
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu, they have 3500 members and were in the 2014 season.</lex>
-      <lex comment="good" lid="Id2" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Pesokar Futbol Klubu. They competed in the 2014 season and have 3500 members.</lex>
+      <lex comment="good" lid="Id1" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu, they have 3500 members and were in the 2014 season.</lex>
+      <lex comment="good" lid="Id2" error_1="AZAL Pes@kar Futbol Klubu">The full name of AZAL PFK is AZAL Peşəkar Futbol Klubu. They competed in the 2014 season and have 3500 members.</lex>
       <lex comment="good" lid="Id3">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu". They competed in the season 2014 and have 3500 members.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id113" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1931,7 +1931,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AZAL PFK stands for "AZAL Peşəkar Futbol Klubu" and they have 3500 members. AZAL PFK Bakou is playing in the Azerbaijan Premier League, 2014–15.</lex>
       <lex comment="good" lid="Id2">AZAL PFK's full name is AZAL Peşəkar Futbol Klubu. They played in the Azerbaijan PremierLeague, 2014–15 and have 3500 members.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Azerbaijan Premier League">The AZAL PFK (abbreviated from "AZAL Peşəkar Futbol Klubu"), with 3500 members, competed in The Azerbaijan Premier League in 2014-15.</lex>
+      <lex comment="good" lid="Id3" error_1="2014-15 Azerbaijan Premier League">The AZAL PFK (abbreviated from "AZAL Peşəkar Futbol Klubu"), with 3500 members, competed in the Azerbaijan Premier League in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id114" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2097,7 +2097,7 @@
         <mtriple>John_van_den_Brom | club | Jong_Ajax</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom plays for Vitesse Arnhem and in the Jong Ajax club. He is also the manager of AZ Alkmaar.</lex>
-      <lex comment="good" lid="Id2" error_1="Vitesse Arnhem">John van den Brom plays for both Vitesse Arnham and Jong Ajax. He has also managed AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2" error_1="Vitesse Arnhem">John van den Brom plays for both Vitesse Arnhem and Jong Ajax. He has also managed AZ Alkmaar.</lex>
       <lex comment="good" lid="Id3">John van den Brom, who is a member of the Jong Ajax club and plays for Vitesse Arnhem, has been manager of AZ Alkmaar.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id125" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2378,7 +2378,7 @@
         <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akron Summit Assault's ground is St. Vincent-St. Mary High School in the city of Akron, Ohio, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="United States">In Akron, Ohio, the Akron Summit Assault organization is located inside the St. Vincent-St. Mary High School.</lex>
+      <lex comment="good" lid="Id2" error_1="United States">In Akron, Ohio, USA, the Akron Summit Assault organization is located inside the St. Vincent-St. Mary High School.</lex>
       <lex comment="good" lid="Id3">St Vincent-St Mary High School (loc: Akron, Ohio, US) is the ground of Akron Summit Assault.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id142" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2406,7 +2406,7 @@
         <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
         <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States">Akron Summit Assault is located at the St. Vincent-St. Mary High school in Ohio.</lex>
+      <lex comment="good" lid="Id1" error_1="United States">Akron Summit Assault is located at the St. Vincent-St. Mary High school in Ohio, US.</lex>
       <lex comment="good" lid="Id2">St. Vincent-St. Mary High School is in Ohio in the United States and is the ground of Akron Summit Assault.</lex>
       <lex comment="good" lid="Id3">St Vincent-St Mary High School is the ground of Akron Summit Assault, in the state of Ohio in the United States of America.</lex>
     </entry>
@@ -2510,7 +2510,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy where they speak Italian. The leader of the country is Pietro Grasso.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, the country's leader is leader is Pietro Grasso and obviously they speak Italian there.</lex>
-      <lex comment="good" lid="Id3" error_1="Pietro Grasso">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Piero Grasso and Italian is the spoken language.</lex>
+      <lex comment="good" lid="Id3" error_1="Pietro Grasso">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Pietro Grasso and Italian is the spoken language.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id150" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2643,9 +2643,9 @@
         <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931" error_2="U.S. Castrovillari Calcio">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licita 1931 but he currently plays for U.S Castrovillari Calcio.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S.D. Licata 1931">Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licita 1931.</lex>
-      <lex comment="good" lid="Id3" error_1="A.S.D. Licata 1931" error_2="U.S. Castrovillari Calcio">Massimo Drago was at the club ASD Licita 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931" error_2="U.S. Castrovillari Calcio">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licata 1931 but he currently plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S.D. Licata 1931">Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licata 1931.</lex>
+      <lex comment="good" lid="Id3" error_1="A.S.D. Licata 1931" error_2="U.S. Castrovillari Calcio">Massimo Drago was at the club ASD Licata 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id158" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2773,7 +2773,7 @@
         <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
         <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.</lex>
+      <lex comment="good" lid="Id1" error_1="Stadio Marc'Antonio Bentegodi">AC Chievo Verona's home ground is Stadio Marc'Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.</lex>
       <lex comment="good" lid="Id2">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi. They play in the Serie A league, which was won by Juventus F.C.</lex>
       <lex comment="good" lid="Id3">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, they are in the Serie A league, of which Juventus FC have been champions.</lex>
     </entry>
@@ -2804,7 +2804,7 @@
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Roma plays in the Serie A league in Rome, Italy but the Serie A champions are Juventus F.C.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Roma">A.S.Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Roma">A.S. Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.</lex>
       <lex comment="good" lid="Id3">Juventus F.C. are former champions of Serie A. AS Roma also play in the same league, their ground is in Rome, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id169" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2819,7 +2819,7 @@
         <mtriple>A.S._Roma | league | Serie_A</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Roma, who have a ground in Rome, play in Serie A alongside Juventus FC who are former champions.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S. Roma" error_2="Juventus F.C.">A.S.Roma play their home games in Serie A in Rome, the current champions are Juventus.</lex>
+      <lex comment="good" lid="Id2" error_1="A.S. Roma" error_2="Juventus F.C.">A.S. Roma play their home games in Serie A in Rome, the current champions are Juventus.</lex>
       <lex comment="good" lid="Id3">With grounds in Rome, A.S. Roma play in Serie A. Juventus FC have been champions of that league.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id170" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
