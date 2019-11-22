@@ -23,7 +23,7 @@
         <mtriple>Italy | leader | Pietro_Grasso</mtriple>
         <mtriple>Italy | demonym | Italians</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italians">A.C. Lumezzane's ground is in Italy where Pietro Grasso is a leader. The capital of the country is Rome and the Italian language is spoken. People who inhabit Italy are called Italians.</lex>
+      <lex comment="good" lid="Id1">A.C. Lumezzane's ground is in Italy where Pietro Grasso is a leader. The capital of the country is Rome and the Italian language is spoken. People who inhabit Italy are called Italians.</lex>
       <lex comment="good" lid="Id2">A.C. Lumezzane's ground is in Italy where the Italian language is spoken by the inhabitants who are known as Italians. The leader of the country is Pietro Grasso and the capital city is Rome.</lex>
       <lex comment="good" lid="Id3">Italy is led by Pietro Grasso, and the Italian language is spoken there. The capital city is Rome and the AC Lumezzane club play in the country. The inhabitants of Italy are known as Italians.</lex>
     </entry>
@@ -119,7 +119,7 @@
         <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The country's capital is Athens and their currency is the euro.</lex>
+      <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The country's capital is Athens and their currency is the euro.</lex>
       <lex comment="good" lid="Id2">Greece is led by Nikos Voutsis and Prokopis Pavlopoulos, the capital city is Athens and the country uses the euro as their currency. It is also the location of the A.E Dimitra Efxeinoupolis club.</lex>
       <lex comment="good" lid="Id3">The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Nikos Voutsis and Prokopis Pavlopoulos. The capital of the country is Athens and the currency used is the euro.</lex>
     </entry>
@@ -209,7 +209,7 @@
         <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
         <mtriple>Greece | language | Greek_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prokopis Pavlopoulos">A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras. Another leader is Prokopis Pavlopoulos. In Greece, the currency is the euro and the language is Greek.</lex>
+      <lex comment="good" lid="Id1">A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras. Another leader is Prokopis Pavlopoulos. In Greece, the currency is the euro and the language is Greek.</lex>
       <lex comment="good" lid="Id2">Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. The currency in Greece is the Euro and Greek is spoken. The A.E Dimitra Efxeinoupolis club is located in Greece.</lex>
       <lex comment="good" lid="Id3">The A.E Dimitra Efxeinoupolis club is located in Greece, where Greek is spoken and the currency is the euro. It is also where two of the leaders are, Prokopis Pavlopoulos and Alexis Tsipras.</lex>
     </entry>
@@ -380,7 +380,7 @@
         <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Conservative Party UK are the leaders in Blackpool which is the location of the AFC Blackpool home ground. Their manager is Stuart Parker who has represented KV Mechelen FC and also Drogheda United FC.</lex>
-      <lex comment="good" lid="Id2" error_1="Drogheda United F.C.">AFC Blackpool is located in Blackpool where the leader is the Conservative Party (UK). Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been the manager of AFC Blackpool.</lex>
+      <lex comment="good" lid="Id2">AFC Blackpool is located in Blackpool where the leader is the Conservative Party (UK). Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been the manager of AFC Blackpool.</lex>
       <lex comment="good" lid="Id3">AFC Blackpool (Blackpool) have had Stuart Parker as their manager. Parker (with the Drogheda United F.C.) plays for KV Mechelen. The Conservative Party U.K. is the leader of Blackpool.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id18" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -664,7 +664,7 @@
         <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">St. Vincent-St. Mary High School is located in Akron, Summit County, Ohio USA. St Vincent-St Mary High School is the ground of Akron Summit Assault. The leader of Akron, Ohio is a one Dan Horrigan.</lex>
-      <lex comment="good" lid="Id2" error_1="Summit County, Ohio">Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Summit County, Ohio, (where the leader is Dan Horrigan), in the United States.</lex>
+      <lex comment="good" lid="Id2">Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Summit County, Ohio, (where the leader is Dan Horrigan), in the United States.</lex>
       <lex comment="good" lid="Id3">Akron Summit Assault's ground is St. Vincent-St. Mary High School. The school is in the United States in Summit County, in Akron, Ohio where Dan Horrigan is the leader.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id32" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -853,7 +853,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Italians are the people who live in Italy, where Italian is the language. Two of the leaders there are Pietro Grasso and Sergio Mattarella. Also in Italy, is the ground of A.S. Gubbio 1910.</lex>
       <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live and where the language spoken is Italian. Pietro Grasso and Sergio Mattarella are leaders in Italy.</lex>
-      <lex comment="good" lid="Id3" error_1="Italians">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso and Sergio Mattarella are leaders and the Italian language is spoken. The inhabitants of Italy are knows as Italians.</lex>
+      <lex comment="good" lid="Id3">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso and Sergio Mattarella are leaders and the Italian language is spoken. The inhabitants of Italy are knows as Italians.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id42" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -890,7 +890,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, the country which is inhabited by Italians. The capital of Italy is Rome, the official language is Italian and the leader is Pietro Grasso.</lex>
-      <lex comment="good" lid="Id2" error_1="Rome">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians. The official language is Italian, the capital is Rome and the country's leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians. The official language is Italian, the capital is Rome and the country's leader is Pietro Grasso.</lex>
       <lex comment="good" lid="Id3">Italians inhabit Italy, where the capital is Rome. It is also where Italian is the official language and Pietro Grasso is the leader. The ground of A.S. Gubbio 1910 is located in Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id44" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

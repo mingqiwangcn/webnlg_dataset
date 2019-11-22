@@ -27,7 +27,7 @@
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
         <mtriple>Massimo_Drago | club | A.S.D._S.S._Nola_1925</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931">Massimo Drago has been the manager of A C Cesena, plays for ASD SS Nola 1925 and was also at the club ASD Licata 1931.</lex>
+      <lex comment="good" lid="Id1">Massimo Drago has been the manager of A C Cesena, plays for ASD SS Nola 1925 and was also at the club ASD Licata 1931.</lex>
       <lex comment="good" lid="Id2">Massimo Drago played for A.S.D. S.S. Nola 1925, managed A C Cesena and now plays for A.S.D. Licata 1931.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -161,7 +161,7 @@
         <mtriple>A.S._Livorno_Calcio | fullname | "Livorno Calcio S.p.A."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A., their ground is in Livorno, Italy and they have 19238 members.</lex>
-      <lex comment="good" lid="Id2" error_1="Livorno Calcio S.p.A.">AS Livorno Calcio's home ground is in Livorno, Italy. It has the full name of "Livorno Calcio S.p.A." and has 19238 members.</lex>
+      <lex comment="good" lid="Id2">AS Livorno Calcio's home ground is in Livorno, Italy. It has the full name of "Livorno Calcio S.p.A." and has 19238 members.</lex>
       <lex comment="good" lid="Id3">The full name of A.S. Livorno Calcio is Livorno Calcio S.p.A., they have 19238 members and their ground is in Livorno, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -262,7 +262,7 @@
         <mtriple>Amsterdam | leader | Eberhard_van_der_Laan</mtriple>
         <mtriple>Amsterdam | part | Amsterdam-Noord</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Amsterdam-Noord">Amsterdam-Noord is part of Amsterdam whose leader is Eberhard van der Laan. The city is the location of the home ground of AFC Ajax (amateurs).</lex>
+      <lex comment="good" lid="Id1">Amsterdam-Noord is part of Amsterdam whose leader is Eberhard van der Laan. The city is the location of the home ground of AFC Ajax (amateurs).</lex>
       <lex comment="good" lid="Id2">The ground of AFC Ajax (amateurs) can be found in Amsterdam, which has Eberhard van der Laan as leader, and a region called Amsterdam-Noord.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -321,8 +321,8 @@
         <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
         <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.S.D. Licata 1931">Massimo Drago was at the club ASD Licata 1931 but currently manages A.C. Cesena and plays for S.S. Chieti Calcio.</lex>
-      <lex comment="good" lid="Id2" error_1="A.S.D. Licata 1931">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licata 1931. He now plays for S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id1">Massimo Drago was at the club ASD Licata 1931 but currently manages A.C. Cesena and plays for S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id2">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licata 1931. He now plays for S.S. Chieti Calcio.</lex>
       <lex comment="good" lid="Id3">Massimo Drago plays for both A.S.D. Licata 1931 and S.S. Chieti Calcio as well as managing A.C. Cesena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id20" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
