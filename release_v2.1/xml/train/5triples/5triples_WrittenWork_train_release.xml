@@ -644,8 +644,8 @@
         <mtriple>Cornell_University | state | New_York</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Administrative Science Quarterly is published by Cornell University, Ithaca, New York. Cornell University is affiliated with the Association of Public and Land Grant Universities and the Association of American Universities.</lex>
-      <lex comment="good" lid="Id2">Cornell University is the publisher of Administrative Science Quarterly affiliated with Association of American Universities and Association of Public and Land grant Universities is in Ithaca, New York.</lex>
+      <lex comment="good" lid="Id1">The Administrative Science Quarterly is published by Cornell University, Ithaca, New York. Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id2">Cornell University is the publisher of Administrative Science Quarterly affiliated with Association of American Universities and Association of Public and Land-grant Universities is in Ithaca, New York.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id31" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -662,9 +662,9 @@
         <mtriple>Cornell_University | state | New_York</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Cornell University">Cornell Unversity is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land grant Universities.</lex>
-      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.</lex>
-      <lex comment="good" lid="Id3">Affiliated with the Association of Public and Land grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.</lex>
+      <lex comment="good" lid="Id1" error_1="Cornell University">Cornell Unversity is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.</lex>
+      <lex comment="good" lid="Id3">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id32" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -688,8 +688,8 @@
         <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, nicknamed Cornell Big Red, and located in Ithaca, New York, is the publisher of Administrative Science Quarterly and is also affiliated with both the Association of Public Land grant Universities and the Association of American Universities.</lex>
-      <lex comment="good" lid="Id2" error_1="Cornell Big Red">Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id1">Cornell University, nicknamed Cornell Big Red, and located in Ithaca, New York, is the publisher of Administrative Science Quarterly and is also affiliated with both the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id2" error_1="Cornell Big Red">Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id33" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -911,7 +911,7 @@
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Native Americans are an ethnic group in the United States where English is the language spoken, as in Great Britain. The book "A Loyal Character Dancer" was published in the US by Soho Press.</lex>
-      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press and it is based in the United States, where one of the ethnic groups of the United States and they speak English, same as in Great Britain.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer is published by Soho Press and it is based in the United States, where one of the ethnic groups of the United States are Native Americans, and they speak English, same as in Great Britain.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press, that is based in the United States, where people speak English, same as in Great Britain and there are an ethnic group called Native Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id45" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
@@ -1608,7 +1608,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Wizard of Mars was written in English, a language spoken in Great Britain. However it is published in the United States where the leader is Barack Obama and one of the ethnic groups are the Native Americans.</lex>
-      <lex comment="good" lid="Id2">A wizard of mars written in English spoken mostly in Great Britain was published in United States whose president is Barack Obama.</lex>
+      <lex comment="good" lid="Id2">A wizard of Mars written in English, which is spoken in Great Britain, was published in United States whose president is Barack Obama. Native Americans is an ethnos in the U.S.A.</lex>
       <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where Barack Obama is the leader and Native Americans are one of the ethnic groups. A Wizard of Mars is published in English, which is the language spoken in Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id81" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1720,7 +1720,7 @@
         <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634 The Ram Rebellion (preceded by 1634: The Galileo Affair) comes from the United States, where Barack Obama is the President, and its capital city is Washington D.C. Native Americans are one of the ethnic groups of the United States.</lex>
-      <lex comment="good" lid="Id2">The United States is led by Barack Obama, has a Native American ethnic group and the capital is Washington D.C.1634: The Galileo Affair preceded the U.S. written 1634: The Ram Rebellion.</lex>
+      <lex comment="good" lid="Id2">The United States is led by Barack Obama, has a Native American ethnic group and the capital is Washington D.C. 1634: The Galileo Affair preceded the U.S. written 1634: The Ram Rebellion.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion was written after 1634: The Galileo Affair and comes from the United States. Native Americans are one of the ethnic groups of the United States where the capital city is Washington D.C., and Barack Obama is the president.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id87" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

@@ -225,7 +225,7 @@
         <mtriple>Above_the_Veil | country | Australians</mtriple>
         <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Aenir and its sequel Above the Veil are examples of Austrlian literature.</lex>
+      <lex comment="good" lid="Id1">Aenir and its sequel Above the Veil are examples of Australian literature.</lex>
       <lex comment="good" lid="Id2">Above the Veil, preceded by Aenir, is from the country of Australia.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -313,9 +313,9 @@
         <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
         <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land grant Universities and published Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id2">Cornell University, affiliated with the Association of Public and Land grant Universities, is publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3">Cornell University, affiliated with the Association of Public and Land grant Universities, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land-grant Universities and published Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University, affiliated with the Association of Public and Land-grant Universities, is publisher of Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3">Cornell University, affiliated with the Association of Public and Land-grant Universities, is the publisher of the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

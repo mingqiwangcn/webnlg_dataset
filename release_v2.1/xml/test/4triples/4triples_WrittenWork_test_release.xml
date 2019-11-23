@@ -241,9 +241,9 @@
         <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
         <mtriple>Cornell_University | state | New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, in New York is the publisher of the Administrative Science Quarterly as well as being affiliated with the Association of Public and Land grant Universities and the Association of American Universities.</lex>
-      <lex comment="good" lid="Id2">Administrative Science Quarterly was published by Cornell University, New York, affiliated with the Association of Public and Land Grant Universities and the Association of American Universities.</lex>
-      <lex comment="good" lid="Id3">The Administrative Science Quarterly is published by Cornell University, New York. Cornell University is affiliated with the Association of Public and Land Grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id1">Cornell University, in New York is the publisher of the Administrative Science Quarterly as well as being affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly was published by Cornell University, New York, affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
+      <lex comment="good" lid="Id3">The Administrative Science Quarterly is published by Cornell University, New York. Cornell University is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -258,9 +258,9 @@
         <mtriple>Cornell_University | state | New_York</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land grant Universities and publishes the Administrative Science Quarterly. The University is located in Ithaca in the state of New York.</lex>
-      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land grant Universities, Cornell University, publisher of Administrative Science Quarterly, is the located in the city of Ithaca found in the state of New York.</lex>
-      <lex comment="good" lid="Id3">Cornell University is located in Ithaca, New York and is affiliated with the Association of Public and Land grant Universities and publishes the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id1">Cornell University is affiliated with the Association of Public and Land-grant Universities and publishes the Administrative Science Quarterly. The University is located in Ithaca in the state of New York.</lex>
+      <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land-grant Universities, Cornell University, publisher of Administrative Science Quarterly, is the located in the city of Ithaca found in the state of New York.</lex>
+      <lex comment="good" lid="Id3">Cornell University is located in Ithaca, New York and is affiliated with the Association of Public and Land-grant Universities and publishes the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

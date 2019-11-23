@@ -1402,7 +1402,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Wizard of Mars is published in the United States in English which is the language of Great Britain. One of the ethnic groups in the US are the Native Americans.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States and is written in English, which is also spoken in Great Britain. Native Americans are one of the ethnic groups of the United States.</lex>
-      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States and is published in English which is spoken in great britain.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States and is published in English which is spoken in Great Britain. Native Americans is one of the ethnicities in the U.S.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id74" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2084,9 +2084,9 @@
         <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, of Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities and also with the Association of Public and Land Grant Universities.</lex>
-      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Located in New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land grant Universities and Association of American Universities.</lex>
-      <lex comment="good" lid="Id3">Cornell University in Ithaca, New York is affiliated with the Association of Public and Land grant Universities. and the Association of American Universities. The university publishes the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id1">Cornell University, of Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities and also with the Association of Public and Land-Grant Universities.</lex>
+      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Located in New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land-grant Universities and Association of American Universities.</lex>
+      <lex comment="good" lid="Id3">Cornell University in Ithaca, New York is affiliated with the Association of Public and Land-grant Universities. and the Association of American Universities. The university publishes the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id101" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2101,9 +2101,9 @@
         <mtriple>Cornell_University | president | Elizabeth_Garrett</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and the president is Elizabeth Garrett. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of Public and Land grant Universities.</lex>
-      <lex comment="good" lid="Id2">Cornell University, of Ithaca, New York, is the publisher of Administrative Science Quarterly. The president of Cornell University is Elizabeth Garrett and the university is affiliated with the Association of Public and Land grant Universities.</lex>
-      <lex comment="good" lid="Id3">Located in Ithaca New York, Cornell University is the publisher of the Administrative Science Quarterly. The university is affiliated with the Association of Public and Land grant Universities and its president is Elizabeth Garrett.</lex>
+      <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and the president is Elizabeth Garrett. They are the publisher of the Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id2">Cornell University, of Ithaca, New York, is the publisher of Administrative Science Quarterly. The president of Cornell University is Elizabeth Garrett and the university is affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id3">Located in Ithaca New York, Cornell University is the publisher of the Administrative Science Quarterly. The university is affiliated with the Association of Public and Land-grant Universities and its president is Elizabeth Garrett.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id102" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2135,9 +2135,9 @@
         <mtriple>Cornell_University | affiliation | Association_of_Public_and_Land-grant_Universities</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">Cornell University, nickname Cornell Big Red, is the publisher of the Administrative Science Quarterly. The University is located in the city of Ithaca, New York and is affiliated with the Association of Public and Land grant Universities.</lex>
-      <lex comment="good" lid="Id2">The Administrative Science Quarterly is published by Cornell University, Ithaca, New York. Cornell University (nicknamed 'Cornell Big Red') is affiliated with the Association of Public and Land Grant Universities.</lex>
-      <lex comment="good" lid="Id3">The Administrative Science Quarterly is published by Cornell University (Ithaca, New York). Cornell (also known as Cornell Big Red), is an affiliate of the Association of Public and Land Grants.</lex>
+      <lex comment="good" lid="Id1">Cornell University, nickname Cornell Big Red, is the publisher of the Administrative Science Quarterly. The University is located in the city of Ithaca, New York and is affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id2">The Administrative Science Quarterly is published by Cornell University, Ithaca, New York. Cornell University (nicknamed 'Cornell Big Red') is affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id3">The Administrative Science Quarterly is published by Cornell University (Ithaca, New York). Cornell (also known as Cornell Big Red), is an affiliate of the Association of Public and Land-grant Universities.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id104" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
