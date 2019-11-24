@@ -89,7 +89,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Ireland">Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
       <lex comment="good" lid="Id2">A Long Long Way, written in Ireland and published by Viking Press, was preceded by Annie Dunne, and followed by The Secret Scripture.</lex>
-      <lex comment="good" lid="Id3" error_1="Annie Dunne">A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunn and followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3" error_1="Annie Dunne">A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -122,7 +122,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Great Britain and is the language used in A Severed Wasp. The book originates from the United States where the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Great Britain">A Severed Wasp was written in English (the language originated in Great Britian) in the United States. The US has many ethnic groups, including African American.</lex>
+      <lex comment="good" lid="Id2" error_1="Great Britain">A Severed Wasp was written in English (the language originated in Great Britain) in the United States. The US has many ethnic groups, including African American.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

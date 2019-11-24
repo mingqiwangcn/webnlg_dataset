@@ -280,9 +280,9 @@
       <modifiedtripleset>
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">Charlie Johnson is the doctoral advisor for Michael Tinkham.</lex>
+      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">A.T. Charlie Johnson did his PhD under the supervision of Michael Tinkham.</lex>
       <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">A T Charlie Johnson's doctoral advisor was Michael Tinkham.</lex>
-      <lex comment="good" lid="Id3">A.T. Charlie Johnsonis doctoral advisor to Michael Tinkham.</lex>
+      <lex comment="good" lid="Id3">Michael Tinkham was a doctoral advisor of A.T. Charlie Johnson.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -509,7 +509,7 @@
         <mtriple>AIP_Advances | editor | "Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson,  Masaaki Tanaka, Enge G. Wang"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AIP Advances editors include the following: Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang.</lex>
-      <lex comment="good" lid="Id2" error_1="Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang">The editors of AIP Advances are Vicent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang.</lex>
+      <lex comment="good" lid="Id2" error_1="Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang">The editors of AIP Advances are Vincent H. Crespi, Bernard S. Gerstman, A.T. Charlie Johnson, Masaaki Tanaka, Enge G. Wang.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id50" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -644,7 +644,7 @@
       <modifiedtripleset>
         <mtriple>A_Glastonbury_Romance | LibraryofCongressClassification | "PR6031.O867"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="PR6031.O867">The Library of Congress Classification of "A Glastonbury Romance" is PR6031.0867.</lex>
+      <lex comment="good" lid="Id1" error_1="PR6031.O867">The Library of Congress Classification of "A Glastonbury Romance" is PR6031.O867.</lex>
       <lex comment="good" lid="Id2">The Library of Congress Classification of A Glastonbury Romance is PR6031O867.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id63" shape="(X (X))" shape_type="NA" size="1">
@@ -719,7 +719,7 @@
         <mtriple>A_Glastonbury_Romance | publisher | The_Bodley_Head</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Glastonbury Romance is published by The Bodley Head.</lex>
-      <lex comment="good" lid="Id2" error_1="A Glastonbury Romance">A Glastonbuy Romance is published by The Bodley Head.</lex>
+      <lex comment="good" lid="Id2" error_1="A Glastonbury Romance">A Glastonbury Romance is published by The Bodley Head.</lex>
       <lex comment="good" lid="Id3">A Glastonbury Romance was published by The Bodley Head.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
@@ -823,7 +823,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Loyal Character Dancer was penned by Qiu Xiaolong.</lex>
       <lex comment="good" lid="Id2">Qiu Xiaolong is the author of A Loyal Character Dancer.</lex>
-      <lex comment="good" lid="Id3" error_1="A Loyal Character Dancer">A Loyal Character was written by Qiu Xiaolong.</lex>
+      <lex comment="good" lid="Id3" error_1="A Loyal Character Dancer">A Loyal Character Dancer was written by Qiu Xiaolong.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id80" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1195,7 +1195,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acta Mathematica Hungarica CODEN code is "AMAHE9".</lex>
       <lex comment="good" lid="Id2">The CODEN code for Acta Mathematica Hungarica is "AMAHE9".</lex>
-      <lex comment="good" lid="Id3" error_1="Acta Mathematica Hungarica">The code of Acta Mathematica is AMAHE9.</lex>
+      <lex comment="good" lid="Id3" error_1="Acta Mathematica Hungarica">The code of Acta Mathematica Hungarica is AMAHE9.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1368,7 +1368,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
       <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
-      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The journal Addiction is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The journal Addiction is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1583,7 +1583,7 @@
       <modifiedtripleset>
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | literaryGenre | Fantasy_literature</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Alcatraz Versus the Evil Librarians">The literary genre of Alcatrz Versus the Evil Librarians is fantasy literature.</lex>
+      <lex comment="good" lid="Id1" error_1="Alcatraz Versus the Evil Librarians">The literary genre of Alcatraz Versus the Evil Librarians is fantasy literature.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is considered Fantasy literature.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
@@ -1709,7 +1709,7 @@
       <modifiedtripleset>
         <mtriple>American_Journal_of_Mathematics | publisher | Johns_Hopkins_University_Press</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Johns Hopkins University Press">The American Journal of Mathematics was published by Johns Hopkins University.</lex>
+      <lex comment="good" lid="Id1" error_1="Johns Hopkins University Press">The American Journal of Mathematics was published by Johns Hopkins University Press.</lex>
       <lex comment="good" lid="Id2">Johns Hopkins University Press is the publisher of the American Journal of Mathematics.</lex>
       <lex comment="good" lid="Id3">American Journal of Mathematics is published by the Johns Hopkins University Press.</lex>
     </entry>
@@ -1741,7 +1741,7 @@
         <mtriple>Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexander L. Wolf is a leader of the Association for Computing Machinery.</lex>
-      <lex comment="good" lid="Id2" error_1="Association for Computing Machinery">Alexander L. Wolf is the leader of the Association for Computing Machine.</lex>
+      <lex comment="good" lid="Id2" error_1="Association for Computing Machinery">Alexander L. Wolf is the leader of the Association for Computing Machinery.</lex>
       <lex comment="good" lid="Id3">The leader of the Association for Computing Machinery is Alexander L. Wolf.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id167" shape="(X (X))" shape_type="NA" size="1">
@@ -1808,7 +1808,7 @@
         <mtriple>Cornell_University | state | New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University is in the state of New York.</lex>
-      <lex comment="good" lid="Id2" error_1="Cornell University">Cornell Unversity is in New York.</lex>
+      <lex comment="good" lid="Id2" error_1="Cornell University">Cornell University is in New York.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id173" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1898,7 +1898,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The novel Into Battle is preceded by Above the Veil.</lex>
       <lex comment="good" lid="Id2">Into Battle (novel) was preceded by Above the Veil.</lex>
-      <lex comment="good" lid="Id3" error_1="Above the Veil">Above the Viel is the sequel to Into Battle.</lex>
+      <lex comment="good" lid="Id3" error_1="Above the Veil">Above the Veil is the sequel to Into Battle.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id181" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1952,7 +1952,7 @@
         <mtriple>John_Cowper_Powys | deathPlace | Blaenau_Ffestiniog</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John Cowper Powys died in Blaenau Ffestiniog.</lex>
-      <lex comment="good" lid="Id2" error_1="Blaenau Ffestiniog">John Cowper Powys died in Blaenau Ffestinlog.</lex>
+      <lex comment="good" lid="Id2" error_1="Blaenau Ffestiniog">John Cowper Powys died in Blaenau Ffestiniog.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1961,7 +1961,7 @@
       <modifiedtripleset>
         <mtriple>John_Cowper_Powys | notableWork | Owen_Glendower_(novel)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Owen Glendower (novel)">One of John Cowper Powys notable works is Oliver Glendower.</lex>
+      <lex comment="good" lid="Id1" error_1="Owen Glendower (novel)">One of John Cowper Powys notable works is Owen Glendower.</lex>
       <lex comment="good" lid="Id2">The novel Owen Glendower is a notable work by the author John Cowper Powys.</lex>
       <lex comment="good" lid="Id3">The novel Owen Glendower is a notable work by John Cowper Powys.</lex>
     </entry>
@@ -1972,8 +1972,8 @@
       <modifiedtripleset>
         <mtriple>John_Cowper_Powys | notableWork | Porius:_A_Romance_of_the_Dark_Ages</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Porius: A Romance of the Dark Ages">A notable work of John Cowper Powys is A Romance of the Dark Ages.</lex>
-      <lex comment="good" lid="Id2">John Cowper Powys notableWork was Porius A Romance of the Dark Ages.</lex>
+      <lex comment="good" lid="Id1" error_1="Porius: A Romance of the Dark Ages">A notable work of John Cowper Powys is Porius: A Romance of the Dark Ages.</lex>
+      <lex comment="good" lid="Id2">John Cowper Powys's notable work was Porius A Romance of the Dark Ages.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id188" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

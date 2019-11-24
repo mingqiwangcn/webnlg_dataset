@@ -131,7 +131,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDS journal was published by Lippincott Williams &amp; Wilkins in the United Kingdom where Elizabeth II is the leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Lippincott Williams &amp; Wilkins">The AIDS journal is published by Lippincot Williams &amp; Wilkins and comes from the United Kingdom where Elizabeth II is the leader.</lex>
+      <lex comment="good" lid="Id2" error_1="Lippincott Williams &amp; Wilkins">The AIDS journal is published by Lippincott Williams &amp; Wilkins and comes from the United Kingdom where Elizabeth II is the leader.</lex>
       <lex comment="good" lid="Id3">The AIDS journal, which came from the United Kingdom in the reign of Elizabeth II, was published by Lippincott Williams and Wilkins.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
