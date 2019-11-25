@@ -4,13 +4,13 @@ This repository presents the evolution of the WebNLG corpus.
 
 Each folder contains *the same data* in two formats: `xml` and `json`.
 
-1. 25 November 2019: `release_v2.1` (16,095 data inputs and 42,873 data-text pairs)
+* 25 November 2019: `release_v2.1` (16,095 data inputs and 42,873 data-text pairs)
 
 	It is the latest release. It has the same data as release_v2.
 
 	5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
 
-1. 14 September 2018: `release_v2` (16,095 data inputs and 42,892 data-text pairs)
+* 14 September 2018: `release_v2` (16,095 data inputs and 42,892 data-text pairs)
 
 	It includes release_v1 and test data (seen categories) from the WebNLG challenge.
 
@@ -18,13 +18,13 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 	Tree shapes and types (_sibling, chain, mixed_) were added for each input RDF tree.
 
-2. 14 September 2018: `release_v2_constrained`
+* 14 September 2018: `release_v2_constrained`
 
 	It has the same data as release_v2.
 
 	The split into train/dev/test is more challenging. That split ensures that a triple occurring in train/dev is not present in test (more info in the INLG 2018 paper below).
 
-3. 22 January 2018: `release_v1` (14,237 data inputs and 37,975 data-text pairs)
+* 22 January 2018: `release_v1` (14,237 data inputs and 37,975 data-text pairs)
 
 	It matches Final Release (Larger Dataset) on the [challenge website](http://webnlg.loria.fr/pages/results.html).
 
@@ -34,7 +34,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 	
 	Covers 15 DBpedia categories.
 
-4. 14 April 2017: `webnlg_challenge_2017` (9,674 data inputs and 25,298 data-text pairs)
+* 14 April 2017: `webnlg_challenge_2017` (9,674 data inputs and 25,298 data-text pairs)
 
 	Contains the data used in the [WebNLG Challenge 2017](http://webnlg.loria.fr/pages/results.html).
 	
