@@ -720,7 +720,7 @@
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">The doctoral advisor of A T Charlie Johnson, the editor of AIP Advances, was Michael Tinkham.</lex>
-      <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">A T Charlie Johnson, editor of AIP Advances, is doctoral advisor to Michael Tinkham.</lex>
+      <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">A T Charlie Johnson, editor of AIP Advances, was a PhD student of Michael Tinkham.</lex>
       <lex comment="good" lid="Id3" error_1="A.T. Charlie Johnson">Michael Tinkham was the doctoral advisor to A T Charlie Johnson who is the editor of AIP Advances.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id54" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1446,7 +1446,7 @@
         <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
         <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Print">A book called A Severed Wasp has 388 pages in total.</lex>
+      <lex comment="good" lid="Id1" error_1="Print">A book called A Severed Wasp has 388 pages in total and appeared in print.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp has 388 pages and is available in print.</lex>
       <lex comment="good" lid="Id3">The book "A Severed Wasp" is available in print and has 388 pages.</lex>
     </entry>
@@ -1745,7 +1745,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the ISSN number of "1588-2632".</lex>
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the ISSN number 1588-2632.</lex>
-      <lex comment="good" lid="Id3" error_1="Acta Mathematica Hungarica">Acta Matgematica Hungarica has the abbreviation of "Acta Math. Hungar" and the ISSN number is 1588-2632.</lex>
+      <lex comment="good" lid="Id3" error_1="Acta Mathematica Hungarica">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar" and the ISSN number is 1588-2632.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id128" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1889,7 +1889,7 @@
         <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paleobiology is the academic discipline of Acta Palaeontologica Polonica which has the abbreviated name of Acta Palaeontol. Pol.</lex>
-      <lex comment="good" lid="Id2" error_1="Acta Palaeontologica Polonica">The Acta Palaeontologica Polinica, abbreviated to Acta Palaeontol. Pol., comes under the academic discipline of Paleobiology.</lex>
+      <lex comment="good" lid="Id2" error_1="Acta Palaeontologica Polonica">The Acta Palaeontologica Polonica, abbreviated to Acta Palaeontol. Pol., comes under the academic discipline of Paleobiology.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id135" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2104,7 +2104,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University in the city of Ithaca, New York, is the publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Cornell University, located in ithaca NY, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Cornell University, located in Ithaca NY, is the publisher of the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id147" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2117,7 +2117,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Administrative Science Quarterly was published by Cornell University which has the nickname of Cornell Big Red.</lex>
       <lex comment="good" lid="Id2">Cornell University, which goes by the nickname Cornell Big Red, is the publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3" error_1="Cornell Big Red" error_2="Cornell University">Conrnell University, nicknamed Conrnell Big Red, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3" error_1="Cornell Big Red" error_2="Cornell University">Cornell University, nicknamed Cornell Big Red, is the publisher of the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id148" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2203,7 +2203,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Above the Veil was preceded By Aenir, both Australian novels.</lex>
       <lex comment="good" lid="Id2">Above the Veil is the sequel to Aenir which was written by Australians.</lex>
-      <lex comment="good" lid="Id3" error_1="Aenir">Above the Veil and its sequel Aeinir are examples of Australian literature.</lex>
+      <lex comment="good" lid="Id3" error_1="Aenir">Above the Veil and its sequel Aenir are examples of Australian literature.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id154" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2351,7 +2351,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians, available in print, has the ISBN number 0-439-92550-9.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is produced in print, with the ISBN number 0-439-92550-9.</lex>
-      <lex comment="good" lid="Id3" error_1="Alcatraz Versus the Evil Librarians">The book 'Alcatraz Versus the Evil Librarian' is in print and has the ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id3" error_1="Alcatraz Versus the Evil Librarians">The book 'Alcatraz Versus the Evil Librarians' is in print and has the ISBN number 0-439-92550-9.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id165" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2496,7 +2496,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Johns Hopkins University Press is located in the United States and publishes the American Journal of Mathematics.</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics was published by Johns Hopkins University Press in the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Johns Hopkins University Press">The American Journal of Mathematics was published by Johns Hopkins University based in the United States.</lex>
+      <lex comment="good" lid="Id3" error_1="Johns Hopkins University Press">The American Journal of Mathematics was published by Johns Hopkins University Press based in the United States.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id174" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2550,7 +2550,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The novel Owen Glendower is a notable work by John Cowper Powys, who also wrote A Glastonbury Romance.</lex>
       <lex comment="good" lid="Id2">Owen Glendower and A Glastonbury Romance are both novels written by John Cowper Powys.</lex>
-      <lex comment="good" lid="Id3" error_1="John Cowper Powys">John Coper Powys wrote the novel Owen Glendower and A Glastonbury Romance.</lex>
+      <lex comment="good" lid="Id3" error_1="John Cowper Powys">John Cowper Powys wrote the novel Owen Glendower and A Glastonbury Romance.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id178" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

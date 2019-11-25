@@ -328,7 +328,7 @@
         <mtriple>1634:_The_Ram_Rebellion | numberOfPages | "512"</mtriple>
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion was written by Eric Flint, has 512 pages and is the media type E book with an ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion was written by Eric Flint, has 512 pages and was published as E-book with an ISBN number of 1-4165-2060-0.</lex>
       <lex comment="good" lid="Id2">Eric Flint wrote the e-book "1634: The Ram Rebellion". The novel is 512 pages long and the ISBN code is 1-4165-2060-0.</lex>
       <lex comment="good" lid="Id3" error_1="E-book">1634: The Ram Rebellion by Eric Flint has 512 pages, can be found in E book format and has an ISBN number of 1-4165-2060-0.</lex>
     </entry>
@@ -649,9 +649,9 @@
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
         <mtriple>A.T._Charlie_Johnson | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">A T Charlie Johnson, a United States national, is the editor of AIP Advances. His Alma mater is Harvard University and he is the doctoral advisor for Michael Tinkham.</lex>
+      <lex comment="good" lid="Id1">A T Charlie Johnson, a United States national, is the editor of AIP Advances. His Alma mater is Harvard University and he is the doctoral student of Michael Tinkham.</lex>
       <lex comment="good" lid="Id2" error_1="Harvard University">American A.T. Charlie Johnson, who attended Harvard and whose doctoral advisor was Michael Tinkham, is the editor of AIP Advances.</lex>
-      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson, a U.S. national, attended Harvard University. His doctoral advisor was Michael Tinkham. Johnson edited AlP Advances.</lex>
+      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson, a U.S. national, attended Harvard University. His doctoral advisor was Michael Tinkham. Johnson edited AIP Advances.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id34" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -808,7 +808,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.T. Charlie Johnson lives in the U.S. and attended Stanford University where his doctoral advisor was Michael Tinkham. He is the editor of the publication AIP Advances.</lex>
       <lex comment="good" lid="Id2">The United States is the residence of A T Charlie Johnson who edited AIP Advances. His alma mater was Stanford University and his doctoral advisor was Michael Tinkham.</lex>
-      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson who lives in the U.S. and attended Stanford University is the editor of AlP Advances. His doctoral advisor at that university was Michael Tinkham.</lex>
+      <lex comment="good" lid="Id3" error_1="AIP Advances">A.T. Charlie Johnson who lives in the U.S. and attended Stanford University is the editor of AIP Advances. His doctoral advisor at that university was Michael Tinkham.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id43" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -840,7 +840,7 @@
         <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
         <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American Institute of Physics">A.T. Charlie Johnson lives in the United States and attended Stanford University. He is the editor of AIP advances which is published by The American Institue of Physics.</lex>
+      <lex comment="good" lid="Id1" error_1="American Institute of Physics">A.T. Charlie Johnson lives in the United States and attended Stanford University. He is the editor of AIP advances which is published by the American Institute of Physics.</lex>
       <lex comment="good" lid="Id2">The American Institute of Physics publishes AIP Advances and it was edited by A.T. Charlie Johnson, who lives in the U.S. and which almaMater is Stanford University.</lex>
       <lex comment="good" lid="Id3">AIP Advances, published by American Institute of Physics, is edited by A. T. Charlie Johnson, who resides in the U.S, and is a graduate of Stanford University.</lex>
     </entry>
@@ -880,8 +880,8 @@
         <mtriple>A.T._Charlie_Johnson | residence | United_States</mtriple>
         <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="AIP Advances">A T Charlie Johnson is the editor of AIP Advance, abbreviated to AIP Adv, from United States, graduated by Stanford University.</lex>
-      <lex comment="good" lid="Id2">"AIP Adv." is the abbreviation of AIP Advances, that was edited by A.T. Charlie Johnson. His residence is in The United States and his alma mater is Stanford University.</lex>
+      <lex comment="good" lid="Id1" error_1="AIP Advances">A T Charlie Johnson is the editor of AIP Advances, abbreviated to AIP Adv, from United States, graduated by Stanford University.</lex>
+      <lex comment="good" lid="Id2">"AIP Adv." is the abbreviation of AIP Advances, that was edited by A.T. Charlie Johnson. His residence is in the United States and his alma mater is Stanford University.</lex>
       <lex comment="good" lid="Id3">AIP Advances (abbreviation: AIP Adv) was edited by A.T. Charlie Johnson who went to Stanford University and lives in the U.S.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id47" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -962,7 +962,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Glastonbury Romance, with 1174 pages, is available in print. Its ISBN number is 0-7156-3648-0, and its OCLC number is 76798317.</lex>
       <lex comment="good" lid="Id2">A Glastonbury Romance, which has 1174 pages, is in print and has the OCLC number 76798317 and the ISBN number 0-7156-3648-0.</lex>
-      <lex comment="good" lid="Id3" error_1="0-7156-3648-0">The printed copy of A Glastonbury Romance has 1174 pages, an OCLC number of 76798317 and an ISBN number of -7156-3648-0.</lex>
+      <lex comment="good" lid="Id3" error_1="0-7156-3648-0">The printed copy of A Glastonbury Romance has 1174 pages, an OCLC number of 76798317 and an ISBN number of 0-7156-3648-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id51" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1219,7 +1219,7 @@
         <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
         <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A Loyal Character Dancer">In Great Britain English is the primary language. The book A Loyal Character is written in English, is published by Soho Press in the United States.</lex>
+      <lex comment="good" lid="Id1" error_1="A Loyal Character Dancer">In Great Britain English is the primary language. The book A Loyal Character Dancer is written in English, is published by Soho Press in the United States.</lex>
       <lex comment="good" lid="Id2">As English is spoken in Great Britain, A Loyal Character Dancer was written in English, published by Soho Press in the United States.</lex>
       <lex comment="good" lid="Id3">The English language is spoken in Great Britain and is also what A Loyal Character Dancer is written in. A Loyal Character Dancer was published in the United States by Soho Press.</lex>
     </entry>
@@ -1634,7 +1634,7 @@
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mathematics">83646315 is the LCCN number for Acta Mathematica Hungarica and the ISSN number is 1588-2632. Its bbreviation is "Acta Math. Hungar." and its discipline is Math.</lex>
+      <lex comment="good" lid="Id1" error_1="Mathematics">83646315 is the LCCN number for Acta Mathematica Hungarica and the ISSN number is 1588-2632. Its abbreviation is "Acta Math. Hungar." and its discipline is Math.</lex>
       <lex comment="good" lid="Id2" error_1="Mathematics">Acta Mathematica Hungarica (Acta Math. Hungar.) which has a discipline of math has the LCCN number 83646315 and ISSN number 1588-2632.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica has the abbreviation of Acta Math. Hungar and covers the academic discipline of Mathematics. This publication has the LCCN number 83646315 and the ISSN number 1588-2632.</lex>
     </entry>
@@ -1711,7 +1711,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acta Palaeontologica Polonica is published by the Institute of Paleobiology, Polish Academy of Sciences and has the abbreviated name of Acta Palaeontol. Pol. The LCCN number is 60040714 and the CODEN code APGPAC.</lex>
       <lex comment="good" lid="Id2">Acta Palaeontologica Polonica was published by the Institute of Paleobiology, Polish Academy of Sciences and its title is abbreviated to Acta Palaeontol. Pol. It has an LCCN number of 60040714 and its CODEN code is APGPAC.</lex>
-      <lex comment="good" lid="Id3" error_1="Institute of Paleobiology, Polish Academy of Sciences">Acta Palaeontologica Polonica which is abbreviated to Acta Palaeontol.Pol, was published by the Paleobiology, Polish Academy of Sciences. This publication has an LCCN number of 60040714 and a CODEN code of APGPAC.</lex>
+      <lex comment="good" lid="Id3" error_1="Institute of Paleobiology, Polish Academy of Sciences">Acta Palaeontologica Polonica which is abbreviated to Acta Palaeontol.Pol, was published by the Institute of Paleobiology, Polish Academy of Sciences. This publication has an LCCN number of 60040714 and a CODEN code of APGPAC.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id86" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1831,7 +1831,7 @@
         <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction Journal, abbreviated to Addiction, is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
-      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley Blackwell on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The journal Addiction, which is abbreviated to Addicition, had the ISSN number 0965-2140 and LCCN number 93645978 and is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
       <lex comment="good" lid="Id3">The Addiction Journal has the ISSN number of 0965-2140 and the LCCN number of 93645978. It is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and is abbreviated to "Addiction".</lex>
     </entry>
     <entry category="WrittenWork" eid="Id91" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1855,7 +1855,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and has the ISSN number 1360-0443. It has the abbreviation of "Addiction" and the LCCN number 93645978.</lex>
       <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the abbreviated name "Addiction". The ISSN number is 1360-0443 and the LCCN number is 93645978.</lex>
-      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley Blackwell on behalf of the Society of the Study of Addiction.</lex>
+      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction (journal) abbreviated to Addiction has an ISSN number of 1360-0443, a LCCN number of 93645978 and was published by Wiley-Blackwell on behalf of the Society of the Study of Addiction.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1919,7 +1919,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addiction journal (abbreviated to Addiction) is published by Wiley-Blackwell. It has the ISSN number 0965-2140, and the LCCN number 93645978.</lex>
       <lex comment="good" lid="Id2">Wiley-Blackwell is the publisher of Addiction (journal), known as Addiction, ISSN number of 0965-2140 and LCCN number 93645978.</lex>
-      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell">The Addiction journal (abbreviated to Addiction) was published by Wiley Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
+      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell">The Addiction journal (abbreviated to Addiction) was published by Wiley-Blackwell. It has an ISSN number of 0965-2140 and an LCCN number of 93645978.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id94" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2005,7 +2005,7 @@
         <mtriple>Administrative_Science_Quarterly | publisher | "SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It is abbreviated to Admin. Sci. Q. Its ISSN number is "0001-8392" and LLCN number is 57059226.</lex>
-      <lex comment="good" lid="Id2" error_1="0001-8392">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It has the abbreviation of Admin. Sci. Q, an ISSN number of 001-8392 and LLCN number of 57059226.</lex>
+      <lex comment="good" lid="Id2" error_1="0001-8392">Administrative Science Quarterly is published by SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University. It has the abbreviation of Admin. Sci. Q, an ISSN number of 0001-8392 and LLCN number of 57059226.</lex>
       <lex comment="good" lid="Id3" error_1="SAGE Publications for the Samuel Curtis Johnson Graduate School of Management, Cornell University">Administrative Science Quarterly, abbreviated to Admin.Sci.Q., is a Sage publication for the Samuel Curtis Johnson Graduate School of Management, Cornell University, LCCN number 57059226, ISSN number 0001-8392.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2085,7 +2085,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University, of Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities and also with the Association of Public and Land-Grant Universities.</lex>
-      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Located in New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land-grant Universities and Association of American Universities.</lex>
+      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Located in Ithaca, New York, Cornell University, the publisher of Administrative Science Quarterly, is affiliated with the Association of Public and Land-grant Universities and Association of American Universities.</lex>
       <lex comment="good" lid="Id3">Cornell University in Ithaca, New York is affiliated with the Association of Public and Land-grant Universities. and the Association of American Universities. The university publishes the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id101" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -2120,7 +2120,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University (nickname Cornell Big Red) published Administrative Science Quarterly. Cornell University is affiliated with the Association of American Universities and is located in Ithaca, New York.</lex>
       <lex comment="good" lid="Id2">Cornell University is in Ithaca, New York and is affiliated with the Association of American Universities. Their nickname is Cornell Big Red and they publish the Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3" error_1="Administrative Science Quarterly">Cornell University is affiliated with the Association of American Universities and publishes Adninistrative Science Quarterly. The University is located in Ithaca, New York and has the nickname Cornell Big Red.</lex>
+      <lex comment="good" lid="Id3" error_1="Administrative Science Quarterly">Cornell University is affiliated with the Association of American Universities and publishes Administrative Science Quarterly. The University is located in Ithaca, New York and has the nickname Cornell Big Red.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id103" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2182,8 +2182,8 @@
         <mtriple>Aenir | ISBN_number | "0-439-17684-0"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aenir, written by Garth Nix, is available in print. Its OCLC number is 45644811, and ISBN number is 0-439-17684-0.</lex>
-      <lex comment="good" lid="Id2" error_1="0-439-17684-0">Aenir, written by Garth Nix, was produced in print with the ISBN number 1-4165-2060-0 and the OCLC number 45644811.</lex>
-      <lex comment="good" lid="Id3" error_1="45644811">Aenir written by Garth Nix was produced in print has an OCLC number of 45344811 and an ISBN number of 0-439-17684-0.</lex>
+      <lex comment="good" lid="Id2" error_1="0-439-17684-0">Aenir, written by Garth Nix, was produced in print with the ISBN number 0-439-17684-0 and the OCLC number 45644811.</lex>
+      <lex comment="good" lid="Id3" error_1="45644811">Aenir written by Garth Nix was produced in print has an OCLC number of 45644811 and an ISBN number of 0-439-17684-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id106" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2199,7 +2199,7 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians comes from the U.S., where there is an ethnic group of Native Americans. The book is written in English, that is spoken in Great Britain.</lex>
-      <lex comment="good" lid="Id2" error_1="Alcatraz Versus the Evil Librarians">Alcatraz Versus the Evil Librarian was written in English which is spoken in Great Britain. The book originates from the United States where one of the ethnic groups are the Native Americans.</lex>
+      <lex comment="good" lid="Id2" error_1="Alcatraz Versus the Evil Librarians">Alcatraz Versus the Evil Librarians was written in English which is spoken in Great Britain. The book originates from the United States where one of the ethnic groups are the Native Americans.</lex>
       <lex comment="good" lid="Id3">The book Alcatraz Versus the Evil Librarians, from the United States, is written in English, also spoken in Great Britain. Native Americans are one of the ethnic groups of the United States.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id107" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2538,7 +2538,7 @@
         <mtriple>A_Loyal_Character_Dancer | country | United_States</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Great Britain">A Loyal Character Dancer was published by Soho Press and is published in the United States. In this country they speak English, same as in Great Britan.</lex>
+      <lex comment="good" lid="Id1" error_1="Great Britain">A Loyal Character Dancer was published by Soho Press and is published in the United States. In this country they speak English, same as in Great Britain.</lex>
       <lex comment="good" lid="Id2">English is the spoken language of both Great Britain and United States. The US is where A Loyal Character Dancer is published by Soho Press.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press in the United States. The language of both the US and Great Britain is English.</lex>
     </entry>
@@ -3130,7 +3130,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in both Great Britain and the United States (home of President Barack Obama). A Severed Wasp is from the United States.</lex>
       <lex comment="good" lid="Id2">Barack Obama was the president of the United States. English is the main language there, but was originated in Great Britain. A Severed Wasp is a book from the US.</lex>
-      <lex comment="good" lid="Id3" error_1="Great Britain">Some random facts about the United States: The language spoken there is mainly English, Barack Obama was the previous president, and the book A Severed Wasp was written there.</lex>
+      <lex comment="good" lid="Id3" error_1="Great Britain">Some random facts about the United States: the language spoken there is mainly English (as in Great Britain), Barack Obama was the previous president, and the book A Severed Wasp was written there.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id158" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
