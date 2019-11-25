@@ -6,9 +6,9 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 1. `release_v2.1` (16,095 data inputs and 42,873 data-text pairs)
 
-	It is the latest release.
+	It is the latest release. It has the same data as release_v2.
 
-	It has the same data as release_v2. 5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
+	5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
 
 1. `release_v2` (16,095 data inputs and 42,892 data-text pairs)
 
@@ -48,7 +48,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 ### Other related resources
 * Enriched version of WebNLG (referring expressions, delexicalised templates, German silver-standard translation, etc): [link](https://github.com/ThiagoCF05/webnlg)
-* Detect typos in WebNLG: [link](https://github.com/abevieiramota/challenge-webnlg/blob/master/notebook/14%20-%20Searching%20misspellings%20in%20references.ipynb)
+* Detect typos in WebNLG: [link](https://github.com/abevieiramota/challenge-webnlg/blob/master/notebook/14%20-%20Searching%20misspellings%20in%20references.ipynb).
 Those were corrected in the release_v2.1.
 
 ## Publications
