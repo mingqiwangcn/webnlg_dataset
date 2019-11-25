@@ -1593,7 +1593,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc fought in World War I and was awarded the Virtuti Militari and the Cross of Valour for Poland.</lex>
       <lex comment="good" lid="Id2">Having fought in World War I, Adam Koc, has been awarded the Cross of Valour for Poland and the Virtuti Militari.</lex>
-      <lex comment="good" lid="Id3">Adam Koc fought in World War I and was awarded the Virtuti Militari and the Cross of Valour for Poland.</lex>
+      <lex comment="good" lid="Id3">Adam Koc participated in World War I and was awarded the Virtuti Militari and the Cross of Valour for Poland.</lex>
     </entry>
     <entry category="Politician" eid="Id99" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2929,7 +2929,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, Austria-Hungary and died in Graz.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst (in Austria-Hungary) and died in Graz.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst, Austria-Hungary and died in Graz.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in Austria-Hungary and died in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id181" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2944,7 +2944,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Austria-Hungary, Alfons Gorbach, died in Graz.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary and died in Graz.</lex>
-      <lex comment="good" lid="Id3">Born in Austria-Hungary, Alfons Gorbach, died in Graz.</lex>
+      <lex comment="good" lid="Id3">Born in Austria-Hungary, Alfons Gorbach died in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id182" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2978,7 +2978,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, in Austria, and died in Graz.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst, in Austria, and died in Graz.</lex>
+      <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst, Austria, and died in Graz.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in Austria. Graz is the place he died.</lex>
     </entry>
     <entry category="Politician" eid="Id184" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

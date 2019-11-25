@@ -205,7 +205,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ab Klink was born in Stellendam in the Netherlands.</lex>
       <lex comment="good" lid="Id2">Ab Klink's place of birth, was Stellendam, in the Netherlands.</lex>
-      <lex comment="good" lid="Id3">Ab Klink was born in Stellendam in the Netherlands.</lex>
+      <lex comment="good" lid="Id3">Ab Klink was born in Stellendam, the Netherlands.</lex>
     </entry>
     <entry category="Politician" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2367,7 +2367,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach's place of birth was Tyrol state, Austria-Hungary.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in the state of Tyrol in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in the state of Tyrol, Austria-Hungary.</lex>
     </entry>
     <entry category="Politician" eid="Id176" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2404,7 +2404,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, in Tyrol.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
-      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst, County of Tyrol.</lex>
     </entry>
     <entry category="Politician" eid="Id179" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

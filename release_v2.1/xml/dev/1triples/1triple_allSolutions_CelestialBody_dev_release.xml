@@ -40,9 +40,8 @@
       <modifiedtripleset>
         <mtriple>(66391)_1999_KW4 | periapsis | 29919600000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">(66391) 1999 KW4 has a peripsis of 29919600000.0.</lex>
-      <lex comment="good" lid="Id2">(66391) 1999 KW4 has a periapsis of 29919600000.0.</lex>
-      <lex comment="good" lid="Id3">(66391) 1999 KW4 has a periapsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id1">(66391) 1999 KW4 has a periapsis of 29919600000.0.</lex>
+      <lex comment="good" lid="Id2">The apoapsis of (66391) 1999 KW4 is 29919600000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

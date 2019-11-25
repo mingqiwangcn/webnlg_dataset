@@ -4,13 +4,13 @@ This repository presents the evolution of the WebNLG corpus.
 
 Each folder contains *the same data* in two formats: `xml` and `json`.
 
-1. `release_v2.1` (16,095 data inputs and 42,880 data-text pairs)
+1. `release_v2.1` (16,095 data inputs and 42,873 data-text pairs)
 
 	It is the latest release.
 
-	It has the same data as release_v2. 5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md)
+	It has the same data as release_v2. 5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
 
-1. `release_v2`
+1. `release_v2` (16,095 data inputs and 42,892 data-text pairs)
 
 	It includes release_v1 and test data (seen categories) from the WebNLG challenge.
 
@@ -24,7 +24,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 	The split into train/dev/test is more challenging. That split ensures that a triple occurring in train/dev is not present in test (more info in the INLG 2018 paper below).
 
-3. `release_v1`
+3. `release_v1` (14,237 data inputs and 37,975 data-text pairs)
 
 	It matches Final Release (Larger Dataset) on the [challenge website](http://webnlg.loria.fr/pages/results.html).
 
@@ -34,7 +34,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 	
 	Covers 15 DBpedia categories.
 
-4. `webnlg_challenge_2017`
+4. `webnlg_challenge_2017` (9,674 data inputs and 25,298 data-text pairs)
 
 	Contains the data used in the [WebNLG Challenge 2017](http://webnlg.loria.fr/pages/results.html).
 	
@@ -47,8 +47,9 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 [http://webnlg.loria.fr/pages/docs.html](http://webnlg.loria.fr/pages/docs.html)
 
 ### Other related resources
+* Enriched version of WebNLG (referring expressions, delexicalised templates, German silver-standard translation, etc): [link](https://github.com/ThiagoCF05/webnlg)
 * Detect typos in WebNLG: [link](https://github.com/abevieiramota/challenge-webnlg/blob/master/notebook/14%20-%20Searching%20misspellings%20in%20references.ipynb)
-* Enriched version of WebNLG (German silver-standard translation, delexicalised templates, etc): [link](https://github.com/ThiagoCF05/webnlg)
+Those were corrected in the release_v2.1.
 
 ## Publications
 * [Creating Training Corpora for NLG Micro-Planners](http://www.aclweb.org/anthology/P17-1017). C. Gardent, A. Shimorina, S. Narayan, L. Perez-Beltrachini. ACL 2017.
@@ -100,4 +101,6 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 ## Contact
 * webnlg2017@inria.fr
 * or create an issue in this repository
- 
+
+## Contribute
+If you work with WebNLG and spot an error somewhere, do not hesitate to write to us or create a PR. Your changes will be integrated in a new WebNLG version. 

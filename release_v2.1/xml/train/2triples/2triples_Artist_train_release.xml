@@ -608,7 +608,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abradab was born in Poland on November 12th 1978.</lex>
       <lex comment="good" lid="Id2">Abradab was born on November 12, 1978 in Poland.</lex>
-      <lex comment="good" lid="Id3">Abradab was born in Poland on November 12th 1978.</lex>
+      <lex comment="good" lid="Id3">Abradab was born in Poland on November 12th, 1978.</lex>
     </entry>
     <entry category="Artist" eid="Id45" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1804,7 +1804,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester, England.</lex>
       <lex comment="good" lid="Id2">The birthplace of Alfred Garth Jones is Manchester, England.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester, England.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester in England.</lex>
     </entry>
     <entry category="Artist" eid="Id122" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1843,7 +1843,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones was born in Manchester and died in Sidcup.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones, born in Manchester, died in Sidcup.</lex>
-      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester and died in Sidcup.</lex>
+      <lex comment="good" lid="Id3">Alfred Garth Jones was born in Manchester and passed away in Sidcup.</lex>
     </entry>
     <entry category="Artist" eid="Id125" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2873,7 +2873,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is musically associated with Jwaydan Moyine and Bobina.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel is associated with musicians Jwaydan Moyine and Bobina.</lex>
-      <lex comment="good" lid="Id3">Andrew Rayel is musically associated with Jwaydan Moyine and Bobina.</lex>
+      <lex comment="good" lid="Id3">Andrew Rayel is musically connected with Jwaydan Moyine and Bobina.</lex>
     </entry>
     <entry category="Artist" eid="Id201" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

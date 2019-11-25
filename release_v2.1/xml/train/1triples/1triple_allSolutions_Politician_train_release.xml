@@ -157,7 +157,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron S Daggett was born in Maine.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett was born in Maine.</lex>
-      <lex comment="good" lid="Id3">Aaron S. Daggett was born in Maine.</lex>
+      <lex comment="good" lid="Id3">Maine is the birth place of Aaron S. Daggett.</lex>
     </entry>
     <entry category="Politician" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -230,7 +230,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stellendam was the birthplace of Ab Klink.</lex>
       <lex comment="good" lid="Id2">Ab Klink was born in Stellendam.</lex>
-      <lex comment="good" lid="Id3">Ab Klink was born in Stellendam.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -482,7 +481,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdulsalami Abubakar's successor was Al-Amin Daggash.</lex>
       <lex comment="good" lid="Id2">Al-Amin Daggash was succeeded by Abdulsalami Abubakar.</lex>
-      <lex comment="good" lid="Id3">Abdulsalami Abubakar's successor was Al-Amin Daggash.</lex>
+      <lex comment="good" lid="Id3">Al-Amin Daggash was Abdulsalami Abubakar's successor.</lex>
     </entry>
     <entry category="Politician" eid="Id46" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -551,7 +550,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero was in office while Felipe González was Prime Minister.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was in office while Felipe Gonzalez was Prime Minister.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero was in office while Felipe Gonzalez was Prime Minister.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero was in office when Felipe Gonzalez was Prime Minister.</lex>
     </entry>
     <entry category="Politician" eid="Id52" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -562,7 +561,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero is Spanish.</lex>
       <lex comment="good" lid="Id2">Abel Caballero is a national of Spain.</lex>
-      <lex comment="good" lid="Id3">Abel Caballero is Spanish.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero is from Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -603,7 +602,7 @@
         <mtriple>Abel_Caballero | office (workedAt, workedAs) | Ministry_of_Public_Works_and_Transport_(Spain)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero worked at the Ministry of Public Works and Transport in Spain.</lex>
-      <lex comment="good" lid="Id2">Abel Caballero worked at the Ministry of Public Works and Transport in Spain.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was employed at the Ministry of Public Works and Transport in Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id57" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -740,7 +739,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">New York City, New York, U.S. is the death place of Abraham A. Ribicoff.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff died in New York City, New York, U.S.</lex>
-      <lex comment="good" lid="Id3">Abraham A. Ribicoff died in New York City, New York, U.S.</lex>
+      <lex comment="good" lid="Id3">Abraham A. Ribicoff passed away in New York City, New York, U.S.</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1137,7 +1136,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolf Schärf was born in Austria-Hungary.</lex>
       <lex comment="good" lid="Id2">Adolf Scharf was born in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id3">Adolf Scharf was born in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id3">Austria-Hungary is the birthplace of Adolf Scharf.</lex>
     </entry>
     <entry category="Politician" eid="Id106" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1441,7 +1440,7 @@
         <mtriple>Airey_Neave | birthPlace | Knightsbridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Airey Neave was born in Knightsbridge.</lex>
-      <lex comment="good" lid="Id2">Airey Neave was born in Knightsbridge.</lex>
+      <lex comment="good" lid="Id2">Knightsbridge is the birthplace of Airey Neave.</lex>
     </entry>
     <entry category="Politician" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1844,7 +1843,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | Austria-Hungary</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfons Gorbach was born in Austria-Hungary.</lex>
-      <lex comment="good" lid="Id2">Alfons Gorbach was born in Austria-Hungary.</lex>
+      <lex comment="good" lid="Id2">Austria-Hungary is the birthplace of Alfons Gorbach.</lex>
     </entry>
     <entry category="Politician" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2115,7 +2114,6 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips was born in Connecticut.</lex>
       <lex comment="good" lid="Id2">Connecticut was the birthplace of Alfred N Phillips.</lex>
-      <lex comment="good" lid="Id3">Alfred N. Phillips was born in Connecticut.</lex>
     </entry>
     <entry category="Politician" eid="Id197" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

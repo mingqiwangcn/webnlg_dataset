@@ -1049,7 +1049,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of the state of Texas in the United States.</lex>
       <lex comment="good" lid="Id2">The city of Amarillo, Texas is in the United States.</lex>
-      <lex comment="good" lid="Id3">The city of Amarillo, Texas is in the United States.</lex>
+      <lex comment="good" lid="Id3">The city of Amarillo, Texas is in the U.S.A.</lex>
     </entry>
     <entry category="City" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

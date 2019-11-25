@@ -1430,7 +1430,6 @@
         <mtriple>Alfredo_Zitarrosa | associatedBand/associatedMusicalArtist | Yamandú_Palacios</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
-      <lex comment="good" lid="Id2">Alfredo Zitarrosa is associated with Yamandú Palacios.</lex>
     </entry>
     <entry category="Artist" eid="Id128" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1830,7 +1829,7 @@
         <mtriple>Allen_Forrest | birthPlace | Dothan,_Alabama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest was born in Dothan, Alabama.</lex>
-      <lex comment="good" lid="Id2">Allen Forrest was born in Dothan, Alabama.</lex>
+      <lex comment="good" lid="Id2">Dothan, Alabama is the birth place of Allen Forrest.</lex>
     </entry>
     <entry category="Artist" eid="Id162" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

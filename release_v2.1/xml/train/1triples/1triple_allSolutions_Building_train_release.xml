@@ -190,7 +190,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street is owned by Redefine Properties Limited.</lex>
-      <lex comment="good" lid="Id3">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
+      <lex comment="good" lid="Id3">Redefine Properties Limited owns 11 Diagonal Street.</lex>
     </entry>
     <entry category="Building" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -532,7 +532,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 3Arena is located in Dublin.</lex>
       <lex comment="good" lid="Id2">3Arena is located in Dublin.</lex>
-      <lex comment="good" lid="Id3">3Arena is located in Dublin.</lex>
+      <lex comment="good" lid="Id3">3Arena is situated in Dublin.</lex>
     </entry>
     <entry category="Building" eid="Id51" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -797,7 +797,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Addis Ababa City Hall was completed in 1964.</lex>
       <lex comment="good" lid="Id2">Addis Ababa City Hall's completion date was in 1964.</lex>
-      <lex comment="good" lid="Id3">Addis Ababa City Hall was completed in 1964.</lex>
+      <lex comment="good" lid="Id3">Addis Ababa City Hall was finished in 1964.</lex>
     </entry>
     <entry category="Building" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -945,7 +945,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall is located in Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Adisham Hall is in Sri Lanka.</lex>
-      <lex comment="good" lid="Id3">Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall is situated in Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id88" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

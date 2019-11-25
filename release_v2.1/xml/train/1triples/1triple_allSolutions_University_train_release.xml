@@ -315,7 +315,7 @@
       <lex comment="good" lid="Id2">Acharya Institute of Technology's number of Undergraduate students total to ~10000.</lex>
       <lex comment="good" lid="Id3">There are around 10000 undergraduate students at the Acharya Institute of Technology.</lex>
       <lex comment="good" lid="Id4">The Acharya Institute of Technology has 10000 undergraduate students.</lex>
-      <lex comment="good" lid="Id5">The Acharya Institute of Technology has 10000 undergraduate students.</lex>
+      <lex comment="good" lid="Id5">The Acharya Institute of Technology has 10,000 undergraduate students.</lex>
       <lex comment="good" lid="Id6">Acharya Institute of Technology has 10,000 undergraduate students.</lex>
     </entry>
     <entry category="University" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
@@ -622,11 +622,11 @@
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Johann Schneider-Ammann is the leader of Switzerland.</lex>
-      <lex comment="good" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland.</lex>
+      <lex comment="good" lid="Id2">Johann Schneider-Ammann is the Swiss leader.</lex>
       <lex comment="good" lid="Id3">The leader of Switzerland is Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id4">Switzerland has a leader called Johann Schneider-Ammann.</lex>
       <lex comment="good" lid="Id5">Johann Schneider-Ammann is the name of the leader of Switzerland.</lex>
-      <lex comment="good" lid="Id6">The leader of Switzerland is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id6">The Swiss leader is Johann Schneider-Ammann.</lex>
     </entry>
     <entry category="University" eid="Id55" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

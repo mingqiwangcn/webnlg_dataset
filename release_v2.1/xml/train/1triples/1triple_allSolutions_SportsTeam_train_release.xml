@@ -570,7 +570,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The full name of AS Gubbio 1910 is "Associazione Sportiva Gubbio 1910 Srl".</lex>
       <lex comment="good" lid="Id2">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.</lex>
-      <lex comment="good" lid="Id3">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.</lex>
+      <lex comment="good" lid="Id3">Associazione Sportiva Gubbio 1910 Srl is the full name of A.S. Gubbio 1910.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id58" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -735,7 +735,7 @@
         <mtriple>A.S._Roma | ground | "Rome, Italy"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.S. Roma's ground is in Rome, Italy.</lex>
-      <lex comment="good" lid="Id2">A.S. Roma's ground is in Rome, Italy.</lex>
+      <lex comment="good" lid="Id2">The ground of A.S. Roma is in Rome, Italy.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1351,7 +1351,6 @@
         <mtriple>Amsterdam | part | Amsterdam-Noord</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amsterdam-Noord is part of Amsterdam.</lex>
-      <lex comment="good" lid="Id2">Amsterdam-Noord is part of Amsterdam.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1562,7 +1561,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
       <lex comment="good" lid="Id2">The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
-      <lex comment="good" lid="Id3">Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
+      <lex comment="good" lid="Id3">Estadio Municipal Coaracy da Mata Fonseca is situated in Alagoas.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id153" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
