@@ -179,7 +179,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(29075) 1950 DA has a density of 3.5 kilograms.</lex>
       <lex comment="good" lid="Id2">(29075) 1950 DA has a density of 3.5 kgs.</lex>
-      <lex comment="good" lid="Id3">the density of 29075 1950 DA is 3.5 kilograms.</lex>
+      <lex comment="good" lid="Id3">The density of 29075 1950 DA is 3.5 kilograms.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -809,7 +809,7 @@
         <mtriple>1036_Ganymed | orbitalPeriod | 374976.0 (seconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1036 Ganymed has an orbital period of 374976.0 seconds.</lex>
-      <lex comment="good" lid="Id2">the orbital period of 1036 Ganymed is 374976 seconds.</lex>
+      <lex comment="good" lid="Id2">The orbital period of 1036 Ganymed is 374976 seconds.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id74" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

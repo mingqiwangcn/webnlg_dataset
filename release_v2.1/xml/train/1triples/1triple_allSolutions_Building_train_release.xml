@@ -1640,7 +1640,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Chicago is part of Illinois.</lex>
       <lex comment="good" lid="Id2">Chicago is part of the State of Illinois.</lex>
-      <lex comment="good" lid="Id3">the city of Chicago is part of the state of Illinois.</lex>
+      <lex comment="good" lid="Id3">The city of Chicago is part of the state of Illinois.</lex>
     </entry>
     <entry category="Building" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1716,7 +1716,7 @@
         <mtriple>Cleveland | leaderName | Frank_G._Jackson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Frank G Jackson is a leader in Cleveland.</lex>
-      <lex comment="good" lid="Id2">the leader in Cleveland is Frank G Jackson.</lex>
+      <lex comment="good" lid="Id2">The leader in Cleveland is Frank G Jackson.</lex>
     </entry>
     <entry category="Building" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

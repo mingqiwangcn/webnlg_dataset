@@ -623,7 +623,7 @@
       <modifiedtripleset>
         <mtriple>BLT | ingredient | Lettuce</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">one of the ingredients of the BLT sandwich is Lettuce.</lex>
+      <lex comment="good" lid="Id1">One of the ingredients of the BLT sandwich is Lettuce.</lex>
       <lex comment="good" lid="Id2">Lettuce is an ingredient in a BLT.</lex>
     </entry>
     <entry category="Food" eid="Id60" shape="(X (X))" shape_type="NA" size="1">
@@ -695,7 +695,7 @@
         <mtriple>Bacon_Explosion | mainIngredients | Sausage</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sausage is a main ingredient of Bacon Explosion.</lex>
-      <lex comment="good" lid="Id2">sausage is a main ingredient in bacon explosion.</lex>
+      <lex comment="good" lid="Id2">Sausage is a main ingredient in bacon explosion.</lex>
     </entry>
     <entry category="Food" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -714,7 +714,7 @@
         <mtriple>Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The bacon sandwich has different names including: Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
-      <lex comment="good" lid="Id2">a bacon sandwich can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
+      <lex comment="good" lid="Id2">A bacon sandwich can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id69" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -781,7 +781,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Condiments are an ingredient in a bacon sandwich.</lex>
       <lex comment="good" lid="Id2">Condiments are used in the preparation of a bacon sandwich.</lex>
-      <lex comment="good" lid="Id3">condiments are ingredients in bacon sandwiches.</lex>
+      <lex comment="good" lid="Id3">Condiments are ingredients in bacon sandwiches.</lex>
     </entry>
     <entry category="Food" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -792,7 +792,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ketchup can be an ingredient in a bacon sandwich.</lex>
       <lex comment="good" lid="Id2">Ketchup can be added to a bacon sandwich.</lex>
-      <lex comment="good" lid="Id3">one of the ingredients of a Bacon Sandwich is Ketchup.</lex>
+      <lex comment="good" lid="Id3">One of the ingredients of a Bacon Sandwich is Ketchup.</lex>
     </entry>
     <entry category="Food" eid="Id76" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -802,7 +802,7 @@
         <mtriple>Bacon_sandwich | mainIngredients | "Bread and bacon, with a condiment, often ketchup or brown sauce"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients of a bacon sandwich are bread and bacon and a condiment, often ketchup or brown sauce.</lex>
-      <lex comment="good" lid="Id2">the main ingredients in a Bacon sandwich are bread and bacon with ketchup or brown sauce as a condiment.</lex>
+      <lex comment="good" lid="Id2">The main ingredients in a Bacon sandwich are bread and bacon with ketchup or brown sauce as a condiment.</lex>
     </entry>
     <entry category="Food" eid="Id77" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -885,7 +885,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sponge cake is an ingredient of Baked Alaska.</lex>
       <lex comment="good" lid="Id2">One of the ingredients of Baked Alaska is Sponge Cake.</lex>
-      <lex comment="good" lid="Id3">sponge cake is an ingredient in baked alaska.</lex>
+      <lex comment="good" lid="Id3">Sponge cake is an ingredient in baked alaska.</lex>
     </entry>
     <entry category="Food" eid="Id85" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1156,7 +1156,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Fried egg is an ingredient of Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Fried egg is one of the ingredients of Bandeja paisa.</lex>
-      <lex comment="good" lid="Id3">fried egg is an ingredient in bandeja paisa.</lex>
+      <lex comment="good" lid="Id3">Fried egg is an ingredient in bandeja paisa.</lex>
     </entry>
     <entry category="Food" eid="Id111" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1206,7 +1206,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pork belly is an ingredient in the dish Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Pork belly is an ingredient in Bandeja paisa.</lex>
-      <lex comment="good" lid="Id3">one of the ingredients of Bandeja paisa is Pork belly.</lex>
+      <lex comment="good" lid="Id3">One of the ingredients of Bandeja paisa is Pork belly.</lex>
     </entry>
     <entry category="Food" eid="Id116" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1268,7 +1268,7 @@
       <modifiedtripleset>
         <mtriple>Barny_Cakes | dishVariation | Apple</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">barny cakes can be made with apple.</lex>
+      <lex comment="good" lid="Id1">Barny cakes can be made with apple.</lex>
     </entry>
     <entry category="Food" eid="Id122" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1380,7 +1380,7 @@
         <mtriple>Batchoy | ingredient | Beef</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Beef is an ingredient of Batchoy.</lex>
-      <lex comment="good" lid="Id2">beef is an ingredient in batchoy.</lex>
+      <lex comment="good" lid="Id2">Beef is an ingredient in batchoy.</lex>
     </entry>
     <entry category="Food" eid="Id133" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1400,7 +1400,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Pork is an ingredient of Batchoy.</lex>
       <lex comment="good" lid="Id2">Pork is an ingredient in Batchoy.</lex>
-      <lex comment="good" lid="Id3">one of the ingredients of Batchoy is Pork.</lex>
+      <lex comment="good" lid="Id3">One of the ingredients of Batchoy is Pork.</lex>
     </entry>
     <entry category="Food" eid="Id135" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1581,7 +1581,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The dish bhajji is related to pakora.</lex>
       <lex comment="good" lid="Id2">Bhajji is a snack that is similar to Pakora.</lex>
-      <lex comment="good" lid="Id3">bhajji and pakora are related.</lex>
+      <lex comment="good" lid="Id3">Bhajji and pakora are related.</lex>
     </entry>
     <entry category="Food" eid="Id152" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1632,7 +1632,7 @@
         <mtriple>Binignit | ingredient | Coconut_milk</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Coconut milk is an ingredient of Binignit.</lex>
-      <lex comment="good" lid="Id2">coconut milk is an ingredient in Binignit.</lex>
+      <lex comment="good" lid="Id2">Coconut milk is an ingredient in Binignit.</lex>
     </entry>
     <entry category="Food" eid="Id157" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1643,7 +1643,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sago is an ingredient of Binignit.</lex>
       <lex comment="good" lid="Id2">Sago is one of the ingredients used to make Binignit.</lex>
-      <lex comment="good" lid="Id3">sago is an ingredient in Binignit.</lex>
+      <lex comment="good" lid="Id3">Sago is an ingredient in Binignit.</lex>
     </entry>
     <entry category="Food" eid="Id158" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1654,7 +1654,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sweet potato is and ingredient in Binignit.</lex>
       <lex comment="good" lid="Id2">Sweet potatoes are in binignit recipes.</lex>
-      <lex comment="good" lid="Id3">one of the ingredients of Binignit is Sweet potato.</lex>
+      <lex comment="good" lid="Id3">One of the ingredients of Binignit is Sweet potato.</lex>
     </entry>
     <entry category="Food" eid="Id159" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1786,7 +1786,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sour cream is an ingredient of Bionico.</lex>
       <lex comment="good" lid="Id2">Sour cream is an ingredient used in the preparation of Bionico.</lex>
-      <lex comment="good" lid="Id3">sour cream is an ingredient in Bionico.</lex>
+      <lex comment="good" lid="Id3">Sour cream is an ingredient in Bionico.</lex>
     </entry>
     <entry category="Food" eid="Id172" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1919,7 +1919,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sandesh (confectionery) is a dish that can be served as a dessert.</lex>
       <lex comment="good" lid="Id2">Sandesh is a nice confectionery dessert.</lex>
-      <lex comment="good" lid="Id3">sandesh is a dessert.</lex>
+      <lex comment="good" lid="Id3">Sandesh is a dessert.</lex>
     </entry>
     <entry category="Food" eid="Id185" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1930,7 +1930,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In France the currency is the Euro.</lex>
       <lex comment="good" lid="Id2">The Euro is the currency in France.</lex>
-      <lex comment="good" lid="Id3">the currency of France is the Euro.</lex>
+      <lex comment="good" lid="Id3">The currency of France is the Euro.</lex>
     </entry>
     <entry category="Food" eid="Id186" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2250,7 +2250,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A lemon is included in the order of Sapindales.</lex>
       <lex comment="good" lid="Id2">Lemon comes from the plant order Sapindales.</lex>
-      <lex comment="good" lid="Id3">lemons are classified in the order sapindales.</lex>
+      <lex comment="good" lid="Id3">Lemons are classified in the order sapindales.</lex>
     </entry>
     <entry category="Food" eid="Id213" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2297,7 +2297,7 @@
         <mtriple>Malaysia | ethnicGroup | Malaysian_Indian</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Malaysian Indian is one of the ethnic groups on Malaysia.</lex>
-      <lex comment="good" lid="Id2">one of the ethnic groups of Malaysia is Malaysian Indian.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups of Malaysia is Malaysian Indian.</lex>
     </entry>
     <entry category="Food" eid="Id217" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2338,7 +2338,7 @@
         <mtriple>Malaysia | leaderName | Najib_Razak</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Najib Razak is the leader of Malaysia.</lex>
-      <lex comment="good" lid="Id2">the name of the leader of Malaysia is Najib Razak.</lex>
+      <lex comment="good" lid="Id2">The name of the leader of Malaysia is Najib Razak.</lex>
     </entry>
     <entry category="Food" eid="Id221" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2448,7 +2448,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Igorot people are an ethnic group in the Philippines.</lex>
       <lex comment="good" lid="Id2">Igorot people are part of one of the ethnic groups in the Philippines.</lex>
-      <lex comment="good" lid="Id3">one of the ethnic groups of the Philippines is the Igorot people.</lex>
+      <lex comment="good" lid="Id3">One of the ethnic groups of the Philippines is the Igorot people.</lex>
     </entry>
     <entry category="Food" eid="Id231" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2475,7 +2475,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Moro people are an ethnic group in the Philippines.</lex>
       <lex comment="good" lid="Id2">Moro people is an ethnic group in the Philippines.</lex>
-      <lex comment="good" lid="Id3">people of Moro ethnicity are from the Philippines.</lex>
+      <lex comment="good" lid="Id3">People of Moro ethnicity are from the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id233" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2488,7 +2488,7 @@
         <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Zamboangans are a group in the Philippines.</lex>
-      <lex comment="good" lid="Id2">one of the ethnic groups of the Philippines is the Zamboangans.</lex>
+      <lex comment="good" lid="Id2">One of the ethnic groups of the Philippines is the Zamboangans.</lex>
     </entry>
     <entry category="Food" eid="Id234" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2660,7 +2660,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In Spain the language spoken is the Spanish language.</lex>
       <lex comment="good" lid="Id2">The Spanish language is spoken in Spain.</lex>
-      <lex comment="good" lid="Id3">the language of Spain is Spanish.</lex>
+      <lex comment="good" lid="Id3">The language of Spain is Spanish.</lex>
     </entry>
     <entry category="Food" eid="Id249" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

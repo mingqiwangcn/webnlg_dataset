@@ -1763,7 +1763,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company, which was succeeded by the Rover Company.</lex>
       <lex comment="good" lid="Id2">The Alvis Speed 25 was made by the Alvis Car and Engineering Company which was succeeded by the Rover Co.</lex>
-      <lex comment="good" lid="Id3">he Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company which was later succeeded by the Rover Company.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25 was manufactured by the Alvis Car and Engineering Company which was later succeeded by the Rover Company.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id125" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2386,7 +2386,7 @@
         <mtriple>Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
         <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">The Aston Martin Virage  which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin Virage which succeeded the V8, and the Aston Martin DBS are similar vehicles.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 was succeeded by the Aston Martin Virage which is a related vehicle to the Aston Martin DBS.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 was succeeded by the Aston Martin Virage which is related to the Aston Martin DBS.</lex>
     </entry>

@@ -30,7 +30,7 @@
         <mtriple>Arròs_negre | ingredient | White_rice</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre contains white rice as an ingredient.</lex>
-      <lex comment="good" lid="Id2">white rice is an ingredient in Arròs negre.</lex>
+      <lex comment="good" lid="Id2">White rice is an ingredient in Arròs negre.</lex>
     </entry>
     <entry category="Food" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -70,7 +70,7 @@
         <mtriple>BLT | ingredient | Tomato</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tomato is an ingredient in a BLT.</lex>
-      <lex comment="good" lid="Id2">one of the ingredients of the BLT Sandwich is Tomato.</lex>
+      <lex comment="good" lid="Id2">One of the ingredients of the BLT Sandwich is Tomato.</lex>
     </entry>
     <entry category="Food" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -171,7 +171,7 @@
         <mtriple>Batchoy | ingredient | Shrimp</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Shrimp is an ingredient in Batchoy.</lex>
-      <lex comment="good" lid="Id2">one of the ingredients for Batchoy is Shrimp.</lex>
+      <lex comment="good" lid="Id2">One of the ingredients for Batchoy is Shrimp.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -232,7 +232,7 @@
         <mtriple>Chicken | class | Bird</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Chicken is a type of bird.</lex>
-      <lex comment="good" lid="Id2">the class of chickens is bird.</lex>
+      <lex comment="good" lid="Id2">The class of chickens is bird.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -243,7 +243,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The currency of India is the Indian rupee.</lex>
       <lex comment="good" lid="Id2">Indian rupee is the currency in India.</lex>
-      <lex comment="good" lid="Id3">the Indian rupee is the currency in India.</lex>
+      <lex comment="good" lid="Id3">The Indian rupee is the currency in India.</lex>
     </entry>
     <entry category="Food" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -326,7 +326,7 @@
         <mtriple>New_York | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spanish language is one of the languages spoken in New York.</lex>
-      <lex comment="good" lid="Id2">one of the languages of New York is Spanish.</lex>
+      <lex comment="good" lid="Id2">One of the languages of New York is Spanish.</lex>
     </entry>
     <entry category="Food" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

@@ -53,7 +53,7 @@
         <mtriple>Arrabbiata_sauce | mainIngredients | "Tomatoes, red chili, garlic, olive oil"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arrabbiata sauce is made with tomatoes, red chili, garlic and olive oil.</lex>
-      <lex comment="good" lid="Id2">the main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil.</lex>
+      <lex comment="good" lid="Id2">The main ingredients in Arrabbiata sauce are Tomatoes, red chili, garlic and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -102,7 +102,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet should be served hot.</lex>
       <lex comment="good" lid="Id2">Ayam penyet is a dish that should be served hot.</lex>
-      <lex comment="good" lid="Id3">ayam penyet is served hot.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is served hot.</lex>
     </entry>
     <entry category="Food" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -133,7 +133,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The dish Bakso contains noodles.</lex>
       <lex comment="good" lid="Id2">Noodle is an ingredient in Bakso.</lex>
-      <lex comment="good" lid="Id3">bakso contains noodles.</lex>
+      <lex comment="good" lid="Id3">Bakso contains noodles.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -299,7 +299,7 @@
         <mtriple>Lemon | order | Rosids</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lemon is under the order of Rosids.</lex>
-      <lex comment="good" lid="Id2">the order of lemons is Rosids.</lex>
+      <lex comment="good" lid="Id2">The order of lemons is Rosids.</lex>
     </entry>
     <entry category="Food" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

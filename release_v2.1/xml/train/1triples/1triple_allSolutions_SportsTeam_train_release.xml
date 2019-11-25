@@ -1041,7 +1041,7 @@
       <modifiedtripleset>
         <mtriple>AZAL_Arena | location | Azerbaijan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">the AZAL Arena is located in Azerbaijan.</lex>
+      <lex comment="good" lid="Id1">The AZAL Arena is located in Azerbaijan.</lex>
       <lex comment="good" lid="Id2">The AZAL arena is in Azerbaijan.</lex>
       <lex comment="good" lid="Id3">AZAL Arena is located in Azerbaijan.</lex>
     </entry>
@@ -1136,7 +1136,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom has been manager of AZ Alkmaar.</lex>
       <lex comment="good" lid="Id2">John van den Brom manages the AZ Alkmaar.</lex>
-      <lex comment="good" lid="Id3">the manager of AZ Alkmaar is john van den Brom.</lex>
+      <lex comment="good" lid="Id3">The manager of AZ Alkmaar is john van den Brom.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id114" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2688,7 +2688,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Stuart Parker has represented the club KV Mechelen.</lex>
       <lex comment="good" lid="Id2">Stuart Parker the football player is part of the KV Mechelen club.</lex>
-      <lex comment="good" lid="Id3">the football player Stuart Parker plays for KV Mechelen.</lex>
+      <lex comment="good" lid="Id3">The football player Stuart Parker plays for KV Mechelen.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id248" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

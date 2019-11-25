@@ -80,7 +80,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1955 Dodge has a V8 engine, uses a 3-speed automatic transmission, has a hardtop and is sometimes known as the Dodge Coronet.</lex>
       <lex comment="good" lid="Id2">The 1955 Dodge, which is also known as the Dodge Coronet, has a V8 engine, a 3-speed automatic transmission and a hardtop.</lex>
-      <lex comment="good" lid="Id3">he 1955 Dodge with a hardtop has a V8 engine and a 3 speed auto transmission. It is also called the Dodge Coronet.</lex>
+      <lex comment="good" lid="Id3">The 1955 Dodge with a hardtop has a V8 engine and a 3 speed auto transmission. It is also called the Dodge Coronet.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3240,7 +3240,7 @@
         <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
         <mtriple>Aston_Martin_V8 | assembly | Newport_Pagnell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1">he Aston Martin V8, assembled at Newport Pagnell, has a 5.3 liter engine and is relative to the Aston Martin DBS and Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8, assembled at Newport Pagnell, has a 5.3 liter engine and is relative to the Aston Martin DBS and Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 has a 5.3 litre and was assembled at Newport Pagnell. It is a related means of transport to the Aston Martin DBS and the Aston Martin RHAM/1.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8, Aston Martin RHAM/1 and Aston Martin DBS are a related means of transport. The Aston Martin V8, has a 5.3 litre engine and is assembled at Newport Pagnell.</lex>
     </entry>

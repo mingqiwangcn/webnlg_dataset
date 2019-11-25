@@ -535,7 +535,7 @@
       <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire, where the purple finch is a native bird.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire, a state where one can find the purple finch bird.</lex>
       <lex comment="good" lid="Id3">The purple finch is the bird of New Hampshire, the birthplace of Alan Shepard.</lex>
-      <lex comment="good" lid="Id4">purple finch is the bird of New Hampshire which is the birthplace of Alan Shepard.</lex>
+      <lex comment="good" lid="Id4">Purple finch is the bird of New Hampshire which is the birthplace of Alan Shepard.</lex>
     </entry>
     <entry category="Astronaut" eid="Id39" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
