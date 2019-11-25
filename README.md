@@ -4,9 +4,13 @@ This repository presents the evolution of the WebNLG corpus.
 
 Each folder contains *the same data* in two formats: `xml` and `json`.
 
-1. `release_v2`
-	
+1. `release_v2.1` (16,095 data inputs and 42,880 data-text pairs)
+
 	It is the latest release.
+
+	It has the same data as release_v2. 5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md)
+
+1. `release_v2`
 
 	It includes release_v1 and test data (seen categories) from the WebNLG challenge.
 
