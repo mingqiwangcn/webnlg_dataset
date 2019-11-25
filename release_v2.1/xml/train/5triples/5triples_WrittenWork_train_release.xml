@@ -85,7 +85,7 @@
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | Grantville_Gazette_III</mtriple>
         <mtriple>1634:_The_Bavarian_Crisis | precededBy | The_Grantville_Gazettes</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Grantville Gazette III">1634: The Bavarian Crisis was the sequel to The Grantville Gazettes and Grantville Gazette III. It was written by Eric Flint from Burbank California who was influenced by Robert A. Heinlein.</lex>
+      <lex comment="good" lid="Id1">1634: The Bavarian Crisis was the sequel to The Grantville Gazettes and Grantville Gazette III. It was written by Eric Flint from Burbank California who was influenced by Robert A. Heinlein.</lex>
       <lex comment="good" lid="Id2">Influenced by Robert A Heinlein, 1634: The Bavarian Crisis was written by Eric Flint who was born in Burbank California. The book was preceded by Grantville Gazette III and The Grantville Gazettes.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id5" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -148,7 +148,7 @@
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">London is the capital city of the United Kingdom which is led by Elizabeth II. The country is where the AIDS journal is published by Lippincott Williams &amp; Wilkins who have Wolters Kluwer as their parent company.</lex>
-      <lex comment="good" lid="Id2" error_1="Wolters Kluwer">Elizabeth II is the leader of the United Kingdom where the capital city is London. The AIDS (journal) is published in the UK by Lippincott Williams &amp; Wilkins. Their parent company is Wolters Kluwer.</lex>
+      <lex comment="good" lid="Id2">Elizabeth II is the leader of the United Kingdom where the capital city is London. The AIDS (journal) is published in the UK by Lippincott Williams &amp; Wilkins. Their parent company is Wolters Kluwer.</lex>
       <lex comment="good" lid="Id3">Wolters Kluwer is the parent company of Lippincott Williams &amp; Wilkins which publishes AIDS (journal) in the UK. The capital city of the UK is London and one of the leaders is Elizabeth II.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -244,7 +244,7 @@
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">An ethnic group of Ireland is white people and its largest city is Dublin. A Long Long Way, published by Faber and Faber, comes from Ireland and was followed by The Secret Scripture.</lex>
-      <lex comment="good" lid="Id2" error_1="Dublin" error_2="White people">The Secret Scripture is published by Faber and Faber in Ireland and is a sequel to A Long Long Way. Ireland's largest ethnic demographic is white/caucasian, and its largest city is Dublin.</lex>
+      <lex comment="good" lid="Id2" error_1="White people">The Secret Scripture is published by Faber and Faber in Ireland and is a sequel to A Long Long Way. Ireland's largest ethnic demographic is white/caucasian, and its largest city is Dublin.</lex>
       <lex comment="good" lid="Id3">The book A Long Long Way comes from Ireland, where there is an ethnic group of White people and where the largest city is Dublin. This book was followed by The Secret Scripture, which was published by Faber and Faber.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id12" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -282,7 +282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Long Long Way is written in the English language and comes from Ireland although English is also spoken in Great Britain. It was followed by The Secret Scripture which is published by Faber and Faber.</lex>
       <lex comment="good" lid="Id2">A Long Long Way was written in English and originates from Ireland. The English language is spoken in Great Britain. It precedes The Secret Scripture which was published by Faber and Faber.</lex>
-      <lex comment="good" lid="Id3" error_1="Faber and Faber" error_2="Ireland">The Irish book The Secret Scripture, published by Faber and Faber, followed the book "A Long Long Way," which is written in English (the language of Great Britain).</lex>
+      <lex comment="good" lid="Id3" error_1="Ireland">The Irish book The Secret Scripture, published by Faber and Faber, followed the book "A Long Long Way," which is written in English (the language of Great Britain).</lex>
     </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -486,7 +486,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Wizard of Mars is published in English (language of Great Britain) in the United States. The capital city there is Washington D.C. and Asian Americans are an ethnic group there.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars originates from the United States, where the capital is Washington DC and the country includes many Asian Americans. This book is written in English, which is the language of Great Britain.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">A Wizard of Mars originates from the United States, where the capital is Washington DC and there is an ethnic group called Asian Americans. The book is written in English which is the language spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id3">A Wizard of Mars originates from the United States, where the capital is Washington DC and there is an ethnic group called Asian Americans. The book is written in English which is the language spoken in Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -582,7 +582,7 @@
         <mtriple>Acta_Palaeontologica_Polonica | CODEN_code | "APGPAC"</mtriple>
         <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="60040714" error_2="Polish Academy of Sciences">Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and has the abbreviated name of Acta Palaeontol. Pol. It is also identified by an ISSN number (0567-7920), a CODEN code (APGPAC) and the LCCN number (60040714).</lex>
+      <lex comment="good" lid="Id1">Acta Palaeontologica Polonica was published by the Polish Academy of Sciences and has the abbreviated name of Acta Palaeontol. Pol. It is also identified by an ISSN number (0567-7920), a CODEN code (APGPAC) and the LCCN number (60040714).</lex>
       <lex comment="good" lid="Id2">The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica which has the abbreviated name of Acta Palaeontol. Pol. It is identified by the LCCN number 60040714, the ISSN number of 0567-7920 and the CODEN code of APGPAC.</lex>
       <lex comment="good" lid="Id3">The Polish Academy of Sciences is the publisher of Acta Palaeontologica Polonica (abbrv. Acta Palaeontol. Pol). The ISSN number for the journal is 0567-7920, the LCCN number 60040714 and the CODEN code is APGPAC.</lex>
     </entry>
@@ -662,7 +662,7 @@
         <mtriple>Cornell_University | state | New_York</mtriple>
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Cornell University">Cornell University is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.</lex>
+      <lex comment="good" lid="Id1">Cornell University is in Ithaca, New York and Elizabeth Garrett is the president. They are the publisher of Administrative Science Quarterly and are affiliated with the Association of Public and Land-grant Universities.</lex>
       <lex comment="good" lid="Id2">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca New York is the publisher of Administrative Science Quarterly. The president of the university is Elizabeth Garrett.</lex>
       <lex comment="good" lid="Id3">Affiliated with the Association of Public and Land-grant Universities, Cornell University in Ithaca, New York is the publisher of the Administrative Science Quarterly. The university's president is Elizabeth Garrett.</lex>
     </entry>
@@ -689,7 +689,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University, nicknamed Cornell Big Red, and located in Ithaca, New York, is the publisher of Administrative Science Quarterly and is also affiliated with both the Association of Public and Land-grant Universities and the Association of American Universities.</lex>
-      <lex comment="good" lid="Id2" error_1="Cornell Big Red">Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. Its nickname is Cornell Big Red.</lex>
+      <lex comment="good" lid="Id2">Administrative Science Quarterly was published by Cornell University which is located in Ithaca New York. The university is affiliated with the Association of Public and Land-grant Universities and the Association of American Universities. Its nickname is Cornell Big Red.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id33" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -744,7 +744,7 @@
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="White Americans">The English language is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but it comes from the U.S. where White Americans live and Washington D. C. is the capital.</lex>
+      <lex comment="good" lid="Id1">The English language is spoken in Great Britain and Alcatraz Versus the Evil Librarians was written in it but it comes from the U.S. where White Americans live and Washington D. C. is the capital.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id36" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -781,7 +781,7 @@
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is written in English, as spoken in Great Britain. However is originates from the United States which is led by Barack Obama. That country is also home to the ethnic group of Asian Americans.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">Although Alcatraz Versus the Evil Librarians is written in the English language, as spoken in Great Britain, it originates from the United States. This country is led by Barack Obama and includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id2">Although Alcatraz Versus the Evil Librarians is written in the English language, as spoken in Great Britain, it originates from the United States. This country is led by Barack Obama and includes many Asian Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id38" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -854,7 +854,7 @@
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Great Britain">Alcatraz Versus the Evil Librarians is an English language book from the United States which Joe Biden is a leader of. White Americans are an ethnic group there. English is also spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is an English language book from the United States which Joe Biden is a leader of. White Americans are an ethnic group there. English is also spoken in Great Britain.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians originates from the United States, where Joe Biden is a leader. It is written in English, also spoken in Great Britain. The US includes many White Americans.</lex>
       <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is from the United States and written in English which is also a language spoken in Great Britain. White Americans live in the US where Joe Biden is a leader.</lex>
     </entry>
@@ -1219,7 +1219,7 @@
         <mtriple>United_Kingdom | demonym | British_people</mtriple>
         <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="British people">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the UK. The language of the country is English and the previous leader of the British people was David Cameron.</lex>
+      <lex comment="good" lid="Id1">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the UK. The language of the country is English and the previous leader of the British people was David Cameron.</lex>
       <lex comment="good" lid="Id2">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the UK. The language of the country is English and David Cameron was the previous Prime Minister of the British people.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id61" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1425,7 +1425,7 @@
         <mtriple>English_language | spokenIn | Great_Britain</mtriple>
         <mtriple>A_Wizard_of_Mars | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A Wizard of Mars">A Wizard of Mars originates from the United States where Barack Obama is the leader and African Americans are an ethnic Group. The book is written in English which is a language spoken in Great Britain.</lex>
+      <lex comment="good" lid="Id1">A Wizard of Mars originates from the United States where Barack Obama is the leader and African Americans are an ethnic Group. The book is written in English which is a language spoken in Great Britain.</lex>
       <lex comment="good" lid="Id2">A Wizard of Mars is written in English which is also a language spoken in Great Britain. The book originates from the United States where African Americans are one ethnic group and Barack Obama is the leader.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id71" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
@@ -1589,7 +1589,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">English is spoken in Great Britain and A Severed Wasp is written in it but comes from the United States where one of the ethnic groups is African American and Barack Obama is the president.</lex>
-      <lex comment="good" lid="Id2" error_1="Great Britain">A Severed Wasp was written in English (language of Great Britain) and is from the United States. The previous president of the country was Barack Obama who is African American.</lex>
+      <lex comment="good" lid="Id2">A Severed Wasp was written in English (language of Great Britain) and is from the United States. The previous president of the country was Barack Obama who is African American.</lex>
       <lex comment="good" lid="Id3">A severed Wasp originates from the United States, where the leader is Barack Obama and one of the ethnic groups there is The African Americans. they speak English, same as in Great Britain.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id80" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1739,7 +1739,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634 The Ram Rebellion comes from the United States, where Barack Obama is the President, and its capital city is Washington D.C. Americans inhabit the U.S., with a sub-group being the Asian Americans.</lex>
-      <lex comment="good" lid="Id2" error_1="1634: The Ram Rebellion" error_2="Asian Americans">Americans inhabit the U.S whose capital is Washington D.C. and whose leader is Barack Obama. One of the US ethnicities are Asian Americans, and the book "1634: The Ram Rebellion" also comes from that country.</lex>
+      <lex comment="good" lid="Id2">Americans inhabit the U.S whose capital is Washington D.C. and whose leader is Barack Obama. One of the US ethnicities are Asian Americans, and the book "1634: The Ram Rebellion" also comes from that country.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id88" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

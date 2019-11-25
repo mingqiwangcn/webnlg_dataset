@@ -63,7 +63,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634: The Bavarian Crisis was written by Eric Flint and is available in print form.</lex>
       <lex comment="good" lid="Id2">In 1634 the Bavarian Crisis was written by Eric Flint and was then put into print.</lex>
-      <lex comment="good" lid="Id3" error_1="1634: The Bavarian Crisis">1634: The Bavarian Crisis available in print is written by Eric Flint.</lex>
+      <lex comment="good" lid="Id3">1634: The Bavarian Crisis available in print is written by Eric Flint.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -153,7 +153,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1634: The Bavarian Crisis is written by Virginia DeMarce and Eric Flint and comes in hardcover.</lex>
       <lex comment="good" lid="Id2">1634: The Bavarian Crisis by Virginia DeMarce and Eric Flint, is available in hardcover.</lex>
-      <lex comment="good" lid="Id3" error_1="Virginia DeMarce and Eric Flint">The hardcover publication of 1634: The Bavarian Crisis was authored by Virginia DeMarce and Eric Flint.</lex>
+      <lex comment="good" lid="Id3">The hardcover publication of 1634: The Bavarian Crisis was authored by Virginia DeMarce and Eric Flint.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -486,7 +486,7 @@
         <mtriple>Association_for_Computing_Machinery | leaderName | Alexander_L._Wolf</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ACM Transactions on Information Systems is published by the Association for Computing Machinery, led by Alexander L. Wolf.</lex>
-      <lex comment="good" lid="Id2" error_1="Association for Computing Machinery">Alexander L. Wolf is the leader of the Association for Computing Machinery which is the publisher of ACM Transactions on Information Systems.</lex>
+      <lex comment="good" lid="Id2">Alexander L. Wolf is the leader of the Association for Computing Machinery which is the publisher of ACM Transactions on Information Systems.</lex>
       <lex comment="good" lid="Id3">Alexander L. Wolf. is the leader of the Association for Computing Machinery which published ACM Transactions on Information Systems.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -830,7 +830,7 @@
         <mtriple>A_Fortress_of_Grey_Ice | mediaType | Hardcover</mtriple>
         <mtriple>A_Fortress_of_Grey_Ice | ISBN_number | "0-7653-0633-6"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A Fortress of Grey Ice">The hardcover book, A Fortress of Grey Ice, has the ISBN number 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id1">The hardcover book, A Fortress of Grey Ice, has the ISBN number 0-7653-0633-6.</lex>
       <lex comment="good" lid="Id2">A Fortress of Grey Ice was produced in hardcover with the ISBN number 0-7653-0633-6.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id62" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -859,7 +859,7 @@
         <mtriple>A_Fortress_of_Grey_Ice | publisher | Tor_Books</mtriple>
         <mtriple>Tor_Books | parentCompany | Macmillan_Publishers</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Macmillan Publishers">"A Fortress of Grey Ice" was published by Tor Books, a subsidiary of Macmillan Publishers.</lex>
+      <lex comment="good" lid="Id1">"A Fortress of Grey Ice" was published by Tor Books, a subsidiary of Macmillan Publishers.</lex>
       <lex comment="good" lid="Id2">Macmillan Publishers are the parent company of Tor Books who publish A Fortress of Grey Ice.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id64" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1017,8 +1017,8 @@
         <mtriple>The_Bodley_Head | founder | Charles_Elkin_Mathews</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Glastonbury Romance is published by The Bodley Head which was founded by Charles Elkin Mathews.</lex>
-      <lex comment="good" lid="Id2" error_1="A Glastonbury Romance">Founded by Charles Elkin Mathews, The Bodley Head published 'A Glastonbury Romance'.</lex>
-      <lex comment="good" lid="Id3" error_1="A Glastonbury Romance">A Glastonbury Romance is published by The Bodley Head, whose founder is Charles Elkin Mathews.</lex>
+      <lex comment="good" lid="Id2">Founded by Charles Elkin Mathews, The Bodley Head published 'A Glastonbury Romance'.</lex>
+      <lex comment="good" lid="Id3">A Glastonbury Romance is published by The Bodley Head, whose founder is Charles Elkin Mathews.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id75" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1188,8 +1188,8 @@
         <mtriple>A_Loyal_Character_Dancer | author | Qiu_Xiaolong</mtriple>
         <mtriple>A_Loyal_Character_Dancer | ISBN_number | "1-56947-301-3"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Qiu Xiaolong">The book A Loyal Character Dancer was written by Qiu Xiaolong and has the ISBN number of 1-56947-301-3.</lex>
-      <lex comment="good" lid="Id2" error_1="A Loyal Character Dancer">A Loyal Character Dancer, written by Qiu Xiaolong, has ISBN:1-56947-301-3.</lex>
+      <lex comment="good" lid="Id1">The book A Loyal Character Dancer was written by Qiu Xiaolong and has the ISBN number of 1-56947-301-3.</lex>
+      <lex comment="good" lid="Id2">A Loyal Character Dancer, written by Qiu Xiaolong, has ISBN:1-56947-301-3.</lex>
       <lex comment="good" lid="Id3">Qiu Xiaolong is the author of A Loyal Character Dancer, with ISBN number 1-56947-301-3.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id88" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1382,7 +1382,7 @@
         <mtriple>A_Severed_Wasp | author | Madeleine_L'Engle</mtriple>
         <mtriple>Madeleine_L'Engle | influencedBy | George_MacDonald</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Madeleine L'Engle">Madeleine L'Engle is an author, influenced by George MacDonald, who wrote A Severed Wasp.</lex>
+      <lex comment="good" lid="Id1">Madeleine L'Engle is an author, influenced by George MacDonald, who wrote A Severed Wasp.</lex>
       <lex comment="good" lid="Id2">Madeleine L'Engle, author of A Severed Wasp, was influenced by George MacDonald.</lex>
       <lex comment="good" lid="Id3">Madeleine L'Engle who is influenced by George Macdonald wrote "A Severed Wasp".</lex>
     </entry>
@@ -1446,7 +1446,7 @@
         <mtriple>A_Severed_Wasp | numberOfPages | "388"</mtriple>
         <mtriple>A_Severed_Wasp | mediaType | "Print"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Print">A book called A Severed Wasp has 388 pages in total and appeared in print.</lex>
+      <lex comment="good" lid="Id1">A book called A Severed Wasp has 388 pages in total and appeared in print.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp has 388 pages and is available in print.</lex>
       <lex comment="good" lid="Id3">The book "A Severed Wasp" is available in print and has 388 pages.</lex>
     </entry>
@@ -1745,7 +1745,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the ISSN number of "1588-2632".</lex>
       <lex comment="good" lid="Id2">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the ISSN number 1588-2632.</lex>
-      <lex comment="good" lid="Id3" error_1="Acta Mathematica Hungarica">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar" and the ISSN number is 1588-2632.</lex>
+      <lex comment="good" lid="Id3">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar" and the ISSN number is 1588-2632.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id128" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1889,7 +1889,7 @@
         <mtriple>Acta_Palaeontologica_Polonica | abbreviation | "Acta Palaeontol. Pol."</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Paleobiology is the academic discipline of Acta Palaeontologica Polonica which has the abbreviated name of Acta Palaeontol. Pol.</lex>
-      <lex comment="good" lid="Id2" error_1="Acta Palaeontologica Polonica">The Acta Palaeontologica Polonica, abbreviated to Acta Palaeontol. Pol., comes under the academic discipline of Paleobiology.</lex>
+      <lex comment="good" lid="Id2">The Acta Palaeontologica Polonica, abbreviated to Acta Palaeontol. Pol., comes under the academic discipline of Paleobiology.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id135" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2117,7 +2117,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Administrative Science Quarterly was published by Cornell University which has the nickname of Cornell Big Red.</lex>
       <lex comment="good" lid="Id2">Cornell University, which goes by the nickname Cornell Big Red, is the publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id3" error_1="Cornell Big Red" error_2="Cornell University">Cornell University, nicknamed Cornell Big Red, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3">Cornell University, nicknamed Cornell Big Red, is the publisher of the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id148" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2203,7 +2203,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Above the Veil was preceded By Aenir, both Australian novels.</lex>
       <lex comment="good" lid="Id2">Above the Veil is the sequel to Aenir which was written by Australians.</lex>
-      <lex comment="good" lid="Id3" error_1="Aenir">Above the Veil and its sequel Aenir are examples of Australian literature.</lex>
+      <lex comment="good" lid="Id3">Above the Veil and its sequel Aenir are examples of Australian literature.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id154" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2351,7 +2351,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians, available in print, has the ISBN number 0-439-92550-9.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is produced in print, with the ISBN number 0-439-92550-9.</lex>
-      <lex comment="good" lid="Id3" error_1="Alcatraz Versus the Evil Librarians">The book 'Alcatraz Versus the Evil Librarians' is in print and has the ISBN number 0-439-92550-9.</lex>
+      <lex comment="good" lid="Id3">The book 'Alcatraz Versus the Evil Librarians' is in print and has the ISBN number 0-439-92550-9.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id165" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2496,7 +2496,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Johns Hopkins University Press is located in the United States and publishes the American Journal of Mathematics.</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics was published by Johns Hopkins University Press in the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Johns Hopkins University Press">The American Journal of Mathematics was published by Johns Hopkins University Press based in the United States.</lex>
+      <lex comment="good" lid="Id3">The American Journal of Mathematics was published by Johns Hopkins University Press based in the United States.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id174" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2550,7 +2550,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The novel Owen Glendower is a notable work by John Cowper Powys, who also wrote A Glastonbury Romance.</lex>
       <lex comment="good" lid="Id2">Owen Glendower and A Glastonbury Romance are both novels written by John Cowper Powys.</lex>
-      <lex comment="good" lid="Id3" error_1="John Cowper Powys">John Cowper Powys wrote the novel Owen Glendower and A Glastonbury Romance.</lex>
+      <lex comment="good" lid="Id3">John Cowper Powys wrote the novel Owen Glendower and A Glastonbury Romance.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id178" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
