@@ -162,7 +162,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Frew's genre is Rock music, which originated from country music. The music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
       <lex comment="good" lid="Id2">Alan Frew is a performer of rock music which originated from country music. A musical fusion of rock music is bhangra music.</lex>
-      <lex comment="good" lid="Id3" error_1="Country music">The Bhangra music is part of the fusion genre, partly coming from Rock music which Alan Frew also plays and whose origins are coming from the folk style.</lex>
+      <lex comment="good" lid="Id3">The Bhangra music is part of the fusion genre, partly coming from Rock music which Alan Frew also plays and whose origins are coming from the folk style.</lex>
     </entry>
     <entry category="Artist" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -290,8 +290,8 @@
         <mtriple>Alison_O'Donnell | genre | Folk_music_of_Ireland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell played folk music of Ireland for the band Mellow Candle and the Flibbertigibbet band.</lex>
-      <lex comment="good" lid="Id2" error_1="Folk music of Ireland">Irish Folk musician Alison O'Donnell is part of the Flibbertigibbet band and formerly of Mellow Candle.</lex>
-      <lex comment="good" lid="Id3" error_1="Folk music of Ireland">Alison O’Donnell was in the bands Mellow Candle and Flibbertigibbet band and Ireland Folk music is the genre she performs.</lex>
+      <lex comment="good" lid="Id2">Irish Folk musician Alison O'Donnell is part of the Flibbertigibbet band and formerly of Mellow Candle.</lex>
+      <lex comment="good" lid="Id3">Alison O’Donnell was in the bands Mellow Candle and Flibbertigibbet band and Ireland Folk music is the genre she performs.</lex>
     </entry>
     <entry category="Artist" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -334,7 +334,7 @@
         <mtriple>Allen_Forrest | genre | Pop_music</mtriple>
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Pop music">Born in Dothan, Alabama, Allen Forrest has a background as a solo singer and was a pop artist.</lex>
+      <lex comment="good" lid="Id1">Born in Dothan, Alabama, Allen Forrest has a background as a solo singer and was a pop artist.</lex>
       <lex comment="good" lid="Id2">Allen Forrest (Dothan, Alabama) is a solo singer and an exponent of Pop music.</lex>
       <lex comment="good" lid="Id3">Born in Dothan, Alabama, Allen Forrest, is a solo singer, who plays pop music.</lex>
     </entry>
@@ -426,7 +426,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andra, a singer of Dance-pop music, is associated with the band CRBL and the singer Puya.</lex>
       <lex comment="good" lid="Id2">Andra is a singer and her music genre is Dance-pop. She is associated with the band CRBL and with the singer Puya.</lex>
-      <lex comment="good" lid="Id3" error_1="Dance-pop">Andra is a singer associated with the singer Puya and the band CRBL. Her musical genre is dance pop.</lex>
+      <lex comment="good" lid="Id3">Andra is a singer associated with the singer Puya and the band CRBL. Her musical genre is dance pop.</lex>
     </entry>
     <entry category="Artist" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

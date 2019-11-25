@@ -805,7 +805,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is in Aarhus, Denmark which is led by Lars Løkke Rasmussen. The country has a monarchy and its government is a magistrate; the Danish religion is the Church of Denmark. To the northeast of Aarhus is Mols.</lex>
       <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is in Aarhus, Denmark. Aarhus is governed by a Magistrate and has Mols to its northeast. Denmark is ruled by the Monarchy of Denmark, has the Church of Denmark as its religion, and is led by Lars Løkke Rasmussen.</lex>
-      <lex comment="good" lid="Id3" error_1="Monarchy of Denmark">The School of Business and Social Sciences at the Aarhus University is in the Magistrate of Aarus, southwest of Mols in Denmark. The country's leader is the Monarch of Denmark, Lars Løkke Rasmussen and the national religion is the Church of Denmark.</lex>
+      <lex comment="good" lid="Id3">The School of Business and Social Sciences at the Aarhus University is in the Magistrate of Aarus, southwest of Mols in Denmark. The country's leader is the Monarch of Denmark, Lars Løkke Rasmussen and the national religion is the Church of Denmark.</lex>
     </entry>
     <entry category="University" eid="Id31" shape="(X (X) (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="7">
       <originaltripleset>
@@ -1077,7 +1077,7 @@
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1 Decembrie 1918 University in the state of Alba in Romania, has Universitas Apulensis as its Latin name. Roman's leader is Prime Minister Klaus Iohannis. The country's capital is Bucharest and its ethnic group is the Germans of Romania.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University in Alba, Romania has the latin name "Universitas Apulensis." The country has Germans as an ethnos, its capital is Bucharest and its Prime Minister is Klaus Iohannis.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University in Alba, Romania has the latin name "Universitas Apulensis." The country has Germans as an ethnos, its capital is Bucharest and its Prime Minister is Klaus Iohannis.</lex>
       <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is in Alba, Romania. Its Latin name is "Universitas Apulensis." Romania is led by Prime Minister Klaus Iohannis, and its capital is Bucharest. Germans of Romania is one ethnicity in the country.</lex>
     </entry>
     <entry category="University" eid="Id41" shape="(X (X (X) (X) (X) (X) (X) (X)))" shape_type="mixed" size="7">

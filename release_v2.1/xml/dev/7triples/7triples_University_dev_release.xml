@@ -121,8 +121,8 @@
         <mtriple>AWH_Engineering_College | city | "Kuttikkattoor"</mtriple>
         <mtriple>India | river | Ganges</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mahe, India">AWH Engineering College in Kuttikkattoor, India is in the state of Kerala which has Mahe to its northwest. The school has 250 employees. India is home to the Ganges River and its largest city is Mumbai.</lex>
-      <lex comment="good" lid="Id2" error_1="Mahe, India">India is known for the river Ganges and the largest city being Mumbai is also home to the state of Kerala which is positioned with Mahe to its northwest. Kerala is also where AWH Engineering College is located within the city of Kuttikkattoor. The college currently has 250 members of staff.</lex>
+      <lex comment="good" lid="Id1">AWH Engineering College in Kuttikkattoor, India is in the state of Kerala which has Mahe to its northwest. The school has 250 employees. India is home to the Ganges River and its largest city is Mumbai.</lex>
+      <lex comment="good" lid="Id2">India is known for the river Ganges and the largest city being Mumbai is also home to the state of Kerala which is positioned with Mahe to its northwest. Kerala is also where AWH Engineering College is located within the city of Kuttikkattoor. The college currently has 250 members of staff.</lex>
       <lex comment="good" lid="Id3">The AWH Engineering College in Kuttikkattoor, Kerala, India has an academic staff of 250. Kerala has Mahé, Indiato its northwest. Mumbai is the largest city in India. The river Ganges runs through India.</lex>
     </entry>
     <entry category="University" eid="Id6" shape="(X (X) (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="7">

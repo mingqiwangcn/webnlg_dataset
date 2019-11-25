@@ -141,9 +141,9 @@
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">1036 Ganymed was discovered by Walter Baade, a German National who studied at the University of Gottingen.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany">Walter Baade, a German national who graduated from the University of Gottingen, discovered 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id3" error_1="Germany">Walter Baade, a German National, discovered 1036 Ganymed. His alma mater was the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1">1036 Ganymed was discovered by Walter Baade, a German National who studied at the University of Gottingen.</lex>
+      <lex comment="good" lid="Id2">Walter Baade, a German national who graduated from the University of Gottingen, discovered 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id3">Walter Baade, a German National, discovered 1036 Ganymed. His alma mater was the University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

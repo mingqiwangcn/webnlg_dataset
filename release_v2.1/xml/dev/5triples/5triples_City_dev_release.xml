@@ -514,7 +514,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The inhabitants of the United States are known as Americans and include the ethnic group of African Americans. The country is led by the President and is the location of Angola, part of Steuben County, Indiana.</lex>
-      <lex comment="good" lid="Id2" error_1="President of the United States">Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id2">Angola, Indiana is in Steuben County of the U.S.A. The country is led by a president and among the ethnic groups are African Americans.</lex>
     </entry>
     <entry category="City" eid="Id22" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -624,7 +624,7 @@
         <mtriple>Albany,_Georgia | country | United_States</mtriple>
         <mtriple>Albany,_Georgia | isPartOf | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.</lex>
+      <lex comment="good" lid="Id1">Albany, Georgia is found in the United States, where the leader is the president, Asian Americans are an ethnic group and where the inhabitants are referred to as Americans.</lex>
       <lex comment="good" lid="Id2">The president is the leader of the United States where Asian Americans are an ethnic group. Albany, Georgia is in the United States, where the inhabitants, are Americans.</lex>
     </entry>
     <entry category="City" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

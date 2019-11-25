@@ -351,7 +351,7 @@
         <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
         <mtriple>Aaron_Deer | origin | Indianapolis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Psychedelia">Aaron Deer from Indianapolis, United States is a Psychedelic music artiste.</lex>
+      <lex comment="good" lid="Id1">Aaron Deer from Indianapolis, United States is a Psychedelic music artiste.</lex>
       <lex comment="good" lid="Id2">Aaron Deer is from Indianapolis, United States and his genre is Psychedelia.</lex>
       <lex comment="good" lid="Id3">Born in the United States, Aaron Deer originates from Indianapolis and performs Psychedelia music.</lex>
     </entry>
@@ -884,7 +884,7 @@
         <mtriple>Ace_Wilder | occupation | Songwriter</mtriple>
         <mtriple>Ace_Wilder | birthPlace | Stockholm</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Songwriter">Song writer Ace Wilder, was born in Stockholm and has a musical background as a solo singer.</lex>
+      <lex comment="good" lid="Id1">Song writer Ace Wilder, was born in Stockholm and has a musical background as a solo singer.</lex>
       <lex comment="good" lid="Id2">Born in Stockholm, Ace Wilder, has a background as a solo singer and is a songwriter.</lex>
       <lex comment="good" lid="Id3">Ace Wilder, who is a solo singer and songwriter, was born in Stockholm.</lex>
     </entry>
@@ -1292,7 +1292,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmet Ertegun, from the United States, plays rhythm and blues. A derivative of this genre is disco.</lex>
       <lex comment="good" lid="Id2">American Ahmet Ertegun plays Rhythm and Blues which helped give rise to Disco.</lex>
-      <lex comment="good" lid="Id3" error_1="United States">The musical genre of american, Ahmet Ertegun, is rhythm and blues, a derivative of which is disco.</lex>
+      <lex comment="good" lid="Id3">The musical genre of american, Ahmet Ertegun, is rhythm and blues, a derivative of which is disco.</lex>
     </entry>
     <entry category="Artist" eid="Id73" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2258,7 +2258,7 @@
         <mtriple>Synthpop | stylisticOrigin | Disco</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Day's genre is Synthpop which originated from Disco and is derived from New wave music.</lex>
-      <lex comment="good" lid="Id2" error_1="New wave music">Synthpop, with its origins in Disco and New Wave, is the genre of artist Alex Day.</lex>
+      <lex comment="good" lid="Id2">Synthpop, with its origins in Disco and New Wave, is the genre of artist Alex Day.</lex>
       <lex comment="good" lid="Id3">The musical genre of Alex Day is Synthpop, a derivative of disco music. The stylistic origin of synthpop is new wave music.</lex>
     </entry>
     <entry category="Artist" eid="Id124" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2368,7 +2368,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred Garth Jones, born in England, died in Boris Johnson led, London.</lex>
       <lex comment="good" lid="Id2">Boris Johnson is a leader in London, where Alfred Garth Jones died. He was born in England.</lex>
-      <lex comment="good" lid="Id3" error_1="England">Boris Johnson is a leader in London, the city where English born, Alfred Garth Jones, died.</lex>
+      <lex comment="good" lid="Id3">Boris Johnson is a leader in London, the city where English born, Alfred Garth Jones, died.</lex>
     </entry>
     <entry category="Artist" eid="Id130" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2929,7 +2929,7 @@
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest was born in Dothan, Alabama. He has a background as a solo singer and his music genre is acoustic.</lex>
-      <lex comment="good" lid="Id2" error_1="Acoustic music">Allen Forrest is an acoustic solo singer born in Dothan, Alabama.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest is an acoustic solo singer born in Dothan, Alabama.</lex>
       <lex comment="good" lid="Id3">Solo singer, Allen Forrest, was born in Dothan, Alabama. A music genre for Allen Forrest is acoustic.</lex>
     </entry>
     <entry category="Artist" eid="Id166" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2943,7 +2943,7 @@
         <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Acoustic music">Allen Forrest (born in Fort Campbell), is a solo singer under the acoustic genre.</lex>
+      <lex comment="good" lid="Id1">Allen Forrest (born in Fort Campbell), is a solo singer under the acoustic genre.</lex>
       <lex comment="good" lid="Id2">Born in Fort Campbell, Allen Forrest has a background as a solo singer and performs acoustic music.</lex>
       <lex comment="good" lid="Id3">Allen Forrest plays acoustic music. He was born in Fort Campbell and was originally a solo singer.</lex>
     </entry>

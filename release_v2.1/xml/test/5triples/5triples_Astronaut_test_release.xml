@@ -109,8 +109,8 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ. He graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a crew member of Apollo 11. He is now retired.</lex>
-      <lex comment="good" lid="Id2" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ and graduated from MIT, Sc.D. 1963. He was a fighter pilot and a crew member on Apollo 11. He is now retired.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a crew member of Apollo 11. He is now retired.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, NJ and graduated from MIT, Sc.D. 1963. He was a fighter pilot and a crew member on Apollo 11. He is now retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated from MIT, Sc.D. in 1963. He is a retired fighter pilot and was a member of the Apollo 11 crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -128,7 +128,7 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ. He was a member of the Apollo 11 crew, organized by NASA. He is now retired. William Anders was a backup pilot for Apollo 11.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He was a member of the Apollo 11 crew, organized by NASA. He is now retired. William Anders was a backup pilot for Apollo 11.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin, born in Glen Ridge, New Jersey, was a crew member on the NASA operated Apollo 11 mission (for which William Anders was the backup pilot). Buzz is now retired.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was born in Glen RIdge, New Jersey He is now retired but served as crew member on the NASA operated Apollo 11 mission on which William Anders was the backup pilot.</lex>
     </entry>

@@ -17,9 +17,9 @@
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
         <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="French people">Asterix was created by Albert Uderzo and Rene Goscinny who is a French national.</lex>
-      <lex comment="good" lid="Id2" error_1="French people">The comic character Asterix, was created by Albert Uderzo and René Goscinny, who is French.</lex>
-      <lex comment="good" lid="Id3" error_1="French people">The comic book character Asterix was created by Albert Uderzo and the Frenchman René Goscinny.</lex>
+      <lex comment="good" lid="Id1">Asterix was created by Albert Uderzo and Rene Goscinny who is a French national.</lex>
+      <lex comment="good" lid="Id2">The comic character Asterix, was created by Albert Uderzo and René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id3">The comic book character Asterix was created by Albert Uderzo and the Frenchman René Goscinny.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -77,7 +77,7 @@
         <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
         <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Walt Disney Studios Motion Pictures">Walt Disney Studio Motion Pictures distributed the film Big Hero 6, in which Ryan Potter starred and Baymax is a character.</lex>
+      <lex comment="good" lid="Id1">Walt Disney Studio Motion Pictures distributed the film Big Hero 6, in which Ryan Potter starred and Baymax is a character.</lex>
       <lex comment="good" lid="Id2">Baymax is a character in the Big Hero 6 film starring Ryan Potter and distributed by Walt Disney Studios Motion Pictures.</lex>
       <lex comment="good" lid="Id3">The movie Big Hero 6 stars Ryan Potter which has Baymax as one of its characters, was distributed by Walt Disney Studios Motion Pictures.</lex>
     </entry>

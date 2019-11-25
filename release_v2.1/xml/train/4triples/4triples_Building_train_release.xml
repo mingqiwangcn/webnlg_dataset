@@ -77,7 +77,7 @@
         <mtriple>103_Colmore_Row | location | "Colmore Row, Birmingham, England"</mtriple>
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Brutalist architecture">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. Its architectural style is Brutalist.</lex>
+      <lex comment="good" lid="Id1">103 Colmore Row, designed by John Madin (born in Birmingham) is located in Colmore Row, Birmingham, England. Its architectural style is Brutalist.</lex>
       <lex comment="good" lid="Id2">An example of Brutalist architecture, 103 Colmore Row, in Birmingham, England, was conceived by local-born architect John Madin.</lex>
       <lex comment="good" lid="Id3">103 Colmore Row, Birmingham, England was designed by the architect John Madin, who was born in the city. The architectural style of 103 Colmore Row falls under Brutalist architecture.</lex>
     </entry>
@@ -271,7 +271,7 @@
         <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St. Georges Terrace, a 39500 square metre, 50 floor building, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)">108 St. Georges Terrace was completed in 1988, has 50 floors, is 39500 square meters and cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St. Georges Terrace was completed in 1988, has 50 floors, is 39500 square meters and cost 120m Australian dollars.</lex>
       <lex comment="good" lid="Id3">108 St. Georges Terrace, which was completed in 1988, has a floor area of 39500.0 square metres. It has 50 floors, and cost 120 million AUD.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -330,7 +330,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 120 million Australian dollar 108 St Georges Terrace in Perth has 50 floors.</lex>
       <lex comment="good" lid="Id2">108 St Georges Terrace in Perth, Australia has 50 floors and cost 120 million AUD.</lex>
-      <lex comment="good" lid="Id3" error_1="120 million (Australian dollars)">108 St. Georges Terrace is located in Perth, Australia. It has 50 floors, and it cost 120m Australian dollars to build.</lex>
+      <lex comment="good" lid="Id3">108 St. Georges Terrace is located in Perth, Australia. It has 50 floors, and it cost 120m Australian dollars to build.</lex>
     </entry>
     <entry category="Building" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -435,7 +435,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Helmut Jahn was the architect of 11 Diagonal Street which is owned by Redefine Properties Limited and completed in 1983 with 20 floors.</lex>
       <lex comment="good" lid="Id2">Redefine Properties Limited is the owner of 11 Diagonal Street which was designed by the architect Helmut Jahn and completed in 1983 with 20 floors.</lex>
-      <lex comment="good" lid="Id3" error_1="Redefine Properties Limited">11 Diagonal Street is a 20 floor Helmut Jahn building, completed in 1983 and owned by Redefine Properties Ltd.</lex>
+      <lex comment="good" lid="Id3">11 Diagonal Street is a 20 floor Helmut Jahn building, completed in 1983 and owned by Redefine Properties Ltd.</lex>
     </entry>
     <entry category="Building" eid="Id17" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -584,7 +584,7 @@
         <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The address, 11 Diagonal Street is located in South Africa where Cyril Ramaphosa and Jacob Zuma are leaders. In the country there is an ethnic group of Asian South Africans.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian South Africans">Led by Cyril Ramaphosa and Jacob Zuma, South Africa is the location of the address 11 Diagonal Street and has the ethnic group of Asian South African.</lex>
+      <lex comment="good" lid="Id2">Led by Cyril Ramaphosa and Jacob Zuma, South Africa is the location of the address 11 Diagonal Street and has the ethnic group of Asian South African.</lex>
     </entry>
     <entry category="Building" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -896,7 +896,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">200 Public Square has a floor area of 111484 square metres and a floor count of 45. The building is located in Public Square, Cleveland and was completed in 1985.</lex>
       <lex comment="good" lid="Id2">Completed in 1985 with 45 floors and 111484 square meters floor area, 200 Public Square can be found in Public Square, Cleveland.</lex>
-      <lex comment="good" lid="Id3" error_1="111484 (square metres)">The 200 Public Square was completed in 1984. It is located at Public Square, Cleveland; it has a floor count of 45 and a floor area of 111,484 square metres.</lex>
+      <lex comment="good" lid="Id3">The 200 Public Square was completed in 1984. It is located at Public Square, Cleveland; it has a floor count of 45 and a floor area of 111,484 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id39" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -936,7 +936,7 @@
         <mtriple>20_Fenchurch_Street | buildingStartDate | "January 2009"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The building at 20 Fenchurch Street was started in January 2009 and completed in April 2014. It has 34 floors, and a floor area of 62145.3 square metres.</lex>
-      <lex comment="good" lid="Id2" error_1="20 Fenchurch Street" error_2="January 2009">20 Fenchurch St. was started in Jan. 2009 and completed in April, 2014. It has 34 floors and is 62145.3 square meters.</lex>
+      <lex comment="good" lid="Id2">20 Fenchurch St. was started in Jan. 2009 and completed in April, 2014. It has 34 floors and is 62145.3 square meters.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street has 34 floors and a floor area of 62145.3 square metres; its construction began in January 2009 and was completed in April 2014.</lex>
     </entry>
     <entry category="Building" eid="Id40" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -991,9 +991,9 @@
         <mtriple>20_Fenchurch_Street | architect | Rafael_Viñoly</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Parliament of the United Kingdom">20 Fenchurch Street was designed by architect Rafael Vinoly and it is located in London. London is governed by the UK Parliament and the leader of London is Boris Johnson.</lex>
+      <lex comment="good" lid="Id1">20 Fenchurch Street was designed by architect Rafael Vinoly and it is located in London. London is governed by the UK Parliament and the leader of London is Boris Johnson.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street in London was designed by Rafael Vinoly. A leader of London is Boris Johnson along with the Parliament of the United Kingdom.</lex>
-      <lex comment="good" lid="Id3" error_1="Parliament of the United Kingdom">20 Fenchurch Street, designed by the architect Rafael Viñoly, is located in London which is governed by Boris Johnson and the United Kingdom's Parliament.</lex>
+      <lex comment="good" lid="Id3">20 Fenchurch Street, designed by the architect Rafael Viñoly, is located in London which is governed by Boris Johnson and the United Kingdom's Parliament.</lex>
     </entry>
     <entry category="Building" eid="Id43" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1015,7 +1015,7 @@
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located in London and has 34 floors. London is led by Boris Johnson and The Parliament of the United Kingdom.</lex>
-      <lex comment="good" lid="Id2" error_1="Parliament of the United Kingdom">Boris Johnson is a leader in London where 20 Fenchurch Street which has 34 floors is located. The Parliament of the UK leads London.</lex>
+      <lex comment="good" lid="Id2">Boris Johnson is a leader in London where 20 Fenchurch Street which has 34 floors is located. The Parliament of the UK leads London.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located in London, England, has 34 floors, is in the Parliament of the United Kingdom and has a leader called Boris Johnson.</lex>
     </entry>
     <entry category="Building" eid="Id44" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -1093,7 +1093,7 @@
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue cost 110 million dollars, has a floor area of 30843.8 square metres and a floor count of 12. Its start date was January 2014.</lex>
-      <lex comment="good" lid="Id2" error_1="250 Delaware Avenue" error_2="January, 2014">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Ave. was begun in Jan 2014 and has 12 floors and measures 30843.8 square meters. It cost 110 million dollars.</lex>
       <lex comment="good" lid="Id3">The construction of 250 Delaware Avenue began in January 2014, worth 110 million (dollars) that has 30843.8 (square metres), and a floor count of 12.</lex>
     </entry>
     <entry category="Building" eid="Id48" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1690,7 +1690,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bella Center owns the 23 floor AC Hotel Bella Sky Copenhagen in Copenhagen, whose current tenant is Marriott International.</lex>
       <lex comment="good" lid="Id2">AC Hotel Bella Sky Copenhagen is in Marriott International, located at Copenhagen in the Bella Center, which has 23 floors.</lex>
-      <lex comment="good" lid="Id3" error_1="Bella Center">Marriott International is the tenant of AC Hotel Bella Sky in Copenhagen which is owned by Bella Centre and has 23 floors.</lex>
+      <lex comment="good" lid="Id3">Marriott International is the tenant of AC Hotel Bella Sky in Copenhagen which is owned by Bella Centre and has 23 floors.</lex>
     </entry>
     <entry category="Building" eid="Id78" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2013,7 +2013,7 @@
         <mtriple>Addis_Ababa_City_Hall | height | "42 m"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Building started on the Addis Ababa City Hall in 1961, it is 42 m high and has a floor area of 140000.0 square metres. The Government of Addis Ababa are the current tenants.</lex>
-      <lex comment="good" lid="Id2" error_1="140000.0 (square metres)">Addis Ababa City Hall, a 42 m high, 140,000-square meter facility which began construction in 1961, is currently occupied by the government of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2">Addis Ababa City Hall, a 42 m high, 140,000-square meter facility which began construction in 1961, is currently occupied by the government of Addis Ababa.</lex>
     </entry>
     <entry category="Building" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2269,9 +2269,9 @@
         <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
         <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Japanese people">The city of Akita is part of the Akita Prefecture in Japan where the main ethnic group are the Japanese and is also the location of the Akita Museum of Art.</lex>
-      <lex comment="good" lid="Id2" error_1="Japanese people">The Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan, where the main ethnic group is the Japanese.</lex>
-      <lex comment="good" lid="Id3" error_1="Japanese people">The Akita Museum of Art is located in Japan where the Japanese are the main ethnic group. The Museum is situated in Akita, Akita which is part of Akita Prefecture.</lex>
+      <lex comment="good" lid="Id1">The city of Akita is part of the Akita Prefecture in Japan where the main ethnic group are the Japanese and is also the location of the Akita Museum of Art.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, Akita Prefecture, Japan, where the main ethnic group is the Japanese.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Japan where the Japanese are the main ethnic group. The Museum is situated in Akita, Akita which is part of Akita Prefecture.</lex>
     </entry>
     <entry category="Building" eid="Id104" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2304,7 +2304,7 @@
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Vietnamese people are an ethnic group in Japan which is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id2" error_1="Vietnamese people in Japan">The Vietnamese are an ethnic group in Japan which is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Vietnamese are an ethnic group in Japan which is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
     </entry>
     <entry category="Building" eid="Id106" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2462,7 +2462,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art is located in Akita Prefecture in Akita, Akita, Japan. Vietnamese people are an ethnic group in Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of art is located in Akita Prefecture in Japan, a country which has as an ethnic group Vietnamese people.</lex>
-      <lex comment="good" lid="Id3" error_1="Vietnamese people in Japan">The Akita Museum of Art is located in Akita Prefecture in Akita, Akita Japan. An ethnic group in that country is Vietnamese.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita Prefecture in Akita, Akita Japan. An ethnic group in that country is Vietnamese.</lex>
     </entry>
     <entry category="Building" eid="Id113" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2494,9 +2494,9 @@
         <mtriple>Mason_School_of_Business | country | United_States</mtriple>
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Georgian architecture">The Georgian Alan B Miller Hall, designed by Robert A M Stern in Virginia USA, currently houses the Mason School of Business.</lex>
-      <lex comment="good" lid="Id2" error_1="Georgian architecture">The Mason School of Business located in the United States, are the current tenants of Alan B Miller Hall (also known as Robert A M Stern), Alan B Miller hall has a Georgian architectural style.</lex>
-      <lex comment="good" lid="Id3" error_1="Georgian architecture">The Mason School of Business are the current tenants of Alan B. Miller Hall, in the United States, which was designed in a Georgian style by Robert A.M. Stern.</lex>
+      <lex comment="good" lid="Id1">The Georgian Alan B Miller Hall, designed by Robert A M Stern in Virginia USA, currently houses the Mason School of Business.</lex>
+      <lex comment="good" lid="Id2">The Mason School of Business located in the United States, are the current tenants of Alan B Miller Hall (also known as Robert A M Stern), Alan B Miller hall has a Georgian architectural style.</lex>
+      <lex comment="good" lid="Id3">The Mason School of Business are the current tenants of Alan B. Miller Hall, in the United States, which was designed in a Georgian style by Robert A.M. Stern.</lex>
     </entry>
     <entry category="Building" eid="Id115" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3355,7 +3355,7 @@
         <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds is located on Asilomar Blvd, in Pacific Grove, California, and was constructed in 1913. They are an example of the Arts and Crafts Movement and American craftsman Bungalows, and were added to the National Register of Historic Places on 27 February 1987.</lex>
-      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds on Asilomar Blvd., Pacific Grove, California, was constructed in 1913 and added to the National Register of Historic Places on February the 27, 1987. It is designed in the arts and crafts style, and it is an example of American craftsman bungalows.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds on Asilomar Blvd., Pacific Grove, California, was constructed in 1913 and added to the National Register of Historic Places on February the 27, 1987. It is designed in the arts and crafts style, and it is an example of American craftsman bungalows.</lex>
       <lex comment="good" lid="Id3">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California and were constructed in 1913 in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows". The Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
     </entry>
     <entry category="Building" eid="Id157" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3389,7 +3389,7 @@
         <mtriple>Asilomar_Conference_Grounds | architecture | "Arts and Crafts Movement and American craftsman Bungalows"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located in Pacific Grove, California, Asilomar Conference Grounds were constructed in 1913, added to the National Register of Historic Places on 27nd February 1987 and is in the architectural style of the "Arts and Crafts Movement and American Craftsman Bungalows".</lex>
-      <lex comment="good" lid="Id2" error_1="Arts and Crafts Movement and American craftsman Bungalows">Asilomar Conference Grounds, constructed in 1913, are located in Pacific Grove, California and were added to the National Register of Historic Places on February the 27nd 1987. Their style is the arts and crafts, and they are an example of American craftsman bungalows.</lex>
+      <lex comment="good" lid="Id2">Asilomar Conference Grounds, constructed in 1913, are located in Pacific Grove, California and were added to the National Register of Historic Places on February the 27nd 1987. Their style is the arts and crafts, and they are an example of American craftsman bungalows.</lex>
       <lex comment="good" lid="Id3">The Asilomar Conference Grounds are located at Pacific Grove, California and they were constructed in 1913. Its architecture is "Arts and Crafts Movement and American Craftsman Bungalows" and it was added to the National Register of Historic Places on the 27th February 1987.</lex>
     </entry>
     <entry category="Building" eid="Id159" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3717,7 +3717,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Birmingham which has the B postcode is the Conservative Party (UK). The city is the home town of John Madin, the architect who designed 103 Colmore Row.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect John Madin, from Birmingham, UK (postcode 'B'), governed by the Conservative Party.</lex>
-      <lex comment="good" lid="Id3" error_1="Conservative Party (UK)">Tory-controlled Birmingham (postcode area B), is home to John Madin, the architect who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id3">Tory-controlled Birmingham (postcode area B), is home to John Madin, the architect who designed 103 Colmore Row.</lex>
     </entry>
     <entry category="Building" eid="Id177" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4048,7 +4048,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | leaderName | Barack_Obama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">Washington D.C. is the capital of the USA which is led by President Barack Obama. The US is the location of 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id1">Washington D.C. is the capital of the USA which is led by President Barack Obama. The US is the location of 250 Delaware Avenue.</lex>
       <lex comment="good" lid="Id2">Washington D.C. is the capital of the USA where the leader is President Barack Obama. 250 Delaware Avenue is located in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id194" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -4064,7 +4064,7 @@
         <mtriple>United_States | leaderName | Joe_Biden</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">In the United States, where both the capital Washington D.C. and 250 Delaware Avenue are located, is the President, Joe Biden.</lex>
+      <lex comment="good" lid="Id1">In the United States, where both the capital Washington D.C. and 250 Delaware Avenue are located, is the President, Joe Biden.</lex>
       <lex comment="good" lid="Id2">Washington DC is the capital of the United States where the leader is known as the President. One of the leaders in the United States is Joe Biden. 250 Delaware Avenue is located in the United States.</lex>
     </entry>
     <entry category="Building" eid="Id195" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -4095,7 +4095,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | leaderName | Barack_Obama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="African Americans">250 Delaware Avenue is located in the United States, the leader of which was President Barack Obama, a member of the African American ethnic group.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States, the leader of which was President Barack Obama, a member of the African American ethnic group.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States where Barack Obama is the leader and his title is President of the United States. One of the ethnic groups of the United States are the African Americans.</lex>
       <lex comment="good" lid="Id3">Led by President Barack Obama, the United States has one ethnic group called African Americans and is the location of 250 Delaware Avenue.</lex>
     </entry>
@@ -4160,8 +4160,8 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States (with an important ethnic group being Asian Americans), led by the President of the United States and also with Joe Biden in a leadership role.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">250 Delaware Avenue is located in the United States, home to a substantial population of Asian origin and led by the President (and vice president Joe Biden).</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">Vice president Joe Biden is leader of the United States, located at 250 Delaware Avenue, where ethnic group of Asians reside.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States, home to a substantial population of Asian origin and led by the President (and vice president Joe Biden).</lex>
+      <lex comment="good" lid="Id3">Vice president Joe Biden is leader of the United States, located at 250 Delaware Avenue, where ethnic group of Asians reside.</lex>
     </entry>
     <entry category="Building" eid="Id201" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4176,7 +4176,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="250 Delaware Avenue" error_2="President of the United States">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
+      <lex comment="good" lid="Id1">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
     </entry>
     <entry category="Building" eid="Id202" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4192,7 +4192,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Joe Biden and Paul Ryan are leaders of the United States which is led by a President. The country is the location of 250 Delaware Avenue.</lex>
-      <lex comment="good" lid="Id2" error_1="President of the United States">250 Delaware Avenue is in the United States which is led by the President. Paul Ryan and Joe Biden are leaders in the country.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is in the United States which is led by the President. Paul Ryan and Joe Biden are leaders in the country.</lex>
     </entry>
     <entry category="Building" eid="Id203" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4230,7 +4230,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In the United States where the leader is known as the President of the United States, John Roberts is the Chief Justice, one of the leaders is Paul Ryan and it is where 250 Delaware Avenue is located.</lex>
-      <lex comment="good" lid="Id2" error_1="President of the United States">The leader of the US is known as the President and two of the leaders are John Roberts and Paul Ryan. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id2">The leader of the US is known as the President and two of the leaders are John Roberts and Paul Ryan. The country is the location of 250 Delaware Avenue.</lex>
     </entry>
     <entry category="Building" eid="Id205" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

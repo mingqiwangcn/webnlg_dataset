@@ -37,8 +37,8 @@
         <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Maher's club is PSV Eindhoven and he played for the Netherlands national under-17 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Netherlands national under-17 football team">Adam Maher played for PSV Eindhoven and represented the Netherlands under 17 football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Netherlands national under-17 football team">Adam Maher, whose club is PSV Eindhoven, plays for Netherlands National under 17 club.</lex>
+      <lex comment="good" lid="Id2">Adam Maher played for PSV Eindhoven and represented the Netherlands under 17 football team.</lex>
+      <lex comment="good" lid="Id3">Adam Maher, whose club is PSV Eindhoven, plays for Netherlands National under 17 club.</lex>
     </entry>
     <entry category="Athlete" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -139,7 +139,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Al-Zawra'a_SC</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra's clubs are the Shabab Al-Ordon Club and the Al-Zawra'a SC.</lex>
-      <lex comment="good" lid="Id2" error_1="Shabab Al-Ordon Club">Former clubs of Alaa Abdul-Zahra include Shabab Al-Ordon and Al-Zawra'a SC.</lex>
+      <lex comment="good" lid="Id2">Former clubs of Alaa Abdul-Zahra include Shabab Al-Ordon and Al-Zawra'a SC.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he formerly played for the club Al-Zawra'a SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">

@@ -9,7 +9,7 @@
         <mtriple>A.C._Chievo_Verona | manager | Rolando_Maran</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Rolando Maran has managed AC Chievo Verona.</lex>
-      <lex comment="good" lid="Id2" error_1="A.C. Chievo Verona">Associazione Calcio Chievo Verona is managed by Rolando Maran.</lex>
+      <lex comment="good" lid="Id2">Associazione Calcio Chievo Verona is managed by Rolando Maran.</lex>
       <lex comment="good" lid="Id3">The manager of A.C. Chievo Verona is Rolando Maran.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
@@ -90,7 +90,7 @@
       <modifiedtripleset>
         <mtriple>AEK_Athens_F.C. | season | 2014–15_Football_League_(Greece)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Football League (Greece)">AEK Athens FC played the 2014-2015 season in the Football League (Greece).</lex>
+      <lex comment="good" lid="Id1">AEK Athens FC played the 2014-2015 season in the Football League (Greece).</lex>
     </entry>
     <entry category="SportsTeam" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -120,7 +120,7 @@
       <modifiedtripleset>
         <mtriple>AZ_Alkmaar | season | 2014–15_Eredivisie</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Eredivisie">AZ Alkmaar played in the Eredivisie in 2014-15.</lex>
+      <lex comment="good" lid="Id1">AZ Alkmaar played in the Eredivisie in 2014-15.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -310,7 +310,7 @@
         <mtriple>Peter_Stöger | club | 1._FC_Köln</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Peter Stöger was once a player for 1. FC Köln.</lex>
-      <lex comment="good" lid="Id2" error_1="1. FC Koln">Peter Stoger is attached to the club 1 FC Koln.</lex>
+      <lex comment="good" lid="Id2">Peter Stoger is attached to the club 1 FC Koln.</lex>
       <lex comment="good" lid="Id3">Peter Stoger attends the 1. FC Koln club.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
@@ -345,7 +345,7 @@
         <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">St. Vincent-St. Mary High School is in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="St. Vincent-St. Mary High School">St. Vincent St. Mary High School is located in United States.</lex>
+      <lex comment="good" lid="Id2">St. Vincent St. Mary High School is located in United States.</lex>
     </entry>
   </entries>
 </benchmark>

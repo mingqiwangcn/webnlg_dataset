@@ -236,7 +236,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">11 Diagonal Street has 20 floors and is owned by Redefine Properties Limited.</lex>
       <lex comment="good" lid="Id2">11 Diagonal Street, which is owned by Redefine Properties Limited, has 20 floors.</lex>
-      <lex comment="good" lid="Id3" error_1="Redefine Properties Limited">11 Diagonal Street which has 20 floors is owned by Redefine Properties Ltd.</lex>
+      <lex comment="good" lid="Id3">11 Diagonal Street which has 20 floors is owned by Redefine Properties Ltd.</lex>
     </entry>
     <entry category="Building" eid="Id16" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -541,7 +541,7 @@
         <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
         <mtriple>United_Kingdom | leaderName | Elizabeth_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Elizabeth II">Elizabeth 11 is a leader in the United Kingdom and 20 Fenchurch Street is also located in the United Kingdom.</lex>
+      <lex comment="good" lid="Id1">Elizabeth 11 is a leader in the United Kingdom and 20 Fenchurch Street is also located in the United Kingdom.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom whose leader is Elizabeth II.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located in the United Kingdom, where Queen Elizabeth II reigns.</lex>
     </entry>
@@ -558,7 +558,7 @@
         <mtriple>250_Delaware_Avenue | buildingStartDate | "January, 2014"</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="250 Delaware Avenue">250 Delaware Ave. was begun in January 2014 and has 12 floors.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Ave. was begun in January 2014 and has 12 floors.</lex>
       <lex comment="good" lid="Id2">The construction of 250 Delaware Avenue, which has 12 floors, began in January 2014.</lex>
     </entry>
     <entry category="Building" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -588,7 +588,7 @@
         <mtriple>250_Delaware_Avenue | architecturalStyle | Postmodern_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is in Buffalo, New York, and it has the Postmodern style of architecture.</lex>
-      <lex comment="good" lid="Id2" error_1="250 Delaware Avenue" error_2="Buffalo, New York" error_3="Postmodern architecture">250 Delaware Ave. in Buffalo, N.Y. is a Postmodern style.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Ave. in Buffalo, N.Y. is a Postmodern style.</lex>
     </entry>
     <entry category="Building" eid="Id40" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1242,7 +1242,7 @@
         <mtriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</mtriple>
         <mtriple>Adare_Manor | completionDate | 1862</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lewis Nockalls Cottingham">Adare Manor, designed by Lewis N. Cottingham, was completed in 1862.</lex>
+      <lex comment="good" lid="Id1">Adare Manor, designed by Lewis N. Cottingham, was completed in 1862.</lex>
       <lex comment="good" lid="Id2">Adare Manor was designed by Lewis Nockalls Cottingham and was completed in 1862.</lex>
       <lex comment="good" lid="Id3">Adare Manor was completed in 1862, and was designed by Lewis Nockalls Cottingham.</lex>
     </entry>
@@ -2197,7 +2197,7 @@
         <mtriple>Asilomar_Conference_Grounds | yearOfConstruction | 1913</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and was constructed in 1913.</lex>
-      <lex comment="good" lid="Id2" error_1="Asilomar Blvd., Pacific Grove, California">The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.</lex>
+      <lex comment="good" lid="Id2">The Asilomar Conference Grounds were made in 1913 and are on the Asilomar Blvd, Pacific Grove, CA.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2599,7 +2599,7 @@
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">250 Delaware Avenue is located in the USA and its leader is the President.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the USA and its leader is the President.</lex>
       <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States whose leader has the title of President.</lex>
     </entry>
   </entries>

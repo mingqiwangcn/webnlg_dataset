@@ -61,7 +61,7 @@
         <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
         <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.D. Isidro Metapan">Jorge Humberto Rodriguez is not only the manager of A. D. Isidro Metapan, but also plays for Alianza F.C. as well as the El Salvador national football team.</lex>
+      <lex comment="good" lid="Id1">Jorge Humberto Rodriguez is not only the manager of A. D. Isidro Metapan, but also plays for Alianza F.C. as well as the El Salvador national football team.</lex>
       <lex comment="good" lid="Id2">Jorge Humberto Rodriguez is the manager of A.D. Isidro Metapan and his club is Alianza F.C. but he plays for the El Salvador national football team.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -80,9 +80,9 @@
         <mtriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</mtriple>
         <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.E Dimitra Efxeinoupolis">A.E. Dimitra Efxeinoupolis has 1500 members, is chaired by Antonis Milionis, and is located in the town of Efxeinoupoli.</lex>
+      <lex comment="good" lid="Id1">A.E. Dimitra Efxeinoupolis has 1500 members, is chaired by Antonis Milionis, and is located in the town of Efxeinoupoli.</lex>
       <lex comment="good" lid="Id2">Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis. they have 1500 members and their ground is located in the town of Efxeinoupoli.</lex>
-      <lex comment="good" lid="Id3" error_1="A.E Dimitra Efxeinoupolis">The ground of A.E. Dimitra Efxeinoupolis is located in Efeinoupoli, has 1500 members and its chairman is Antonis Milionis.</lex>
+      <lex comment="good" lid="Id3">The ground of A.E. Dimitra Efxeinoupolis is located in Efeinoupoli, has 1500 members and its chairman is Antonis Milionis.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -142,7 +142,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dave Challinor manages A.F.C. Fylde and plays at the Stockport County F.C. He is also at Colwyn Bay FC.</lex>
       <lex comment="good" lid="Id2">Dave Challinor played for Stockport County F.C., is at Colwyn Bay FC and is the manager of AFC Fylde.</lex>
-      <lex comment="good" lid="Id3" error_1="A.F.C. Fylde">Dave Challinor played for Stockport County F.C., is at Colwyn Bay FC and manages A.F.C Fylde.</lex>
+      <lex comment="good" lid="Id3">Dave Challinor played for Stockport County F.C., is at Colwyn Bay FC and manages A.F.C Fylde.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -206,7 +206,7 @@
         <mtriple>AEK_Athens_F.C. | ground | Greece</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AEK Athens F.C. (whose grounds are in Athens) is in the Superleague of Greece. Olympiacos FC are previous champions of the Superleague Greece.</lex>
-      <lex comment="good" lid="Id2" error_1="AEK Athens F.C.">AEK Athens's ground is in Greece and it competes in the Superleague Greece, the past champions were Olympiacos F.C.</lex>
+      <lex comment="good" lid="Id2">AEK Athens's ground is in Greece and it competes in the Superleague Greece, the past champions were Olympiacos F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -226,7 +226,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Gus Poyet played for Chelsea F.C. and was the manager for AEK Athens FC but he is now in the Real Zaragoza club.</lex>
       <lex comment="good" lid="Id2">AEK Athens F.C. manager is Gus Poyet whose club is Real Zaragoza, having previously played for Chelsea F.C.</lex>
-      <lex comment="good" lid="Id3" error_1="AEK Athens F.C.">AEK Athens are managed by Gus Poyet who is associated with the Real Zaragoza, a football club and played for Chelsea F.C.</lex>
+      <lex comment="good" lid="Id3">AEK Athens are managed by Gus Poyet who is associated with the Real Zaragoza, a football club and played for Chelsea F.C.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -277,7 +277,7 @@
         <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">John van den Brom manages the AZ Alkmaar and is in the Jong Ajax club. He currently plays for Istanbulspor A.S.</lex>
-      <lex comment="good" lid="Id2" error_1="Istanbulspor A.S.">John van den Brom, who manages AZ Alkmaar, plays for Jong Ajax and Istanbulspor AS.</lex>
+      <lex comment="good" lid="Id2">John van den Brom, who manages AZ Alkmaar, plays for Jong Ajax and Istanbulspor AS.</lex>
       <lex comment="good" lid="Id3">The manager of AZ Alkmaar is john van den Brom who is in the Jong Ajax club and plays for Istanbulspor A.S.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -336,9 +336,9 @@
         <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
         <mtriple>Massimo_Drago | club | A.S.D._S.S._Nola_1925</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="U.S. Castrovillari Calcio">Massimo Drago has been the manager of A C Cesena and played for A.S.D. S.S. Nola 1925. He currently plays for U.S Castrovillari Calcio.</lex>
-      <lex comment="good" lid="Id2" error_1="U.S. Castrovillari Calcio">Massimo Drago plays for U.S Castrovillari Calcio and A.S.D. S.S. Nola 1925. He also manages AC Cesena.</lex>
-      <lex comment="good" lid="Id3" error_1="U.S. Castrovillari Calcio">Massimo Drago played for A.S.D. S.S. Nola 1925, now he manages A.C. Cesena and plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="good" lid="Id1">Massimo Drago has been the manager of A C Cesena and played for A.S.D. S.S. Nola 1925. He currently plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="good" lid="Id2">Massimo Drago plays for U.S Castrovillari Calcio and A.S.D. S.S. Nola 1925. He also manages AC Cesena.</lex>
+      <lex comment="good" lid="Id3">Massimo Drago played for A.S.D. S.S. Nola 1925, now he manages A.C. Cesena and plays for U.S Castrovillari Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

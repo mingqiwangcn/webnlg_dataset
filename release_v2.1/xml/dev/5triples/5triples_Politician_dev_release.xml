@@ -61,9 +61,9 @@
         <mtriple>Abraham_A._Ribicoff | birthPlace | Connecticut</mtriple>
         <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American">Abraham A Ribicoff was a US national born in Connecticut and dying in New York City. He was a member of the Democratic Party in the U.S.A. and worked as the United States Secretary of Health, Education, and Welfare.</lex>
-      <lex comment="good" lid="Id2" error_1="American">Abraham A. Ribicoff who was born in Connecticut, United States, worked as the United States Secretary of Health, Education, and Welfare and he was a member of the Democratic Party in the United States. He died in New York City.</lex>
-      <lex comment="good" lid="Id3" error_1="American" error_2="Democratic Party (United States)">Democrat Abraham A. Ribicoff was born in Connecticut, US and died in New York City. He worked as the United States Secretary of Health, Education and Welfare.</lex>
+      <lex comment="good" lid="Id1">Abraham A Ribicoff was a US national born in Connecticut and dying in New York City. He was a member of the Democratic Party in the U.S.A. and worked as the United States Secretary of Health, Education, and Welfare.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff who was born in Connecticut, United States, worked as the United States Secretary of Health, Education, and Welfare and he was a member of the Democratic Party in the United States. He died in New York City.</lex>
+      <lex comment="good" lid="Id3">Democrat Abraham A. Ribicoff was born in Connecticut, US and died in New York City. He worked as the United States Secretary of Health, Education and Welfare.</lex>
     </entry>
     <entry category="Politician" eid="Id4" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -100,8 +100,8 @@
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Holloway was born in Kent and attended Magdalene College in Cambridge. He began his career on 5 May 2005 and served in the Grenadier Guards and became a member of parliament for Gravesham.</lex>
-      <lex comment="good" lid="Id2" error_1="Grenadier Guards" error_2="Member of Parliament for Gravesham">Gravesham Parliament member and Magdalene College Cambridge alum Adam Holloway, was born in Kent. A Grenadier Guard, he began his career 05/05/2005.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of Parliament for Gravesham">Adam Holloway was born in Kent, and began his career on the 5th May 2005. He served in the Grenadier guards and was a MP for Gravesham. His alma mater is Magdalene College, Cambridge.</lex>
+      <lex comment="good" lid="Id2">Gravesham Parliament member and Magdalene College Cambridge alum Adam Holloway, was born in Kent. A Grenadier Guard, he began his career 05/05/2005.</lex>
+      <lex comment="good" lid="Id3">Adam Holloway was born in Kent, and began his career on the 5th May 2005. He served in the Grenadier guards and was a MP for Gravesham. His alma mater is Magdalene College, Cambridge.</lex>
     </entry>
     <entry category="Politician" eid="Id6" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -220,7 +220,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The governing body in Buenos Aires is the Buenos Aires City Legislature and the city is led by Horacio Rodríguez Larreta. It is the death place of the Alberto Teisaire who was from Argentina where the language spoken is Spanish.</lex>
       <lex comment="good" lid="Id2">Spanish is spoken in Argentina the country Alberto Teisaire came from. He died in Buenos Aires, where the governing body is, the Buenos Aires City Legislature. The leader of Buenos Aires is Horacio Rodríguez Larreta.</lex>
-      <lex comment="good" lid="Id3" error_1="Argentina">Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature.</lex>
+      <lex comment="good" lid="Id3">Alberto Teisaire was Argentinian and died in Buenos Aires, where they speak Spanish. The leader in Buenos Aires is Horacio Rodríguez Larreta and the city is governed by the Buenos Aires City Legislature.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -289,8 +289,8 @@
         <mtriple>Vermont | largestCity | Burlington,_Vermont</mtriple>
         <mtriple>Alvah_Sabin | state | Vermont</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Secretary of State of Vermont">Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
-      <lex comment="good" lid="Id2" error_1="Vermont's 3rd congressional district">Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).</lex>
+      <lex comment="good" lid="Id1">Alvah Sabin, who was born in Georgia, Vermont, worked as the state's secretary and represented Vermont's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
+      <lex comment="good" lid="Id2">Vermont Secretary of State and 3rd Congressional District representative Alvah Sabin was born in Georgia, Vermont (largest city: Burlington).</lex>
       <lex comment="good" lid="Id3">Alvah Sabin was born in Georgia, Vermont and represented Vermont's 3rd Congressional District. He was from Vermont, which has the largest city of Burlington and worked as the Secretary of State of Vermont.</lex>
     </entry>
     <entry category="Politician" eid="Id15" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -375,7 +375,7 @@
         <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis, who was succeeded by Makis Voridis, was in office while Antonis Samaras was Prime Minister. Athens born Samaras, who had the deputy Evangelos Venizelos, was in office while Konstantinos Mitsotakis was Prime Minister.</lex>
-      <lex comment="good" lid="Id2" error_1="Konstantinos Mitsotakis">Antonis Samaras, born in Athens, was Prime Minister and served with Adonis Georgiadis. Samaras, whose deputy is Evangelos Venizelos, served also when K. Mitsotakis was Prime Minister. Georgiadis was succeeded by Makis Voridis.</lex>
+      <lex comment="good" lid="Id2">Antonis Samaras, born in Athens, was Prime Minister and served with Adonis Georgiadis. Samaras, whose deputy is Evangelos Venizelos, served also when K. Mitsotakis was Prime Minister. Georgiadis was succeeded by Makis Voridis.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis was in office while Athens-born Antonis Samaras was Prime Minister. In turn, Samaras was in office while Konstantinos Mitsotakis was Prime Minister. Samaras' deputy is Evangelos Venizelos and Georgiadis was succeeded by Makis Voridis.</lex>
     </entry>
     <entry category="Politician" eid="Id18" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">

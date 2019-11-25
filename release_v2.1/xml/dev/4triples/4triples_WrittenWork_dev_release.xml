@@ -87,7 +87,7 @@
         <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ireland">Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id1">Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
       <lex comment="good" lid="Id2">A Long Long Way, written in Ireland and published by Viking Press, was preceded by Annie Dunne, and followed by The Secret Scripture.</lex>
       <lex comment="good" lid="Id3">A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
     </entry>
@@ -230,7 +230,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
+      <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -247,7 +247,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Journal of Mathematics is abbreviated to Am. J. Math. and comes under the discipline of Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics studies mathematics and is abbreviated to Am. J. Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
-      <lex comment="good" lid="Id3" error_1="Bimonthly">The American Journal of Mathematics, aka Am. J. Math., is a bi-monthly journal about Mathematics, ISBN number 1080-6377.</lex>
+      <lex comment="good" lid="Id3">The American Journal of Mathematics, aka Am. J. Math., is a bi-monthly journal about Mathematics, ISBN number 1080-6377.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -304,7 +304,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The language of the United States and Great Britain is English. The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from.</lex>
       <lex comment="good" lid="Id2">English is the language of Great Britain and the United States. The country is the origin of A Severed Wasp and includes many Asian Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">A Severed Wasp is from the English speaking (also spoken in Great Britain) United States. The United States is home to the Asian American ethnic group.</lex>
+      <lex comment="good" lid="Id3">A Severed Wasp is from the English speaking (also spoken in Great Britain) United States. The United States is home to the Asian American ethnic group.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id17" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>

@@ -690,7 +690,7 @@
         <mtriple>Romania | capital | Bucharest</mtriple>
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prime Minister of Romania">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
+      <lex comment="good" lid="Id1">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
       <lex comment="good" lid="Id2">1 Decembrie 1918 University is located in Romania. Bucharest is the capital of the country, which is led by a Prime Minister.</lex>
     </entry>
     <entry category="University" eid="Id47" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -822,7 +822,7 @@
         <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
         <mtriple>Denmark | leaderName | Lars_Løkke_Rasmussen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Monarchy of Denmark">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
+      <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
       <lex comment="good" lid="Id2">Lars Lokke Rasmussen is the leader of Denmark and has the title of Monarchy of Denmark. The country is the location of the School of Business and Social Sciences at the Aarhus University.</lex>
     </entry>
     <entry category="University" eid="Id55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">

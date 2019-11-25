@@ -120,7 +120,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania, USA. To the west of Adams County you will find Franklin County and to the north lies Cumberland County, both of Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, USA. To the west of Adams County lies Franklin County and to the north is Cumberland County, both in Pennsylvania. To the southeast of Adams County lies Carroll County, Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania USA. Franklin County is to the west, Cumberland County is to the North and Carroll County is to the northwest.</lex>
+      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania USA. Franklin County is to the west, Cumberland County is to the North and Carroll County is to the northwest.</lex>
     </entry>
     <entry category="Monument" eid="Id7" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -398,7 +398,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Turkish lira">The 27th July, 1932 was the inauguration date of the Ataturk Monument in Izmir, Turkey; which was designed by Pietro Canonica. Ahmet Davutoglu is Turkeys leader and their national currency is the lira.</lex>
+      <lex comment="good" lid="Id1">The 27th July, 1932 was the inauguration date of the Ataturk Monument in Izmir, Turkey; which was designed by Pietro Canonica. Ahmet Davutoglu is Turkeys leader and their national currency is the lira.</lex>
       <lex comment="good" lid="Id2">Pietro Canonica designed the Ataturk Monument, which was inaugurated July 27, 1932 in Izmir, Turkey. The country's leader is Ahmet Davutoglu, and the currency is the Turkish lira.</lex>
       <lex comment="good" lid="Id3">Pietro Canonica designed the Ataturk monument in Izmir which was inaugurated in Turkey on 27 July 1932. The Turkish currency is the lira and the leader is Ahmet Davutoglu.</lex>
     </entry>
@@ -546,7 +546,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dead Man's Plack (made of rock) is found in England whose capital city is London. The main religion of this country is the Church of England and in the Cornwall region a language called Cornish is sometimes spoken.</lex>
       <lex comment="good" lid="Id2">The established religion in England is The Church of England and the capital is London. Cornish language can be heard spoken and you can find Dead Man's Plack which is made of rock.</lex>
-      <lex comment="good" lid="Id3" error_1="Rock (geology)">The Dead Man's Plack is located in England and made of stone. The established religion in England is the Church of England, and Cornish is one of the languages spoken in the country, with London being the capital.</lex>
+      <lex comment="good" lid="Id3">The Dead Man's Plack is located in England and made of stone. The established religion in England is the Church of England, and Cornish is one of the languages spoken in the country, with London being the capital.</lex>
     </entry>
     <entry category="Monument" eid="Id30" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -564,7 +564,7 @@
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dead Man's Plack is a rock monument located in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the English ethnic groups are the British Arabs, and the capital of the country is London.</lex>
-      <lex comment="good" lid="Id2" error_1="Rock (geology)">The British Arabs are one of the ethnic groups to be found in England, where the capital city is London. Also located in the country is Dead Man's Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id2">The British Arabs are one of the ethnic groups to be found in England, where the capital city is London. Also located in the country is Dead Man's Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
       <lex comment="good" lid="Id3">England's capital is London and one of the ethnic groups found in the country are the British Arabs. Dead Mans Plack is a rock monument found in the country and dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
     </entry>
     <entry category="Monument" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -732,7 +732,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Monocacy National Battlefield is found in Frederick County, Maryland. The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and can be found in the Monocacy National Battlefield. The monument is part of the category of Historic districts in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Frederick County, Maryland">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, United States. It was established on 11 July 1907 and is categorised as a historic district.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick County, United States. It was established on 11 July 1907 and is categorised as a historic district.</lex>
     </entry>
     <entry category="Monument" eid="Id40" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

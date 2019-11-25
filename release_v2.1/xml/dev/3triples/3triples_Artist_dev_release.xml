@@ -202,8 +202,8 @@
         <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
         <mtriple>Ahmet_Ertegun | origin | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washington, D.C.">Ahmet Ertegun performs blues music and is from Washington D.C., United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Ahmet Ertegun, who is from Washington D.C. in the United States, plays the blues.</lex>
+      <lex comment="good" lid="Id1">Ahmet Ertegun performs blues music and is from Washington D.C., United States.</lex>
+      <lex comment="good" lid="Id2">Ahmet Ertegun, who is from Washington D.C. in the United States, plays the blues.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

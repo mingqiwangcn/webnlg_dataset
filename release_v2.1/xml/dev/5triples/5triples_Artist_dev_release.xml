@@ -292,9 +292,9 @@
         <mtriple>Ahmet_Ertegun | origin | United_States</mtriple>
         <mtriple>Ahmet_Ertegun | background | "non_performing_personnel"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washington, D.C.">Ahmet Ertegun is a rhythm and blues artist whose background is non performing personnel, and was born 1923, in Washington D.C., the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Washington, D.C.">Born in 1923, Ahmet Ertegun is from Washington D.C., in the United States. Ertegun has a background as a non performing personnel and his musical genre is Rhythm and Blues.</lex>
-      <lex comment="good" lid="Id3" error_1="non performing personnel">Born in Washington, DC, U.S.A. (1923), Ahmet Ertegun genre is rhythm and blues, although his background is non performing.</lex>
+      <lex comment="good" lid="Id1">Ahmet Ertegun is a rhythm and blues artist whose background is non performing personnel, and was born 1923, in Washington D.C., the United States.</lex>
+      <lex comment="good" lid="Id2">Born in 1923, Ahmet Ertegun is from Washington D.C., in the United States. Ertegun has a background as a non performing personnel and his musical genre is Rhythm and Blues.</lex>
+      <lex comment="good" lid="Id3">Born in Washington, DC, U.S.A. (1923), Ahmet Ertegun genre is rhythm and blues, although his background is non performing.</lex>
     </entry>
     <entry category="Artist" eid="Id11" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -360,7 +360,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Frew, who is from Newmarket, Ontario, Canada, was born in Coatbridge. He is a musician and solo singer.</lex>
       <lex comment="good" lid="Id2">Alan Frew is from Coatbridge, Newmarket, Ontario, Canada and he is a musician and solo singer.</lex>
-      <lex comment="good" lid="Id3" error_1="Musician">Singer Alan Frew was born in Coatbridge but is from Newmarket, Ontario, Canada.</lex>
+      <lex comment="good" lid="Id3">Singer Alan Frew was born in Coatbridge but is from Newmarket, Ontario, Canada.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -434,8 +434,8 @@
         <mtriple>Alison_O'Donnell | recordLabel | Static_Caravan_Recordings</mtriple>
         <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Folk music of Ireland" error_2="Static Caravan Recordings">Alison O'Donnell began her music career in 1963. She has been a member of Flibbertigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.</lex>
-      <lex comment="good" lid="Id2" error_1="Folk music of Ireland">Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle. She became active in 1963 and is signed to Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id1">Alison O'Donnell began her music career in 1963. She has been a member of Flibbertigibbet and Mellow Candle Bands. She is a Irish folk singer signed to the Static Caravan record label.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle. She became active in 1963 and is signed to Static Caravan Recordings.</lex>
     </entry>
     <entry category="Artist" eid="Id17" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -480,7 +480,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Okeh records. Bhangra is a musical fusion of rock music.</lex>
       <lex comment="good" lid="Id2">Rock guitarist Anders Osborne is signed with Okeh Records and is associated with musician Johnny Sansone. Bhangra is a fusion of rock music.</lex>
-      <lex comment="good" lid="Id3" error_1="Rock music">Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist Johnny Sansone. Bhangra is fusion of rock.</lex>
+      <lex comment="good" lid="Id3">Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist Johnny Sansone. Bhangra is fusion of rock.</lex>
     </entry>
     <entry category="Artist" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -658,7 +658,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Anderson plays the guitar in the rock music band NRBQ. Rock music originated from country music, which originated from blues music; The music Bhangra is part of the fusion genre, partly coming from Rock music.</lex>
       <lex comment="good" lid="Id2">Al Anderson plays the guitar for rock band NRBQ. Rock comes from country music which originates from blues. Bhangra music is a musical fusion of rock music.</lex>
-      <lex comment="good" lid="Id3" error_1="Country music" error_2="Rock music">Rock guitarist AI Anderson is a member of NRBQ. Rock originates from rock which has its origins in country which derives from the blues. Bhangra is a rock fusion.</lex>
+      <lex comment="good" lid="Id3">Rock guitarist AI Anderson is a member of NRBQ. Rock originates from rock which has its origins in country which derives from the blues. Bhangra is a rock fusion.</lex>
     </entry>
     <entry category="Artist" eid="Id28" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

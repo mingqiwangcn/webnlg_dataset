@@ -225,7 +225,7 @@
         <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace which has 50 floors, was completed in 1988 at a cost of 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id2" error_1="120 million (Australian dollars)">108 St Georges Terrace has 50 floors and was completed in 1988 at a cost of 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id2">108 St Georges Terrace has 50 floors and was completed in 1988 at a cost of 120m Australian dollars.</lex>
       <lex comment="good" lid="Id3">108 St. Georges Terrace cost 120 million AUD, has a floor count of 50 and was completed in 1988.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -795,7 +795,7 @@
         <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">20 Fenchurch Street is located within the United Kingdom where the currency is Pound sterling and the demonym for natives of the United kingdom is British people.</lex>
-      <lex comment="good" lid="Id2" error_1="British people">Natives of the UK are known as British and the currency is the pound sterling. The UK is the location of 20 Fenchurch Street.</lex>
+      <lex comment="good" lid="Id2">Natives of the UK are known as British and the currency is the pound sterling. The UK is the location of 20 Fenchurch Street.</lex>
       <lex comment="good" lid="Id3">20 Fenchurch Street is located within the United Kingdom whose natives are called British people and whose currency is Pound sterling.</lex>
     </entry>
     <entry category="Building" eid="Id41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1539,7 +1539,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AC Hotel Bella Sky Copenhagen is owned by Bella Center and has 23 floors. It was designed by the architectural firm 3XN.</lex>
-      <lex comment="good" lid="Id2" error_1="Bella Center">The AC Hotel Bella Sky Copenhagen, which is owned by Bella Centre, has 23 floors and the architect was 3XN.</lex>
+      <lex comment="good" lid="Id2">The AC Hotel Bella Sky Copenhagen, which is owned by Bella Centre, has 23 floors and the architect was 3XN.</lex>
     </entry>
     <entry category="Building" eid="Id81" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1552,7 +1552,7 @@
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
         <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="AC Hotel Bella Sky Copenhagen">The Bella Sky hotel in Copenhagen has 23 floors, is owned by Bella Center and tenanted by Marriott International.</lex>
+      <lex comment="good" lid="Id1">The Bella Sky hotel in Copenhagen has 23 floors, is owned by Bella Center and tenanted by Marriott International.</lex>
       <lex comment="good" lid="Id2">The owner of the AC Hotel Bella Sky Copenhagen which has 23 floors is Bella Center and the tenant is Marriott International.</lex>
       <lex comment="good" lid="Id3">AC Hotel Bella Sky Copenhagen, which has 23 floors, is owned by Bella Center and its tenant is the Marriott International.</lex>
     </entry>
@@ -2093,9 +2093,9 @@
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Akita Prefecture">The Akita Museum of Art is located in Akita, Akita which is in Japan.</lex>
+      <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita, Akita which is in Japan.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in the Akita Prefecture, which is in Akita, Akita, Japan.</lex>
-      <lex comment="good" lid="Id3" error_1="Akita Prefecture">Akita in the province of the same name, Japan, is home to the Akita Museum of Art.</lex>
+      <lex comment="good" lid="Id3">Akita in the province of the same name, Japan, is home to the Akita Museum of Art.</lex>
     </entry>
     <entry category="Building" eid="Id113" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2262,9 +2262,9 @@
         <mtriple>Mason_School_of_Business | country | United_States</mtriple>
         <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="75.0 million (dollars)">Located in the United States, the Mason School of Business currently live in the Alan B. Miller Hall, a building which cost 75 million dollars.</lex>
-      <lex comment="good" lid="Id2" error_1="75.0 million (dollars)">The Mason School of Business, located in the United States, is the current tenant of Alan B Miller Hall, which cost 75 million dollars.</lex>
-      <lex comment="good" lid="Id3" error_1="75.0 million (dollars)">The Alan B. Miller Hall in the United States cost 75 million dollars. The current tenants are The Mason School of Business.</lex>
+      <lex comment="good" lid="Id1">Located in the United States, the Mason School of Business currently live in the Alan B. Miller Hall, a building which cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id2">The Mason School of Business, located in the United States, is the current tenant of Alan B Miller Hall, which cost 75 million dollars.</lex>
+      <lex comment="good" lid="Id3">The Alan B. Miller Hall in the United States cost 75 million dollars. The current tenants are The Mason School of Business.</lex>
     </entry>
     <entry category="Building" eid="Id123" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2293,7 +2293,7 @@
         <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan B Miller Hall which has a Georgian style of architecture is owned by the College of William and Mary and is located in Virginia.</lex>
-      <lex comment="good" lid="Id2" error_1="Georgian architecture">The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which has the Georgian architectural style.</lex>
+      <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall in Virginia which has the Georgian architectural style.</lex>
       <lex comment="good" lid="Id3">The College of William and Mary is the owner of the Alan B. Miller Hall, that is situated in Virginia and built in the Georgian architecture style.</lex>
     </entry>
     <entry category="Building" eid="Id125" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2386,9 +2386,9 @@
         <mtriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</mtriple>
         <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Georgian architecture">The College of William and Mary is the owner of the Georgian styled Alan B. Miller Hall in Williamsburg, Virginia.</lex>
+      <lex comment="good" lid="Id1">The College of William and Mary is the owner of the Georgian styled Alan B. Miller Hall in Williamsburg, Virginia.</lex>
       <lex comment="good" lid="Id2">The College of William and Mary is the owner of the Alan B. Miller Hall in Williamsburg, Virginia, which was built in the Georgian style of architecture.</lex>
-      <lex comment="good" lid="Id3" error_1="Georgian architecture">The College of William and Mary is the owner of the Alan B. Miller Hall, it is located in Williamsburg, Virginia and has an Georgian architectural style.</lex>
+      <lex comment="good" lid="Id3">The College of William and Mary is the owner of the Alan B. Miller Hall, it is located in Williamsburg, Virginia and has an Georgian architectural style.</lex>
     </entry>
     <entry category="Building" eid="Id131" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3055,8 +3055,8 @@
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asser Levy Public Baths was built in 1904 and located on Asser Levy Place &amp; East 23rd Street, was added to The National Register of Historic Places April 23, 1980.</lex>
-      <lex comment="good" lid="Id2" error_1="Asser Levy Place and East 23rd Street">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
-      <lex comment="good" lid="Id3" error_1="Asser Levy Place and East 23rd Street">The Asser Levy Public Baths, constructed in 1904 in Asser Levy Place on East 23rd Street, were added to the National Register of historic Places on 1980-04-23.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths built in 1904 are located in Asser Levy Place, East 23rd Street. They were added to the National Register of Historic Places on "1980-04-23".</lex>
+      <lex comment="good" lid="Id3">The Asser Levy Public Baths, constructed in 1904 in Asser Levy Place on East 23rd Street, were added to the National Register of historic Places on 1980-04-23.</lex>
     </entry>
     <entry category="Building" eid="Id168" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3516,7 +3516,7 @@
         <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
         <mtriple>Republic_of_Ireland | leaderName | Enda_Kenny</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Republic of Ireland">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
+      <lex comment="good" lid="Id1">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
       <lex comment="good" lid="Id2">Adare Manor is located in the Republic of Ireland, the leader of this country is Enda Kenny and one of the languages used is English.</lex>
     </entry>
     <entry category="Building" eid="Id196" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -3616,7 +3616,7 @@
         <mtriple>United_States | leaderName | John_Roberts</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
       <lex comment="good" lid="Id2">The United States is led by the President of the United States. One of the leaders is John Roberts, and 250 Delaware Avenue is located in the country.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is located in the United States where the Chief Justice is John Roberts and the leader's title is President of the United States.</lex>
     </entry>

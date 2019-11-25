@@ -35,7 +35,7 @@
         <mtriple>Ajoblanco | alternativeName | "Ajo blanco"</mtriple>
         <mtriple>Ajoblanco | ingredient | Olive_oil</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spain">Ajoblanco, a dish with Spanish roots, is a mix of bread, almonds, garlic, water and olive oil. It originated in the Andalusia region and is also known as Ajo Blanco.</lex>
+      <lex comment="good" lid="Id1">Ajoblanco, a dish with Spanish roots, is a mix of bread, almonds, garlic, water and olive oil. It originated in the Andalusia region and is also known as Ajo Blanco.</lex>
       <lex comment="good" lid="Id2">Ajoblanco, (alternative name Ajo Blanco), is a dish from the Andalusia region of Spain and includes the main ingredients bread, water, almonds, garlic and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id3" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -141,9 +141,9 @@
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
         <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italian meal structure">Amatriciana is a sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
-      <lex comment="good" lid="Id2" error_1="Italian meal structure">Amatriciana is a traditional sauce from the Lazio region, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
-      <lex comment="good" lid="Id3" error_1="Italian meal structure">Italian Amatriciana sauce of Lazio contains: olive oil, tomatoes, guanciale and cheese.</lex>
+      <lex comment="good" lid="Id1">Amatriciana is a sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id2">Amatriciana is a traditional sauce from the Lazio region, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id3">Italian Amatriciana sauce of Lazio contains: olive oil, tomatoes, guanciale and cheese.</lex>
     </entry>
     <entry category="Food" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -167,8 +167,8 @@
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
         <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italian meal structure">Amatriciana sauce is from the Lazio region in Italy and it's used in an Italian meal. Pecorino Romano is an ingredient of Amatriciana sauce as well as tomatoes, guanciale, cheese and olive oil.</lex>
-      <lex comment="good" lid="Id2" error_1="Italian meal structure">Amatriciana is a popular sauce from Lazio, Italy. It includes Pecorino Romano cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id1">Amatriciana sauce is from the Lazio region in Italy and it's used in an Italian meal. Pecorino Romano is an ingredient of Amatriciana sauce as well as tomatoes, guanciale, cheese and olive oil.</lex>
+      <lex comment="good" lid="Id2">Amatriciana is a popular sauce from Lazio, Italy. It includes Pecorino Romano cheese along with tomatoes, guanciale and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -192,9 +192,9 @@
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
         <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italian meal structure">Amatriciana sauce, which is made of tomatoes, guanciale, cheese, and olive oil, comes from the region of Lazio in Italy.</lex>
-      <lex comment="good" lid="Id2" error_1="Italian meal structure">Tomatoes, guanciale, cheese, olive oil are the main ingredients of Amatriciana sauce, which can be found in an Italian meal as it is from Lazio region, Italy.</lex>
-      <lex comment="good" lid="Id3" error_1="Italian meal structure" error_2="Tomatoes, guanciale, cheese, olive oil">Italian sauce Amatriciana is from Lazio, Italy. It includes tomato, guanciale, cheese and olive oil.</lex>
+      <lex comment="good" lid="Id1">Amatriciana sauce, which is made of tomatoes, guanciale, cheese, and olive oil, comes from the region of Lazio in Italy.</lex>
+      <lex comment="good" lid="Id2">Tomatoes, guanciale, cheese, olive oil are the main ingredients of Amatriciana sauce, which can be found in an Italian meal as it is from Lazio region, Italy.</lex>
+      <lex comment="good" lid="Id3">Italian sauce Amatriciana is from Lazio, Italy. It includes tomato, guanciale, cheese and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id10" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -249,8 +249,8 @@
         <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem is a main course dish served nationwide in Indonesia, but is more specific to Java. The main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id2" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem- arem is a main course made of compressed rice which is cooked in a banana leaf with vegetables or minced meat. It is found nationwide in Indonesia, but it is more specific to Java.</lex>
-      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem-Arem, a dish with ingredients such as banana leaf, compressed rice, vegetables and minced meat, is found in Indonesia, can be served as a main course and is found nationwide in indonesia, but more specific to Java.</lex>
+      <lex comment="good" lid="Id2">Arem- arem is a main course made of compressed rice which is cooked in a banana leaf with vegetables or minced meat. It is found nationwide in Indonesia, but it is more specific to Java.</lex>
+      <lex comment="good" lid="Id3">Arem-Arem, a dish with ingredients such as banana leaf, compressed rice, vegetables and minced meat, is found in Indonesia, can be served as a main course and is found nationwide in indonesia, but more specific to Java.</lex>
     </entry>
     <entry category="Food" eid="Id13" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -267,9 +267,9 @@
         <mtriple>Arem-arem | course | "Main course"</mtriple>
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">The main course Arem-arem is a dish of Javanese cuisine and is also popular in Indonesia. The main ingredients are rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id2" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Indonesian arem-arem, with ingredients such as compressed rice, banana leaf, vegetables and minced meat is a Javanese dish which can be served as a main course.</lex>
-      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem-arem includes compressed rice cooked in banana leaf and vegetables or minced meat. It is a main course dish of Javanese cuisine and served in Indonesia.</lex>
+      <lex comment="good" lid="Id1">The main course Arem-arem is a dish of Javanese cuisine and is also popular in Indonesia. The main ingredients are rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id2">Indonesian arem-arem, with ingredients such as compressed rice, banana leaf, vegetables and minced meat is a Javanese dish which can be served as a main course.</lex>
+      <lex comment="good" lid="Id3">Arem-arem includes compressed rice cooked in banana leaf and vegetables or minced meat. It is a main course dish of Javanese cuisine and served in Indonesia.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -508,7 +508,7 @@
         <mtriple>Arrabbiata_sauce | dishVariation | Basil</mtriple>
         <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chili pepper">Arrabbiata sauce is a traditional dish from Rome in Italy and is made from tomatoes, red chili, garlic and olive oil. Basil can also be included in the sauce.</lex>
+      <lex comment="good" lid="Id1">Arrabbiata sauce is a traditional dish from Rome in Italy and is made from tomatoes, red chili, garlic and olive oil. Basil can also be included in the sauce.</lex>
       <lex comment="good" lid="Id2">Arrabbiata sauce which comes from Rome, Italy includes tomatoes, red chili, garlic, olive oil, chili pepper. Basil can also be included if you like.</lex>
     </entry>
     <entry category="Food" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -562,7 +562,7 @@
         <mtriple>Spain | leaderName | Felipe_VI_of_Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros negre comes from the region of the Valencian Community (leader Ximo Puig), Spain (leader Felipe VI). Spaniards are the population name there.</lex>
-      <lex comment="good" lid="Id2" error_1="Valencian Community">Arros negre comes from the Valencia Province of Spain, where Ximo Puig is the region's leader. The country's main ethnic group is the Spaniards and it is led by King Felipe VI.</lex>
+      <lex comment="good" lid="Id2">Arros negre comes from the Valencia Province of Spain, where Ximo Puig is the region's leader. The country's main ethnic group is the Spaniards and it is led by King Felipe VI.</lex>
     </entry>
     <entry category="Food" eid="Id28" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -616,9 +616,9 @@
         <mtriple>Asam_pedas | region | Sumatra</mtriple>
         <mtriple>Sumatra | ethnicGroup | Malays_(ethnic_group)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Acehnese people">Joko Widodo is the leader of Indonesia which is where Asam pedas comes from. Asam pedas also comes from Sumatra where the ethnic groups Malays and Acehnese live.</lex>
-      <lex comment="good" lid="Id2" error_1="Acehnese people">Asam pedas is a dish from Sumatra in Indonesia, a country led by Joko Widodo. The Acehnese and Malays are both ethnic groups in Sumatra.</lex>
-      <lex comment="good" lid="Id3" error_1="Acehnese people">Asam pedas is a popular dish in Indonesia, but it's from Sumatra, where the Acehnese and Malays are both ethnic groups. Joko Widodo is an Indonesian leader.</lex>
+      <lex comment="good" lid="Id1">Joko Widodo is the leader of Indonesia which is where Asam pedas comes from. Asam pedas also comes from Sumatra where the ethnic groups Malays and Acehnese live.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a dish from Sumatra in Indonesia, a country led by Joko Widodo. The Acehnese and Malays are both ethnic groups in Sumatra.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is a popular dish in Indonesia, but it's from Sumatra, where the Acehnese and Malays are both ethnic groups. Joko Widodo is an Indonesian leader.</lex>
     </entry>
     <entry category="Food" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1064,7 +1064,7 @@
         <mtriple>Bacon_Explosion | mainIngredients | Bacon</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Considered a main course, Bacon Explosion's main ingredients are bacon and sausage. It comes from the Kansas City metropolitan area, in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Kansas City metropolitan area">The main course dish Bacon Explosion, which includes sausages as well as bacon, comes from Kansas City, United States.</lex>
+      <lex comment="good" lid="Id2">The main course dish Bacon Explosion, which includes sausages as well as bacon, comes from Kansas City, United States.</lex>
       <lex comment="good" lid="Id3">Bacon and sausage can be found in the Bacon Explosion that comes from the United States. It is worthy of a main course in the Kansas City Metropolitan area.</lex>
     </entry>
     <entry category="Food" eid="Id55" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1138,7 +1138,7 @@
         <mtriple>Bacon_Explosion | course | "Main course"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon Explosion is from the Kansas City metropolitan area, in the United States. Considered a main course, its main ingredients are sausage and bacon.</lex>
-      <lex comment="good" lid="Id2" error_1="Kansas City metropolitan area">Bacon Explosion which has bacon and sausage in it comes from Kansas City metro area in the U.S. The Bacon Explosion is a main course.</lex>
+      <lex comment="good" lid="Id2">Bacon Explosion which has bacon and sausage in it comes from Kansas City metro area in the U.S. The Bacon Explosion is a main course.</lex>
     </entry>
     <entry category="Food" eid="Id59" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1449,9 +1449,9 @@
         <mtriple>Bacon_Explosion | course | "Main course"</mtriple>
         <mtriple>Bacon_Explosion | mainIngredients | Sausage</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kansas City metropolitan area">The main ingredients in a bacon explosion (a main course) are bacon and sausage. The Bacon Explosion is from the Kansas City metro area.</lex>
+      <lex comment="good" lid="Id1">The main ingredients in a bacon explosion (a main course) are bacon and sausage. The Bacon Explosion is from the Kansas City metro area.</lex>
       <lex comment="good" lid="Id2">The main ingredients of Bacon Explosion are bacon and sausage. It is served as a main course and comes from the Kansas City metropolitan area.</lex>
-      <lex comment="good" lid="Id3" error_1="Kansas City metropolitan area" error_2="Main course">The Bacon Explosion is a main dish from Kansas City metro which contains sausage and bacon.</lex>
+      <lex comment="good" lid="Id3">The Bacon Explosion is a main dish from Kansas City metro which contains sausage and bacon.</lex>
     </entry>
     <entry category="Food" eid="Id76" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1688,7 +1688,7 @@
         <mtriple>Bacon_sandwich | country | United_Kingdom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon sandwich, a variation of the club sandwich and BLT, is a dish from the United Kingdom. One of its ingredients is tomato. David Cameron is a leader in the UK.</lex>
-      <lex comment="good" lid="Id2" error_1="United Kingdom">BLT is a type of sandwich containing bacon and tomato. Its variations include bacon and club sandwiches. Bacon sandwiches are very popular in Great Britain where the leader is called David Cameron.</lex>
+      <lex comment="good" lid="Id2">BLT is a type of sandwich containing bacon and tomato. Its variations include bacon and club sandwiches. Bacon sandwiches are very popular in Great Britain where the leader is called David Cameron.</lex>
       <lex comment="good" lid="Id3">Bacon sandwiches are popular in the UK where David Cameron was once Prime Minister. Variations on the sandwich include the BLT (which includes tomato) and club sandwich.</lex>
     </entry>
     <entry category="Food" eid="Id87" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1875,7 +1875,7 @@
         <mtriple>Bakewell_pudding | course | "Dessert"</mtriple>
         <mtriple>Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ground almond, jam, butter, eggs">Bakewel pudding, also called bakewell tart, originates from the Derbyshire Dales. Classified as a dessert which can be served warm from the oven or cold, its main ingredients are almond, jam, butter and eggs.</lex>
+      <lex comment="good" lid="Id1">Bakewel pudding, also called bakewell tart, originates from the Derbyshire Dales. Classified as a dessert which can be served warm from the oven or cold, its main ingredients are almond, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id2">Bakewell pudding (or tart) is a dessert from the Derbyshire Dales region. It can be served warm (freshly baked) or cold and includes the ingredients ground almonds, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id3">Bakewell pudding (bakewell tart) is a dessert from the Derbyshire Dales region and can be served warm or cold. The main ingredients include ground almond, jam, butter and eggs.</lex>
     </entry>
@@ -1913,7 +1913,7 @@
         <mtriple>Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"</mtriple>
         <mtriple>Bakewell_pudding | served | "Warm  or cold"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Warm or cold">The Derbyshire Dales dish of Bakewell pudding is a dessert of ground almond, jam, butter and eggs that is delicious either hot or cold.</lex>
+      <lex comment="good" lid="Id1">The Derbyshire Dales dish of Bakewell pudding is a dessert of ground almond, jam, butter and eggs that is delicious either hot or cold.</lex>
       <lex comment="good" lid="Id2">Bakewell pudding is a dessert from the Derbyshire Dales region that can be served warm (freshly baked) or cold. It contains ground almond, jam, butter and eggs as its main ingredients.</lex>
       <lex comment="good" lid="Id3">Bakewell pudding originates from the Derbyshire Dales and is a dessert you can eat warm (freshly baked) or cold. The ingredients include ground almond, jam, butter and eggs.</lex>
     </entry>
@@ -2080,8 +2080,8 @@
         <mtriple>Lemon | genus | Citrus</mtriple>
         <mtriple>Bandeja_paisa | region | Antioquia_Department</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Antioquia Department">Lemon, an ingredient in Antioquia/Colombian dish Bandeja paisa, belongs to the rutaceae family, Citrus Genus.</lex>
-      <lex comment="good" lid="Id2" error_1="Antioquia Department">Bandeja paisa is a dish from the Antioquia region of Colombia. It is made from lemons, from the genus citrus and the family Rutaceae.</lex>
+      <lex comment="good" lid="Id1">Lemon, an ingredient in Antioquia/Colombian dish Bandeja paisa, belongs to the rutaceae family, Citrus Genus.</lex>
+      <lex comment="good" lid="Id2">Bandeja paisa is a dish from the Antioquia region of Colombia. It is made from lemons, from the genus citrus and the family Rutaceae.</lex>
     </entry>
     <entry category="Food" eid="Id107" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2152,7 +2152,7 @@
         <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
         <mtriple>Bandeja_paisa | region | Antioquia_Department</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Antioquia Department">Bandeja paisa is a dish from the Antioquia region of Colombia. It contains lemons which are from the order Sapindales and the family Rutaceae.</lex>
+      <lex comment="good" lid="Id1">Bandeja paisa is a dish from the Antioquia region of Colombia. It contains lemons which are from the order Sapindales and the family Rutaceae.</lex>
       <lex comment="good" lid="Id2">Bandeja paisa is from the Antioquia Department region of Colombia and includes lemon. Lemons are from the Sapindales order and of the rutaceae family.</lex>
     </entry>
     <entry category="Food" eid="Id111" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2347,7 +2347,7 @@
         <mtriple>France | leaderName | Manuel_Valls</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barny cakes were created by Chicago based Mondelez International. Barny cakes are also from France, whose leader is Gerard Larcher. Manuel Valls is a former leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Barny Cakes">Barney cakes is created by Mondelez International, which was founded in Chicago. Barney cakes are now produced in France, a nation led by Manuel Valls and Gerard Larcher.</lex>
+      <lex comment="good" lid="Id2">Barney cakes is created by Mondelez International, which was founded in Chicago. Barney cakes are now produced in France, a nation led by Manuel Valls and Gerard Larcher.</lex>
       <lex comment="good" lid="Id3">Created by Mondelez International (founded in Chicago), Barny Cakes come from France where Gerard Larcher and Manuel Valls are leaders.</lex>
     </entry>
     <entry category="Food" eid="Id121" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2385,7 +2385,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Created by Mondelez International (founded in Chicago), Barny Cakes come from France where François Hollande and Manuel Valls are leaders.</lex>
       <lex comment="good" lid="Id2">Barny Cakes originates from France where the country's leaders are Francois Hollande and Manuel Valls. Mondelez International is the creator of the dessert and the company was founded in Chicago.</lex>
-      <lex comment="good" lid="Id3" error_1="Barny Cakes">Barney cakes were founded by Chicago's Mondelez International in France (led by Manuel Valls and Francois Hollande).</lex>
+      <lex comment="good" lid="Id3">Barney cakes were founded by Chicago's Mondelez International in France (led by Manuel Valls and Francois Hollande).</lex>
     </entry>
     <entry category="Food" eid="Id123" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2491,7 +2491,7 @@
         <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
         <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="30.0 g">Barny cakes, which were invented in 1999 can be served in 30g sizes and these contain 1.8g of protein, 18.0g of carbohydrates and 4.8g of fat.</lex>
+      <lex comment="good" lid="Id1">Barny cakes, which were invented in 1999 can be served in 30g sizes and these contain 1.8g of protein, 18.0g of carbohydrates and 4.8g of fat.</lex>
     </entry>
     <entry category="Food" eid="Id125" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2567,8 +2567,8 @@
         <mtriple>Batagor | dishVariation | Siomay</mtriple>
         <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="fried fish dumpling with tofu and vegetables in peanut sauce">Batagor, Siomay &amp; shumai come from Indonesia. Batagor &amp; Siomay are variations of the same dish &amp; Batagor is a variation of shumai. Batagor's main ingredients are fried fish dumplings with tofu &amp; vegetables in peanut sauce.</lex>
-      <lex comment="good" lid="Id2" error_1="fried fish dumpling with tofu and vegetables in peanut sauce">Batagor is a dish from the country Indonesia. Other variations of the dish include Shumai and Siomay. The main ingredients are peanut sauce, fired fish dumplings, tofu and vegetables.</lex>
+      <lex comment="good" lid="Id1">Batagor, Siomay &amp; shumai come from Indonesia. Batagor &amp; Siomay are variations of the same dish &amp; Batagor is a variation of shumai. Batagor's main ingredients are fried fish dumplings with tofu &amp; vegetables in peanut sauce.</lex>
+      <lex comment="good" lid="Id2">Batagor is a dish from the country Indonesia. Other variations of the dish include Shumai and Siomay. The main ingredients are peanut sauce, fired fish dumplings, tofu and vegetables.</lex>
     </entry>
     <entry category="Food" eid="Id128" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2655,8 +2655,8 @@
         <mtriple>Singapore | language | Standard_Chinese</mtriple>
         <mtriple>Singapore | leaderName | Halimah_Yacob</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Nationwide in Singapore and Indonesia">Tony Tan and Halimah Yacob are leaders in Singapore, where Standard Chinese is spoken and the dish Beef kway teow is served. The dish is also available in Indonesia.</lex>
-      <lex comment="good" lid="Id2" error_1="Nationwide in Singapore and Indonesia">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where Standard Chinese is spoken.</lex>
+      <lex comment="good" lid="Id1">Tony Tan and Halimah Yacob are leaders in Singapore, where Standard Chinese is spoken and the dish Beef kway teow is served. The dish is also available in Indonesia.</lex>
+      <lex comment="good" lid="Id2">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where Standard Chinese is spoken.</lex>
     </entry>
     <entry category="Food" eid="Id132" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2827,7 +2827,7 @@
         <mtriple>Bhajji | region | Karnataka</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Indian rupee is the currency in India where the leaders are Narendra Modi and Sumitra Mahajan. Bhajji originates from India in the Karnataka region.</lex>
-      <lex comment="good" lid="Id2" error_1="Indian rupee">The Bhajji originates from the Karnataka region of India. The country's leaders include Sumitra Mahajan and Narendra Modi and the currency is the rupee.</lex>
+      <lex comment="good" lid="Id2">The Bhajji originates from the Karnataka region of India. The country's leaders include Sumitra Mahajan and Narendra Modi and the currency is the rupee.</lex>
       <lex comment="good" lid="Id3">Bhajji are found in the region of Karnataka, India, which leaders are Narendra Modi and Sumitra Mahajan and the currency is Indian rupee.</lex>
     </entry>
     <entry category="Food" eid="Id139" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2847,7 +2847,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Indian rupee is the currency in India where the leaders are T. S. Thakur and Vajubhai Vala. Bhajji comes from the Karnataka region in India.</lex>
       <lex comment="good" lid="Id2">Bhajji comes from the country India in the Karnataka region. The currency of India is the Indian rupee and T. S. Thakur is the leader of India while the leader of Karnataka is Vajubhai Vala.</lex>
-      <lex comment="good" lid="Id3" error_1="Indian rupee">T S Thakur is the leader of India, which has the currency the rupee. The food bhajji comes from the Karnataka region who is led by Vajubhai Vala.</lex>
+      <lex comment="good" lid="Id3">T S Thakur is the leader of India, which has the currency the rupee. The food bhajji comes from the Karnataka region who is led by Vajubhai Vala.</lex>
     </entry>
     <entry category="Food" eid="Id140" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2871,7 +2871,7 @@
         <mtriple>India | leaderName | Narendra_Modi</mtriple>
         <mtriple>Bhajji | region | Karnataka</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Indian rupee">The Bhajji originates from the Karnataka region of India. The country's leaders include T. S. Thakur and Narendra Modi and the currency is the rupee.</lex>
+      <lex comment="good" lid="Id1">The Bhajji originates from the Karnataka region of India. The country's leaders include T. S. Thakur and Narendra Modi and the currency is the rupee.</lex>
       <lex comment="good" lid="Id2">Bhajji come from the Karnataka region, India, which leaders are T. S. Thakur and Narendra Modi and the currency is the Indian rupee.</lex>
     </entry>
     <entry category="Food" eid="Id141" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -2965,7 +2965,7 @@
         <mtriple>Bhajji | region | Karnataka</mtriple>
         <mtriple>Karnataka | leaderName | Vajubhai_Vala</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Indian people">Bhajji comes from the country India where the residents are called Indians and the leader is Narendra Modi. Vajubhai Vala is the leader of Karnataka which is where bhajji are found.</lex>
+      <lex comment="good" lid="Id1">Bhajji comes from the country India where the residents are called Indians and the leader is Narendra Modi. Vajubhai Vala is the leader of Karnataka which is where bhajji are found.</lex>
       <lex comment="good" lid="Id2">Bhajji is an Indian dish from the Karnataka region, where the leader is Vajubhai Vala. Indians is the name given to people from India and the leader of the country is Narendra Modi.</lex>
       <lex comment="good" lid="Id3">Bhajji is from the Karnataka region of India, where the leader is Vajubhai Vala. Narendra Modi is a leader in India, where the people who live there are called Indians.</lex>
     </entry>
@@ -3012,7 +3012,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Indians is the name given to people from India and the leaders are Sumitra Mahajan and Vajubhai Vala. Bhajji is from the Karnataka region of India.</lex>
       <lex comment="good" lid="Id2">Bhajji is from the Karnataka region of India. India is led by Sumitra Mahajan, and is home to the Indian people. Vajubhai Vala is the leader of Karnataka.</lex>
-      <lex comment="good" lid="Id3" error_1="Indian people">Bhajji originates from the Karnataka region (led by Vajubhai Vala) of India. The Indians of India are led by Sumitra Mahajan.</lex>
+      <lex comment="good" lid="Id3">Bhajji originates from the Karnataka region (led by Vajubhai Vala) of India. The Indians of India are led by Sumitra Mahajan.</lex>
     </entry>
     <entry category="Food" eid="Id147" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3206,7 +3206,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a dessert from Guadalajara, Mexico that includes chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
       <lex comment="good" lid="Id2">Chopped Fruits, sour cream, condensed milk, granola, shredded coconut and raisins are the main ingredients in bionico. It is a dessert that can be found in Guadalajara, Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins">Bionico is a dessert dish from the Guadalajara region of Mexico. It contains condensed milk, fruit, sour cream, granola, coconut and raisins.</lex>
+      <lex comment="good" lid="Id3">Bionico is a dessert dish from the Guadalajara region of Mexico. It contains condensed milk, fruit, sour cream, granola, coconut and raisins.</lex>
     </entry>
     <entry category="Food" eid="Id157" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3224,7 +3224,7 @@
         <mtriple>Bionico | ingredient | Granola</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a dessert found in Mexico and Guadalajara. Its ingredients include granola, chopped fruits, sour cream, condensed milk, shredded coconut and raisins.</lex>
-      <lex comment="good" lid="Id2" error_1="Mexico">Bionico is a Mexican dessert made from chopped fruits, sour cream, condensed milk, granola, raisins and shredded coconut. It originates from the Guadalajara region.</lex>
+      <lex comment="good" lid="Id2">Bionico is a Mexican dessert made from chopped fruits, sour cream, condensed milk, granola, raisins and shredded coconut. It originates from the Guadalajara region.</lex>
       <lex comment="good" lid="Id3">Bionico (dessert) contains: chopped fruits, sour cream, condensed milk, granola shredded coconut and raisins. It is found in the Guadalajara region of Mexico.</lex>
     </entry>
     <entry category="Food" eid="Id158" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3242,7 +3242,7 @@
         <mtriple>Bionico | region | Guadalajara</mtriple>
         <mtriple>Bionico | ingredient | Raisin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins">Bionico is a dessert dish that can be found in Mexico and Guadalajara. The main ingredients of Bionico are: Chopped fruit, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id1">Bionico is a dessert dish that can be found in Mexico and Guadalajara. The main ingredients of Bionico are: Chopped fruit, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
       <lex comment="good" lid="Id2">Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico. It is serverd for dessert and can be found in Guadalajara, Mexico.</lex>
       <lex comment="good" lid="Id3">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is served for dessert and is from the Guadalajara region, Mexico.</lex>
     </entry>
@@ -3298,7 +3298,7 @@
         <mtriple>Bionico | region | Jalisco</mtriple>
         <mtriple>Bionico | ingredient | Granola</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexico">Bionico is a Mexican dessert dish from the region of Jalisco and the main ingredients are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
+      <lex comment="good" lid="Id1">Bionico is a Mexican dessert dish from the region of Jalisco and the main ingredients are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
       <lex comment="good" lid="Id2">Bionico, a dessert found in Mexico, is made from sour cream, chopped fruits, condensed milk, granola, raisins, and shredded coconut. Bionico comes from the Jalisco region.</lex>
       <lex comment="good" lid="Id3">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is served as dessert and is found in the region of Jalisco, Mexico.</lex>
     </entry>
@@ -3353,8 +3353,8 @@
         <mtriple>Dessert | dishVariation | Cake</mtriple>
         <mtriple>Bionico | course | Dessert</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexico">Bionico is a Mexican dish from the Jalisco region, where Aristoteles Sandoval is a leader. Bionico is a dessert dish and a variation on dessert is cake.</lex>
-      <lex comment="good" lid="Id2" error_1="Mexico">Bionico is a food found in the Mexican region of Jalisco, where the leader is Aristoteles Sandoval. Bionico is served as a dessert course, a variation of which is cake.</lex>
+      <lex comment="good" lid="Id1">Bionico is a Mexican dish from the Jalisco region, where Aristoteles Sandoval is a leader. Bionico is a dessert dish and a variation on dessert is cake.</lex>
+      <lex comment="good" lid="Id2">Bionico is a food found in the Mexican region of Jalisco, where the leader is Aristoteles Sandoval. Bionico is served as a dessert course, a variation of which is cake.</lex>
       <lex comment="good" lid="Id3">Bionico is found in the Jalisco region of Mexico. It is served as a dessert. Cake is a variation on dessert. Jalisco is led by Aristóteles Sandoval.</lex>
     </entry>
     <entry category="Food" eid="Id165" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -3864,7 +3864,7 @@
         <mtriple>Asam_pedas | region | Sumatra</mtriple>
         <mtriple>Sumatra | ethnicGroup | Malays_(ethnic_group)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Acehnese people">Jusuf Kalla is the leader of Indonesia where the Acehnese and Malays are ethnic groups. Asam pedas is a dish from Sumatra in Indonesia.</lex>
+      <lex comment="good" lid="Id1">Jusuf Kalla is the leader of Indonesia where the Acehnese and Malays are ethnic groups. Asam pedas is a dish from Sumatra in Indonesia.</lex>
       <lex comment="good" lid="Id2">Asam pedas is a dish that is popular in Indonesia and Sumatra. Jusuf Kalla is the leader of Indonesia. Malays and Acehnese people are ethnic groups of Sumatra.</lex>
       <lex comment="good" lid="Id3">Asam pedas is a dish from Sumatra and Indonesia. Sumatra has Malays and Acehnese people for ethnic groups. Jusuf Kalla is a leader in Indonesia.</lex>
     </entry>
@@ -4056,7 +4056,7 @@
         <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amatriciana sauce can be found in Italy, where Italians are from, and the capital is Rome. It is also where Sergio Mattarella and Pietro Grasso are leaders.</lex>
-      <lex comment="good" lid="Id2" error_1="Italians">Amatriciana sauce is a traditional sauce from Italy, where Italian people are from, Rome is the capital, and Sergio Mattarella and Pietro Grasso are the leaders.</lex>
+      <lex comment="good" lid="Id2">Amatriciana sauce is a traditional sauce from Italy, where Italian people are from, Rome is the capital, and Sergio Mattarella and Pietro Grasso are the leaders.</lex>
     </entry>
     <entry category="Food" eid="Id200" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4293,7 +4293,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy comes from the Philippines, a country where the official language is Philippine English. It is also where one of the other languages is Arabic. Additionally, it is where the Ilocano people and Zamboangans are two of the ethnic groups.</lex>
       <lex comment="good" lid="Id2">Philippines is the country where the dish Batchoy comes from. Ethnic groups there include Zamboangans and the Ilocano people. Languages spoken are Philippine English and Arabic.</lex>
-      <lex comment="good" lid="Id3" error_1="Zamboangans">Philippines is the country Batchoy comes from. The country's ethnic groups include the Ilocano and Zamboangan people. Philippine English is the official language but Arabic is also spoken there.</lex>
+      <lex comment="good" lid="Id3">Philippines is the country Batchoy comes from. The country's ethnic groups include the Ilocano and Zamboangan people. Philippine English is the official language but Arabic is also spoken there.</lex>
     </entry>
     <entry category="Food" eid="Id212" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4459,7 +4459,7 @@
         <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batchoy is a dish from the Philippines, where the official language is Philippine English and where Arabic is also spoken. Ethnic groups from the country include the Ilocano people and the Chinese Filipino.</lex>
-      <lex comment="good" lid="Id2" error_1="Ilocano people">Philippines is the country Batchoy comes from. Chinese Filipino and the Ilocano are ethnic groups there and both Philippine English and Arabic are spoken.</lex>
+      <lex comment="good" lid="Id2">Philippines is the country Batchoy comes from. Chinese Filipino and the Ilocano are ethnic groups there and both Philippine English and Arabic are spoken.</lex>
     </entry>
     <entry category="Food" eid="Id220" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4477,7 +4477,7 @@
         <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Philippines is the country Batchoy comes from. There they speak Arabic and Philippine English, the ethnic groups are Igorot people and Chinese Filipino.</lex>
-      <lex comment="good" lid="Id2" error_1="Igorot people">The Philippines contains different ethnicities including Chinese Filipino and Igorot. They speak Arabic and Philippine English and eat batchoy.</lex>
+      <lex comment="good" lid="Id2">The Philippines contains different ethnicities including Chinese Filipino and Igorot. They speak Arabic and Philippine English and eat batchoy.</lex>
     </entry>
     <entry category="Food" eid="Id221" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

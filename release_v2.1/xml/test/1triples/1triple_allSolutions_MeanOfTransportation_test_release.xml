@@ -102,7 +102,7 @@
         <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | status | "Sold to the Netherlands 1 April 1948"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ARA Veinticinco de Mayo (V-2) was sold to the Netherlands on the 1st of April 1948.</lex>
-      <lex comment="good" lid="Id2" error_1="Sold to the Netherlands 1 April 1948">The ARA Veinticinco de Mayo (V-2) was sold to the Netherlands on 01/04/1948.</lex>
+      <lex comment="good" lid="Id2">The ARA Veinticinco de Mayo (V-2) was sold to the Netherlands on 01/04/1948.</lex>
       <lex comment="good" lid="Id3">The ARA Veinticinco de Mayo (V-2) was sold to the Netherlands 1 April 1948.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
@@ -113,7 +113,7 @@
         <mtriple>Abarth_1000_GT_Coupé | engine | Straight-four_engine</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Abarth 1000 GT Coupé has a straight-four engine.</lex>
-      <lex comment="good" lid="Id2" error_1="Straight-four engine">The Abarth 1000 GT Coupe has the straight four engine.</lex>
+      <lex comment="good" lid="Id2">The Abarth 1000 GT Coupe has the straight four engine.</lex>
       <lex comment="good" lid="Id3">The Abarth 1000 GT Coupé has a straight-four engine.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
@@ -213,9 +213,9 @@
       <modifiedtripleset>
         <mtriple>American_submarine_NR-1 | shipDraft | 4.6 m</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="4.6 m">The American submarine NR-1 has a ship draft of 4.6m.</lex>
+      <lex comment="good" lid="Id1">The American submarine NR-1 has a ship draft of 4.6m.</lex>
       <lex comment="good" lid="Id2">The American submarine NR-1 has a ship draft of 4.6 metres.</lex>
-      <lex comment="good" lid="Id3" error_1="American submarine NR-1">The American sub NR-1 has a draft of 4.6 m.</lex>
+      <lex comment="good" lid="Id3">The American sub NR-1 has a draft of 4.6 m.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -409,8 +409,8 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Native Americans are on of the ethnic groups in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Native Americans in the United States">The United States has an ethnic group called Native Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="Native Americans in the United States">Native Americans are an ethnic group in the U.S.</lex>
+      <lex comment="good" lid="Id2">The United States has an ethnic group called Native Americans.</lex>
+      <lex comment="good" lid="Id3">Native Americans are an ethnic group in the U.S.</lex>
     </entry>
   </entries>
 </benchmark>

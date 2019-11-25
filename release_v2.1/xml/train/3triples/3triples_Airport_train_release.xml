@@ -97,8 +97,8 @@
         <mtriple>Denmark | leaderName | Margrethe_II_of_Denmark</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is located in Tirstrup, in Denmark, where the leader is Margrethe II of Denmark.</lex>
-      <lex comment="good" lid="Id2" error_1="Margrethe II of Denmark">Tirstrup is located in Denmark, where Margrethe II is leader. The Aarhus airport is located here.</lex>
-      <lex comment="good" lid="Id3" error_1="Margrethe II of Denmark">Aarhus Airport is in Tirstrup which is in Denmark, whose Queen is Margrethe II.</lex>
+      <lex comment="good" lid="Id2">Tirstrup is located in Denmark, where Margrethe II is leader. The Aarhus airport is located here.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is in Tirstrup which is in Denmark, whose Queen is Margrethe II.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -354,7 +354,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene Regional Airport serves the city of Abilene in Texas. Its runway is 2194 feet and is 546 m above sea level.</lex>
       <lex comment="good" lid="Id2">Abilene Regional Airport serves the city of Abilene, Texas. Its runway length is 2194.0 and 546 m above sea level.</lex>
-      <lex comment="good" lid="Id3" error_1="Abilene, Texas">The Abilene Regional Airport serves the city of Abilene and it's 546 metres above sea level with a runway that's 2,194 long.</lex>
+      <lex comment="good" lid="Id3">The Abilene Regional Airport serves the city of Abilene and it's 546 metres above sea level with a runway that's 2,194 long.</lex>
     </entry>
     <entry category="Airport" eid="Id21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -403,7 +403,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Lake Placid, N.Y. is served by the Adirondack Regional Airport. This airport is 507 metres above sea level and serves the city of Saranac Lake, New York.</lex>
       <lex comment="good" lid="Id2">Adirondack Regional Airport serves the city of Lake Placid, New York, is 507 meters above sea level and serves the city of Saranac Lake, New York.</lex>
-      <lex comment="good" lid="Id3" error_1="Lake Placid, New York" error_2="Saranac Lake, New York">Adirondack Regional Airport, serving the city of Lake Placid and Saranac Lake, has an elevation of 507 meters.</lex>
+      <lex comment="good" lid="Id3">Adirondack Regional Airport, serving the city of Lake Placid and Saranac Lake, has an elevation of 507 meters.</lex>
     </entry>
     <entry category="Airport" eid="Id23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -589,7 +589,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | "Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Adolfo Suarez Madrid-Barajas airport has a runway length of 4100 metres and a runway name 18L/36R.</lex>
-      <lex comment="good" lid="Id2" error_1="4100.0" error_2="4100.0">Found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Adolfo Suarez Madrid-Barajas airport has a runway length of 4.100 metres and a runway named 18L/36R.</lex>
+      <lex comment="good" lid="Id2">Found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Adolfo Suarez Madrid-Barajas airport has a runway length of 4.100 metres and a runway named 18L/36R.</lex>
       <lex comment="good" lid="Id3">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas. The runway length is 4,100 and the runway name is 18L/36R.</lex>
     </entry>
     <entry category="Airport" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -770,7 +770,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11/29 runway in Afonso Pena International airport in Sao Jose dos Pinhais has a length of 2215.0.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport is located in São José dos Pinhais with runway 11/29 at 2215m long.</lex>
-      <lex comment="good" lid="Id3" error_1="Afonso Pena International Airport">Afonso Pena Airport, located in Sao Jose dos Pinhais, has a runway length of 2215.0 and a runway name of 11/29.</lex>
+      <lex comment="good" lid="Id3">Afonso Pena Airport, located in Sao Jose dos Pinhais, has a runway length of 2215.0 and a runway name of 11/29.</lex>
     </entry>
     <entry category="Airport" eid="Id43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1134,7 +1134,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. An aircraft there is the General Dynamics F-16 Fighting Falcon. The United States Air Force fought in the United States bombing of Libya in 1986.</lex>
-      <lex comment="good" lid="Id2" error_1="General Dynamics F-16 Fighting Falcon">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter. The 1986 United States bombing of Libya was carried out by the US Air Force.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase and using F-16 Fighting Falcons as an aircraft fighter. The 1986 United States bombing of Libya was carried out by the US Air Force.</lex>
     </entry>
     <entry category="Airport" eid="Id61" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1162,7 +1162,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States invasion of Panama">The USAF operate the Al Asad airbase, and previously were involved in the Invasion of Panama. The General Dynamics F-16 Fighting Falcon is an aircraft fighter.</lex>
+      <lex comment="good" lid="Id1">The USAF operate the Al Asad airbase, and previously were involved in the Invasion of Panama. The General Dynamics F-16 Fighting Falcon is an aircraft fighter.</lex>
       <lex comment="good" lid="Id2">The United States Air Force, which is the operating organisation for Al Asad airbase was involved in battles at the invasion of Panama and deploys the General Dynamics F16 Fighting Falcon aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id63" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1205,7 +1205,7 @@
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force, which was involved in the United States invasion of Panama, and who use an aircraft fighter called McDonnell Douglas F-15 Eagle.</lex>
-      <lex comment="good" lid="Id2" error_1="United States invasion of Panama">The USAF, the operating organization for Al Asad airbase, was involved in the Invasion of Panama and has the aircraft fighter McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="good" lid="Id2">The USAF, the operating organization for Al Asad airbase, was involved in the Invasion of Panama and has the aircraft fighter McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id3">The United States Air Force operates Al Asad airbase. They were involved in the US invasion of Panama and deploy the McDonnell Douglas F15 Eagle fighter aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id66" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -1239,8 +1239,8 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force operates the Al Asad airbase and previously fought in the Invasion of Grenada and the bombing of Libya in 1986.</lex>
-      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya">The USAF bombed Libya in 1986, also fought in the Invasion of Grenada and operates the Al Asad airbase.</lex>
-      <lex comment="good" lid="Id3" error_1="1986 United States bombing of Libya">The USAF, involved in the invasion of Grenada and the bombing of Libya in 1986, is the operation organisation for Al Asad airbase.</lex>
+      <lex comment="good" lid="Id2">The USAF bombed Libya in 1986, also fought in the Invasion of Grenada and operates the Al Asad airbase.</lex>
+      <lex comment="good" lid="Id3">The USAF, involved in the invasion of Grenada and the bombing of Libya in 1986, is the operation organisation for Al Asad airbase.</lex>
     </entry>
     <entry category="Airport" eid="Id68" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1288,7 +1288,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force which was involved in both the Korean War and the 1986 bombing of Libya.</lex>
-      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya">The United States Air Force fought in the Korean War, bombed Libya in 1986 and operates Al Asad airbase.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force fought in the Korean War, bombed Libya in 1986 and operates Al Asad airbase.</lex>
     </entry>
     <entry category="Airport" eid="Id71" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1546,7 +1546,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allama Iqbal International airport is located in Pakistan and has a runway named 18R/36L. The runway length is 2900.0.</lex>
       <lex comment="good" lid="Id2">Allama Iqbal International airport is located in Pakistan. Its runway name is 18R/36L and it is 2900 long.</lex>
-      <lex comment="good" lid="Id3" error_1="2900.0">Allama Iqbal International airport is located in Pakistan and has a 2,9 km long runway identified by the name 18R/36L.</lex>
+      <lex comment="good" lid="Id3">Allama Iqbal International airport is located in Pakistan and has a 2,9 km long runway identified by the name 18R/36L.</lex>
     </entry>
     <entry category="Airport" eid="Id86" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1750,7 +1750,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amsterdam Airport Schiphol which serves the city of Amsterdam has a runway length of 2014.0 and is -3.3528 above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="-3.3528">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 2,014 long and serves Amsterdam.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 2,014 long and serves Amsterdam.</lex>
     </entry>
     <entry category="Airport" eid="Id97" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1768,8 +1768,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3300.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="-3.3528">The runway length of Amsterdam Airport Schiphol, which serves the city of Amsterdam, is 3,300. The airport is 3.3528 below sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="-3.3528">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 3,300 long and serves the city it's located in.</lex>
+      <lex comment="good" lid="Id1">The runway length of Amsterdam Airport Schiphol, which serves the city of Amsterdam, is 3,300. The airport is 3.3528 below sea level.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol is 3.3528 below sea level, has a runway that's 3,300 long and serves the city it's located in.</lex>
     </entry>
     <entry category="Airport" eid="Id98" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2366,7 +2366,7 @@
         <mtriple>Appleton_International_Airport | elevationAboveTheSeaLevel_(in_metres) | 280</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Appleton International airport, which is located in Greenville, Wisconsin is located at 280 metres above sea level and a runway length of 1982.</lex>
-      <lex comment="good" lid="Id2" error_1="1982.0">Appleton International airport is located in Greenville, Wisconsin, 280 metres above sea level and its runway is 1.982 km long.</lex>
+      <lex comment="good" lid="Id2">Appleton International airport is located in Greenville, Wisconsin, 280 metres above sea level and its runway is 1.982 km long.</lex>
     </entry>
     <entry category="Airport" eid="Id130" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2660,7 +2660,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ashgabat is the location of Ashgabat International Airport which is elevated 211 metres above sea level and has a runway length of 900.0 metres.</lex>
       <lex comment="good" lid="Id2">Located in Ashgabat, Ashgabat International Airport is 211 metres above sea level and has a runway which is 900 meters long.</lex>
-      <lex comment="good" lid="Id3" error_1="900.0">Ashgabat International Airport is located in Ashgabat 211 metres above sea level with a 0.9 km long runway.</lex>
+      <lex comment="good" lid="Id3">Ashgabat International Airport is located in Ashgabat 211 metres above sea level with a 0.9 km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id145" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2720,7 +2720,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The operating organization for Ashgabat International Airport is called Turkmenistan Airlines (Turkmenabat airport is their hub), the headquarters of which are located Turkmenistan.</lex>
       <lex comment="good" lid="Id2">Ashgabat International Airport is operated by Turkmenistan Airlines, whose headquarters are in Turkmenistan. The hub airport of Turkmenistan Airlines is the Turkmenabat Airport.</lex>
-      <lex comment="good" lid="Id3" error_1="Ashgabat International Airport">Turkmenistan Airlines headquarter in Turkmenistan and operate the Ashgabat Airport; their hub airport is the Turkmenabat Airport.</lex>
+      <lex comment="good" lid="Id3">Turkmenistan Airlines headquarter in Turkmenistan and operate the Ashgabat Airport; their hub airport is the Turkmenabat Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id148" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2965,7 +2965,7 @@
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey which serves New York and is headquartered at the Four World Trade Center.</lex>
-      <lex comment="good" lid="Id2" error_1="Four World Trade Center">The Port Authority of New York and New Jersey serves New York and operates the Atlantic City International Airport from the Four World Trade Centre.</lex>
+      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey serves New York and operates the Atlantic City International Airport from the Four World Trade Centre.</lex>
     </entry>
     <entry category="Airport" eid="Id159" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3063,7 +3063,7 @@
         <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Port Authority of New York and New Jersey operate Atlantic City International Airport. This airport has a runway length of 3048 metres and a runway named "13/31".</lex>
-      <lex comment="good" lid="Id2" error_1="Port Authority of New York and New Jersey">The Atlantic City International Airport, operated by the port authority of NY and NJ, has a runway length of 3048.0 and a name of 13/31.</lex>
+      <lex comment="good" lid="Id2">The Atlantic City International Airport, operated by the port authority of NY and NJ, has a runway length of 3048.0 and a name of 13/31.</lex>
     </entry>
     <entry category="Airport" eid="Id163" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>
@@ -3148,7 +3148,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International airport is located 911 metres above sea level and operated by Infraero located in Brasilia.</lex>
       <lex comment="good" lid="Id2">At 911.0 metres above sea level, Afonso Pena International Airport is operated by Infraero which is in Brasilia.</lex>
-      <lex comment="good" lid="Id3" error_1="Afonso Pena International Airport">Infraero, in Brasilia, is served by Afonso Pena Airport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
+      <lex comment="good" lid="Id3">Infraero, in Brasilia, is served by Afonso Pena Airport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
     </entry>
     <entry category="Airport" eid="Id168" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

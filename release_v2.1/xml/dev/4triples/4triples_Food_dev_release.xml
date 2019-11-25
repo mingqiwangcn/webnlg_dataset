@@ -70,7 +70,7 @@
         <mtriple>Arem-arem | region | "Nationwide in Indonesia, but more specific to Java"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem-arem is a food that is found nationwide in Indonesia, but more specific to Java, it can be served as a main course and has a banana leaf in it. Its main ingredients are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id2" error_1="Nationwide in Indonesia, but more specific to Java">The main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings. It is served as a main course and is found nationwide in Indonesia and more specifically in Java.</lex>
+      <lex comment="good" lid="Id2">The main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings. It is served as a main course and is found nationwide in Indonesia and more specifically in Java.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -103,7 +103,7 @@
         <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
         <mtriple>Arrabbiata_sauce | region | Rome</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chili pepper">Arrabbiata sauce originates from the region of Rome in Italy. It is made with tomatoes, red chili, garlic and olive oil.</lex>
+      <lex comment="good" lid="Id1">Arrabbiata sauce originates from the region of Rome in Italy. It is made with tomatoes, red chili, garlic and olive oil.</lex>
       <lex comment="good" lid="Id2">Arrabbiata sauce is a traditional dish from Rome, Italy. The main ingredients of it are tomatoes, red chili pepper, garlic and olive oil.</lex>
       <lex comment="good" lid="Id3">Arrabbiata sauce is a traditional dish from Rome in Italy. An important ingredient is chili pepper and it also contains tomatoes, red chili, garlic and olive oil.</lex>
     </entry>
@@ -122,7 +122,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arros Negre is a traditional dish from the Catalonia region of Spain. The main ingredients of Arros negre are white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers.</lex>
       <lex comment="good" lid="Id2">Arros negre is from the region of Catalonia in Spain. The main ingredients of Arros negre are white rice, cuttlefish or squid, cephalopod ink, and cubanelle peppers.</lex>
-      <lex comment="good" lid="Id3" error_1="White rice, cuttlefish or squid, cephalopod ink, cubanelle peppers">Arros negre, from the Catalonia region of Spain, includes Cephalopod ink, white rice, cuttlefish/squid and cubanelle peppers.</lex>
+      <lex comment="good" lid="Id3">Arros negre, from the Catalonia region of Spain, includes Cephalopod ink, white rice, cuttlefish/squid and cubanelle peppers.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -139,7 +139,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients of Arròs negre, which is from Spain, are white rice, cuttlefish or squid, cephalopod ink, cubanelle and cubanelle peppers. Arròs negre is from the Catalonia region.</lex>
       <lex comment="good" lid="Id2">The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers. It is a traditional dish from the Catalonia region of Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers. It is a traditional Spanish dish from the Catalonia region.</lex>
+      <lex comment="good" lid="Id3">The main ingredients in arròs negre are white rice, cuttlefish or squid, cephalopod ink and cubanelle peppers. It is a traditional Spanish dish from the Catalonia region.</lex>
     </entry>
     <entry category="Food" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -189,8 +189,8 @@
         <mtriple>Asam_pedas | region | Sumatra</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Asam pedas is a food found in Malaysia and Sumatra. Malaysian Malay is an ethnic group in Malaysia and Sumatra has an ethnic group called the Minangkabau people.</lex>
-      <lex comment="good" lid="Id2" error_1="Malaysian Malay">Asam pedas is a food found in Malaysia and Sumatra. Malay is the ethnic group of Malaysia and the Minangkabau people are an ethnic group of Sumatra.</lex>
-      <lex comment="good" lid="Id3" error_1="Malaysian Malay">Asam pedas is found in Malaysia, originating from Sumatra. Sumatra is home to the Minangkabau people and Malaysia--to the Malay people.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia and Sumatra. Malay is the ethnic group of Malaysia and the Minangkabau people are an ethnic group of Sumatra.</lex>
+      <lex comment="good" lid="Id3">Asam pedas is found in Malaysia, originating from Sumatra. Sumatra is home to the Minangkabau people and Malaysia--to the Malay people.</lex>
     </entry>
     <entry category="Food" eid="Id11" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -205,7 +205,7 @@
         <mtriple>Bacon_Explosion | region | Kansas_City_metropolitan_area</mtriple>
         <mtriple>Bacon_Explosion | mainIngredients | Bacon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kansas City metropolitan area">The Bacon Explosion comes from the Kansas city metro area in the U.S. The main ingredient in it is bacon and also includes sausage.</lex>
+      <lex comment="good" lid="Id1">The Bacon Explosion comes from the Kansas city metro area in the U.S. The main ingredient in it is bacon and also includes sausage.</lex>
       <lex comment="good" lid="Id2">Bacon Explosion comes from the Kansas City metropolitan area of the United States and includes the main ingredient of sausage and bacon.</lex>
       <lex comment="good" lid="Id3">Bacon Explosion is from the Kansas City metropolitan area of the United States. The main ingredient is bacon along with sausage.</lex>
     </entry>
@@ -273,9 +273,9 @@
         <mtriple>Bacon_sandwich | ingredient | Ketchup</mtriple>
         <mtriple>Bacon_sandwich | alternativeName | "Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, bacon muffin"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bread and bacon, with a condiment, often ketchup or brown sauce">From the United Kingdom, the bacon sandwich's main ingredients are bread and bacon and a condiment, often ketchup or brown sauce. It can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
-      <lex comment="good" lid="Id2" error_1="Bread and bacon, with a condiment, often ketchup or brown sauce">Bacon sandwich originates from the United Kingdom and its main ingredients are bread, bacon with ketchup or brown sauce. It has different names including:Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
-      <lex comment="good" lid="Id3" error_1="Bread and bacon, with a condiment, often ketchup or brown sauce">The main ingredients of a bacon sandwich, (popular in the UK), are bread, bacon and ketchup or brown sauce as a condiment. The bacon sandwich has several alternative names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id1">From the United Kingdom, the bacon sandwich's main ingredients are bread and bacon and a condiment, often ketchup or brown sauce. It can also be known as a bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, or bacon muffin.</lex>
+      <lex comment="good" lid="Id2">Bacon sandwich originates from the United Kingdom and its main ingredients are bread, bacon with ketchup or brown sauce. It has different names including:Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of a bacon sandwich, (popular in the UK), are bread, bacon and ketchup or brown sauce as a condiment. The bacon sandwich has several alternative names including: bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin.</lex>
     </entry>
     <entry category="Food" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -290,7 +290,7 @@
         <mtriple>Baked_Alaska | region | "Paris, New York or Hong Kong"</mtriple>
         <mtriple>Baked_Alaska | ingredient | Meringue</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="France, United States or China">Baked Alaska has the main ingredients of meringue, ice cream and sponge cake (or Christmas pudding). It is found in France, the US, China, Hong Kong, New York and Paris.</lex>
+      <lex comment="good" lid="Id1">Baked Alaska has the main ingredients of meringue, ice cream and sponge cake (or Christmas pudding). It is found in France, the US, China, Hong Kong, New York and Paris.</lex>
       <lex comment="good" lid="Id2">Baked Alaska contains: ice cream, sponge cake (Christmas pudding) and meringue. It is found in Hong Kong, New York and Paris. The origins are either France, China or the United States.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -416,7 +416,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Batagor is an Indonesian food and a variation of the Siomay dish. It contains a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
       <lex comment="good" lid="Id2">Batagor, (a variation of Siomay), is a dish found in Indonesia and its main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
-      <lex comment="good" lid="Id3" error_1="fried fish dumpling with tofu and vegetables in peanut sauce">Batagor, from Indonesia, is a dish consisting of fried fish dumplings, tofu and vegetables in peanut sauce. Siomay is a variation of batagor.</lex>
+      <lex comment="good" lid="Id3">Batagor, from Indonesia, is a dish consisting of fried fish dumplings, tofu and vegetables in peanut sauce. Siomay is a variation of batagor.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -594,7 +594,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bionico is a food found in Guadalajara, Mexico. Sour cream, chopped fruits, condensed milk, granola, raisins and shredded coconut are the main ingredients in Bionico.</lex>
       <lex comment="good" lid="Id2">Bionico is a food originates from the Guadalajara region of Mexico. The main ingredients of the dish are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins.</lex>
-      <lex comment="good" lid="Id3" error_1="Mexico">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is a Mexican food from the Guadalajara region.</lex>
+      <lex comment="good" lid="Id3">The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is a Mexican food from the Guadalajara region.</lex>
     </entry>
     <entry category="Food" eid="Id33" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -625,8 +625,8 @@
         <mtriple>Bakso | region | Indonesia</mtriple>
         <mtriple>Bakso | country | Chinese_cuisine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chinese cuisine">Indonesian language is the language spoken in Indonesia, and Jusuf Kalla is a leader there. Bakso is a Chinese food that can be found also in Indonesia.</lex>
-      <lex comment="good" lid="Id2" error_1="Chinese cuisine">Bakso is a food found in Indonesia and China. Jusuf Kalla is a leader in Indonesia where they speak Indonesian.</lex>
+      <lex comment="good" lid="Id1">Indonesian language is the language spoken in Indonesia, and Jusuf Kalla is a leader there. Bakso is a Chinese food that can be found also in Indonesia.</lex>
+      <lex comment="good" lid="Id2">Bakso is a food found in Indonesia and China. Jusuf Kalla is a leader in Indonesia where they speak Indonesian.</lex>
       <lex comment="good" lid="Id3">Indonesia has Jusuf Kalla as a leader, Indonesian as a language and Bakso (from Chinese cuisine) as a traditional dish.</lex>
     </entry>
     <entry category="Food" eid="Id35" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -682,7 +682,7 @@
         <mtriple>Ayam_penyet | region | Singapore</mtriple>
         <mtriple>Ayam_penyet | country | Java</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Banyumasan people">The Banyumasan are an ethnic group from Java which has ayam penyet as one of its foods. Ayam penyet is a food dish from Singapore where English is also spoken.</lex>
+      <lex comment="good" lid="Id1">The Banyumasan are an ethnic group from Java which has ayam penyet as one of its foods. Ayam penyet is a food dish from Singapore where English is also spoken.</lex>
       <lex comment="good" lid="Id2">Ayam penyet, a dish from Singapore, is also found in Java, where the Banyumasan people are an ethnic group. The English language is spoken in Singapore.</lex>
       <lex comment="good" lid="Id3">Ayam penyet is a dish from Singapore and Java. One language spoken in Singapore is English and the Banyumasan people are an ethnic group from Java.</lex>
     </entry>

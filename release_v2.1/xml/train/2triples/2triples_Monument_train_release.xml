@@ -64,7 +64,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania.</lex>
       <lex comment="good" lid="Id2">11th Mississippi Infantry Monument's location is Adams County, Pennsylvania and was established in 2000.</lex>
-      <lex comment="good" lid="Id3" error_1="Adams County, Pennsylvania">The 11th Mississippi Infantry Monument is in Adams County, PA and was founded in 2000.</lex>
+      <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is in Adams County, PA and was founded in 2000.</lex>
       <lex comment="good" lid="Id4">11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania.</lex>
       <lex comment="good" lid="Id5">The 11th Mississippi Infantry Monument in Adams County, Pennsylvania was established in 2000.</lex>
       <lex comment="good" lid="Id6">The 11th Mississippi Infantry Monument established in 2000 is found in Adams County, Pennsylvania.</lex>
@@ -78,7 +78,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adams County, Pennsylvania" error_2="Gettysburg, Pennsylvania">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, PA in Adams County.</lex>
+      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, PA in Adams County.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Adams County, in Pennsylvania.</lex>
       <lex comment="good" lid="Id3">The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Adams County, Pennsylvania.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is found in Adams County, Gettysburg, Pennsylvania.</lex>
@@ -283,7 +283,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
       <lex comment="good" lid="Id2">Baku Turkish Martyrs' Memorial is located in Azerbaijan and the leader is The Prime Minister of Azerbaijan.</lex>
-      <lex comment="good" lid="Id3" error_1="Prime Minister of Azerbaijan">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex comment="good" lid="Id3">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
     </entry>
     <entry category="Monument" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -298,7 +298,7 @@
       <lex comment="good" lid="Id2">The designers of the Red granite and white marble Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
       <lex comment="good" lid="Id3">The Baku Turkish Martyrs' Memorial is designed by Huseyin Butuner and Hilmi Guner and is made with red granite and white marble.</lex>
       <lex comment="good" lid="Id4">The Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is made out of red granite and white marble.</lex>
-      <lex comment="good" lid="Id5" error_1="Baku Turkish Martyrs' Memorial">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.</lex>
+      <lex comment="good" lid="Id5">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.</lex>
     </entry>
     <entry category="Monument" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -370,7 +370,7 @@
         <mtriple>England | ethnicGroups | British_Arabs</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Dead Man's Plack is in England and one of the ethnic groups found in England is the British Arabs.</lex>
-      <lex comment="good" lid="Id2" error_1="British Arabs">The Dead Man's Plack is in England honoring the British Arab ethnic group.</lex>
+      <lex comment="good" lid="Id2">The Dead Man's Plack is in England honoring the British Arab ethnic group.</lex>
       <lex comment="good" lid="Id3">The Dead Man's Plack is located in England, where one of the ethnic groups is the British Arabs.</lex>
     </entry>
     <entry category="Monument" eid="Id29" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -408,7 +408,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Atatürk Monument (İzmir) is found in Turkey where the currency is the Turkish Lira.</lex>
-      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument is in Turkey, where the currency is the lira.</lex>
+      <lex comment="good" lid="Id2">The Atatürk Monument is in Turkey, where the currency is the lira.</lex>
     </entry>
     <entry category="Monument" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

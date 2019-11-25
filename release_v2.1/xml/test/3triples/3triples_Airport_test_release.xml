@@ -111,7 +111,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force which carried out the 1986 United States bombing of Libya and which uses an aircraft fighter called the McDonnell Douglas F-15 Eagle.</lex>
-      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya">In 1986 the USAF bombed Libya. It operates the Al Asad airbase and uses the McDonnell Douglas F-15 Eagle fighter jet.</lex>
+      <lex comment="good" lid="Id2">In 1986 the USAF bombed Libya. It operates the Al Asad airbase and uses the McDonnell Douglas F-15 Eagle fighter jet.</lex>
     </entry>
     <entry category="Airport" eid="Id7" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -315,7 +315,7 @@
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Port Authority of New York and New Jersey is headquartered in the Four World Trade Center and serves New Jersey. It operates the Atlantic City International Airport.</lex>
-      <lex comment="good" lid="Id2" error_1="Four World Trade Center">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey located at Four World Trade Centre and serves the New Jersey region.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey located at Four World Trade Centre and serves the New Jersey region.</lex>
       <lex comment="good" lid="Id3">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey, which operates the Atlantic City International Airport and serves New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id19" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -331,7 +331,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township, New Jersey, United States. Its runway length is 3048.0.</lex>
       <lex comment="good" lid="Id2">Atlantic City International Airport is in Egg Harbor Township, New Jersey, United States and has a runway length of 3048.0.</lex>
-      <lex comment="good" lid="Id3" error_1="3048.0">Atlantic City International Airport can be found in Egg Harbor Township, New Jersey of the U.S.A. and it has a runway that's 3.048 long.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport can be found in Egg Harbor Township, New Jersey of the U.S.A. and it has a runway that's 3.048 long.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

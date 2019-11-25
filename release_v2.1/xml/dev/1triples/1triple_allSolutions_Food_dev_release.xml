@@ -185,7 +185,7 @@
         <mtriple>Barny_Cakes | protein | 1.8 g</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barny cakes contain 1.8 g of protein.</lex>
-      <lex comment="good" lid="Id2" error_1="1.8 g">Barny cakes contain 1.8g of protein.</lex>
+      <lex comment="good" lid="Id2">Barny cakes contain 1.8g of protein.</lex>
     </entry>
     <entry category="Food" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

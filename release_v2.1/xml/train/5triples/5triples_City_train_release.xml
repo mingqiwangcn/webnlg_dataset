@@ -249,9 +249,9 @@
         <mtriple>Akron,_Ohio | areaTotal | 161.54 (square kilometres)</mtriple>
         <mtriple>Akron,_Ohio | areaCode | 234, 330</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.88 (square kilometres)">Akron, Ohio has 1239.3 inhabitants per square km, it is 161.54 square kilometres, 306.0 above sea level, there is .88 square km of water and the area codes are 234 and 330.</lex>
+      <lex comment="good" lid="Id1">Akron, Ohio has 1239.3 inhabitants per square km, it is 161.54 square kilometres, 306.0 above sea level, there is .88 square km of water and the area codes are 234 and 330.</lex>
       <lex comment="good" lid="Id2">Akron, Ohio lies 306.0 above sea level and has the area codes of 234 and 330. It has a total area of 161.54 sq km of which 0.88 sq km is water, and a population density of 1239.3 inhabitants per sq km.</lex>
-      <lex comment="good" lid="Id3" error_1="0.88 (square kilometres)">Akron, Ohio with the area codes 234 and 330, have a total area of 161.54 square kilometres and has a population density of1239.3 inhabitants per square kilometre. Its water has a total area of .88 sq. km and it is located at 306.0 above sea level.</lex>
+      <lex comment="good" lid="Id3">Akron, Ohio with the area codes 234 and 330, have a total area of 161.54 square kilometres and has a population density of1239.3 inhabitants per square kilometre. Its water has a total area of .88 sq. km and it is located at 306.0 above sea level.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -519,7 +519,7 @@
         <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.54 (square kilometres)" error_2="64.008">With a total area of 45.97 Sq Km, Albany (Oregon) has a population density of 1104.1 inhabitants per square kilometre. Albany is 64,008 metres above sea level, has a water area of 0,54 square kilometres, and the area codes, 541 and 458.</lex>
+      <lex comment="good" lid="Id1">With a total area of 45.97 Sq Km, Albany (Oregon) has a population density of 1104.1 inhabitants per square kilometre. Albany is 64,008 metres above sea level, has a water area of 0,54 square kilometres, and the area codes, 541 and 458.</lex>
       <lex comment="good" lid="Id2">At 64.008 metres above sea level, Albany, Oregon, has a water area pf 0.54 square kilometres. Albany has a total area of 45.97 sq kms, a population density of 1104.1 inhabitants per square kilometre, and the are codes, 541 and 458.</lex>
     </entry>
     <entry category="City" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1327,7 +1327,7 @@
         <mtriple>United_States_House_of_Representatives | location | United_States</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Anaheim is in Orange County, California and is led by the US House of Representatives in the US where Barack Obama is the leader and English is spoken.</lex>
+      <lex comment="good" lid="Id1">Anaheim is in Orange County, California and is led by the US House of Representatives in the US where Barack Obama is the leader and English is spoken.</lex>
       <lex comment="good" lid="Id2">Barack Obama is the leader of the English speaking United States. The country where Anaheim, in Orange County, California, is located. The United States House of Representatives leads Anaheim.</lex>
     </entry>
     <entry category="City" eid="Id54" shape="(X (X) (X) (X (X (X))))" shape_type="mixed" size="5">
@@ -1701,7 +1701,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anderson is a city that can be found in Madison County, Indiana, USA, and is led by the Democratic Party of the US. The headquarters of the party is on South Capitol Street, Washington D.C.</lex>
       <lex comment="good" lid="Id2">Anderson is located in Madison County, Indiana which is led by the Democratic Party in the United States. The headquarters of the Democratic Party (United States) is at South Capitol Street.</lex>
-      <lex comment="good" lid="Id3" error_1="South Capitol Street">Anderson, led by the Democratic Party (Headquarters: South Capital St., U.S.), is part of Madison County, Indiana, United States.</lex>
+      <lex comment="good" lid="Id3">Anderson, led by the Democratic Party (Headquarters: South Capital St., U.S.), is part of Madison County, Indiana, United States.</lex>
     </entry>
     <entry category="City" eid="Id73" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2135,7 +2135,7 @@
         <mtriple>Antioch,_California | areaTotal | 75.324 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Some information about Antioch, California are as follows: its UTC offset is -7, the area code is 925, and it has the post codes 94509 and 94531. Antioch's population is 102372, and the total area of the city is 75.324 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="102372">Antioch in California has a UTC offset of -7, an area code of 925 and postal codes of 94509 and 94531. It has a total area of 75.324 sq km and a population of 102.372.</lex>
+      <lex comment="good" lid="Id2">Antioch in California has a UTC offset of -7, an area code of 925 and postal codes of 94509 and 94531. It has a total area of 75.324 sq km and a population of 102.372.</lex>
     </entry>
     <entry category="City" eid="Id85" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2209,7 +2209,7 @@
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch, California is a part of Contra Costa County, California in the San Francisco Bay area. Spanish is a language spoken there. Antioch has a total area of 75.324 square km.</lex>
-      <lex comment="good" lid="Id2" error_1="75.324 (square kilometres)">Spanish is spoken in California which is where Antioch is located. The city, which has a total area of 75,324 sq km is part of Contra Costa County which is included in the San Francisco bay area.</lex>
+      <lex comment="good" lid="Id2">Spanish is spoken in California which is where Antioch is located. The city, which has a total area of 75,324 sq km is part of Contra Costa County which is included in the San Francisco bay area.</lex>
       <lex comment="good" lid="Id3">With a total area of 75.324 square km, is Antioch. This city is part of Contra Costa County, in turn, part of the San Francisco Bay area, in California. The Spanish language is spoken in California.</lex>
     </entry>
     <entry category="City" eid="Id89" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2293,7 +2293,7 @@
         <mtriple>Contra_Costa_County,_California | isPartOf | San_Francisco_Bay_Area</mtriple>
         <mtriple>Antioch,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Antioch, in Contra Costa County, California, is led by the U. S. House of Representatives. Contra Costa County is part of the San Francisco Bay area of the state where one of the spoken languages is Vietnamese.</lex>
+      <lex comment="good" lid="Id1">Antioch, in Contra Costa County, California, is led by the U. S. House of Representatives. Contra Costa County is part of the San Francisco Bay area of the state where one of the spoken languages is Vietnamese.</lex>
       <lex comment="good" lid="Id2">Led by the United States House of Representatives., is Antioch. This city, is part of Contra Costa County, which in turn is part of part of the San Francisco Bay Area, in California. One of the languages spoken in California is Vietnamese.</lex>
     </entry>
     <entry category="City" eid="Id92" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2441,7 +2441,7 @@
         <mtriple>Atlanta | areaTotal | 347.1 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlanta, part of Fulton County in Georgia, has 3 area codes - 404, 678 and 470 - and covers an area of 344.9 square kilometres. It has a population density of 1299.0 inhabitants per square kilometre and its total area if 347.1 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="1299.0 (inhabitants per square kilometre)">Atlanta, in Fulton County, Georgia is 347.1 square kilometres large and has a land area of 344.9 square kilometres. It has 1,299 residents per square kilometre and uses the 404, 678 and 470 area codes.</lex>
+      <lex comment="good" lid="Id2">Atlanta, in Fulton County, Georgia is 347.1 square kilometres large and has a land area of 344.9 square kilometres. It has 1,299 residents per square kilometre and uses the 404, 678 and 470 area codes.</lex>
       <lex comment="good" lid="Id3">Part of Fulton County (Georgia), Atlanta has a population density of, 1299.0 inhabitants per square kilometre. Atlanta has a total area of 347.1 square kilometres, yet covers a land area of 344.9 square kilometres. Atlanta has the area codes 404, 678, and 470.</lex>
     </entry>
     <entry category="City" eid="Id95" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2744,9 +2744,9 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mayors of Atlantic City, New Jersey">The municipal leader of Atlantic City, New Jersey is Don Guardian who is known as the Mayor. It has the area code of 609, covers a total area of 44.125 sq km and has a population density of 1421.2 inhabitants per sq km.</lex>
-      <lex comment="good" lid="Id2" error_1="Mayors of Atlantic City, New Jersey">Don Guardian leads Atlantic City, New Jersey, where the municipal leader is known as the Mayor. With a total area of 44.125 square kilometres, Atlantic City, has a population of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
-      <lex comment="good" lid="Id3" error_1="Mayors of Atlantic City, New Jersey">"Mayor" is the title of the leader in Atlantic City, New Jersey, which is led by Don Guardian. With a total area of 44.125 square kilometres, Atlantic City, has a population density of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
+      <lex comment="good" lid="Id1">The municipal leader of Atlantic City, New Jersey is Don Guardian who is known as the Mayor. It has the area code of 609, covers a total area of 44.125 sq km and has a population density of 1421.2 inhabitants per sq km.</lex>
+      <lex comment="good" lid="Id2">Don Guardian leads Atlantic City, New Jersey, where the municipal leader is known as the Mayor. With a total area of 44.125 square kilometres, Atlantic City, has a population of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
+      <lex comment="good" lid="Id3">"Mayor" is the title of the leader in Atlantic City, New Jersey, which is led by Don Guardian. With a total area of 44.125 square kilometres, Atlantic City, has a population density of 1421.2 inhabitants per square kilometre, and the area code, 609.</lex>
     </entry>
     <entry category="City" eid="Id107" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3230,7 +3230,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">King County is the location of Auburn, part of Pierce County and King County in Washington. The largest city in the latter county is Seattle and all locations are in the United States which has the capital of Washington DC.</lex>
       <lex comment="good" lid="Id2">Seattle is the largest city in King County, in Washington, U.S. and Auburn is part of King County. Auburn is in Pierce County, Washington, United States, whose capital is Washington DC.</lex>
-      <lex comment="good" lid="Id3" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of both Pierce and King (largest city is Seattle) counties, which are located in Washington. The capital of the United States is Washington D.C.</lex>
+      <lex comment="good" lid="Id3">Auburn is part of both Pierce and King (largest city is Seattle) counties, which are located in Washington. The capital of the United States is Washington D.C.</lex>
     </entry>
     <entry category="City" eid="Id127" shape="(X (X) (X (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4273,7 +4273,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque is located in New Mexico, United States and is led by the New Mexico Senate. The Senate's leader is John Sanchez and English is the official language of the country. African Americans are an ethnic group in the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Albuquerque is located in New Mexico and one ethnic group is African American.</lex>
+      <lex comment="good" lid="Id2">In the United States, English is the spoken language. New Mexico, is located in the United States and is led by the New Mexico Senate and John Sanchez. Albuquerque is located in New Mexico and one ethnic group is African American.</lex>
     </entry>
     <entry category="City" eid="Id180" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4366,7 +4366,7 @@
         <mtriple>Angola,_Indiana | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States uses the English language, includes the ethnic group of African Americans and has Barack Obama as a leader. It is also the location of Angola, part of Steuben county in Indiana.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans">Angola, Indiana is in Steuben County, United States. Barack Obama is a leader of the United States, they speak English and some black people live there.</lex>
+      <lex comment="good" lid="Id2">Angola, Indiana is in Steuben County, United States. Barack Obama is a leader of the United States, they speak English and some black people live there.</lex>
       <lex comment="good" lid="Id3">African Americans are an ethnic group in the United States which is where English is spoken and Barack Obama is the leader. Angola, Indiana is part of Steuben County in the United States.</lex>
     </entry>
     <entry category="City" eid="Id185" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -4755,7 +4755,7 @@
         <mtriple>Albuquerque,_New_Mexico | leaderTitle | Mayor_of_Albuquerque</mtriple>
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mayor of Albuquerque">Mayor led Albuquerque, New Mexico is located within the (Barack Obama led) English-speaking United States. The U.S. is home to the Native Americans.</lex>
+      <lex comment="good" lid="Id1">Mayor led Albuquerque, New Mexico is located within the (Barack Obama led) English-speaking United States. The U.S. is home to the Native Americans.</lex>
       <lex comment="good" lid="Id2">Albuquerque, New Mexico is in the Us and led by the Mayor. Barack Obama is the leader of the US where English is spoken and where Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="City" eid="Id205" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

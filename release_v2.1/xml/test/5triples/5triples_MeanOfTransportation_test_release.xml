@@ -160,9 +160,9 @@
         <mtriple>American_submarine_NR-1 | length | 45000.0 (millimetres)</mtriple>
         <mtriple>American_submarine_NR-1 | shipBeam | 3.8 m</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="4.6 m">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m, is 45000.0 (millimetres) long and has a top speed of 8.334 km/h. It was launched on The 25th of January 1969.</lex>
-      <lex comment="good" lid="Id2" error_1="3.8 m" error_2="4.6 m">The American submarine NR-1 which was launched on January 25th 1969 has a top speed of 8.334 km/h. It has a 3.8m ship beam, a draft of 4.6m and measures 45000 mms in length.</lex>
-      <lex comment="good" lid="Id3" error_1="3.8 m" error_2="4.6 m">The American submarine NR-1 that was launched on 25th of January 1969 has a top speed of 8.334 km/h. It has a draft of 4.6m, a ship beam of 3.8m and has a total length of 45000 mms.</lex>
+      <lex comment="good" lid="Id1">The American Submarine NR-1 has a ship beam of 3.8 m, a ship draft of 4.6m, is 45000.0 (millimetres) long and has a top speed of 8.334 km/h. It was launched on The 25th of January 1969.</lex>
+      <lex comment="good" lid="Id2">The American submarine NR-1 which was launched on January 25th 1969 has a top speed of 8.334 km/h. It has a 3.8m ship beam, a draft of 4.6m and measures 45000 mms in length.</lex>
+      <lex comment="good" lid="Id3">The American submarine NR-1 that was launched on 25th of January 1969 has a top speed of 8.334 km/h. It has a draft of 4.6m, a ship beam of 3.8m and has a total length of 45000 mms.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -324,7 +324,7 @@
         <mtriple>AIDAluna | owner | AIDA_Cruises</mtriple>
         <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Peoria, Illinois">Caterpillar Inc. founded in California in the U.S. is now in Peoria, Ill. That company powered the AIDAluna craft and is owned by AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1">Caterpillar Inc. founded in California in the U.S. is now in Peoria, Ill. That company powered the AIDAluna craft and is owned by AIDA Cruises.</lex>
       <lex comment="good" lid="Id2">The power type of the AIDAluna, owned by AIDA Cruises, is the Caterpillar Inc. engine. Caterpillar, Inc. was founded in California in the U.S. and is located in Peoria, Illinois.</lex>
       <lex comment="good" lid="Id3">Caterpillar Inc. was founded in California, United States, and is located in Peoria, Illinois. The company provide the engine to power the AIDAluna which is owned by AIDA Cruises.</lex>
     </entry>

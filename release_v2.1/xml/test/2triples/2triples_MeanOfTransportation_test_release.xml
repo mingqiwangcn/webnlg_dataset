@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna ship is 125800.0 mms in length and was ordered on 22 January 2004.</lex>
       <lex comment="good" lid="Id2">The A-Rosa Luna ship which is 125800.0 millimetres in length, was ordered on January 22nd 2004.</lex>
-      <lex comment="good" lid="Id3" error_1="125800.0 (millimetres)">The A-Rosa Luna ship was ordered on the 22nd January 2004 and it is 125.8 metres long.</lex>
+      <lex comment="good" lid="Id3">The A-Rosa Luna ship was ordered on the 22nd January 2004 and it is 125.8 metres long.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -45,8 +45,8 @@
         <mtriple>AIDAluna | length | 252000.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The AIDAluna has a top speed is 40.744 and is 252000.0 mms in length.</lex>
-      <lex comment="good" lid="Id2" error_1="252000.0 (millimetres)">The AIDAluna has a top speed of 40.744 and it 252 metres long.</lex>
-      <lex comment="good" lid="Id3" error_1="252000.0 (millimetres)">The AIDAluna is 252m long and has a top speed of 40.744.</lex>
+      <lex comment="good" lid="Id2">The AIDAluna has a top speed of 40.744 and it 252 metres long.</lex>
+      <lex comment="good" lid="Id3">The AIDAluna is 252m long and has a top speed of 40.744.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -131,7 +131,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Alfa Romeo 164, which was assembled in Italy, and Lancia Thema are related types of transportation.</lex>
       <lex comment="good" lid="Id2">Alfa Romeo 164 is a related transport to Lancia Thema and is assembled in Italy.</lex>
-      <lex comment="good" lid="Id3" error_1="Italy">The Lancia Thema and the Italian assembled Alfa Romeo 164 are related types of transport.</lex>
+      <lex comment="good" lid="Id3">The Lancia Thema and the Italian assembled Alfa Romeo 164 are related types of transport.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -159,9 +159,9 @@
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
         <mtriple>Alvis_Speed_25 | engine | Straight-six_engine</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">The Alvis Speed 25 has a straight-six engine and an impressive transmission, possessing a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id2" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">Alvis Speed 25 has a straight-six engine and has a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id3" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">Alvis Speed 25 has a straight-six engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a straight-six engine and an impressive transmission, possessing a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id2">Alvis Speed 25 has a straight-six engine and has a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">Alvis Speed 25 has a straight-six engine and its transmission system comprises a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -217,7 +217,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Aston Martin V8 - assembled in the United Kingdom - and Aston Martin RHAM/1 are related means of transportation.</lex>
       <lex comment="good" lid="Id2">Aston Martin V8 was made in the UK. The Aston Martin V8 is connected to the Aston Martin RHAM/1.</lex>
-      <lex comment="good" lid="Id3" error_1="Aston Martin RHAM/1">The Aston Martin V8 is similar to the RHAM/1 and is assembled in the UK.</lex>
+      <lex comment="good" lid="Id3">The Aston Martin V8 is similar to the RHAM/1 and is assembled in the UK.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

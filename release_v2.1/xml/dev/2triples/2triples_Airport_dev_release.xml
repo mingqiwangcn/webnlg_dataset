@@ -96,7 +96,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States invasion of Panama was a battle involving the United States Air Force who operate the Al Asad Airbase.</lex>
       <lex comment="good" lid="Id2">The United States invasion of Panama was a battle involving the United States Air Force who are the operating organisation for Al Asad airbase.</lex>
-      <lex comment="good" lid="Id3" error_1="Al Asad Airbase">The United States Air Force was involved in the invasion of Panama and is also the operating organisation for Al Asad air base.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force was involved in the invasion of Panama and is also the operating organisation for Al Asad air base.</lex>
     </entry>
     <entry category="Airport" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -331,7 +331,7 @@
         <mtriple>Athens_International_Airport | runwayLength | 3800.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Athens International Airport serves the city of Athens and has a runway length of 3800.0.</lex>
-      <lex comment="good" lid="Id2" error_1="3800.0">Athens International Airport serves the city of Athens and has a runway length of 3.800 metres.</lex>
+      <lex comment="good" lid="Id2">Athens International Airport serves the city of Athens and has a runway length of 3.800 metres.</lex>
     </entry>
     <entry category="Airport" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

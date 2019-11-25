@@ -103,8 +103,8 @@
       <modifiedtripleset>
         <mtriple>Akron,_Ohio | areaOfWater | 0.88 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.88 (square kilometres)">Akron in Ohio has .88 square kilometres of water.</lex>
-      <lex comment="good" lid="Id2" error_1="0.88 (square kilometres)">The area of water with Akron, Ohio, is .88 sq. km.</lex>
+      <lex comment="good" lid="Id1">Akron in Ohio has .88 square kilometres of water.</lex>
+      <lex comment="good" lid="Id2">The area of water with Akron, Ohio, is .88 sq. km.</lex>
       <lex comment="good" lid="Id3">There is 0.88 square km of water in Akron, Ohio.</lex>
     </entry>
     <entry category="City" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
@@ -289,8 +289,8 @@
       <modifiedtripleset>
         <mtriple>Albany,_Oregon | areaOfWater | 0.54 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="0.54 (square kilometres)">There is .54 square kilometers of water in Albany, Oregon.</lex>
-      <lex comment="good" lid="Id2" error_1="0.54 (square kilometres)">Albany, Oregon has a water area of 0,54 square kilometres.</lex>
+      <lex comment="good" lid="Id1">There is .54 square kilometers of water in Albany, Oregon.</lex>
+      <lex comment="good" lid="Id2">Albany, Oregon has a water area of 0,54 square kilometres.</lex>
       <lex comment="good" lid="Id3">The area of water in Albany, Oregon, is 0.54 (square kilometres).</lex>
     </entry>
     <entry category="City" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
@@ -300,7 +300,7 @@
       <modifiedtripleset>
         <mtriple>Albany,_Oregon | elevationAboveTheSeaLevel | 64.008</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="64.008">Albany, Oregon is 64,008 above sea level.</lex>
+      <lex comment="good" lid="Id1">Albany, Oregon is 64,008 above sea level.</lex>
       <lex comment="good" lid="Id2">Albany, Oregon is located at 64.008 above sea level.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
@@ -372,7 +372,7 @@
         <mtriple>Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The land area, of Albuquerque (New Mexico), is 486.2 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="Albuquerque, New Mexico">Albuquerque, N.M. has an area of land of 486.2 square kilometers.</lex>
+      <lex comment="good" lid="Id2">Albuquerque, N.M. has an area of land of 486.2 square kilometers.</lex>
     </entry>
     <entry category="City" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -462,8 +462,8 @@
       <modifiedtripleset>
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id2" error_1="Albuquerque, New Mexico">There are 1142.3 people per square kilometers in Albuquerque, N.M.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">There are 1142.3 people per square kilometers in Albuquerque, N.M.</lex>
       <lex comment="good" lid="Id3">The population density of Albuquerque in New Mexico is 1142.3 inhabitants per sq km.</lex>
     </entry>
     <entry category="City" eid="Id43" shape="(X (X))" shape_type="NA" size="1">
@@ -494,7 +494,7 @@
       <modifiedtripleset>
         <mtriple>Alexandria,_Indiana | areaTotal | 6.81 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="6.81 (square kilometres)">Alexandria, in Indiana, has a total area of 6,81 square kilometres.</lex>
+      <lex comment="good" lid="Id1">Alexandria, in Indiana, has a total area of 6,81 square kilometres.</lex>
       <lex comment="good" lid="Id2">Alexandria in Indiana occupies 6.81 square kilometers.</lex>
       <lex comment="good" lid="Id3">The total area of Alexandria, Indiana is 6.81 square kilometres.</lex>
     </entry>
@@ -704,7 +704,7 @@
         <mtriple>Anaheim,_California | UTCOffset | "-7"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim, California has a UTC offset of - 7.</lex>
-      <lex comment="good" lid="Id2" error_1="Anaheim, California">Anaheim, CA has a UTC offset of minus 7.</lex>
+      <lex comment="good" lid="Id2">Anaheim, CA has a UTC offset of minus 7.</lex>
       <lex comment="good" lid="Id3">Anaheim, California has an UTC offset of -7.</lex>
     </entry>
     <entry category="City" eid="Id64" shape="(X (X))" shape_type="NA" size="1">
@@ -724,7 +724,7 @@
       <modifiedtripleset>
         <mtriple>Anaheim,_California | areaCode | 657, 714</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anaheim, California">657 and 714 are area codes for Anaheim, CA.</lex>
+      <lex comment="good" lid="Id1">657 and 714 are area codes for Anaheim, CA.</lex>
       <lex comment="good" lid="Id2">Anaheim in California has the area code: 657, 714.</lex>
     </entry>
     <entry category="City" eid="Id66" shape="(X (X))" shape_type="NA" size="1">
@@ -735,7 +735,7 @@
         <mtriple>Anaheim,_California | areaOfWater | 25.2 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The area of water, in Anaheim (California), is 25.2 square kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="Anaheim, California">Anaheim, CA has 25.2 square kilometres of water.</lex>
+      <lex comment="good" lid="Id2">Anaheim, CA has 25.2 square kilometres of water.</lex>
       <lex comment="good" lid="Id3">The total area of water in Anaheim, California is 25.2 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id67" shape="(X (X))" shape_type="NA" size="1">
@@ -788,7 +788,7 @@
         <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Anaheim is a city in Orange County which is part of California.</lex>
-      <lex comment="good" lid="Id2" error_1="Anaheim, California" error_2="Orange County, California">Anaheim is in Orange County, CA.</lex>
+      <lex comment="good" lid="Id2">Anaheim is in Orange County, CA.</lex>
       <lex comment="good" lid="Id3">Anaheim, California is part of Orange County, California.</lex>
     </entry>
     <entry category="City" eid="Id72" shape="(X (X))" shape_type="NA" size="1">
@@ -836,7 +836,7 @@
       <modifiedtripleset>
         <mtriple>Anaheim,_California | populationTotal | 336265</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anaheim, CA has 336265 people inhabiting it.</lex>
+      <lex comment="good" lid="Id1">Anaheim, CA has 336265 people inhabiting it.</lex>
       <lex comment="good" lid="Id2">The total population of Anaheim California is 336265.</lex>
       <lex comment="good" lid="Id3">Anaheim, California has a population of 336265.</lex>
     </entry>
@@ -1216,7 +1216,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antioch, California has postal codes 94509 and 94531.</lex>
       <lex comment="good" lid="Id2">Antioch California has the postal codes 94509 and 94531.</lex>
-      <lex comment="good" lid="Id3" error_1="Antioch, California">94509 and 94531 are postal codes for Antioch, CA.</lex>
+      <lex comment="good" lid="Id3">94509 and 94531 are postal codes for Antioch, CA.</lex>
     </entry>
     <entry category="City" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1402,7 +1402,7 @@
         <mtriple>Atlantic_City,_New_Jersey | areaCode | 609</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The area code in Atlantic City (New Jersey) is 609.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">609 is the area code of Atlantic City, N.J.</lex>
+      <lex comment="good" lid="Id2">609 is the area code of Atlantic City, N.J.</lex>
       <lex comment="good" lid="Id3">The area code of Atlantic City, New Jersey, is 609.</lex>
     </entry>
     <entry category="City" eid="Id127" shape="(X (X))" shape_type="NA" size="1">
@@ -1445,7 +1445,7 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Clerk_(municipal_official)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The leader's title in Atlantic City (New Jersey) is Clerk, which is a municipal official.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">A Clerk (municipal official) is the leader of Atlantic City, N.J.</lex>
+      <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J.</lex>
       <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey.</lex>
     </entry>
     <entry category="City" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
@@ -1455,8 +1455,8 @@
       <modifiedtripleset>
         <mtriple>Atlantic_City,_New_Jersey | leaderTitle | Mayors_of_Atlantic_City,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mayors of Atlantic City, New Jersey">"Mayor" is the title of the leader in Atlantic City, New Jersey.</lex>
-      <lex comment="good" lid="Id2" error_1="Mayors of Atlantic City, New Jersey">The municipal leader of Atlantic City, New Jersey is known as the Mayor.</lex>
+      <lex comment="good" lid="Id1">"Mayor" is the title of the leader in Atlantic City, New Jersey.</lex>
+      <lex comment="good" lid="Id2">The municipal leader of Atlantic City, New Jersey is known as the Mayor.</lex>
     </entry>
     <entry category="City" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2603,7 +2603,7 @@
       <modifiedtripleset>
         <mtriple>United_States_House_of_Representatives | location | Washington,_D.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States House of Representatives">The U.S. House of Reps is located in Washington, D.C.</lex>
+      <lex comment="good" lid="Id1">The U.S. House of Reps is located in Washington, D.C.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives is located in Washington D.C.</lex>
       <lex comment="good" lid="Id3">United States House of Representatives is located in Washington DC.</lex>
     </entry>

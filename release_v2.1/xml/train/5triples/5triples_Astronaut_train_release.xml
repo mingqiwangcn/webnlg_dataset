@@ -75,7 +75,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">American Alan Bean was born in Wheeler, Texas on March 15 1932. He went on to become a test pilot and is now retired.</lex>
       <lex comment="good" lid="Id2">Alan Bean, born Mar 15, 1932 in Wheeler, Texas, was an American test pilot. He has since retired.</lex>
-      <lex comment="good" lid="Id3" error_1="Retired">Alan Bean is a US national who was born in Wheeler, Texas on 15 March 1932. Before retiring he served as a test pilot.</lex>
+      <lex comment="good" lid="Id3">Alan Bean is a US national who was born in Wheeler, Texas on 15 March 1932. Before retiring he served as a test pilot.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -677,7 +677,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, New Jersey, USA on the 20th of January, 1930. He was a crew member of Apollo 11 before he retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. He is now retired but was a member of the Apollo 11 crew.</lex>
-      <lex comment="good" lid="Id3" error_1="Retired">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. Prior to his retiral he was a crew member on Apollo 11.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin is a US national who was born on 20 January 1930 in Glen Ridge, New Jersey. Prior to his retiral he was a crew member on Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id37" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -694,9 +694,9 @@
         <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was an American, who was born in Glen Ridge, NJ and graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a member of the Apollo 11 crew.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was an American, who was born in Glen Ridge, NJ and graduated from MIT, Sc.D. in 1963. He was a fighter pilot and a member of the Apollo 11 crew.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was a United States national who was born in Glen Ridge, New Jersey. He graduated from MIT with a Sc.D in 1963. He served as a fighter pilot and became a crew member on Apollo 11.</lex>
-      <lex comment="good" lid="Id3" error_1="Glen Ridge, New Jersey">US national Buzz Aldrin, fighter pilot and Apollo 11 crew member, was born in Glen Ridge, NJ, but graduated from Massachusetts Institute of Technology with a Sc.D in 1963.</lex>
+      <lex comment="good" lid="Id3">US national Buzz Aldrin, fighter pilot and Apollo 11 crew member, was born in Glen Ridge, NJ, but graduated from Massachusetts Institute of Technology with a Sc.D in 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id38" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -731,7 +731,7 @@
         <mtriple>Buzz_Aldrin | was a crew member of | Apollo_11</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ. He is a US citizen and he was selected by NASA in 1963 to become a crew member of Apollo 11. He has now retired.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was born in Glen Ridge, NJ. He is a US citizen and he was selected by NASA in 1963 to become a crew member of Apollo 11. He has now retired.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey and is a United States national. He was selected in 1963 by NASA as a member of the Apollo 11 crew. He has now retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id40" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -804,7 +804,7 @@
         <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
         <mtriple>Apollo_11 | operator | NASA</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Essex County, New Jersey" error_2="Glen Ridge, New Jersey">Buzz Aldrin (born in Glen Ridge, Essex County, NJ) was a member of the Apollo 11 crew. William Anders was a backup pilot on the Apollo 11 mission, which was operated by NASA.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin (born in Glen Ridge, Essex County, NJ) was a member of the Apollo 11 crew. William Anders was a backup pilot on the Apollo 11 mission, which was operated by NASA.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge in the Essex County in New Jersey and was a member of the Apollo 11 crew operated by NASA where William Anders was the backup pilot.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin who is originally from Glen Ridge, Essex County, New Jersey joined NASA and became a member of the Apollo 11 crew along with William Anders as a back up pilot.</lex>
     </entry>
@@ -861,7 +861,7 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin (born in Glen Ridge, New Jersey on 1930-01-20) was selected to work for NASA in 1963. He was a fighter pilot and a crew member of Apollo 11.</lex>
-      <lex comment="good" lid="Id2" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born on 20th January, 1930 in Glen Ridge, NJ. He was a fighter pilot, who was hired by NASA in 1963. He was a crew member on Apollo 11.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born on 20th January, 1930 in Glen Ridge, NJ. He was a fighter pilot, who was hired by NASA in 1963. He was a crew member on Apollo 11.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin was born on January 20 1930 in Glen Ridge, New Jersey. He joined NASA in 1963 as a fighter pilot and became a member of the Apollo 11 crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id47" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1137,7 +1137,7 @@
         <mtriple>Elliot_See | birthDate | "1927-07-23"</mtriple>
         <mtriple>University_of_Texas_at_Austin | compete in | Big_12_Conference</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Big 12 Conference">Elliot See was born in the United States on July 23rd, 1927. He attended the University of Texas at Austin, which is part of the University of Texas system, and competes in the Big 12 competition.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born in the United States on July 23rd, 1927. He attended the University of Texas at Austin, which is part of the University of Texas system, and competes in the Big 12 competition.</lex>
       <lex comment="good" lid="Id2">American Elliot See (born on 07/23/1927) attended the University of Texas at Austin who were affiliated to the University of Texas System and who also competed in the Big 12 Conference in Austin.</lex>
       <lex comment="good" lid="Id3">Elliot See was born on 23 July, 1927 in the U.S. and graduated from the University of Texas at Austin who are competing in the Big 12 Conference. The university belongs to the University of Texas System.</lex>
     </entry>

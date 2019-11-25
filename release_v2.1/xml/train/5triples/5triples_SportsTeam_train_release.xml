@@ -324,7 +324,7 @@
         <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
         <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.F.C. Blackpool">Stuart Parker is the manager of the A.F.C Blackpool club, which has its ground in Blackpool. The local leader is Gordon Marsden. Parker is also a member of the Chesterfield F.C. and plays for Stockport County F.C.</lex>
+      <lex comment="good" lid="Id1">Stuart Parker is the manager of the A.F.C Blackpool club, which has its ground in Blackpool. The local leader is Gordon Marsden. Parker is also a member of the Chesterfield F.C. and plays for Stockport County F.C.</lex>
       <lex comment="good" lid="Id2">The leader of Blackpool is Gordon Marsden. Stuart Parker, who once played football for Chesterfield FC and Stockport County FC is the manager of AFC Blackpool, whose ground is located in Blackpool.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id15" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -398,7 +398,7 @@
         <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
         <mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Labour Party (UK)">AFC Blackpool have their ground in Blackpool where the leader of the council is Labour. Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been manager of AFC Blackpool.</lex>
+      <lex comment="good" lid="Id1">AFC Blackpool have their ground in Blackpool where the leader of the council is Labour. Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been manager of AFC Blackpool.</lex>
       <lex comment="good" lid="Id2">AFC Blackpool is located in the town of Blackpool, where the leader of the Council is the Labour Party (UK). The manager of AFC Blackpool is Stuart Parker who has previously played football for Drogheda United FC and KV Mechelen.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id19" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -418,7 +418,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">AS Gubbio 1910 are located in Italy and play in Serie D whose champions are currently SS Robur Siena. The leader of Italy is Sergio Mattarella and the capital city is Rome.</lex>
       <lex comment="good" lid="Id2">The champions of Serie D are S.S. Robur Siena in which AS Gubbio 1910 also play. This latter club has their ground in Italy where the leader is Sergio Mattarella and the capital is the city of Rome.</lex>
-      <lex comment="good" lid="Id3" error_1="S.S. Robur Siena">A.S. Gubbio 1910 is in the Serie D league whose previous champions include S S Robur Siena. The grounds of the A.S. Gubbio 1910 are located in Italy which currently has Sergio Mattarella as a leader and Rome is the capital city.</lex>
+      <lex comment="good" lid="Id3">A.S. Gubbio 1910 is in the Serie D league whose previous champions include S S Robur Siena. The grounds of the A.S. Gubbio 1910 are located in Italy which currently has Sergio Mattarella as a leader and Rome is the capital city.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id20" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -510,8 +510,8 @@
         <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
         <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Azerbaijan Premier League">AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.</lex>
-      <lex comment="good" lid="Id2" error_1="2014-15 Azerbaijan Premier League">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 members and play their home matches at the AZAL Arena.</lex>
+      <lex comment="good" lid="Id1">AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.</lex>
+      <lex comment="good" lid="Id2">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 members and play their home matches at the AZAL Arena.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id25" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -795,7 +795,7 @@
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
         <mtriple>Italy | language | Italian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italians">AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.</lex>
+      <lex comment="good" lid="Id1">AS Gubbio 1910 have their ground in Italy where the leader is Sergio Mattarella. The Italian people inhabit the country and speak the Italian language and their capital city is Rome.</lex>
       <lex comment="good" lid="Id2">Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id39" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -834,7 +834,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live. The capital is Rome and two of the leaders are Pietro Grasso, and Sergio Mattarella.</lex>
       <lex comment="good" lid="Id2">Italy is the location of the home ground of AS Gubbio 1910. The country's leaders are Sergio Mattarella and Pietro Grasso. The inhabitants are known as Italians and the capital city is Rome.</lex>
-      <lex comment="good" lid="Id3" error_1="Italians">Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country.</lex>
+      <lex comment="good" lid="Id3">Pietro Grasso and Sergio Mattarella are leaders in Italy. The ground of A.S. Gubbio 1910 is located in Italy where Rome is the capital. The Italian people live in the country.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id41" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -908,7 +908,7 @@
         <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
         <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italians">AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there.</lex>
+      <lex comment="good" lid="Id1">AS Gubbio 1910 have their home ground in Italy where Pietro Grasso and Sergio Mattarella are leaders. The official language of the country is Italian, and the Italian people live there.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id45" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

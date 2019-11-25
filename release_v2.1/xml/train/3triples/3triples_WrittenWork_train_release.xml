@@ -411,7 +411,7 @@
         <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion. written by Eric Flint, has the ISBN number 1-4165-2060-0 and is also available as an E book.</lex>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion. written by Eric Flint, has the ISBN number 1-4165-2060-0 and is also available as an E book.</lex>
       <lex comment="good" lid="Id2">1634: The Ram Rebellion, available as an E-Book, was authored by Eric Flint and has a ISBN number of 1-4165-2060-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -500,7 +500,7 @@
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The E-Book "1634: The Ram Rebellion" which was written by Eric Flint, Virginia DeMarce et al. has the ISBN number 1-4165-2060-0.</lex>
-      <lex comment="good" lid="Id2" error_1="E-book">1634: The Ram Rebellion, which can be found as an e book, was written by Eric Flint, Virginia DeMarce et al. and has the ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, which can be found as an e book, was written by Eric Flint, Virginia DeMarce et al. and has the ISBN number 1-4165-2060-0.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -514,8 +514,8 @@
         <mtriple>1634:_The_Ram_Rebellion | ISBN_number | "1-4165-2060-0"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Written by Virginia DeMarce, 1634: The Ram Rebellion has the ISBN number 1-4165-2060-0 and is available as an E-Book.</lex>
-      <lex comment="good" lid="Id2" error_1="E-book">1634: The Ram Rebellion, written by Virginia DeMarce, has the ISBN number 1-4165-2060-0 and is available as an E book.</lex>
-      <lex comment="good" lid="Id3" error_1="E-book">1634: The Ram Rebellion was written by Virginia DeMarce and has the ISBN number 1-4165-2060-0. It is published as an E book.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion, written by Virginia DeMarce, has the ISBN number 1-4165-2060-0 and is available as an E book.</lex>
+      <lex comment="good" lid="Id3">1634: The Ram Rebellion was written by Virginia DeMarce and has the ISBN number 1-4165-2060-0. It is published as an E book.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -861,7 +861,7 @@
         <mtriple>AIP_Advances | publisher | American_Institute_of_Physics</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Harvard University is the alma mater of A T Charlie Johnson, who is the editor of AIP Advances, published by American Institute of Physics.</lex>
-      <lex comment="good" lid="Id2" error_1="Harvard University">AIP Advances was edited by A.T. Charlie Johnson and published by American Institute of Physics. A.T. Charlie Johnson graduated from Harvard.</lex>
+      <lex comment="good" lid="Id2">AIP Advances was edited by A.T. Charlie Johnson and published by American Institute of Physics. A.T. Charlie Johnson graduated from Harvard.</lex>
       <lex comment="good" lid="Id3">AIP Advances publisher is American Institute of Physics and his editor is A T Charlie Johnson, his alma mater is Harvard University .</lex>
     </entry>
     <entry category="WrittenWork" eid="Id54" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -904,7 +904,7 @@
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
         <mtriple>A.T._Charlie_Johnson | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">A T Charlie Johnson, an American, is the editor of AIP Advances and is doctoral advisor to Michael Tinkham.</lex>
+      <lex comment="good" lid="Id1">A T Charlie Johnson, an American, is the editor of AIP Advances and is doctoral advisor to Michael Tinkham.</lex>
       <lex comment="good" lid="Id2">The editor of AIP Advances is A.T. Charlie Johnson, he is from the United States and is the doctoral advisor for Michael Tinkham.</lex>
       <lex comment="good" lid="Id3">A T Charlie Johnson, a United States national, is editor of AIP Advances and doctoral advisor for Michael Tinkham.</lex>
     </entry>
@@ -949,8 +949,8 @@
         <mtriple>A.T._Charlie_Johnson | almaMater | Stanford_University</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The editor of AIP Advances (abbreviated to AIP Adv.) is A.T. Charlie Johnson, who went to Stanford University.</lex>
-      <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">AIP Advances, AIP Adv., was edited by A T Charlie Johnson from Stanford University.</lex>
-      <lex comment="good" lid="Id3" error_1="A.T. Charlie Johnson">A T Charlie Johnson from Stanford University is the editor of AIP Advances, or AIP Adv.</lex>
+      <lex comment="good" lid="Id2">AIP Advances, AIP Adv., was edited by A T Charlie Johnson from Stanford University.</lex>
+      <lex comment="good" lid="Id3">A T Charlie Johnson from Stanford University is the editor of AIP Advances, or AIP Adv.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id60" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1232,7 +1232,7 @@
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A Long Long Way, the prequel to The Secret Scripture, was published in Ireland by Viking Press.</lex>
-      <lex comment="good" lid="Id2" error_1="Ireland">A Long Long Way, an Irish book, was published by Viking Press and is the prequel to The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2">A Long Long Way, an Irish book, was published by Viking Press and is the prequel to The Secret Scripture.</lex>
       <lex comment="good" lid="Id3">A Long Long Way, from Ireland, and published by Viking Press, was followed by The Secret Scripture.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id77" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1281,7 +1281,7 @@
         <mtriple>The_Secret_Scripture | publisher | Faber_and_Faber</mtriple>
         <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ireland">The Secret Scripture, published by Faber and Faber is the follow up book to the Irish novel A Long Long Way.</lex>
+      <lex comment="good" lid="Id1">The Secret Scripture, published by Faber and Faber is the follow up book to the Irish novel A Long Long Way.</lex>
       <lex comment="good" lid="Id2">The novel A Long Long Way, which was written in Ireland, was followed by The Secret Scripture which Faber and Faber published.</lex>
       <lex comment="good" lid="Id3">The novel A Long Long Way was written in Ireland and was followed by The Secret Scripture which is published by Faber and Faber.</lex>
     </entry>
@@ -1787,7 +1787,7 @@
         <mtriple>A_Wizard_of_Mars | ISBN_number | "978-0-15-204770-2"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Diane Duane wrote A Wizard of Mars which is available in print and has the ISBN number "978-0-15-204770-2".</lex>
-      <lex comment="good" lid="Id2" error_1="Print">Diane Duane wrote the published book A Wizard of Mars. It can be found by ISBN number 978-0-15-204770-2.</lex>
+      <lex comment="good" lid="Id2">Diane Duane wrote the published book A Wizard of Mars. It can be found by ISBN number 978-0-15-204770-2.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id111" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2173,9 +2173,9 @@
         <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mathematics">Acta Mathematica Hungarica, or Acta Math. Hungar., focuses on math and has a LCCN number of 83646315.</lex>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica, or Acta Math. Hungar., focuses on math and has a LCCN number of 83646315.</lex>
       <lex comment="good" lid="Id2">The Acta Mathematica Hungarica covers the academic discipline of Mathematics and has the abbreviation of Acta Math Hungar. The LCCN number is 83646315.</lex>
-      <lex comment="good" lid="Id3" error_1="Mathematics">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the LCCN number of 83646315. It falls under the academic discipline of Math.</lex>
+      <lex comment="good" lid="Id3">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and the LCCN number of 83646315. It falls under the academic discipline of Math.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id131" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2219,8 +2219,8 @@
         <mtriple>Acta_Mathematica_Hungarica | ISSN_number | "1588-2632"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Acta Mathematica Hungarica (Acta Math. Hunger.) covers the academic discipline of Mathematics. Its ISSN number is 1588-2632.</lex>
-      <lex comment="good" lid="Id2" error_1="Mathematics">Acta Mathematica Hungarica, also known as Acta Math. Hungar., with ISSN number 1588-2632, is in the Math discipline.</lex>
-      <lex comment="good" lid="Id3" error_1="Mathematics">Acta Mathematica Hungarica can be abbreviated to Acta Math. Hungar, and its discipline is Math. Its ISSN number is 1588-2632.</lex>
+      <lex comment="good" lid="Id2">Acta Mathematica Hungarica, also known as Acta Math. Hungar., with ISSN number 1588-2632, is in the Math discipline.</lex>
+      <lex comment="good" lid="Id3">Acta Mathematica Hungarica can be abbreviated to Acta Math. Hungar, and its discipline is Math. Its ISSN number is 1588-2632.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id133" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -2421,8 +2421,8 @@
         <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addiction journal (abbreviated to 'Addiction'), is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction and has the LCCN number 93645978.</lex>
-      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The Addiction Journal (Addiction) is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the LCCN number is 93645978.</lex>
-      <lex comment="good" lid="Id3" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">The LCCN number of Addiction journal is 93645978, it is abbreviated to Addiction and is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id2">The Addiction Journal (Addiction) is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction and has the LCCN number is 93645978.</lex>
+      <lex comment="good" lid="Id3">The LCCN number of Addiction journal is 93645978, it is abbreviated to Addiction and is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id142" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -3121,9 +3121,9 @@
         <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
         <mtriple>American_Journal_of_Mathematics | frequency | "Bimonthly"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Bimonthly">The American Journal of Mathematics, abbreviated to Am. J. Math, is published bi-monthly and its discipline is Math.</lex>
+      <lex comment="good" lid="Id1">The American Journal of Mathematics, abbreviated to Am. J. Math, is published bi-monthly and its discipline is Math.</lex>
       <lex comment="good" lid="Id2">The American Journal of Mathematics or Am. J. Math., is published bimonthly and is in the Mathematics discipline.</lex>
-      <lex comment="good" lid="Id3" error_1="Bimonthly">The American Journal of Mathematics is published bi-monthly and abbreviated to Am. J. Math. It comes under the academic discipline of Math.</lex>
+      <lex comment="good" lid="Id3">The American Journal of Mathematics is published bi-monthly and abbreviated to Am. J. Math. It comes under the academic discipline of Math.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id181" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

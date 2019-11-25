@@ -131,9 +131,9 @@
       <modifiedtripleset>
         <mtriple>Barny_Cakes | servingSize | 30.0 g</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="30.0 g">Barny cakes can be served in 30 gram sizes.</lex>
-      <lex comment="good" lid="Id2" error_1="30.0 g">Serving size for the Barny cakes is 30.0g.</lex>
-      <lex comment="good" lid="Id3" error_1="30.0 g">The serving size of Barny cakes is 30.0g.</lex>
+      <lex comment="good" lid="Id1">Barny cakes can be served in 30 gram sizes.</lex>
+      <lex comment="good" lid="Id2">Serving size for the Barny cakes is 30.0g.</lex>
+      <lex comment="good" lid="Id3">The serving size of Barny cakes is 30.0g.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -160,7 +160,7 @@
         <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A batagor consists of a fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
-      <lex comment="good" lid="Id2" error_1="fried fish dumpling with tofu and vegetables in peanut sauce">Batagor has these main ingredients - fried fish dumplings, tofu and vegetables in peanut sauce.</lex>
+      <lex comment="good" lid="Id2">Batagor has these main ingredients - fried fish dumplings, tofu and vegetables in peanut sauce.</lex>
       <lex comment="good" lid="Id3">Batagor's main ingredients are fried fish dumpling with tofu and vegetables in peanut sauce.</lex>
     </entry>
     <entry category="Food" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
@@ -300,9 +300,9 @@
       <modifiedtripleset>
         <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Malaysian Malay">Malay is the ethnic group of Malaysia.</lex>
+      <lex comment="good" lid="Id1">Malay is the ethnic group of Malaysia.</lex>
       <lex comment="good" lid="Id2">Malaysian Malay is an ethnic group in Malaysia.</lex>
-      <lex comment="good" lid="Id3" error_1="Malaysian Malay">Malay is an ethnic group in Malaysia.</lex>
+      <lex comment="good" lid="Id3">Malay is an ethnic group in Malaysia.</lex>
     </entry>
     <entry category="Food" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

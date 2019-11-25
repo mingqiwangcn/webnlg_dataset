@@ -75,7 +75,7 @@
         <mtriple>Arrabbiata_sauce | ingredient | Olive_oil</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Olive oil is an ingredient used in the preparation of Arrabbiata sauce, found in Italy.</lex>
-      <lex comment="good" lid="Id2" error_1="Italy">Olive Oil is used to create Italian Arrabbiata sauce.</lex>
+      <lex comment="good" lid="Id2">Olive Oil is used to create Italian Arrabbiata sauce.</lex>
       <lex comment="good" lid="Id3">Olive oil is an ingredient in Arrabbiata sauce, which can be found in Italy.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -177,7 +177,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bacon is an ingredient in the main course dish 'Bacon Explosion'.</lex>
       <lex comment="good" lid="Id2">Bacon is an ingredient in a main course called Bacon Explosion.</lex>
-      <lex comment="good" lid="Id3" error_1="Main course">Bacon Explosion is an entree that includes bacon, the main ingredient.</lex>
+      <lex comment="good" lid="Id3">Bacon Explosion is an entree that includes bacon, the main ingredient.</lex>
     </entry>
     <entry category="Food" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -201,8 +201,8 @@
         <mtriple>Baked_Alaska | ingredient | Christmas_pudding</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska is thought to have originated in the United States, France or China, and contains Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id2" error_1="France, United States or China">France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.</lex>
-      <lex comment="good" lid="Id3" error_1="France, United States or China">Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China.</lex>
+      <lex comment="good" lid="Id2">France, United States and China all claim to have invented Baked Alaska which can have Christmas pudding as an ingredient.</lex>
+      <lex comment="good" lid="Id3">Christmas pudding is an ingredient in Baked Alaska which is from France, the United States and China.</lex>
     </entry>
     <entry category="Food" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

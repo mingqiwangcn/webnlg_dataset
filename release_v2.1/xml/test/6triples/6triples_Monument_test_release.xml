@@ -81,7 +81,7 @@
         <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | "Hüseyin Bütüner and Hilmi Güner"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial (designed by Huseyin Butuner and Hilmi Guner) is located in Baku, Azerbaijan. It is made from red granite and white marble. It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. The native name for the memorial is Türk Şehitleri Anıtı. The leader of Azerbaijan is Artur Rasizade.</lex>
-      <lex comment="good" lid="Id2" error_1="Ottoman Army soldiers killed in the Battle of Baku">The Turkish leader is Artur Rasizade. Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs Memorial, also known as Turk Sehitleri Aniti, in Azerbaijan. The memorial is dedicated to the soldiers who fell in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id2">The Turkish leader is Artur Rasizade. Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs Memorial, also known as Turk Sehitleri Aniti, in Azerbaijan. The memorial is dedicated to the soldiers who fell in the Battle of Baku.</lex>
     </entry>
     <entry category="Monument" eid="Id5" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -100,9 +100,9 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | "Maryland"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Historic districts in the United States">The U.S.A.'s 14th New Jersey Volunteer Infantry Monument in Frederick County, Maryland is in the Monocacy National Battlefield. It's in a historic district and was established on July 11th, 1907.</lex>
-      <lex comment="good" lid="Id2" error_1="Historic districts in the United States">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick County, Maryland. The monument was established in 1907-07-11 and is categorised as a historic district in the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Historic districts in the United States">The 14th New Jersey Volunteer Infantry Monument is located in Frederick County, Maryland, USA. Established on July 11, 1907, and situated on the Monocacy National Battlefield, the monument is categorized as a historic district in the United States.</lex>
+      <lex comment="good" lid="Id1">The U.S.A.'s 14th New Jersey Volunteer Infantry Monument in Frederick County, Maryland is in the Monocacy National Battlefield. It's in a historic district and was established on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield, Frederick County, Maryland. The monument was established in 1907-07-11 and is categorised as a historic district in the United States.</lex>
+      <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument is located in Frederick County, Maryland, USA. Established on July 11, 1907, and situated on the Monocacy National Battlefield, the monument is categorized as a historic district in the United States.</lex>
     </entry>
   </entries>
 </benchmark>

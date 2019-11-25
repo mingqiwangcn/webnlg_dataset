@@ -119,7 +119,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">108 St Georges Terrace in Perth, Australia, has 50 floors and was completed in 198 at a cost of 120 million Australian dollars.</lex>
       <lex comment="good" lid="Id2">108 St. Georges Terrace, with 50 floors, is located in Perth, Australia, and was completed in 1988. Its construction cost 120 million Australian dollars.</lex>
-      <lex comment="good" lid="Id3" error_1="120 million (Australian dollars)">108 St Georges Terrace was completed in 1988 in Perth, Australia. It has a total of 50 floors and cost 120m Australian dollars.</lex>
+      <lex comment="good" lid="Id3">108 St Georges Terrace was completed in 1988 in Perth, Australia. It has a total of 50 floors and cost 120m Australian dollars.</lex>
     </entry>
     <entry category="Building" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1392,8 +1392,8 @@
         <mtriple>Republic_of_Ireland | language | Irish_language</mtriple>
         <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Irish people">Adare Manor is located in the Republic of Ireland, where the natives are known as Irish. English and Irish are the main languages used in Ireland, and its currency is the Euro.</lex>
-      <lex comment="good" lid="Id2" error_1="Irish people">The Adare Manor is in the Republic of Ireland, where English and Irish are the main languages spoken by the Irish inhabitants. The currency of the Republic of Ireland is the euro.</lex>
+      <lex comment="good" lid="Id1">Adare Manor is located in the Republic of Ireland, where the natives are known as Irish. English and Irish are the main languages used in Ireland, and its currency is the Euro.</lex>
+      <lex comment="good" lid="Id2">The Adare Manor is in the Republic of Ireland, where English and Irish are the main languages spoken by the Irish inhabitants. The currency of the Republic of Ireland is the euro.</lex>
       <lex comment="good" lid="Id3">The official language of the Republic of Ireland is Irish, and in Ireland is Irish English. The native people of the Republic are the Irish and the currency is the euro. The Republic is the location of Adare Manor.</lex>
     </entry>
     <entry category="Building" eid="Id64" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1458,8 +1458,8 @@
         <mtriple>Republic_of_Ireland | language | Irish_language</mtriple>
         <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Irish people">The inhabitants of the Republic of Ireland are the Irish, which is also the language used in the Republic which is led by Enda Kenny. The currency is the euro and the Republic is the location of Adare Manor.</lex>
-      <lex comment="good" lid="Id2" error_1="Irish people">The Republic of Ireland, led by Enda Kenny and home to the Irish, where the currency is the euro, is home to Adare Manor.</lex>
+      <lex comment="good" lid="Id1">The inhabitants of the Republic of Ireland are the Irish, which is also the language used in the Republic which is led by Enda Kenny. The currency is the euro and the Republic is the location of Adare Manor.</lex>
+      <lex comment="good" lid="Id2">The Republic of Ireland, led by Enda Kenny and home to the Irish, where the currency is the euro, is home to Adare Manor.</lex>
     </entry>
     <entry category="Building" eid="Id66" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1515,8 +1515,8 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The architecture style of Adisham Hall is Tudor and Jacabian. It was constructed from 1927 to 1931 and is located on St. Benedict's Monastery in Adisham, Haputale, Sri Lanka.</lex>
-      <lex comment="good" lid="Id2" error_1="Haputale, Sri Lanka" error_2="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">Adisham Hall is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka. Work on Adisham Hall, in the architectural style of "Tudor and Jacobean", began in 1927 and finished in 1931.</lex>
+      <lex comment="good" lid="Id1">The architecture style of Adisham Hall is Tudor and Jacabian. It was constructed from 1927 to 1931 and is located on St. Benedict's Monastery in Adisham, Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall is located at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka. Work on Adisham Hall, in the architectural style of "Tudor and Jacobean", began in 1927 and finished in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id68" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1641,7 +1641,7 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputale, Sri Lanka. Construction of the building, which has the architectural style 'Tudor Revival', commenced in 1927 and was completed in 1931.</lex>
+      <lex comment="good" lid="Id1">The address of Adisham Hall is St Benedict's Monastery, Adisham, Haputale, Sri Lanka. Construction of the building, which has the architectural style 'Tudor Revival', commenced in 1927 and was completed in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id73" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1658,8 +1658,8 @@
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
         <mtriple>Adisham_Hall | address | "St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">Adisham Hall was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor Revival style of architecture.</lex>
-      <lex comment="good" lid="Id2" error_1="St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka">Adisham Hall was constructed between 1927 and 1931 in the Tudor Revival style. It is located on St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall was constructed between 1927 and 1931 at St Benedict's Monastery, Adisham, Haputhale, Sri Lanka in the Tudor Revival style of architecture.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall was constructed between 1927 and 1931 in the Tudor Revival style. It is located on St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
       <lex comment="good" lid="Id3">Adisham Hall was started to be built in 1927 and was completed in 1931. Adisham Hall has the architectural style 'Tudor Revival' and its address is: St. Benedicts Monastery, Adisham, Haputhale, Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id74" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -1677,7 +1677,7 @@
         <mtriple>Akita,_Akita | country | Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Brazilians in Japan">The Akita Museum of Art is located in Akita, Akita; Akita Prefecture, Japan, where the leader is Taro Aso, has a Brazilian ethnic group.</lex>
+      <lex comment="good" lid="Id1">The Akita Museum of Art is located in Akita, Akita; Akita Prefecture, Japan, where the leader is Taro Aso, has a Brazilian ethnic group.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is found in Akita, Akita Prefecture, Japan where the leader is Taro Aso and one of the ethnic groups are the Brazilians.</lex>
       <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture in Japan. The leader of Japan is Tarō Asō and the Brazilians in Japan are an ethnic group found in the country.</lex>
     </entry>
@@ -1697,7 +1697,7 @@
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Taro Aso is the leader of Japan which has the Vietnamese people as one of its ethnic groups. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id2" error_1="Vietnamese people in Japan">The Vietnamese are an ethnic group in Japan where Taro Aso is the leader. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Vietnamese are an ethnic group in Japan where Taro Aso is the leader. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
     </entry>
     <entry category="Building" eid="Id76" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1758,7 +1758,7 @@
         <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
         <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Chinese people in Japan">The Chinese are an ethnic group in Japan which is led by Shinzo Abe. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id1">The Chinese are an ethnic group in Japan which is led by Shinzo Abe. The country is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, which is part of Akita Prefecture, Japan. Shinzo Abe is the leader of Japan, where there is an ethnic group of Chinese people.</lex>
     </entry>
     <entry category="Building" eid="Id79" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -1814,8 +1814,8 @@
         <mtriple>Japan | leaderName | Shinzō_Abe</mtriple>
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Vietnamese people in Japan">The Vietnamese are an ethnic group within Japan which is led by Shinzo Abe. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id2" error_1="Vietnamese people in Japan">The Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. The leader of Japan is Shinzo Abe and an ethnic group there is called Vietnamese.</lex>
+      <lex comment="good" lid="Id1">The Vietnamese are an ethnic group within Japan which is led by Shinzo Abe. Japan's Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
+      <lex comment="good" lid="Id2">The Akita Museum of Art is in Akita, Akita (part of Akita Prefecture) in Japan. The leader of Japan is Shinzo Abe and an ethnic group there is called Vietnamese.</lex>
     </entry>
     <entry category="Building" eid="Id82" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1857,7 +1857,7 @@
         <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
         <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Vietnamese people in Japan">The Akita Museum of Art is in Akita, Akita, part of the Akita Prefecture in Japan. Akihito is the Emperor of Japan whose ethnic groups include the Vietnamese.</lex>
+      <lex comment="good" lid="Id1">The Akita Museum of Art is in Akita, Akita, part of the Akita Prefecture in Japan. Akihito is the Emperor of Japan whose ethnic groups include the Vietnamese.</lex>
     </entry>
     <entry category="Building" eid="Id84" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2347,7 +2347,7 @@
         <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Sri Lankan rupee">Ampara Hospital is located in Eastern Province of Sri Lanka: which is led by Ranil Wickremesinghe, has the rupee as currency and the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id1">Ampara Hospital is located in Eastern Province of Sri Lanka: which is led by Ranil Wickremesinghe, has the rupee as currency and the capital is Sri Jayawardenepura Kotte.</lex>
       <lex comment="good" lid="Id2">Sri Lanka is led by Ranil Wickremesinghe, has the capital of Sri Jayawardenepura Kotte and uses the Sri Lankan rupee as currency. It is the location for the Ampara Hospital in the Eastern Province state.</lex>
       <lex comment="good" lid="Id3">Ampara Hospital is in the Eastern Province, Sri Lanka. Sri Jayawardenepura Kotte is the capital of Sri Lanka, the country which has the Sri Lankan rupee as its currency and Ranil Wickremesinghe as its leader.</lex>
     </entry>
@@ -2537,8 +2537,8 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Romanesque Revival architecture">Asser Levy Public Baths, constructed in 1904 in a Romanesque Revival style, are located on Asser Levy Place and East 23rd Street. The Baths were added to the National Register of Historic Places on 1980-04-23, with reference number 80002709.</lex>
-      <lex comment="good" lid="Id2" error_1="Asser Levy Place and East 23rd Street">In 1904 the Asser Levy Public Baths were constructed at Asser Levy Place, East 23rd Street in the Romanesque Revival style of architecture. The Baths were added to the National Register of Historic Places on 23 April 1980 with the reference number 80002709.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths, constructed in 1904 in a Romanesque Revival style, are located on Asser Levy Place and East 23rd Street. The Baths were added to the National Register of Historic Places on 1980-04-23, with reference number 80002709.</lex>
+      <lex comment="good" lid="Id2">In 1904 the Asser Levy Public Baths were constructed at Asser Levy Place, East 23rd Street in the Romanesque Revival style of architecture. The Baths were added to the National Register of Historic Places on 23 April 1980 with the reference number 80002709.</lex>
       <lex comment="good" lid="Id3">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street. It has the Romanesque Revival style of architecture and were contructed in 1904. The Reference Number in the National Register of Historic Places is 80002709 and was added on 1980-04-23.</lex>
     </entry>
     <entry category="Building" eid="Id114" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2556,9 +2556,9 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Romanesque Revival architecture">Asser Levy Public Baths, located in Avenue A, Manhattan, is in the Romanesque Revival architectural style, was constructed in 1904 and added to the National Register of Historic Places on 04/23/1980 with reference number: 80002709.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths, located in Avenue A, Manhattan, is in the Romanesque Revival architectural style, was constructed in 1904 and added to the National Register of Historic Places on 04/23/1980 with reference number: 80002709.</lex>
       <lex comment="good" lid="Id2">Asser Levy Public Baths is located in Avenue A, Manhattan. They are in the architectural style of Romanesque Revival architecture and were constructed in 1904. The reference number is 80002709 in the National Register of Historic Places and was added on 1980-04-23.</lex>
-      <lex comment="good" lid="Id3" error_1="Romanesque Revival architecture">Asser Levy Public Baths, constructed in 1904 and designed in the Romanesque Revival style, is located in Avenue A, Manhattan. The site was added to the National Register of Historic Places on 23rd April 1980, with Reference Number 80002709.</lex>
+      <lex comment="good" lid="Id3">Asser Levy Public Baths, constructed in 1904 and designed in the Romanesque Revival style, is located in Avenue A, Manhattan. The site was added to the National Register of Historic Places on 23rd April 1980, with Reference Number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id115" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2575,8 +2575,8 @@
         <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
         <mtriple>Asser_Levy_Public_Baths | added to the National Register of Historic Places | "1980-04-23"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Romanesque Revival architecture">The Asser Levy Public Baths, built in 1904 with a Romanesque Revival architectural style, is located in Manhattan. It was registered in the National Register of Historic Places on 23/4/1980 with number 80002709.</lex>
-      <lex comment="good" lid="Id2" error_1="Romanesque Revival architecture">The Asser Levy Public Baths are in Manhattan and were constructed in 1904. The architectural style is Romanesque Revival and they were added to the National Register of Historic Places on 1980-04-23 and given the reference number 80002709.</lex>
+      <lex comment="good" lid="Id1">The Asser Levy Public Baths, built in 1904 with a Romanesque Revival architectural style, is located in Manhattan. It was registered in the National Register of Historic Places on 23/4/1980 with number 80002709.</lex>
+      <lex comment="good" lid="Id2">The Asser Levy Public Baths are in Manhattan and were constructed in 1904. The architectural style is Romanesque Revival and they were added to the National Register of Historic Places on 1980-04-23 and given the reference number 80002709.</lex>
       <lex comment="good" lid="Id3">Built in 1904 and located in Manhattan, the Asser Levy Public Baths have the Romanesque Revival style of architecture. On 1980-04-23 It was added to the National Register of Historic Places under the reference number 80002709.</lex>
     </entry>
     <entry category="Building" eid="Id116" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -3106,7 +3106,7 @@
         <mtriple>United_Kingdom | demonym | British_people</mtriple>
         <mtriple>London | leaderName | Boris_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Parliament of the United Kingdom">The government of the UK is the Parliament and its capital is London. London's leader is Boris Johnson. 20 Fenchurch Street is located in the UK. The demonym for natives of the UK is the British people.</lex>
+      <lex comment="good" lid="Id1">The government of the UK is the Parliament and its capital is London. London's leader is Boris Johnson. 20 Fenchurch Street is located in the UK. The demonym for natives of the UK is the British people.</lex>
       <lex comment="good" lid="Id2">20 Fenchurch Street is located in the United Kingdom, the capital of which is London. The leader of London is called Boris Johnson, the Parliament of the United Kingdom is also the leader of the city. Natives of the UK are called British people.</lex>
     </entry>
     <entry category="Building" eid="Id142" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
@@ -3150,7 +3150,7 @@
         <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adare Manor is located in the Republic of Ireland, his leader is Enda Kenny. Irish people are the inhabitants and they speak English language. The currency is the euro.</lex>
-      <lex comment="good" lid="Id2" error_1="Irish people">Adare Manor is in the Republic of Ireland, where English is the main language used by the Irish. The leader of the Republic of Ireland is Enda Kenny, and the currency used is the Euro.</lex>
+      <lex comment="good" lid="Id2">Adare Manor is in the Republic of Ireland, where English is the main language used by the Irish. The leader of the Republic of Ireland is Enda Kenny, and the currency used is the Euro.</lex>
     </entry>
     <entry category="Building" eid="Id144" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3346,8 +3346,8 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asian Americans">250 Delaware Avenue is located in the United States, where the English language is spoken, and one of the ethnic groups is Asians. The President of the United States is the most important leader, and Joe Biden is also a leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">The Asians are an ethnic group in the United States which uses the English language. The leader of the country is Joe Biden who has the title of President. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States, where the English language is spoken, and one of the ethnic groups is Asians. The President of the United States is the most important leader, and Joe Biden is also a leader.</lex>
+      <lex comment="good" lid="Id2">The Asians are an ethnic group in the United States which uses the English language. The leader of the country is Joe Biden who has the title of President. The country is the location of 250 Delaware Avenue.</lex>
       <lex comment="good" lid="Id3">250 Delaware Avenue is located in the United States, where the leader is know as the President of the United States. One of the leaders in the US is Joe Biden and an ethnic group of the United States (where English is the language) is Asian Americans.</lex>
     </entry>
     <entry category="Building" eid="Id154" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3366,7 +3366,7 @@
         <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">250 Delaware Avenue is located in the United States where the English language is spoken. One of the leaders is John Roberts and the country is led by the President. The Asian Americans are an ethnic group within the country.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">250 Delaware Avenue is located in the United States, where English is the official language, and an ethnic group present is Asians. The title of the leader is President of the United States; John Roberts is also a leader.</lex>
+      <lex comment="good" lid="Id2">250 Delaware Avenue is located in the United States, where English is the official language, and an ethnic group present is Asians. The title of the leader is President of the United States; John Roberts is also a leader.</lex>
     </entry>
     <entry category="Building" eid="Id155" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3383,7 +3383,7 @@
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">John Roberts is the Chief Justice of the USA which is led by the President. 250 Delaware Avenue is located in the country which uses the English language and where one of the ethnic groups are White Americans.</lex>
+      <lex comment="good" lid="Id1">John Roberts is the Chief Justice of the USA which is led by the President. 250 Delaware Avenue is located in the country which uses the English language and where one of the ethnic groups are White Americans.</lex>
     </entry>
     <entry category="Building" eid="Id156" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

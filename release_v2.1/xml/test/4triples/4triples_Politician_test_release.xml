@@ -16,7 +16,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ab Klink was born in Netherlands and worked for his country's Ministry of Health, Welfare and Sport office. He attended Erasmus University in Rotterdam which is affiliated with the Association of MBAs.</lex>
       <lex comment="good" lid="Id2">Ab Klink worked at the Ministry of Health, Welfare and Sport in Netherlands, the country where he was born. He was a student of Erasmus University in Rotterdam which is affiliated with the Association of MBAs.</lex>
-      <lex comment="good" lid="Id3" error_1="Association of MBAs">Erasmus University Rotterdam (Assoc. MBAs) alum Ab Klink, born in the Netherlands, is employed at the Netherlands Ministry of Health, Welfare and Sport.</lex>
+      <lex comment="good" lid="Id3">Erasmus University Rotterdam (Assoc. MBAs) alum Ab Klink, born in the Netherlands, is employed at the Netherlands Ministry of Health, Welfare and Sport.</lex>
     </entry>
     <entry category="Politician" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -138,7 +138,7 @@
         <mtriple>Abraham_A._Ribicoff | birthPlace | New_Britain,_Connecticut</mtriple>
         <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Native Americans in the United States">Native Americans are an ethnic group in the U.S. which is where Abraham A Ribicoff is from. He was born in New Britain, Connecticut and his wife is Casey Ribicoff.</lex>
+      <lex comment="good" lid="Id1">Native Americans are an ethnic group in the U.S. which is where Abraham A Ribicoff is from. He was born in New Britain, Connecticut and his wife is Casey Ribicoff.</lex>
       <lex comment="good" lid="Id2">Abraham A Ribicoff, married to Casey Ribicoff, was born in New Britain, Connecticut which is in the United States, where Native Americans are an ethnic group.</lex>
       <lex comment="good" lid="Id3">United States national Abraham A. Ribicoff was born in New Britain, Connecticut and married Casey Ribicoff. An ethnic group in the U.S. are Native Americans.</lex>
     </entry>
@@ -194,7 +194,7 @@
         <mtriple>Adonis_Georgiadis | successor | Makis_Voridis</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis was born in Athens, Greece. He was Vice-president of new democracy and was succeeded by Makis Voridis.</lex>
-      <lex comment="good" lid="Id2" error_1="Vice-President of New Democracy">Adonis Georgiadis, who was born in Athens, Greece, served as the Vice President of New Democracy and was later succeeded by Makis Voridis.</lex>
+      <lex comment="good" lid="Id2">Adonis Georgiadis, who was born in Athens, Greece, served as the Vice President of New Democracy and was later succeeded by Makis Voridis.</lex>
     </entry>
     <entry category="Politician" eid="Id12" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -363,8 +363,8 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Staten Island in New York City is the birth place of Albert Jennings Fountain. Albert Jennings Fountain died in Dona Ana County, New Mexico which is in the New Mexico Territory.</lex>
-      <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in New York City on Staten Island. He died in Dona Ana County, New Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="Dona Ana County, New Mexico">On Staten Island in New York City was the birthplace of Albert Jennings Fountain. He died in the New Mexico Territory in Dona Ana County.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in New York City on Staten Island. He died in Dona Ana County, New Mexico.</lex>
+      <lex comment="good" lid="Id3">On Staten Island in New York City was the birthplace of Albert Jennings Fountain. He died in the New Mexico Territory in Dona Ana County.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -412,9 +412,9 @@
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | Mayor_of_Stamford,_Connecticut</mtriple>
         <mtriple>Alfred_N._Phillips | birthPlace | Connecticut</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States Army">Alfred N. Phillips was born in Connecticut, and was Mayor of Stamford, Connecticut. Alfred N. Phillip was a member of the US Army, which fought in the Whiskey Rebellion battle.</lex>
+      <lex comment="good" lid="Id1">Alfred N. Phillips was born in Connecticut, and was Mayor of Stamford, Connecticut. Alfred N. Phillip was a member of the US Army, which fought in the Whiskey Rebellion battle.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips was born in Connecticut and served in the United States, Army which fought in the Whiskey Rebellion battle. He was also the Mayor of Stamford Connecticut.</lex>
-      <lex comment="good" lid="Id3" error_1="United States Army">Alfred N. Phillips was born in Connecticut and was a member of the U.S. Army and fought in the Whiskey Rebellion. He was also Mayor of Stamford, CT.</lex>
+      <lex comment="good" lid="Id3">Alfred N. Phillips was born in Connecticut and was a member of the U.S. Army and fought in the Whiskey Rebellion. He was also Mayor of Stamford, CT.</lex>
     </entry>
     <entry category="Politician" eid="Id24" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -447,7 +447,7 @@
         <mtriple>Allan_Shivers | activeYearsStartDate | 1947-01-21</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allan Shivers started his career from January 21, 1947, served in the United States Army and fought in World War II. Joseph Stalin was a commander in World War II.</lex>
-      <lex comment="good" lid="Id2" error_1="United States Army" error_2="World War II">Allan Shivers started his career from January 21, 1947 in the US Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
+      <lex comment="good" lid="Id2">Allan Shivers started his career from January 21, 1947 in the US Army and fought in WWII. Joseph Stalin was a commander in that war.</lex>
       <lex comment="good" lid="Id3">United States Army and World War II veteran Allan Shivers, started his career, Jan. 21, 1947. A World War II commander was Joseph Stalin.</lex>
     </entry>
     <entry category="Politician" eid="Id26" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -465,7 +465,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Burlington is the largest city in Vermont, the state which Alvah Sabin was from. He was born October 23, 1793 and represented Vermont's 3rd Congressional District.</lex>
       <lex comment="good" lid="Id2">On 23 October 1793 Alvah Sabin was born in Vermont where the largest city is Burlington. He later represented Vermont's 3rd Congressional District.</lex>
-      <lex comment="good" lid="Id3" error_1="Vermont's 3rd congressional district">Alvah Sabin was born in Vermont on October 23rd, 1793 and represented the state's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
+      <lex comment="good" lid="Id3">Alvah Sabin was born in Vermont on October 23rd, 1793 and represented the state's 3rd Congressional District. Vermont's largest city is Burlington.</lex>
     </entry>
     <entry category="Politician" eid="Id27" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -480,9 +480,9 @@
         <mtriple>Alvah_Sabin | successor | Homer_Elihu_Royce</mtriple>
         <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Baptists">Georgia Vermont is the birthplace of Alvah Sabin who was a Baptist. He worked as the Secretary of State of Vermont and was preceded by Homer Elihu Royce.</lex>
-      <lex comment="good" lid="Id2" error_1="Baptists">Alvah Sabin was born in Georgia, Vermont and was a Baptist. He worked as the Secretary of State of Vermont and was succeeded by Homer Elihu Royce.</lex>
-      <lex comment="good" lid="Id3" error_1="Baptists">Georgia, Vermont born Baptist Alvah Sabin worked as the Secretary of State of Vermont and was succeded by Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id1">Georgia Vermont is the birthplace of Alvah Sabin who was a Baptist. He worked as the Secretary of State of Vermont and was preceded by Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id2">Alvah Sabin was born in Georgia, Vermont and was a Baptist. He worked as the Secretary of State of Vermont and was succeeded by Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id3">Georgia, Vermont born Baptist Alvah Sabin worked as the Secretary of State of Vermont and was succeded by Homer Elihu Royce.</lex>
     </entry>
     <entry category="Politician" eid="Id28" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

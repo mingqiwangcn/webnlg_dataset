@@ -683,8 +683,8 @@
         <mtriple>Asterix_(comicsCharacter) | alternativeName | "Astérix"</mtriple>
         <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="French people">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
-      <lex comment="good" lid="Id2" error_1="French people">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+      <lex comment="good" lid="Id1">The comic character Asterix is sometimes called "Astérix" and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id34" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

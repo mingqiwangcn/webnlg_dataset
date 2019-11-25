@@ -328,9 +328,9 @@
         <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
         <mtriple>FC_Torpedo_Moscow | chairman | Aleksandr_Tukmanov</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="2014-15 Russian Premier League">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
+      <lex comment="good" lid="Id1">Valery Petrakov is the manager of FC Torpedo Moscow and its chairman is Aleksandr Tukmanov. Aleksandr Chumakov plays for the club which spent the 2014-15 season in the Russian Premier League.</lex>
       <lex comment="good" lid="Id2">FC Torpedo Moscow who are managed by Valery Petrakov and whose chairman is Aleksandr Tukmanov, played the 2014–15 season in the Russian Premier League. Aleksandr Chumakov has played for the club.</lex>
-      <lex comment="good" lid="Id3" error_1="2014-15 Russian Premier League">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov plays for is FC Torpedo Moscow who has a manager called Valery Petrakov and a chairman called Aleksandr Tukmanov. The FC Torpedo Moscow participated in the Russian Premier League for the 2014-15 season.</lex>
     </entry>
     <entry category="Athlete" eid="Id18" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

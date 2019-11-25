@@ -95,7 +95,7 @@
       <lex comment="good" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
       <lex comment="good" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is found in the United States.</lex>
       <lex comment="good" lid="Id3">14th New Jersey Volunteer Infantry Monument is located in the United States.</lex>
-      <lex comment="good" lid="Id4" error_1="14th New Jersey Volunteer Infantry Monument">14th New Jersey Volunteer Infantry Memorial is in the United States.</lex>
+      <lex comment="good" lid="Id4">14th New Jersey Volunteer Infantry Memorial is in the United States.</lex>
     </entry>
     <entry category="Monument" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -129,7 +129,7 @@
         <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | foundingDate | "1907-07-11"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">14th New Jersey Volunteer Infantry Monument was founded 1907-07-11.</lex>
-      <lex comment="good" lid="Id2" error_1="14th New Jersey Volunteer Infantry Monument">The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.</lex>
+      <lex comment="good" lid="Id2">The memorial depicting the 14th New Jersey Volunteer Infantry was founded on July 11th, 1907.</lex>
       <lex comment="good" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was started on 11th July 1907.</lex>
       <lex comment="good" lid="Id4">The 14th New Jersey Volunteer Infantry Monument's founding date was on 1907-07-11.</lex>
     </entry>
@@ -278,7 +278,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baku Turkish Martyrs' Memorial's designer was Hüseyin Bütüner and Hilmi Güner.</lex>
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
-      <lex comment="good" lid="Id3" error_1="Baku Turkish Martyrs' Memorial">The designers of the Turkish Martyrs' memorial are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id3">The designers of the Turkish Martyrs' memorial are Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id4">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id5">Hüseyin Bütüner and Hilmi Güner designed the Baku Turkish Martyrs' Memorial.</lex>
       <lex comment="good" lid="Id6">Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
@@ -315,7 +315,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Dead Man's Plack is made from rock.</lex>
       <lex comment="good" lid="Id2">Dead Man's Plack is made of rock.</lex>
-      <lex comment="good" lid="Id3" error_1="Rock (geology)">Dead Man's Plack is made from stone.</lex>
+      <lex comment="good" lid="Id3">Dead Man's Plack is made from stone.</lex>
       <lex comment="good" lid="Id4">The Dead Man's Plack is made with rock.</lex>
     </entry>
     <entry category="Monument" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
@@ -337,7 +337,7 @@
         <mtriple>England | ethnicGroups | British_Arabs</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">One of the ethnic groups found in England is the British Arabs.</lex>
-      <lex comment="good" lid="Id2" error_1="England">The British Arabs are an English ethnic group.</lex>
+      <lex comment="good" lid="Id2">The British Arabs are an English ethnic group.</lex>
     </entry>
     <entry category="Monument" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -392,7 +392,7 @@
       <lex comment="good" lid="Id1">Ankara is the capital of Turkey.</lex>
       <lex comment="good" lid="Id2">The capital of Turkey is Ankara.</lex>
       <lex comment="good" lid="Id3">Turkey's capital is Ankara.</lex>
-      <lex comment="good" lid="Id4" error_1="Turkey">Ankara is the Turkish capital.</lex>
+      <lex comment="good" lid="Id4">Ankara is the Turkish capital.</lex>
     </entry>
     <entry category="Monument" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -405,8 +405,8 @@
       <lex comment="good" lid="Id2">The currency of Turkey is the Turkish lira.</lex>
       <lex comment="good" lid="Id3">The currency in Turkey is the Turkish Lira.</lex>
       <lex comment="good" lid="Id4">Turkey's currency is the Turkish lira.</lex>
-      <lex comment="good" lid="Id5" error_1="Turkish lira">The currency used in Turkey is lira.</lex>
-      <lex comment="good" lid="Id6" error_1="Turkey">The Turkish currency is the Turkish lira.</lex>
+      <lex comment="good" lid="Id5">The currency used in Turkey is lira.</lex>
+      <lex comment="good" lid="Id6">The Turkish currency is the Turkish lira.</lex>
     </entry>
     <entry category="Monument" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -431,7 +431,7 @@
       <lex comment="good" lid="Id3">Leader of Turkey is Ahmet Davutoglu.</lex>
       <lex comment="good" lid="Id4">Ahmet Davutoğlu is Turkey's leader.</lex>
       <lex comment="good" lid="Id5">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
-      <lex comment="good" lid="Id6" error_1="Turkey">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex comment="good" lid="Id6">Ahmet Davutoglu is the Turkish leader.</lex>
     </entry>
     <entry category="Monument" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -442,7 +442,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Turkey's leader is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id2">Turkey leader name is Ahmet Davutoğlu.</lex>
-      <lex comment="good" lid="Id3" error_1="Turkey">The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex comment="good" lid="Id3">The Turkish leader's name is Ahmet Davutoglu.</lex>
     </entry>
     <entry category="Monument" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

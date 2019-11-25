@@ -59,7 +59,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin, who was a member of the Apollo 11 crew and spent 52 minutes in space, was born in Glen Ridge New Jersey.</lex>
       <lex comment="good" lid="Id2">Born in Glen Ridge New Jersey, Apollo 11 crewman Buzz Aldrin spent 52 minutes in space.</lex>
-      <lex comment="good" lid="Id3" error_1="Glen Ridge, New Jersey">Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.</lex>
+      <lex comment="good" lid="Id3">Born in Glen Ridge, NJ, Buzz Aldrin spent 52 minutes in space as part of Apollo 11's crew.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>

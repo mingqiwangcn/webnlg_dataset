@@ -121,7 +121,7 @@
         <mtriple>Anaheim,_California | leaderTitle | California_State_Assembly</mtriple>
         <mtriple>Anaheim,_California | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Greater Los Angeles Area">Anaheim, California in the U.S. is led by the California State Assembly and is part of Orange County which forms part of the Greater L.A. area.</lex>
+      <lex comment="good" lid="Id1">Anaheim, California in the U.S. is led by the California State Assembly and is part of Orange County which forms part of the Greater L.A. area.</lex>
       <lex comment="good" lid="Id2">Led by the California State Assembly, Anaheim, is in Orange County, California (part of the Greater Los Angeles area), in the United States.</lex>
       <lex comment="good" lid="Id3">Anaheim is a city in Orange County (part of the Greater Los Angeles area) which is part of California in the U.S. Anaheim is led by the California State Assembly.</lex>
     </entry>
@@ -272,7 +272,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama which is located in the United States where you can also find asian americans.</lex>
       <lex comment="good" lid="Id2">The Asian Americans are an ethnic group in the United States where Lee County is located. Auburn is found in this County which is in the state of Alabama.</lex>
-      <lex comment="good" lid="Id3" error_1="Asian Americans">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is Asian American.</lex>
+      <lex comment="good" lid="Id3">Auburn is part of Lee County, Alabama, in the United States, where one of the ethnic groups is Asian American.</lex>
     </entry>
     <entry category="City" eid="Id15" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -402,7 +402,7 @@
         <mtriple>Antioch,_California | isPartOf | Contra_Costa_County,_California</mtriple>
         <mtriple>California | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="San Francisco Bay Area">Antioch, Contra Costa County is part of the San Francisco Bay region of, Spanish speaking, California.</lex>
+      <lex comment="good" lid="Id1">Antioch, Contra Costa County is part of the San Francisco Bay region of, Spanish speaking, California.</lex>
       <lex comment="good" lid="Id2">The city of Antioch is located within California, where the Spanish language is spoken. Antioch, is part of Contra Costa County in California, which is part of the San Francisco Bay area.</lex>
       <lex comment="good" lid="Id3">Antioch, is part of Contra Costa County and part of the San Francisco Bay Area in California. Spanish is spoken in California.</lex>
     </entry>

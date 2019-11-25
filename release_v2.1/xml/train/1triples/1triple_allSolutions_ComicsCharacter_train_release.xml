@@ -998,8 +998,8 @@
       <modifiedtripleset>
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="French people">Rene Goscinny is a French national.</lex>
-      <lex comment="good" lid="Id2" error_1="French people">The nationality of René Goscinny is French.</lex>
+      <lex comment="good" lid="Id1">Rene Goscinny is a French national.</lex>
+      <lex comment="good" lid="Id2">The nationality of René Goscinny is French.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id87" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

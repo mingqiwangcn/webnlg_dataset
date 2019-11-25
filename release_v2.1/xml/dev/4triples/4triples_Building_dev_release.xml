@@ -77,9 +77,9 @@
         <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
         <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Postmodern architecture">Construction beginning in January 2014, Postmodern art 250 Delaware Avenue has 12 floors with a total area of 30843.8 square meters.</lex>
-      <lex comment="good" lid="Id2" error_1="Postmodern architecture">Construction of the 12 floor Postmodern style building, 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
-      <lex comment="good" lid="Id3" error_1="Postmodern architecture">First begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
+      <lex comment="good" lid="Id1">Construction beginning in January 2014, Postmodern art 250 Delaware Avenue has 12 floors with a total area of 30843.8 square meters.</lex>
+      <lex comment="good" lid="Id2">Construction of the 12 floor Postmodern style building, 250 Delaware Avenue, which has a floor area of 30843.8 square metres began in January 2014.</lex>
+      <lex comment="good" lid="Id3">First begun to be built in January 2014, the postmodernist art 250 Delaware Avenue has 12 floors and a total floor area of 30843.8 square metres.</lex>
     </entry>
     <entry category="Building" eid="Id5" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -190,8 +190,8 @@
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tudor and Jacabian">Construction began in 1927 and finished in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style.</lex>
-      <lex comment="good" lid="Id2" error_1="Tudor and Jacabian">The Tudor and Jacobean styled Adisham Hall was built in Sri Lanka between 1927 and 1931.</lex>
+      <lex comment="good" lid="Id1">Construction began in 1927 and finished in 1931 of Adisham Hall in Sri Lanka and was in the Tudor and Jacobean style.</lex>
+      <lex comment="good" lid="Id2">The Tudor and Jacobean styled Adisham Hall was built in Sri Lanka between 1927 and 1931.</lex>
       <lex comment="good" lid="Id3">Adisham Hall began in 1927 and completed in 1931. It has a Tudor and Jacabian style and is located in Sri Lanka.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -230,9 +230,9 @@
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
         <mtriple>Adisham_Hall | buildingStartDate | "1927"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tudor Revival architecture">Construction of Adisham Hall in Sri Lanka began in 1927 and ended in 1931. It was built in the Tudor Revival architectural style.</lex>
-      <lex comment="good" lid="Id2" error_1="Tudor Revival architecture">Adisham Hall, Sri Lanka, was started in 1927 and completed in 1931. It has the Tudor Revival style.</lex>
-      <lex comment="good" lid="Id3" error_1="Tudor Revival architecture">Designed in the Tudor Revival architectural style, Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1931.</lex>
+      <lex comment="good" lid="Id1">Construction of Adisham Hall in Sri Lanka began in 1927 and ended in 1931. It was built in the Tudor Revival architectural style.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall, Sri Lanka, was started in 1927 and completed in 1931. It has the Tudor Revival style.</lex>
+      <lex comment="good" lid="Id3">Designed in the Tudor Revival architectural style, Adisham Hall is located in Sri Lanka and was built in 1927 and completed in 1931.</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
       <originaltripleset>
@@ -444,7 +444,7 @@
         <mtriple>John_Madin | hometown | Birmingham</mtriple>
         <mtriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="B postcode area">The architect John Madin was the designer of 103 Colmore Row, which is located in his home city of Birmingham. Labour politician, John Clancy is the leader of Birmingham and the city has the postal code 'B'.</lex>
+      <lex comment="good" lid="Id1">The architect John Madin was the designer of 103 Colmore Row, which is located in his home city of Birmingham. Labour politician, John Clancy is the leader of Birmingham and the city has the postal code 'B'.</lex>
       <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect, John Madin, Birmingham native. Birmingham has the postcode area 'B' and is led by Labour politician, John Clancy.</lex>
       <lex comment="good" lid="Id3">Labour politician, John Clancy is the leader of Birmingham which has the postcode area 'B' and is home town of John Madin the architect who designed 103 Colmore Row.</lex>
     </entry>
@@ -484,9 +484,9 @@
         <mtriple>United_States | leaderName | Paul_Ryan</mtriple>
         <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="President of the United States">The leader of the US is known as the President and the capital city is Washington DC. One of the country's leaders if Paul Ryan and it is the location of 250 Delaware Avenue.</lex>
+      <lex comment="good" lid="Id1">The leader of the US is known as the President and the capital city is Washington DC. One of the country's leaders if Paul Ryan and it is the location of 250 Delaware Avenue.</lex>
       <lex comment="good" lid="Id2">Paul Ryan is president of the United States and both 250 Delaware Avenue and Washington DC (the capital) are located there.</lex>
-      <lex comment="good" lid="Id3" error_1="Washington, D.C.">Paul Ryan is the leader, or President of the United States, of which Washington D.C. is the capital. 250 Delaware Avenue is part of the United States.</lex>
+      <lex comment="good" lid="Id3">Paul Ryan is the leader, or President of the United States, of which Washington D.C. is the capital. 250 Delaware Avenue is part of the United States.</lex>
     </entry>
   </entries>
 </benchmark>

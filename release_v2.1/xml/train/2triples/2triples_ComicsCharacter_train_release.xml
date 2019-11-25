@@ -199,9 +199,9 @@
         <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
         <mtriple>René_Goscinny | nationality | French_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="French people">The creator of Asterix, a comics character, is René Goscinny, who is French.</lex>
-      <lex comment="good" lid="Id2" error_1="French people">Asterix was created by Rene Goscinny, who is a frenchman.</lex>
-      <lex comment="good" lid="Id3" error_1="French people">Rene Goscinny is a French national and also the creator of the comic character Asterix.</lex>
+      <lex comment="good" lid="Id1">The creator of Asterix, a comics character, is René Goscinny, who is French.</lex>
+      <lex comment="good" lid="Id2">Asterix was created by Rene Goscinny, who is a frenchman.</lex>
+      <lex comment="good" lid="Id3">Rene Goscinny is a French national and also the creator of the comic character Asterix.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

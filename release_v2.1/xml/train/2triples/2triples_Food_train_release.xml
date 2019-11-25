@@ -77,7 +77,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Almond is an ingredient of ajoblanco which is a dish from Spain.</lex>
       <lex comment="good" lid="Id2">Ajoblanco, originating from the country of Spain, has almonds as one of its ingredients.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">Almond is an ingredient in the Spanish dish ajoblanco.</lex>
+      <lex comment="good" lid="Id3">Almond is an ingredient in the Spanish dish ajoblanco.</lex>
     </entry>
     <entry category="Food" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -292,7 +292,7 @@
         <mtriple>Amatriciana_sauce | dishVariation | "Onion, garlic, black pepper, chili"</mtriple>
         <mtriple>Amatriciana_sauce | dishVariation | Garlic</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Onion, garlic, black pepper, chili">A variant of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
+      <lex comment="good" lid="Id1">A variant of amatriciana sauce contains onion, garlic, black pepper and chilli.</lex>
       <lex comment="good" lid="Id2">one Amatriciana sauce variation is onion, garlic, black pepper and chili- sometimes garlic is added.</lex>
       <lex comment="good" lid="Id3">Variations of Amatriciana sauce includes onion, garlic, black pepper, and chili.</lex>
     </entry>
@@ -384,7 +384,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem arem originates from the country of Indonesia which has the currency of the Indonesian rupiah.</lex>
       <lex comment="good" lid="Id2">Indonesia commonly serves Arem-arem and its currency is the Indonesian Rupiah.</lex>
-      <lex comment="good" lid="Id3" error_1="Indonesian rupiah">Arem-arem is a food found in Indonesia, the currency there is the rupiah.</lex>
+      <lex comment="good" lid="Id3">Arem-arem is a food found in Indonesia, the currency there is the rupiah.</lex>
     </entry>
     <entry category="Food" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -397,7 +397,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arem arem originates from the country of Indonesia where the Indonesian language is spoken.</lex>
       <lex comment="good" lid="Id2">The country of Indonesia, where Indonesian is spoken, commonly serves Arem-arem.</lex>
-      <lex comment="good" lid="Id3" error_1="Indonesian language">Arem-arem is a food found in Indonesia, where the language spoken bears the name of the country.</lex>
+      <lex comment="good" lid="Id3">Arem-arem is a food found in Indonesia, where the language spoken bears the name of the country.</lex>
     </entry>
     <entry category="Food" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -471,9 +471,9 @@
         <mtriple>Arem-arem | region | Indonesia</mtriple>
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Arem arem is a dish comprised of compressed rice, cooked in banana leaves and filled with vegetables or meat. It is an Indonesian recipe.</lex>
+      <lex comment="good" lid="Id1">Arem arem is a dish comprised of compressed rice, cooked in banana leaves and filled with vegetables or meat. It is an Indonesian recipe.</lex>
       <lex comment="good" lid="Id2">To make an Arem-Arem you need compressed rice cooked in banana leaf with vegetables or minced meat fillings and this meal originates from Indonesia.</lex>
-      <lex comment="good" lid="Id3" error_1="compressed rice cooked in banana leaf with vegetables or minced meat fillings">Indonesian dish Arem Arem includes the filling compressed rice (cooked in a banana leaf) with vegetables or minced meat.</lex>
+      <lex comment="good" lid="Id3">Indonesian dish Arem Arem includes the filling compressed rice (cooked in a banana leaf) with vegetables or minced meat.</lex>
     </entry>
     <entry category="Food" eid="Id37" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -655,8 +655,8 @@
         <mtriple>Arròs_negre | ingredient | Cubanelle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Arròs negre is a traditional dish from Spain, Cubanelle is an ingredient.</lex>
-      <lex comment="good" lid="Id2" error_1="Spain">Cubanelle is an ingredient in the Spanish dish of Arros negre.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">Arros negre is a traditional Spanish dish made with Cubanelle.</lex>
+      <lex comment="good" lid="Id2">Cubanelle is an ingredient in the Spanish dish of Arros negre.</lex>
+      <lex comment="good" lid="Id3">Arros negre is a traditional Spanish dish made with Cubanelle.</lex>
     </entry>
     <entry category="Food" eid="Id50" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -929,8 +929,8 @@
         <mtriple>Asam_pedas | country | Malaysia</mtriple>
         <mtriple>Malaysia | ethnicGroup | Malaysian_Malay</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Malaysian Malay">Asam pedas is a food found in Malaysia, a country that has Malay people as an ethnic group.</lex>
-      <lex comment="good" lid="Id2" error_1="Malaysian Malay">Asam pedas is a food found in Malaysia where the Malay are an ethnic group.</lex>
+      <lex comment="good" lid="Id1">Asam pedas is a food found in Malaysia, a country that has Malay people as an ethnic group.</lex>
+      <lex comment="good" lid="Id2">Asam pedas is a food found in Malaysia where the Malay are an ethnic group.</lex>
       <lex comment="good" lid="Id3">Malaysian Malay is an ethnic group in Malaysia and Asam pedas is a food that can be found there.</lex>
     </entry>
     <entry category="Food" eid="Id71" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -1623,9 +1623,9 @@
         <mtriple>Baked_Alaska | country | "France, United States or China"</mtriple>
         <mtriple>Baked_Alaska | ingredient | Meringue</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="France, United States or China">Meringue is found in Baked Alaska which France, USA and China claim to have invented.</lex>
+      <lex comment="good" lid="Id1">Meringue is found in Baked Alaska which France, USA and China claim to have invented.</lex>
       <lex comment="good" lid="Id2">Baked Alaska is thought to have originated in the United States, France or China and has meringue as an ingredient.</lex>
-      <lex comment="good" lid="Id3" error_1="France, United States or China">Baked Alaska with meringue is from France, the US and China.</lex>
+      <lex comment="good" lid="Id3">Baked Alaska with meringue is from France, the US and China.</lex>
     </entry>
     <entry category="Food" eid="Id125" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1637,7 +1637,7 @@
         <mtriple>Baked_Alaska | ingredient | Sponge_cake</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Sponge cake is an ingredient in baked alaska which is said to come from either France, United States or China.</lex>
-      <lex comment="good" lid="Id2" error_1="France, United States or China">France, United States and China all claim to have invented Baked Alaska, which is made from sponge cake.</lex>
+      <lex comment="good" lid="Id2">France, United States and China all claim to have invented Baked Alaska, which is made from sponge cake.</lex>
     </entry>
     <entry category="Food" eid="Id126" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2274,7 +2274,7 @@
         <mtriple>Barny_Cakes | fat | 4.8 g</mtriple>
         <mtriple>Barny_Cakes | carbohydrate | 18.0 g</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Barny Cakes">Barney cakes contain 4.8g of fat and 18g of carbs.</lex>
+      <lex comment="good" lid="Id1">Barney cakes contain 4.8g of fat and 18g of carbs.</lex>
       <lex comment="good" lid="Id2">Barny Cakes contain 4.8g of fat and 18.0g of carbohydrates.</lex>
       <lex comment="good" lid="Id3">Barny cakes contain 4.8 g of fat and have 18 g of carbohydrates.</lex>
     </entry>
@@ -2341,7 +2341,7 @@
         <mtriple>Batagor | country | Indonesia</mtriple>
         <mtriple>Batagor | mainIngredients | "fried fish dumpling with tofu and vegetables in peanut sauce"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="fried fish dumpling with tofu and vegetables in peanut sauce">Batagor has these main ingredients: fried fish dumplings, tofu and vegetables in peanut sauce and comes from Indonesia.</lex>
+      <lex comment="good" lid="Id1">Batagor has these main ingredients: fried fish dumplings, tofu and vegetables in peanut sauce and comes from Indonesia.</lex>
       <lex comment="good" lid="Id2">A batagor is a fried fish dumpling with tofu and vegetables in peanut sauce and can be found in Indonesia.</lex>
       <lex comment="good" lid="Id3">Batagor ingredients are fried fish dumpling with tofu and vegetables in peanut sauce and it is found in Indonesia.</lex>
     </entry>
@@ -3098,7 +3098,7 @@
         <mtriple>Bionico | country | Mexico</mtriple>
         <mtriple>Bionico | ingredient | Condensed_milk</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexico">Condensed milk is an ingredient found in the Mexican food of Bionico.</lex>
+      <lex comment="good" lid="Id1">Condensed milk is an ingredient found in the Mexican food of Bionico.</lex>
       <lex comment="good" lid="Id2">Condensed milk is used in Bionico which is found in Mexico.</lex>
       <lex comment="good" lid="Id3">Condensed milk is an ingredient of Bionico, which is a food found in Mexico.</lex>
     </entry>
@@ -3112,7 +3112,7 @@
         <mtriple>Bionico | ingredient | Granola</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Granola is an ingredient of Bionico which is a food found in Mexico.</lex>
-      <lex comment="good" lid="Id2" error_1="Mexico">Bionico requires granola as one of its ingredients and is a Mexican food.</lex>
+      <lex comment="good" lid="Id2">Bionico requires granola as one of its ingredients and is a Mexican food.</lex>
     </entry>
     <entry category="Food" eid="Id234" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3136,7 +3136,7 @@
         <mtriple>Bionico | country | Mexico</mtriple>
         <mtriple>Bionico | ingredient | Sour_cream</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexico">Sour cream is an ingredient used in the preparation of Bionico which is a Mexican food dish.</lex>
+      <lex comment="good" lid="Id1">Sour cream is an ingredient used in the preparation of Bionico which is a Mexican food dish.</lex>
       <lex comment="good" lid="Id2">Sour cream is an ingredient of Bionico, a food found in Mexico.</lex>
       <lex comment="good" lid="Id3">Bionico is a food found in Mexico, it includes sour cream.</lex>
     </entry>
@@ -3462,7 +3462,7 @@
         <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
         <mtriple>Batchoy | country | Philippines</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Zamboangans">Batchoy is from The Philippines, which includes the Zamboangan people.</lex>
+      <lex comment="good" lid="Id1">Batchoy is from The Philippines, which includes the Zamboangan people.</lex>
       <lex comment="good" lid="Id2">Zamboangans are a group in the Philippines where Batchoy is eaten.</lex>
     </entry>
     <entry category="Food" eid="Id261" shape="(X (X (X)))" shape_type="chain" size="2">

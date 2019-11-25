@@ -138,7 +138,7 @@
         <mtriple>N._R._Pogson | birthPlace | Nottingham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Nottingham born, N.R. Pogson (who died in Chennai), discovered 107 Camilla, which has a periapsis of 479343000.0 kilometres.</lex>
-      <lex comment="good" lid="Id2" error_1="479343000.0 (kilometres)">N.R. Pogson discovered 107 Camilla which has a periapsis of 479,343,000 kilometres. Pogson was born in Nottingham and died in Chennai.</lex>
+      <lex comment="good" lid="Id2">N.R. Pogson discovered 107 Camilla which has a periapsis of 479,343,000 kilometres. Pogson was born in Nottingham and died in Chennai.</lex>
       <lex comment="good" lid="Id3">107 Camilla was discovered by N.R. Pogson who was born in Nottingham. He died in Chennai. The periapsis of 107 Camilla is 479343000.0 (kilometres).</lex>
     </entry>
     <entry category="CelestialBody" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

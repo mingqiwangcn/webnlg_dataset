@@ -28,7 +28,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The A-Rosa Luna is 125800.0 millimetres in length and classed as a cruise ship.</lex>
-      <lex comment="good" lid="Id2" error_1="125800.0 (millimetres)">The A-Rosa Luna which is 125.8 metres long, is classed as a Cruise ship.</lex>
+      <lex comment="good" lid="Id2">The A-Rosa Luna which is 125.8 metres long, is classed as a Cruise ship.</lex>
       <lex comment="good" lid="Id3">The A-Rosa Luna cruise ship is 125800.0 millimetres in length.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -57,7 +57,7 @@
         <mtriple>AIDAstella | christeningDate | 2013-03-16</mtriple>
         <mtriple>AIDAstella | length | 253260.0 (millimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="253260.0 (millimetres)">The AIDAstella is 253.26m long and was launched March 16th 2013.</lex>
+      <lex comment="good" lid="Id1">The AIDAstella is 253.26m long and was launched March 16th 2013.</lex>
       <lex comment="good" lid="Id2">The AIDAstella was christened on the 16th of March, 2013 and is 253260.0 millimetres long.</lex>
       <lex comment="good" lid="Id3">AIDAstella is 253260.0 millimetres in length and was christened on 2013-03-16.</lex>
     </entry>
@@ -283,9 +283,9 @@
         <mtriple>Alvis_Speed_25 | transmission | "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle"</mtriple>
         <mtriple>Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">The Alvis Speed 25 has a 4387.00 cc engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
-      <lex comment="good" lid="Id2" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">The Alvis Speed 25 has an engine of 4387 cubic centimeters and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
-      <lex comment="good" lid="Id3" error_1="single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle">The Alvis Speed 25, which has a 4387.0 cubic centimetres engine, has a transmission system that comprises of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id1">The Alvis Speed 25 has a 4387.00 cc engine and an impressive transmission coined as "single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle".</lex>
+      <lex comment="good" lid="Id2">The Alvis Speed 25 has an engine of 4387 cubic centimeters and a transmission system comprising a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
+      <lex comment="good" lid="Id3">The Alvis Speed 25, which has a 4387.0 cubic centimetres engine, has a transmission system that comprises of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints and spiral bevel fully floating back axle.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -339,7 +339,7 @@
         <mtriple>Ariane_5 | manufacturer | Airbus_Defence_and_Space</mtriple>
         <mtriple>Airbus_Defence_and_Space | parentCompany | Airbus_Group</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Airbus Defence and Space">Airbus Group is the parent company of Airbus Defence &amp; Space; where Ariane 5 was manufactured.</lex>
+      <lex comment="good" lid="Id1">Airbus Group is the parent company of Airbus Defence &amp; Space; where Ariane 5 was manufactured.</lex>
       <lex comment="good" lid="Id2">The Airbus Group is the parent company of Airbus Defence and Space who manufactured the Ariane 5.</lex>
       <lex comment="good" lid="Id3">The Airbus Defence and Space, whose parent company is Airbus Group, made the Ariane 5.</lex>
     </entry>

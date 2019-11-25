@@ -267,7 +267,7 @@
         <mtriple>Abdul_Taib_Mahmud | party | "Barisan Ra'ayat Jati Sarawak"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdul Taib Mahmud who is a member of Barisan Ra'ayat Jati Sarawak party, was born in the Kingdom of Sarawak.</lex>
-      <lex comment="good" lid="Id2" error_1="Kingdom of Sarawak">Abdul Taib Mahmud, who was born in Sarawak, is a member of Barisan Ra'ayat Jati Sarawak Party.</lex>
+      <lex comment="good" lid="Id2">Abdul Taib Mahmud, who was born in Sarawak, is a member of Barisan Ra'ayat Jati Sarawak Party.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud, was born in the Kingdom of Sarawak, and is a member of the "Barisan Ra'ayat Jati Sarawak" party.</lex>
     </entry>
     <entry category="Politician" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -292,7 +292,7 @@
         <mtriple>Abdul_Taib_Mahmud | birthPlace | Kingdom_of_Sarawak</mtriple>
         <mtriple>Abdul_Taib_Mahmud | residence | "Demak Jaya, Jalan Bako, Kuching, Sarawak"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Kingdom of Sarawak">Abdul Taib Mahmud was born in Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
+      <lex comment="good" lid="Id1">Abdul Taib Mahmud was born in Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
       <lex comment="good" lid="Id2">Abdul Taib Mahmud's birthplace was Kingdom of Sarawak and he resided in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
       <lex comment="good" lid="Id3">Abdul Taib Mahmud was born in the Kingdom of Sarawak and lives in Demak Jaya, Jalan Bako, Kuching, Sarawak.</lex>
     </entry>
@@ -423,7 +423,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Japanese occupation of British Borneo was the birthplace of Adenan Satem who succeeded Abdul Taib Mahmud.</lex>
       <lex comment="good" lid="Id2">Adenan Satem was born in the Japanese Occupation of British Borneo and succeeded Abdul Taib Mahmud.</lex>
-      <lex comment="good" lid="Id3" error_1="Japanese occupation of British Borneo">Adenan Satem, born in British Borneo during the Japanese occupation, succeeded Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id3">Adenan Satem, born in British Borneo during the Japanese occupation, succeeded Abdul Taib Mahmud.</lex>
     </entry>
     <entry category="Politician" eid="Id33" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -452,7 +452,7 @@
         <mtriple>Nigeria | leaderName | Yemi_Osinbajo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdulsalami Abubakar lives in Nigeria, where the leader is Yemi Osinbajo.</lex>
-      <lex comment="good" lid="Id2" error_1="Nigeria">Abdulsalami Abubakar is from Nig where Yemi Osinbajo is the leader.</lex>
+      <lex comment="good" lid="Id2">Abdulsalami Abubakar is from Nig where Yemi Osinbajo is the leader.</lex>
       <lex comment="good" lid="Id3">Abdulsalami Abubakar's comes from Nigeria whose leader is called Yemi Osinbajo.</lex>
     </entry>
     <entry category="Politician" eid="Id35" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -683,7 +683,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero (b Spain) served during the reign of King Juan Carlos 1 of Spain.</lex>
       <lex comment="good" lid="Id2">Spanish born Abel Caballero was in office during the reign of Juan Carlos I of Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Juan Carlos I of Spain" error_2="Spain">Spanish born Abel Caballero was in office during the reign of Monarch, Juan Carlos I.</lex>
+      <lex comment="good" lid="Id3">Spanish born Abel Caballero was in office during the reign of Monarch, Juan Carlos I.</lex>
     </entry>
     <entry category="Politician" eid="Id52" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -732,7 +732,7 @@
         <mtriple>Juan_Carlos_I_of_Spain | spouse | Queen_Sofía_of_Spain</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abel Caballero was in office whilst Juan Carlos I of Spain was Monarch, the wife of which, is Queen Sofia of Spain.</lex>
-      <lex comment="good" lid="Id2" error_1="Queen Sofia of Spain">Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, whose wife is Queen Sofia.</lex>
+      <lex comment="good" lid="Id2">Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, whose wife is Queen Sofia.</lex>
     </entry>
     <entry category="Politician" eid="Id56" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -864,7 +864,7 @@
         <mtriple>Abner_W._Sibal | successor | Marjorie_Farmer</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W. Sibal worked as a member of the Connecticut Senate from the 26th District, he was succeeded by Marjorie Farmer.</lex>
-      <lex comment="good" lid="Id2" error_1="Member of the Connecticut Senate from the 26th District">Abner W. Sibal of Connecticut Senate, District 26, was succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id2">Abner W. Sibal of Connecticut Senate, District 26, was succeeded by Marjorie Farmer.</lex>
       <lex comment="good" lid="Id3">Abner W. Sibal, a member of the Connecticut Senate from the 26th District, was succeeded by Marjorie Farmer.</lex>
     </entry>
     <entry category="Politician" eid="Id65" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -935,8 +935,8 @@
         <mtriple>Abraham_A._Ribicoff | deathPlace | "New York City, New York, U.S."</mtriple>
         <mtriple>Abraham_A._Ribicoff | birthPlace | Connecticut</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="New York City, New York, U.S.">Abraham A. Ribicoff's birthplace was Connecticut. He died in New York City, New York in the U.S.</lex>
-      <lex comment="good" lid="Id2" error_1="New York City, New York, U.S.">Abraham A. Ribicoff, born in Connecticut, died in New York City, N.Y., U.S.</lex>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff's birthplace was Connecticut. He died in New York City, New York in the U.S.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff, born in Connecticut, died in New York City, N.Y., U.S.</lex>
       <lex comment="good" lid="Id3">Abraham A. Ribicoff died in New York City, New York, U.S. and he was born in Connecticut.</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1031,7 +1031,7 @@
         <mtriple>Abraham_A._Ribicoff | party | Democratic_Party_(United_States)</mtriple>
         <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American">Abraham A. Ribicoff is from the United States and is a member of the Democratic Party in the U.S.A.</lex>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff is from the United States and is a member of the Democratic Party in the U.S.A.</lex>
       <lex comment="good" lid="Id2">American, Abraham A. Ribicoff, is a member of the Democratic Party in the U.S.A.</lex>
       <lex comment="good" lid="Id3">American, Abraham A. Ribicoff, was a member of the Democratic Party in the United States.</lex>
     </entry>
@@ -1323,7 +1323,7 @@
         <mtriple>Adam_Koc | award | Cross_of_Independence</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc battled in World War I. He won the Cross of Independence award.</lex>
-      <lex comment="good" lid="Id2" error_1="World War I">Adam Koc fought in WWI and was awarded the Cross of Independence.</lex>
+      <lex comment="good" lid="Id2">Adam Koc fought in WWI and was awarded the Cross of Independence.</lex>
       <lex comment="good" lid="Id3">Adam Koc fought in World War 1 and was awarded the Cross of Independence.</lex>
     </entry>
     <entry category="Politician" eid="Id99" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1335,7 +1335,7 @@
         <mtriple>Adam_Koc | battles | World_War_I</mtriple>
         <mtriple>Adam_Koc | award | Cross_of_Valour_(Poland)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="World War I">Adam Koc, who fought in WWI was awarded the Cross of Valour (Poland).</lex>
+      <lex comment="good" lid="Id1">Adam Koc, who fought in WWI was awarded the Cross of Valour (Poland).</lex>
       <lex comment="good" lid="Id2">Adam Koc fought in World War I and was awarded the Cross of Valour for Poland.</lex>
       <lex comment="good" lid="Id3">Adam Koc fought in World War 1 and was awarded the Polish Cross of Valour.</lex>
     </entry>
@@ -1348,8 +1348,8 @@
         <mtriple>Adam_Koc | battles | World_War_I</mtriple>
         <mtriple>Adam_Koc | award | Legion_of_Honour</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="World War I">Adam Koc fought in WWI and won the Legion of Honour award.</lex>
-      <lex comment="good" lid="Id2" error_1="World War I">Adam Koc fought in WWI and he was awarded the Legion of Honour.</lex>
+      <lex comment="good" lid="Id1">Adam Koc fought in WWI and won the Legion of Honour award.</lex>
+      <lex comment="good" lid="Id2">Adam Koc fought in WWI and he was awarded the Legion of Honour.</lex>
       <lex comment="good" lid="Id3">Adam Koc, who fought in World War I, won the Legion of Honour award.</lex>
     </entry>
     <entry category="Politician" eid="Id101" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -1361,7 +1361,7 @@
         <mtriple>Adam_Koc | battles | World_War_I</mtriple>
         <mtriple>Adam_Koc | award | Order_of_Polonia_Restituta</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="World War I">Adam Koc, fought in WWI, was awarded the Order of Polonia Restituta.</lex>
+      <lex comment="good" lid="Id1">Adam Koc, fought in WWI, was awarded the Order of Polonia Restituta.</lex>
       <lex comment="good" lid="Id2">Adam Koc was awarded the Order of Polonia Restituta after his efforts in World War One.</lex>
       <lex comment="good" lid="Id3">Adam Koc, who fought in World War I was awarded the Order of Polonia Restituta.</lex>
     </entry>
@@ -1452,7 +1452,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis birthplace was in Greece where he was a member of the New Democracy party.</lex>
       <lex comment="good" lid="Id2">Adonis Georgiadis was born in Greece and is a member of the Greek New Democracy Party.</lex>
-      <lex comment="good" lid="Id3" error_1="New Democracy (Greece)">Adonis Georgiadis, member of the Greek New Democratic Party, was born in Greece.</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis, member of the Greek New Democratic Party, was born in Greece.</lex>
     </entry>
     <entry category="Politician" eid="Id109" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -1609,7 +1609,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant is from the Netherlands, where their currency is the Euro.</lex>
       <lex comment="good" lid="Id2">The nationality of Agnes Kant is the Netherlands, where the Euro is the currency.</lex>
-      <lex comment="good" lid="Id3" error_1="Netherlands">Agnes Kant has Dutch nationality, where the euro is the currency.</lex>
+      <lex comment="good" lid="Id3">Agnes Kant has Dutch nationality, where the euro is the currency.</lex>
     </entry>
     <entry category="Politician" eid="Id120" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1639,7 +1639,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant was born in Hessisch Oldendorf and worked as a member of the House of Representatives.</lex>
       <lex comment="good" lid="Id2">Agnes Kant, born in Hessisch Oldendorf, was a Member of the House of Representatives.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the House of Representatives">House of Representatives member, Agnes Kant, was born in Hessisch Oldendorf.</lex>
+      <lex comment="good" lid="Id3">House of Representatives member, Agnes Kant, was born in Hessisch Oldendorf.</lex>
     </entry>
     <entry category="Politician" eid="Id122" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2031,7 +2031,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B White was succeeded by William M O Dawson, who is a member of the United States Republican party.</lex>
       <lex comment="good" lid="Id2">Albert B. White's successor was William M. O. Dawson, a member of the United States Republican Party.</lex>
-      <lex comment="good" lid="Id3" error_1="Republican Party (United States)">Albert B White was succeeded by Republican William M O Dawson.</lex>
+      <lex comment="good" lid="Id3">Albert B White was succeeded by Republican William M O Dawson.</lex>
     </entry>
     <entry category="Politician" eid="Id151" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2267,7 +2267,7 @@
         <mtriple>Argentina | officialLanguage | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire is from Argentina, where the official language is, Spanish.</lex>
-      <lex comment="good" lid="Id2" error_1="Argentina">Alberto Teisaire is Argentinian where Spanish is the official language.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire is Argentinian where Spanish is the official language.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire is a national of Argentina, where Spanish, is the official language.</lex>
     </entry>
     <entry category="Politician" eid="Id169" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2284,7 +2284,7 @@
         <mtriple>Alberto_Teisaire | birthPlace | Mendoza,_Argentina</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire, born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate.</lex>
-      <lex comment="good" lid="Id2" error_1="Provisional President of the Argentine Senate">Alberto Teisaire, born in Mendoza, Argentina, was the Provisional President of the Argentina Senate.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire, born in Mendoza, Argentina, was the Provisional President of the Argentina Senate.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire, was born in Mendoza in Argentina and worked as the Provisional President of the Argentine Senate.</lex>
     </entry>
     <entry category="Politician" eid="Id170" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2389,7 +2389,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Austria</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="County of Tyrol">Alfons Gorbach was born in Tyrol, in Austria.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach was born in Tyrol, in Austria.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in the county of Tyrol, which is located in Austria.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in County of Tyrol, Austria-Hungary.</lex>
     </entry>
@@ -2402,7 +2402,7 @@
         <mtriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="County of Tyrol">Alfons Gorbach was born in Imst, in Tyrol.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach was born in Imst, in Tyrol.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
       <lex comment="good" lid="Id3">Alfons Gorbach was born in Imst in the County of Tyrol.</lex>
     </entry>
@@ -2451,7 +2451,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolf Scharf, born in Austria-Hungary, was president while Alfons Gorbach was in office.</lex>
       <lex comment="good" lid="Id2">Adolf Schärf, was born in Austria-Hungary and was President at the same time Alfons Gorbach was in office.</lex>
-      <lex comment="good" lid="Id3" error_1="Austria-Hungary">Alfons Gorbach was in office during Austrian-Hungarian born, President Adolf Schärf's reign.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach was in office during Austrian-Hungarian born, President Adolf Schärf's reign.</lex>
     </entry>
     <entry category="Politician" eid="Id182" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2690,7 +2690,7 @@
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips, born in Darien, Connecticut, was a Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
-      <lex comment="good" lid="Id2" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">Alfred N. Phillips birthplace was Darien Connecticut. He was also part of the U.S. House of Representatives from Connecticut's 4th district.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips birthplace was Darien Connecticut. He was also part of the U.S. House of Representatives from Connecticut's 4th district.</lex>
       <lex comment="good" lid="Id3">Darien, Connecticut is the birthplace of Alfred N. Phillips, who worked as Member of the U.S. House of Representatives from Connecticut's 4th district.</lex>
     </entry>
     <entry category="Politician" eid="Id199" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2716,7 +2716,7 @@
         <mtriple>United_States_Army | battles | American_Revolutionary_War</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips was a member of the US Army which fought in the American Revolutionary War.</lex>
-      <lex comment="good" lid="Id2" error_1="American Revolutionary War">Alfred N. Phillips was a member of the US Army who was a participant in the Revolutionary War.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips was a member of the US Army who was a participant in the Revolutionary War.</lex>
     </entry>
     <entry category="Politician" eid="Id201" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2794,9 +2794,9 @@
         <mtriple>Allan_Shivers | birthPlace | Lufkin,_Texas</mtriple>
         <mtriple>Allan_Shivers | office (workedAt, workedAs) | "Lieutenant Governor of Texas"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lieutenant Governor of Texas">Allan Shivers was born in Lufkin Texas, where he was Lieutenant Governor.</lex>
+      <lex comment="good" lid="Id1">Allan Shivers was born in Lufkin Texas, where he was Lieutenant Governor.</lex>
       <lex comment="good" lid="Id2">Allan Shivers, who wsa born in Lufkin, Texas, was Lieutenant Governor of Texas.</lex>
-      <lex comment="good" lid="Id3" error_1="Lieutenant Governor of Texas">Allan Shivers was born in Lufkin, Texas where he was Lieutenant Governor.</lex>
+      <lex comment="good" lid="Id3">Allan Shivers was born in Lufkin, Texas where he was Lieutenant Governor.</lex>
     </entry>
     <entry category="Politician" eid="Id207" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -3259,7 +3259,7 @@
         <mtriple>Poland | ethnicGroup | Romani_people</mtriple>
         <mtriple>Adam_Koc | nationality | Poland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Romani people">Adam Koc's nationality is Poland, where one of the ethnic groups, is Romani.</lex>
+      <lex comment="good" lid="Id1">Adam Koc's nationality is Poland, where one of the ethnic groups, is Romani.</lex>
       <lex comment="good" lid="Id2">The Romani people are an ethnic group in Poland, the country of which Adam Koc is a national.</lex>
     </entry>
     <entry category="Politician" eid="Id242" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -3271,7 +3271,7 @@
         <mtriple>Poland | language | Kashubian_language</mtriple>
         <mtriple>Adam_Koc | nationality | Poland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Poland">Adam Koc is a Polish national where the Kashubian language is spoken.</lex>
+      <lex comment="good" lid="Id1">Adam Koc is a Polish national where the Kashubian language is spoken.</lex>
       <lex comment="good" lid="Id2">Adam Koc is a national of Poland where the Kashubian language is spoken.</lex>
       <lex comment="good" lid="Id3">Adam Koc is a national of Poland, where the Kashubian language is spoken.</lex>
     </entry>

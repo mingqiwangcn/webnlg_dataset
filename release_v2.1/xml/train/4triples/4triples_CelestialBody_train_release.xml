@@ -169,7 +169,7 @@
         <mtriple>(15788)_1993_SB | epoch | 2006-03-06</mtriple>
         <mtriple>(15788)_1993_SB | discoverer | Alan_Fitzsimmons</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3997100000000.0" error_2="7729430000.0">15788 1993 SB, which was discovered by Alan Fitzsimmons, has an epoch of March 6th, 2006. It has an orbital period of 7,729,430,000 and a periapsis of 3,997,100,000,000.</lex>
+      <lex comment="good" lid="Id1">15788 1993 SB, which was discovered by Alan Fitzsimmons, has an epoch of March 6th, 2006. It has an orbital period of 7,729,430,000 and a periapsis of 3,997,100,000,000.</lex>
       <lex comment="good" lid="Id2">(15788) 1993 SB was discovered by Alan Fitzsimmons and has an epoch date of 6th March 2006. The orbital period is 7729430000 and the periapsis measurement is 3997100000000.0.</lex>
       <lex comment="good" lid="Id3">The orbital period of 15788 1993 SB is 7729430000.0 and it was discovered by Alan Fitzsimmons. The epoch date is 6 Marcy 2006 and it has a periapsis of 3997100000000.</lex>
     </entry>
@@ -421,7 +421,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">410777) 2009 FD was discovered by Spacewatch and has a mass of 8.3 kgs. Its orbital period is 39447000.0 and its periapsis is 88234300000.0.</lex>
       <lex comment="good" lid="Id2">Spacewatch discovered The celestial body known as (410777) 2009 FD, which has an orbital period of 39447000. It also has a periapsis of 88234300000.0 and it has a mass of 8.3 kilograms.</lex>
-      <lex comment="good" lid="Id3" error_1="39447000.0" error_2="88234300000.0">410777 2009 FD was discovered by Spacewatch. It has mass of 8.3 kilograms, an orbital period of 39,447,000 and a periapsis of 88,234,300,000.</lex>
+      <lex comment="good" lid="Id3">410777 2009 FD was discovered by Spacewatch. It has mass of 8.3 kilograms, an orbital period of 39,447,000 and a periapsis of 88,234,300,000.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1353,9 +1353,9 @@
         <mtriple>Walter_Baade | birthPlace | German_Empire</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">Walter Baade, who discovered 1036 Ganymed, was a German National, being born in the German Empire and graduating from the University of Gottingen.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany">German national, Walter Baade, discovered 1036 Ganymed and studied at the University of Gottingen. He was born in the German Empire.</lex>
-      <lex comment="good" lid="Id3" error_1="Germany">German national Walter Baade discovered 1036 Ganymed. He was born in the German Empire and studied at the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1">Walter Baade, who discovered 1036 Ganymed, was a German National, being born in the German Empire and graduating from the University of Gottingen.</lex>
+      <lex comment="good" lid="Id2">German national, Walter Baade, discovered 1036 Ganymed and studied at the University of Gottingen. He was born in the German Empire.</lex>
+      <lex comment="good" lid="Id3">German national Walter Baade discovered 1036 Ganymed. He was born in the German Empire and studied at the University of Gottingen.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id58" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1370,9 +1370,9 @@
         <mtriple>Walter_Baade | birthPlace | Preußisch_Oldendorf</mtriple>
         <mtriple>Walter_Baade | almaMater | University_of_Göttingen</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany" error_2="Preussisch Oldendorf">The German, Walter Baade, was born in Preussish Oldendorf, discovered 1036 Ganymed and graduated from the University of Gottingen.</lex>
+      <lex comment="good" lid="Id1">The German, Walter Baade, was born in Preussish Oldendorf, discovered 1036 Ganymed and graduated from the University of Gottingen.</lex>
       <lex comment="good" lid="Id2">Born in Preußisch Oldendorf (Germany), Walter Baade, studied at the University of Gottingen and discovered, 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id3" error_1="Germany">Walter Baade was the one to discover 1036 Ganymed. His alma mater was the University of Gottingen. He is a German national born in Preussisch Oldendorf.</lex>
+      <lex comment="good" lid="Id3">Walter Baade was the one to discover 1036 Ganymed. His alma mater was the University of Gottingen. He is a German national born in Preussisch Oldendorf.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id59" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1915,7 +1915,7 @@
         <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
         <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="288749000000.0" error_2="373513000.0 (kilometres)">The epoch date of 1089 Tama is November 26th, 2005. The apoapsis of 1089 Tama, which used to be called A894 VA; A904 VD, is 373,513,000 kilometres and it has a periapsis of 288,749,000,000.</lex>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama is November 26th, 2005. The apoapsis of 1089 Tama, which used to be called A894 VA; A904 VD, is 373,513,000 kilometres and it has a periapsis of 288,749,000,000.</lex>
       <lex comment="good" lid="Id2">The epoch of 1089 Tama is 2005-11-26 and it has a periapsis of 288749000000.0. It was formerly called "A894 VA; A904 VD;" and it has an apoapsis of 373513000.0 (kilometres).</lex>
       <lex comment="good" lid="Id3">1089 Tama, formerly A894 VA; A904 VD has a 288749000000.0 periapsis and 373513000.0 km apoapis. The epoch date is November 26, 2005.</lex>
     </entry>
@@ -1961,7 +1961,7 @@
         <mtriple>1089_Tama | periapsis | 288749000000.0</mtriple>
         <mtriple>1089_Tama | apoapsis | 373513000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="288749000000.0" error_2="373513000.0 (kilometres)">The epoch date of 1089 Tama is November 26th, 2005. 1089 Tama was formerly known as A919 HA; 1927 WB and its has a periapsis of 288,749,000,000 and an apoapsis of 373,513,000 kilometres.</lex>
+      <lex comment="good" lid="Id1">The epoch date of 1089 Tama is November 26th, 2005. 1089 Tama was formerly known as A919 HA; 1927 WB and its has a periapsis of 288,749,000,000 and an apoapsis of 373,513,000 kilometres.</lex>
       <lex comment="good" lid="Id2">1089 Tama, formerly known as "A919 HA; 1927 WB;", has a periapsis of 288749000000.0 and an apoapsis of 373513000.0 kilometres. Its epoch is 26th November 2005.</lex>
       <lex comment="good" lid="Id3">1089 Tama (formerly A919 HA; 1927 WB); has a periapsis of 288749000000.0, an apoapsis of 373513000.0 kilometres and the epoch date 2005-11-26.</lex>
     </entry>
@@ -2227,7 +2227,7 @@
         <mtriple>1099_Figneria | periapsis | 349206000000.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1099 Figneria (formerly known as 1928 RQ) has an epoch date of December 31st 2006. It has an orbital period of 179942000.0 and a periapsis of 349206000000.</lex>
-      <lex comment="good" lid="Id2" error_1="179942000.0" error_2="349206000000.0">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 349,206,000,000.</lex>
+      <lex comment="good" lid="Id2">1099 Figneria has an epoch date of December 31st 2006. It was formerly known as 1928 RQ and it has an orbital period of 179,942,000 and a periapsis of 349,206,000,000.</lex>
       <lex comment="good" lid="Id3">1099 Figneria was formerly known as 1928 RQ and has an epoch date of 31 December 2006. It has an orbital period of 179942000.0 and a periapsis measurement of 349206000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id92" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2379,7 +2379,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">109 Felicitas has an epoch date of December 31st 2006 and a mass of 7.5kg. Its orbital period is 139705000.0 and its apoapsis is 523329000.0 (kilometres).</lex>
       <lex comment="good" lid="Id2">December 31, 2006 is 109 Felicitas epoch date. It has a mass of 7.5 kg, an orbital period of 139705000, and an apoapsis of 523329000 kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="139705000.0" error_2="523329000.0 (kilometres)">109 Felicitas has an epoch date of December 31st 2006 and a mass of 7.5 kilograms. Its orbital period is 139,705,000 and its apoapsis is 523,329,000 kilometres.</lex>
+      <lex comment="good" lid="Id3">109 Felicitas has an epoch date of December 31st 2006 and a mass of 7.5 kilograms. Its orbital period is 139,705,000 and its apoapsis is 523,329,000 kilometres.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2412,7 +2412,7 @@
         <mtriple>109_Felicitas | orbitalPeriod | 139705000.0</mtriple>
         <mtriple>109_Felicitas | periapsis | 283326000000.0</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="139705000.0" error_2="283326000000.0">The epoch date of 109 Felicitas is December 31st, 2006. Its mass is 7.5 kilograms while its orbital period is 139,705,000 and its periapsis is 283,326,000,000.</lex>
+      <lex comment="good" lid="Id1">The epoch date of 109 Felicitas is December 31st, 2006. Its mass is 7.5 kilograms while its orbital period is 139,705,000 and its periapsis is 283,326,000,000.</lex>
       <lex comment="good" lid="Id2">109 Felicitas has an epoch date of 31 December 2006 and a mass of 7.5 kg. The periapsis measurement is 283326000000.0. and it has an orbital period of 139705000.0.</lex>
       <lex comment="good" lid="Id3">109 Felicitas, which has a mass of 7.5kgs has the epoch date of 31 December 2006. It has an orbital period of 139705000.0 and a periapsis of 283326000000.0.</lex>
     </entry>
@@ -2586,7 +2586,7 @@
         <mtriple>10_Hygiea | escapeVelocity | 0.21 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">10 Hygiea is an asteroid with the epoch date of 27 June 2015 and an escape velocity of 0.21 km per sec. The orbital period is 5.57 days and the periapsis measurement is 416136000000.0.</lex>
-      <lex comment="good" lid="Id2" error_1="0.21 (kilometrePerSeconds)" error_2="416136000000.0">The epoch date for 10 Hygiea is June 27th, 2015. It takes 5.57 days to orbit, has an escape velocity of .21 km per seconds and its periapsis is 416,136,000,000.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 10 Hygiea is June 27th, 2015. It takes 5.57 days to orbit, has an escape velocity of .21 km per seconds and its periapsis is 416,136,000,000.</lex>
       <lex comment="good" lid="Id3">10 Hygiea has an epoch date of 27 June 2015 and an orbital period of 5.57 days. The escape velocity is 0.21 kilometres per second and the periapsis is 416136000000.0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id104" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2678,7 +2678,7 @@
         <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
         <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="183309000.0" error_2="445895000000.0" error_3="520906000.0 (kilometres)">The epoch of 1101 Clematis is December 31st, 2006. The orbital period of 1101 Clematis is 183,309,000, its periapsis of 445,895,000,000 and it has an apoapsis of 520,906,000 kilometres.</lex>
+      <lex comment="good" lid="Id1">The epoch of 1101 Clematis is December 31st, 2006. The orbital period of 1101 Clematis is 183,309,000, its periapsis of 445,895,000,000 and it has an apoapsis of 520,906,000 kilometres.</lex>
       <lex comment="good" lid="Id2">1101 Clematis, has a periapsis of 445895000000.0 and an apoapsis of 520906000.0 Kilometers. Its epoch is 31 December 2006 and it has an orbital period of 183309000.0.</lex>
       <lex comment="good" lid="Id3">The epoch of 1101 Clematis is December 31st, 2006. It has an orbital period of 183309000, its periapsis is 445895000000 and the apoapsis is 520906000 kilometres.</lex>
     </entry>
@@ -2865,7 +2865,7 @@
         <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">31 December 2006 is the epoch of 110 Lydia which has an orbital period of 142603000.0. Additionally, it has an escape velocity of 0.0455 kilometres per second and a periapsis of 377016000000.0.</lex>
-      <lex comment="good" lid="Id2" error_1="0.0455 (kilometrePerSeconds)">The epoch date for 110 Lydia is December 31, 2006 and has an escape velocity of .0455 km per sec. The orbital period is 142603000.0 and periapsis is 377016000000.0.</lex>
+      <lex comment="good" lid="Id2">The epoch date for 110 Lydia is December 31, 2006 and has an escape velocity of .0455 km per sec. The orbital period is 142603000.0 and periapsis is 377016000000.0.</lex>
       <lex comment="good" lid="Id3">110 Lydia is a celestial body with an orbital period of 142603000 and a periapsis of 377016000000.0. Its epoch is 31st December 2006 and has an escape velocity of 0.0455 kilometres per second.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id113" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

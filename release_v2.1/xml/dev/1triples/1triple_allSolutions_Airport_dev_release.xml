@@ -102,7 +102,7 @@
         <mtriple>Al-Taqaddum_Air_Base | elevationAboveTheSeaLevel_(in_metres) | 84.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al-Taqaddum Air Base is 84 metres above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="Al-Taqaddum Air Base">Al Taqaddum Air Base is 84 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Al Taqaddum Air Base is 84 metres above sea level.</lex>
       <lex comment="good" lid="Id3">The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0.</lex>
     </entry>
     <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
@@ -342,7 +342,7 @@
         <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Harrietstown, New York is part of the United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Harrietstown, New York">Harrietstown, N.Y. is part of the U.S.</lex>
+      <lex comment="good" lid="Id2">Harrietstown, N.Y. is part of the U.S.</lex>
     </entry>
     <entry category="Airport" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

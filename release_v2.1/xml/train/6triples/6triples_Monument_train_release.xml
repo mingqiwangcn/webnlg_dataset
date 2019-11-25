@@ -278,7 +278,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adams County, Pennsylvania" error_2="Cumberland County, Pennsylvania" error_3="Franklin County, Pennsylvania">The 11th Mississippi Infantry Monument was established in 2000 and it is located in Adams County, Pa. The Monument is categorised as a contributing property. To the north of Adams County is Cumberland County (Pa), to its west is Franklin County (Pa) and to its southeast is Carroll County (Maryland).</lex>
+      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument was established in 2000 and it is located in Adams County, Pa. The Monument is categorised as a contributing property. To the north of Adams County is Cumberland County (Pa), to its west is Franklin County (Pa) and to its southeast is Carroll County (Maryland).</lex>
       <lex comment="good" lid="Id2">Adams County Pennsylvania is East of Franklin County, Pennsylvania and has Carroll County, Maryland to its southeast and Cumberland County, Pennsylvania to its north. The 11th Mississippi Infantry Monument is located in Adams County and falls under the category of Contributing property. The 11th Mississippi Infantry Monument was established in 2000.</lex>
       <lex comment="good" lid="Id3">Cumberland County in Pennsylvania is situated north of Adams County which is the location of the 11th Mississippi Infantry Monument which was erected in 2000 and categorised as a contributing property. Franklin County can be found to the west and Carroll County Maryland is to the southeast.</lex>
     </entry>
@@ -301,7 +301,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Carroll County Maryland is southeast of Adams County, Pennsylvania. With Franklin County to the west, Cumberland County to the north and Frederick County to the southwest, Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania and has been established since the year 2000. To the west of Adams County lies Franklin County and to the north is Cumberland County - both also of Pennsylvania. To the southeast of Adams County lies Carroll County and to the southwest lies Frederick County, both of Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Adams County, Pennsylvania" error_2="Cumberland County, Pennsylvania" error_3="Franklin County, Pennsylvania">Adams County, PA is located to the south of Cumberland County and east of Franklin County. Carroll County, Maryland lies to the south east and Frederick County to the southwest. The 11th Mississippi Infantry monument was established in the County in 2000.</lex>
+      <lex comment="good" lid="Id3">Adams County, PA is located to the south of Cumberland County and east of Franklin County. Carroll County, Maryland lies to the south east and Frederick County to the southwest. The 11th Mississippi Infantry monument was established in the County in 2000.</lex>
     </entry>
     <entry category="Monument" eid="Id15" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -486,8 +486,8 @@
         <mtriple>England | religion | Church_of_England</mtriple>
         <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rock (geology)">England is the home of the Cornish language, many ethnic groups including the British Arabs and the established religion of The Church of England. It is also the location of Dead Mans Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
-      <lex comment="good" lid="Id2" error_1="Rock (geology)">Dead Man's Plack is a stone monument in England that is dedicated to Æthelwald, Ealdorman of East Anglia. The state religion of England is the Church of England. English ethnic group include British Arabs. In England's Cornwall region, the Cornish language is spoken.</lex>
+      <lex comment="good" lid="Id1">England is the home of the Cornish language, many ethnic groups including the British Arabs and the established religion of The Church of England. It is also the location of Dead Mans Plack, a stone monument dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="good" lid="Id2">Dead Man's Plack is a stone monument in England that is dedicated to Æthelwald, Ealdorman of East Anglia. The state religion of England is the Church of England. English ethnic group include British Arabs. In England's Cornwall region, the Cornish language is spoken.</lex>
       <lex comment="good" lid="Id3">The Dead Man's Plack (located in England) is made from rock. It is dedicated to AEthelwald, Ealdorman of East Anglia. England's religion is the Church of England and Cornish is spoken in the Cornwall region of England. British Arabs are an English ethnic group.</lex>
     </entry>
     <entry category="Monument" eid="Id24" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -569,7 +569,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | "1932-07-27"</mtriple>
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Turkey">The Turkish lira is the official currency of the country where Ahmet Davutoglu is leader. The country is the location of the memorial designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex comment="good" lid="Id1">The Turkish lira is the official currency of the country where Ahmet Davutoglu is leader. The country is the location of the memorial designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
       <lex comment="good" lid="Id2">The currency of Turkey is the Turkish lira and the leader of the country is Ahmet Davutoglu. The country is the location of the Ataturk Monument (Izmir) designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
       <lex comment="good" lid="Id3">Ahmet Davutoglu is Turkey's leader where the currency is Turkish Lira, and where Pietro Canonica designed the Ataturk Monument in Izmir from bronze, the monument was inaugurated on July 27, 1932.</lex>
     </entry>
@@ -633,7 +633,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Turkey's leader is the President, the currency is the Turkish lira and the capital city is Ankara. It is the location of the Ataturk monument which was designed by Pietro Canonica and inaugurated in Izmir on 27 July 1932.</lex>
-      <lex comment="good" lid="Id2" error_1="President of Turkey">The Ataturk Monument, which was designed by Pietro Canonica, was inaugurated on 27th July, 1932. Turkey's leader is the President, its currency is the Turkish Lira and the capital city is Ankara.</lex>
+      <lex comment="good" lid="Id2">The Ataturk Monument, which was designed by Pietro Canonica, was inaugurated on 27th July, 1932. Turkey's leader is the President, its currency is the Turkish Lira and the capital city is Ankara.</lex>
       <lex comment="good" lid="Id3">Pietro Canonica designed the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932 in Turkey. The Turkish leader is known as the President of Turkey, the currency is the Turkish lira and the capital city is Ankara.</lex>
     </entry>
     <entry category="Monument" eid="Id31" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
@@ -715,7 +715,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ataturk Monument is located in Izmir, Turkey and it is made of bronze. Turkeys leader is President Ahmet Davutoglu and its capital is Ankara. Turkey's currency is the Turkish lira.</lex>
       <lex comment="good" lid="Id2">The Atatürk Monument (İzmir), which is made of bronze, is found in Turkey, whose capital is Ankara and whose currency is the Turkish Lira. President of Turkey is the official title of the Turkish leader - his name is Ahmet Davutoglu.</lex>
-      <lex comment="good" lid="Id3" error_1="President of Turkey" error_2="Turkey">President Ahmet Davutoglu is the Turkish leader. The local currency is the Turkish lira and the capital city is Ankara, but it is in Izmir that the bronze Ataturk monument is located.</lex>
+      <lex comment="good" lid="Id3">President Ahmet Davutoglu is the Turkish leader. The local currency is the Turkish lira and the capital city is Ankara, but it is in Izmir that the bronze Ataturk monument is located.</lex>
     </entry>
     <entry category="Monument" eid="Id35" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>

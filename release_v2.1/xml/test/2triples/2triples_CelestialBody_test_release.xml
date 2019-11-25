@@ -69,8 +69,8 @@
         <mtriple>1036_Ganymed | discoverer | Walter_Baade</mtriple>
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">The German Walter Baade discovered 1036 Ganymed.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany">1036 Ganymed was discovered by Walter Baade, a German national.</lex>
+      <lex comment="good" lid="Id1">The German Walter Baade discovered 1036 Ganymed.</lex>
+      <lex comment="good" lid="Id2">1036 Ganymed was discovered by Walter Baade, a German national.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

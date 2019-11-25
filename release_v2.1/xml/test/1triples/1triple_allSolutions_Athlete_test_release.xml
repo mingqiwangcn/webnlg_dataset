@@ -46,7 +46,7 @@
         <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Maher played for the Netherlands national under-17 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Netherlands national under-17 football team">Adam Maher plays for the Netherlands National club for players under 17.</lex>
+      <lex comment="good" lid="Id2">Adam Maher plays for the Netherlands National club for players under 17.</lex>
     </entry>
     <entry category="Athlete" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -159,7 +159,7 @@
         <mtriple>Alan_Martin_(footballer) | club | Scotland_national_under-19_football_team</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin is a footballer with the Scotland national under-19 football team club.</lex>
-      <lex comment="good" lid="Id2" error_1="Scotland national under-19 football team">Alan Martin played football for the Scotland national under 19 team.</lex>
+      <lex comment="good" lid="Id2">Alan Martin played football for the Scotland national under 19 team.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -223,9 +223,9 @@
       <modifiedtripleset>
         <mtriple>Aleksandre_Guruli | club | Georgia_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Georgia national under-21 football team">Aleksandre Guruli's club is the Georgia national under 21 football team.</lex>
+      <lex comment="good" lid="Id1">Aleksandre Guruli's club is the Georgia national under 21 football team.</lex>
       <lex comment="good" lid="Id2">Aleksandre Guruli once played for the Georgia national under-21 football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Georgia national under-21 football team">Aleksandre Guruli plays for the Georgian national under 21 team.</lex>
+      <lex comment="good" lid="Id3">Aleksandre Guruli plays for the Georgian national under 21 team.</lex>
     </entry>
     <entry category="Athlete" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

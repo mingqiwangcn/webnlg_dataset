@@ -116,7 +116,7 @@
         <mtriple>Romania | capital | Bucharest</mtriple>
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prime Minister of Romania">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.</lex>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the prime minister is Klaus Iohannis.</lex>
       <lex comment="good" lid="Id2">1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania and Klaus Iohannis is the country's Prime Minister.</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in the city of Alba Iulia in Romania. The capital of Romania is Bucharest and the Prime Minister is Klaus Iohannis.</lex>
     </entry>

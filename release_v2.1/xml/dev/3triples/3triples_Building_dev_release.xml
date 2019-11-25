@@ -139,7 +139,7 @@
         <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
         <mtriple>3Arena | location | Dublin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Republic of Ireland">The owner of 3Arena is Live Nation Entertainment which is located in Dublin, Ireland.</lex>
+      <lex comment="good" lid="Id1">The owner of 3Arena is Live Nation Entertainment which is located in Dublin, Ireland.</lex>
       <lex comment="good" lid="Id2">3Arena is owned by Live Nation Entertainment, and is located in Dublin, Republic of Ireland.</lex>
       <lex comment="good" lid="Id3">3Arena in Dublin, Republic of Ireland is owned by Live Nation Entertainment.</lex>
     </entry>
@@ -213,7 +213,7 @@
         <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tudor Revival architecture">The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.</lex>
+      <lex comment="good" lid="Id1">The Adisham hall, which is located in Sri Lanka, was completed in 1931 and architectural style is Tudor Revival.</lex>
       <lex comment="good" lid="Id2">Adisham Hall, completed in 1931 and located in Sri Lanka, is in the Tudor Revival architecture style.</lex>
       <lex comment="good" lid="Id3">Adisham Hall, with its Tudor Revival style of architecture, was built in 1931 in Sri Lanka.</lex>
     </entry>

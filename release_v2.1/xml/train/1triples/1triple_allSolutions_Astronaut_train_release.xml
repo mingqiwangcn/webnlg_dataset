@@ -243,7 +243,7 @@
       <lex comment="good" lid="Id2">Alan Shepard spent 13017 minutes in space.</lex>
       <lex comment="good" lid="Id3">13017,0 minutes is the time Alan Shepard spent in space.</lex>
       <lex comment="good" lid="Id4">Alan Shepard spent 13017 minutes in space.</lex>
-      <lex comment="good" lid="Id5" error_1="&quot;13017.0&quot;(minutes)">Alan Shepard spent just over 9 days in space.</lex>
+      <lex comment="good" lid="Id5">Alan Shepard spent just over 9 days in space.</lex>
       <lex comment="good" lid="Id6">Alan Shepard's time in space is 13017 minutes.</lex>
       <lex comment="good" lid="Id7">Alan Shepard spent 13017.0 minutes in space.</lex>
     </entry>
@@ -279,11 +279,11 @@
       <modifiedtripleset>
         <mtriple>Alan_Shepard | was awarded | "American Defense Service ribbon.svg"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American Defense Service ribbon.svg">Alan Shepard was awarded the american defence service ribbon.</lex>
-      <lex comment="good" lid="Id2" error_1="American Defense Service ribbon.svg">Alan Shepard was awarded American Defense Service ribbon.</lex>
-      <lex comment="good" lid="Id3" error_1="American Defense Service ribbon.svg">Alan Shepard was awarded the American Defense Service Ribbon.</lex>
-      <lex comment="good" lid="Id4" error_1="American Defense Service ribbon.svg">Alan Shepard won the American Defense Service ribbon.</lex>
-      <lex comment="good" lid="Id5" error_1="American Defense Service ribbon.svg">Alan Shepard was awarded with the American Defense Service ribbon.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was awarded the american defence service ribbon.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard was awarded American Defense Service ribbon.</lex>
+      <lex comment="good" lid="Id3">Alan Shepard was awarded the American Defense Service Ribbon.</lex>
+      <lex comment="good" lid="Id4">Alan Shepard won the American Defense Service ribbon.</lex>
+      <lex comment="good" lid="Id5">Alan Shepard was awarded with the American Defense Service ribbon.</lex>
     </entry>
     <entry category="Astronaut" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -500,11 +500,11 @@
       <modifiedtripleset>
         <mtriple>Buzz_Aldrin | was awarded | "Legion of Merit ribbon.svg"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Legion of Merit ribbon.svg">Buzz Aldrin was awarded the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id2" error_1="Legion of Merit ribbon.svg">Buzz Aldrin was awarded with Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id3" error_1="Legion of Merit ribbon.svg">Buzz Aldrin won the Legion of Merit ribbon.</lex>
-      <lex comment="good" lid="Id4" error_1="Legion of Merit ribbon.svg">Buzz Aldrin was awarded the "Legion of Merit" ribbon.</lex>
-      <lex comment="good" lid="Id5" error_1="Legion of Merit ribbon.svg">Buzz Aldrin was awarded the 'Legion of Merit' ribbon.</lex>
+      <lex comment="good" lid="Id1">Buzz Aldrin was awarded the Legion of Merit ribbon.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was awarded with Legion of Merit ribbon.</lex>
+      <lex comment="good" lid="Id3">Buzz Aldrin won the Legion of Merit ribbon.</lex>
+      <lex comment="good" lid="Id4">Buzz Aldrin was awarded the "Legion of Merit" ribbon.</lex>
+      <lex comment="good" lid="Id5">Buzz Aldrin was awarded the 'Legion of Merit' ribbon.</lex>
     </entry>
     <entry category="Astronaut" eid="Id42" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -835,8 +835,8 @@
       <lex comment="good" lid="Id1">William Anders serves as Ambassador to Norway in the United States.</lex>
       <lex comment="good" lid="Id2">William Anders official title is the United States Ambassador to Norway.</lex>
       <lex comment="good" lid="Id3">United States's Ambassador to Norway is William Anders.</lex>
-      <lex comment="good" lid="Id4" error_1="United States Ambassador to Norway">William Anders is the US Ambassador to Norway.</lex>
-      <lex comment="good" lid="Id5" error_1="United States Ambassador to Norway">William Anders' title is the US Ambassador to Norway.</lex>
+      <lex comment="good" lid="Id4">William Anders is the US Ambassador to Norway.</lex>
+      <lex comment="good" lid="Id5">William Anders' title is the US Ambassador to Norway.</lex>
       <lex comment="good" lid="Id6">William Anders' title is the United States Ambassador to Norway.</lex>
       <lex comment="good" lid="Id7">William Anders is the United States Ambassador to Norway.</lex>
     </entry>

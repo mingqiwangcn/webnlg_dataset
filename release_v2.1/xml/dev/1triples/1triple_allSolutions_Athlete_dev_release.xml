@@ -8,7 +8,7 @@
       <modifiedtripleset>
         <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.C. Milan">The Chairman of A C Milan is Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id1">The Chairman of A C Milan is Silvio Berlusconi.</lex>
       <lex comment="good" lid="Id2">Silvio Berlusconi is the chairman of A.C. Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id2" shape="(X (X))" shape_type="NA" size="1">

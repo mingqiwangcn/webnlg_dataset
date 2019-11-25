@@ -304,7 +304,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in the Netherlands, Ab Klink, worked as a member of the senate. His Alma mater is Erasmus University Rotterdam which, is affiliated with the Association of MBAs.</lex>
       <lex comment="good" lid="Id2">Ab Klink was born in the Netherlands and went to Erasmus University Rotterdam which is affiliated with the Association of MBAs. He was a member of the senate.</lex>
-      <lex comment="good" lid="Id3" error_1="Association of MBAs">Erasmus University in Rotterdam (affiliation: Assoc. of MBAs) alum Ab Klink, is a senate member born in the Netherlands.</lex>
+      <lex comment="good" lid="Id3">Erasmus University in Rotterdam (affiliation: Assoc. of MBAs) alum Ab Klink, is a senate member born in the Netherlands.</lex>
     </entry>
     <entry category="Politician" eid="Id18" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -401,7 +401,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The currency of The Netherlands is the Euro. Ab Klink, a Netherlands national, attended Erasmus University Rotterdam, which is affiliated to the Association of MBAs.</lex>
       <lex comment="good" lid="Id2">Ab Klink, is from the Netherlands, where the Euro is the currency. Ab Klink attended Erasmus University Rotterdam, which is affiliated with the Association of MBAs.</lex>
-      <lex comment="good" lid="Id3" error_1="Association of MBAs">Erasmus University in Rotterdam (Assoc. MBA's) alum Ab Klink is a Netherlands national, where the euro is currency.</lex>
+      <lex comment="good" lid="Id3">Erasmus University in Rotterdam (Assoc. MBA's) alum Ab Klink is a Netherlands national, where the euro is currency.</lex>
     </entry>
     <entry category="Politician" eid="Id23" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -741,7 +741,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abdulsalami Abubakar, who was born in Minna and studied at the Technical Institute, Kaduna, was the Chief of the Defence Staff in Nigeria. He was succeeded by Al-Amin Daggash.</lex>
       <lex comment="good" lid="Id2">Abdulsalami Abubakar, who was born in Minna and studied at the Technical Institute, Kaduna, served as the Nigerian Chief of the Defence Staff. He was succeeded by Al-Amin Daggash.</lex>
-      <lex comment="good" lid="Id3" error_1="Chief of the Defence Staff (Nigeria)">Nigerian Chief of Defence Staff worker and Technical Institute, Kaduna alum Abdulsalami Abubakar, was born in Minna. He was succeeded by Al-Amin Daggash.</lex>
+      <lex comment="good" lid="Id3">Nigerian Chief of Defence Staff worker and Technical Institute, Kaduna alum Abdulsalami Abubakar, was born in Minna. He was succeeded by Al-Amin Daggash.</lex>
     </entry>
     <entry category="Politician" eid="Id42" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -920,7 +920,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spanish is the language in Spain, where the leader in Spain is Felipe VI of Spain. Born in Galicia in Spain, Abel Caballero is a national of Spain.</lex>
       <lex comment="good" lid="Id2">Abel Caballero is Spanish and was born in Galicia in Spain. The country where Spanish is used and the leader of which, is Felipe VI of Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Felipe VI of Spain">Spanish is spoken in Spain where the leader is Felipe VI and Abel Caballero was born in Galicia, Spain.</lex>
+      <lex comment="good" lid="Id3">Spanish is spoken in Spain where the leader is Felipe VI and Abel Caballero was born in Galicia, Spain.</lex>
     </entry>
     <entry category="Politician" eid="Id49" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1010,7 +1010,7 @@
         <mtriple>Abel_Caballero | birthPlace | Galicia_(Spain)</mtriple>
         <mtriple>Abel_Caballero | party | Spanish_Socialist_Workers'_Party</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spain">Galician and Spanish born Abel Caballero belongs to the Spanish Socialist Workers' Party and is the Mayor of Vigo.</lex>
+      <lex comment="good" lid="Id1">Galician and Spanish born Abel Caballero belongs to the Spanish Socialist Workers' Party and is the Mayor of Vigo.</lex>
       <lex comment="good" lid="Id2">Abel Caballero was born in Galicia in Spain and is a member of the Spanish Socialist Workers' Party. Caballero also works as the Mayor of Vigo.</lex>
       <lex comment="good" lid="Id3">Abel Caballero, who was born in Galicia, Spain, serves as the Mayor of Vigo and is a member of the Spanish Socialist Workers' Party.</lex>
     </entry>
@@ -1112,8 +1112,8 @@
         <mtriple>Abel_Caballero | inOfficeWhilePrimeMinister | Felipe_González</mtriple>
         <mtriple>Felipe_González | predecessor | Rodolfo_Llopis</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Rome">Abel Caballero was in office while Felipe Gonzalez (whose predecessor was Rodolfo Llopis) was Prime Minister. Abel Caballero was in office whilst Roman born, Juan Carlos I of Spain was Monarch.</lex>
-      <lex comment="good" lid="Id2" error_1="Rome">Rodolfo Llopis was succeeded by Felipe González, who was Prime Minister at the time that Abel Caballero was in office. This was when, Roman born Juan Carlos I of Spain was Monarch.</lex>
+      <lex comment="good" lid="Id1">Abel Caballero was in office while Felipe Gonzalez (whose predecessor was Rodolfo Llopis) was Prime Minister. Abel Caballero was in office whilst Roman born, Juan Carlos I of Spain was Monarch.</lex>
+      <lex comment="good" lid="Id2">Rodolfo Llopis was succeeded by Felipe González, who was Prime Minister at the time that Abel Caballero was in office. This was when, Roman born Juan Carlos I of Spain was Monarch.</lex>
       <lex comment="good" lid="Id3">Abel Caballero was in office whilst Juan Carlos I of Spain, who was born in Rome, was Monarch. He was also in office while Felipe Gonzalez was Prime Minister, who predecessor was Rodolfo Llopis.</lex>
     </entry>
     <entry category="Politician" eid="Id59" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1244,7 +1244,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W. Sibal, a member of the Republican party of the United States, was a member of the Connecticut Senate from the 26th District, and was succeeded by, Marjorie Farmer.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and was a member of the Republican party of the United States. He was also a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the Connecticut Senate from the 26th District" error_2="Republican Party (United States)">Republican Abner. W. Sibal, a 26th District Senator from Connecticut, was born in Ridgewood, Queens, and succeeded by Marjorie Farmer.</lex>
+      <lex comment="good" lid="Id3">Republican Abner. W. Sibal, a 26th District Senator from Connecticut, was born in Ridgewood, Queens, and succeeded by Marjorie Farmer.</lex>
     </entry>
     <entry category="Politician" eid="Id66" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1261,7 +1261,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W. Sibal's who was born at Ridgewood, Queens, worked as a member of the Connecticut Senate from the 26th District and he represented Connecticut's 4th Congressional District. Abner W. Sibal's successor was Donald J. Irwin.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal, who was born in Ridgewood, Queens, worked as a member of the Connecticut Senate from the 26th District. He represented Connecticut's 4th Congressional District and was succeeded by Donald J. Irwin.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the Connecticut Senate from the 26th District">Connecticut's 4th Congressional District representative and 26th District member, Abner W. Sibal, was born in Ridgewood, Queens. He was Donald J. Irwin's predecessor.</lex>
+      <lex comment="good" lid="Id3">Connecticut's 4th Congressional District representative and 26th District member, Abner W. Sibal, was born in Ridgewood, Queens. He was Donald J. Irwin's predecessor.</lex>
     </entry>
     <entry category="Politician" eid="Id67" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1278,7 +1278,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Ridgewood, Queens, Abner W Sibal, represented Connecticut's 4th Congressional District. He worked as a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and represented Connecticut's 4th Congressional District. A member of the Connecticut Senate from the 26th District, Abner W. Sibal's successor was Marjorie Farmer.</lex>
-      <lex comment="good" lid="Id3" error_1="Connecticut's 4th congressional district" error_2="Member of the Connecticut Senate from the 26th District">Abner W. Sibal, born in Ridgewood, Queens, was both a member of Connecticut's 26th District Senate and 4th Congressional District. Marjorie Farmer was his successor.</lex>
+      <lex comment="good" lid="Id3">Abner W. Sibal, born in Ridgewood, Queens, was both a member of Connecticut's 26th District Senate and 4th Congressional District. Marjorie Farmer was his successor.</lex>
     </entry>
     <entry category="Politician" eid="Id68" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1323,7 +1323,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abner W Sibal was born in Ridgewood, Queens, and died in Alexandria in Virginia. He was a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
       <lex comment="good" lid="Id2">Abner W. Sibal was born in Ridgewood, Queens and he died in Alexandria, Virginia. He was a member of the Connecticut Senate from the 26th District and was succeeded by Marjorie Farmer.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the Connecticut Senate from the 26th District">26th District Connecticut Senate member Abner W. Sibal, succeeded by Marjorie Farmer, was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
+      <lex comment="good" lid="Id3">26th District Connecticut Senate member Abner W. Sibal, succeeded by Marjorie Farmer, was born in Ridgewood, Queens and died in Alexandria, Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id70" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1406,7 +1406,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Connecticut, Abraham A. Ribicoff; worked as the United States Secretary of Health, Education and Welfare, was succeeded by John N. Dempsey and died in the United States.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in Connecticut, he died in the U.S. He worked under the United States Secretary of Health, Education, and Welfare. John N, Dempsey was preceded by him.</lex>
-      <lex comment="good" lid="Id3" error_1="United States Secretary of Health, Education, and Welfare">Abraham A. Ribicoff was born in Connecticut and died in the U.S. He worked as the U.S. Secretary of Health, Education and Welfare. Mr. Ribicoff preceded John N. Dempsey.</lex>
+      <lex comment="good" lid="Id3">Abraham A. Ribicoff was born in Connecticut and died in the U.S. He worked as the U.S. Secretary of Health, Education and Welfare. Mr. Ribicoff preceded John N. Dempsey.</lex>
     </entry>
     <entry category="Politician" eid="Id75" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1446,7 +1446,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">African Americans are an ethnic group in the U.S.A. the country where Abraham A Ribicoff was born. American, Abraham A. Ribicoff, is married to Ruth Ribicoff.</lex>
       <lex comment="good" lid="Id2">The birth place of Abraham A Ribicoff, whose spouse is Ruth Ribicoff, is the United States so his nationality is American. African Americans are an ethnic group from the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="African Americans">American born Abraham A Ribicoff is married to Ruth Ribicoff. A United States ethnic group is African American.</lex>
+      <lex comment="good" lid="Id3">American born Abraham A Ribicoff is married to Ruth Ribicoff. A United States ethnic group is African American.</lex>
     </entry>
     <entry category="Politician" eid="Id77" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1463,7 +1463,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abraham A. Ribicoff was born in Connecticut and died in New York City. He worked as the United States Secretary of Health, Education and Welfare and was succeeded by Anthony J. Celebrezze.</lex>
       <lex comment="good" lid="Id2">Abraham A. Ribicoff was born in Connecticut and died in New York City. He worked as the United States Secretary of Health, Education, and Welfare and was succeeded by Anthony J. Celebrezze.</lex>
-      <lex comment="good" lid="Id3" error_1="United States Secretary of Health, Education, and Welfare">Abraham A. Ribicoff's place of birth was Connecticut and later passed in New York City. He worked as the U.S. Secretary of Health, Education and Welfare and was succeeded by Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id3">Abraham A. Ribicoff's place of birth was Connecticut and later passed in New York City. He worked as the U.S. Secretary of Health, Education and Welfare and was succeeded by Anthony J. Celebrezze.</lex>
     </entry>
     <entry category="Politician" eid="Id78" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1529,7 +1529,7 @@
         <mtriple>Abraham_A._Ribicoff | nationality | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="New Britain, Connecticut">Abraham A. Ribicoff (spouse Casey Ribicoff) is a national of the United States, the country where one of the ethnic groups is African Americans. New Britain, CT, is his birth place.</lex>
+      <lex comment="good" lid="Id1">Abraham A. Ribicoff (spouse Casey Ribicoff) is a national of the United States, the country where one of the ethnic groups is African Americans. New Britain, CT, is his birth place.</lex>
       <lex comment="good" lid="Id2">Casey Ribicoff is Abraham A. Ribcoff's wife. Abraham A Ribicoff was born in New Britain, Connecticut, the United States, the country where one of the ethnic groups is, African Americans.</lex>
       <lex comment="good" lid="Id3">Abraham A Ribicoff was married to Casey Ribicoff and was born in New Britain, Connecticut, USA. African Americans are one of the ethnic groups in the US.</lex>
     </entry>
@@ -1767,7 +1767,7 @@
         <mtriple>Adam_Holloway | almaMater | Magdalene_College,_Cambridge</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Faversham, Adam Holloway served in the Grenadier Guards and began his career on 5th May 2005. his alma mater was Magdalene College in Cambridge.</lex>
-      <lex comment="good" lid="Id2" error_1="Grenadier Guards">Adam Holloway was born in Faversham and began his career on the 5th May 2005. He was a Grenadier guard and the alma mater was Magdalene College Cambridge.</lex>
+      <lex comment="good" lid="Id2">Adam Holloway was born in Faversham and began his career on the 5th May 2005. He was a Grenadier guard and the alma mater was Magdalene College Cambridge.</lex>
       <lex comment="good" lid="Id3">Adam Holloway was born in Faversham and his alma mater is Magdalene College in Cambridge. He began his career on 5th May 2005 and was in the Grenadier Guards in the military.</lex>
     </entry>
     <entry category="Politician" eid="Id96" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -1960,7 +1960,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis, born in Athens (Greece), held office as the Minister for Health and was succeeded by, Makis Voridis.</lex>
       <lex comment="good" lid="Id2">Adonis Georgiadis was born in Athens, Greece. He held office as the Minister for Health and was succeeded by Makis Voridis.</lex>
-      <lex comment="good" lid="Id3" error_1="Minister for Health">Adonis Georgiadis was born in Athens in Greece where he worked as Minister of Health. He was succeeded by Makis Voridis.</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis was born in Athens in Greece where he worked as Minister of Health. He was succeeded by Makis Voridis.</lex>
     </entry>
     <entry category="Politician" eid="Id107" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2227,7 +2227,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Agnes Kant was born in West Germany and his alma mater is the Radboud University Nijmegen. He resided in the Netherlands and held office in the Socialist Party there.</lex>
       <lex comment="good" lid="Id2">Agnes Kant was born in West Germany, lives in the Netherlands, held office in the Socialist Party of the Netherlands, and her alma mater is Radboud University Nijmegen.</lex>
-      <lex comment="good" lid="Id3" error_1="West Germany">West German born Agnes Kant studied at Radboud University Nijmegen and is a member of the Socialist Party in the Netherlands, the country of her residency.</lex>
+      <lex comment="good" lid="Id3">West German born Agnes Kant studied at Radboud University Nijmegen and is a member of the Socialist Party in the Netherlands, the country of her residency.</lex>
     </entry>
     <entry category="Politician" eid="Id120" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2612,7 +2612,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B. White was born in Cleveland and he died in Parkersburg, West Virginia. His successor was William M. O. Dawson who was born in Bloomington, Maryland.</lex>
       <lex comment="good" lid="Id2">Albert B. White, who was born in Cleveland an died at Parkersburg, West Virginia was succeeded by William M. O. Dawson who was born in Bloomington Maryland.</lex>
-      <lex comment="good" lid="Id3" error_1="Parkersburg, West Virginia">Albert B. White, b. Cleveland and died in Parkersburg, WV, was succeeded by William M. O. Dawson from Bloomington, Maryland.</lex>
+      <lex comment="good" lid="Id3">Albert B. White, b. Cleveland and died in Parkersburg, WV, was succeeded by William M. O. Dawson from Bloomington, Maryland.</lex>
     </entry>
     <entry category="Politician" eid="Id142" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2669,7 +2669,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert B. White, was born on 22nd September, 1856, and died at Parkersburg, West Virginia, in 1941.</lex>
       <lex comment="good" lid="Id2">Albert B White was born 1856-09-22 and died in Parkersburg, West Virginia in 1941.</lex>
-      <lex comment="good" lid="Id3" error_1="Parkersburg, West Virginia">Albert B. White (1856-1941), born on September, 22, died in Parkersburg, W. Virginia.</lex>
+      <lex comment="good" lid="Id3">Albert B. White (1856-1941), born on September, 22, died in Parkersburg, W. Virginia.</lex>
     </entry>
     <entry category="Politician" eid="Id145" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3053,8 +3053,8 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albert Jennings Fountain was born in Staten Island, New York, and Albert Jennings Fountain died in Dona Ana County, New Mexico, in New Mexico Territory.</lex>
-      <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in Staten Island, New York, and died in Dona Ana County, New Mexico.</lex>
-      <lex comment="good" lid="Id3" error_1="New Mexico Territory">Albert Jennings Fountain was born in Staten Island, New York. He died in Dona Ana County, New Mexico.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in Staten Island, New York, and died in Dona Ana County, New Mexico.</lex>
+      <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, New York. He died in Dona Ana County, New Mexico.</lex>
     </entry>
     <entry category="Politician" eid="Id166" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3069,8 +3069,8 @@
         <mtriple>Albert_Jennings_Fountain | birthPlace | United_States</mtriple>
         <mtriple>Albert_Jennings_Fountain | birthPlace | Staten_Island</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Dona Ana County, New Mexico">Albert Jennings Fountain, was born in Staten Island, United States, and died in Dona Ana County, in New Mexico Territory.</lex>
-      <lex comment="good" lid="Id2" error_1="New Mexico Territory">Albert Jennings Fountain was born in Staten Island, U.S. He died in Dona Ana County, New Mexico.</lex>
+      <lex comment="good" lid="Id1">Albert Jennings Fountain, was born in Staten Island, United States, and died in Dona Ana County, in New Mexico Territory.</lex>
+      <lex comment="good" lid="Id2">Albert Jennings Fountain was born in Staten Island, U.S. He died in Dona Ana County, New Mexico.</lex>
       <lex comment="good" lid="Id3">Albert Jennings Fountain was born in Staten Island, United States and died in Dona Ana County, New Mexico Territory.</lex>
     </entry>
     <entry category="Politician" eid="Id167" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3103,7 +3103,7 @@
         <mtriple>Argentina | leaderName | Gabriela_Michetti</mtriple>
         <mtriple>Argentina | language | Spanish_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Argentina">Alberto Teisaire was a Spanish speaking Argentinian who died in Buenos Aires where Gabriela Michetti is a leader.</lex>
+      <lex comment="good" lid="Id1">Alberto Teisaire was a Spanish speaking Argentinian who died in Buenos Aires where Gabriela Michetti is a leader.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire was an Argentinian who died in Buenos Aires. Gabriela Michetti is the leader of Argentina, a country in which Spanish is spoken.</lex>
       <lex comment="good" lid="Id3">Argentinian national Alberto Teisaire passed in Buenos Aires. Spanish speaking Argentina is led by Gabriela Michetti.</lex>
     </entry>
@@ -3122,7 +3122,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Spanish is the language of Argentina, where Alberto Teisaire was from. Alberto Teisaire died in Buenos Aires, the leader of which, is Gabriela Michetti.</lex>
       <lex comment="good" lid="Id2">Alberto Teisaire, who was from Argentina (where they speak Spanish), died in Buenos Aires. Gabriela Michetti is the leader of Buenos Aires.</lex>
-      <lex comment="good" lid="Id3" error_1="Argentina">Argentinian (Spanish speaking) national Alberto Teisaire died in Buenos Aires. Buenos Aires is led by Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id3">Argentinian (Spanish speaking) national Alberto Teisaire died in Buenos Aires. Buenos Aires is led by Gabriela Michetti.</lex>
     </entry>
     <entry category="Politician" eid="Id170" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3155,7 +3155,7 @@
         <mtriple>Argentina | language | Spanish_language</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alberto Teisaire died in Buenos Aires, the leader of which is Diego Santilli. Spanish is the language of Argentina, where Alberto Teisaire is from.</lex>
-      <lex comment="good" lid="Id2" error_1="Argentina">Argentinian Alberto Teisaire has died in Buenos Aires where the leader is Diego Santilli and people speak Spanish.</lex>
+      <lex comment="good" lid="Id2">Argentinian Alberto Teisaire has died in Buenos Aires where the leader is Diego Santilli and people speak Spanish.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire died in Buenos Aires, where the leader is Diego Santilli. Alberto Teisaire was from Argentina, where Spanish is the language spoken.</lex>
     </entry>
     <entry category="Politician" eid="Id172" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
@@ -3229,7 +3229,7 @@
         <mtriple>Alberto_Teisaire | inOfficeWhilePresident | Juan_Perón</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born in Mendoza, Argentina, Alberto Teisaire was in office while Juan Peron was President. His party was the Justicialist Party amd he worked as a Provisional President of the Argentine Senate.</lex>
-      <lex comment="good" lid="Id2" error_1="Mendoza, Argentina">Alberto Teisaire, who was born in Mendoza, worked as the Provisional President of the Argentine Senate while Juan Peron was president and was a member of the Justicialist Party.</lex>
+      <lex comment="good" lid="Id2">Alberto Teisaire, who was born in Mendoza, worked as the Provisional President of the Argentine Senate while Juan Peron was president and was a member of the Justicialist Party.</lex>
       <lex comment="good" lid="Id3">Alberto Teisaire, of the Justicialist Party, was born in Mendoza, Argentina. He worked as the Provisional President of the Argentine Senate and was in office at the time that Juan Peron was President.</lex>
     </entry>
     <entry category="Politician" eid="Id176" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3417,9 +3417,9 @@
         <mtriple>Alfons_Gorbach | birthPlace | County_of_Tyrol</mtriple>
         <mtriple>Alfons_Gorbach | birthPlace | Imst</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="County of Tyrol">Alfons Gorbach, was born in Imst, in Tyrol and died in Styria, in Graz.</lex>
+      <lex comment="good" lid="Id1">Alfons Gorbach, was born in Imst, in Tyrol and died in Styria, in Graz.</lex>
       <lex comment="good" lid="Id2">Alfons Gorbach was born in Imst in the County of Tyrol and died in Graz, Styria.</lex>
-      <lex comment="good" lid="Id3" error_1="County of Tyrol">Alfons Gorbach's birthplace is Imst in Tyrol County. He died in Styria in Graz.</lex>
+      <lex comment="good" lid="Id3">Alfons Gorbach's birthplace is Imst in Tyrol County. He died in Styria in Graz.</lex>
     </entry>
     <entry category="Politician" eid="Id185" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3539,7 +3539,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Connecticut was the birthplace of Alfred N Phillips and he was the Mayor of Stamford, Connecticut. He was a member of the US Army which was involved in battles in the Spanish-American War.</lex>
       <lex comment="good" lid="Id2">Connecticut born Alfred N Phillips served in the US Army and fought in battles in the Spanish-American War. He later became Mayor of Stamford, Connecticut.</lex>
-      <lex comment="good" lid="Id3" error_1="Mayor of Stamford, Connecticut">US Army veteran and Stamford Connecticut Mayor Alfred N. Phillips was born in Connecticut. The Spanish-American War involved the United States Army.</lex>
+      <lex comment="good" lid="Id3">US Army veteran and Stamford Connecticut Mayor Alfred N. Phillips was born in Connecticut. The Spanish-American War involved the United States Army.</lex>
     </entry>
     <entry category="Politician" eid="Id191" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3573,7 +3573,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfred N. Phillips' place of birth was Darien Connecticut. He worked at the United States House of Representatives and served in the United States, Army. The United States Army took part in the battle called Whiskey Rebellion.</lex>
       <lex comment="good" lid="Id2">Alfred N. Phillips was born in Darien, Connecticut and worked at the United States House of Representatives. He served in the United States Army and one American battle is known as the Whiskey Rebellion.</lex>
-      <lex comment="good" lid="Id3" error_1="United States House of Representatives">US Army member Alfred N. Phillips, born in Darien, Connecticut, is a member of the U.S. House of Representatives. The U.S. Army fought in the Whiskey Rebellion.</lex>
+      <lex comment="good" lid="Id3">US Army member Alfred N. Phillips, born in Darien, Connecticut, is a member of the U.S. House of Representatives. The U.S. Army fought in the Whiskey Rebellion.</lex>
     </entry>
     <entry category="Politician" eid="Id193" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3595,8 +3595,8 @@
         <mtriple>Alfred_N._Phillips | office (workedAt, workedAs) | "Member of the U.S. House of Representatives from Connecticut's 4th district"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Connecticut born Alfred N Phillips, a Democrat, worked as Member of the U.S. House of Representatives from Connecticut's 4th district and was succeeded by Albert E. Austin.</lex>
-      <lex comment="good" lid="Id2" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">Alfred N. Phillips, born in Connecticut was a member of the United States Democratic Party and worked as a Member of the U.S. House of Representatives from the Connecticut's 4th district. His successor was Albert E. Austin.</lex>
-      <lex comment="good" lid="Id3" error_1="Member of the U.S. House of Representatives from Connecticut's 4th district">Alfred N. Phillips was born in Connecticut and he was a member of the Democratic Party United States and a member of the U. S. House of Representatives from Connecticut's 4th district. Albert E. Austin succeeded Alfred N. Phillips.</lex>
+      <lex comment="good" lid="Id2">Alfred N. Phillips, born in Connecticut was a member of the United States Democratic Party and worked as a Member of the U.S. House of Representatives from the Connecticut's 4th district. His successor was Albert E. Austin.</lex>
+      <lex comment="good" lid="Id3">Alfred N. Phillips was born in Connecticut and he was a member of the Democratic Party United States and a member of the U. S. House of Representatives from Connecticut's 4th district. Albert E. Austin succeeded Alfred N. Phillips.</lex>
     </entry>
     <entry category="Politician" eid="Id194" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3665,7 +3665,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Darien, Connecticut is the birthplace of Alfred N. Phillips, who was Mayor of Stamford, Connecticut. Alfred N. Phillips, was a member of the Democratic Party in the United States and was succeeded by Albert E. Austin.</lex>
       <lex comment="good" lid="Id2">Darien, Connecticut is the birthplace of Alfred N. Phillips and he was a member of the United States Democratic Party. He was also the Mayor of Stamford Connecticut and his successor was Albert E. Austin.</lex>
-      <lex comment="good" lid="Id3" error_1="Mayor of Stamford, Connecticut">United States Democratic Party member and Stamford, Connecticut Mayor Alfred N. Phillips was born in Darien, Connecticut. He was succeeded by Albert E. Austin.</lex>
+      <lex comment="good" lid="Id3">United States Democratic Party member and Stamford, Connecticut Mayor Alfred N. Phillips was born in Darien, Connecticut. He was succeeded by Albert E. Austin.</lex>
     </entry>
     <entry category="Politician" eid="Id197" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -4040,7 +4040,7 @@
         <mtriple>Alvah_Sabin | birthPlace | Georgia,_Vermont</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alvah Sabin was born in Georgia, Vermont and he represented Vermont. He was the secretary of state and was succeeded by Homer Elihu Royce.</lex>
-      <lex comment="good" lid="Id2" error_1="Secretary of State of Vermont">Alvah Sabin was born in Georgia, Vermont and was the secretary for that state. His successor was Homer Elihu Royce.</lex>
+      <lex comment="good" lid="Id2">Alvah Sabin was born in Georgia, Vermont and was the secretary for that state. His successor was Homer Elihu Royce.</lex>
       <lex comment="good" lid="Id3">Alvah Sabin was born in Georgia, Vermont. He represented the state and worked as the secretary of the State of Vermont. He was succeeded by Homer Elihu Royce.</lex>
     </entry>
     <entry category="Politician" eid="Id216" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">

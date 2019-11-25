@@ -567,7 +567,7 @@
         <mtriple>Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)</mtriple>
         <mtriple>Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1142.3 (inhabitants per square kilometre)">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.</lex>
+      <lex comment="good" lid="Id1">Albuquerque, in New Mexico, has a population density of 1142,3 inhabitants per sq km and a total area of 490.9 sq km.</lex>
       <lex comment="good" lid="Id2">Albuquerque, in New Mexico, has a total area of 490.9 square kilometres and its population density is 1142.3 people per sq. km.</lex>
       <lex comment="good" lid="Id3">With a total are of 490.9 square kilometres, Albuquerque, in New Mexico, has a population density of 1142.3 inhabitants per square kilometre.</lex>
     </entry>
@@ -894,7 +894,7 @@
         <mtriple>Anaheim,_California | UTCOffset | "-7"</mtriple>
         <mtriple>Anaheim,_California | areaTotal | 131.6 (square kilometres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anaheim, California">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
+      <lex comment="good" lid="Id1">Anaheim, CA has a UTC offset of minus 7 and a total area of 131.6 sq km.</lex>
       <lex comment="good" lid="Id2">Anaheim, California has a UTC offset of -7 and covers a total area of 131.6 square kilometres.</lex>
       <lex comment="good" lid="Id3">Anaheim, California has a UTC offset of - 7 and a total area of 131.6 square kilometres.</lex>
     </entry>
@@ -1061,7 +1061,7 @@
         <mtriple>Anaheim,_California | isPartOf | Orange_County,_California</mtriple>
         <mtriple>Anaheim,_California | leaderTitle | United_States_House_of_Representatives</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United States House of Representatives">Anaheim is part of Orange County, California. The U.S. House of Representatives leads Anaheim.</lex>
+      <lex comment="good" lid="Id1">Anaheim is part of Orange County, California. The U.S. House of Representatives leads Anaheim.</lex>
       <lex comment="good" lid="Id2">The United States House of Representatives leads Anaheim, California, which is in Orange County.</lex>
       <lex comment="good" lid="Id3">The United States House of Representatives leads Anaheim, a city in Orange County which is part of California.</lex>
     </entry>

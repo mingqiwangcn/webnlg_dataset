@@ -100,9 +100,9 @@
         <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American Defense Service ribbon.svg">Alan Shepard was born in New Hampshire. He was won the American Defence Service Ribbon. The United States Navy also awarded him the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal. He died in California on July 21st, 1998.</lex>
-      <lex comment="good" lid="Id2" error_1="American Defense Service ribbon.svg">Alan Shepard (who died on the 21st of July, 1998 in California) was born in New Hampshire. He was awarded American Defense Service ribbon, as well as the Distinguished Service Medal by the United States Navy. The Distinguished Service Medal of the United States Navy is ranked higher than the Department of Commerce Gold Medal.</lex>
-      <lex comment="good" lid="Id3" error_1="American Defense Service ribbon.svg">The U.S Navy awarded Alan Shepard the Distinguished Service Medal, an award that ranks higher than the Department of Commerce Gold Medal. Shepard who was born in New Hampshire and died July 21st, 1998 in California, was also the recipient of the American Defense Service Ribbon.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire. He was won the American Defence Service Ribbon. The United States Navy also awarded him the Distinguished Service Medal, which is higher than the Department of Commerce Gold Medal. He died in California on July 21st, 1998.</lex>
+      <lex comment="good" lid="Id2">Alan Shepard (who died on the 21st of July, 1998 in California) was born in New Hampshire. He was awarded American Defense Service ribbon, as well as the Distinguished Service Medal by the United States Navy. The Distinguished Service Medal of the United States Navy is ranked higher than the Department of Commerce Gold Medal.</lex>
+      <lex comment="good" lid="Id3">The U.S Navy awarded Alan Shepard the Distinguished Service Medal, an award that ranks higher than the Department of Commerce Gold Medal. Shepard who was born in New Hampshire and died July 21st, 1998 in California, was also the recipient of the American Defense Service Ribbon.</lex>
     </entry>
     <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -122,7 +122,7 @@
         <mtriple>Buzz_Aldrin | birthDate | "1930-01-20"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was a fighter pilot who was born in Glen Ridge, New Jersey om January 20th, 1930. His real name is Edwin E. Aldrin Jr. and after graduating from MIT with a doctorate in Science in 1963, he became a member of Apollo 11.</lex>
-      <lex comment="good" lid="Id2" error_1="Glen Ridge, New Jersey">Buzz Aldrin was born in Glen Ridge, NJ on January 20th 1930. His real name was Edwin E. Aldrin, Jr. He graduated from MIT with a Sc.D in 1963. He was a fighter pilot and crew member of Apollo 11.</lex>
+      <lex comment="good" lid="Id2">Buzz Aldrin was born in Glen Ridge, NJ on January 20th 1930. His real name was Edwin E. Aldrin, Jr. He graduated from MIT with a Sc.D in 1963. He was a fighter pilot and crew member of Apollo 11.</lex>
       <lex comment="good" lid="Id3">Edwin E Aldrin Jr, more commonly known as Buzz Aldrin was born in Glen Ridge New Jersey in 1930 and graduated from MIT with a Doctorate in Science in 1963. He was a fighter pilot and a crew member of Apollo 11.</lex>
     </entry>
     <entry category="Astronaut" eid="Id7" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">

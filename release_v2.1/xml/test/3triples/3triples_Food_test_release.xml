@@ -33,7 +33,7 @@
         <mtriple>Arem-arem | mainIngredients | "compressed rice cooked in banana leaf with vegetables or minced meat fillings"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A dish of Javanese cuisine, Arem-arem has compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
-      <lex comment="good" lid="Id2" error_1="Javanese cuisine">Arem arem is a Javanese dish and the main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
+      <lex comment="good" lid="Id2">Arem arem is a Javanese dish and the main ingredients of Arem-arem are compressed rice cooked in banana leaf with vegetables or minced meat fillings.</lex>
     </entry>
     <entry category="Food" eid="Id3" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -279,7 +279,7 @@
         <mtriple>Bakewell_pudding | course | "Dessert"</mtriple>
         <mtriple>Bakewell_pudding | mainIngredients | "Ground almond, jam, butter, eggs"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Ground almond, jam, butter, eggs">Bakewell pudding's main ingredients are almond, jam, butter and eggs. It is a dessert from the Derbyshire Dales region.</lex>
+      <lex comment="good" lid="Id1">Bakewell pudding's main ingredients are almond, jam, butter and eggs. It is a dessert from the Derbyshire Dales region.</lex>
       <lex comment="good" lid="Id2">Bakewell pudding is a dessert that originates from the Derbyshire Dales and contains the ingredients ground almonds, jam, butter and eggs.</lex>
       <lex comment="good" lid="Id3">The main ingredients of Bakewell pudding are ground almond, jam, butter, eggs. It is classed as a dessert and comes from the region of the Derbyshire Dales.</lex>
     </entry>
@@ -340,8 +340,8 @@
         <mtriple>Bandeja_paisa | ingredient | Hogao</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Bandeja paisa is a traditional dish from the Paisa region and part of Colombian cuisine. Hogao is an ingredient of Bandeja paisa.</lex>
-      <lex comment="good" lid="Id2" error_1="Colombian cuisine">Bandeja paisa is a traditional dish from the Paisa region of Colombia and includes the ingredient hogao.</lex>
-      <lex comment="good" lid="Id3" error_1="Colombian cuisine">Hogao is an ingredient of Bandeja paisa cuisine which is from the Paisa region of Colombia.</lex>
+      <lex comment="good" lid="Id2">Bandeja paisa is a traditional dish from the Paisa region of Colombia and includes the ingredient hogao.</lex>
+      <lex comment="good" lid="Id3">Hogao is an ingredient of Bandeja paisa cuisine which is from the Paisa region of Colombia.</lex>
     </entry>
     <entry category="Food" eid="Id22" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -375,7 +375,7 @@
         <mtriple>Batchoy | ingredient | Noodle</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Eaten in the Philippines, batchoy has the main ingredients, noodles, pork organs, vegetables, chicken, shrimp, and beef.</lex>
-      <lex comment="good" lid="Id2" error_1="noodles, pork organs, vegetables, chicken, shrimp, beef">Batchoy is a dish eaten in the Philippines. It is a noodle dish which includes pork organs, vegetables, chicken, shrimp and beef.</lex>
+      <lex comment="good" lid="Id2">Batchoy is a dish eaten in the Philippines. It is a noodle dish which includes pork organs, vegetables, chicken, shrimp and beef.</lex>
       <lex comment="good" lid="Id3">Noodles are an ingredient in batchoy, it also includes pork organs, vegetables, chicken, shrimp and beef. It hails from the Philippines.</lex>
     </entry>
     <entry category="Food" eid="Id24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -410,7 +410,7 @@
         <mtriple>Singapore | leaderName | Tony_Tan</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Tony Tan is a leader in Singapore, where Beef kway teow is from. The dish is popular nationwide in Singapore and Indonesia.</lex>
-      <lex comment="good" lid="Id2" error_1="Nationwide in Singapore and Indonesia">A popular dish in Singapore and Indonesia is beef kway teow. Tony Tan is the leader of Singapore.</lex>
+      <lex comment="good" lid="Id2">A popular dish in Singapore and Indonesia is beef kway teow. Tony Tan is the leader of Singapore.</lex>
     </entry>
     <entry category="Food" eid="Id26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -554,7 +554,7 @@
         <mtriple>Mexico | leaderName | Silvano_Aureoles_Conejo</mtriple>
         <mtriple>Mexico | currency | Mexican_peso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexican peso">Silvano Aureoles Conejo is the leader in Mexico. The country where the currency is the peso and where the food Bionico is found.</lex>
+      <lex comment="good" lid="Id1">Silvano Aureoles Conejo is the leader in Mexico. The country where the currency is the peso and where the food Bionico is found.</lex>
       <lex comment="good" lid="Id2">The name of the leader in Mexico is Silvano Aureoles Conejo whose currency is the Mexican peso. Bionico is a food found in that country.</lex>
       <lex comment="good" lid="Id3">Bionico is from Mexico where Silvano Aureoles Conejo is the leader and the currency is the Mexican peso.</lex>
     </entry>

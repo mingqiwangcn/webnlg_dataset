@@ -91,8 +91,8 @@
         <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</mtriple>
         <mtriple>Aaron_Bertram | background | "non_vocal_instrumentalist"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="non vocal instrumentalist">Aaron Bertram started performing in 1998 and performs ska punk music. Aaron Bertram plays for the Suburban Legends band, is an artist with the band Kids Imagine Nation and has a background with a non vocal instrument.</lex>
-      <lex comment="good" lid="Id2" error_1="non vocal instrumentalist">Aaron Bertram started performing in 1998. He plays for the bands Suburban Legends and Kids Imagine Nation with a background with a non vocal instrument. His musical genre is Ska punk.</lex>
+      <lex comment="good" lid="Id1">Aaron Bertram started performing in 1998 and performs ska punk music. Aaron Bertram plays for the Suburban Legends band, is an artist with the band Kids Imagine Nation and has a background with a non vocal instrument.</lex>
+      <lex comment="good" lid="Id2">Aaron Bertram started performing in 1998. He plays for the bands Suburban Legends and Kids Imagine Nation with a background with a non vocal instrument. His musical genre is Ska punk.</lex>
       <lex comment="good" lid="Id3">Aaron Bertram started performing in 1998. He is a non vocal instrumentalist who plays for the bands Suburban Legends and Kids Imagine Nation. His genre is ska punk music.</lex>
     </entry>
     <entry category="Artist" eid="Id3" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -282,7 +282,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Deer is a piano player and performer of the music genre Indie rock. Indie rock has origins in garage rock and new wave music, and involves the guitar.</lex>
       <lex comment="good" lid="Id2">Aaron Deer plays piano in indie rock whose stylistic origins in Garage rock and New wave and guitar is played in indie rock music.</lex>
-      <lex comment="good" lid="Id3" error_1="Piano">Aaron Deer is an Indie rock musician and pianist. Indie rock is known for the guitar and originates from New Wave and garage rock.</lex>
+      <lex comment="good" lid="Id3">Aaron Deer is an Indie rock musician and pianist. Indie rock is known for the guitar and originates from New Wave and garage rock.</lex>
     </entry>
     <entry category="Artist" eid="Id10" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -344,9 +344,9 @@
         <mtriple>Aaron_Deer | instrument | Piano</mtriple>
         <mtriple>Kill_Rock_Stars | location | Portland,_Oregon</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Piano">Aaron Deer is a pianist who performs Indie rock music and is signed to Kill Rock Stars, located in Portland, Oregon. Indie rock originates from Garage music.</lex>
+      <lex comment="good" lid="Id1">Aaron Deer is a pianist who performs Indie rock music and is signed to Kill Rock Stars, located in Portland, Oregon. Indie rock originates from Garage music.</lex>
       <lex comment="good" lid="Id2">Aaron Deer plays piano and was signed to the Portland, Oregon based Kill Rock Stars records. He performs Indie rock, which originates from garage rock music.</lex>
-      <lex comment="good" lid="Id3" error_1="Piano">Indie rock pianist Aaron Deer is signed with Kill Rock Stars, located in Portland, Oregon. Indie rock originates from garage rock.</lex>
+      <lex comment="good" lid="Id3">Indie rock pianist Aaron Deer is signed with Kill Rock Stars, located in Portland, Oregon. Indie rock originates from garage rock.</lex>
     </entry>
     <entry category="Artist" eid="Id13" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -372,7 +372,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron Deer plays keyboard in indie rock which has origins in Garage Rockand New Wave music. Guitar is often used to play indie rock.</lex>
       <lex comment="good" lid="Id2">Indie rock musician Aaron Deer is a keyboardist. Indie rock includes guitar and has its origins in new wave and garage rock.</lex>
-      <lex comment="good" lid="Id3" error_1="New wave music">Aaron Deer is a keyboardists and indie rock artist. Indie rock uses the guitar and originates from garage rock and new wave.</lex>
+      <lex comment="good" lid="Id3">Aaron Deer is a keyboardists and indie rock artist. Indie rock uses the guitar and originates from garage rock and new wave.</lex>
     </entry>
     <entry category="Artist" eid="Id14" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1494,7 +1494,7 @@
         <mtriple>Al_Anderson_(NRBQ band) | birthDate | 1947-03-13</mtriple>
         <mtriple>Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Windsor, Connecticut">Al Anderson, born on March 13, 1947 in Windsor, CT, began his career in 1966 and was a member of the NRBQ and The Wildweeds bands.</lex>
+      <lex comment="good" lid="Id1">Al Anderson, born on March 13, 1947 in Windsor, CT, began his career in 1966 and was a member of the NRBQ and The Wildweeds bands.</lex>
       <lex comment="good" lid="Id2">Al Anderson, from the band NRBQ, (The Wildweeds) was born in Windsor Connecticut, 1947-03-13. He started his career in 1966.</lex>
       <lex comment="good" lid="Id3">Born on March 13th 1947 in Windsor, Connecticut, and beginning his career in 1966, Al Anderson (of the band NRBQ) once played with The Wildweeds.</lex>
     </entry>
@@ -1548,7 +1548,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Anderson used to be a member of The Wildweeds and is now a member of the NRBQ band playing country music. He was born in the United States and began his career in 1966 .</lex>
       <lex comment="good" lid="Id2">Al Anderson plays country music with NRBQ and was a member of The Wildweeds. He was born in the United States and became active in 1966.</lex>
-      <lex comment="good" lid="Id3" error_1="Country music">NRBQ member, and country genre artist, Al Anderson, was born in the United States and began his career in 1966. He is a former member of The Wildweeds.</lex>
+      <lex comment="good" lid="Id3">NRBQ member, and country genre artist, Al Anderson, was born in the United States and began his career in 1966. He is a former member of The Wildweeds.</lex>
     </entry>
     <entry category="Artist" eid="Id58" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1846,9 +1846,9 @@
         <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
         <mtriple>Alan_Frew | origin | Newmarket,_Ontario</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Public speaking">Alan Frew was born in the United Kingdom, but his origins are from Newmarket, Ontario in Canada. He is a public speaker with a background as a solo singer.</lex>
-      <lex comment="good" lid="Id2" error_1="Canada">Andrew Frew was a solo singer who makes his living public speaking. Alan Frew was born in the UK but has Canadian origins coming from Newmarket, Ontario.</lex>
-      <lex comment="good" lid="Id3" error_1="Public speaking">U.K. born singer and public speaker Alan Frew is from Newmarket, Ontario, Canada.</lex>
+      <lex comment="good" lid="Id1">Alan Frew was born in the United Kingdom, but his origins are from Newmarket, Ontario in Canada. He is a public speaker with a background as a solo singer.</lex>
+      <lex comment="good" lid="Id2">Andrew Frew was a solo singer who makes his living public speaking. Alan Frew was born in the UK but has Canadian origins coming from Newmarket, Ontario.</lex>
+      <lex comment="good" lid="Id3">U.K. born singer and public speaker Alan Frew is from Newmarket, Ontario, Canada.</lex>
     </entry>
     <entry category="Artist" eid="Id69" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1913,8 +1913,8 @@
         <mtriple>Alan_Frew | background | "solo_singer"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Frew was born in the United Kingdom and comes from Newmarket, Ontario, Canada. He is a musician who has a background as a solo singer.</lex>
-      <lex comment="good" lid="Id2" error_1="Musician">Singer Alan Frew, born in the U.K. is from Newmarket, Ontario, Canada.</lex>
-      <lex comment="good" lid="Id3" error_1="Musician">Solo singer Alan Frew was born in the United Kingdom but resides in Newmarket, Ontario, Canada.</lex>
+      <lex comment="good" lid="Id2">Singer Alan Frew, born in the U.K. is from Newmarket, Ontario, Canada.</lex>
+      <lex comment="good" lid="Id3">Solo singer Alan Frew was born in the United Kingdom but resides in Newmarket, Ontario, Canada.</lex>
     </entry>
     <entry category="Artist" eid="Id71" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2484,7 +2484,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Acoustic music is the genre of Alex Day, who started performing in 2006. Born in the London Borough of Havering, he is associated with the musical artist, Charlie McDonnell and the band, Chameleon Circuit.</lex>
       <lex comment="good" lid="Id2">Alex Day was born in the London Borough of Havering. He is an acoustic musician who plays with Chameleon Circuit and is associated with Charlie McDonnell. He began his career in 2006.</lex>
-      <lex comment="good" lid="Id3" error_1="Acoustic music">Acoustic artist Alex Day, born in the London Borough of Havering. He began his career in 2006 and is associated with artists Charlie McDonnell and the Chameleon Circuit.</lex>
+      <lex comment="good" lid="Id3">Acoustic artist Alex Day, born in the London Borough of Havering. He began his career in 2006 and is associated with artists Charlie McDonnell and the Chameleon Circuit.</lex>
     </entry>
     <entry category="Artist" eid="Id94" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2606,7 +2606,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alex Day is a solo singer in the Synthpop genre which is derived from house music and originated from Disco but has its sylistic origin in new wave music.</lex>
       <lex comment="good" lid="Id2">Synthpop music originated from Disco and new wave music and is derived from house music. It is performed by Alex Day who is a solo singer.</lex>
-      <lex comment="good" lid="Id3" error_1="House music" error_2="New wave music">Synthpop has its origins in disco, house and new wave. Alex Day is a Synthpop singer.</lex>
+      <lex comment="good" lid="Id3">Synthpop has its origins in disco, house and new wave. Alex Day is a Synthpop singer.</lex>
     </entry>
     <entry category="Artist" eid="Id99" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3123,9 +3123,9 @@
         <mtriple>Alison_O'Donnell | recordLabel | Floating_World_Records</mtriple>
         <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Folk music of Ireland">Irish folk music musician Alison O'Donnell is signed to the label Floating World Records. She began performing in 1963, was a member of the Flibbertigibbet band, and is assocoated with Bajik.</lex>
+      <lex comment="good" lid="Id1">Irish folk music musician Alison O'Donnell is signed to the label Floating World Records. She began performing in 1963, was a member of the Flibbertigibbet band, and is assocoated with Bajik.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell began performing in 1963 and was signed to the record label Floating World Records. She plays folk music of Ireland and was a member of the bands Flibbertigibbet and Bajik.</lex>
-      <lex comment="good" lid="Id3" error_1="Folk music of Ireland">Alison O'Donnell plays Irish folk music and started performing in 1963. She was a member of the Flibbertigibbet band and Bajik and is signed to Floating World Records.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell plays Irish folk music and started performing in 1963. She was a member of the Flibbertigibbet band and Bajik and is signed to Floating World Records.</lex>
     </entry>
     <entry category="Artist" eid="Id119" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3143,8 +3143,8 @@
         <mtriple>Alison_O'Donnell | activeYearsStartYear | 1963</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alison O'Donnell, who began performing in 1963, played folk music of Ireland and was a member of the bands Flibbertigibbet and United Bible Studies. She was signed to the record label Static Caravan Recordings.</lex>
-      <lex comment="good" lid="Id2" error_1="Folk music of Ireland">Alison O'Donnell plays Irish folk music and has been a member of the Flibbertigibbet Band and United Bible Studies. She began her career in 1963 and is signed to Static Caravan Recordings.</lex>
-      <lex comment="good" lid="Id3" error_1="Folk music of Ireland">Alison O'Donnell began her Irish folk music career in 1963 and was a member of the Flibbertigibbet Band and United Bible Studies. She is signed to Static Caravan recordings.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell plays Irish folk music and has been a member of the Flibbertigibbet Band and United Bible Studies. She began her career in 1963 and is signed to Static Caravan Recordings.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell began her Irish folk music career in 1963 and was a member of the Flibbertigibbet Band and United Bible Studies. She is signed to Static Caravan recordings.</lex>
     </entry>
     <entry category="Artist" eid="Id120" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3163,7 +3163,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Former Flibbertigibbet band member, Alison O'Donnell, is an artist for the band Mellow Candle, who began her active years in 1963. The label Floating World Records signed Alison O'Donnell whose genre is folk music.</lex>
       <lex comment="good" lid="Id2">Alison O'Donnell performs folk music and is signed to Floating World Records. She began her career in 1963 and has played in the Flibbertigibbet band and mellow Candle.</lex>
-      <lex comment="good" lid="Id3" error_1="Folk music">Signed with Floating World Records, folk artist Alison O'Donnell began performing in 1963 and was a member of the Flibbertigibbet band and Mellow Candle.</lex>
+      <lex comment="good" lid="Id3">Signed with Floating World Records, folk artist Alison O'Donnell began performing in 1963 and was a member of the Flibbertigibbet band and Mellow Candle.</lex>
     </entry>
     <entry category="Artist" eid="Id121" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3367,9 +3367,9 @@
         <mtriple>Alison_O'Donnell | instrument | "Voice, bodhrán, percussion, autoharp"</mtriple>
         <mtriple>Jazz | stylisticOrigin | Folk_music</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Voice, bodhran, percussion, autoharp">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has derivative genres Funk and Afrobeat.</lex>
-      <lex comment="good" lid="Id2" error_1="Voice, bodhran, percussion, autoharp">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has helped create the genres of Funk and Afrobeat.</lex>
-      <lex comment="good" lid="Id3" error_1="Voice, bodhran, percussion, autoharp">Alison O'Donnell is a musician who uses her voice, bodhran, percussion and autoharp to play jazz music. Funk is one of the derivatives of Jazz which is one of the elements contained in the musical genre of Afrobeat and has its stylistic origins in folk music.</lex>
+      <lex comment="good" lid="Id1">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has derivative genres Funk and Afrobeat.</lex>
+      <lex comment="good" lid="Id2">Alison O'Donnell is a jazz musician who uses her voice, bodhran, percussion and autoharp. Jazz has its stylistic origins in folk music, and has helped create the genres of Funk and Afrobeat.</lex>
+      <lex comment="good" lid="Id3">Alison O'Donnell is a musician who uses her voice, bodhran, percussion and autoharp to play jazz music. Funk is one of the derivatives of Jazz which is one of the elements contained in the musical genre of Afrobeat and has its stylistic origins in folk music.</lex>
     </entry>
     <entry category="Artist" eid="Id130" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -3554,7 +3554,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Allen Forrest was born in the year 1981 in Fort Campbell, KY and was raised in Dothan, AL. He was originally a solo singer and performs acoustic music.</lex>
       <lex comment="good" lid="Id2">Allen Forrest was born in Fort Campbell, KY in 1981 and he was raised in Dothan, AL. He is a solo singer and performs acoustic music.</lex>
-      <lex comment="good" lid="Id3" error_1="Acoustic music">Acoustic solo singer Allen Forrest was born 1981, in Fort Campbell, Kentucky. He was raised in Dothan, Alabama.</lex>
+      <lex comment="good" lid="Id3">Acoustic solo singer Allen Forrest was born 1981, in Fort Campbell, Kentucky. He was raised in Dothan, Alabama.</lex>
     </entry>
     <entry category="Artist" eid="Id139" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3609,7 +3609,7 @@
         <mtriple>Allen_Forrest | background | "solo_singer"</mtriple>
         <mtriple>Allen_Forrest | birthPlace | Fort_Campbell</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Fort Campbell, KY, raised in Dothan, AL">Allen Forrest, a solo singer, was born in 1981 in Fort Campbell, Kentucky and was brought up in Dothan, Alabama. Mr. Forrest plays rhythm and blues music.</lex>
+      <lex comment="good" lid="Id1">Allen Forrest, a solo singer, was born in 1981 in Fort Campbell, Kentucky and was brought up in Dothan, Alabama. Mr. Forrest plays rhythm and blues music.</lex>
       <lex comment="good" lid="Id2">Allen Forrest was born in 1981 in Fort Campbell, Kentucky and was raised in Dothan, Alabama. He's a Rhythm and Blues solo singer.</lex>
       <lex comment="good" lid="Id3">Rhythm and blues singer Allen Forrest was born in Fort Campbell, Kentucky, 1981 but raised in Dothan, Alabama.</lex>
     </entry>
@@ -3700,7 +3700,7 @@
         <mtriple>Alternative_rock | stylisticOrigin | New_wave_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew White plays alternative rock which originated from punk rock and new wave music. Christian alternative rock is a subgenre of alternative rock and Nu metal is a fusion of alternative rock.</lex>
-      <lex comment="good" lid="Id2" error_1="New wave music">Andrew White is an alternative rock artist. Alternative rock comprises many sub genres including Christian rock and Nu metal, born from the style of punk rock and new wave.</lex>
+      <lex comment="good" lid="Id2">Andrew White is an alternative rock artist. Alternative rock comprises many sub genres including Christian rock and Nu metal, born from the style of punk rock and new wave.</lex>
       <lex comment="good" lid="Id3">Alternative rock originates from new wave and Punk rock with the sub genre of Christian alternative rock, and the basis for Nu metal fusion. Andrew White is an alternative rock musician.</lex>
     </entry>
     <entry category="Artist" eid="Id146" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -3778,8 +3778,8 @@
         <mtriple>Alternative_rock | stylisticOrigin | New_wave_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew White is a non-vocal instrumentalist who performs alternative rock music. Alternative rock originated from punk and new wave music and is an element of the fusion genre nu metal.</lex>
-      <lex comment="good" lid="Id2" error_1="non vocal instrumentalist">Andrew White plays an instrument in alternative rock which has its origins in new wave and punk rock music and of which nu metal is a fusion genre.</lex>
-      <lex comment="good" lid="Id3" error_1="New wave music">Andrew White is an alternative rock, non vocal instrumentalist. Alternative rock has its origins in new wave and Punk while being the origin of Nu metal.</lex>
+      <lex comment="good" lid="Id2">Andrew White plays an instrument in alternative rock which has its origins in new wave and punk rock music and of which nu metal is a fusion genre.</lex>
+      <lex comment="good" lid="Id3">Andrew White is an alternative rock, non vocal instrumentalist. Alternative rock has its origins in new wave and Punk while being the origin of Nu metal.</lex>
     </entry>
     <entry category="Artist" eid="Id149" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -4268,7 +4268,7 @@
         <mtriple>Trance_music | stylisticOrigin | Pop_music</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel a Trance performer, whose stylistic origins are pop music, is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id2" error_1="Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi">Andrew Rayel is a trance musician, which has its stylistic origins in pop music. He is associated with the following musicians: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Johnny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel is a trance musician, which has its stylistic origins in pop music. He is associated with the following musicians: Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Johnny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id3">Trance musician Andrew Rayel is associated with the following artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan Motine, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi. Trance originates from pop.</lex>
     </entry>
     <entry category="Artist" eid="Id170" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -4370,7 +4370,7 @@
         <mtriple>Andrew_Rayel | activeYearsStartYear | 2009</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel is a Trance music performer who was born in Chisinau, Moldova and started his career in 2009. He has been associated with Jonathan Mendelsohn and Bobina.</lex>
-      <lex comment="good" lid="Id2" error_1="Chisinau, Moldova">Andrew Rayel started his musical career in 2009 and was born in Chisinau in Moldova. He is a Trance music player and is associated with Bobina and Jonathan Mendelsohn, musicians.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel started his musical career in 2009 and was born in Chisinau in Moldova. He is a Trance music player and is associated with Bobina and Jonathan Mendelsohn, musicians.</lex>
       <lex comment="good" lid="Id3">Andrew Rayel was born in Chisinau, Moldova. He started his career in 2009 in the genre of trance music. He is associated with the musical artist Jonathan Mendelsohn and with Bobina.</lex>
     </entry>
     <entry category="Artist" eid="Id175" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
@@ -4465,8 +4465,8 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Piano player Andrew Rayel is associated with Christian Burns who plays house music. Rayel is also associated with Jwaydan Moyine who in turn is associated with the musical artist John Digweed.</lex>
-      <lex comment="good" lid="Id2" error_1="Piano">Andrew Rayel is a pianist associated with Christian Burns who performs house music. Rayel is also associated with musician Jwaydan Moyine, who in turn is associated with John Digweed.</lex>
-      <lex comment="good" lid="Id3" error_1="Piano">Pianist Andrew Rayel is associated with Jwaydan Moyine and house musician Christian Burns. Moyine is associated with John Digweed.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel is a pianist associated with Christian Burns who performs house music. Rayel is also associated with musician Jwaydan Moyine, who in turn is associated with John Digweed.</lex>
+      <lex comment="good" lid="Id3">Pianist Andrew Rayel is associated with Jwaydan Moyine and house musician Christian Burns. Moyine is associated with John Digweed.</lex>
     </entry>
     <entry category="Artist" eid="Id180" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4705,8 +4705,8 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id2" error_1="House music">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id3" error_1="House music">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
+      <lex comment="good" lid="Id2">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex comment="good" lid="Id3">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
     </entry>
     <entry category="Artist" eid="Id189" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4723,9 +4723,9 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi">Andrew Rayel is associated with artists like Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn and guitar player Christian Burns who plays house music. Rayel is also associated with Jwaydan, Alexander Popov, and Jano.</lex>
+      <lex comment="good" lid="Id1">Andrew Rayel is associated with artists like Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn and guitar player Christian Burns who plays house music. Rayel is also associated with Jwaydan, Alexander Popov, and Jano.</lex>
       <lex comment="good" lid="Id2">Andrew Rayel plays guitar and house music. He is associated with Armin van Buuren, Christian Burns and many other artists such as Bobina, Mark Sixma, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id3" error_1="House music">Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House guitarist), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
+      <lex comment="good" lid="Id3">Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House guitarist), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
     </entry>
     <entry category="Artist" eid="Id190" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4742,9 +4742,9 @@
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
         <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | "Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, Alexandra Badoi"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Piano">Andrew Rayel has been associated with musicians: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Mr. Rayel is a pianist. Christian Burns plays house music.</lex>
+      <lex comment="good" lid="Id1">Andrew Rayel has been associated with musicians: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Mr. Rayel is a pianist. Christian Burns plays house music.</lex>
       <lex comment="good" lid="Id2">The piano player Andrew Rayel is associated with a number of musical artists, these include: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (an exponent of house music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id3" error_1="Piano">Andrew Rayel is a pianist who is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns musical genre is house music.</lex>
+      <lex comment="good" lid="Id3">Andrew Rayel is a pianist who is associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. Christian Burns musical genre is house music.</lex>
     </entry>
     <entry category="Artist" eid="Id191" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4763,7 +4763,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Christian Burns, an exponent of House music, is associated with Andrew Rayel, who plays a string instrument. Andrew Rayel is also associated with artists such as Armin van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi.</lex>
       <lex comment="good" lid="Id2">String instrumentalist Andrew Rayel is associated with artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns (House music), Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin, and Alexandra Badoi.</lex>
-      <lex comment="good" lid="Id3" error_1="House music">String instrumentalist Andrew Rayel is associated with the artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and Christian Burns (House).</lex>
+      <lex comment="good" lid="Id3">String instrumentalist Andrew Rayel is associated with the artists: Armin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Jonathan Mendelsohn, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi and Christian Burns (House).</lex>
     </entry>
     <entry category="Artist" eid="Id192" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4852,7 +4852,7 @@
         <mtriple>Hip_hop_music | derivative | Drum_and_bass</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Drum and bass is a derivative of Hip hop music which has its origins in Funk and stylistic origin in disco. Allen Forrest, whose musical genre is hip hop music, is also known by Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix and Allen Forrest.</lex>
-      <lex comment="good" lid="Id2" error_1="Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, Allen Forrest">Allen Forrest is also known as Matchstick, Match, Allan, Forrester, Alan, Foster, Forest Matchstick and Matchstix. He plays hip hop which has its origins in disco and funk and has a derivative in drum and bass.</lex>
+      <lex comment="good" lid="Id2">Allen Forrest is also known as Matchstick, Match, Allan, Forrester, Alan, Foster, Forest Matchstick and Matchstix. He plays hip hop which has its origins in disco and funk and has a derivative in drum and bass.</lex>
       <lex comment="good" lid="Id3">Hip hop artist Allen Forrest, has gone by the names: Matchstik, Match, Allan, Forrester, Alan, Foster, Forest Matchstick, Matchstix, and Allen Forrest. Hip hop has its origins in funk and disco, lending itself to Drum and Bass.</lex>
     </entry>
     <entry category="Artist" eid="Id196" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -5616,7 +5616,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Politician Daniel Martínez, is the leader of Montevideo, where Alfredo Zitarrosa died. Montevideo is in Uruguay, where the currency is the Uruguayan peso. The leader of the country is Raul Fernando Sendic Rodriguez.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay. The currency used in Uruguay is the Uruguayan Peso and leaders of the country include Raúl Fernando Sendic Rodríguez and Daniel Martinez.</lex>
-      <lex comment="good" lid="Id3" error_1="Uruguayan peso">Montevideo is where Alfredo Zitarrosa died and where Daniel Martinez is a political leader. Its in Uruguay where the curency is the peso and the leader is Raul Fernando Sendic Rodriguez.</lex>
+      <lex comment="good" lid="Id3">Montevideo is where Alfredo Zitarrosa died and where Daniel Martinez is a political leader. Its in Uruguay where the curency is the peso and the leader is Raul Fernando Sendic Rodriguez.</lex>
     </entry>
     <entry category="Artist" eid="Id229" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5699,7 +5699,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Montevideo, in Uruguay. Montevideo is led by Daniel Martínez and Uruguay is led by, Tabaré Vázquez. The Uruguayan currency is the Uruguayan peso.</lex>
       <lex comment="good" lid="Id2">Alfredo Zitarrosa died in Montevideo, Uruguay. Uruguay uses Uruguayan pesos and is led by Tabare Vazquez. Montevideo is led by Daniel Martinez.</lex>
-      <lex comment="good" lid="Id3" error_1="Uruguayan peso">Uruguay uses the peso and is led by Tabare Vazquez. Alfredo Zitarrosa died in, Daniel Martinez led, Montevideo, Uruguay.</lex>
+      <lex comment="good" lid="Id3">Uruguay uses the peso and is led by Tabare Vazquez. Alfredo Zitarrosa died in, Daniel Martinez led, Montevideo, Uruguay.</lex>
     </entry>
     <entry category="Artist" eid="Id233" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5723,9 +5723,9 @@
         <mtriple>Montevideo | country | Uruguay</mtriple>
         <mtriple>Uruguay | currency | Uruguayan_peso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Uruguayan peso">Alfredo Zitarrosa died in Montevideo which is in Uruguay. The leaders of Uruguay are Tabare Vazquez and Raúl Fernando Sendic Rodríguez, and its currency is the peso.</lex>
+      <lex comment="good" lid="Id1">Alfredo Zitarrosa died in Montevideo which is in Uruguay. The leaders of Uruguay are Tabare Vazquez and Raúl Fernando Sendic Rodríguez, and its currency is the peso.</lex>
       <lex comment="good" lid="Id2">Montevideo is found in Uruguay, whose leaders are Tabare Vazquez and Raul Fernando Sendic Rodriguez. Uruguayan peso is the currency used in Uruguay. Alfredo Zitarrosa passed away in Montevideo.</lex>
-      <lex comment="good" lid="Id3" error_1="Uruguayan peso">Montevideo, Uruguay is led by Raul Fernando Sendic Rodriguez and Tabare Vazquez, its currency is the peso. The final resting place of Alfredo Zitarrosa is Montevideo.</lex>
+      <lex comment="good" lid="Id3">Montevideo, Uruguay is led by Raul Fernando Sendic Rodriguez and Tabare Vazquez, its currency is the peso. The final resting place of Alfredo Zitarrosa is Montevideo.</lex>
     </entry>
     <entry category="Artist" eid="Id234" shape="(X (X (X (X) (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>

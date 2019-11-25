@@ -37,9 +37,9 @@
         <mtriple>Bolt_(comicsCharacter) | alternativeName | "Larry Bolatinsky"</mtriple>
         <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Puerto Ricans">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
-      <lex comment="good" lid="Id2" error_1="Puerto Ricans">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
-      <lex comment="good" lid="Id3" error_1="Puerto Ricans">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="good" lid="Id1">Dan Mishkin and the Puerto Rican national, Ernie Colon created the comic character of Bolt who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id2">Dan Mishkin and Ernie Colón (Puerto Rican) created the comic character Bolt, the alternative name of which is Larry Bolatinsky.</lex>
+      <lex comment="good" lid="Id3">The comic book character of Bolt has the alternative name of Larry Bolatinsky. It was created by Dan Mishkin and the Puerto Rican national, Ernie Colon.</lex>
     </entry>
     <entry category="ComicsCharacter" eid="Id3" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

@@ -174,7 +174,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Amarillo is part of Potter County and Randall County in Texas in the U.S.</lex>
       <lex comment="good" lid="Id2">Amarillo is part of Potter County and Randall County in Texas, United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Potter County, Texas" error_2="Randall County, Texas">Amarillo, Texas is located in the counties of Randall and Potter in the U.S.</lex>
+      <lex comment="good" lid="Id3">Amarillo, Texas is located in the counties of Randall and Potter in the U.S.</lex>
     </entry>
     <entry category="City" eid="Id9" shape="(X (X (X (X))))" shape_type="chain" size="3">
       <originaltripleset>

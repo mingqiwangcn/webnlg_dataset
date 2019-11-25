@@ -40,7 +40,7 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus Airport is located in Tirstrup which is part of the Central Denmark region.</lex>
-      <lex comment="good" lid="Id2" error_1="Central Denmark Region">The location of Aarhus Airport is Tirstrup, part of Central Denmark.</lex>
+      <lex comment="good" lid="Id2">The location of Aarhus Airport is Tirstrup, part of Central Denmark.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in Tirstrup, part of the Central Denmark region.</lex>
     </entry>
     <entry category="Airport" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -941,7 +941,7 @@
         <mtriple>Al_Asad_Airbase | runwayLength | 3992.88</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad Airbase is in Iraq and the length of the runway is 3992.88.</lex>
-      <lex comment="good" lid="Id2" error_1="3992.88">The runway length of Al Asad Airbase, Iraq, is 3,992.88.</lex>
+      <lex comment="good" lid="Id2">The runway length of Al Asad Airbase, Iraq, is 3,992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id63" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -990,7 +990,7 @@
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force was fighting in the United States bombing of Libya in 1986 and also operates the Al Asad Airbase.</lex>
-      <lex comment="good" lid="Id2" error_1="1986 United States bombing of Libya">Al Asad Airbase is operated by the United States Air Force, which carried out the US bombing of Libya.</lex>
+      <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force, which carried out the US bombing of Libya.</lex>
     </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1038,9 +1038,9 @@
         <mtriple>Al_Asad_Airbase | runwayLength | 3992.88</mtriple>
         <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3992.88">Al Asad Airbase in Al Anbar Province, Iraq has a runway that's 3,992.88 long.</lex>
+      <lex comment="good" lid="Id1">Al Asad Airbase in Al Anbar Province, Iraq has a runway that's 3,992.88 long.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase has a runway length of 3992.88 and is located in Al Anbar Province, Iraq.</lex>
-      <lex comment="good" lid="Id3" error_1="3992.88">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and has a runway length of 3,992.88.</lex>
+      <lex comment="good" lid="Id3">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and has a runway length of 3,992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id71" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -1502,7 +1502,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | 4th_runway_SurfaceType | "Asphalt"</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="-3.3528">Amsterdam Airport Schiphol is 3.3528 below sea level and its fourth runway is made from asphalt.</lex>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol is 3.3528 below sea level and its fourth runway is made from asphalt.</lex>
       <lex comment="good" lid="Id2">Amsterdam Airport Schiphol is -3.3528 metres above sea level and the 4th runway is made of asphalt.</lex>
     </entry>
     <entry category="Airport" eid="Id103" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -2488,7 +2488,7 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport serves the city of Atlantic City, New Jersey and has Don Guardian as its leader.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">Atlantic City, N.J., which is led by Don Guardian, is served by the Atlantic City International Airport.</lex>
+      <lex comment="good" lid="Id2">Atlantic City, N.J., which is led by Don Guardian, is served by the Atlantic City International Airport.</lex>
     </entry>
     <entry category="Airport" eid="Id170" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2504,8 +2504,8 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is in Egg Harbor Township which is part of Atlantic County, New Jersey.</lex>
-      <lex comment="good" lid="Id2" error_1="Egg Harbor Township, New Jersey">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic County, New Jersey, United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic County, New Jersey, United States.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
     </entry>
     <entry category="Airport" eid="Id171" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2533,7 +2533,7 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
         <mtriple>Atlantic_City_International_Airport | runwayName | "13/31"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Port Authority of New York and New Jersey">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
+      <lex comment="good" lid="Id1">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
       <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which has the runway name of 13/31.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport, operated by the Port Authority of New York and New Jersey, has a runway named "13/31".</lex>
     </entry>
@@ -2546,8 +2546,8 @@
         <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
         <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Four World Trade Center">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
-      <lex comment="good" lid="Id2" error_1="Four World Trade Center">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
+      <lex comment="good" lid="Id1">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
+      <lex comment="good" lid="Id2">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
     </entry>
     <entry category="Airport" eid="Id174" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2660,7 +2660,7 @@
         <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
         <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Indian Air Force">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
+      <lex comment="good" lid="Id1">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
       <lex comment="good" lid="Id2">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force who operates the Agra Airport.</lex>
       <lex comment="good" lid="Id3">The operating organization for Agra Airport is the Indian Air Force who use the HAL Light Combat Helicopter.</lex>
     </entry>

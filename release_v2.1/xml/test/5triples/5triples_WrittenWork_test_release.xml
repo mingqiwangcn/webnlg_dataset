@@ -59,7 +59,7 @@
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
         <mtriple>United_States | language | English_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="African Americans">A Loyal Character Dancer is published by Soho Press in the United States, a country with an ethnic groups of African American and a language of English (also spoken in Great Britain).</lex>
+      <lex comment="good" lid="Id1">A Loyal Character Dancer is published by Soho Press in the United States, a country with an ethnic groups of African American and a language of English (also spoken in Great Britain).</lex>
       <lex comment="good" lid="Id2">English is the language spoken in both Great Britain and the United States. However it is in the US that A Loyal Character Dancer was published by Soho Press. It is in this country that the ethnic group of African Americans can be found.</lex>
       <lex comment="good" lid="Id3">A Loyal Character Dancer is published by Soho Press in the United States, where there is an ethnic group called the African Americans. English is the language of the United States and also of Great Britain.</lex>
     </entry>
@@ -134,7 +134,7 @@
         <mtriple>Above_the_Veil | precededBy | Aenir</mtriple>
         <mtriple>Aenir | precededBy | Castle_(novel)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Australians">The novel Into Battle is published in Australia. It is in a series of books including The Violet Keystone, Above The Veil, Aenir and Castle.</lex>
+      <lex comment="good" lid="Id1">The novel Into Battle is published in Australia. It is in a series of books including The Violet Keystone, Above The Veil, Aenir and Castle.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -187,7 +187,7 @@
         <mtriple>1634:_The_Ram_Rebellion | precededBy | 1634:_The_Galileo_Affair</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Barack Obama is the president of the US where there are many Asian Americans and the capital is Washington D. C. 1634 The Ram Rebellion was written in the U.S and is preceded by 1634: The Galileo Affair.</lex>
-      <lex comment="good" lid="Id2" error_1="Asian Americans">1634: The Ram Rebellion is an American novel and is preceded by 1634: The Galileo Affair. The capital of the US is Washington D.C. and the previous leader was Barack Obama. One ethnic group in the country is Asian American.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion is an American novel and is preceded by 1634: The Galileo Affair. The capital of the US is Washington D.C. and the previous leader was Barack Obama. One ethnic group in the country is Asian American.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion (preceded by 1634: The Galileo Affair), was written in the US, where Barack Obama is the leader, Washington DC is the capital and there is an ethnic group called Asian Americans.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id11" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

@@ -209,7 +209,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akita Museum of Art, located in Akita, Akita, part of Akita Prefecture, Japan displays art from Brazilians, one of the ethnic groups in that country.</lex>
       <lex comment="good" lid="Id2">The Akita Museum of Art is located in Akita, Akita, of the Akita Prefecture in Japan. Brazilians are one of the Japanese ethnic groups.</lex>
-      <lex comment="good" lid="Id3" error_1="Brazilians in Japan">The Akita Museum of Art is an art museum in the city of Akita, in Japan. Akita, Akita is part of the Akita Prefecture. Many Brazilian people live in Japan.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is an art museum in the city of Akita, in Japan. Akita, Akita is part of the Akita Prefecture. Many Brazilian people live in Japan.</lex>
     </entry>
     <entry category="Building" eid="Id11" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -393,7 +393,7 @@
         <mtriple>Manhattan | leaderName | Gale_Brewer</mtriple>
         <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="New York City">Asser Levy Public Baths are in New York, USA. Gale Brewer is the leader of Manhattan, which is a part of New York.</lex>
+      <lex comment="good" lid="Id1">Asser Levy Public Baths are in New York, USA. Gale Brewer is the leader of Manhattan, which is a part of New York.</lex>
       <lex comment="good" lid="Id2">Gale Brewer is the leader of Manhattan, New York City, United States where the Asser Levy Public baths are located.</lex>
     </entry>
     <entry category="Building" eid="Id20" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
@@ -425,8 +425,8 @@
         <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
         <mtriple>Birmingham | leaderName | Labour_Party_(UK)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="B postcode area">Birmingham has the B postcode, is led by the Labour party and is the birthplace of architect John Madin who designed 103 Colmore Row.</lex>
-      <lex comment="good" lid="Id2" error_1="B postcode area">103 Colmore Row was designed by the architect, John Madin who was born in Birmingham. Birmingham Council is led by the Labour party and has a B postal code.</lex>
+      <lex comment="good" lid="Id1">Birmingham has the B postcode, is led by the Labour party and is the birthplace of architect John Madin who designed 103 Colmore Row.</lex>
+      <lex comment="good" lid="Id2">103 Colmore Row was designed by the architect, John Madin who was born in Birmingham. Birmingham Council is led by the Labour party and has a B postal code.</lex>
     </entry>
     <entry category="Building" eid="Id22" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -475,7 +475,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Brazilians are one of the ethnic groups found in Japan which is the location of the Akita Museum of Art, Akita, Akita Prefecture.</lex>
       <lex comment="good" lid="Id2">The Brazilians are one of the ethnic groups of Japan where the Akita Museum of Art is located in Akita, Akita Prefecture.</lex>
-      <lex comment="good" lid="Id3" error_1="Brazilians in Japan">The Akita Museum of Art is located in Akita Prefecture (Akita) which is located in Japan. One of the ethnic groups in Japan is Brazilian.</lex>
+      <lex comment="good" lid="Id3">The Akita Museum of Art is located in Akita Prefecture (Akita) which is located in Japan. One of the ethnic groups in Japan is Brazilian.</lex>
     </entry>
     <entry category="Building" eid="Id25" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>

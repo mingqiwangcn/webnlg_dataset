@@ -207,8 +207,8 @@
       <modifiedtripleset>
         <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="E-book">1634: The Ram Rebellion can be found as an E book.</lex>
-      <lex comment="good" lid="Id2" error_1="E-book">1634: The Ram Rebellion is of the media type E book.</lex>
+      <lex comment="good" lid="Id1">1634: The Ram Rebellion can be found as an E book.</lex>
+      <lex comment="good" lid="Id2">1634: The Ram Rebellion is of the media type E book.</lex>
       <lex comment="good" lid="Id3">1634: The Ram Rebellion is available as an E-Book.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
@@ -281,7 +281,7 @@
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">A.T. Charlie Johnson did his PhD under the supervision of Michael Tinkham.</lex>
-      <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">A T Charlie Johnson's doctoral advisor was Michael Tinkham.</lex>
+      <lex comment="good" lid="Id2">A T Charlie Johnson's doctoral advisor was Michael Tinkham.</lex>
       <lex comment="good" lid="Id3">Michael Tinkham was a doctoral advisor of A.T. Charlie Johnson.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
@@ -518,7 +518,7 @@
       <modifiedtripleset>
         <mtriple>AIP_Advances | editor | A.T._Charlie_Johnson</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">A T Charlie Johnson is the editor of AIP Advances.</lex>
+      <lex comment="good" lid="Id1">A T Charlie Johnson is the editor of AIP Advances.</lex>
       <lex comment="good" lid="Id2">The editor of AIP Advances is A.T. Charlie Johnson.</lex>
       <lex comment="good" lid="Id3">AIP Advances was edited by A.T. Charlie Johnson.</lex>
     </entry>
@@ -1109,7 +1109,7 @@
       <modifiedtripleset>
         <mtriple>Abhandlungen_aus_dem_Mathematischen_Seminar_der_Universität_Hamburg | publisher | Springer_Science+Business_Media</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Springer Science+Business Media">Springer Science &amp; Business Media is the publisher of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg.</lex>
+      <lex comment="good" lid="Id1">Springer Science &amp; Business Media is the publisher of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id108" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1236,7 +1236,7 @@
       <modifiedtripleset>
         <mtriple>Acta_Mathematica_Hungarica | publisher | Springer_Science+Business_Media</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Springer Science+Business Media">Acta Mathematica Hungarica is published by Springer Science and Business Media.</lex>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica is published by Springer Science and Business Media.</lex>
       <lex comment="good" lid="Id2">Springer Science+Business Media is the publisher of Acta Mathematica Hungarica.</lex>
       <lex comment="good" lid="Id3">Acta Mathematica Hungarica are the publishers of Springer Science+Business Media.</lex>
     </entry>
@@ -1367,7 +1367,7 @@
         <mtriple>Addiction_(journal) | publisher | "Wiley-Blackwell on behalf of the Society for the Study of Addiction"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Addiction journal is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
-      <lex comment="good" lid="Id2" error_1="Wiley-Blackwell on behalf of the Society for the Study of Addiction">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
+      <lex comment="good" lid="Id2">Addiction journal is published by Wiley-Blackwell, on behalf of the Society for the Study of Addiction.</lex>
       <lex comment="good" lid="Id3">The journal Addiction is published by Wiley-Blackwell on behalf of the Society for the Study of Addiction.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id132" shape="(X (X))" shape_type="NA" size="1">
@@ -1574,7 +1574,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alcatraz Versus the Evil Librarians is in the genre of Fantasy literature.</lex>
       <lex comment="good" lid="Id2">Alcatraz Versus the Evil Librarians is Fantasy literature.</lex>
-      <lex comment="good" lid="Id3" error_1="Fantasy literature">Alcatraz Versus the Evil Librarians is a fantasy novel.</lex>
+      <lex comment="good" lid="Id3">Alcatraz Versus the Evil Librarians is a fantasy novel.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id151" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1632,7 +1632,7 @@
       <modifiedtripleset>
         <mtriple>American_Journal_of_Mathematics | EISSN_number | 1080</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="American Journal of Mathematics">The American Journal of Math EISSN number is 1080.</lex>
+      <lex comment="good" lid="Id1">The American Journal of Math EISSN number is 1080.</lex>
       <lex comment="good" lid="Id2">1080 is the EISSN number for the American Journal of Mathematics.</lex>
       <lex comment="good" lid="Id3">The EISSN number of the American Journal of Mathematics is 1080.</lex>
     </entry>
@@ -1700,7 +1700,7 @@
         <mtriple>American_Journal_of_Mathematics | frequency | "Bimonthly"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The American Journal of Mathematics is published bimonthly.</lex>
-      <lex comment="good" lid="Id2" error_1="Bimonthly">The American Journal of Mathematics is published bi-monthly.</lex>
+      <lex comment="good" lid="Id2">The American Journal of Mathematics is published bi-monthly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id163" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2091,8 +2091,8 @@
       <modifiedtripleset>
         <mtriple>Springer_Science+Business_Media | founder | Julius_Springer</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Springer Science+Business Media">Julius Springer is the founder of Springer Science and Business Media.</lex>
-      <lex comment="good" lid="Id2" error_1="Springer Science+Business Media">The founder of Springer Science and Business Media is Julius Springer.</lex>
+      <lex comment="good" lid="Id1">Julius Springer is the founder of Springer Science and Business Media.</lex>
+      <lex comment="good" lid="Id2">The founder of Springer Science and Business Media is Julius Springer.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id199" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

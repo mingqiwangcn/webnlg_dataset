@@ -135,9 +135,9 @@
         <mtriple>A_Severed_Wasp | country | United_States</mtriple>
         <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Washington, D.C.">A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.</lex>
+      <lex comment="good" lid="Id1">A Severed Wasp is from the United States which like Great Britain speaks English. The capital of the US is Washington D.C and one ethnic group is the African Americans.</lex>
       <lex comment="good" lid="Id2">A Severed Wasp originates in the United States where like in Great Britain, English is also spoken. Washington DC is the capital of the US and one ethnic group is the African Americans.</lex>
-      <lex comment="good" lid="Id3" error_1="Washington, D.C.">A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.</lex>
+      <lex comment="good" lid="Id3">A severed Wasp is a novel from the United States where English is largely spoken (as in Great Britain). The capital of the US is Washington D.C. and African Americans are an ethnic group there.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id8" shape="(X (X (X) (X) (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

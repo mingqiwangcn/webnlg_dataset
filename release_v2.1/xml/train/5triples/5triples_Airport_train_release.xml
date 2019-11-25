@@ -95,7 +95,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II is the Queen of Denmark where the German language is spoken. The country is the location of Aarhus airport in Tirstrup, part of the Central Denmark region.</lex>
       <lex comment="good" lid="Id2">Aarhus Airport is located in Tirstrup, in the country of Denmark. It is part of the Central Denmark region. German is the language spoken there and the country is led by Margrethe II if Denmark.</lex>
-      <lex comment="good" lid="Id3" error_1="Central Denmark Region">Aarhus Airport is located in Tirstrup, Central Denmark, Denmark (German speaking), led by Margrethe II of Denmark.</lex>
+      <lex comment="good" lid="Id3">Aarhus Airport is located in Tirstrup, Central Denmark, Denmark (German speaking), led by Margrethe II of Denmark.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -220,7 +220,7 @@
         <mtriple>Denmark | leaderName | Margrethe_II_of_Denmark</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Margrethe II and Lars Lokke Rasmussen lead the country of Denmark which is the location of Aarhus airport in Tirstrup, part of the Central Denmark region.</lex>
-      <lex comment="good" lid="Id2" error_1="Margrethe II of Denmark">Tirstrup, Central Denmark Region, is served by Aarhus Airport. Denmark is led by Lars Lokke Rasmussen and Margrethe II.</lex>
+      <lex comment="good" lid="Id2">Tirstrup, Central Denmark Region, is served by Aarhus Airport. Denmark is led by Lars Lokke Rasmussen and Margrethe II.</lex>
       <lex comment="good" lid="Id3">In Tirstrup, Denmark, there is an airport called Aarhus Airport. It's in the central region of Denmark, which is led by Margrethe II and Lars Løkke Rasmussen.</lex>
     </entry>
     <entry category="Airport" eid="Id10" shape="(X (X (X) (X (X) (X))))" shape_type="mixed" size="5">
@@ -729,7 +729,7 @@
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | "14L/32R"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adolfo Suarez Madrid-Barajas Airport is located 610 metres above sea level in Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas, and operated by ENAIRE. The runway, named 14L/32R has a length of 3500.</lex>
-      <lex comment="good" lid="Id2" error_1="3500.0" error_2="3500.0">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The airport has an elevation of 610.0 meters above sea level and has a 3,5 km long runway called 14L/32R.</lex>
+      <lex comment="good" lid="Id2">Adolfo Suárez Madrid–Barajas Airport can be found in Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The airport has an elevation of 610.0 meters above sea level and has a 3,5 km long runway called 14L/32R.</lex>
       <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas and is operated by ENAIRE. The airport is situated 610 meters above sea level and its 3,500 meters long runway is called 14L/32R.</lex>
     </entry>
     <entry category="Airport" eid="Id30" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -956,7 +956,7 @@
         <mtriple>Curitiba | isPartOf | South_Region,_Brazil</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Afonso Pena International Airport is operated by Infraero which is located in Brasilia. the airport serves the city of Curitiba which is part of the State of Paraná located in the South Region of Brazil the country.</lex>
-      <lex comment="good" lid="Id2" error_1="South Region, Brazil">The operating organization for Afonso Pena International Airport is Infraero, which is located in Brasilia. The Airport serves Curitiba which is part of Parana State in the South Region of Brasil.</lex>
+      <lex comment="good" lid="Id2">The operating organization for Afonso Pena International Airport is Infraero, which is located in Brasilia. The Airport serves Curitiba which is part of Parana State in the South Region of Brasil.</lex>
     </entry>
     <entry category="Airport" eid="Id40" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1001,7 +1001,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">In the state of Paraná, Sao Jose dos Pinhais is part of the South Region, Brazil and is where Afonso Pena International Airport is located. The airport serves the city of Curitiba and is operated by Infraero.</lex>
       <lex comment="good" lid="Id2">Afonso Pena International Airport in Sao Jose Dos Pinhais serves the city of Curitiba. Sao Jose is part of Parana and in the south region of Brazil. The airport is operated by Infraero.</lex>
-      <lex comment="good" lid="Id3" error_1="South Region, Brazil">Afonso Pena International Airport is located in São José dos Pinhais and operated by Infraero. Sao Jose dos Pinhais belongs to the South Region in Brasil and the airport serves the city of Curitiba, Parana state.</lex>
+      <lex comment="good" lid="Id3">Afonso Pena International Airport is located in São José dos Pinhais and operated by Infraero. Sao Jose dos Pinhais belongs to the South Region in Brasil and the airport serves the city of Curitiba, Parana state.</lex>
     </entry>
     <entry category="Airport" eid="Id42" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -1436,7 +1436,7 @@
         <mtriple>Al_Asad_Airbase | ICAO_Location_Identifier | "ORAA"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayName | "09L/27R"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3992.88">The United States Air Force is the operating organisation for Al Asad airbase in Iraq which has the ICAO location identifier of ORAA. The runway name at the airbase is 09L/27R and it has a length of 3,992.88.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase in Iraq which has the ICAO location identifier of ORAA. The runway name at the airbase is 09L/27R and it has a length of 3,992.88.</lex>
       <lex comment="good" lid="Id2">Al Asad airbase in Iraq is operated by the United States Air Force and has the ICAO location identifier ORAA. The airport runway name is 09L/27R and it has a length of 3992.88.</lex>
       <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase in Iraq. ORAA is the ICAO location identifier for the airbase. Al Asad airbase's runway name is "09L/27R" and it is 3992.88 meters long.</lex>
     </entry>
@@ -1456,7 +1456,7 @@
         <mtriple>Al_Asad_Airbase | runwayName | "09R/27L"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase which is in Iraq. The airbase has the ICAO Location Identifier, ORAA and has a runway length of 3992.88. The name of the runway at al Asad Airbase is 09R/27L.</lex>
-      <lex comment="good" lid="Id2" error_1="3992.88">The United States Air Force is the operating organisation for Al Asad airbase in Iraq. The ICAO Location Identifier of Al Asad Airbase is ORAA and has a 3,992.88 meters long airway called 09R/27L.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force is the operating organisation for Al Asad airbase in Iraq. The ICAO Location Identifier of Al Asad Airbase is ORAA and has a 3,992.88 meters long airway called 09R/27L.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase, In Iraq, is operated by the United States Air Force. The airbase's ICAO location identifier is ORAA, the runway name is 09R/27L and the runway length is 3992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id62" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -1519,9 +1519,9 @@
         <mtriple>United_States_Air_Force | battles | United_States_invasion_of_Panama</mtriple>
         <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lockheed AC-130">The United States Air Force, the entity that was involved in the Invasion of Panama, is the operating organisation for Al Asad airbase. The Lockheed AC 130 can be found on USAF aircraft carriers including the General Dynamics F-16 Fighting Falcon and the transport aircraft, the Lockheed C-130 Hercules.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force, the entity that was involved in the Invasion of Panama, is the operating organisation for Al Asad airbase. The Lockheed AC 130 can be found on USAF aircraft carriers including the General Dynamics F-16 Fighting Falcon and the transport aircraft, the Lockheed C-130 Hercules.</lex>
       <lex comment="good" lid="Id2">The operating organisation for Al Asad airbase is the United States Air Force. They were involved in the battle at the invasion of Panama and use the Lockheed C-130 Hercules transport aircraft, the General Dynamics F-16 Fighting Falcon fighter aircraft, and the Lockheed AC-130 on their aircraft carriers.</lex>
-      <lex comment="good" lid="Id3" error_1="General Dynamics F-16 Fighting Falcon">Al Asad airbase is operated by the United States Air Force who were part of the battle of the Invasion of Panama. The USAF have many planes including: the Lockheed AC-130 attack aircraft, the General Dynamics F-16 Falcon fighter plane and the Lockheed C-130 Hercules transport aircraft.</lex>
+      <lex comment="good" lid="Id3">Al Asad airbase is operated by the United States Air Force who were part of the battle of the Invasion of Panama. The USAF have many planes including: the Lockheed AC-130 attack aircraft, the General Dynamics F-16 Falcon fighter plane and the Lockheed C-130 Hercules transport aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id65" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1538,7 +1538,7 @@
         <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
         <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lockheed C-130 Hercules">The United States Air Force, which fought in the Korean War, operates the Al Asad airbase. Among the USAF attack aircraft are the Lockheed C-130, which serves as a transport plane, the General Dynamics F-16 Fighting Falcon and the attack aircraft Lockheed AC-130.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force, which fought in the Korean War, operates the Al Asad airbase. Among the USAF attack aircraft are the Lockheed C-130, which serves as a transport plane, the General Dynamics F-16 Fighting Falcon and the attack aircraft Lockheed AC-130.</lex>
       <lex comment="good" lid="Id2">Al Asad airbase is operated by the United States Air Force who fought in the Korean War. They deploy the Lockheed AC-130 on their aircraft carriers, the Lockheed C-130 Hercules as a transport aircraft and the General Dynamics F-16 Fighting Falcon as a fighter.</lex>
     </entry>
     <entry category="Airport" eid="Id66" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1557,7 +1557,7 @@
         <mtriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase is operated by the United States Air Force which fought in both the Korean War and Operation Enduring Freedom. Two of the plane the U.S.A.F. has are the Lockheed AC-130 (an attack aircraft) and the Lockheed C-130 Hercules (a transport aircraft).</lex>
-      <lex comment="good" lid="Id2" error_1="Lockheed C-130 Hercules">A transport aircraft for the U.S.A.F. is the Lockheed C-130 which is found on aircraft carriers. They also have an attack aircraft Lockheed AC-130. Al Asad airbase is operated by the U.S.A.F. and they were involved in the Korean war and the battle known as Operation Enduring Freedom.</lex>
+      <lex comment="good" lid="Id2">A transport aircraft for the U.S.A.F. is the Lockheed C-130 which is found on aircraft carriers. They also have an attack aircraft Lockheed AC-130. Al Asad airbase is operated by the U.S.A.F. and they were involved in the Korean war and the battle known as Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The transport plane the Lockheed C-130 Hercules and the attack aircraft Lockheed AC-130 can be found on USAF aircraft aircraft carriers. The United States Air Force fought battles in the Korean War and took part in Operation Enduring Freedom.</lex>
     </entry>
     <entry category="Airport" eid="Id67" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1669,7 +1669,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for "Al Asad airbase" and it has some transport aircraft like the "Boeing C-17 Globemaster III" and aircraft fighters like "The General Dynamics F-16 Fighting Falcon" &amp; "The Lockheed AC-130" which is an attack aircraft. the Invasion of Grenada is One of the noted United States Air Force battles.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force which uses Lockheed AC-130 attack aircraft. The USAF uses Boeing C-17 Globemaster III transport aircraft and General Dynamics F-16 Fighting Falcons. The United States Air Force battled in the Invasion of Grenada.</lex>
-      <lex comment="good" lid="Id3" error_1="General Dynamics F-16 Fighting Falcon">Al Asad Airbase is operated by the United States Air Force, who battled in the Invasion of Grenada. Some of their planes include: The Lockheed AC-130 which is an attack aircraft, the Boeing C-17 Globemaster III, a transport aircraft and the General Dynamics F-16 Falcon, which is a fighter plane.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force, who battled in the Invasion of Grenada. Some of their planes include: The Lockheed AC-130 which is an attack aircraft, the Boeing C-17 Globemaster III, a transport aircraft and the General Dynamics F-16 Falcon, which is a fighter plane.</lex>
     </entry>
     <entry category="Airport" eid="Id73" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1686,7 +1686,7 @@
         <mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
         <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Invasion of Grenada">The United States Air Force is the operating organisation for Al Asad airbase. The USAF fought in the Grenada Invasion. Weapons and aircraft located at that base are the Lockheed AC-130, the Boeing C-17 Globemaster III and the McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="good" lid="Id1">The United States Air Force is the operating organisation for Al Asad airbase. The USAF fought in the Grenada Invasion. Weapons and aircraft located at that base are the Lockheed AC-130, the Boeing C-17 Globemaster III and the McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id2">The United States Air force operates the Al Asad Airbase. The United States Air Force was involved in the battle of the Invasion of Grenada. The Lockheed AC-130 can be found on the USAF aircraft carriers. The Boeing C-17 Globemaster III is a transport plane owned by the air force and they own the fighter McDonnell Douglas F-15 Eagle.</lex>
       <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase, and the Lockheed AC-130 can be found on its aircraft carriers. The Boeing C-17 Globemaster III is a transport aircraft while the McDonnell Douglas F-15 Eagle is an aircraft fighter used by the USAF. The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
     </entry>
@@ -1705,9 +1705,9 @@
         <mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1986 United States bombing of Libya" error_2="Invasion of Grenada">The USAF, which bombed Libya and invaded Grenada, operates the Al Asad airbase. USAF carriers transport the Lockheed AC-130 and Boeing C-17 Globemaster III transport planes.</lex>
+      <lex comment="good" lid="Id1">The USAF, which bombed Libya and invaded Grenada, operates the Al Asad airbase. USAF carriers transport the Lockheed AC-130 and Boeing C-17 Globemaster III transport planes.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force who were involved in battles at the invasion of Grenada and the US bombing of Libya in 1986. They deploy the Lockheed AC-130 attack aircraft as well as the Boeing C-17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id3" error_1="1986 United States bombing of Libya">Al Asad Airbase is operated by the United States Air Force. The USAF bombed Libya in 1986 and fought in the Invasion of Grenada. The Lockheed AC-130 and Boeing C-17 Globemaster III are two aircraft on that base.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force. The USAF bombed Libya in 1986 and fought in the Invasion of Grenada. The Lockheed AC-130 and Boeing C-17 Globemaster III are two aircraft on that base.</lex>
     </entry>
     <entry category="Airport" eid="Id75" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1731,8 +1731,8 @@
         <mtriple>United_States_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
         <mtriple>United_States_Air_Force | battles | Korean_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Lockheed AC-130">Al Asad Airbase is operated by the United States Air Force. The US Air Force was involved in the Invasion of Grenada and the Korean War and uses AC-130 attack aircraft and Boeing C-17 Globemaster III transport aircraft.</lex>
-      <lex comment="good" lid="Id2" error_1="Al Asad Airbase">Al Asad air base is operated by the United States Air Force who were involved in the noted battles at the invasion of Grenada and the Korean war. The USAF deploy the Lockheed AC-130 attack aircraft and the Boeing C-17 Globemaster III transport aircraft.</lex>
+      <lex comment="good" lid="Id1">Al Asad Airbase is operated by the United States Air Force. The US Air Force was involved in the Invasion of Grenada and the Korean War and uses AC-130 attack aircraft and Boeing C-17 Globemaster III transport aircraft.</lex>
+      <lex comment="good" lid="Id2">Al Asad air base is operated by the United States Air Force who were involved in the noted battles at the invasion of Grenada and the Korean war. The USAF deploy the Lockheed AC-130 attack aircraft and the Boeing C-17 Globemaster III transport aircraft.</lex>
       <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase. The USAF fought in the Invasion of Grenada and the Korean War. The Lockheed AC-130 can be found on USAF aircraft carriers such as the Boeing C-17 Globemaster III.</lex>
     </entry>
     <entry category="Airport" eid="Id76" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
@@ -2293,7 +2293,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Maple Ridge Township, Alpena County, Michigan, in the United States, is the location of Alpena County Regional Airport. The airport serves Alpena, Michigan, is 210 metres above sea level, and has a runway length of 1,533.</lex>
       <lex comment="good" lid="Id2">Alpena County Regional Airport which serves the city of Alpena has a runway length of 1533.0 and is located at 210 metres above sea level in Maple Ridge Township, Alpena County, Michigan, United States.</lex>
-      <lex comment="good" lid="Id3" error_1="1533.0">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, United States. The airport serves Alpena, Michigan and is situated 210 meters above sea level and has a 1.533 kilometer long runway.</lex>
+      <lex comment="good" lid="Id3">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, United States. The airport serves Alpena, Michigan and is situated 210 meters above sea level and has a 1.533 kilometer long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -3755,7 +3755,7 @@
         <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
         <mtriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Atlantic City, New Jersey" error_2="Egg Harbor Township, New Jersey" error_3="New Jersey">Atlantic City International Airport in Egg Harbor Township, N.J. serves Atlantic City in the U.S.A. The city's leader is Don Guardian.</lex>
+      <lex comment="good" lid="Id1">Atlantic City International Airport in Egg Harbor Township, N.J. serves Atlantic City in the U.S.A. The city's leader is Don Guardian.</lex>
       <lex comment="good" lid="Id2">The Atlantic City International Airport serves Atlantic City, N.J., U.S. and is located at Egg Harbor Township. Don Guardian is the leader of Atlantic City in New Jersey.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, New Jersey in the United States. The airport serves Atlantic city whose leader is Don Guardian.</lex>
     </entry>
@@ -4043,8 +4043,8 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Asphalt/Concrete">With a runway surface made of asphalt and concrete, Atlantic City International Airport is in Egg Harbor. Egg Harbor Township is a township in Atlantic County, New Jersey, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Asphalt/Concrete">Atlantic City International Airport has a runway surface made of asphalt and concrete. It is located in Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
+      <lex comment="good" lid="Id1">With a runway surface made of asphalt and concrete, Atlantic City International Airport is in Egg Harbor. Egg Harbor Township is a township in Atlantic County, New Jersey, United States.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport has a runway surface made of asphalt and concrete. It is located in Egg Harbor Township, Atlantic County, New Jersey, United States.</lex>
     </entry>
     <entry category="Airport" eid="Id173" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -4428,7 +4428,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">ENAIRE, located in Madrid, is the operating organisation of Adolfo Suárez Madrid–Barajas Airport, Paracuellos de Jarama, San Sebastián de los Reyes and Alcobendas, Madrid (part of the community of Madrid) Spain.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas airport is located at Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. The airport is operated by ENAIRE. ENAIRE is located in the city of Madrid, which is part of the community of Madrid in Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas">Adolfo Suarez Madrid-Barajas Airport, located in: Madrid (Spain), Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas, is operated by ENAIRE.</lex>
+      <lex comment="good" lid="Id3">Adolfo Suarez Madrid-Barajas Airport, located in: Madrid (Spain), Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas, is operated by ENAIRE.</lex>
     </entry>
     <entry category="Airport" eid="Id189" shape="(X (X (X)) (X (X (X))))" shape_type="mixed" size="5">
       <originaltripleset>

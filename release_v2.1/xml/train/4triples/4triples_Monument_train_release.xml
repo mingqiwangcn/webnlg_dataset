@@ -219,7 +219,7 @@
         <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Frederick County, Maryland">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Frederick County. It is the location of the 11th Mississippi Infantry monument.</lex>
+      <lex comment="good" lid="Id1">The municipality of Gettysburg is in Adams County of Pennsylvania which is located to the south of Cumberland County and north east of Frederick County. It is the location of the 11th Mississippi Infantry monument.</lex>
       <lex comment="good" lid="Id2">Gettysburg in Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Adams County is south of Cumberland County and north east of Frederick County, Maryland.</lex>
       <lex comment="good" lid="Id3">The 11th Mississippi Infantry Monument is located in Adams County in the municipality of Gettysburg, Pennsylvania, with Cumberland County to its north, and Frederick County Maryland to its southwest.</lex>
       <lex comment="good" lid="Id4">The 11th Mississippi Infantry Monument is located in Gettysburg in Adams County, Pennsylvania, which has Cumberland county to its north and Frederick County, Maryland to its southwest.</lex>
@@ -237,7 +237,7 @@
         <mtriple>Adams_County,_Pennsylvania | has to its north | Cumberland_County,_Pennsylvania</mtriple>
         <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Carroll County, Maryland">The 11th Mississippi Infantry Monument, established in 2000, can be found in Adams County Pennsylvania. The county is bordered to the north by Cumberland county and to the southeast by Carroll County.</lex>
+      <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument, established in 2000, can be found in Adams County Pennsylvania. The county is bordered to the north by Cumberland county and to the southeast by Carroll County.</lex>
       <lex comment="good" lid="Id2">In 2000 the 11th Mississippi Infantry monument was established in Adams County, Pennsylvania. This County is south of Cumberland County and to the northwest of Carroll County, Maryland.</lex>
       <lex comment="good" lid="Id3">11th Mississippi Infantry Monument was established in 2000 and is located in Adams County Pennsylvania, to the north of which is Cumberland County and to its southeast is Carroll County, Maryland.</lex>
     </entry>
@@ -306,7 +306,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Franklin County to its west, Cumberland County to its north, and Carroll County Maryland to its southeast.</lex>
       <lex comment="good" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Franklin County to its west, Carroll County Maryland to its southeast, and Cumberland County Pennsylvania to its north.</lex>
-      <lex comment="good" lid="Id3" error_1="Carroll County, Maryland">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. This county is east of Franklin County and south of Cumberland County. Carrrol County, Maryland can be found to the south east.</lex>
+      <lex comment="good" lid="Id3">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. This county is east of Franklin County and south of Cumberland County. Carrrol County, Maryland can be found to the south east.</lex>
     </entry>
     <entry category="Monument" eid="Id19" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -421,7 +421,7 @@
         <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
         <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prime Minister of Azerbaijan">The Baku Turkish Martyrs' Memorial can be found is Azerbaijan which is led by Prime Minister Artur Rasizade who leads the National Assembly.</lex>
+      <lex comment="good" lid="Id1">The Baku Turkish Martyrs' Memorial can be found is Azerbaijan which is led by Prime Minister Artur Rasizade who leads the National Assembly.</lex>
       <lex comment="good" lid="Id2">The Baku Turkish Martyrs' Memorial is located in Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade, and legislated by the National Assembly.</lex>
       <lex comment="good" lid="Id3">The National Assembly dictates the legislature of Azerbaijan and the leader, who has the title Prime Minister, is Artur Rasizade. Baku Turkish Martyrs' Memorial is located in Azerbaijan.</lex>
     </entry>
@@ -457,7 +457,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial in Azerbaijan. The memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner.</lex>
       <lex comment="good" lid="Id2">The soldiers of the Ottoman army killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial located in Azerbaijan. It was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner.</lex>
-      <lex comment="good" lid="Id3" error_1="Huseyin Butuner and Hilmi Guner">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial found in Azerbaijan. It was designed in red granite and white marble by Hilmi Guner and Huseyin Butuner.</lex>
+      <lex comment="good" lid="Id3">The soldiers of the Ottoman army who were killed in the Battle of Baku are commemorated by the Baku Turkish Martyrs memorial found in Azerbaijan. It was designed in red granite and white marble by Hilmi Guner and Huseyin Butuner.</lex>
     </entry>
     <entry category="Monument" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -710,7 +710,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Turkey's capital is Ankara and the currency is the Turkish lira. The leader of Turkey is Ahmet Davutoglu. The Ataturk monument is located in Izmir.</lex>
-      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument in İzmir, Turkey, which has Ankara as its capital and uses the Lira as its currency, is led by Ahmet Davutoglu .</lex>
+      <lex comment="good" lid="Id2">The Atatürk Monument in İzmir, Turkey, which has Ankara as its capital and uses the Lira as its currency, is led by Ahmet Davutoglu .</lex>
       <lex comment="good" lid="Id3">Turkey, whose currency is the Turkish Lira, is led by Ahmet Davutoğlu from the capital Ankara. The Atatürk Monument (İzmir) is in Turkey.</lex>
       <lex comment="good" lid="Id4">Turkey, whose currency is the Turkish lira, is led by Ahmet Davutoğlu from the capital Ankara. The Atatürk Monument (İzmir) is found in Turkey.</lex>
     </entry>
@@ -761,7 +761,7 @@
         <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Ataturk Monument (Izmir) is located in Turkey and the Turkish leader is Ahmet Davutoglu. The largest city is Istanbul and the currency is the Turkish lira.</lex>
-      <lex comment="good" lid="Id2" error_1="Turkish lira">The Atatürk Monument is located in Izmir, Turkey, where the largest city is Istanbul, the currency is the lira, and the leader's name is Ahmet Davutoğlu.</lex>
+      <lex comment="good" lid="Id2">The Atatürk Monument is located in Izmir, Turkey, where the largest city is Istanbul, the currency is the lira, and the leader's name is Ahmet Davutoğlu.</lex>
       <lex comment="good" lid="Id3">Turkey's largest city is Istanbul, the currency is the lira and the Turkish leader is Ahmet Davutoğlu. The Atatürk Monument (İzmir) is found in Turkey.</lex>
     </entry>
     <entry category="Monument" eid="Id46" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

@@ -197,9 +197,9 @@
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
         <mtriple>Adisham_Hall | location | Haputale</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Tudor and Jacabian">Adisham Hall is located in Haputale and was completed in the Tudor and Jacobean style in 1931.</lex>
-      <lex comment="good" lid="Id2" error_1="Tudor and Jacabian">Adisham Hall, in the Tudor and Jacobean architectural style, completed in 1931 and located in Haputale.</lex>
-      <lex comment="good" lid="Id3" error_1="Tudor and Jacabian">Adisham Hall in Haputale was finished in 1931 in the Tudor and Jacobean style.</lex>
+      <lex comment="good" lid="Id1">Adisham Hall is located in Haputale and was completed in the Tudor and Jacobean style in 1931.</lex>
+      <lex comment="good" lid="Id2">Adisham Hall, in the Tudor and Jacobean architectural style, completed in 1931 and located in Haputale.</lex>
+      <lex comment="good" lid="Id3">Adisham Hall in Haputale was finished in 1931 in the Tudor and Jacobean style.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -218,7 +218,7 @@
         <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adisham Hall, which was finished in 1931, is located in Sri Lanka and has an architectural style known as Tudor and Jacabian.</lex>
-      <lex comment="good" lid="Id2" error_1="Tudor and Jacabian">Adisham Hall, Sri Lanka was finished in 1931 and is in the architectural style of "Tudor and Jacobean".</lex>
+      <lex comment="good" lid="Id2">Adisham Hall, Sri Lanka was finished in 1931 and is in the architectural style of "Tudor and Jacobean".</lex>
     </entry>
     <entry category="Building" eid="Id13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -250,7 +250,7 @@
         <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
         <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Sri Lankan rupee">Sri Jayawardenepura Kotte is the capital of Sri Lanka, whose currency is the rupee. Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="good" lid="Id1">Sri Jayawardenepura Kotte is the capital of Sri Lanka, whose currency is the rupee. Adisham Hall is located in Sri Lanka.</lex>
       <lex comment="good" lid="Id2">Sri Jayawardenepura Kotte is the capital of Sri Lanka, which uses the Sri Lankan rupee as its currency and is the location of Adisham Hall.</lex>
     </entry>
     <entry category="Building" eid="Id15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">

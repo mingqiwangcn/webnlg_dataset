@@ -1920,8 +1920,8 @@
       <modifiedtripleset>
         <mtriple>Walter_Baade | nationality | Germany</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">Walter Baade is a German national.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany">Walter Baade was a German national.</lex>
+      <lex comment="good" lid="Id1">Walter Baade is a German national.</lex>
+      <lex comment="good" lid="Id2">Walter Baade was a German national.</lex>
     </entry>
   </entries>
 </benchmark>

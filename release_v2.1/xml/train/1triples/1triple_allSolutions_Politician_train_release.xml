@@ -36,7 +36,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aaron S Daggett took part on the Battle of Cold Harbor.</lex>
       <lex comment="good" lid="Id2">Aaron S. Daggett fought in the Battle of Cold Harbor.</lex>
-      <lex comment="good" lid="Id3" error_1="Battle of Cold Harbor">Aaron S. Daggett battled in the Battle of Cold Harbour.</lex>
+      <lex comment="good" lid="Id3">Aaron S. Daggett battled in the Battle of Cold Harbour.</lex>
     </entry>
     <entry category="Politician" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -560,9 +560,9 @@
       <modifiedtripleset>
         <mtriple>Abel_Caballero | nationality | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spain">Abel Caballero is Spanish.</lex>
+      <lex comment="good" lid="Id1">Abel Caballero is Spanish.</lex>
       <lex comment="good" lid="Id2">Abel Caballero is a national of Spain.</lex>
-      <lex comment="good" lid="Id3" error_1="Spain">Abel Caballero is Spanish.</lex>
+      <lex comment="good" lid="Id3">Abel Caballero is Spanish.</lex>
     </entry>
     <entry category="Politician" eid="Id53" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -789,7 +789,7 @@
         <mtriple>Abraham_A._Ribicoff | nationality | American</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abraham A. Ribicoff's nationality is American.</lex>
-      <lex comment="good" lid="Id2" error_1="American">Abraham A. Ribicoff was a national of the United States.</lex>
+      <lex comment="good" lid="Id2">Abraham A. Ribicoff was a national of the United States.</lex>
       <lex comment="good" lid="Id3">The nationality of Abraham A. Ribicoff was American.</lex>
     </entry>
     <entry category="Politician" eid="Id75" shape="(X (X))" shape_type="NA" size="1">
@@ -1020,9 +1020,9 @@
       <modifiedtripleset>
         <mtriple>Adam_Koc | award | Officer's_Star_"Parasol"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Officer's Star &quot;Parasol&quot;">Adam Koc received the award Officer's Star Parasol.</lex>
-      <lex comment="good" lid="Id2" error_1="Officer's Star &quot;Parasol&quot;">Adam Koc was awarded the Officer's Star Parasol.</lex>
-      <lex comment="good" lid="Id3" error_1="Officer's Star &quot;Parasol&quot;">Adam Koc was awarded the Officer's Star, Parasol.</lex>
+      <lex comment="good" lid="Id1">Adam Koc received the award Officer's Star Parasol.</lex>
+      <lex comment="good" lid="Id2">Adam Koc was awarded the Officer's Star Parasol.</lex>
+      <lex comment="good" lid="Id3">Adam Koc was awarded the Officer's Star, Parasol.</lex>
     </entry>
     <entry category="Politician" eid="Id96" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1073,7 +1073,7 @@
         <mtriple>Adam_Koc | battles | World_War_I</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc fought in World War I.</lex>
-      <lex comment="good" lid="Id2" error_1="World War I">Adam Koc fought in WWI.</lex>
+      <lex comment="good" lid="Id2">Adam Koc fought in WWI.</lex>
     </entry>
     <entry category="Politician" eid="Id100" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1104,8 +1104,8 @@
         <mtriple>Adam_Koc | nationality | Poland</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adam Koc's nationality is Poland.</lex>
-      <lex comment="good" lid="Id2" error_1="Poland">Adam Koc is of Polish nationality.</lex>
-      <lex comment="good" lid="Id3" error_1="Poland">Adam Koc nationality is Polish.</lex>
+      <lex comment="good" lid="Id2">Adam Koc is of Polish nationality.</lex>
+      <lex comment="good" lid="Id3">Adam Koc nationality is Polish.</lex>
     </entry>
     <entry category="Politician" eid="Id103" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -1181,7 +1181,7 @@
       <modifiedtripleset>
         <mtriple>Adonis_Georgiadis | office (workedAt, workedAs) | "Deputy Parliamentary Spokesman of Popular Orthodox Rally"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Deputy Parliamentary Spokesman of Popular Orthodox Rally">Adonis Georgiadis worked as the Deputy Parliamentary Spokesman for the Popular Orthodox Rally.</lex>
+      <lex comment="good" lid="Id1">Adonis Georgiadis worked as the Deputy Parliamentary Spokesman for the Popular Orthodox Rally.</lex>
       <lex comment="good" lid="Id2">Adonis Georgiadis has worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally.</lex>
       <lex comment="good" lid="Id3">Adonis Georgiadis worked as the Deputy Parliamentary Spokesman of Popular Orthodox Rally.</lex>
     </entry>
@@ -1215,7 +1215,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Adonis Georgiadis works at office as "Vice-President of New Democracy".</lex>
       <lex comment="good" lid="Id2">Adonis Georgiadis held the office "Vice-President of New Democracy".</lex>
-      <lex comment="good" lid="Id3" error_1="Vice-President of New Democracy">Adonis Georgiadis was the Vice President of New Democracy.</lex>
+      <lex comment="good" lid="Id3">Adonis Georgiadis was the Vice President of New Democracy.</lex>
     </entry>
     <entry category="Politician" eid="Id113" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2312,7 +2312,7 @@
       <modifiedtripleset>
         <mtriple>Alvah_Sabin | religion | Baptists</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Baptists">Alvah Sabin was a Baptist.</lex>
+      <lex comment="good" lid="Id1">Alvah Sabin was a Baptist.</lex>
     </entry>
     <entry category="Politician" eid="Id216" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -3216,8 +3216,8 @@
       <modifiedtripleset>
         <mtriple>World_War_II | place | South-East_Asian_theatre_of_World_War_II</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="South-East Asian theatre of World War II">One of the places in World War II was named South East Asian theatre of World War II.</lex>
-      <lex comment="good" lid="Id2" error_1="South-East Asian theatre of World War II">South East Asia was a location for World War II.</lex>
+      <lex comment="good" lid="Id1">One of the places in World War II was named South East Asian theatre of World War II.</lex>
+      <lex comment="good" lid="Id2">South East Asia was a location for World War II.</lex>
     </entry>
   </entries>
 </benchmark>

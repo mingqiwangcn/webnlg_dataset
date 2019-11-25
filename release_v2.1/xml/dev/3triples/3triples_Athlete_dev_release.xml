@@ -187,7 +187,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Shabab_Al-Ordon_Club</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul-Zahra's club is Shabab Al-Ordon Club and he plays for Al Kharaitiyat SC at their home ground Al Khor.</lex>
-      <lex comment="good" lid="Id2" error_1="Shabab Al-Ordon Club">Alaa Abdul-Zahra's clubs are Shabab Al-Ordon and also Al Kharaitiyat SC whose ground is Al Khor.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul-Zahra's clubs are Shabab Al-Ordon and also Al Kharaitiyat SC whose ground is Al Khor.</lex>
       <lex comment="good" lid="Id3">Shabab Al-Ordon Club is one of the clubs of Alaa Abdul Zahra, Another is, AL Kharaitiyat SC which is located in Al Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -203,7 +203,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Footballer, Alan Martin was born on January 1st 1989 and he is a footballer for the Crewe Alexandra FC and for the Aldershot Town F.C.</lex>
       <lex comment="good" lid="Id2">Alan Martin (footballer), born 1st January 1989, plays for the club, Crewe Alexandra F.C. He has also played for Aldershot Town FC.</lex>
-      <lex comment="good" lid="Id3" error_1="Crewe Alexandra F.C.">Footballer Alan Martin was born on 01/01/1989. plays for Crewe Alexandra F.C and Aldershot Town F.C.</lex>
+      <lex comment="good" lid="Id3">Footballer Alan Martin was born on 01/01/1989. plays for Crewe Alexandra F.C and Aldershot Town F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -218,7 +218,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin, born on the 1st January 1989, played for Crewe Alexandra FC. and Hamilton Academical FC.</lex>
       <lex comment="good" lid="Id2">Alan Martin was born on 1 January 1989 and plays football for Hamilton Academical FC and Crewe Alexandra FC.</lex>
-      <lex comment="good" lid="Id3" error_1="Hamilton Academical F.C.">Footballer, Alan Martin, born 1st January 1989, used to play for Hamilton Academical F.C and now plays for Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id3">Footballer, Alan Martin, born 1st January 1989, used to play for Hamilton Academical F.C and now plays for Crewe Alexandra F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -360,7 +360,7 @@
         <mtriple>Maccabi_Ashdod_B.C. | coach | Zvi_Sherf</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The league Alex Tyus plays in is the Turkish Basketball Super League. His club is Maccabi Ashdod BC which is coached by, Zvi Sherf.</lex>
-      <lex comment="good" lid="Id2" error_1="Maccabi Ashdod B.C.">Alex Tyus plays for Maccabi Ashdod B.C who are coached by Zvi Sherf and are part of the Turkish Basketball Super League.</lex>
+      <lex comment="good" lid="Id2">Alex Tyus plays for Maccabi Ashdod B.C who are coached by Zvi Sherf and are part of the Turkish Basketball Super League.</lex>
     </entry>
     <entry category="Athlete" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -423,9 +423,9 @@
         <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-20_football_team</mtriple>
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Trinidad and Tobago national under-20 football team">Akeem Adams, who has represented Trinidad and Tobago at under 20 level, played for United Petrotrin FC, whose ground is Palo Seco.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams, who has represented Trinidad and Tobago at under 20 level, played for United Petrotrin FC, whose ground is Palo Seco.</lex>
       <lex comment="good" lid="Id2">Akeem Adams, who plays for the Trinidad and Tobago national under-20 football team previously played for United Petrotrin FC whose ground is at Palo Seco.</lex>
-      <lex comment="good" lid="Id3" error_1="Trinidad and Tobago national under-20 football team">Akeem Adams played for United Petrotrin F.C., who play their home games at Palo Seco ground. He also played for the Trinidad and Tobago national under 20 team.</lex>
+      <lex comment="good" lid="Id3">Akeem Adams played for United Petrotrin F.C., who play their home games at Palo Seco ground. He also played for the Trinidad and Tobago national under 20 team.</lex>
     </entry>
   </entries>
 </benchmark>

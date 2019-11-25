@@ -36,7 +36,7 @@
         <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
         <mtriple>Buzz_Aldrin | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Retired">Retiree Buzz Aldrin is a former fighter pilot.</lex>
+      <lex comment="good" lid="Id1">Retiree Buzz Aldrin is a former fighter pilot.</lex>
       <lex comment="good" lid="Id2">Buzz Aldrin is now retired but he was once a fighter pilot.</lex>
       <lex comment="good" lid="Id3">Buzz Aldrin has since retired but he once served as a fighter pilot.</lex>
       <lex comment="good" lid="Id4">Buzz Aldrin served as a fighter pilot and is now retired.</lex>

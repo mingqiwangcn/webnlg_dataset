@@ -569,7 +569,7 @@
         <mtriple>AIDS_(journal) | academicDiscipline | HIV</mtriple>
         <mtriple>AIDS_(journal) | academicDiscipline | HIV/AIDS</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="HIV/AIDS">The AIDS journal in concerned with the study of AIDS/HIV.</lex>
+      <lex comment="good" lid="Id1">The AIDS journal in concerned with the study of AIDS/HIV.</lex>
       <lex comment="good" lid="Id2">The AIDS (journal) is the academic discipline of HIV, studying HIV/AIDS.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id44" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -719,9 +719,9 @@
         <mtriple>AIP_Advances | editor | A.T._Charlie_Johnson</mtriple>
         <mtriple>A.T._Charlie_Johnson | doctoralAdvisor | Michael_Tinkham</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">The doctoral advisor of A T Charlie Johnson, the editor of AIP Advances, was Michael Tinkham.</lex>
-      <lex comment="good" lid="Id2" error_1="A.T. Charlie Johnson">A T Charlie Johnson, editor of AIP Advances, was a PhD student of Michael Tinkham.</lex>
-      <lex comment="good" lid="Id3" error_1="A.T. Charlie Johnson">Michael Tinkham was the doctoral advisor to A T Charlie Johnson who is the editor of AIP Advances.</lex>
+      <lex comment="good" lid="Id1">The doctoral advisor of A T Charlie Johnson, the editor of AIP Advances, was Michael Tinkham.</lex>
+      <lex comment="good" lid="Id2">A T Charlie Johnson, editor of AIP Advances, was a PhD student of Michael Tinkham.</lex>
+      <lex comment="good" lid="Id3">Michael Tinkham was the doctoral advisor to A T Charlie Johnson who is the editor of AIP Advances.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id54" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -745,7 +745,7 @@
         <mtriple>AIP_Advances | editor | A.T._Charlie_Johnson</mtriple>
         <mtriple>A.T._Charlie_Johnson | residence | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="A.T. Charlie Johnson">A T Charlie Johnson lives in the US and is the editor of AIP Advances.</lex>
+      <lex comment="good" lid="Id1">A T Charlie Johnson lives in the US and is the editor of AIP Advances.</lex>
       <lex comment="good" lid="Id2">A T Charlie Johnson is the editor of AIP Advances and resides in the United States.</lex>
       <lex comment="good" lid="Id3">A.T. Charlie Johnson is the editor of AIP Advances, he resides in the United States.</lex>
     </entry>
@@ -1088,7 +1088,7 @@
         <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
         <mtriple>Ireland | ethnicGroup | White_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="White people">A Long Long Way comes from Ireland, where the ethnic group is white.</lex>
+      <lex comment="good" lid="Id1">A Long Long Way comes from Ireland, where the ethnic group is white.</lex>
       <lex comment="good" lid="Id2">A Long Long Way was written in Ireland where the ethnic group is White people.</lex>
       <lex comment="good" lid="Id3">A Long Long Way was written in Ireland where white people are an ethnic group.</lex>
     </entry>
@@ -1809,9 +1809,9 @@
         <mtriple>Acta_Mathematica_Hungarica | abbreviation | "Acta Math. Hungar."</mtriple>
         <mtriple>Acta_Mathematica_Hungarica | academicDiscipline | Mathematics</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mathematics">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and comes under the discipline of Math.</lex>
+      <lex comment="good" lid="Id1">Acta Mathematica Hungarica has the abbreviation of "Acta Math. Hungar." and comes under the discipline of Math.</lex>
       <lex comment="good" lid="Id2">The abbreviation of Acta Mathematica Hungarica is Acta Math. Hungar and covers the academic discipline of Mathematics.</lex>
-      <lex comment="good" lid="Id3" error_1="Mathematics">The Acta Mathematica Hungarica (abbreviation: Acta Math. Hungar) discipline is Math.</lex>
+      <lex comment="good" lid="Id3">The Acta Mathematica Hungarica (abbreviation: Acta Math. Hungar) discipline is Math.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id131" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2104,7 +2104,7 @@
         <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Cornell University in the city of Ithaca, New York, is the publisher of Administrative Science Quarterly.</lex>
-      <lex comment="good" lid="Id2" error_1="Ithaca, New York">Cornell University, located in Ithaca NY, is the publisher of the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id2">Cornell University, located in Ithaca NY, is the publisher of the Administrative Science Quarterly.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id147" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -2685,7 +2685,7 @@
         <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
         <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="White Americans">The book Alcatraz Versus the Evil Librarians is an example of American Literature. White people are a part of the U.S's ethnic make-up.</lex>
+      <lex comment="good" lid="Id1">The book Alcatraz Versus the Evil Librarians is an example of American Literature. White people are a part of the U.S's ethnic make-up.</lex>
       <lex comment="good" lid="Id2">'Alcatraz Versus the Evil Librarians' is from The United States, the country where White Americans live.</lex>
     </entry>
     <entry category="WrittenWork" eid="Id189" shape="(X (X (X)))" shape_type="chain" size="2">

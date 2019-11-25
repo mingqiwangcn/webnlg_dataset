@@ -82,7 +82,7 @@
         <mtriple>Arròs_negre | region | Valencian_Community</mtriple>
         <mtriple>Arròs_negre | country | Spain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Spain">Arros negre is a traditional Spanish dish and comes from the region of the Valencian Community.</lex>
+      <lex comment="good" lid="Id1">Arros negre is a traditional Spanish dish and comes from the region of the Valencian Community.</lex>
       <lex comment="good" lid="Id2">Arros negre comes from the region of the Valencian Community in Spain.</lex>
       <lex comment="good" lid="Id3">Arros negre comes from the Valencian Community in Spain.</lex>
     </entry>
@@ -218,7 +218,7 @@
         <mtriple>Bakewell_pudding | dishVariation | Bakewell_tart</mtriple>
         <mtriple>Bakewell_tart | ingredient | Fruit_preserves</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Fruit preserves">Fruit preservatives is an ingredient in bakewell tarts which are a variant of bakewell pudding.</lex>
+      <lex comment="good" lid="Id1">Fruit preservatives is an ingredient in bakewell tarts which are a variant of bakewell pudding.</lex>
       <lex comment="good" lid="Id2">The Bakewell tart, containing fruit preserves, is a variation of Bakewell pudding.</lex>
       <lex comment="good" lid="Id3">Fruit preserves are an ingredient in Bakewell tart which is a variation of Bakewell pudding.</lex>
     </entry>
@@ -348,7 +348,7 @@
         <mtriple>Beef_kway_teow | country | "Singapore and Indonesia"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The main ingredients in Beef Kway Teow made in Singapore and Indonesia are kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
-      <lex comment="good" lid="Id2" error_1="Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil">Kway teow, beef tender loin, gula Melaka, sliced dried black beans, garlic, soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are the main ingredients of Beef Kway Teow which is a dish found in Indonesia and Singapore.</lex>
+      <lex comment="good" lid="Id2">Kway teow, beef tender loin, gula Melaka, sliced dried black beans, garlic, soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil are the main ingredients of Beef Kway Teow which is a dish found in Indonesia and Singapore.</lex>
       <lex comment="good" lid="Id3">Beef kway teow is a dish commonly found in Singapore and Indonesia and the main ingredients are Kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil.</lex>
     </entry>
     <entry category="Food" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -360,9 +360,9 @@
         <mtriple>Bhajji | country | India</mtriple>
         <mtriple>India | demonym | Indian_people</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Indian people">Bhajji comes from the country India, where Indians live.</lex>
+      <lex comment="good" lid="Id1">Bhajji comes from the country India, where Indians live.</lex>
       <lex comment="good" lid="Id2">Bhajji originates from India which is where Indian people are from.</lex>
-      <lex comment="good" lid="Id3" error_1="Indian people">Bhajji is a dish originating from Indian inhabited, India.</lex>
+      <lex comment="good" lid="Id3">Bhajji is a dish originating from Indian inhabited, India.</lex>
     </entry>
     <entry category="Food" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

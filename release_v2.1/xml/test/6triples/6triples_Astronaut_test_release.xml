@@ -19,7 +19,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Bean is an American born on March 15, 1932 in Wheeler, Texas. He was a test pilot and spent a total of 100305 minutes in space. He is now retired.</lex>
-      <lex comment="good" lid="Id2" error_1="&quot;100305.0&quot;(minutes)">Alan Bean (born 15th of March 1932 in Wheeler, Texas, US) served as a test pilot. He was in space for 70 days and is now retired.</lex>
+      <lex comment="good" lid="Id2">Alan Bean (born 15th of March 1932 in Wheeler, Texas, US) served as a test pilot. He was in space for 70 days and is now retired.</lex>
       <lex comment="good" lid="Id3">Alan Bean was an American test pilot who was born in Wheeler, Texas on Mar 15, 1932. He spent 100305.0 minutes in space. He is retired.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X (X)) (X (X)))" shape_type="mixed" size="6">
@@ -39,7 +39,7 @@
         <mtriple>Apollo_14 | operator | NASA</mtriple>
         <mtriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Department of Commerce Gold Medal">Alan Shepard was born in New Hampshire and died in California. He was a crew member of Apollo 14 which is operated by NASA. He was awarded the Distinguished Service Medal in the US Navy, which is higher than the Dept of Commerce Gold Medal.</lex>
+      <lex comment="good" lid="Id1">Alan Shepard was born in New Hampshire and died in California. He was a crew member of Apollo 14 which is operated by NASA. He was awarded the Distinguished Service Medal in the US Navy, which is higher than the Dept of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id2">Alan Shepard was born in New Hampshire and died in California. He was a crew member of the Apollo 14, which was operated by NASA. The United States Navy awarded the Distinguished Service Medal to Alan Shepard, which ranks higher than Department of Commerce Gold Medal.</lex>
       <lex comment="good" lid="Id3">Alan Shepard, who was born in New Hampshire, died in California and was a crew member of Apollo 14 operated by NASA, was awarded the United States Navy Distinguished Service Medal. The Distinguished Service Medal is higher than the Department Of Commerce Gold Medal.</lex>
     </entry>
@@ -81,7 +81,7 @@
         <mtriple>Buzz_Aldrin | almaMater | "Massachusetts Institute of Technology, Sc.D. 1963"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Buzz Aldrin was an American fighter pilot who was born in Glen Ridge, New Jersey. In 1963, he graduated from Massachusetts Institute of Technology, Sc.D. 1963 and was selected by NASA to be part of the Apollo 11 crew.</lex>
-      <lex comment="good" lid="Id2" error_1="Glen Ridge, New Jersey">US national Buzz Aldrin, a fighter pilot born in Glen Ridge, NJ, graduated from Massachusetts Institute of Technology, Sc.D. 1963 and went on to become a crew member on Apollo 11 after being recruited by NASA in 1963.</lex>
+      <lex comment="good" lid="Id2">US national Buzz Aldrin, a fighter pilot born in Glen Ridge, NJ, graduated from Massachusetts Institute of Technology, Sc.D. 1963 and went on to become a crew member on Apollo 11 after being recruited by NASA in 1963.</lex>
       <lex comment="good" lid="Id3">The crew on Apollo 11 included American Buzz Aldrin. He was born in Glen Ridge, New Jersey, and went on to serve as a fighter pilot before graduating from MIT with a Sc. D in 1963. In that same year he was selected to work for NASA.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">

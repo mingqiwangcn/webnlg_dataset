@@ -32,7 +32,7 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aarhus airport is located in Tirstrup which is part of the Central Denmark region. The demonym for the people of Denmark is Danes.</lex>
-      <lex comment="good" lid="Id2" error_1="Central Denmark Region">The location of Aarhus Airport is Tirstrup in Denmark. Tirstrup is part of Central Denmark. The people of that country are Danes.</lex>
+      <lex comment="good" lid="Id2">The location of Aarhus Airport is Tirstrup in Denmark. Tirstrup is part of Central Denmark. The people of that country are Danes.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in Tirstrup, which is part of the Central Denmark region. Danes is the name given to the people who live in Denmark.</lex>
     </entry>
     <entry category="Airport" eid="Id3" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -66,7 +66,7 @@
         <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Greenlandic language is spoken in Denmark where Aarhus airport is located in Tirstrup, part of the Central Denmark region.</lex>
-      <lex comment="good" lid="Id2" error_1="Central Denmark Region">Aarhus Airport is located in Tirstrup, Denmark, where they speak the Greenlandic language. Tirstrup is located in Central Denmark.</lex>
+      <lex comment="good" lid="Id2">Aarhus Airport is located in Tirstrup, Denmark, where they speak the Greenlandic language. Tirstrup is located in Central Denmark.</lex>
       <lex comment="good" lid="Id3">Aarhus Airport is located in the Central Denmark region of Tirstrup, Denmark where the Greenlandic language is spoken.</lex>
     </entry>
     <entry category="Airport" eid="Id5" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
@@ -304,7 +304,7 @@
         <mtriple>Abilene,_Texas | isPartOf | Jones_County,_Texas</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Abilene Regional airport serves the city of Abilene, part of Taylor County and Jones County, Texas, United States.</lex>
-      <lex comment="good" lid="Id2" error_1="Jones County, Texas" error_2="Taylor County, Texas">Abilene, Texas is served by the Abilene regional airport. Abilene resides in the counties of Taylor and Jones within the United States.</lex>
+      <lex comment="good" lid="Id2">Abilene, Texas is served by the Abilene regional airport. Abilene resides in the counties of Taylor and Jones within the United States.</lex>
       <lex comment="good" lid="Id3">Abilene regional airport services Abilene, Jones and Taylor County, Texas (United States).</lex>
     </entry>
     <entry category="Airport" eid="Id16" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1387,7 +1387,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Al Asad airbase in Iraq is operated by the United States Air Force. The runway name is 08/26 and it has a length of 3992.88.</lex>
       <lex comment="good" lid="Id2">The operating organisation of Al Asad airbase in Iraq is the United States Air Force. The runway length is 3992.88 and has the name 08/26.</lex>
-      <lex comment="good" lid="Id3" error_1="3992.88">Al Asad Airbase (located in Iraq) is operated by the United States Air Force. The length of the 08/26 runway is 3,992.88.</lex>
+      <lex comment="good" lid="Id3">Al Asad Airbase (located in Iraq) is operated by the United States Air Force. The length of the 08/26 runway is 3,992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id65" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1436,8 +1436,8 @@
         <mtriple>Al_Asad_Airbase | location | "Al Anbar Province, Iraq"</mtriple>
         <mtriple>Al_Asad_Airbase | runwayName | "08/26"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="3992.88">Located at Al Anbar Province, Iraq, Al Asad Airbase has a runway length, 3,992.88, a runway name, 08/26, and is operated by the United States Air Force.</lex>
-      <lex comment="good" lid="Id2" error_1="3992.88">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and is operated by the United States Air Force. The runway length of Al Asad Airbase is 3,992.88 and it is called 08/26.</lex>
+      <lex comment="good" lid="Id1">Located at Al Anbar Province, Iraq, Al Asad Airbase has a runway length, 3,992.88, a runway name, 08/26, and is operated by the United States Air Force.</lex>
+      <lex comment="good" lid="Id2">The Al Asad Airbase is situated in the Al Anbar Province, Iraq and is operated by the United States Air Force. The runway length of Al Asad Airbase is 3,992.88 and it is called 08/26.</lex>
       <lex comment="good" lid="Id3">The United States Air Force is the operating organisation for Al Asad airbase which is located in Al Anbar Province, Iraq. The runway name is 08/26 and it has a length of 3992.88.</lex>
     </entry>
     <entry category="Airport" eid="Id68" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1489,7 +1489,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The United States Air Force, who is the operating organisation for Al Asad airbase, fought battles in the Korean war. They deploy the Lockheed AC-130 attack aircraft and the McDonnell Douglas F-15 Eagle aircraft fighter.</lex>
       <lex comment="good" lid="Id2">Al Asad Airbase is operated by the United States Air Force which has fought in the Korean War. The USAF attack aircraft are the Lockheed AC-130 and the McDonnell Douglas F-15 Eagle.</lex>
-      <lex comment="good" lid="Id3" error_1="Al Asad Airbase">The Lockheed AC-130 and McDonnell Douglas F-15 Eagle aircraft fighter may be found on USAF aircraft carriers. The United States Air Force operates Al Asad air base and fought in the Korean War.</lex>
+      <lex comment="good" lid="Id3">The Lockheed AC-130 and McDonnell Douglas F-15 Eagle aircraft fighter may be found on USAF aircraft carriers. The United States Air Force operates Al Asad air base and fought in the Korean War.</lex>
     </entry>
     <entry category="Airport" eid="Id71" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1573,7 +1573,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Lockheed AC-130, an attack aircraft is used by the United States Air Force which operates Al Asad airbase. It was also involved in both the Invasion of Panama and Operation Enduring Freedom.</lex>
       <lex comment="good" lid="Id2">The Lockheed AC-130, a US fighter jet, operates out of Al Asad Airbase, controlled by the United States Air Force. Two USAF operations were the Invasion of Panama and "Operation Enduring Freedom.</lex>
-      <lex comment="good" lid="Id3" error_1="Lockheed AC-130">The United States Air Force, who operate Al Asad airbase, were involved in the invasion of Panama and in the battles of Operation Enduring Freedom. They deploy the Lockheed AC 130 on their aircraft carriers.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force, who operate Al Asad airbase, were involved in the invasion of Panama and in the battles of Operation Enduring Freedom. They deploy the Lockheed AC 130 on their aircraft carriers.</lex>
     </entry>
     <entry category="Airport" eid="Id76" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -1594,8 +1594,8 @@
         <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
         <mtriple>United_States_Air_Force | battles | 1986_United_States_bombing_of_Libya</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="1986 United States bombing of Libya">The Lockheed AC-130 is an attack aircraft of the United states Air force that have been in battles during the invasion of Grenada, bombed Libya in 1986 and operates Al Asad airbase.</lex>
-      <lex comment="good" lid="Id2" error_1="Lockheed AC-130">The United States Air Force, who are the operating organisation for Al Asad airbase, were involved in battles at the invasion of Grenada and in the 1986 US bombing of Libya and deploy the Lockheed AC 130 attack aircraft.</lex>
+      <lex comment="good" lid="Id1">The Lockheed AC-130 is an attack aircraft of the United states Air force that have been in battles during the invasion of Grenada, bombed Libya in 1986 and operates Al Asad airbase.</lex>
+      <lex comment="good" lid="Id2">The United States Air Force, who are the operating organisation for Al Asad airbase, were involved in battles at the invasion of Grenada and in the 1986 US bombing of Libya and deploy the Lockheed AC 130 attack aircraft.</lex>
       <lex comment="good" lid="Id3">The United States Air Force who are the operating organisation for Al Asad airbase fought in the bombing of Libya in 1986, and in the noted battles at the invasion of Grenada. They deploy the Lockheed AC-130 attack aircraft.</lex>
     </entry>
     <entry category="Airport" eid="Id77" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -1617,9 +1617,9 @@
         <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
         <mtriple>United_States_Air_Force | battles | Korean_War</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Al Asad Airbase" error_2="Lockheed AC-130">Al Asad air base is operated by the United States Air Force who were involved in battles at the invasion of Grenada, fought battles in the Korean war and deploy the Lockheed AC 130 on their aircraft carriers.</lex>
+      <lex comment="good" lid="Id1">Al Asad air base is operated by the United States Air Force who were involved in battles at the invasion of Grenada, fought battles in the Korean war and deploy the Lockheed AC 130 on their aircraft carriers.</lex>
       <lex comment="good" lid="Id2">Al Asad airbase is run by the United States Air Force who fought in the Korean war, were involved in battles at the invasion of Grenada and deploy the Lockheed AC-130 as an attack aircraft.</lex>
-      <lex comment="good" lid="Id3" error_1="Lockheed AC-130">The United States Air Force, who operate Al Asad airbase, fought in the Korean war, were involved in battles at the invasion of Grenada and deploy the Lockheed AC 130 on their aircraft carriers.</lex>
+      <lex comment="good" lid="Id3">The United States Air Force, who operate Al Asad airbase, fought in the Korean war, were involved in battles at the invasion of Grenada and deploy the Lockheed AC 130 on their aircraft carriers.</lex>
     </entry>
     <entry category="Airport" eid="Id78" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2153,7 +2153,7 @@
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | runwayName | "04/22 'Oostbaan'"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="04/22 'Oostbaan'">Amsterdam is served by Amsterdam Airport Schiphol which is at an elevation of -3.3528 from sea level. It has a runway length of 2014.0 metres and it has the runway name, 04/22 Oostbaan.</lex>
+      <lex comment="good" lid="Id1">Amsterdam is served by Amsterdam Airport Schiphol which is at an elevation of -3.3528 from sea level. It has a runway length of 2014.0 metres and it has the runway name, 04/22 Oostbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id101" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2168,8 +2168,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 3800.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="06/24 'Kaagbaan'">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. It has the runway name, 06/24, Kaagbaan, and has a runway length of 3800.0.</lex>
-      <lex comment="good" lid="Id2" error_1="06/24 'Kaagbaan'">Amsterdam Airport Schiphol serves the city of Amsterdam. The runway named 06/24 Kaagbaan is 3800.0 long. The airport is -3.3528 above sea level.</lex>
+      <lex comment="good" lid="Id1">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. It has the runway name, 06/24, Kaagbaan, and has a runway length of 3800.0.</lex>
+      <lex comment="good" lid="Id2">Amsterdam Airport Schiphol serves the city of Amsterdam. The runway named 06/24 Kaagbaan is 3800.0 long. The airport is -3.3528 above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id102" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2184,9 +2184,9 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="18C/36C 'Zwanenburgbaan'">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol which has a runway length of 2014.0. This Airport serves Amsterdam and is at an elevation of -3.3528 from sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="18C/36C 'Zwanenburgbaan'">Amsterdam airport, Schiphol serves the city of Amsterdam is -3.3528 metres above sea level and has runway 18C/36C Zwanenburgbaan that is 2014.0 long.</lex>
-      <lex comment="good" lid="Id3" error_1="18C/36C 'Zwanenburgbaan'">Amsterdam Airport Schiphol serves Amsterdam. The runway is called 18C/36C or Zwanenburgbaan and is 2014 metres long. Schiphol is -3.3528 above sea level.</lex>
+      <lex comment="good" lid="Id1">18C/36C or Zwanenburgbaan are the names for the runway at Amsterdam Airport Schiphol which has a runway length of 2014.0. This Airport serves Amsterdam and is at an elevation of -3.3528 from sea level.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport, Schiphol serves the city of Amsterdam is -3.3528 metres above sea level and has runway 18C/36C Zwanenburgbaan that is 2014.0 long.</lex>
+      <lex comment="good" lid="Id3">Amsterdam Airport Schiphol serves Amsterdam. The runway is called 18C/36C or Zwanenburgbaan and is 2014 metres long. Schiphol is -3.3528 above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id103" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2201,8 +2201,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="18R/36L 'Polderbaan'">Amsterdam Airport Schiphol has an elevation of -3.3528 from sea level. It serves the city of Amsterdam with a runway length and runway name of 2014.0 meters and 18R/36L Polderbaan respectively.</lex>
-      <lex comment="good" lid="Id2" error_1="18R/36L 'Polderbaan'">Amsterdam airport Schiphol is -3.3528 above sea level and serves the city of Amsterdam. It has a runway that is 2014 metres long and the runway name, 18R/36L Polderbaan.</lex>
+      <lex comment="good" lid="Id1">Amsterdam Airport Schiphol has an elevation of -3.3528 from sea level. It serves the city of Amsterdam with a runway length and runway name of 2014.0 meters and 18R/36L Polderbaan respectively.</lex>
+      <lex comment="good" lid="Id2">Amsterdam airport Schiphol is -3.3528 above sea level and serves the city of Amsterdam. It has a runway that is 2014 metres long and the runway name, 18R/36L Polderbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id104" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2218,7 +2218,7 @@
         <mtriple>Andrews_County_Airport | elevationAboveTheSeaLevel_(in_metres) | 973.0</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrews County Airport, serving the city of Andrews, Texas, is 973 metres above sea level, and has a runway length of 1773 metres.</lex>
-      <lex comment="good" lid="Id2" error_1="1773.0">Andrews County Airport is located in Andrews, Texas. The airport is located 973 meters above sea level and has a 1.773 km long runway.</lex>
+      <lex comment="good" lid="Id2">Andrews County Airport is located in Andrews, Texas. The airport is located 973 meters above sea level and has a 1.773 km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id105" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3222,7 +3222,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ashgabat International Airport located in Ashgabat is operated by Turkmenistan Airlines, its runway is 211 metres above sea level and has a runway length of 900.0.</lex>
       <lex comment="good" lid="Id2">The operating organization for Ashgabat International Airport in Ashgabat, is called Turkmenistan Airlines. The airport is 211 metres above sea level and the runway length is 900 metres.</lex>
-      <lex comment="good" lid="Id3" error_1="900.0">The Ashgabat International Airport is located in Ashgabat and operated by the Turkmenistan Airlines. The airport is situated 211 meters above sea level and has a 0.9 km long runway.</lex>
+      <lex comment="good" lid="Id3">The Ashgabat International Airport is located in Ashgabat and operated by the Turkmenistan Airlines. The airport is situated 211 meters above sea level and has a 0.9 km long runway.</lex>
     </entry>
     <entry category="Airport" eid="Id152" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3503,7 +3503,7 @@
         <mtriple>Atlantic_City,_New_Jersey | leaderName | Don_Guardian</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Don Guardian leads New Jersey (United States) where the township of Egg Harbor is. This township is where the Atlantic City International Airport, which serves serves Atlantic City, N.J., is located.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey" error_2="Egg Harbor Township, New Jersey">The Atlantic City International Airport is located in Egg Harbor Township in the United States and serves Atlantic city, NJ where Don Guardian is leader.</lex>
+      <lex comment="good" lid="Id2">The Atlantic City International Airport is located in Egg Harbor Township in the United States and serves Atlantic city, NJ where Don Guardian is leader.</lex>
       <lex comment="good" lid="Id3">Atlantic City in New Jersey is led by Don Guardian and served by Atlantic City International airport, Egg Harbor Township, New Jersey, United States.</lex>
     </entry>
     <entry category="Airport" eid="Id162" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3714,7 +3714,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Antwerp International Airport serves the city of Antwerp, in Belgiun, where two oft he leaders are Charles Michel and Philippe of Belgium.</lex>
       <lex comment="good" lid="Id2">Belgium is led by Charles Michel and Philippe of Belgium. Antwerp is a popular tourist destination in the country and is served by Antwerp International Airport.</lex>
-      <lex comment="good" lid="Id3" error_1="Philippe of Belgium">Two leaders of Belgium are Charles Michel and Phillipe. The Antwerp International Airport located in Antwerp, Belgium serves this region.</lex>
+      <lex comment="good" lid="Id3">Two leaders of Belgium are Charles Michel and Phillipe. The Antwerp International Airport located in Antwerp, Belgium serves this region.</lex>
     </entry>
     <entry category="Airport" eid="Id172" shape="(X (X (X (X) (X))))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -3791,8 +3791,8 @@
         <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
         <mtriple>Egg_Harbor_Township,_New_Jersey | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Egg Harbor Township, New Jersey" error_2="New Jersey">Egg Harbor Township, NJ United States is the home of Atlantic City International Airport, which is 23.0 metres above sea level.</lex>
-      <lex comment="good" lid="Id2" error_1="Egg Harbor Township, New Jersey" error_2="New Jersey">Atlantic City International Airport is in Egg Harbor Township, N.J. in the United States and is 23 metres above sea level.</lex>
+      <lex comment="good" lid="Id1">Egg Harbor Township, NJ United States is the home of Atlantic City International Airport, which is 23.0 metres above sea level.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is in Egg Harbor Township, N.J. in the United States and is 23 metres above sea level.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport, located in Egg Harbor Township, New Jersey (U.S.), is 23.0 meters above sea level.</lex>
     </entry>
     <entry category="Airport" eid="Id176" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3809,7 +3809,7 @@
         <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City International Airport is located in Egg Harbor Township, New Jersey in the United States and part of Atlantic County, New Jersey.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic County, New Jersey" error_2="Egg Harbor Township, New Jersey" error_3="New Jersey">Atlantic City International Airport is in Egg Harbor Township, part of Atlantic County, N.J., in the U.S.</lex>
+      <lex comment="good" lid="Id2">Atlantic City International Airport is in Egg Harbor Township, part of Atlantic County, N.J., in the U.S.</lex>
       <lex comment="good" lid="Id3">Atlantic City International Airport is located at Egg Harbor Township, New Jersey, which is part of New Jersey in the United States. The Egg Harbor Township, New Jersey is a part of Atlantic County, New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id177" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -3827,7 +3827,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">With its headquarters in the Four World Trade Center, The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport. This airport is located in Egg Harbor Township, New Jersey.</lex>
       <lex comment="good" lid="Id2">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey who operate Atlantic City International airport located in Egg Harbor Township, New Jersey.</lex>
-      <lex comment="good" lid="Id3" error_1="Four World Trade Center">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey who has its headquarters at the Four World Trade Centre. The airport can be found at Egg Harbor Township, which is part of New Jersey.</lex>
+      <lex comment="good" lid="Id3">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey who has its headquarters at the Four World Trade Centre. The airport can be found at Egg Harbor Township, which is part of New Jersey.</lex>
     </entry>
     <entry category="Airport" eid="Id178" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>

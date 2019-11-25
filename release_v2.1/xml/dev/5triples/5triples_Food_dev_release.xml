@@ -35,9 +35,9 @@
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
         <mtriple>Amatriciana_sauce | mainIngredients | "Tomatoes, guanciale, cheese, olive oil"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italian meal structure" error_2="Italy">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
-      <lex comment="good" lid="Id2" error_1="Italian meal structure">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
-      <lex comment="good" lid="Id3" error_1="Italian meal structure" error_2="Italy">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
+      <lex comment="good" lid="Id1">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
+      <lex comment="good" lid="Id2">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id3">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
     </entry>
     <entry category="Food" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -54,7 +54,7 @@
         <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
         <mtriple>Indonesia | language | Indonesian_language</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Javanese cuisine">Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken.</lex>
+      <lex comment="good" lid="Id1">Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken.</lex>
     </entry>
     <entry category="Food" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -71,7 +71,7 @@
         <mtriple>Italy | language | Italian_language</mtriple>
         <mtriple>Italy | leaderName | Sergio_Mattarella</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italians">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
+      <lex comment="good" lid="Id1">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
       <lex comment="good" lid="Id2">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader. People there are called Italians.</lex>
     </entry>
     <entry category="Food" eid="Id5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -153,8 +153,8 @@
         <mtriple>Ayam_penyet | servingTemperature | "Hot"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ayam penyet is a Javanese dish made nationwide, and can also be found in Malaysia and Singapore. It should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal.</lex>
-      <lex comment="good" lid="Id2" error_1="Nationwide, also can be found in Malaysia and Singapore">Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.</lex>
-      <lex comment="good" lid="Id3" error_1="Nationwide, also can be found in Malaysia and Singapore">Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal.</lex>
+      <lex comment="good" lid="Id2">Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.</lex>
+      <lex comment="good" lid="Id3">Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal.</lex>
     </entry>
     <entry category="Food" eid="Id9" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -427,9 +427,9 @@
         <mtriple>Bakso | country | Indonesia</mtriple>
         <mtriple>Indonesia | leaderName | Joko_Widodo</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.</lex>
-      <lex comment="good" lid="Id2" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.</lex>
-      <lex comment="good" lid="Id3" error_1="Nationwide in Indonesia, also popular in neighboring Southeast Asian countries">Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo.</lex>
+      <lex comment="good" lid="Id1">Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.</lex>
+      <lex comment="good" lid="Id2">Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.</lex>
+      <lex comment="good" lid="Id3">Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo.</lex>
     </entry>
     <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -555,7 +555,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Available nationwide in Indonesia and Singapore, Beef kway teow is a dish which comes from Singapore, where English is spoken. It is also where two of the leaders are Halimah Yacob and Tony Tan.</lex>
       <lex comment="good" lid="Id2">Just like in Indonesia, Beef kway teow is popular nationwide is Singapore (where it comes from). In this country, English is spoken and two of the leaders are Halimah Yacob and Tony Tan.</lex>
-      <lex comment="good" lid="Id3" error_1="Nationwide in Singapore and Indonesia">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
+      <lex comment="good" lid="Id3">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
     </entry>
     <entry category="Food" eid="Id29" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -590,8 +590,8 @@
         <mtriple>Ajoblanco | country | Spain</mtriple>
         <mtriple>Spain | demonym | Spaniards</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Felipe VI of Spain">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
-      <lex comment="good" lid="Id2" error_1="Felipe VI of Spain">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
+      <lex comment="good" lid="Id1">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
+      <lex comment="good" lid="Id2">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
     </entry>
   </entries>
 </benchmark>

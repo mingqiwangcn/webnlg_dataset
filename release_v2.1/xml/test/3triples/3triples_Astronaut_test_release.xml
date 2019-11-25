@@ -12,7 +12,7 @@
         <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Retired">American retiree Alan Bean was born in Wheeler, Texas.</lex>
+      <lex comment="good" lid="Id1">American retiree Alan Bean was born in Wheeler, Texas.</lex>
       <lex comment="good" lid="Id2">Retired US National Alan Bean was born in Wheeler, Texas.</lex>
       <lex comment="good" lid="Id3">Alan Bean was born in the United States in Wheeler, Texas and has retired.</lex>
     </entry>

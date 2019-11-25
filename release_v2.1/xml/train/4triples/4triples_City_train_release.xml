@@ -519,8 +519,8 @@
         <mtriple>Albany,_Oregon | areaCode | 541, 458</mtriple>
         <mtriple>Albany,_Oregon | populationDensity | 1104.1 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="64.008">Albany, Oregon has a total area of 45.97 square kilometres and is 64,008 above sea level. It has area codes 541 and 458 and a population density of 1104.1 inhabitants per square kilometre.</lex>
-      <lex comment="good" lid="Id2" error_1="64.008">Albany, Oregon; has a total area of 45.97 sq kms, is 64,008 above sea level, has a population density of 1104.1 inhabitants per sq km., and the area codes, 541 and 458.</lex>
+      <lex comment="good" lid="Id1">Albany, Oregon has a total area of 45.97 square kilometres and is 64,008 above sea level. It has area codes 541 and 458 and a population density of 1104.1 inhabitants per square kilometre.</lex>
+      <lex comment="good" lid="Id2">Albany, Oregon; has a total area of 45.97 sq kms, is 64,008 above sea level, has a population density of 1104.1 inhabitants per sq km., and the area codes, 541 and 458.</lex>
       <lex comment="good" lid="Id3">Albany, Oregon has a population density of 1104.1 inhabitants per sq km and is located 64.008 above sea level. It uses the area codes of 541 and 458 and has a total area of 45.97 sq km.</lex>
     </entry>
     <entry category="City" eid="Id20" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -710,7 +710,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Albuquerque in New Mexico has 1142.3 inhabitants per square kilometre. It covers a total area of 490.9 sq km of which 486.2 sq km is land.</lex>
       <lex comment="good" lid="Id2">The total area of Albuquerque, New Mexico is 490.9 square kilometres. The population density of Albuquerque is 1142.3 inhabitants per sq km. and it has an area of land of 486.2 square kilometers.</lex>
-      <lex comment="good" lid="Id3" error_1="Albuquerque, New Mexico" error_2="New Mexico">Albuquerque, N.M. has an area of land of 486.2 square kilometers and its population density is 1142.3 people/sq km. The total area of Albuquerque is 490.9 square kilometres.</lex>
+      <lex comment="good" lid="Id3">Albuquerque, N.M. has an area of land of 486.2 square kilometers and its population density is 1142.3 people/sq km. The total area of Albuquerque is 490.9 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id29" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -816,7 +816,7 @@
         <mtriple>Alexandria,_Indiana | populationDensity | 755.3 (inhabitants per square kilometre)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alexandria, Indiana is located at 265.0 above sea level and occupies 6.81 square kilometres. Its are code is 765 and it has 755.3 inhabitants/sq km population density.</lex>
-      <lex comment="good" lid="Id2" error_1="6.81 (square kilometres)">Alexandria, in Indiana, has a total area of 6,81 square kilometres and is 265m above sea level. The population density of Alexandria is 755.3 (inhabitants per square kilometer) and the area code is 765.</lex>
+      <lex comment="good" lid="Id2">Alexandria, in Indiana, has a total area of 6,81 square kilometres and is 265m above sea level. The population density of Alexandria is 755.3 (inhabitants per square kilometer) and the area code is 765.</lex>
       <lex comment="good" lid="Id3">The total area of Alexandria, Indiana is 6.81 square kilometres and it is 265m above sea level. The area code for Alexandria is 765 and the population density is 755.3 (inhabitants per square kilometer).</lex>
     </entry>
     <entry category="City" eid="Id30" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -1868,7 +1868,7 @@
         <mtriple>Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ann Arbor (Michigan), has a total area of 74.33 square kilometres and its area code is 734.The town is led by a City Administrator and it has a 1580.7 per square kilometre population density.</lex>
-      <lex comment="good" lid="Id2" error_1="1580.7 (inhabitants per square kilometre)">Ann Arbor, Michiganis 74.33 square kilometres large, has 1,580.7 residents per square kilometre, uses the 734 area code and is run by an city administrator.</lex>
+      <lex comment="good" lid="Id2">Ann Arbor, Michiganis 74.33 square kilometres large, has 1,580.7 residents per square kilometre, uses the 734 area code and is run by an city administrator.</lex>
       <lex comment="good" lid="Id3">Ann Arbor, Michigan, led by the City Administrator and with the area code 734, has a population density of 1580.7 persons for each of its 74.33 square kilometres.</lex>
     </entry>
     <entry category="City" eid="Id76" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2270,7 +2270,7 @@
         <mtriple>Atlanta | isPartOf | DeKalb_County,_Georgia</mtriple>
         <mtriple>Atlanta | country | United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="DeKalb County, Georgia" error_2="Fulton County, Georgia">Atlanta, in the U.S.A., is part of Fulton and DeKalb counties in Georgia where Dunwoody is the largest city.</lex>
+      <lex comment="good" lid="Id1">Atlanta, in the U.S.A., is part of Fulton and DeKalb counties in Georgia where Dunwoody is the largest city.</lex>
       <lex comment="good" lid="Id2">Most of Atlanta in the United States is in DeKalb County, Georgia where the largest city is Dunwoody. However, it is also part of Fulton County, also in Georgia.</lex>
     </entry>
     <entry category="City" eid="Id90" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2437,7 +2437,7 @@
         <mtriple>Atlantic_City,_New_Jersey | areaTotal | 44.125 (square kilometres)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Atlantic City, in New Jersey, has a population density of 1421.2 inhabitants per square kilometre and a total area of 44.125 sq. km. It has an area code of 609 and the Clerk leads this city.</lex>
-      <lex comment="good" lid="Id2" error_1="Atlantic City, New Jersey">A Clerk (municipal official) is the leader of Atlantic City, N.J and its total area is 44.125 square kilometres. The area code of the city is 609 and it has 1421.2 inhabitants/square kilometre population density.</lex>
+      <lex comment="good" lid="Id2">A Clerk (municipal official) is the leader of Atlantic City, N.J and its total area is 44.125 square kilometres. The area code of the city is 609 and it has 1421.2 inhabitants/square kilometre population density.</lex>
       <lex comment="good" lid="Id3">The municipal official titled the Clerk leads Atlantic City, New Jersey which has a total area of 44.125 square kilometres. The area code of the city is 609 and it has a 1421.2 people/sq km population density.</lex>
     </entry>
     <entry category="City" eid="Id97" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -2776,7 +2776,7 @@
         <mtriple>Auburn,_Alabama | isPartOf | Alabama</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Auburn is part of Lee County in Alabama. It is located in the United States which has African Americans as one of its ethnic groups.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans">Auburn in Lee County, Alabama in the United States contains the ethnic group of African American.</lex>
+      <lex comment="good" lid="Id2">Auburn in Lee County, Alabama in the United States contains the ethnic group of African American.</lex>
     </entry>
     <entry category="City" eid="Id111" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2952,8 +2952,8 @@
         <mtriple>Auburn,_Washington | country | United_States</mtriple>
         <mtriple>Auburn,_Washington | isPartOf | King_County,_Washington</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of Pierce and King counties in Washington state. The state belongs to the United States whose capital is Washington D.C.</lex>
-      <lex comment="good" lid="Id2" error_1="King County, Washington" error_2="Pierce County, Washington">Auburn is part of Pierce and King Counties in Washington state. The state is part of the United States whose capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id1">Auburn is part of Pierce and King counties in Washington state. The state belongs to the United States whose capital is Washington D.C.</lex>
+      <lex comment="good" lid="Id2">Auburn is part of Pierce and King Counties in Washington state. The state is part of the United States whose capital is Washington D.C.</lex>
     </entry>
     <entry category="City" eid="Id119" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -4247,7 +4247,7 @@
         <mtriple>Albuquerque,_New_Mexico | country | United_States</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Led by the New Mexico Senate, Albuquerque, New Mexico, is in the United States. The country where Barack Obama is the leader and African Americans are one of the ethnic groups.</lex>
-      <lex comment="good" lid="Id2" error_1="African Americans">The New Mexico Senate leads Albuquerque in New Mexico, United States. Barack Obama is the leader of the United States, some other black people live there too.</lex>
+      <lex comment="good" lid="Id2">The New Mexico Senate leads Albuquerque in New Mexico, United States. Barack Obama is the leader of the United States, some other black people live there too.</lex>
       <lex comment="good" lid="Id3">Albuquerque, New Mexico, United States, is led by the New Mexico Senate. Barack Obama is a leader of the United States, where African Americans constitute one of the ethnic groups.</lex>
     </entry>
     <entry category="City" eid="Id189" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

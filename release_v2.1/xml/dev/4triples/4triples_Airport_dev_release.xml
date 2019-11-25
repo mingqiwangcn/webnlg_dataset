@@ -37,7 +37,7 @@
         <mtriple>Alcobendas | country | Spain</mtriple>
         <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Adolfo Suarez Madrid-Barajas Airport">Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.</lex>
+      <lex comment="good" lid="Id1">Adolfo Suarez Madrid Barajas Airport is located in Alcobendas, Spain, and operated by the Madrid-based ENAIRE.</lex>
       <lex comment="good" lid="Id2">Adolfo Suarez Madrid-Barajas Airport is located in Alcobendas, Spain. The airport is operated by ENAIRE.</lex>
       <lex comment="good" lid="Id3">Adolfo Suárez Madrid–Barajas Airport, operated by Madrid's ENAIRE, is located in Alcobendas, Spain.</lex>
     </entry>
@@ -229,8 +229,8 @@
         <mtriple>Amsterdam_Airport_Schiphol | runwayLength | 2014.0</mtriple>
         <mtriple>Amsterdam_Airport_Schiphol | elevationAboveTheSeaLevel_(in_metres) | -3.3528</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="06/24 'Kaagbaan'">The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.</lex>
-      <lex comment="good" lid="Id2" error_1="06/24 'Kaagbaan'">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan.</lex>
+      <lex comment="good" lid="Id1">The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level. It has a runway length of 2014.0 meters and 06/24, Kaagbaan, is the runway name.</lex>
+      <lex comment="good" lid="Id2">Serving the city of Amsterdam, Amsterdam airport Schiphol is -3.3528 above sea level. Amsterdam Airport Schiphol's runway length is 2014.0 and it has the runway name, 06/24 Kaagbaan.</lex>
     </entry>
     <entry category="Airport" eid="Id13" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -475,7 +475,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Egg Harbor Township is in New Jersey, in the United States and is where Atlantic City International Airport is located. This airport has a runway length of 3048.0.</lex>
       <lex comment="good" lid="Id2">Egg Harbor Township, New Jersey is part of New Jersey in the United States. It is where Atlantic City International Airport (with a runway length of 3048.0) is located.</lex>
-      <lex comment="good" lid="Id3" error_1="Atlantic City International Airport">Atlantic City Airport (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States.</lex>
+      <lex comment="good" lid="Id3">Atlantic City Airport (runway length 3048.0) is located in Egg Harbor Township, which is part of New Jersey in the United States.</lex>
     </entry>
     <entry category="Airport" eid="Id25" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

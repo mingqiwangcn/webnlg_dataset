@@ -92,7 +92,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">(66063) 1998 RO1 has an epoch date of 2013-11-04 and an orbital period of 360.29 days. Its escape velocity is 0.0999 km/sec and it has an apoapsis of 254989570.60815 kilometres.</lex>
       <lex comment="good" lid="Id2">(66063)1998 RO1 had its epoch date on 2013-11-04 and has an orbital period of 360.29 days. It has an escape velocity of 0.0999 km/s and its apoapsis is 254989570.60815 kilometres.</lex>
-      <lex comment="good" lid="Id3" error_1="0.0999 (kilometrePerSeconds)">The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.</lex>
+      <lex comment="good" lid="Id3">The epoch date for 66063 1998 RO1 is November 4, 2013. Its orbital period is 360.29 days, has an escape velocity of .0999 km per sec., and its apoapsis is 254989570.60815 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

@@ -136,7 +136,7 @@
       <modifiedtripleset>
         <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italian meal structure">Amatriciana sauce can be found in an Italian meal.</lex>
+      <lex comment="good" lid="Id1">Amatriciana sauce can be found in an Italian meal.</lex>
     </entry>
     <entry category="Food" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -812,7 +812,7 @@
         <mtriple>Baked_Alaska | country | "France, United States or China"</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Baked Alaska is thought to have originated in the United States, France or China.</lex>
-      <lex comment="good" lid="Id2" error_1="France, United States or China">France, United States and China all claim to have invented Baked Alaska.</lex>
+      <lex comment="good" lid="Id2">France, United States and China all claim to have invented Baked Alaska.</lex>
       <lex comment="good" lid="Id3">Baked Alaska is from France, the United States or China.</lex>
     </entry>
     <entry category="Food" eid="Id78" shape="(X (X))" shape_type="NA" size="1">
@@ -1144,7 +1144,7 @@
       <modifiedtripleset>
         <mtriple>Bandeja_paisa | ingredient | Cooking_plantain</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Cooking plantain">Plantain is one of the ingredients in the dish Bandeja paisa.</lex>
+      <lex comment="good" lid="Id1">Plantain is one of the ingredients in the dish Bandeja paisa.</lex>
       <lex comment="good" lid="Id2">Cooking plantain is an ingredient in bandeja paisa.</lex>
     </entry>
     <entry category="Food" eid="Id110" shape="(X (X))" shape_type="NA" size="1">
@@ -1286,7 +1286,7 @@
       <modifiedtripleset>
         <mtriple>Barny_Cakes | dishVariation | Strawberry</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Strawberry">Strawberries can be added to barny cakes.</lex>
+      <lex comment="good" lid="Id1">Strawberries can be added to barny cakes.</lex>
       <lex comment="good" lid="Id2">A variation of Barny Cakes is to use Strawberry.</lex>
     </entry>
     <entry category="Food" eid="Id124" shape="(X (X))" shape_type="NA" size="1">
@@ -2347,9 +2347,9 @@
       <modifiedtripleset>
         <mtriple>Mexico | currency | Mexican_peso</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Mexican peso">The currency in Mexico is the peso.</lex>
+      <lex comment="good" lid="Id1">The currency in Mexico is the peso.</lex>
       <lex comment="good" lid="Id2">The currency in Mexico is the Mexican peso.</lex>
-      <lex comment="good" lid="Id3" error_1="Mexican peso">The currency of Mexico is the peso.</lex>
+      <lex comment="good" lid="Id3">The currency of Mexico is the peso.</lex>
     </entry>
     <entry category="Food" eid="Id222" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2927,7 +2927,7 @@
       <modifiedtripleset>
         <mtriple>Valencian_Community | leaderName | Ximo_Puig</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Valencian Community">The leader of the community of Valencia is Ximo Puig.</lex>
+      <lex comment="good" lid="Id1">The leader of the community of Valencia is Ximo Puig.</lex>
       <lex comment="good" lid="Id2">Ximo Puig is a leader in the Valencian Community.</lex>
       <lex comment="good" lid="Id3">Ximo Puig is a leader of the Valencian Community.</lex>
     </entry>

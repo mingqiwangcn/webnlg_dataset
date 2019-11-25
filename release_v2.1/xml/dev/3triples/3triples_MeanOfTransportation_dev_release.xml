@@ -52,7 +52,7 @@
         <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
         <mtriple>A-Rosa_Luna | shipOrdered | 2004-01-22</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="125800.0 (millimetres)">Ordered on January 22nd, 2004, the A-Rosa Luna, is classed as a Cruise ship and has a length of 125.8 metres.</lex>
+      <lex comment="good" lid="Id1">Ordered on January 22nd, 2004, the A-Rosa Luna, is classed as a Cruise ship and has a length of 125.8 metres.</lex>
       <lex comment="good" lid="Id2">A-Rosa Luna, a cruise ship 125800.0 millimetres in length, was ordered on January 22, 2004.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -71,8 +71,8 @@
         <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
         <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany">The operator of AIDAstella is German-based AIDA Cruises. The AIDAstella is owned by Costa Crociere.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany">The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id1">The operator of AIDAstella is German-based AIDA Cruises. The AIDAstella is owned by Costa Crociere.</lex>
+      <lex comment="good" lid="Id2">The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.</lex>
       <lex comment="good" lid="Id3">AIDA Cruises are based in Germany and owned by Costa Crociere. They operate the AIDAstella.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -325,7 +325,7 @@
         <mtriple>Aston_Martin_V8 | assembly | "Newport Pagnell, Buckinghamshire, England, United Kingdom"</mtriple>
         <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Newport Pagnell, Buckinghamshire, England, United Kingdom">The Aston Martin V8 is similar to the DBS and has a 5.3 litre engine. It is made in Newport Pagnell, Buckinghamshire, England, UK.</lex>
+      <lex comment="good" lid="Id1">The Aston Martin V8 is similar to the DBS and has a 5.3 litre engine. It is made in Newport Pagnell, Buckinghamshire, England, UK.</lex>
       <lex comment="good" lid="Id2">The Aston Martin V8 assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8(has a engine volume of 5.3 litres) and the Aston Martin DBS are related means of transport.</lex>
       <lex comment="good" lid="Id3">The Aston Martin V8 has a 5.3 litre engine and its assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8 and the Aston Martin DBS are related means of transport.</lex>
     </entry>
@@ -354,9 +354,9 @@
         <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
         <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Native Americans in the United States" error_2="President of the United States">The Atlas II comes from the US where Native Americans are an ethnic group and the leader is the President.</lex>
+      <lex comment="good" lid="Id1">The Atlas II comes from the US where Native Americans are an ethnic group and the leader is the President.</lex>
       <lex comment="good" lid="Id2">The Atlas II originated from the United States, where Native Americans are an ethnic group. The leader of the United States has the title President of the United States.</lex>
-      <lex comment="good" lid="Id3" error_1="Native Americans in the United States" error_2="President of the United States">The Atlas II originated from the U.S. where the President is the leader and Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3">The Atlas II originated from the U.S. where the President is the leader and Native Americans are an ethnic group.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -390,8 +390,8 @@
         <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Audi A1 is manufactured by Audi. It is a similar means of transport as the Seat Ibiza and Volkswagen Polo since they are all cars.</lex>
-      <lex comment="good" lid="Id2" error_1="Volkswagen Polo">Audi's A1 is similar to the Seat Ibiza and the VW Polo.</lex>
-      <lex comment="good" lid="Id3" error_1="Volkswagen Polo">Audi is the manufacturer of the Audi A1. It, the Seat Ibiza and VW Polo are all cars and therefore related modes of transportation.</lex>
+      <lex comment="good" lid="Id2">Audi's A1 is similar to the Seat Ibiza and the VW Polo.</lex>
+      <lex comment="good" lid="Id3">Audi is the manufacturer of the Audi A1. It, the Seat Ibiza and VW Polo are all cars and therefore related modes of transportation.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

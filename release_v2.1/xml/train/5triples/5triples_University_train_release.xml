@@ -315,7 +315,7 @@
         <mtriple>Switzerland | leaderName | Johann_Schneider-Ammann</mtriple>
         <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Switzerland">The Swiss leader is Federal Chancellor Johann Schneider-Ammann. The municipality of Meride neighbours Mendrisio which is the location of the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="good" lid="Id1">The Swiss leader is Federal Chancellor Johann Schneider-Ammann. The municipality of Meride neighbours Mendrisio which is the location of the Accademia di Architettura di Mendrisio.</lex>
       <lex comment="good" lid="Id2">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland, in the municipality of Meride. Johann Schneider-Ammann is the Federal Chancellor of Switzerland.</lex>
     </entry>
     <entry category="University" eid="Id17" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
@@ -341,7 +341,7 @@
         <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Mendrisio's neighbouring municipality is Meride. The leader of Switzerland is Johann Schneider-Ammann and its legislature is the Federal Assembly.</lex>
-      <lex comment="good" lid="Id2" error_1="Switzerland">The Swiss legislature is the Federal Assembly and the leader of the country is Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in the city of Mendrisio which neighbours the municipality of Meride.</lex>
+      <lex comment="good" lid="Id2">The Swiss legislature is the Federal Assembly and the leader of the country is Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in the city of Mendrisio which neighbours the municipality of Meride.</lex>
       <lex comment="good" lid="Id3">The Accademia di Architettura di Mendrisio is neighboured by Meride in Switzerland. The country is led by Johann Schneider-Ammann and the Federal Assembly.</lex>
     </entry>
     <entry category="University" eid="Id18" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -977,7 +977,7 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1 Decembrie 1918 University is in Romania which has Bucharest as its capital and the national anthem is Deșteaptă-te, române. The country is led by Klaus Iohannis and its ethnic group is the Germans of Romania.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and is led by Klaus Iohannis. One of the ethnicities of the country is Germanic and the national anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and is led by Klaus Iohannis. One of the ethnicities of the country is Germanic and the national anthem is Deșteaptă-te, române!</lex>
     </entry>
     <entry category="University" eid="Id48" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

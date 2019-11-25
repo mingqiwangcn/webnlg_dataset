@@ -39,7 +39,7 @@
       <modifiedtripleset>
         <mtriple>Aaron_Bertram | background | "non_vocal_instrumentalist"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="non vocal instrumentalist">Aaron Bertram has a background with a non vocal instrument.</lex>
+      <lex comment="good" lid="Id1">Aaron Bertram has a background with a non vocal instrument.</lex>
       <lex comment="good" lid="Id2">Aaron Bertram is a non vocal instrumentalist.</lex>
     </entry>
     <entry category="Artist" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
@@ -979,7 +979,7 @@
       <modifiedtripleset>
         <mtriple>Alan_Frew | occupation | Public_speaking</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Public speaking">Alan Frew is a public speaker.</lex>
+      <lex comment="good" lid="Id1">Alan Frew is a public speaker.</lex>
       <lex comment="good" lid="Id2">Alan Frew makes his living with public speaking.</lex>
     </entry>
     <entry category="Artist" eid="Id89" shape="(X (X))" shape_type="NA" size="1">
@@ -1375,7 +1375,7 @@
       <modifiedtripleset>
         <mtriple>Alfred_Garth_Jones | deathDate | "c. 1944"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="c. 1944">Alfred Garth Jones died in around 1944.</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones died in around 1944.</lex>
       <lex comment="good" lid="Id2">Alfred Garth Jones sadly died circa 1944.</lex>
     </entry>
     <entry category="Artist" eid="Id123" shape="(X (X))" shape_type="NA" size="1">
@@ -1406,8 +1406,8 @@
       <modifiedtripleset>
         <mtriple>Alfred_Garth_Jones | professionalField | Illustration</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Illustration">Alfred Garth Jones makes a living as an Illustrator.</lex>
-      <lex comment="good" lid="Id2" error_1="Illustration">Alfred Garth Jones was a professional Illustrator.</lex>
+      <lex comment="good" lid="Id1">Alfred Garth Jones makes a living as an Illustrator.</lex>
+      <lex comment="good" lid="Id2">Alfred Garth Jones was a professional Illustrator.</lex>
     </entry>
     <entry category="Artist" eid="Id126" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2346,7 +2346,7 @@
         <mtriple>Andrew_Rayel | instrument | Piano</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Andrew Rayel plays the piano.</lex>
-      <lex comment="good" lid="Id2" error_1="Piano">Andrew Rayel is a pianist.</lex>
+      <lex comment="good" lid="Id2">Andrew Rayel is a pianist.</lex>
     </entry>
     <entry category="Artist" eid="Id206" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2392,7 +2392,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The musician Andrew White is a non-vocal instrumentalist.</lex>
       <lex comment="good" lid="Id2">Andrew White is a non vocal instrumentalist.</lex>
-      <lex comment="good" lid="Id3" error_1="non vocal instrumentalist">Andrew White is a musician that has a background with a non vocal instrument.</lex>
+      <lex comment="good" lid="Id3">Andrew White is a musician that has a background with a non vocal instrument.</lex>
     </entry>
     <entry category="Artist" eid="Id210" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

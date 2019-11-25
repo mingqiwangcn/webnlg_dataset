@@ -1055,7 +1055,7 @@
         <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">1 Decembrie 1918 University is in Alba Iulia which is part of Alba County in Romania. Romania's capital is Bucharest and its ethnic group is the Germans of Romania. The country is led by Klaus Iohannis.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Iulia (part of Alba County), Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has the Germanic population.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Alba Iulia (part of Alba County), Romania. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has the Germanic population.</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in the city of Alba Iulia which is part of Alba County, Romania. The capital of Romania is Bucharest and the country's leader is Klaus Iohannis. One of the ethnic groups here are the Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id48" shape="(X (X (X)) (X (X) (X) (X)))" shape_type="mixed" size="6">
@@ -1105,7 +1105,7 @@
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Romania's ethnic group is the Germans of Romania and the country is led by Klaus Iohannis. 1 Decembrie 1918 University is located in Romania which has Bucharest as its capital. The Latin name for the school is Universitas Apulensis and it can be found in the state of Alba.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania">The 1 Decembrie 1918 University is in Alba Romania has the latin name Universitas Apulensis. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has also Germans in the population.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Alba Romania has the latin name Universitas Apulensis. The country's capital is Bucharest and the leader is Klaus Iohannis. Ethnically the country has also Germans in the population.</lex>
       <lex comment="good" lid="Id3">The 1 Decembrie 1918 University (Latin name Universitas Apulensis) is found in the state of Alba, Romania. This country has Bucharest as its capital and the country's leader is Klaus Iohannis. Romania has an ethnic group called Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id50" shape="(X (X (X (X) (X) (X) (X))))" shape_type="mixed" size="6">
@@ -1127,7 +1127,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Alba Iulia, Romania. Romania's capital is Bucharest, its leader is Prime Minister Klaus Iohannis, and its ethnic group is Germans of Romania.</lex>
       <lex comment="good" lid="Id2">Prime Minister Klaus Iohannis is the leader of Romania which is home to various ethnic groups including the Germans of Romania. The 1 Decembrie 1918 University if located in the city of Alba Iulia, while the capital city is Bucharest.</lex>
-      <lex comment="good" lid="Id3" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has also Germans living in it.</lex>
+      <lex comment="good" lid="Id3">The 1 Decembrie 1918 University is in Alba Iulia, Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has also Germans living in it.</lex>
     </entry>
     <entry category="University" eid="Id51" shape="(X (X (X) (X) (X) (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -1171,7 +1171,7 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The Germans of Romania are the ethnic group of the country which is led by Prime Minister Klaus Iohannisas and has Bucharest as its capital. 1 Decembrie 1918 University is also in Romania and the country's anthem is Deșteaptă-te, române.</lex>
-      <lex comment="good" lid="Id2" error_1="Germans of Romania" error_2="Prime Minister of Romania">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has Germanic population and the national anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is in Romania. The country's capital is Bucharest and the Prime Minister is Klaus Iohannis. Ethnically the country has Germanic population and the national anthem is Deșteaptă-te, române!</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is in the country of Romania, the capital of which is Bucharest. Romania's leader (who has the title Prime Minister) is Klaus Iohannis. The national anthem of Romania is Deșteaptă-te, române! and the country has an ethnic group called Germans of Romania.</lex>
     </entry>
     <entry category="University" eid="Id52" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">

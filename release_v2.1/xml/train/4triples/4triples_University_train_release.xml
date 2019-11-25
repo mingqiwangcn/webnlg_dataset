@@ -777,7 +777,7 @@
         <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The School of Business and Social Sciences at the Aarhus University is in Denmark, the country whose leaders name is Lars Løkke Rasmussen (he has the title Monarchy of Denmark). The Church of Denmark is the main religion of the country.</lex>
-      <lex comment="good" lid="Id2" error_1="Monarchy of Denmark">The School of Business and Social Sciences at the Aarhus University is in Denmark. The country is led by its Monarch, Lars Løkke Rasmussen and residents follow the Church of Denmark.</lex>
+      <lex comment="good" lid="Id2">The School of Business and Social Sciences at the Aarhus University is in Denmark. The country is led by its Monarch, Lars Løkke Rasmussen and residents follow the Church of Denmark.</lex>
     </entry>
     <entry category="University" eid="Id45" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -872,7 +872,7 @@
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germans of Romania">The 1 Decembrie 1918 University is located in Romania. The country's leader is Klaus Iohannis and the national anthem is Deșteaptă-te, române!. Its ethnic group is German.</lex>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Romania. The country's leader is Klaus Iohannis and the national anthem is Deșteaptă-te, române!. Its ethnic group is German.</lex>
       <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania. Romania's ethnic group is the Germans of Romania; its leader is Klaus Iohannis and its anthem is Desteapta-te, romane!</lex>
     </entry>
     <entry category="University" eid="Id51" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -911,8 +911,8 @@
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Prime Minister Klaus Iohannis leads the country of Romania which has "Desteapta-te, romane!" as its national anthem and is the location of the 1 Decembrie 1918 University.</lex>
-      <lex comment="good" lid="Id2" error_1="Prime Minister of Romania">The 1 Decembrie 1918 University is located in Romania. The Prime Minister is named Klaus Iohannis and the national anthem is Deșteaptă-te, române!.</lex>
-      <lex comment="good" lid="Id3" error_1="Prime Minister of Romania">The Romania Prime Minister is Klaus Iohannis and he attended 1 Decembrie 1918 University in Romania. Its anthem is called Deșteaptă-te române.</lex>
+      <lex comment="good" lid="Id2">The 1 Decembrie 1918 University is located in Romania. The Prime Minister is named Klaus Iohannis and the national anthem is Deșteaptă-te, române!.</lex>
+      <lex comment="good" lid="Id3">The Romania Prime Minister is Klaus Iohannis and he attended 1 Decembrie 1918 University in Romania. Its anthem is called Deșteaptă-te române.</lex>
     </entry>
     <entry category="University" eid="Id53" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -927,7 +927,7 @@
         <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
         <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Prime Minister of Romania">The 1 Decembrie 1918 University is located in Romania. Romania's capital is Bucharest, its anthem is Desteapta-te romane! and its leader is the Prime Minister.</lex>
+      <lex comment="good" lid="Id1">The 1 Decembrie 1918 University is located in Romania. Romania's capital is Bucharest, its anthem is Desteapta-te romane! and its leader is the Prime Minister.</lex>
       <lex comment="good" lid="Id2">The Prime Minister of Romania leads the country which has Bucharest as its capital city. The Romanian anthem is "Desteapta-te romane!" and the country is the location of the 1 Decembrie 1918 University.</lex>
       <lex comment="good" lid="Id3">1 Decembrie 1918 University is located in Romania. The capital of the country is Bucharest, its leader is the Prime Minister and the national anthem is Deșteaptă-te, române!.</lex>
     </entry>

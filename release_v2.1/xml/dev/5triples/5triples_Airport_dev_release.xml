@@ -160,7 +160,7 @@
         <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules. And Lockheed AC-130 can be found on USAF aircraft carriers. Both the Korean War and the Invasion of Grenada involved the United States Air Force which currently operates the Al Asad Airbase.</lex>
-      <lex comment="good" lid="Id2" error_1="Invasion of Grenada">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers are Lockheed AC-130 which is an attack aircraft and the Lockheed C-130 Hercules which is a transport plane.</lex>
+      <lex comment="good" lid="Id2">The USAF which fought in the Korean War and invaded Grenada, operates the Al Asad airbase. Among the aircraft found on USAF carriers are Lockheed AC-130 which is an attack aircraft and the Lockheed C-130 Hercules which is a transport plane.</lex>
       <lex comment="good" lid="Id3">Al Asad Airbase is operated by the United States Air Force and uses Lockheed AC-130 attack aircraft and Lockheed C-130 Hercules transport aircraft. The USAF participated in the Korean War and the Invasion of Grenada.</lex>
     </entry>
     <entry category="Airport" eid="Id9" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
@@ -435,7 +435,7 @@
         <mtriple>Appleton_International_Airport | cityServed | Appleton,_Wisconsin</mtriple>
         <mtriple>Greenville,_Wisconsin | isPartOf | Clayton,_Winnebago_County,_Wisconsin</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Menasha (town), Wisconsin">The city of Appleton is served by Appleton International Airport in Greenville (part of Menasha), Clayton Winnebago County, Wisconsin, United States.</lex>
+      <lex comment="good" lid="Id1">The city of Appleton is served by Appleton International Airport in Greenville (part of Menasha), Clayton Winnebago County, Wisconsin, United States.</lex>
       <lex comment="good" lid="Id2">Appleton, Wisconsin is served by Appleton International Airport which is located in Greenville (part of Menasha town), Clayton Winnebago County, Wisconsin, USA.</lex>
     </entry>
     <entry category="Airport" eid="Id20" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">

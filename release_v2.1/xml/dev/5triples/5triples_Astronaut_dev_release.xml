@@ -167,9 +167,9 @@
         <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
         <mtriple>University_of_Texas_at_Austin | compete in | Big_12_Conference</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="List of counties in Texas">Elliot See was born in Dallas, which is a county in Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas system. The University of Texas at Austin will be part of the Big 12 Conference competition.</lex>
-      <lex comment="good" lid="Id2" error_1="List of counties in Texas">Elliot See was born in Dallas county, Texas and attended the University of Texas at Austin (affiliated to the University of Texas system) which competed in the Big 12 conference.</lex>
-      <lex comment="good" lid="Id3" error_1="List of counties in Texas">Elliot See, who was born in Dallas county, Texas, attended the University of Texas at Austin (affiliated to the University of Texas system) which will compete in the big 12 conference.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born in Dallas, which is a county in Texas. He attended the University of Texas at Austin, which is affiliated to the University of Texas system. The University of Texas at Austin will be part of the Big 12 Conference competition.</lex>
+      <lex comment="good" lid="Id2">Elliot See was born in Dallas county, Texas and attended the University of Texas at Austin (affiliated to the University of Texas system) which competed in the Big 12 conference.</lex>
+      <lex comment="good" lid="Id3">Elliot See, who was born in Dallas county, Texas, attended the University of Texas at Austin (affiliated to the University of Texas system) which will compete in the big 12 conference.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

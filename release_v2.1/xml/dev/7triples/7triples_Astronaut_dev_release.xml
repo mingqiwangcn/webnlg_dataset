@@ -43,7 +43,7 @@
         <mtriple>Alan_Bean | status | "Retired"</mtriple>
         <mtriple>Alan_Bean | almaMater | "UT Austin, B.S. 1955"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Retired">Alan Bean was born in Wheeler, Texas and attended UT Austin where he graduated in 1955 with a BS. Prior to his retirement he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 alongside commander David Scott.</lex>
+      <lex comment="good" lid="Id1">Alan Bean was born in Wheeler, Texas and attended UT Austin where he graduated in 1955 with a BS. Prior to his retirement he served as a test pilot and was selected by NASA to serve as a crew member on Apollo 12 alongside commander David Scott.</lex>
     </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="7">
       <originaltripleset>
@@ -220,7 +220,7 @@
         <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
         <mtriple>Elliot_See | status | "Deceased"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="University of Texas System" error_2="University of Texas at Austin">Elliot See was born on July 23, 1927 in Dallas. He graduated from U of Texas at Austin which is part of the U of Texas system. He worked as a test pilot before he died in St. Louis.</lex>
+      <lex comment="good" lid="Id1">Elliot See was born on July 23, 1927 in Dallas. He graduated from U of Texas at Austin which is part of the U of Texas system. He worked as a test pilot before he died in St. Louis.</lex>
       <lex comment="good" lid="Id2">Elliot See was born in Dallas on July 23rd, 1927. He attended UT at Austin, which is affiliated with the University of Texas system. He was a test pilot, who died in St. Louis.</lex>
       <lex comment="good" lid="Id3">Elliot See has died in St Louis. He was born in Dallas on 23 July 1927 and graduated from University of Texas at Austin which is affiliated with the University of Texas system prior to serving as a test pilot.</lex>
     </entry>

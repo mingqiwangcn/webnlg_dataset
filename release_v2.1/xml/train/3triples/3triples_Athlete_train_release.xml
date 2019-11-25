@@ -102,9 +102,9 @@
         <mtriple>Aaron_Hunt | youthclub | SV_Werder_Bremen</mtriple>
         <mtriple>Aaron_Hunt | club | Hamburger_SV</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Germany national youth football team">Aaron Hunt, who played for the SV Werder Bremen youth team, is now in the German national youth team and plays for Hamburger SV.</lex>
-      <lex comment="good" lid="Id2" error_1="Germany national youth football team">Aaron Hunt, who played for Hamburger SV, belongs to the youth club SV Werder Bremen and plays for the German national youth football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Germany national youth football team">Aaron Hunt has played for Hamburger SV and SV Werder Bremen youth team, also represented Germany at youth level.</lex>
+      <lex comment="good" lid="Id1">Aaron Hunt, who played for the SV Werder Bremen youth team, is now in the German national youth team and plays for Hamburger SV.</lex>
+      <lex comment="good" lid="Id2">Aaron Hunt, who played for Hamburger SV, belongs to the youth club SV Werder Bremen and plays for the German national youth football team.</lex>
+      <lex comment="good" lid="Id3">Aaron Hunt has played for Hamburger SV and SV Werder Bremen youth team, also represented Germany at youth level.</lex>
     </entry>
     <entry category="Athlete" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -361,7 +361,7 @@
         <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Born on May 30th 1996, footballer, Abner, played for the Brazil national under-17 football team and plays for the Coritiba Football club.</lex>
-      <lex comment="good" lid="Id2" error_1="Coritiba Foot Ball Club">Abner was born on 30 May 1996 and plays for the Coritiba Fooball club and the Brazil national under 17 team.</lex>
+      <lex comment="good" lid="Id2">Abner was born on 30 May 1996 and plays for the Coritiba Fooball club and the Brazil national under 17 team.</lex>
     </entry>
     <entry category="Athlete" eid="Id25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -435,7 +435,7 @@
         <mtriple>Abner_(footballer) | birthDate | 1996-05-30</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">The footballer Abner was born on 30/05/1996 and plays for Real Madrid Castilla and the Coritiba football club.</lex>
-      <lex comment="good" lid="Id2" error_1="Coritiba Foot Ball Club">Abner, who was born on 30 May 1996, formerly played for Real Madrid Castilla, and now for Coritiba FC.</lex>
+      <lex comment="good" lid="Id2">Abner, who was born on 30 May 1996, formerly played for Real Madrid Castilla, and now for Coritiba FC.</lex>
       <lex comment="good" lid="Id3">Born, 30th May 1996, the footballer, Abner, plays for Coritiba Football Club and for Real Madrid Castilla.</lex>
     </entry>
     <entry category="Athlete" eid="Id30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -449,8 +449,8 @@
         <mtriple>Adam_Maher | birthPlace | Netherlands</mtriple>
         <mtriple>Adam_Maher | club | AZ_Alkmaar</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Netherlands national under-17 football team">Adam Maher, whose club is AZ Alkmaar, was born in the Netherlands and played for the country's national under 17 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Netherlands national under-17 football team">Netherlands born Adam Maher played for their national under 17 football team and is connected to the AZ Alkmaar club.</lex>
+      <lex comment="good" lid="Id1">Adam Maher, whose club is AZ Alkmaar, was born in the Netherlands and played for the country's national under 17 football team.</lex>
+      <lex comment="good" lid="Id2">Netherlands born Adam Maher played for their national under 17 football team and is connected to the AZ Alkmaar club.</lex>
     </entry>
     <entry category="Athlete" eid="Id31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -637,7 +637,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Al-Naft</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad was born on 1st July 1976, is in the Al-Naft Club and plays for Al-Jaish SC in Syria.</lex>
-      <lex comment="good" lid="Id2" error_1="Al-Jaish SC (Syria)">Born on the 01-07-1976, Ahmad Kadhim Assad, whose club is Al-Naft, plays for the Syrian club Al Jaish SC.</lex>
+      <lex comment="good" lid="Id2">Born on the 01-07-1976, Ahmad Kadhim Assad, whose club is Al-Naft, plays for the Syrian club Al Jaish SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id42" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -651,7 +651,7 @@
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad, who plays for Al-Quwa Al-Jawiya, formerly played for Esteghlal Ahvaz F.C. who are managed by Adnan Hamad.</lex>
-      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he plays for Al-Quwa Al-Jawiya.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C managed by Adnan Hamad, and he plays for Al-Quwa Al-Jawiya.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for the club Al-Quwa Al-Jawiya and for Esteghlal Ahvaz F.C., which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id43" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -666,8 +666,8 @@
         <mtriple>Al-Zawra'a_SC | manager | Basim_Qasim</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz FC and also Al-Zawra'a SC which is managed by Basim Qasim.</lex>
-      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C and he plays for Al-Zawra'a SC who are managed by Basim Qasim.</lex>
-      <lex comment="good" lid="Id3" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz F C and Al-Zawra'a SC, which is managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C and he plays for Al-Zawra'a SC who are managed by Basim Qasim.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad's clubs are Esteghlal Ahvaz F C and Al-Zawra'a SC, which is managed by Basim Qasim.</lex>
     </entry>
     <entry category="Athlete" eid="Id44" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -681,8 +681,8 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Ahmad Kadhim Assad plays for Al Shorta SC but used to play for Esteghlal Ahvaz F.C., which was managed by Adnan Hamad.</lex>
-      <lex comment="good" lid="Id2" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad belongs to the clubs, Esteghlal Ahvaz F C and Al Shorta SC. The former, has Adnan Hamad as the manager.</lex>
-      <lex comment="good" lid="Id3" error_1="Esteghlal Ahvaz F.C.">Ahmad Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
+      <lex comment="good" lid="Id2">Ahmad Kadhim Assad belongs to the clubs, Esteghlal Ahvaz F C and Al Shorta SC. The former, has Adnan Hamad as the manager.</lex>
+      <lex comment="good" lid="Id3">Ahmad Kadhim Assad plays for Al Shorta SC and his club is Esteghlal Ahvaz F C, which is managed by Adnan Hamad.</lex>
     </entry>
     <entry category="Athlete" eid="Id45" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -766,7 +766,7 @@
         <mtriple>Esteghlal_Ahvaz_F.C. | manager | Adnan_Hamad</mtriple>
         <mtriple>Ahmad_Kadhim_Assad | club | Esteghlal_Ahvaz_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Esteghlal Ahvaz F.C." error_2="Steel Azin F.C.">Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).</lex>
+      <lex comment="good" lid="Id1">Ahmad Kadhim Assad is associated with Steel Azin F.C and Esteghlal Ahvaz F C (manager: Adnan Hamad).</lex>
       <lex comment="good" lid="Id2">Ahmad Kadhim Assad's club is Esteghlal Ahvaz F C which is managed by Adnan Hamad. He also plays for Steel Azin FC.</lex>
       <lex comment="good" lid="Id3">Ahmad Kadhim Assad played for Steel Azin FC and is part of Esteghlal Ahvaz FC where Adnan Hamad is the manager.</lex>
     </entry>
@@ -840,8 +840,8 @@
         <mtriple>Akeem_Adams | club | Trinidad_and_Tobago_national_under-17_football_team</mtriple>
         <mtriple>Akeem_Adams | birthPlace | "Point Fortin, Trinidad and Tobago"</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Trinidad and Tobago national under-17 football team">Akeem Adams was born in Point Fortin, Trinidad and Tobago and his clubs are the Ferencvarosi TC and the Trinidad and Tobago national under 17 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Trinidad and Tobago national under-17 football team">Akeem Adams, who was born in Point Fortin, Trinidad and Tobago, played for his country's national under 17 football team and currently for Ferencvarosi TC.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams was born in Point Fortin, Trinidad and Tobago and his clubs are the Ferencvarosi TC and the Trinidad and Tobago national under 17 football team.</lex>
+      <lex comment="good" lid="Id2">Akeem Adams, who was born in Point Fortin, Trinidad and Tobago, played for his country's national under 17 football team and currently for Ferencvarosi TC.</lex>
     </entry>
     <entry category="Athlete" eid="Id54" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1255,7 +1255,7 @@
         <mtriple>Akeem_Priestley | club | Harbour_View_F.C.</mtriple>
         <mtriple>Akeem_Priestley | youthclub | Connecticut_Huskies</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Harbour View F.C.">Akeem Priestley's club is Harbour View F.C and he is also in the Jacksonville Dolphins Club, having formerly played for the Connecticut Huskies youth club.</lex>
+      <lex comment="good" lid="Id1">Akeem Priestley's club is Harbour View F.C and he is also in the Jacksonville Dolphins Club, having formerly played for the Connecticut Huskies youth club.</lex>
       <lex comment="good" lid="Id2">Akeem Priestley, who played for the Connecticut Huskies youth team, is a player for the Harbour View F.C. and is in the Jacksonville Dolphins club.</lex>
       <lex comment="good" lid="Id3">Akeem Priestley, played for the Connecticut Huskies youth team and plays for Jacksonville Dolphins. His club is Harbour View F.C.</lex>
     </entry>
@@ -1510,8 +1510,8 @@
         <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-23_football_team</mtriple>
         <mtriple>Alaa_Abdul-Zahra | club | Al_Kharaitiyat_SC</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Iraq national under-23 football team">Iraq born Alaa Abdul Zahra's club is AL Kharaitiyat SC and he plays for the Iraq national under 23 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Alaa Abdul Zahra, born in Iraq, plays for Al Kharaitiyat SC and the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id1">Iraq born Alaa Abdul Zahra's club is AL Kharaitiyat SC and he plays for the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra, born in Iraq, plays for Al Kharaitiyat SC and the Iraq national under 23 football team.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra's club is AL Kharaitiyat SC. He was born in Iraq and plays for the Iraq national under-23 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id95" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1540,7 +1540,7 @@
         <mtriple>Alaa_Abdul-Zahra | club | Sanat_Mes_Kerman_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Iraq born Alaa Abdul Zahra plays for the Iraq national under-23 football team and for Sanat Mes Kerman FC.</lex>
-      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Iraqi born Alaa Abdul Zahra is a member of both the Iraq national under 23 football team and the Sanat Mes Kerman FC.</lex>
+      <lex comment="good" lid="Id2">Iraqi born Alaa Abdul Zahra is a member of both the Iraq national under 23 football team and the Sanat Mes Kerman FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id97" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1555,7 +1555,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul Zahra was born in Iraq and has played for Al-Wakrah Sport Club and Tractor Sazi FC.</lex>
       <lex comment="good" lid="Id2">Iraq born Alaa Abdul Zahra who plays for the Al-Wakrah Sport Club, formerly played for Tractor Sazi FC.</lex>
-      <lex comment="good" lid="Id3" error_1="Al-Wakrah Sport Club">Iraq born Alaa Abdul Zahra's club is Tractor Sazi FC and he plays for Al-Wakrah Sports Club.</lex>
+      <lex comment="good" lid="Id3">Iraq born Alaa Abdul Zahra's club is Tractor Sazi FC and he plays for Al-Wakrah Sports Club.</lex>
     </entry>
     <entry category="Athlete" eid="Id98" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1651,9 +1651,9 @@
         <mtriple>Al_Kharaitiyat_SC | ground | Al_Khor</mtriple>
         <mtriple>Alaa_Abdul-Zahra | club | Iraq_national_under-23_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for Al Kharaitiyat SC whose home ground is Al Khor. He also plays for the Iraq national under 23 football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for his club AL Kharaitiyat SC, located in Al Khor and for the Iraq national under 23 football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Iraq national under-23 football team">Alaa Abdul Zahra plays for the Iraq national under 23 football team. His club is AL Kharaitiyat SC which has its grounds at Al Khor.</lex>
+      <lex comment="good" lid="Id1">Alaa Abdul Zahra plays for Al Kharaitiyat SC whose home ground is Al Khor. He also plays for the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for his club AL Kharaitiyat SC, located in Al Khor and for the Iraq national under 23 football team.</lex>
+      <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for the Iraq national under 23 football team. His club is AL Kharaitiyat SC which has its grounds at Al Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id104" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1672,7 +1672,7 @@
         <mtriple>Al-Khor_Sports_Club | ground | Al_Khor</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alaa Abdul Zahra's club is AL Kharaitiyat SC and he is also in the Al-Khor Sports Club located in Al-Khor.</lex>
-      <lex comment="good" lid="Id2" error_1="Al Kharaitiyat SC">Alaa Abdul Zahra plays for Al-Khor and Al Kharaitiyat Sports Clubs. The location of the Al-Khor sports club ground is in Al Khor.</lex>
+      <lex comment="good" lid="Id2">Alaa Abdul Zahra plays for Al-Khor and Al Kharaitiyat Sports Clubs. The location of the Al-Khor sports club ground is in Al Khor.</lex>
       <lex comment="good" lid="Id3">Alaa Abdul Zahra plays for Al Kharaitiyat SC and also Al-Khor Sports Club located in Al-Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id105" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1865,9 +1865,9 @@
         <mtriple>Motherwell_F.C. | ground | Fir_Park</mtriple>
         <mtriple>Alan_Martin_(footballer) | club | Scotland_national_under-21_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Scotland national under-21 football team">Alan Martin, who plays in the Scottish National under 21 football team, also plays for his club Motherwell FC at Fir Park.</lex>
-      <lex comment="good" lid="Id2" error_1="Motherwell F.C." error_2="Scotland national under-21 football team">Alan Martin played for the Scotland national under 21 football team and also Motherwell Football Club whose home ground is Fir Park.</lex>
-      <lex comment="good" lid="Id3" error_1="Motherwell F.C." error_2="Scotland national under-21 football team">The footballer Alan Martin played for Motherwell Football Club at their Fir Park ground and is currently a member of the Scottish National under 21 football team.</lex>
+      <lex comment="good" lid="Id1">Alan Martin, who plays in the Scottish National under 21 football team, also plays for his club Motherwell FC at Fir Park.</lex>
+      <lex comment="good" lid="Id2">Alan Martin played for the Scotland national under 21 football team and also Motherwell Football Club whose home ground is Fir Park.</lex>
+      <lex comment="good" lid="Id3">The footballer Alan Martin played for Motherwell Football Club at their Fir Park ground and is currently a member of the Scottish National under 21 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id118" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -1881,8 +1881,8 @@
         <mtriple>Alan_Martin_(footballer) | club | Clyde_F.C.</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alan Martin is a footballer with the Scotland national under-19 football team club and also plays for Clyde FC who are based at the Broadwood Stadium.</lex>
-      <lex comment="good" lid="Id2" error_1="Scotland national under-19 football team">Alan Martin previously played football for the Scotland national under 19 team and currently for Clyde FC at the Broadwood Stadium.</lex>
-      <lex comment="good" lid="Id3" error_1="Scotland national under-19 football team">Alan Martin played football for Clyde FC based at the Broadwood Stadium and now plays for the Scotland national under 19 football team.</lex>
+      <lex comment="good" lid="Id2">Alan Martin previously played football for the Scotland national under 19 team and currently for Clyde FC at the Broadwood Stadium.</lex>
+      <lex comment="good" lid="Id3">Alan Martin played football for Clyde FC based at the Broadwood Stadium and now plays for the Scotland national under 19 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id119" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -1956,7 +1956,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandr Chumakov was born in the Soviet Union, in 1948. Aleksandr Chumakov's club is the Soviet Union national football team.</lex>
       <lex comment="good" lid="Id2">Aleksandr Chumakov was born in 1948 in the Soviet Union was a member of the Soviet Union national football team.</lex>
-      <lex comment="good" lid="Id3" error_1="Soviet Union national football team">Aleksandr Chumakov was born in 1948 in the Soviet Union and represented his country at football.</lex>
+      <lex comment="good" lid="Id3">Aleksandr Chumakov was born in 1948 in the Soviet Union and represented his country at football.</lex>
     </entry>
     <entry category="Athlete" eid="Id124" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2260,7 +2260,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Aleksandre Guruli's height is 178.0 cm, his club is FC Karpaty Lviv and he is a member of the Georgia national football team.</lex>
       <lex comment="good" lid="Id2">At 178.0 cm tall, Aleksandre Guruli, played for the Georgia national football team and plays for FC Karpaty Lviv club.</lex>
-      <lex comment="good" lid="Id3" error_1="Georgia national football team">Georgia international footballer Aleksandre Guruli is 178cm tall and has played for FC Karpaty Lviv.</lex>
+      <lex comment="good" lid="Id3">Georgia international footballer Aleksandre Guruli is 178cm tall and has played for FC Karpaty Lviv.</lex>
     </entry>
     <entry category="Athlete" eid="Id143" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2486,8 +2486,8 @@
         <mtriple>Alessio_Romagnoli | club | A.C._Milan</mtriple>
         <mtriple>Alessio_Romagnoli | birthPlace | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italy">Italian born Alessio Romagnoli played for the Italian national under 16 football team and is a member of the A.C. Milan club.</lex>
-      <lex comment="good" lid="Id2" error_1="Italy">Italian born Alessio Romagnoli represented his country at Under 16 level and later played for AC Milan.</lex>
+      <lex comment="good" lid="Id1">Italian born Alessio Romagnoli played for the Italian national under 16 football team and is a member of the A.C. Milan club.</lex>
+      <lex comment="good" lid="Id2">Italian born Alessio Romagnoli represented his country at Under 16 level and later played for AC Milan.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli, who plays for A.C. Milan, was born in Italy and played for the Italy national under 16 football team.</lex>
     </entry>
     <entry category="Athlete" eid="Id157" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2501,8 +2501,8 @@
         <mtriple>Alessio_Romagnoli | club | A.S._Roma</mtriple>
         <mtriple>Alessio_Romagnoli | birthPlace | Italy</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Italy">Italian born, Alessio Romagnoli, played for the Italian national under 16 football team and is a member of A.S. Roma.</lex>
-      <lex comment="good" lid="Id2" error_1="Italy">Italian born Alessio Romagnoli is a member of AS Roma and is in the country's national under 16 football team.</lex>
+      <lex comment="good" lid="Id1">Italian born, Alessio Romagnoli, played for the Italian national under 16 football team and is a member of A.S. Roma.</lex>
+      <lex comment="good" lid="Id2">Italian born Alessio Romagnoli is a member of AS Roma and is in the country's national under 16 football team.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli was born in Italy and played for the Italy national under-16 football team but currently plays for A.S. Roma.</lex>
     </entry>
     <entry category="Athlete" eid="Id158" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2517,8 +2517,8 @@
         <mtriple>Alessio_Romagnoli | birthPlace | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Italian born, Alessio Romagnoli, is connected to UC Sampdoria and played for Italy's national under 16's football team.</lex>
-      <lex comment="good" lid="Id2" error_1="Italy">Italian born, Alessio Romagnoli, who played for the Italian national under 16 football team, plays for the club U.C. Sampdoria.</lex>
-      <lex comment="good" lid="Id3" error_1="Italy">Italian born, Alessio Romagnoli, who played for the Italian national under-16 football team, plays for the club U.C. Sampdoria.</lex>
+      <lex comment="good" lid="Id2">Italian born, Alessio Romagnoli, who played for the Italian national under 16 football team, plays for the club U.C. Sampdoria.</lex>
+      <lex comment="good" lid="Id3">Italian born, Alessio Romagnoli, who played for the Italian national under-16 football team, plays for the club U.C. Sampdoria.</lex>
     </entry>
     <entry category="Athlete" eid="Id159" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2646,7 +2646,7 @@
         <mtriple>Alessio_Romagnoli | birthPlace | Italy</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Alessio Romagnoli, born in Italy, used to play for the Italy national under-19 football team. He now plays for the club U.C. Sampdoria.</lex>
-      <lex comment="good" lid="Id2" error_1="Italy">Italian born Alessio Romagnoli's club is the country's national under 19 football team but he has also represented UC Sampdoria.</lex>
+      <lex comment="good" lid="Id2">Italian born Alessio Romagnoli's club is the country's national under 19 football team but he has also represented UC Sampdoria.</lex>
       <lex comment="good" lid="Id3">Alessio Romagnoli, born in Italy, plays for the Italy national under 19 football team and is connected to UC Sampdoria.</lex>
     </entry>
     <entry category="Athlete" eid="Id167" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2748,7 +2748,7 @@
         <mtriple>Anadolu_Efes_S.K. | coach | Dušan_Ivković</mtriple>
         <mtriple>Alex_Tyus | league | Euroleague</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Anadolu Efes S.K.">Alex Tyus plays for the Euroleague club Anadolu Efes S.K, where the coach is Dušan Ivković.</lex>
+      <lex comment="good" lid="Id1">Alex Tyus plays for the Euroleague club Anadolu Efes S.K, where the coach is Dušan Ivković.</lex>
       <lex comment="good" lid="Id2">Alex Tyus, who plays in the Euroleague, plays for Anadolu Efes S.K. which is coached by, Dušan Ivković.</lex>
       <lex comment="good" lid="Id3">Alex Tyus played in the Euroleague for the club Anadolu Efes S.K. whose coach is Dušan Ivković.</lex>
     </entry>
@@ -3244,7 +3244,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Priestley is in the Jacksonville Dolphins club and plays for the Orange County Blues FC who are managed by Oliver Wyss.</lex>
       <lex comment="good" lid="Id2">Oliver Wyss is the manager for Orange County Blues FC, the team, Akeem Priestley plays for. He also plays for Jacksonville Dolphins.</lex>
-      <lex comment="good" lid="Id3" error_1="Orange County Blues FC">Akeem Priestley is connected to the Orange County Blues Football Club, whose manager is Oliver Wyss. He now plays for Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id3">Akeem Priestley is connected to the Orange County Blues Football Club, whose manager is Oliver Wyss. He now plays for Jacksonville Dolphins.</lex>
     </entry>
     <entry category="Athlete" eid="Id205" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3257,8 +3257,8 @@
         <mtriple>Akeem_Priestley | club | Orange_County_Blues_FC</mtriple>
         <mtriple>Akeem_Priestley | club | Jamaica_national_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Jamaica national football team">Jamaican International footballer Akeem Priestley plays for Orange County Blues FC, the manager of which is Oliver Wyss.</lex>
-      <lex comment="good" lid="Id2" error_1="Orange County Blues FC">Akeem Priestley, who plays for the Jamaican national football team is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id1">Jamaican International footballer Akeem Priestley plays for Orange County Blues FC, the manager of which is Oliver Wyss.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley, who plays for the Jamaican national football team is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
     </entry>
     <entry category="Athlete" eid="Id206" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3277,7 +3277,7 @@
         <mtriple>Akeem_Priestley | club | RoPS</mtriple>
       </modifiedtripleset>
       <lex comment="good" lid="Id1">Akeem Priestley played for club RoPS and currently plays for the Orange County Blues FC, which is managed by Oliver Wyss.</lex>
-      <lex comment="good" lid="Id2" error_1="Orange County Blues FC">Akeem Priestley played for club RoPS and is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
+      <lex comment="good" lid="Id2">Akeem Priestley played for club RoPS and is connected to the Orange County Blues Football Club which is managed by Oliver Wyss.</lex>
     </entry>
     <entry category="Athlete" eid="Id207" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3310,8 +3310,8 @@
         <mtriple>Adam_Maher | club | PSV_Eindhoven</mtriple>
         <mtriple>Adam_Maher | club | Netherlands_national_under-17_football_team</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="Netherlands national under-17 football team">Adam Maher's club is PSV Eindhoven which is managed by Phillip Cocu, and he plays for the Netherlands National club for players under 17.</lex>
-      <lex comment="good" lid="Id2" error_1="Netherlands national under-17 football team">Phillip Cocu is the manager of PSV Eindhoven, the club of Adam Maher, who plays for the Netherlands National under - 17.</lex>
+      <lex comment="good" lid="Id1">Adam Maher's club is PSV Eindhoven which is managed by Phillip Cocu, and he plays for the Netherlands National club for players under 17.</lex>
+      <lex comment="good" lid="Id2">Phillip Cocu is the manager of PSV Eindhoven, the club of Adam Maher, who plays for the Netherlands National under - 17.</lex>
     </entry>
     <entry category="Athlete" eid="Id209" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3394,7 +3394,7 @@
         <mtriple>Akeem_Adams | club | United_Petrotrin_F.C.</mtriple>
         <mtriple>Akeem_Adams | club | Central_F.C.</mtriple>
       </modifiedtripleset>
-      <lex comment="good" lid="Id1" error_1="United Petrotrin F.C.">Akeem Adams played for United Petrotrin F.C in Palo Seco Velodrome and Central F.C.</lex>
+      <lex comment="good" lid="Id1">Akeem Adams played for United Petrotrin F.C in Palo Seco Velodrome and Central F.C.</lex>
       <lex comment="good" lid="Id2">Akeem Adams is a member of the United Petrotrin F.C. club, (Central F.C.). United Petrotrin FC's ground is Palo Seco Velodrome.</lex>
       <lex comment="good" lid="Id3">Akeem Adams now plays for Central FC but previously for United Petrotrin FC whose ground is the Palo Seco Velodrome.</lex>
     </entry>
