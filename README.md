@@ -4,7 +4,7 @@ This repository presents the evolution of the WebNLG corpus.
 
 Each folder contains *the same data* in two formats: `xml` and `json`.
 
-* 25 November 2019: `release_v2.1` (16,095 data inputs and 42,873 data-text pairs) and `release_v2_constrained`
+* 25 November 2019: `release_v2.1` (16,095 data inputs and 42,873 data-text pairs) and `release_v2.1_constrained`
 
 	It is the latest release. It has the same data as release_v2 and release_v2_constrained.
 
