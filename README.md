@@ -8,7 +8,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 	It is the latest release. It has the same data as release_v2.
 
-	5,604 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
+	5,667 texts were cleaned: misspellings were corrected and missing verbalisations were added to some texts. More in this [README](./release_v2.1/README.md).
 
 * 14 September 2018: `release_v2` (16,095 data inputs and 42,892 data-text pairs)
 

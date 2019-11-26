@@ -3,7 +3,7 @@ The WebNLG_version2.1 dataset contains 16,095 data inputs and 42,873 data-text p
 Changes compared to version2:
 
 Typos were corrected; missing verbalisations for triples were added.
-In total, 5,604 texts were modified. 19 texts were deleted, since, after correction, they matched other texts for the same data input.
+In total, 5,667 texts were modified. 19 texts were deleted, since, after correction, they matched other texts for the same data input.
 
 More on changes:
 * correct typos spotted by Abelardo Vieira Mota ([here](https://github.com/abevieiramota/challenge-webnlg/blob/master/notebook/14%20-%20Searching%20misspellings%20in%20references.ipynb)) and Amit Moryossef ([here](https://github.com/AmitMY/chimera/blob/d44eff6d09b89b9c6cd3f357c22ab94b92df25ae/data/WebNLG/reader.py#L70))
