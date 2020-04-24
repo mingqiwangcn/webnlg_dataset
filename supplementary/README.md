@@ -20,8 +20,6 @@ Empty cell in the second column means that triples containing the original prope
 
 ## Entities (subjects and objects)
 
-### Substitutions
-
 Revisions made to original subjects and objects are documented in `dbp-substitute-*.txt` files.
 
 The files have the following structure: `original entity | modified entity`.
