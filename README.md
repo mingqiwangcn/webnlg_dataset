@@ -26,8 +26,6 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 * 22 January 2018: `release_v1` (14,237 data inputs and 37,975 data-text pairs)
 
-	It matches Final Release (Larger Dataset) on the [challenge website](http://webnlg.loria.fr/pages/results.html).
-
 	It doesn't include test data (seen categories) from the challenge.
 
 	No split into train/dev/test was provided.
@@ -36,7 +34,7 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 * 14 April 2017: `webnlg_challenge_2017` (9,674 data inputs and 25,298 data-text pairs)
 
-	Contains the data used in the [WebNLG Challenge 2017](http://webnlg.loria.fr/pages/results.html).
+	Contains the data used in the [WebNLG Challenge 2017](https://webnlg-challenge.loria.fr/challenge_2017/).
 	
 	Covers 10 DBpedia categories (the _City_ category only partially).
 	
@@ -44,7 +42,11 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 ## Documentation
 
-[http://webnlg.loria.fr/pages/docs.html](http://webnlg.loria.fr/pages/docs.html)
+<https://webnlg-challenge.loria.fr/docs/>
+
+### WebNLG XML Reader
+
+<https://gitlab.com/webnlg/corpus-reader>
 
 ### Other related resources
 * Enriched version of WebNLG (referring expressions, delexicalised templates, German silver-standard translation, etc): [link](https://github.com/ThiagoCF05/webnlg)
@@ -103,4 +105,6 @@ Those were corrected in the release_v2.1.
 * or create an issue in this repository
 
 ## Contribute
-If you work with WebNLG and spot an error somewhere, do not hesitate to write to us or create a PR. Your changes will be integrated in a new WebNLG version. 
+If you work with WebNLG and spot an error somewhere, do not hesitate to write to us or create a PR. Your changes will be integrated in a new WebNLG version.
+
+New release is usually prepared in a new branch. Have a look at branches to see recent corrections in the corpus.
