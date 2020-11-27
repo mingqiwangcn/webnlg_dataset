@@ -4,6 +4,10 @@ This repository presents the evolution of the WebNLG corpus.
 
 Each folder contains *the same data* in two formats: `xml` and `json`.
 
+* 27 November 2020: `release_v3.0` 
+
+	WebNLG+ data used in the [WebNLG challenge 2020](https://webnlg-challenge.loria.fr/Challenge_2020/): bi-lingual (English, Russian) and bi-directional (generation and parsing). More in this [README](./release_v3.0/README.md).
+
 * 25 November 2019: `release_v2.1` (16,095 data inputs and 42,873 data-text pairs) and `release_v2.1_constrained`
 
 	It is the latest release. It has the same data as release_v2 and release_v2_constrained.
