@@ -89,7 +89,7 @@ Those were corrected in the release_v2.1.
 }
 ```
 
-* If you use _release_*_constrained_ in particular, please cite
+* If you use _release\_*\_constrained_ in particular, please cite
 
 ```
 @InProceedings{shimorina2018handling,
