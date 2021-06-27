@@ -46,11 +46,15 @@ Each folder contains *the same data* in two formats: `xml` and `json`.
 
 ## Documentation
 
-<https://webnlg-challenge.loria.fr/docs/>
+* Official: <https://webnlg-challenge.loria.fr/docs/>
+* WebNLG Dataset Card at GEM: <https://gem-benchmark.com/data_cards/WebNLG>
+* WebNLG Dataset Card at HuggingFace Datasets: <https://huggingface.co/datasets/web_nlg#dataset-card-for-webnlg>
 
 ### WebNLG XML Reader
 
-<https://gitlab.com/webnlg/corpus-reader>
+* <https://gitlab.com/webnlg/corpus-reader>
+* HuggingFace dataset reader: <https://huggingface.co/datasets/viewer/?dataset=web_nlg>
+* TensorFlow dataset reader (not all WebNLG versions are supported): <https://www.tensorflow.org/datasets/catalog/web_nlg>
 
 ### Other related resources
 * Enriched version of WebNLG (referring expressions, delexicalised templates, German silver-standard translation, etc): [link](https://github.com/ThiagoCF05/webnlg)
@@ -66,7 +70,7 @@ Those were corrected in the release_v2.1.
 
 ## Citing
 
-* If you use the WebNLG corpus, cite
+* If you use the WebNLG corpus, please cite
 
 ```
 @InProceedings{gardent2017creating,
@@ -85,7 +89,7 @@ Those were corrected in the release_v2.1.
 }
 ```
 
-* If you use _release_v2_constrained_ in particular, cite
+* If you use _release_*_constrained_ in particular, please cite
 
 ```
 @InProceedings{shimorina2018handling,
